@@ -1,0 +1,275 @@
+{
+  "num": "13",
+  "titulo": "Cierre",
+  "texto": "Si esta hoja te ahorró tiempo, suscríbete: cada martes y jueves te traigo una herramienta nueva para tu trabajo. Y en el próximo video vas a conocer BUSCARX, la función que reemplaza a BUSCARV. Y recuerda: el poder de la tecnología te va a cambiar el mundo. ¡Nos vemos en el próximo video!",
+  "texto_tts": "Si esta hoja te ahorró tiempo, suscríbete: cada martes y jueves te traigo una herramienta nueva para tu trabajo. Y en el próximo video vas a conocer BUSCARX, la función que reemplaza a BUSCARV. Y recuerda: el poder de la tecnología te va a cambiar el mundo. [cheerfully] ¡Nos vemos en el próximo video! ---",
+  "modelo": "eleven_v3",
+  "duracion": 21.364,
+  "palabras": [
+    {
+      "texto": "Si",
+      "inicio": 0.0,
+      "fin": 0.16
+    },
+    {
+      "texto": "esta",
+      "inicio": 0.224,
+      "fin": 0.48
+    },
+    {
+      "texto": "hoja",
+      "inicio": 0.56,
+      "fin": 0.8
+    },
+    {
+      "texto": "te",
+      "inicio": 0.853,
+      "fin": 0.96
+    },
+    {
+      "texto": "ahorró",
+      "inicio": 0.987,
+      "fin": 1.2
+    },
+    {
+      "texto": "tiempo,",
+      "inicio": 1.269,
+      "fin": 1.92
+    },
+    {
+      "texto": "suscríbete:",
+      "inicio": 1.96,
+      "fin": 2.96
+    },
+    {
+      "texto": "cada",
+      "inicio": 3.008,
+      "fin": 3.2
+    },
+    {
+      "texto": "martes",
+      "inicio": 3.264,
+      "fin": 3.6
+    },
+    {
+      "texto": "y",
+      "inicio": 3.64,
+      "fin": 3.68
+    },
+    {
+      "texto": "jueves",
+      "inicio": 3.74,
+      "fin": 4.16
+    },
+    {
+      "texto": "te",
+      "inicio": 4.24,
+      "fin": 4.4
+    },
+    {
+      "texto": "traigo",
+      "inicio": 4.46,
+      "fin": 4.8
+    },
+    {
+      "texto": "una",
+      "inicio": 4.88,
+      "fin": 5.12
+    },
+    {
+      "texto": "herramienta",
+      "inicio": 5.164,
+      "fin": 5.68
+    },
+    {
+      "texto": "nueva",
+      "inicio": 5.733,
+      "fin": 6.0
+    },
+    {
+      "texto": "para",
+      "inicio": 6.08,
+      "fin": 6.4
+    },
+    {
+      "texto": "tu",
+      "inicio": 6.453,
+      "fin": 6.56
+    },
+    {
+      "texto": "trabajo.",
+      "inicio": 6.62,
+      "fin": 7.12
+    },
+    {
+      "texto": "Y",
+      "inicio": 7.36,
+      "fin": 7.6
+    },
+    {
+      "texto": "en",
+      "inicio": 7.627,
+      "fin": 7.68
+    },
+    {
+      "texto": "el",
+      "inicio": 7.733,
+      "fin": 7.84
+    },
+    {
+      "texto": "próximo",
+      "inicio": 7.9,
+      "fin": 8.32
+    },
+    {
+      "texto": "video",
+      "inicio": 8.387,
+      "fin": 8.72
+    },
+    {
+      "texto": "vas",
+      "inicio": 8.82,
+      "fin": 9.12
+    },
+    {
+      "texto": "a",
+      "inicio": 9.16,
+      "fin": 9.2
+    },
+    {
+      "texto": "conocer",
+      "inicio": 9.27,
+      "fin": 9.76
+    },
+    {
+      "texto": "BUSCARX,",
+      "inicio": 9.88,
+      "fin": 11.2
+    },
+    {
+      "texto": "la",
+      "inicio": 11.227,
+      "fin": 11.28
+    },
+    {
+      "texto": "función",
+      "inicio": 11.34,
+      "fin": 11.76
+    },
+    {
+      "texto": "que",
+      "inicio": 11.8,
+      "fin": 11.92
+    },
+    {
+      "texto": "reemplaza",
+      "inicio": 11.973,
+      "fin": 12.64
+    },
+    {
+      "texto": "a",
+      "inicio": 12.76,
+      "fin": 12.88
+    },
+    {
+      "texto": "BUSCARV.",
+      "inicio": 12.96,
+      "fin": 14.0
+    },
+    {
+      "texto": "Y",
+      "inicio": 14.2,
+      "fin": 14.4
+    },
+    {
+      "texto": "recuerda:",
+      "inicio": 14.46,
+      "fin": 14.96
+    },
+    {
+      "texto": "el",
+      "inicio": 15.067,
+      "fin": 15.28
+    },
+    {
+      "texto": "poder",
+      "inicio": 15.333,
+      "fin": 15.6
+    },
+    {
+      "texto": "de",
+      "inicio": 15.653,
+      "fin": 15.76
+    },
+    {
+      "texto": "la",
+      "inicio": 15.813,
+      "fin": 15.92
+    },
+    {
+      "texto": "tecnología",
+      "inicio": 15.984,
+      "fin": 16.72
+    },
+    {
+      "texto": "te",
+      "inicio": 16.853,
+      "fin": 17.12
+    },
+    {
+      "texto": "va",
+      "inicio": 17.2,
+      "fin": 17.36
+    },
+    {
+      "texto": "a",
+      "inicio": 17.4,
+      "fin": 17.44
+    },
+    {
+      "texto": "cambiar",
+      "inicio": 17.5,
+      "fin": 17.92
+    },
+    {
+      "texto": "el",
+      "inicio": 17.947,
+      "fin": 18.0
+    },
+    {
+      "texto": "mundo.",
+      "inicio": 18.053,
+      "fin": 18.56
+    },
+    {
+      "texto": "¡Nos",
+      "inicio": 19.224,
+      "fin": 19.284
+    },
+    {
+      "texto": "vemos",
+      "inicio": 19.324,
+      "fin": 19.844
+    },
+    {
+      "texto": "en",
+      "inicio": 19.897,
+      "fin": 20.004
+    },
+    {
+      "texto": "el",
+      "inicio": 20.057,
+      "fin": 20.164
+    },
+    {
+      "texto": "próximo",
+      "inicio": 20.224,
+      "fin": 20.644
+    },
+    {
+      "texto": "video!",
+      "inicio": 20.711,
+      "fin": 21.124
+    }
+  ]
+}

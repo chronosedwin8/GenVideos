@@ -1,0 +1,25 @@
+{
+  "titulo": "Título del video con la búsqueda principal",
+  "descripcion": "Respuesta en las dos primeras líneas ...\n\nEn este video aprenderás:\n...\n\nCapítulos\n0:00 Gancho\n0:32 Definición\n...\n\nFuentes\n...",
+  "tags": ["etiqueta 1", "etiqueta 2"],
+  "categoria": 27,
+  "idioma": "es",
+  "creado_para_ninos": false,
+  "contenido_sintetico": false,
+  "privacidad": "public",
+  "programar": null,
+  "playlist": "Nombre de la playlist",
+  "archivo": "render/mi-video.mp4",
+  "miniatura": "miniatura.png",
+  "subtitulos": "audio/subtitulos.srt",
+  "shorts": [
+    {
+      "id": "short-1",
+      "titulo": "Título del short #shorts",
+      "descripcion": "Video completo en el canal.",
+      "tags": ["etiqueta", "shorts"],
+      "archivo": "render/short-1.mp4",
+      "programar": null
+    }
+  ]
+}

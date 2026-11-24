@@ -1,0 +1,415 @@
+{
+  "num": "07",
+  "titulo": "Paso 4 · La jornada en una celda",
+  "texto": "Paso cuatro, las horas extra. A un lado escribe \"Jornada\" y, al frente, ocho horas. Ahora, en horas extra, escribe igual, MAX, abre paréntesis, cero, punto y coma, D dos, menos H dos. Antes de cerrar, presiona F4 para fijar la celda de la jornada con signos de dólar. ¿Y por qué MAX con cero? Porque si alguien trabajó menos de ocho horas, no queremos horas extra negativas. Arrastra hacia abajo y ¡mira! El viernes tiene cuatro horas y cuarto extra.",
+  "texto_tts": "Paso cuatro, las horas extra. A un lado escribe \"Jornada\" y, al frente, ocho horas. Ahora, en horas extra, escribe igual, MAX, abre paréntesis, cero, punto y coma, D dos, menos H dos. Antes de cerrar, presiona F4 para fijar la celda de la jornada con signos de dólar. ¿Y por qué MAX con cero? Porque si alguien trabajó menos de ocho horas, no queremos horas extra negativas. Arrastra hacia abajo y [excited] ¡mira! El viernes tiene cuatro horas y cuarto extra.",
+  "modelo": "eleven_v3",
+  "duracion": 38.88,
+  "palabras": [
+    {
+      "texto": "Paso",
+      "inicio": 0.0,
+      "fin": 0.32
+    },
+    {
+      "texto": "cuatro,",
+      "inicio": 0.366,
+      "fin": 1.12
+    },
+    {
+      "texto": "las",
+      "inicio": 1.2,
+      "fin": 1.44
+    },
+    {
+      "texto": "horas",
+      "inicio": 1.493,
+      "fin": 1.76
+    },
+    {
+      "texto": "extra.",
+      "inicio": 1.827,
+      "fin": 2.24
+    },
+    {
+      "texto": "A",
+      "inicio": 2.76,
+      "fin": 3.28
+    },
+    {
+      "texto": "un",
+      "inicio": 3.333,
+      "fin": 3.44
+    },
+    {
+      "texto": "lado",
+      "inicio": 3.488,
+      "fin": 3.68
+    },
+    {
+      "texto": "escribe",
+      "inicio": 3.733,
+      "fin": 4.16
+    },
+    {
+      "texto": "\"Jornada\"",
+      "inicio": 4.32,
+      "fin": 5.04
+    },
+    {
+      "texto": "y,",
+      "inicio": 5.36,
+      "fin": 5.76
+    },
+    {
+      "texto": "al",
+      "inicio": 5.787,
+      "fin": 5.84
+    },
+    {
+      "texto": "frente,",
+      "inicio": 5.897,
+      "fin": 6.48
+    },
+    {
+      "texto": "ocho",
+      "inicio": 6.64,
+      "fin": 6.96
+    },
+    {
+      "texto": "horas.",
+      "inicio": 7.04,
+      "fin": 7.52
+    },
+    {
+      "texto": "Ahora,",
+      "inicio": 7.893,
+      "fin": 8.96
+    },
+    {
+      "texto": "en",
+      "inicio": 9.013,
+      "fin": 9.12
+    },
+    {
+      "texto": "horas",
+      "inicio": 9.173,
+      "fin": 9.44
+    },
+    {
+      "texto": "extra,",
+      "inicio": 9.507,
+      "fin": 10.0
+    },
+    {
+      "texto": "escribe",
+      "inicio": 10.08,
+      "fin": 10.56
+    },
+    {
+      "texto": "igual,",
+      "inicio": 10.653,
+      "fin": 11.6
+    },
+    {
+      "texto": "MAX,",
+      "inicio": 11.72,
+      "fin": 12.24
+    },
+    {
+      "texto": "abre",
+      "inicio": 12.32,
+      "fin": 12.64
+    },
+    {
+      "texto": "paréntesis,",
+      "inicio": 12.68,
+      "fin": 13.76
+    },
+    {
+      "texto": "cero,",
+      "inicio": 13.84,
+      "fin": 14.24
+    },
+    {
+      "texto": "punto",
+      "inicio": 14.32,
+      "fin": 14.72
+    },
+    {
+      "texto": "y",
+      "inicio": 14.8,
+      "fin": 14.88
+    },
+    {
+      "texto": "coma,",
+      "inicio": 14.944,
+      "fin": 15.36
+    },
+    {
+      "texto": "D",
+      "inicio": 15.68,
+      "fin": 16.0
+    },
+    {
+      "texto": "dos,",
+      "inicio": 16.1,
+      "fin": 16.48
+    },
+    {
+      "texto": "menos",
+      "inicio": 16.573,
+      "fin": 17.04
+    },
+    {
+      "texto": "H",
+      "inicio": 17.28,
+      "fin": 17.52
+    },
+    {
+      "texto": "dos.",
+      "inicio": 17.6,
+      "fin": 18.0
+    },
+    {
+      "texto": "Antes",
+      "inicio": 18.24,
+      "fin": 19.04
+    },
+    {
+      "texto": "de",
+      "inicio": 19.067,
+      "fin": 19.12
+    },
+    {
+      "texto": "cerrar,",
+      "inicio": 19.184,
+      "fin": 19.68
+    },
+    {
+      "texto": "presiona",
+      "inicio": 19.728,
+      "fin": 20.16
+    },
+    {
+      "texto": "F4",
+      "inicio": 20.48,
+      "fin": 21.12
+    },
+    {
+      "texto": "para",
+      "inicio": 21.184,
+      "fin": 21.44
+    },
+    {
+      "texto": "fijar",
+      "inicio": 21.48,
+      "fin": 21.76
+    },
+    {
+      "texto": "la",
+      "inicio": 21.813,
+      "fin": 21.92
+    },
+    {
+      "texto": "celda",
+      "inicio": 22.0,
+      "fin": 22.32
+    },
+    {
+      "texto": "de",
+      "inicio": 22.347,
+      "fin": 22.4
+    },
+    {
+      "texto": "la",
+      "inicio": 22.453,
+      "fin": 22.56
+    },
+    {
+      "texto": "jornada",
+      "inicio": 22.624,
+      "fin": 23.04
+    },
+    {
+      "texto": "con",
+      "inicio": 23.12,
+      "fin": 23.36
+    },
+    {
+      "texto": "signos",
+      "inicio": 23.424,
+      "fin": 23.84
+    },
+    {
+      "texto": "de",
+      "inicio": 23.867,
+      "fin": 23.92
+    },
+    {
+      "texto": "dólar.",
+      "inicio": 23.973,
+      "fin": 24.32
+    },
+    {
+      "texto": "¿Y",
+      "inicio": 24.8,
+      "fin": 25.36
+    },
+    {
+      "texto": "por",
+      "inicio": 25.42,
+      "fin": 25.6
+    },
+    {
+      "texto": "qué",
+      "inicio": 25.64,
+      "fin": 25.76
+    },
+    {
+      "texto": "MAX",
+      "inicio": 25.86,
+      "fin": 26.16
+    },
+    {
+      "texto": "con",
+      "inicio": 26.22,
+      "fin": 26.4
+    },
+    {
+      "texto": "cero?",
+      "inicio": 26.44,
+      "fin": 26.8
+    },
+    {
+      "texto": "Porque",
+      "inicio": 27.0,
+      "fin": 27.68
+    },
+    {
+      "texto": "si",
+      "inicio": 27.733,
+      "fin": 27.84
+    },
+    {
+      "texto": "alguien",
+      "inicio": 27.88,
+      "fin": 28.16
+    },
+    {
+      "texto": "trabajó",
+      "inicio": 28.206,
+      "fin": 28.64
+    },
+    {
+      "texto": "menos",
+      "inicio": 28.733,
+      "fin": 29.2
+    },
+    {
+      "texto": "de",
+      "inicio": 29.253,
+      "fin": 29.36
+    },
+    {
+      "texto": "ocho",
+      "inicio": 29.44,
+      "fin": 29.6
+    },
+    {
+      "texto": "horas,",
+      "inicio": 29.667,
+      "fin": 30.32
+    },
+    {
+      "texto": "no",
+      "inicio": 30.373,
+      "fin": 30.48
+    },
+    {
+      "texto": "queremos",
+      "inicio": 30.528,
+      "fin": 30.96
+    },
+    {
+      "texto": "horas",
+      "inicio": 31.013,
+      "fin": 31.28
+    },
+    {
+      "texto": "extra",
+      "inicio": 31.347,
+      "fin": 31.68
+    },
+    {
+      "texto": "negativas.",
+      "inicio": 31.76,
+      "fin": 32.56
+    },
+    {
+      "texto": "Arrastra",
+      "inicio": 32.86,
+      "fin": 34.0
+    },
+    {
+      "texto": "hacia",
+      "inicio": 34.04,
+      "fin": 34.24
+    },
+    {
+      "texto": "abajo",
+      "inicio": 34.293,
+      "fin": 34.64
+    },
+    {
+      "texto": "y",
+      "inicio": 34.8,
+      "fin": 34.96
+    },
+    {
+      "texto": "¡mira!",
+      "inicio": 35.18,
+      "fin": 35.36
+    },
+    {
+      "texto": "El",
+      "inicio": 35.493,
+      "fin": 35.76
+    },
+    {
+      "texto": "viernes",
+      "inicio": 35.813,
+      "fin": 36.24
+    },
+    {
+      "texto": "tiene",
+      "inicio": 36.28,
+      "fin": 36.48
+    },
+    {
+      "texto": "cuatro",
+      "inicio": 36.571,
+      "fin": 37.12
+    },
+    {
+      "texto": "horas",
+      "inicio": 37.173,
+      "fin": 37.44
+    },
+    {
+      "texto": "y",
+      "inicio": 37.52,
+      "fin": 37.6
+    },
+    {
+      "texto": "cuarto",
+      "inicio": 37.68,
+      "fin": 38.16
+    },
+    {
+      "texto": "extra.",
+      "inicio": 38.267,
+      "fin": 38.88
+    }
+  ]
+}

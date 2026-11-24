@@ -1,0 +1,170 @@
+{
+  "num": "12",
+  "titulo": "Resumen",
+  "texto": "En resumen: RESIDUO para los turnos de noche. La jornada y el valor de la hora siempre en su propia celda. Y para los totales, hora entre corchetes y multiplicar por veinticuatro.",
+  "texto_tts": "En resumen: RESIDUO para los turnos de noche. La jornada y el valor de la hora siempre en su propia celda. Y para los totales, hora entre corchetes y multiplicar por veinticuatro.",
+  "modelo": "eleven_v3",
+  "duracion": 14.0,
+  "palabras": [
+    {
+      "texto": "En",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "resumen:",
+      "inicio": 0.14,
+      "fin": 1.16
+    },
+    {
+      "texto": "RESIDUO",
+      "inicio": 1.27,
+      "fin": 1.92
+    },
+    {
+      "texto": "para",
+      "inicio": 2.0,
+      "fin": 2.32
+    },
+    {
+      "texto": "los",
+      "inicio": 2.36,
+      "fin": 2.48
+    },
+    {
+      "texto": "turnos",
+      "inicio": 2.56,
+      "fin": 2.96
+    },
+    {
+      "texto": "de",
+      "inicio": 3.013,
+      "fin": 3.12
+    },
+    {
+      "texto": "noche.",
+      "inicio": 3.187,
+      "fin": 3.6
+    },
+    {
+      "texto": "La",
+      "inicio": 3.973,
+      "fin": 4.72
+    },
+    {
+      "texto": "jornada",
+      "inicio": 4.8,
+      "fin": 5.28
+    },
+    {
+      "texto": "y",
+      "inicio": 5.32,
+      "fin": 5.36
+    },
+    {
+      "texto": "el",
+      "inicio": 5.387,
+      "fin": 5.44
+    },
+    {
+      "texto": "valor",
+      "inicio": 5.507,
+      "fin": 5.84
+    },
+    {
+      "texto": "de",
+      "inicio": 5.867,
+      "fin": 5.92
+    },
+    {
+      "texto": "la",
+      "inicio": 5.973,
+      "fin": 6.08
+    },
+    {
+      "texto": "hora",
+      "inicio": 6.144,
+      "fin": 6.4
+    },
+    {
+      "texto": "siempre",
+      "inicio": 6.49,
+      "fin": 7.12
+    },
+    {
+      "texto": "en",
+      "inicio": 7.2,
+      "fin": 7.36
+    },
+    {
+      "texto": "su",
+      "inicio": 7.413,
+      "fin": 7.52
+    },
+    {
+      "texto": "propia",
+      "inicio": 7.577,
+      "fin": 7.92
+    },
+    {
+      "texto": "celda.",
+      "inicio": 7.96,
+      "fin": 8.88
+    },
+    {
+      "texto": "Y",
+      "inicio": 9.16,
+      "fin": 9.44
+    },
+    {
+      "texto": "para",
+      "inicio": 9.472,
+      "fin": 9.6
+    },
+    {
+      "texto": "los",
+      "inicio": 9.66,
+      "fin": 9.84
+    },
+    {
+      "texto": "totales,",
+      "inicio": 9.9,
+      "fin": 10.76
+    },
+    {
+      "texto": "hora",
+      "inicio": 10.816,
+      "fin": 11.04
+    },
+    {
+      "texto": "entre",
+      "inicio": 11.08,
+      "fin": 11.28
+    },
+    {
+      "texto": "corchetes",
+      "inicio": 11.34,
+      "fin": 12.0
+    },
+    {
+      "texto": "y",
+      "inicio": 12.12,
+      "fin": 12.24
+    },
+    {
+      "texto": "multiplicar",
+      "inicio": 12.296,
+      "fin": 12.96
+    },
+    {
+      "texto": "por",
+      "inicio": 13.02,
+      "fin": 13.2
+    },
+    {
+      "texto": "veinticuatro.",
+      "inicio": 13.253,
+      "fin": 14.0
+    }
+  ]
+}

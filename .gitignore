@@ -1,0 +1,22 @@
+.env
+secretos/
+pruebas/
+__pycache__/
+node_modules/
+video/out/
+*.mp4
+.DS_Store
+
+# Videos y renders (no van al repositorio)
+*.mov
+*.webm
+*.mkv
+*.avi
+**/render/
+# Copias del audio para Remotion (se regeneran desde canales/<canal>/episodios/<slug>/audio)
+video/public/**/*.mp3
+video/public/**/manifest.json
+# Configuración local y registros
+.claude/settings.local.json
+*.log
+Thumbs.db

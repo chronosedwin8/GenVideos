@@ -1,0 +1,470 @@
+{
+  "num": "09",
+  "titulo": "Paso 6 · Cuánto hay que pagar",
+  "texto": "Paso seis: el dinero. Escribe el valor de la hora y el recargo de la hora extra. Ese porcentaje depende de la ley de tu país, por eso también va en su propia celda. Si multiplicas las horas extra por el valor de la hora te sale… trece con setenta y cinco. ¡Demasiado poco! ¿Por qué? Porque para Excel una hora es una fracción del día. El truco es multiplicar por veinticuatro. Igual, E ocho, por veinticuatro, por el valor de la hora, por uno más el recargo. ¡Cuatrocientos doce con cincuenta!",
+  "texto_tts": "Paso seis: el dinero. Escribe el valor de la hora y el recargo de la hora extra. Ese porcentaje depende de la ley de tu país, por eso también va en su propia celda. Si multiplicas las horas extra por el valor de la hora te sale… [laughs] trece con setenta y cinco. ¡Demasiado poco! ¿Por qué? Porque para Excel una hora es una fracción del día. El truco es multiplicar por veinticuatro. Igual, E ocho, por veinticuatro, por el valor de la hora, por uno más el recargo. ¡Cuatrocientos doce con cincuenta!",
+  "modelo": "eleven_v3",
+  "duracion": 38.72,
+  "palabras": [
+    {
+      "texto": "Paso",
+      "inicio": 0.0,
+      "fin": 0.32
+    },
+    {
+      "texto": "seis:",
+      "inicio": 0.4,
+      "fin": 0.88
+    },
+    {
+      "texto": "el",
+      "inicio": 1.04,
+      "fin": 1.36
+    },
+    {
+      "texto": "dinero.",
+      "inicio": 1.429,
+      "fin": 1.92
+    },
+    {
+      "texto": "Escribe",
+      "inicio": 2.4,
+      "fin": 3.2
+    },
+    {
+      "texto": "el",
+      "inicio": 3.227,
+      "fin": 3.28
+    },
+    {
+      "texto": "valor",
+      "inicio": 3.347,
+      "fin": 3.68
+    },
+    {
+      "texto": "de",
+      "inicio": 3.707,
+      "fin": 3.76
+    },
+    {
+      "texto": "la",
+      "inicio": 3.813,
+      "fin": 3.92
+    },
+    {
+      "texto": "hora",
+      "inicio": 3.984,
+      "fin": 4.24
+    },
+    {
+      "texto": "y",
+      "inicio": 4.36,
+      "fin": 4.48
+    },
+    {
+      "texto": "el",
+      "inicio": 4.533,
+      "fin": 4.64
+    },
+    {
+      "texto": "recargo",
+      "inicio": 4.72,
+      "fin": 5.2
+    },
+    {
+      "texto": "de",
+      "inicio": 5.227,
+      "fin": 5.28
+    },
+    {
+      "texto": "la",
+      "inicio": 5.333,
+      "fin": 5.44
+    },
+    {
+      "texto": "hora",
+      "inicio": 5.488,
+      "fin": 5.68
+    },
+    {
+      "texto": "extra.",
+      "inicio": 5.747,
+      "fin": 6.24
+    },
+    {
+      "texto": "Ese",
+      "inicio": 6.56,
+      "fin": 6.96
+    },
+    {
+      "texto": "porcentaje",
+      "inicio": 7.02,
+      "fin": 7.68
+    },
+    {
+      "texto": "depende",
+      "inicio": 7.749,
+      "fin": 8.24
+    },
+    {
+      "texto": "de",
+      "inicio": 8.267,
+      "fin": 8.32
+    },
+    {
+      "texto": "la",
+      "inicio": 8.373,
+      "fin": 8.48
+    },
+    {
+      "texto": "ley",
+      "inicio": 8.52,
+      "fin": 8.64
+    },
+    {
+      "texto": "de",
+      "inicio": 8.693,
+      "fin": 8.8
+    },
+    {
+      "texto": "tu",
+      "inicio": 8.827,
+      "fin": 8.88
+    },
+    {
+      "texto": "país,",
+      "inicio": 8.96,
+      "fin": 9.68
+    },
+    {
+      "texto": "por",
+      "inicio": 9.72,
+      "fin": 9.84
+    },
+    {
+      "texto": "eso",
+      "inicio": 9.9,
+      "fin": 10.08
+    },
+    {
+      "texto": "también",
+      "inicio": 10.13,
+      "fin": 10.48
+    },
+    {
+      "texto": "va",
+      "inicio": 10.56,
+      "fin": 10.72
+    },
+    {
+      "texto": "en",
+      "inicio": 10.827,
+      "fin": 11.04
+    },
+    {
+      "texto": "su",
+      "inicio": 11.093,
+      "fin": 11.2
+    },
+    {
+      "texto": "propia",
+      "inicio": 11.269,
+      "fin": 11.68
+    },
+    {
+      "texto": "celda.",
+      "inicio": 11.72,
+      "fin": 12.52
+    },
+    {
+      "texto": "Si",
+      "inicio": 12.667,
+      "fin": 12.96
+    },
+    {
+      "texto": "multiplicas",
+      "inicio": 13.017,
+      "fin": 13.76
+    },
+    {
+      "texto": "las",
+      "inicio": 13.82,
+      "fin": 14.0
+    },
+    {
+      "texto": "horas",
+      "inicio": 14.053,
+      "fin": 14.32
+    },
+    {
+      "texto": "extra",
+      "inicio": 14.387,
+      "fin": 14.72
+    },
+    {
+      "texto": "por",
+      "inicio": 14.78,
+      "fin": 14.96
+    },
+    {
+      "texto": "el",
+      "inicio": 14.987,
+      "fin": 15.04
+    },
+    {
+      "texto": "valor",
+      "inicio": 15.107,
+      "fin": 15.44
+    },
+    {
+      "texto": "de",
+      "inicio": 15.467,
+      "fin": 15.52
+    },
+    {
+      "texto": "la",
+      "inicio": 15.573,
+      "fin": 15.68
+    },
+    {
+      "texto": "hora",
+      "inicio": 15.728,
+      "fin": 15.92
+    },
+    {
+      "texto": "te",
+      "inicio": 15.973,
+      "fin": 16.08
+    },
+    {
+      "texto": "sale…",
+      "inicio": 16.144,
+      "fin": 16.56
+    },
+    {
+      "texto": "trece",
+      "inicio": 17.58,
+      "fin": 18.16
+    },
+    {
+      "texto": "con",
+      "inicio": 18.24,
+      "fin": 18.48
+    },
+    {
+      "texto": "setenta",
+      "inicio": 18.52,
+      "fin": 18.88
+    },
+    {
+      "texto": "y",
+      "inicio": 18.92,
+      "fin": 18.96
+    },
+    {
+      "texto": "cinco.",
+      "inicio": 19.027,
+      "fin": 19.68
+    },
+    {
+      "texto": "¡Demasiado",
+      "inicio": 19.84,
+      "fin": 20.48
+    },
+    {
+      "texto": "poco!",
+      "inicio": 20.576,
+      "fin": 21.04
+    },
+    {
+      "texto": "¿Por",
+      "inicio": 21.32,
+      "fin": 21.68
+    },
+    {
+      "texto": "qué?",
+      "inicio": 21.74,
+      "fin": 22.08
+    },
+    {
+      "texto": "Porque",
+      "inicio": 22.24,
+      "fin": 22.8
+    },
+    {
+      "texto": "para",
+      "inicio": 22.848,
+      "fin": 23.04
+    },
+    {
+      "texto": "Excel",
+      "inicio": 23.107,
+      "fin": 23.44
+    },
+    {
+      "texto": "una",
+      "inicio": 23.56,
+      "fin": 23.92
+    },
+    {
+      "texto": "hora",
+      "inicio": 23.984,
+      "fin": 24.24
+    },
+    {
+      "texto": "es",
+      "inicio": 24.373,
+      "fin": 24.64
+    },
+    {
+      "texto": "una",
+      "inicio": 24.68,
+      "fin": 24.8
+    },
+    {
+      "texto": "fracción",
+      "inicio": 24.853,
+      "fin": 25.36
+    },
+    {
+      "texto": "del",
+      "inicio": 25.42,
+      "fin": 25.6
+    },
+    {
+      "texto": "día.",
+      "inicio": 25.66,
+      "fin": 25.92
+    },
+    {
+      "texto": "El",
+      "inicio": 26.187,
+      "fin": 26.72
+    },
+    {
+      "texto": "truco",
+      "inicio": 26.773,
+      "fin": 27.12
+    },
+    {
+      "texto": "es",
+      "inicio": 27.173,
+      "fin": 27.28
+    },
+    {
+      "texto": "multiplicar",
+      "inicio": 27.344,
+      "fin": 28.0
+    },
+    {
+      "texto": "por",
+      "inicio": 28.06,
+      "fin": 28.24
+    },
+    {
+      "texto": "veinticuatro.",
+      "inicio": 28.293,
+      "fin": 29.04
+    },
+    {
+      "texto": "Igual,",
+      "inicio": 29.253,
+      "fin": 30.32
+    },
+    {
+      "texto": "E",
+      "inicio": 30.4,
+      "fin": 30.48
+    },
+    {
+      "texto": "ocho,",
+      "inicio": 30.6,
+      "fin": 30.96
+    },
+    {
+      "texto": "por",
+      "inicio": 31.02,
+      "fin": 31.2
+    },
+    {
+      "texto": "veinticuatro,",
+      "inicio": 31.253,
+      "fin": 32.24
+    },
+    {
+      "texto": "por",
+      "inicio": 32.32,
+      "fin": 32.56
+    },
+    {
+      "texto": "el",
+      "inicio": 32.587,
+      "fin": 32.64
+    },
+    {
+      "texto": "valor",
+      "inicio": 32.707,
+      "fin": 33.04
+    },
+    {
+      "texto": "de",
+      "inicio": 33.093,
+      "fin": 33.2
+    },
+    {
+      "texto": "la",
+      "inicio": 33.227,
+      "fin": 33.28
+    },
+    {
+      "texto": "hora,",
+      "inicio": 33.344,
+      "fin": 33.68
+    },
+    {
+      "texto": "por",
+      "inicio": 33.8,
+      "fin": 34.16
+    },
+    {
+      "texto": "uno",
+      "inicio": 34.28,
+      "fin": 34.64
+    },
+    {
+      "texto": "más",
+      "inicio": 34.74,
+      "fin": 35.04
+    },
+    {
+      "texto": "el",
+      "inicio": 35.093,
+      "fin": 35.2
+    },
+    {
+      "texto": "recargo.",
+      "inicio": 35.26,
+      "fin": 35.76
+    },
+    {
+      "texto": "¡Cuatrocientos",
+      "inicio": 36.04,
+      "fin": 37.12
+    },
+    {
+      "texto": "doce",
+      "inicio": 37.227,
+      "fin": 37.52
+    },
+    {
+      "texto": "con",
+      "inicio": 37.64,
+      "fin": 38.0
+    },
+    {
+      "texto": "cincuenta!",
+      "inicio": 38.04,
+      "fin": 38.72
+    }
+  ]
+}

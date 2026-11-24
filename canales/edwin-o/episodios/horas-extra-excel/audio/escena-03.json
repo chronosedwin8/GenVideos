@@ -1,0 +1,565 @@
+{
+  "num": "03",
+  "titulo": "El caso",
+  "texto": "¿Y por qué esto es tan importante justo ahora? En Colombia la jornada bajó a cuarenta y dos horas semanales en julio de este año. Y en México ya se aprobó bajarla de cuarenta y ocho a cuarenta horas, poco a poco, desde el dos mil veintisiete. Cuando desarrollé el sistema de control de entradas y salidas del colegio, el problema nunca fue registrar la hora: fue calcularla bien cuando alguien salía después de medianoche. Las reglas cambian rápido, y como siempre digo: si no lo aprendes ahora, te extingues. Por eso hoy la jornada no va escondida dentro de la fórmula. Va en una celda que cambias en un segundo.",
+  "texto_tts": "¿Y por qué esto es tan importante justo ahora? En Colombia la jornada bajó a cuarenta y dos horas semanales en julio de este año. Y en México ya se aprobó bajarla de cuarenta y ocho a cuarenta horas, poco a poco, desde el dos mil veintisiete. Cuando desarrollé el sistema de control de entradas y salidas del colegio, el problema nunca fue registrar la hora: fue calcularla bien cuando alguien salía después de medianoche. Las reglas cambian rápido, y como siempre digo: [serious] si no lo aprendes ahora, te extingues. Por eso hoy la jornada no va escondida dentro de la fórmula. Va en una celda que cambias en un segundo.",
+  "modelo": "eleven_v3",
+  "duracion": 43.36,
+  "palabras": [
+    {
+      "texto": "¿Y",
+      "inicio": 0.0,
+      "fin": 0.16
+    },
+    {
+      "texto": "por",
+      "inicio": 0.2,
+      "fin": 0.32
+    },
+    {
+      "texto": "qué",
+      "inicio": 0.36,
+      "fin": 0.48
+    },
+    {
+      "texto": "esto",
+      "inicio": 0.544,
+      "fin": 0.8
+    },
+    {
+      "texto": "es",
+      "inicio": 0.853,
+      "fin": 0.96
+    },
+    {
+      "texto": "tan",
+      "inicio": 1.0,
+      "fin": 1.12
+    },
+    {
+      "texto": "importante",
+      "inicio": 1.2,
+      "fin": 2.0
+    },
+    {
+      "texto": "justo",
+      "inicio": 2.093,
+      "fin": 2.56
+    },
+    {
+      "texto": "ahora?",
+      "inicio": 2.613,
+      "fin": 3.84
+    },
+    {
+      "texto": "En",
+      "inicio": 3.867,
+      "fin": 3.92
+    },
+    {
+      "texto": "Colombia",
+      "inicio": 3.973,
+      "fin": 4.4
+    },
+    {
+      "texto": "la",
+      "inicio": 4.453,
+      "fin": 4.56
+    },
+    {
+      "texto": "jornada",
+      "inicio": 4.64,
+      "fin": 5.12
+    },
+    {
+      "texto": "bajó",
+      "inicio": 5.18,
+      "fin": 5.52
+    },
+    {
+      "texto": "a",
+      "inicio": 5.6,
+      "fin": 5.68
+    },
+    {
+      "texto": "cuarenta",
+      "inicio": 5.707,
+      "fin": 6.2
+    },
+    {
+      "texto": "y",
+      "inicio": 6.22,
+      "fin": 6.24
+    },
+    {
+      "texto": "dos",
+      "inicio": 6.3,
+      "fin": 6.48
+    },
+    {
+      "texto": "horas",
+      "inicio": 6.547,
+      "fin": 6.88
+    },
+    {
+      "texto": "semanales",
+      "inicio": 6.937,
+      "fin": 7.68
+    },
+    {
+      "texto": "en",
+      "inicio": 7.76,
+      "fin": 7.92
+    },
+    {
+      "texto": "julio",
+      "inicio": 7.98,
+      "fin": 8.32
+    },
+    {
+      "texto": "de",
+      "inicio": 8.373,
+      "fin": 8.48
+    },
+    {
+      "texto": "este",
+      "inicio": 8.544,
+      "fin": 8.8
+    },
+    {
+      "texto": "año.",
+      "inicio": 8.88,
+      "fin": 9.68
+    },
+    {
+      "texto": "Y",
+      "inicio": 9.72,
+      "fin": 9.76
+    },
+    {
+      "texto": "en",
+      "inicio": 9.813,
+      "fin": 9.92
+    },
+    {
+      "texto": "México",
+      "inicio": 10.034,
+      "fin": 10.72
+    },
+    {
+      "texto": "ya",
+      "inicio": 10.773,
+      "fin": 10.88
+    },
+    {
+      "texto": "se",
+      "inicio": 10.907,
+      "fin": 10.96
+    },
+    {
+      "texto": "aprobó",
+      "inicio": 11.04,
+      "fin": 11.36
+    },
+    {
+      "texto": "bajarla",
+      "inicio": 11.4,
+      "fin": 11.92
+    },
+    {
+      "texto": "de",
+      "inicio": 11.947,
+      "fin": 12.0
+    },
+    {
+      "texto": "cuarenta",
+      "inicio": 12.053,
+      "fin": 12.48
+    },
+    {
+      "texto": "y",
+      "inicio": 12.52,
+      "fin": 12.56
+    },
+    {
+      "texto": "ocho",
+      "inicio": 12.64,
+      "fin": 12.8
+    },
+    {
+      "texto": "a",
+      "inicio": 13.0,
+      "fin": 13.2
+    },
+    {
+      "texto": "cuarenta",
+      "inicio": 13.227,
+      "fin": 13.84
+    },
+    {
+      "texto": "horas,",
+      "inicio": 13.88,
+      "fin": 14.4
+    },
+    {
+      "texto": "poco",
+      "inicio": 14.448,
+      "fin": 14.64
+    },
+    {
+      "texto": "a",
+      "inicio": 14.68,
+      "fin": 14.72
+    },
+    {
+      "texto": "poco,",
+      "inicio": 14.8,
+      "fin": 15.44
+    },
+    {
+      "texto": "desde",
+      "inicio": 15.48,
+      "fin": 15.68
+    },
+    {
+      "texto": "el",
+      "inicio": 15.707,
+      "fin": 15.76
+    },
+    {
+      "texto": "dos",
+      "inicio": 15.82,
+      "fin": 16.0
+    },
+    {
+      "texto": "mil",
+      "inicio": 16.06,
+      "fin": 16.24
+    },
+    {
+      "texto": "veintisiete.",
+      "inicio": 16.293,
+      "fin": 17.68
+    },
+    {
+      "texto": "Cuando",
+      "inicio": 17.726,
+      "fin": 18.0
+    },
+    {
+      "texto": "desarrollé",
+      "inicio": 18.04,
+      "fin": 18.48
+    },
+    {
+      "texto": "el",
+      "inicio": 18.507,
+      "fin": 18.56
+    },
+    {
+      "texto": "sistema",
+      "inicio": 18.62,
+      "fin": 19.04
+    },
+    {
+      "texto": "de",
+      "inicio": 19.067,
+      "fin": 19.12
+    },
+    {
+      "texto": "control",
+      "inicio": 19.19,
+      "fin": 19.68
+    },
+    {
+      "texto": "de",
+      "inicio": 19.707,
+      "fin": 19.76
+    },
+    {
+      "texto": "entradas",
+      "inicio": 19.824,
+      "fin": 20.32
+    },
+    {
+      "texto": "y",
+      "inicio": 20.36,
+      "fin": 20.4
+    },
+    {
+      "texto": "salidas",
+      "inicio": 20.46,
+      "fin": 20.88
+    },
+    {
+      "texto": "del",
+      "inicio": 20.92,
+      "fin": 21.04
+    },
+    {
+      "texto": "colegio,",
+      "inicio": 21.107,
+      "fin": 21.92
+    },
+    {
+      "texto": "el",
+      "inicio": 21.973,
+      "fin": 22.08
+    },
+    {
+      "texto": "problema",
+      "inicio": 22.133,
+      "fin": 22.56
+    },
+    {
+      "texto": "nunca",
+      "inicio": 22.613,
+      "fin": 22.88
+    },
+    {
+      "texto": "fue",
+      "inicio": 22.94,
+      "fin": 23.12
+    },
+    {
+      "texto": "registrar",
+      "inicio": 23.184,
+      "fin": 23.76
+    },
+    {
+      "texto": "la",
+      "inicio": 23.813,
+      "fin": 23.92
+    },
+    {
+      "texto": "hora:",
+      "inicio": 23.968,
+      "fin": 24.72
+    },
+    {
+      "texto": "fue",
+      "inicio": 24.78,
+      "fin": 24.96
+    },
+    {
+      "texto": "calcularla",
+      "inicio": 25.022,
+      "fin": 25.68
+    },
+    {
+      "texto": "bien",
+      "inicio": 25.744,
+      "fin": 26.0
+    },
+    {
+      "texto": "cuando",
+      "inicio": 26.069,
+      "fin": 26.48
+    },
+    {
+      "texto": "alguien",
+      "inicio": 26.52,
+      "fin": 26.8
+    },
+    {
+      "texto": "salía",
+      "inicio": 26.88,
+      "fin": 27.44
+    },
+    {
+      "texto": "después",
+      "inicio": 27.51,
+      "fin": 28.0
+    },
+    {
+      "texto": "de",
+      "inicio": 28.027,
+      "fin": 28.08
+    },
+    {
+      "texto": "medianoche.",
+      "inicio": 28.14,
+      "fin": 28.88
+    },
+    {
+      "texto": "Las",
+      "inicio": 29.08,
+      "fin": 29.68
+    },
+    {
+      "texto": "reglas",
+      "inicio": 29.74,
+      "fin": 30.32
+    },
+    {
+      "texto": "cambian",
+      "inicio": 30.368,
+      "fin": 30.72
+    },
+    {
+      "texto": "rápido,",
+      "inicio": 30.789,
+      "fin": 31.44
+    },
+    {
+      "texto": "y",
+      "inicio": 31.52,
+      "fin": 31.6
+    },
+    {
+      "texto": "como",
+      "inicio": 31.648,
+      "fin": 31.84
+    },
+    {
+      "texto": "siempre",
+      "inicio": 31.89,
+      "fin": 32.24
+    },
+    {
+      "texto": "digo:",
+      "inicio": 32.32,
+      "fin": 32.72
+    },
+    {
+      "texto": "si",
+      "inicio": 33.164,
+      "fin": 33.2
+    },
+    {
+      "texto": "no",
+      "inicio": 33.253,
+      "fin": 33.36
+    },
+    {
+      "texto": "lo",
+      "inicio": 33.413,
+      "fin": 33.52
+    },
+    {
+      "texto": "aprendes",
+      "inicio": 33.577,
+      "fin": 34.0
+    },
+    {
+      "texto": "ahora,",
+      "inicio": 34.067,
+      "fin": 34.64
+    },
+    {
+      "texto": "te",
+      "inicio": 34.667,
+      "fin": 34.72
+    },
+    {
+      "texto": "extingues.",
+      "inicio": 34.78,
+      "fin": 35.44
+    },
+    {
+      "texto": "Por",
+      "inicio": 35.64,
+      "fin": 36.24
+    },
+    {
+      "texto": "eso",
+      "inicio": 36.32,
+      "fin": 36.56
+    },
+    {
+      "texto": "hoy",
+      "inicio": 36.62,
+      "fin": 36.8
+    },
+    {
+      "texto": "la",
+      "inicio": 36.853,
+      "fin": 36.96
+    },
+    {
+      "texto": "jornada",
+      "inicio": 37.024,
+      "fin": 37.52
+    },
+    {
+      "texto": "no",
+      "inicio": 37.6,
+      "fin": 37.76
+    },
+    {
+      "texto": "va",
+      "inicio": 37.813,
+      "fin": 37.92
+    },
+    {
+      "texto": "escondida",
+      "inicio": 38.0,
+      "fin": 38.72
+    },
+    {
+      "texto": "dentro",
+      "inicio": 38.777,
+      "fin": 39.12
+    },
+    {
+      "texto": "de",
+      "inicio": 39.147,
+      "fin": 39.2
+    },
+    {
+      "texto": "la",
+      "inicio": 39.227,
+      "fin": 39.28
+    },
+    {
+      "texto": "fórmula.",
+      "inicio": 39.36,
+      "fin": 39.92
+    },
+    {
+      "texto": "Va",
+      "inicio": 40.16,
+      "fin": 40.64
+    },
+    {
+      "texto": "en",
+      "inicio": 40.693,
+      "fin": 40.8
+    },
+    {
+      "texto": "una",
+      "inicio": 40.86,
+      "fin": 41.04
+    },
+    {
+      "texto": "celda",
+      "inicio": 41.08,
+      "fin": 41.44
+    },
+    {
+      "texto": "que",
+      "inicio": 41.5,
+      "fin": 41.68
+    },
+    {
+      "texto": "cambias",
+      "inicio": 41.744,
+      "fin": 42.24
+    },
+    {
+      "texto": "en",
+      "inicio": 42.347,
+      "fin": 42.56
+    },
+    {
+      "texto": "un",
+      "inicio": 42.613,
+      "fin": 42.72
+    },
+    {
+      "texto": "segundo.",
+      "inicio": 42.79,
+      "fin": 43.36
+    }
+  ]
+}

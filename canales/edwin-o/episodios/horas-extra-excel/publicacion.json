@@ -1,0 +1,57 @@
+{
+  "titulo": "Cómo calcular horas trabajadas y horas extra en Excel (automático)",
+  "descripcion": "Calcula en Excel las horas trabajadas, las horas extra y el pago, incluso con turnos nocturnos, con 3 fórmulas: RESIDUO, MAX y el formato [h]:mm.\nEscribes la entrada y la salida, y la hoja hace todo lo demás.\n\nEn este video aprenderás:\n✅ Restar horas en Excel sin errores\n✅ Calcular turnos de noche (22:00 a 6:00) con RESIDUO\n✅ Calcular horas extra con la jornada en una celda (MAX y $H$2)\n✅ Sumar más de 24 horas con el formato [h]:mm\n✅ Calcular el pago de las horas extra (el truco de multiplicar por 24)\n✅ Resaltar automáticamente los días con horas extra\n\nFórmulas del video:\nHoras trabajadas: =RESIDUO(C2-B2;1)\nHoras extra: =MAX(0;D2-$H$2)\nTotal: =SUMA(D2:D7) con formato [h]:mm\nPago: =E8*24*$H$3*(1+$H$4)\nSi tu Excel usa coma como separador, cambia ; por ,\n\nCapítulos\n0:00 ¿Horas extra a mano?\n0:16 Lo que vas a lograr\n0:32 Por qué ahora: jornada de 42 h en Colombia y de 40 h en México\n1:16 Paso 1: prepara la tabla\n1:42 Paso 2: salida menos entrada\n2:05 Paso 3: turnos nocturnos con RESIDUO\n2:42 Paso 4: horas extra con MAX y la jornada en una celda\n3:21 Paso 5: totales de más de 24 horas con [h]:mm\n4:02 Paso 6: cuánto pagar (multiplica por 24)\n4:41 Nivel pro: formato condicional\n5:04 Si no te funcionó\n5:30 Resumen y siguiente video\n\n📘 Guía en el blog: https://www.edwinortiz.net/restar-horas-en-excel/\n📊 Más guías de Excel: https://www.edwinortiz.net/excel/\n\nFuentes\nMicrosoft, Sumar o restar tiempo en Excel: https://support.microsoft.com/es-ES/Excel/add-or-subtract-time-in-excel\nMicrosoft, Función RESIDUO: https://support.microsoft.com/es-es/office/residuo-funci%C3%B3n-residuo-9b6cd169-b6ee-406a-a97b-edf2a9dc24f3\nColombia, jornada de 42 horas (Portafolio): https://www.portafolio.co/economia/empleo/la-nueva-jornada-laboral-en-colombia-y-sus-implicaciones-499195\nColombia, recargo nocturno desde las 7 p. m. (Valora Analitik): https://www.valoraanalitik.com/?p=539966\nMéxico, reforma de 40 horas (STPS): https://www.gob.mx/stps/documentos/reduccion-de-la-jornada-laboral-a-40-horas-preguntas-frecuentes?state=published\n\nVamos en busca del poder tecnológico. 🚀\n#Excel #HorasExtra #TrucosDeExcel",
+  "tags": [
+    "calcular horas extra en excel",
+    "horas trabajadas excel",
+    "restar horas en excel",
+    "sumar horas en excel",
+    "sumar mas de 24 horas excel",
+    "turno nocturno excel",
+    "formula horas extra excel",
+    "planilla de horas extra excel",
+    "control de horas excel",
+    "residuo excel horas",
+    "formato [h]:mm excel",
+    "nomina excel",
+    "excel para empresas",
+    "trucos de excel",
+    "edwin o"
+  ],
+  "categoria": 27,
+  "idioma": "es",
+  "creado_para_ninos": false,
+  "contenido_sintetico": false,
+  "privacidad": "public",
+  "programar": "2026-11-26 07:00",
+  "playlist": "Excel para la oficina",
+  "archivo": "render/horas-extra-excel.mp4",
+  "miniatura": "miniatura.png",
+  "subtitulos": "audio/subtitulos.srt",
+  "shorts": [
+    {
+      "id": "short-1",
+      "titulo": "Horas de turno nocturno en Excel sin ##### #shorts",
+      "descripcion": "Turno de 22:00 a 6:00 y Excel muestra #####. Solución: =RESIDUO(C2-B2;1)\nVideo completo en el canal: horas trabajadas y horas extra en Excel.",
+      "tags": ["turno nocturno excel", "restar horas excel", "residuo excel", "shorts"],
+      "archivo": "render/short-1.mp4",
+      "programar": "2026-11-27 12:00"
+    },
+    {
+      "id": "short-2",
+      "titulo": "Sumar más de 24 horas en Excel ([h]:mm) #shorts",
+      "descripcion": "¿La suma de horas no cuadra? Usa el formato personalizado [h]:mm.\nVideo completo en el canal: horas trabajadas y horas extra en Excel.",
+      "tags": ["sumar horas excel", "mas de 24 horas excel", "formato [h]:mm", "shorts"],
+      "archivo": "render/short-2.mp4",
+      "programar": "2026-11-28 12:00"
+    },
+    {
+      "id": "short-3",
+      "titulo": "Calcular el pago de horas extra en Excel (×24) #shorts",
+      "descripcion": "Para pagar horas extra en Excel multiplica por 24: =E8*24*$H$3*(1+$H$4)\nVideo completo en el canal: horas trabajadas y horas extra en Excel.",
+      "tags": ["pago horas extra excel", "horas extra excel", "multiplicar por 24 excel", "shorts"],
+      "archivo": "render/short-3.mp4",
+      "programar": "2026-11-30 12:00"
+    }
+  ]
+}

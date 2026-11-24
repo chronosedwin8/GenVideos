@@ -1,0 +1,26 @@
+{
+  "name": "estudio-video",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Videos de los canales del estudio (Remotion)",
+  "scripts": {
+    "studio": "remotion studio",
+    "render": "remotion render",
+    "still": "remotion still",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.547",
+    "@remotion/google-fonts": "^4.0.547",
+    "@remotion/media-utils": "^4.0.547",
+    "@remotion/shapes": "^4.0.547",
+    "@remotion/transitions": "^4.0.547",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "remotion": "^4.0.547"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.31",
+    "typescript": "^5.9.3"
+  }
+}

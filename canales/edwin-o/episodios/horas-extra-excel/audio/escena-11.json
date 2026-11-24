@@ -1,0 +1,275 @@
+{
+  "num": "11",
+  "titulo": "Si no te funcionó",
+  "texto": "¿No te funcionó? Revisa esto. Si Excel dice que la fórmula tiene un error, cambia el punto y coma por una coma: depende de la configuración de tu país. Si ves numerales, usa RESIDUO. Si el total no cuadra, formato hora entre corchetes. Y si el pago sale demasiado bajo, multiplica por veinticuatro.",
+  "texto_tts": "¿No te funcionó? Revisa esto. Si Excel dice que la fórmula tiene un error, cambia el punto y coma por una coma: depende de la configuración de tu país. Si ves numerales, usa RESIDUO. Si el total no cuadra, formato hora entre corchetes. Y si el pago sale demasiado bajo, multiplica por veinticuatro.",
+  "modelo": "eleven_v3",
+  "duracion": 25.68,
+  "palabras": [
+    {
+      "texto": "¿No",
+      "inicio": 0.0,
+      "fin": 0.16
+    },
+    {
+      "texto": "te",
+      "inicio": 0.213,
+      "fin": 0.32
+    },
+    {
+      "texto": "funcionó?",
+      "inicio": 0.38,
+      "fin": 0.96
+    },
+    {
+      "texto": "Revisa",
+      "inicio": 1.227,
+      "fin": 2.16
+    },
+    {
+      "texto": "esto.",
+      "inicio": 2.256,
+      "fin": 2.72
+    },
+    {
+      "texto": "Si",
+      "inicio": 3.04,
+      "fin": 3.68
+    },
+    {
+      "texto": "Excel",
+      "inicio": 3.747,
+      "fin": 4.08
+    },
+    {
+      "texto": "dice",
+      "inicio": 4.128,
+      "fin": 4.32
+    },
+    {
+      "texto": "que",
+      "inicio": 4.36,
+      "fin": 4.48
+    },
+    {
+      "texto": "la",
+      "inicio": 4.533,
+      "fin": 4.64
+    },
+    {
+      "texto": "fórmula",
+      "inicio": 4.72,
+      "fin": 5.2
+    },
+    {
+      "texto": "tiene",
+      "inicio": 5.267,
+      "fin": 5.6
+    },
+    {
+      "texto": "un",
+      "inicio": 5.653,
+      "fin": 5.76
+    },
+    {
+      "texto": "error,",
+      "inicio": 5.827,
+      "fin": 6.72
+    },
+    {
+      "texto": "cambia",
+      "inicio": 6.768,
+      "fin": 7.12
+    },
+    {
+      "texto": "el",
+      "inicio": 7.147,
+      "fin": 7.2
+    },
+    {
+      "texto": "punto",
+      "inicio": 7.267,
+      "fin": 7.6
+    },
+    {
+      "texto": "y",
+      "inicio": 7.64,
+      "fin": 7.68
+    },
+    {
+      "texto": "coma",
+      "inicio": 7.776,
+      "fin": 8.16
+    },
+    {
+      "texto": "por",
+      "inicio": 8.26,
+      "fin": 8.56
+    },
+    {
+      "texto": "una",
+      "inicio": 8.62,
+      "fin": 8.8
+    },
+    {
+      "texto": "coma:",
+      "inicio": 8.896,
+      "fin": 9.28
+    },
+    {
+      "texto": "depende",
+      "inicio": 9.394,
+      "fin": 10.16
+    },
+    {
+      "texto": "de",
+      "inicio": 10.213,
+      "fin": 10.32
+    },
+    {
+      "texto": "la",
+      "inicio": 10.347,
+      "fin": 10.4
+    },
+    {
+      "texto": "configuración",
+      "inicio": 10.453,
+      "fin": 11.28
+    },
+    {
+      "texto": "de",
+      "inicio": 11.307,
+      "fin": 11.36
+    },
+    {
+      "texto": "tu",
+      "inicio": 11.413,
+      "fin": 11.52
+    },
+    {
+      "texto": "país.",
+      "inicio": 11.632,
+      "fin": 12.16
+    },
+    {
+      "texto": "Si",
+      "inicio": 12.453,
+      "fin": 13.04
+    },
+    {
+      "texto": "ves",
+      "inicio": 13.1,
+      "fin": 13.28
+    },
+    {
+      "texto": "numerales,",
+      "inicio": 13.32,
+      "fin": 14.24
+    },
+    {
+      "texto": "usa",
+      "inicio": 14.34,
+      "fin": 14.64
+    },
+    {
+      "texto": "RESIDUO.",
+      "inicio": 14.8,
+      "fin": 15.681
+    },
+    {
+      "texto": "Si",
+      "inicio": 16.027,
+      "fin": 16.72
+    },
+    {
+      "texto": "el",
+      "inicio": 16.773,
+      "fin": 16.88
+    },
+    {
+      "texto": "total",
+      "inicio": 16.947,
+      "fin": 17.28
+    },
+    {
+      "texto": "no",
+      "inicio": 17.333,
+      "fin": 17.44
+    },
+    {
+      "texto": "cuadra,",
+      "inicio": 17.493,
+      "fin": 17.92
+    },
+    {
+      "texto": "formato",
+      "inicio": 18.03,
+      "fin": 18.8
+    },
+    {
+      "texto": "hora",
+      "inicio": 18.88,
+      "fin": 19.2
+    },
+    {
+      "texto": "entre",
+      "inicio": 19.28,
+      "fin": 19.68
+    },
+    {
+      "texto": "corchetes.",
+      "inicio": 19.74,
+      "fin": 20.64
+    },
+    {
+      "texto": "Y",
+      "inicio": 20.92,
+      "fin": 21.2
+    },
+    {
+      "texto": "si",
+      "inicio": 21.253,
+      "fin": 21.36
+    },
+    {
+      "texto": "el",
+      "inicio": 21.387,
+      "fin": 21.44
+    },
+    {
+      "texto": "pago",
+      "inicio": 21.52,
+      "fin": 21.84
+    },
+    {
+      "texto": "sale",
+      "inicio": 21.904,
+      "fin": 22.16
+    },
+    {
+      "texto": "demasiado",
+      "inicio": 22.24,
+      "fin": 22.88
+    },
+    {
+      "texto": "bajo,",
+      "inicio": 22.96,
+      "fin": 23.6
+    },
+    {
+      "texto": "multiplica",
+      "inicio": 23.657,
+      "fin": 24.4
+    },
+    {
+      "texto": "por",
+      "inicio": 24.5,
+      "fin": 24.8
+    },
+    {
+      "texto": "veinticuatro.",
+      "inicio": 24.853,
+      "fin": 25.68
+    }
+  ]
+}

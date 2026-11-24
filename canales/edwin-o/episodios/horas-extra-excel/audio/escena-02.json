@@ -1,0 +1,205 @@
+{
+  "num": "02",
+  "titulo": "Presentación",
+  "texto": "¡Bienvenidos, amigos del canal! Vamos en busca del poder tecnológico. En siete minutos vas a tener tu propia hoja de control de horas. Y al final te enseño el error que comete casi todo el mundo con los totales.",
+  "texto_tts": "[excited] ¡Bienvenidos, amigos del canal! Vamos en busca del poder tecnológico. En siete minutos vas a tener tu propia hoja de control de horas. Y al final te enseño el error que comete casi todo el mundo con los totales.",
+  "modelo": "eleven_v3",
+  "duracion": 15.84,
+  "palabras": [
+    {
+      "texto": "¡Bienvenidos,",
+      "inicio": 0.072,
+      "fin": 1.2
+    },
+    {
+      "texto": "amigos",
+      "inicio": 1.257,
+      "fin": 1.6
+    },
+    {
+      "texto": "del",
+      "inicio": 1.64,
+      "fin": 1.76
+    },
+    {
+      "texto": "canal!",
+      "inicio": 1.827,
+      "fin": 2.24
+    },
+    {
+      "texto": "Vamos",
+      "inicio": 2.52,
+      "fin": 3.12
+    },
+    {
+      "texto": "en",
+      "inicio": 3.173,
+      "fin": 3.28
+    },
+    {
+      "texto": "busca",
+      "inicio": 3.347,
+      "fin": 3.68
+    },
+    {
+      "texto": "del",
+      "inicio": 3.74,
+      "fin": 3.92
+    },
+    {
+      "texto": "poder",
+      "inicio": 3.987,
+      "fin": 4.32
+    },
+    {
+      "texto": "tecnológico.",
+      "inicio": 4.4,
+      "fin": 5.6
+    },
+    {
+      "texto": "En",
+      "inicio": 5.707,
+      "fin": 5.92
+    },
+    {
+      "texto": "siete",
+      "inicio": 6.0,
+      "fin": 6.24
+    },
+    {
+      "texto": "minutos",
+      "inicio": 6.33,
+      "fin": 6.96
+    },
+    {
+      "texto": "vas",
+      "inicio": 7.04,
+      "fin": 7.28
+    },
+    {
+      "texto": "a",
+      "inicio": 7.32,
+      "fin": 7.36
+    },
+    {
+      "texto": "tener",
+      "inicio": 7.413,
+      "fin": 7.68
+    },
+    {
+      "texto": "tu",
+      "inicio": 7.76,
+      "fin": 7.92
+    },
+    {
+      "texto": "propia",
+      "inicio": 7.989,
+      "fin": 8.4
+    },
+    {
+      "texto": "hoja",
+      "inicio": 8.48,
+      "fin": 8.8
+    },
+    {
+      "texto": "de",
+      "inicio": 8.827,
+      "fin": 8.88
+    },
+    {
+      "texto": "control",
+      "inicio": 8.95,
+      "fin": 9.44
+    },
+    {
+      "texto": "de",
+      "inicio": 9.493,
+      "fin": 9.6
+    },
+    {
+      "texto": "horas.",
+      "inicio": 9.667,
+      "fin": 10.32
+    },
+    {
+      "texto": "Y",
+      "inicio": 10.4,
+      "fin": 10.48
+    },
+    {
+      "texto": "al",
+      "inicio": 10.533,
+      "fin": 10.64
+    },
+    {
+      "texto": "final",
+      "inicio": 10.707,
+      "fin": 11.04
+    },
+    {
+      "texto": "te",
+      "inicio": 11.173,
+      "fin": 11.44
+    },
+    {
+      "texto": "enseño",
+      "inicio": 11.488,
+      "fin": 11.84
+    },
+    {
+      "texto": "el",
+      "inicio": 11.867,
+      "fin": 11.92
+    },
+    {
+      "texto": "error",
+      "inicio": 11.987,
+      "fin": 12.32
+    },
+    {
+      "texto": "que",
+      "inicio": 12.38,
+      "fin": 12.56
+    },
+    {
+      "texto": "comete",
+      "inicio": 12.62,
+      "fin": 13.04
+    },
+    {
+      "texto": "casi",
+      "inicio": 13.136,
+      "fin": 13.52
+    },
+    {
+      "texto": "todo",
+      "inicio": 13.584,
+      "fin": 13.84
+    },
+    {
+      "texto": "el",
+      "inicio": 13.867,
+      "fin": 13.92
+    },
+    {
+      "texto": "mundo",
+      "inicio": 14.0,
+      "fin": 14.4
+    },
+    {
+      "texto": "con",
+      "inicio": 14.48,
+      "fin": 14.72
+    },
+    {
+      "texto": "los",
+      "inicio": 14.76,
+      "fin": 14.88
+    },
+    {
+      "texto": "totales.",
+      "inicio": 14.94,
+      "fin": 15.84
+    }
+  ]
+}

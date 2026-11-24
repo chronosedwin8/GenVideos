@@ -1,0 +1,671 @@
+1
+00:00:00,093 --> 00:00:02,560
+¿Todavía calculas las horas extra con
+
+2
+00:00:02,617 --> 00:00:03,920
+calculadora y papel?
+
+3
+00:00:04,866 --> 00:00:06,006
+Mira esto:
+
+4
+00:00:06,059 --> 00:00:08,166
+escribes la entrada y la salida, y
+
+5
+00:00:08,259 --> 00:00:10,326
+Excel hace todo lo demás.
+
+6
+00:00:10,486 --> 00:00:13,206
+Horas trabajadas, turnos de noche,
+
+7
+00:00:13,299 --> 00:00:15,446
+horas extra y hasta lo que hay
+
+8
+00:00:15,486 --> 00:00:16,086
+que pagar.
+
+9
+00:00:16,558 --> 00:00:18,726
+¡Bienvenidos, amigos del canal!
+
+10
+00:00:19,006 --> 00:00:20,806
+Vamos en busca del poder
+
+11
+00:00:20,886 --> 00:00:22,086
+tecnológico.
+
+12
+00:00:22,193 --> 00:00:24,406
+En siete minutos vas a tener tu
+
+13
+00:00:24,475 --> 00:00:26,806
+propia hoja de control de horas.
+
+14
+00:00:26,886 --> 00:00:28,806
+Y al final te enseño el error
+
+15
+00:00:28,866 --> 00:00:31,206
+que comete casi todo el mundo con
+
+16
+00:00:31,246 --> 00:00:32,326
+los totales.
+
+17
+00:00:32,726 --> 00:00:34,726
+¿Y por qué esto es tan importante
+
+18
+00:00:34,819 --> 00:00:36,566
+justo ahora?
+
+19
+00:00:36,593 --> 00:00:38,926
+En Colombia la jornada bajó a cuarenta
+
+20
+00:00:38,946 --> 00:00:41,206
+y dos horas semanales en julio de
+
+21
+00:00:41,270 --> 00:00:42,406
+este año.
+
+22
+00:00:42,446 --> 00:00:44,646
+Y en México ya se aprobó bajarla
+
+23
+00:00:44,673 --> 00:00:47,126
+de cuarenta y ocho a cuarenta horas,
+
+24
+00:00:47,174 --> 00:00:48,966
+poco a poco, desde el dos mil
+
+25
+00:00:49,019 --> 00:00:50,406
+veintisiete.
+
+26
+00:00:50,452 --> 00:00:52,486
+Cuando desarrollé el sistema de control de
+
+27
+00:00:52,550 --> 00:00:55,286
+entradas y salidas del colegio, el problema
+
+28
+00:00:55,339 --> 00:00:57,446
+nunca fue registrar la hora:
+
+29
+00:00:57,506 --> 00:01:00,166
+fue calcularla bien cuando alguien salía
+
+30
+00:01:00,236 --> 00:01:01,606
+después de medianoche.
+
+31
+00:01:01,806 --> 00:01:04,566
+Las reglas cambian rápido, y como
+
+32
+00:01:04,616 --> 00:01:05,446
+siempre digo:
+
+33
+00:01:05,890 --> 00:01:08,166
+si no lo aprendes ahora, te extingues.
+
+34
+00:01:08,366 --> 00:01:10,646
+Por eso hoy la jornada no va
+
+35
+00:01:10,726 --> 00:01:12,646
+escondida dentro de la fórmula.
+
+36
+00:01:12,886 --> 00:01:15,286
+Va en una celda que cambias en
+
+37
+00:01:15,339 --> 00:01:16,086
+un segundo.
+
+38
+00:01:16,486 --> 00:01:17,446
+Paso uno.
+
+39
+00:01:17,713 --> 00:01:20,166
+Arma cinco columnas:
+
+40
+00:01:20,246 --> 00:01:22,246
+día, entrada,
+
+41
+00:01:22,315 --> 00:01:24,966
+salida, horas y horas extra.
+
+42
+00:01:25,286 --> 00:01:27,926
+Ahora escribe las horas de cada día.
+
+43
+00:01:28,246 --> 00:01:29,046
+Ojo aquí:
+
+44
+00:01:29,233 --> 00:01:31,286
+escribe siete, dos
+
+45
+00:01:31,377 --> 00:01:32,966
+puntos, cero cero.
+
+46
+00:01:33,186 --> 00:01:35,526
+Con dos puntos, no con
+
+47
+00:01:35,593 --> 00:01:36,286
+punto.
+
+48
+00:01:36,406 --> 00:01:39,126
+Si escribes siete punto treinta,
+
+49
+00:01:39,193 --> 00:01:41,606
+Excel cree que es un número cualquiera,
+
+50
+00:01:41,659 --> 00:01:42,326
+no una hora.
+
+51
+00:01:42,726 --> 00:01:43,446
+Paso dos.
+
+52
+00:01:43,633 --> 00:01:46,406
+En la celda de horas escribe igual,
+
+53
+00:01:46,566 --> 00:01:49,046
+C dos, menos, B dos.
+
+54
+00:01:49,206 --> 00:01:51,926
+Es decir, salida menos entrada.
+
+55
+00:01:52,073 --> 00:01:54,806
+Enter, y aparecen diez horas y
+
+56
+00:01:54,859 --> 00:01:55,526
+media.
+
+57
+00:01:55,886 --> 00:01:56,326
+¡Perfecto!
+
+58
+00:01:56,466 --> 00:01:58,966
+Arrastra hacia abajo para los demás días
+
+59
+00:01:59,206 --> 00:02:00,966
+y… un momento.
+
+60
+00:02:01,166 --> 00:02:02,486
+¿Qué pasó con el sábado?
+
+61
+00:02:02,666 --> 00:02:04,726
+Salen puros numerales.
+
+62
+00:02:05,126 --> 00:02:06,886
+Pasa porque el sábado entró a las
+
+63
+00:02:06,966 --> 00:02:08,766
+diez de la noche y salió a
+
+64
+00:02:08,796 --> 00:02:10,006
+las seis de la mañana.
+
+65
+00:02:10,273 --> 00:02:13,206
+Seis menos veintidós da negativo,
+
+66
+00:02:13,246 --> 00:02:15,926
+y Excel no muestra horas negativas.
+
+67
+00:02:16,193 --> 00:02:18,966
+La solución es una función muy simple:
+
+68
+00:02:19,186 --> 00:02:20,246
+RESIDUO.
+
+69
+00:02:20,686 --> 00:02:23,206
+Escribe igual, RESIDUO,
+
+70
+00:02:23,430 --> 00:02:26,246
+abre paréntesis, C dos
+
+71
+00:02:26,393 --> 00:02:29,086
+menos B dos, punto y
+
+72
+00:02:29,126 --> 00:02:31,526
+coma, uno, y cierra.
+
+73
+00:02:32,630 --> 00:02:32,886
+¡Listo!
+
+74
+00:02:33,246 --> 00:02:35,046
+Ocho horas exactas.
+
+75
+00:02:35,286 --> 00:02:36,486
+Y lo mejor:
+
+76
+00:02:36,539 --> 00:02:39,046
+funciona también para los turnos de día,
+
+77
+00:02:39,126 --> 00:02:41,846
+así que usa esta fórmula siempre.
+
+78
+00:02:42,246 --> 00:02:44,486
+Paso cuatro, las horas extra.
+
+79
+00:02:45,006 --> 00:02:48,006
+A un lado escribe "Jornada" y,
+
+80
+00:02:48,033 --> 00:02:49,766
+al frente, ocho horas.
+
+81
+00:02:50,139 --> 00:02:52,806
+Ahora, en horas extra, escribe
+
+82
+00:02:52,899 --> 00:02:54,886
+igual, MAX, abre
+
+83
+00:02:54,926 --> 00:02:57,606
+paréntesis, cero, punto y coma,
+
+84
+00:02:57,926 --> 00:03:00,246
+D dos, menos H dos.
+
+85
+00:03:00,486 --> 00:03:03,366
+Antes de cerrar, presiona F4
+
+86
+00:03:03,430 --> 00:03:05,286
+para fijar la celda de la jornada
+
+87
+00:03:05,366 --> 00:03:06,566
+con signos de dólar.
+
+88
+00:03:07,046 --> 00:03:09,046
+¿Y por qué MAX con cero?
+
+89
+00:03:09,246 --> 00:03:11,846
+Porque si alguien trabajó menos de ocho
+
+90
+00:03:11,913 --> 00:03:14,806
+horas, no queremos horas extra negativas.
+
+91
+00:03:15,106 --> 00:03:17,606
+Arrastra hacia abajo y ¡mira!
+
+92
+00:03:17,739 --> 00:03:20,406
+El viernes tiene cuatro horas y cuarto
+
+93
+00:03:20,513 --> 00:03:21,126
+extra.
+
+94
+00:03:21,526 --> 00:03:23,926
+Paso cinco, y aquí viene el error
+
+95
+00:03:23,966 --> 00:03:24,806
+que te prometí.
+
+96
+00:03:25,066 --> 00:03:27,366
+Suma la semana con igual,
+
+97
+00:03:27,546 --> 00:03:30,246
+SUMA, de D dos a
+
+98
+00:03:30,446 --> 00:03:31,286
+D siete.
+
+99
+00:03:32,533 --> 00:03:34,653
+¿Siete horas con cuarenta y cinco?
+
+100
+00:03:34,893 --> 00:03:36,333
+¡Imposible!
+
+101
+00:03:36,626 --> 00:03:38,973
+Lo que pasa es que Excel cuenta
+
+102
+00:03:39,033 --> 00:03:41,133
+las horas como un reloj:
+
+103
+00:03:41,186 --> 00:03:43,853
+al llegar a veinticuatro vuelve a cero.
+
+104
+00:03:44,093 --> 00:03:45,293
+La solución:
+
+105
+00:03:45,389 --> 00:03:48,013
+clic derecho, formato de celdas,
+
+106
+00:03:48,093 --> 00:03:50,893
+personalizada, y escribe hora
+
+107
+00:03:51,000 --> 00:03:53,773
+entre corchetes, dos puntos,
+
+108
+00:03:53,933 --> 00:03:54,973
+eme eme.
+
+109
+00:03:55,253 --> 00:03:57,614
+Aceptar… ¡y ahora sí!
+
+110
+00:03:57,974 --> 00:04:00,814
+Cincuenta y cinco horas con cuarenta y
+
+111
+00:04:00,867 --> 00:04:02,014
+cinco minutos.
+
+112
+00:04:02,414 --> 00:04:03,294
+Paso seis:
+
+113
+00:04:03,454 --> 00:04:04,334
+el dinero.
+
+114
+00:04:04,814 --> 00:04:06,894
+Escribe el valor de la hora y
+
+115
+00:04:06,947 --> 00:04:08,654
+el recargo de la hora extra.
+
+116
+00:04:08,974 --> 00:04:11,214
+Ese porcentaje depende de la ley de
+
+117
+00:04:11,241 --> 00:04:13,454
+tu país, por eso también va en
+
+118
+00:04:13,507 --> 00:04:14,934
+su propia celda.
+
+119
+00:04:15,081 --> 00:04:17,454
+Si multiplicas las horas extra por el
+
+120
+00:04:17,521 --> 00:04:18,974
+valor de la hora te sale…
+
+121
+00:04:19,994 --> 00:04:22,094
+trece con setenta y cinco.
+
+122
+00:04:22,254 --> 00:04:23,454
+¡Demasiado poco!
+
+123
+00:04:23,734 --> 00:04:24,494
+¿Por qué?
+
+124
+00:04:24,654 --> 00:04:27,214
+Porque para Excel una hora es una
+
+125
+00:04:27,267 --> 00:04:28,334
+fracción del día.
+
+126
+00:04:28,601 --> 00:04:31,454
+El truco es multiplicar por veinticuatro.
+
+127
+00:04:31,667 --> 00:04:34,654
+Igual, E ocho, por veinticuatro,
+
+128
+00:04:34,734 --> 00:04:36,574
+por el valor de la hora, por
+
+129
+00:04:36,694 --> 00:04:38,174
+uno más el recargo.
+
+130
+00:04:38,454 --> 00:04:41,134
+¡Cuatrocientos doce con cincuenta!
+
+131
+00:04:41,534 --> 00:04:42,334
+Nivel pro.
+
+132
+00:04:42,707 --> 00:04:45,054
+Selecciona la columna de horas
+
+133
+00:04:45,121 --> 00:04:47,454
+extra, ve a Inicio,
+
+134
+00:04:47,564 --> 00:04:50,414
+formato condicional, reglas
+
+135
+00:04:50,478 --> 00:04:52,974
+para resaltar celdas, mayor
+
+136
+00:04:53,074 --> 00:04:55,774
+que, y escribe cero.
+
+137
+00:04:56,121 --> 00:04:59,054
+Ahora cada día con horas extra se
+
+138
+00:04:59,094 --> 00:05:00,174
+pinta solo.
+
+139
+00:05:00,307 --> 00:05:02,894
+Tu jefe, o tu contador, lo ve
+
+140
+00:05:03,054 --> 00:05:04,414
+en un segundo.
+
+141
+00:05:04,814 --> 00:05:05,774
+¿No te funcionó?
+
+142
+00:05:06,041 --> 00:05:07,534
+Revisa esto.
+
+143
+00:05:07,854 --> 00:05:10,414
+Si Excel dice que la fórmula tiene
+
+144
+00:05:10,467 --> 00:05:12,974
+un error, cambia el punto y coma
+
+145
+00:05:13,074 --> 00:05:14,094
+por una coma:
+
+146
+00:05:14,208 --> 00:05:16,974
+depende de la configuración de tu país.
+
+147
+00:05:17,267 --> 00:05:19,454
+Si ves numerales, usa
+
+148
+00:05:19,614 --> 00:05:20,495
+RESIDUO.
+
+149
+00:05:20,841 --> 00:05:23,614
+Si el total no cuadra, formato
+
+150
+00:05:23,694 --> 00:05:25,454
+hora entre corchetes.
+
+151
+00:05:25,734 --> 00:05:28,414
+Y si el pago sale demasiado bajo,
+
+152
+00:05:28,471 --> 00:05:30,494
+multiplica por veinticuatro.
+
+153
+00:05:30,894 --> 00:05:32,054
+En resumen:
+
+154
+00:05:32,164 --> 00:05:34,494
+RESIDUO para los turnos de noche.
+
+155
+00:05:34,867 --> 00:05:36,974
+La jornada y el valor de la
+
+156
+00:05:37,038 --> 00:05:39,774
+hora siempre en su propia celda.
+
+157
+00:05:40,054 --> 00:05:42,894
+Y para los totales, hora entre corchetes
+
+158
+00:05:43,014 --> 00:05:44,894
+y multiplicar por veinticuatro.
+
+159
+00:05:45,294 --> 00:05:48,254
+Si esta hoja te ahorró tiempo, suscríbete:
+
+160
+00:05:48,302 --> 00:05:50,414
+cada martes y jueves te traigo una
+
+161
+00:05:50,458 --> 00:05:52,414
+herramienta nueva para tu trabajo.
+
+162
+00:05:52,654 --> 00:05:54,494
+Y en el próximo video vas a
+
+163
+00:05:54,564 --> 00:05:57,214
+conocer BUSCARX, la función que
+
+164
+00:05:57,267 --> 00:05:59,294
+reemplaza a BUSCARV.
+
+165
+00:05:59,494 --> 00:06:00,254
+Y recuerda:
+
+166
+00:06:00,361 --> 00:06:02,654
+el poder de la tecnología te va
+
+167
+00:06:02,694 --> 00:06:03,854
+a cambiar el mundo.
+
+168
+00:06:04,518 --> 00:06:06,418
+¡Nos vemos en el próximo video!

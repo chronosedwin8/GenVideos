@@ -1,0 +1,250 @@
+{
+  "num": "04",
+  "titulo": "Paso 1 · Prepara la tabla",
+  "texto": "Paso uno. Arma cinco columnas: día, entrada, salida, horas y horas extra. Ahora escribe las horas de cada día. Ojo aquí: escribe siete, dos puntos, cero cero. Con dos puntos, no con punto. Si escribes siete punto treinta, Excel cree que es un número cualquiera, no una hora.",
+  "texto_tts": "Paso uno. Arma cinco columnas: día, entrada, salida, horas y horas extra. Ahora escribe las horas de cada día. Ojo aquí: escribe siete, dos puntos, cero cero. Con dos puntos, no con punto. Si escribes siete punto treinta, Excel cree que es un número cualquiera, no una hora.",
+  "modelo": "eleven_v3",
+  "duracion": 25.84,
+  "palabras": [
+    {
+      "texto": "Paso",
+      "inicio": 0.0,
+      "fin": 0.4
+    },
+    {
+      "texto": "uno.",
+      "inicio": 0.52,
+      "fin": 0.96
+    },
+    {
+      "texto": "Arma",
+      "inicio": 1.227,
+      "fin": 1.92
+    },
+    {
+      "texto": "cinco",
+      "inicio": 2.0,
+      "fin": 2.4
+    },
+    {
+      "texto": "columnas:",
+      "inicio": 2.457,
+      "fin": 3.68
+    },
+    {
+      "texto": "día,",
+      "inicio": 3.76,
+      "fin": 4.72
+    },
+    {
+      "texto": "entrada,",
+      "inicio": 4.79,
+      "fin": 5.76
+    },
+    {
+      "texto": "salida,",
+      "inicio": 5.829,
+      "fin": 6.88
+    },
+    {
+      "texto": "horas",
+      "inicio": 6.96,
+      "fin": 7.36
+    },
+    {
+      "texto": "y",
+      "inicio": 7.48,
+      "fin": 7.6
+    },
+    {
+      "texto": "horas",
+      "inicio": 7.667,
+      "fin": 8.0
+    },
+    {
+      "texto": "extra.",
+      "inicio": 8.067,
+      "fin": 8.48
+    },
+    {
+      "texto": "Ahora",
+      "inicio": 8.8,
+      "fin": 9.52
+    },
+    {
+      "texto": "escribe",
+      "inicio": 9.573,
+      "fin": 10.0
+    },
+    {
+      "texto": "las",
+      "inicio": 10.1,
+      "fin": 10.4
+    },
+    {
+      "texto": "horas",
+      "inicio": 10.453,
+      "fin": 10.72
+    },
+    {
+      "texto": "de",
+      "inicio": 10.773,
+      "fin": 10.88
+    },
+    {
+      "texto": "cada",
+      "inicio": 10.928,
+      "fin": 11.12
+    },
+    {
+      "texto": "día.",
+      "inicio": 11.18,
+      "fin": 11.44
+    },
+    {
+      "texto": "Ojo",
+      "inicio": 11.76,
+      "fin": 12.16
+    },
+    {
+      "texto": "aquí:",
+      "inicio": 12.208,
+      "fin": 12.56
+    },
+    {
+      "texto": "escribe",
+      "inicio": 12.747,
+      "fin": 13.44
+    },
+    {
+      "texto": "siete,",
+      "inicio": 13.6,
+      "fin": 14.64
+    },
+    {
+      "texto": "dos",
+      "inicio": 14.68,
+      "fin": 14.8
+    },
+    {
+      "texto": "puntos,",
+      "inicio": 14.891,
+      "fin": 15.84
+    },
+    {
+      "texto": "cero",
+      "inicio": 15.88,
+      "fin": 16.08
+    },
+    {
+      "texto": "cero.",
+      "inicio": 16.16,
+      "fin": 16.48
+    },
+    {
+      "texto": "Con",
+      "inicio": 16.7,
+      "fin": 17.36
+    },
+    {
+      "texto": "dos",
+      "inicio": 17.44,
+      "fin": 17.68
+    },
+    {
+      "texto": "puntos,",
+      "inicio": 17.771,
+      "fin": 18.48
+    },
+    {
+      "texto": "no",
+      "inicio": 18.587,
+      "fin": 18.8
+    },
+    {
+      "texto": "con",
+      "inicio": 18.86,
+      "fin": 19.04
+    },
+    {
+      "texto": "punto.",
+      "inicio": 19.107,
+      "fin": 19.8
+    },
+    {
+      "texto": "Si",
+      "inicio": 19.92,
+      "fin": 20.16
+    },
+    {
+      "texto": "escribes",
+      "inicio": 20.213,
+      "fin": 20.8
+    },
+    {
+      "texto": "siete",
+      "inicio": 20.92,
+      "fin": 21.28
+    },
+    {
+      "texto": "punto",
+      "inicio": 21.347,
+      "fin": 21.68
+    },
+    {
+      "texto": "treinta,",
+      "inicio": 21.74,
+      "fin": 22.64
+    },
+    {
+      "texto": "Excel",
+      "inicio": 22.707,
+      "fin": 23.04
+    },
+    {
+      "texto": "cree",
+      "inicio": 23.104,
+      "fin": 23.36
+    },
+    {
+      "texto": "que",
+      "inicio": 23.4,
+      "fin": 23.52
+    },
+    {
+      "texto": "es",
+      "inicio": 23.6,
+      "fin": 23.76
+    },
+    {
+      "texto": "un",
+      "inicio": 23.787,
+      "fin": 23.84
+    },
+    {
+      "texto": "número",
+      "inicio": 23.897,
+      "fin": 24.24
+    },
+    {
+      "texto": "cualquiera,",
+      "inicio": 24.288,
+      "fin": 25.12
+    },
+    {
+      "texto": "no",
+      "inicio": 25.173,
+      "fin": 25.28
+    },
+    {
+      "texto": "una",
+      "inicio": 25.34,
+      "fin": 25.52
+    },
+    {
+      "texto": "hora.",
+      "inicio": 25.584,
+      "fin": 25.84
+    }
+  ]
+}
