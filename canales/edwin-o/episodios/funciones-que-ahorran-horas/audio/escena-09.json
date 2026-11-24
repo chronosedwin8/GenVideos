@@ -1,0 +1,375 @@
+{
+  "num": "09",
+  "titulo": "4. ORDENARPOR + TOMAR",
+  "texto": "Número cuatro: ORDENARPOR. Ordena una tabla por la columna que tú quieras, sin tocar los datos originales. ORDENARPOR, la tabla, la columna de montos, y menos uno para que vaya de mayor a menor. Y ahora el truco: envuélvela en TOMAR, con un tres, y obtienes tu top tres de ventas. Luis con mil doscientos cincuenta, Ana con mil doscientos, y Pedro con mil ciento cincuenta. Un ranking automático en una sola línea.",
+  "texto_tts": "Número cuatro: ORDENARPOR. Ordena una tabla por la columna que tú quieras, sin tocar los datos originales. ORDENARPOR, la tabla, la columna de montos, y menos uno para que vaya de mayor a menor. Y ahora el truco: envuélvela en TOMAR, con un tres, y obtienes tu top tres de ventas. Luis con mil doscientos cincuenta, Ana con mil doscientos, y Pedro con mil ciento cincuenta. Un ranking automático en una sola línea.",
+  "modelo": "eleven_v3",
+  "duracion": 35.6,
+  "palabras": [
+    {
+      "texto": "Número",
+      "inicio": 0.0,
+      "fin": 0.32
+    },
+    {
+      "texto": "cuatro:",
+      "inicio": 0.366,
+      "fin": 0.8
+    },
+    {
+      "texto": "ORDENARPOR.",
+      "inicio": 0.92,
+      "fin": 2.88
+    },
+    {
+      "texto": "Ordena",
+      "inicio": 2.987,
+      "fin": 3.6
+    },
+    {
+      "texto": "una",
+      "inicio": 3.68,
+      "fin": 3.92
+    },
+    {
+      "texto": "tabla",
+      "inicio": 4.0,
+      "fin": 4.4
+    },
+    {
+      "texto": "por",
+      "inicio": 4.52,
+      "fin": 4.88
+    },
+    {
+      "texto": "la",
+      "inicio": 4.907,
+      "fin": 4.96
+    },
+    {
+      "texto": "columna",
+      "inicio": 5.02,
+      "fin": 5.44
+    },
+    {
+      "texto": "que",
+      "inicio": 5.48,
+      "fin": 5.6
+    },
+    {
+      "texto": "tú",
+      "inicio": 5.653,
+      "fin": 5.76
+    },
+    {
+      "texto": "quieras,",
+      "inicio": 5.813,
+      "fin": 6.64
+    },
+    {
+      "texto": "sin",
+      "inicio": 6.72,
+      "fin": 6.96
+    },
+    {
+      "texto": "tocar",
+      "inicio": 7.04,
+      "fin": 7.44
+    },
+    {
+      "texto": "los",
+      "inicio": 7.52,
+      "fin": 7.76
+    },
+    {
+      "texto": "datos",
+      "inicio": 7.827,
+      "fin": 8.16
+    },
+    {
+      "texto": "originales.",
+      "inicio": 8.208,
+      "fin": 9.12
+    },
+    {
+      "texto": "ORDENARPOR,",
+      "inicio": 9.28,
+      "fin": 11.12
+    },
+    {
+      "texto": "la",
+      "inicio": 11.147,
+      "fin": 11.2
+    },
+    {
+      "texto": "tabla,",
+      "inicio": 11.267,
+      "fin": 11.76
+    },
+    {
+      "texto": "la",
+      "inicio": 11.813,
+      "fin": 11.92
+    },
+    {
+      "texto": "columna",
+      "inicio": 11.97,
+      "fin": 12.32
+    },
+    {
+      "texto": "de",
+      "inicio": 12.347,
+      "fin": 12.4
+    },
+    {
+      "texto": "montos,",
+      "inicio": 12.48,
+      "fin": 13.52
+    },
+    {
+      "texto": "y",
+      "inicio": 13.56,
+      "fin": 13.6
+    },
+    {
+      "texto": "menos",
+      "inicio": 13.653,
+      "fin": 13.92
+    },
+    {
+      "texto": "uno",
+      "inicio": 13.98,
+      "fin": 14.16
+    },
+    {
+      "texto": "para",
+      "inicio": 14.224,
+      "fin": 14.48
+    },
+    {
+      "texto": "que",
+      "inicio": 14.52,
+      "fin": 14.64
+    },
+    {
+      "texto": "vaya",
+      "inicio": 14.68,
+      "fin": 14.96
+    },
+    {
+      "texto": "de",
+      "inicio": 15.04,
+      "fin": 15.2
+    },
+    {
+      "texto": "mayor",
+      "inicio": 15.267,
+      "fin": 15.6
+    },
+    {
+      "texto": "a",
+      "inicio": 15.72,
+      "fin": 15.84
+    },
+    {
+      "texto": "menor.",
+      "inicio": 15.907,
+      "fin": 16.4
+    },
+    {
+      "texto": "Y",
+      "inicio": 16.8,
+      "fin": 17.2
+    },
+    {
+      "texto": "ahora",
+      "inicio": 17.24,
+      "fin": 17.44
+    },
+    {
+      "texto": "el",
+      "inicio": 17.467,
+      "fin": 17.52
+    },
+    {
+      "texto": "truco:",
+      "inicio": 17.573,
+      "fin": 18.48
+    },
+    {
+      "texto": "envuélvela",
+      "inicio": 18.54,
+      "fin": 19.12
+    },
+    {
+      "texto": "en",
+      "inicio": 19.173,
+      "fin": 19.28
+    },
+    {
+      "texto": "TOMAR,",
+      "inicio": 19.36,
+      "fin": 20.0
+    },
+    {
+      "texto": "con",
+      "inicio": 20.06,
+      "fin": 20.24
+    },
+    {
+      "texto": "un",
+      "inicio": 20.267,
+      "fin": 20.32
+    },
+    {
+      "texto": "tres,",
+      "inicio": 20.416,
+      "fin": 21.12
+    },
+    {
+      "texto": "y",
+      "inicio": 21.28,
+      "fin": 21.44
+    },
+    {
+      "texto": "obtienes",
+      "inicio": 21.5,
+      "fin": 22.08
+    },
+    {
+      "texto": "tu",
+      "inicio": 22.213,
+      "fin": 22.48
+    },
+    {
+      "texto": "top",
+      "inicio": 22.58,
+      "fin": 22.88
+    },
+    {
+      "texto": "tres",
+      "inicio": 22.944,
+      "fin": 23.2
+    },
+    {
+      "texto": "de",
+      "inicio": 23.253,
+      "fin": 23.36
+    },
+    {
+      "texto": "ventas.",
+      "inicio": 23.44,
+      "fin": 24.24
+    },
+    {
+      "texto": "Luis",
+      "inicio": 24.464,
+      "fin": 25.36
+    },
+    {
+      "texto": "con",
+      "inicio": 25.44,
+      "fin": 25.68
+    },
+    {
+      "texto": "mil",
+      "inicio": 25.72,
+      "fin": 25.84
+    },
+    {
+      "texto": "doscientos",
+      "inicio": 25.88,
+      "fin": 26.32
+    },
+    {
+      "texto": "cincuenta,",
+      "inicio": 26.36,
+      "fin": 27.44
+    },
+    {
+      "texto": "Ana",
+      "inicio": 27.6,
+      "fin": 28.08
+    },
+    {
+      "texto": "con",
+      "inicio": 28.14,
+      "fin": 28.32
+    },
+    {
+      "texto": "mil",
+      "inicio": 28.38,
+      "fin": 28.56
+    },
+    {
+      "texto": "doscientos,",
+      "inicio": 28.62,
+      "fin": 29.52
+    },
+    {
+      "texto": "y",
+      "inicio": 29.6,
+      "fin": 29.68
+    },
+    {
+      "texto": "Pedro",
+      "inicio": 29.76,
+      "fin": 30.16
+    },
+    {
+      "texto": "con",
+      "inicio": 30.24,
+      "fin": 30.48
+    },
+    {
+      "texto": "mil",
+      "inicio": 30.54,
+      "fin": 30.72
+    },
+    {
+      "texto": "ciento",
+      "inicio": 30.84,
+      "fin": 31.2
+    },
+    {
+      "texto": "cincuenta.",
+      "inicio": 31.28,
+      "fin": 32.0
+    },
+    {
+      "texto": "Un",
+      "inicio": 32.24,
+      "fin": 32.72
+    },
+    {
+      "texto": "ranking",
+      "inicio": 32.79,
+      "fin": 33.28
+    },
+    {
+      "texto": "automático",
+      "inicio": 33.347,
+      "fin": 34.16
+    },
+    {
+      "texto": "en",
+      "inicio": 34.267,
+      "fin": 34.48
+    },
+    {
+      "texto": "una",
+      "inicio": 34.54,
+      "fin": 34.72
+    },
+    {
+      "texto": "sola",
+      "inicio": 34.784,
+      "fin": 35.04
+    },
+    {
+      "texto": "línea.",
+      "inicio": 35.107,
+      "fin": 35.6
+    }
+  ]
+}

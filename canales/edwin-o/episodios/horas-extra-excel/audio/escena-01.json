@@ -4,192 +4,192 @@
   "texto": "¿Todavía calculas las horas extra con calculadora y papel? Mira esto: escribes la entrada y la salida, y Excel hace todo lo demás. Horas trabajadas, turnos de noche, horas extra y hasta lo que hay que pagar.",
   "texto_tts": "[curious] ¿Todavía calculas las horas extra con calculadora y papel? [excited] Mira esto: escribes la entrada y la salida, y Excel hace todo lo demás. Horas trabajadas, turnos de noche, horas extra y hasta lo que hay que pagar.",
   "modelo": "eleven_v3",
-  "duracion": 16.086,
+  "duracion": 14.005,
   "palabras": [
     {
       "texto": "¿Todavía",
-      "inicio": 0.093,
-      "fin": 0.48
+      "inicio": 0.056,
+      "fin": 0.4
     },
     {
       "texto": "calculas",
-      "inicio": 0.56,
-      "fin": 1.28
+      "inicio": 0.457,
+      "fin": 0.96
     },
     {
       "texto": "las",
-      "inicio": 1.36,
-      "fin": 1.6
+      "inicio": 1.0,
+      "fin": 1.12
     },
     {
       "texto": "horas",
-      "inicio": 1.653,
-      "fin": 1.92
+      "inicio": 1.173,
+      "fin": 1.44
     },
     {
       "texto": "extra",
-      "inicio": 1.987,
-      "fin": 2.32
+      "inicio": 1.493,
+      "fin": 1.76
     },
     {
       "texto": "con",
-      "inicio": 2.38,
-      "fin": 2.56
+      "inicio": 1.82,
+      "fin": 2.0
     },
     {
       "texto": "calculadora",
-      "inicio": 2.617,
-      "fin": 3.28
+      "inicio": 2.046,
+      "fin": 2.56
     },
     {
       "texto": "y",
-      "inicio": 3.32,
-      "fin": 3.36
+      "inicio": 2.6,
+      "fin": 2.64
     },
     {
       "texto": "papel?",
-      "inicio": 3.44,
-      "fin": 3.92
+      "inicio": 2.693,
+      "fin": 3.12
     },
     {
       "texto": "Mira",
-      "inicio": 4.866,
-      "fin": 5.046
+      "inicio": 4.085,
+      "fin": 4.165
     },
     {
       "texto": "esto:",
-      "inicio": 5.126,
-      "fin": 6.006
+      "inicio": 4.229,
+      "fin": 4.645
     },
     {
       "texto": "escribes",
-      "inicio": 6.059,
-      "fin": 6.566
+      "inicio": 4.858,
+      "fin": 5.525
     },
     {
       "texto": "la",
-      "inicio": 6.593,
-      "fin": 6.646
+      "inicio": 5.552,
+      "fin": 5.605
     },
     {
       "texto": "entrada",
-      "inicio": 6.696,
-      "fin": 7.046
+      "inicio": 5.645,
+      "fin": 5.925
     },
     {
       "texto": "y",
-      "inicio": 7.086,
-      "fin": 7.126
+      "inicio": 5.965,
+      "fin": 6.005
     },
     {
       "texto": "la",
-      "inicio": 7.179,
-      "fin": 7.286
+      "inicio": 6.032,
+      "fin": 6.085
     },
     {
       "texto": "salida,",
-      "inicio": 7.355,
-      "fin": 8.086
+      "inicio": 6.154,
+      "fin": 6.645
     },
     {
       "texto": "y",
-      "inicio": 8.126,
-      "fin": 8.166
+      "inicio": 6.805,
+      "fin": 6.965
     },
     {
       "texto": "Excel",
-      "inicio": 8.259,
-      "fin": 8.726
+      "inicio": 7.032,
+      "fin": 7.365
     },
     {
       "texto": "hace",
-      "inicio": 8.822,
-      "fin": 9.206
+      "inicio": 7.429,
+      "fin": 7.685
     },
     {
       "texto": "todo",
-      "inicio": 9.302,
-      "fin": 9.686
+      "inicio": 7.749,
+      "fin": 8.005
     },
     {
       "texto": "lo",
-      "inicio": 9.713,
-      "fin": 9.766
+      "inicio": 8.058,
+      "fin": 8.165
     },
     {
       "texto": "demás.",
-      "inicio": 9.826,
-      "fin": 10.326
+      "inicio": 8.205,
+      "fin": 8.645
     },
     {
       "texto": "Horas",
-      "inicio": 10.486,
-      "fin": 11.126
+      "inicio": 8.825,
+      "fin": 9.525
     },
     {
       "texto": "trabajadas,",
-      "inicio": 11.183,
-      "fin": 12.006
+      "inicio": 9.582,
+      "fin": 10.405
     },
     {
       "texto": "turnos",
-      "inicio": 12.086,
-      "fin": 12.566
+      "inicio": 10.453,
+      "fin": 10.725
     },
     {
       "texto": "de",
-      "inicio": 12.593,
-      "fin": 12.646
+      "inicio": 10.752,
+      "fin": 10.805
     },
     {
       "texto": "noche,",
-      "inicio": 12.726,
-      "fin": 13.206
+      "inicio": 10.885,
+      "fin": 11.445
     },
     {
       "texto": "horas",
-      "inicio": 13.299,
-      "fin": 13.766
+      "inicio": 11.498,
+      "fin": 11.765
     },
     {
       "texto": "extra",
-      "inicio": 13.846,
-      "fin": 14.246
+      "inicio": 11.832,
+      "fin": 12.165
     },
     {
       "texto": "y",
-      "inicio": 14.406,
-      "fin": 14.566
+      "inicio": 12.445,
+      "fin": 12.725
     },
     {
       "texto": "hasta",
-      "inicio": 14.619,
-      "fin": 14.886
+      "inicio": 12.765,
+      "fin": 12.965
     },
     {
       "texto": "lo",
-      "inicio": 14.939,
-      "fin": 15.046
+      "inicio": 12.992,
+      "fin": 13.045
     },
     {
       "texto": "que",
-      "inicio": 15.086,
-      "fin": 15.206
+      "inicio": 13.065,
+      "fin": 13.125
     },
     {
       "texto": "hay",
-      "inicio": 15.266,
-      "fin": 15.446
+      "inicio": 13.165,
+      "fin": 13.285
     },
     {
       "texto": "que",
-      "inicio": 15.486,
-      "fin": 15.606
+      "inicio": 13.305,
+      "fin": 13.365
     },
     {
       "texto": "pagar.",
-      "inicio": 15.673,
-      "fin": 16.086
+      "inicio": 13.432,
+      "fin": 14.005
     }
   ]
 }

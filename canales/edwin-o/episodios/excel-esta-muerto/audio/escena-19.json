@@ -1,0 +1,440 @@
+{
+  "num": "19",
+  "titulo": "Tu opinión y siguiente video",
+  "texto": "Ahora quiero saber tu opinión. ¿Crees que Excel está muerto? ¿Ya usas IA en tu trabajo? Déjamelo en los comentarios, que los leo todos. Y si este video te ayudó a ver el panorama más claro, compártelo con ese compañero de trabajo que todavía dice que Excel ya no sirve. En el próximo video te enseño AGRUPARPOR, la función que hace resúmenes como una tabla dinámica, pero con una sola fórmula. Suscríbete para no perdértelo. El poder de la tecnología te va a cambiar el mundo.",
+  "texto_tts": "Ahora quiero saber tu opinión. ¿Crees que Excel está muerto? ¿Ya usas IA en tu trabajo? Déjamelo en los comentarios, que los leo todos. Y si este video te ayudó a ver el panorama más claro, compártelo con ese compañero de trabajo que todavía dice que Excel ya no sirve. En el próximo video te enseño AGRUPARPOR, la función que hace resúmenes como una tabla dinámica, pero con una sola fórmula. Suscríbete para no perdértelo. [excited] El poder de la tecnología te va a cambiar el mundo.",
+  "modelo": "eleven_v3",
+  "duracion": 32.32,
+  "palabras": [
+    {
+      "texto": "Ahora",
+      "inicio": 0.0,
+      "fin": 0.32
+    },
+    {
+      "texto": "quiero",
+      "inicio": 0.389,
+      "fin": 0.8
+    },
+    {
+      "texto": "saber",
+      "inicio": 0.84,
+      "fin": 1.04
+    },
+    {
+      "texto": "tu",
+      "inicio": 1.067,
+      "fin": 1.12
+    },
+    {
+      "texto": "opinión.",
+      "inicio": 1.168,
+      "fin": 1.68
+    },
+    {
+      "texto": "¿Crees",
+      "inicio": 1.96,
+      "fin": 2.56
+    },
+    {
+      "texto": "que",
+      "inicio": 2.58,
+      "fin": 2.64
+    },
+    {
+      "texto": "Excel",
+      "inicio": 2.693,
+      "fin": 2.96
+    },
+    {
+      "texto": "está",
+      "inicio": 3.008,
+      "fin": 3.2
+    },
+    {
+      "texto": "muerto?",
+      "inicio": 3.253,
+      "fin": 3.84
+    },
+    {
+      "texto": "¿Ya",
+      "inicio": 4.0,
+      "fin": 4.24
+    },
+    {
+      "texto": "usas",
+      "inicio": 4.32,
+      "fin": 4.64
+    },
+    {
+      "texto": "IA",
+      "inicio": 4.747,
+      "fin": 4.96
+    },
+    {
+      "texto": "en",
+      "inicio": 5.013,
+      "fin": 5.12
+    },
+    {
+      "texto": "tu",
+      "inicio": 5.147,
+      "fin": 5.2
+    },
+    {
+      "texto": "trabajo?",
+      "inicio": 5.27,
+      "fin": 5.84
+    },
+    {
+      "texto": "Déjamelo",
+      "inicio": 6.08,
+      "fin": 6.8
+    },
+    {
+      "texto": "en",
+      "inicio": 6.827,
+      "fin": 6.88
+    },
+    {
+      "texto": "los",
+      "inicio": 6.92,
+      "fin": 7.04
+    },
+    {
+      "texto": "comentarios,",
+      "inicio": 7.1,
+      "fin": 7.84
+    },
+    {
+      "texto": "que",
+      "inicio": 7.86,
+      "fin": 7.92
+    },
+    {
+      "texto": "los",
+      "inicio": 7.96,
+      "fin": 8.08
+    },
+    {
+      "texto": "leo",
+      "inicio": 8.14,
+      "fin": 8.32
+    },
+    {
+      "texto": "todos.",
+      "inicio": 8.4,
+      "fin": 8.88
+    },
+    {
+      "texto": "Y",
+      "inicio": 9.28,
+      "fin": 9.68
+    },
+    {
+      "texto": "si",
+      "inicio": 9.733,
+      "fin": 9.84
+    },
+    {
+      "texto": "este",
+      "inicio": 9.888,
+      "fin": 10.08
+    },
+    {
+      "texto": "video",
+      "inicio": 10.147,
+      "fin": 10.48
+    },
+    {
+      "texto": "te",
+      "inicio": 10.56,
+      "fin": 10.72
+    },
+    {
+      "texto": "ayudó",
+      "inicio": 10.752,
+      "fin": 10.96
+    },
+    {
+      "texto": "a",
+      "inicio": 11.0,
+      "fin": 11.04
+    },
+    {
+      "texto": "ver",
+      "inicio": 11.06,
+      "fin": 11.12
+    },
+    {
+      "texto": "el",
+      "inicio": 11.147,
+      "fin": 11.2
+    },
+    {
+      "texto": "panorama",
+      "inicio": 11.262,
+      "fin": 11.76
+    },
+    {
+      "texto": "más",
+      "inicio": 11.82,
+      "fin": 12.0
+    },
+    {
+      "texto": "claro,",
+      "inicio": 12.08,
+      "fin": 12.96
+    },
+    {
+      "texto": "compártelo",
+      "inicio": 13.008,
+      "fin": 13.52
+    },
+    {
+      "texto": "con",
+      "inicio": 13.56,
+      "fin": 13.68
+    },
+    {
+      "texto": "ese",
+      "inicio": 13.72,
+      "fin": 13.84
+    },
+    {
+      "texto": "compañero",
+      "inicio": 13.886,
+      "fin": 14.32
+    },
+    {
+      "texto": "de",
+      "inicio": 14.347,
+      "fin": 14.4
+    },
+    {
+      "texto": "trabajo",
+      "inicio": 14.47,
+      "fin": 14.96
+    },
+    {
+      "texto": "que",
+      "inicio": 15.0,
+      "fin": 15.12
+    },
+    {
+      "texto": "todavía",
+      "inicio": 15.16,
+      "fin": 15.44
+    },
+    {
+      "texto": "dice",
+      "inicio": 15.488,
+      "fin": 15.68
+    },
+    {
+      "texto": "que",
+      "inicio": 15.72,
+      "fin": 15.84
+    },
+    {
+      "texto": "Excel",
+      "inicio": 15.893,
+      "fin": 16.16
+    },
+    {
+      "texto": "ya",
+      "inicio": 16.187,
+      "fin": 16.24
+    },
+    {
+      "texto": "no",
+      "inicio": 16.293,
+      "fin": 16.4
+    },
+    {
+      "texto": "sirve.",
+      "inicio": 16.46,
+      "fin": 17.24
+    },
+    {
+      "texto": "En",
+      "inicio": 17.387,
+      "fin": 17.68
+    },
+    {
+      "texto": "el",
+      "inicio": 17.707,
+      "fin": 17.76
+    },
+    {
+      "texto": "próximo",
+      "inicio": 17.81,
+      "fin": 18.16
+    },
+    {
+      "texto": "video",
+      "inicio": 18.227,
+      "fin": 18.56
+    },
+    {
+      "texto": "te",
+      "inicio": 18.613,
+      "fin": 18.72
+    },
+    {
+      "texto": "enseño",
+      "inicio": 18.768,
+      "fin": 19.2
+    },
+    {
+      "texto": "AGRUPARPOR,",
+      "inicio": 19.36,
+      "fin": 20.88
+    },
+    {
+      "texto": "la",
+      "inicio": 20.907,
+      "fin": 20.96
+    },
+    {
+      "texto": "función",
+      "inicio": 21.02,
+      "fin": 21.44
+    },
+    {
+      "texto": "que",
+      "inicio": 21.48,
+      "fin": 21.6
+    },
+    {
+      "texto": "hace",
+      "inicio": 21.648,
+      "fin": 21.84
+    },
+    {
+      "texto": "resúmenes",
+      "inicio": 21.9,
+      "fin": 22.48
+    },
+    {
+      "texto": "como",
+      "inicio": 22.544,
+      "fin": 22.8
+    },
+    {
+      "texto": "una",
+      "inicio": 22.86,
+      "fin": 23.04
+    },
+    {
+      "texto": "tabla",
+      "inicio": 23.093,
+      "fin": 23.36
+    },
+    {
+      "texto": "dinámica,",
+      "inicio": 23.42,
+      "fin": 24.4
+    },
+    {
+      "texto": "pero",
+      "inicio": 24.432,
+      "fin": 24.56
+    },
+    {
+      "texto": "con",
+      "inicio": 24.6,
+      "fin": 24.72
+    },
+    {
+      "texto": "una",
+      "inicio": 24.78,
+      "fin": 24.96
+    },
+    {
+      "texto": "sola",
+      "inicio": 25.008,
+      "fin": 25.2
+    },
+    {
+      "texto": "fórmula.",
+      "inicio": 25.28,
+      "fin": 25.84
+    },
+    {
+      "texto": "Suscríbete",
+      "inicio": 26.04,
+      "fin": 27.04
+    },
+    {
+      "texto": "para",
+      "inicio": 27.104,
+      "fin": 27.36
+    },
+    {
+      "texto": "no",
+      "inicio": 27.413,
+      "fin": 27.52
+    },
+    {
+      "texto": "perdértelo.",
+      "inicio": 27.568,
+      "fin": 28.6
+    },
+    {
+      "texto": "El",
+      "inicio": 29.093,
+      "fin": 29.12
+    },
+    {
+      "texto": "poder",
+      "inicio": 29.2,
+      "fin": 29.6
+    },
+    {
+      "texto": "de",
+      "inicio": 29.627,
+      "fin": 29.68
+    },
+    {
+      "texto": "la",
+      "inicio": 29.707,
+      "fin": 29.76
+    },
+    {
+      "texto": "tecnología",
+      "inicio": 29.824,
+      "fin": 30.56
+    },
+    {
+      "texto": "te",
+      "inicio": 30.72,
+      "fin": 31.04
+    },
+    {
+      "texto": "va",
+      "inicio": 31.067,
+      "fin": 31.12
+    },
+    {
+      "texto": "a",
+      "inicio": 31.16,
+      "fin": 31.2
+    },
+    {
+      "texto": "cambiar",
+      "inicio": 31.25,
+      "fin": 31.6
+    },
+    {
+      "texto": "el",
+      "inicio": 31.653,
+      "fin": 31.76
+    },
+    {
+      "texto": "mundo.",
+      "inicio": 31.827,
+      "fin": 32.32
+    }
+  ]
+}

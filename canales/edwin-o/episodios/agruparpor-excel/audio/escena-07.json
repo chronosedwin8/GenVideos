@@ -1,0 +1,370 @@
+{
+  "num": "07",
+  "titulo": "Paso 1: la fórmula básica",
+  "texto": "Paso uno. En una celda vacía escribe: igual, AGRUPARPOR, abre paréntesis. Primero, la columna por la que quieres agrupar: las regiones, de B dos a B trece. Punto y coma. Luego, los valores que quieres sumar: los montos, de D dos a D trece. Punto y coma, y la función: SUMA. Cierra y presiona Enter. ¡Listo! Centro, Norte y Sur, cada uno con su total, y hasta el total general al final.",
+  "texto_tts": "Paso uno. En una celda vacía escribe: igual, AGRUPARPOR, abre paréntesis. Primero, la columna por la que quieres agrupar: las regiones, de B dos a B trece. Punto y coma. Luego, los valores que quieres sumar: los montos, de D dos a D trece. Punto y coma, y la función: SUMA. Cierra y presiona Enter. [excited] ¡Listo! Centro, Norte y Sur, cada uno con su total, y hasta el total general al final.",
+  "modelo": "eleven_v3",
+  "duracion": 38.0,
+  "palabras": [
+    {
+      "texto": "Paso",
+      "inicio": 0.0,
+      "fin": 0.32
+    },
+    {
+      "texto": "uno.",
+      "inicio": 0.4,
+      "fin": 0.72
+    },
+    {
+      "texto": "En",
+      "inicio": 0.987,
+      "fin": 1.52
+    },
+    {
+      "texto": "una",
+      "inicio": 1.58,
+      "fin": 1.76
+    },
+    {
+      "texto": "celda",
+      "inicio": 1.84,
+      "fin": 2.08
+    },
+    {
+      "texto": "vacía",
+      "inicio": 2.16,
+      "fin": 2.64
+    },
+    {
+      "texto": "escribe:",
+      "inicio": 2.773,
+      "fin": 3.52
+    },
+    {
+      "texto": "igual,",
+      "inicio": 3.76,
+      "fin": 5.12
+    },
+    {
+      "texto": "AGRUPARPOR,",
+      "inicio": 5.48,
+      "fin": 6.72
+    },
+    {
+      "texto": "abre",
+      "inicio": 6.864,
+      "fin": 7.44
+    },
+    {
+      "texto": "paréntesis.",
+      "inicio": 7.48,
+      "fin": 8.32
+    },
+    {
+      "texto": "Primero,",
+      "inicio": 8.56,
+      "fin": 9.92
+    },
+    {
+      "texto": "la",
+      "inicio": 9.947,
+      "fin": 10.0
+    },
+    {
+      "texto": "columna",
+      "inicio": 10.06,
+      "fin": 10.48
+    },
+    {
+      "texto": "por",
+      "inicio": 10.5,
+      "fin": 10.56
+    },
+    {
+      "texto": "la",
+      "inicio": 10.613,
+      "fin": 10.72
+    },
+    {
+      "texto": "que",
+      "inicio": 10.74,
+      "fin": 10.8
+    },
+    {
+      "texto": "quieres",
+      "inicio": 10.84,
+      "fin": 11.12
+    },
+    {
+      "texto": "agrupar:",
+      "inicio": 11.18,
+      "fin": 12.0
+    },
+    {
+      "texto": "las",
+      "inicio": 12.04,
+      "fin": 12.16
+    },
+    {
+      "texto": "regiones,",
+      "inicio": 12.229,
+      "fin": 12.88
+    },
+    {
+      "texto": "de",
+      "inicio": 13.067,
+      "fin": 13.44
+    },
+    {
+      "texto": "B",
+      "inicio": 13.52,
+      "fin": 13.6
+    },
+    {
+      "texto": "dos",
+      "inicio": 13.7,
+      "fin": 14.0
+    },
+    {
+      "texto": "a",
+      "inicio": 14.24,
+      "fin": 14.48
+    },
+    {
+      "texto": "B",
+      "inicio": 14.6,
+      "fin": 14.72
+    },
+    {
+      "texto": "trece.",
+      "inicio": 14.76,
+      "fin": 15.2
+    },
+    {
+      "texto": "Punto",
+      "inicio": 15.6,
+      "fin": 16.16
+    },
+    {
+      "texto": "y",
+      "inicio": 16.2,
+      "fin": 16.24
+    },
+    {
+      "texto": "coma.",
+      "inicio": 16.32,
+      "fin": 17.2
+    },
+    {
+      "texto": "Luego,",
+      "inicio": 17.48,
+      "fin": 18.24
+    },
+    {
+      "texto": "los",
+      "inicio": 18.32,
+      "fin": 18.56
+    },
+    {
+      "texto": "valores",
+      "inicio": 18.61,
+      "fin": 18.96
+    },
+    {
+      "texto": "que",
+      "inicio": 18.98,
+      "fin": 19.04
+    },
+    {
+      "texto": "quieres",
+      "inicio": 19.08,
+      "fin": 19.36
+    },
+    {
+      "texto": "sumar:",
+      "inicio": 19.4,
+      "fin": 20.24
+    },
+    {
+      "texto": "los",
+      "inicio": 20.28,
+      "fin": 20.4
+    },
+    {
+      "texto": "montos,",
+      "inicio": 20.48,
+      "fin": 21.12
+    },
+    {
+      "texto": "de",
+      "inicio": 21.28,
+      "fin": 21.6
+    },
+    {
+      "texto": "D",
+      "inicio": 21.68,
+      "fin": 21.76
+    },
+    {
+      "texto": "dos",
+      "inicio": 21.86,
+      "fin": 22.16
+    },
+    {
+      "texto": "a",
+      "inicio": 22.4,
+      "fin": 22.64
+    },
+    {
+      "texto": "D",
+      "inicio": 22.76,
+      "fin": 22.88
+    },
+    {
+      "texto": "trece.",
+      "inicio": 22.92,
+      "fin": 23.36
+    },
+    {
+      "texto": "Punto",
+      "inicio": 23.68,
+      "fin": 24.16
+    },
+    {
+      "texto": "y",
+      "inicio": 24.2,
+      "fin": 24.24
+    },
+    {
+      "texto": "coma,",
+      "inicio": 24.304,
+      "fin": 24.72
+    },
+    {
+      "texto": "y",
+      "inicio": 25.0,
+      "fin": 25.28
+    },
+    {
+      "texto": "la",
+      "inicio": 25.307,
+      "fin": 25.36
+    },
+    {
+      "texto": "función:",
+      "inicio": 25.44,
+      "fin": 26.08
+    },
+    {
+      "texto": "SUMA.",
+      "inicio": 26.28,
+      "fin": 27.12
+    },
+    {
+      "texto": "Cierra",
+      "inicio": 27.493,
+      "fin": 28.72
+    },
+    {
+      "texto": "y",
+      "inicio": 28.84,
+      "fin": 28.96
+    },
+    {
+      "texto": "presiona",
+      "inicio": 29.008,
+      "fin": 29.44
+    },
+    {
+      "texto": "Enter.",
+      "inicio": 29.56,
+      "fin": 30.24
+    },
+    {
+      "texto": "¡Listo!",
+      "inicio": 31.184,
+      "fin": 31.6
+    },
+    {
+      "texto": "Centro,",
+      "inicio": 31.771,
+      "fin": 32.8
+    },
+    {
+      "texto": "Norte",
+      "inicio": 32.893,
+      "fin": 33.36
+    },
+    {
+      "texto": "y",
+      "inicio": 33.4,
+      "fin": 33.44
+    },
+    {
+      "texto": "Sur,",
+      "inicio": 33.52,
+      "fin": 33.84
+    },
+    {
+      "texto": "cada",
+      "inicio": 33.968,
+      "fin": 34.48
+    },
+    {
+      "texto": "uno",
+      "inicio": 34.54,
+      "fin": 34.72
+    },
+    {
+      "texto": "con",
+      "inicio": 34.76,
+      "fin": 34.88
+    },
+    {
+      "texto": "su",
+      "inicio": 34.933,
+      "fin": 35.04
+    },
+    {
+      "texto": "total,",
+      "inicio": 35.107,
+      "fin": 35.6
+    },
+    {
+      "texto": "y",
+      "inicio": 35.8,
+      "fin": 36.0
+    },
+    {
+      "texto": "hasta",
+      "inicio": 36.04,
+      "fin": 36.24
+    },
+    {
+      "texto": "el",
+      "inicio": 36.267,
+      "fin": 36.32
+    },
+    {
+      "texto": "total",
+      "inicio": 36.373,
+      "fin": 36.64
+    },
+    {
+      "texto": "general",
+      "inicio": 36.7,
+      "fin": 37.12
+    },
+    {
+      "texto": "al",
+      "inicio": 37.253,
+      "fin": 37.52
+    },
+    {
+      "texto": "final.",
+      "inicio": 37.587,
+      "fin": 38.0
+    }
+  ]
+}

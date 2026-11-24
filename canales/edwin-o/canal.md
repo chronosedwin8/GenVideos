@@ -32,9 +32,12 @@ Fuente: https://www.edwinortiz.net/cv
 ## Formatos
 | Tipo | Duración | Palabras de [VOZ] | Estructura | Para qué |
 |------|----------|-------------------|------------|----------|
-| tutorial | 6–10 min | 840–1.400 | `estructura-tutorial.md` | resolver una tarea concreta paso a paso (100 % animado, sin grabar pantalla) |
-| lista | 6–10 min | 840–1.400 | `estructura-lista.md` | "7 funciones…", "5 errores…": descubrimiento y suscriptores |
+| tutorial | **8–10 min** | 1.100–1.300 | `estructura-tutorial.md` | resolver una tarea concreta paso a paso (100 % animado, sin grabar pantalla) |
+| lista | **8–10 min** | 1.100–1.300 | `estructura-lista.md` | "7 funciones…", "5 errores…": descubrimiento y suscriptores |
 | short | 20–60 s | 50–140 | ver skill crear-short | captar público nuevo (son la mayor fuente de alcance del canal) |
+
+**Duración mínima: 8 minutos** (pedido de Edwin, nov 2026). Con la voz clonada a ~134 ppm, eso son unas 1.100–1.300 palabras de [VOZ];
+el conteo estimado debe dar ≥ 8,5 min porque el audio real sale un poco más corto.
 
 **Producción 100 % animada:** Edwin pidió no grabar pantalla. Excel, Word y Outlook se recrean en Remotion con los
 componentes `HojaExcel` (cuadrícula, barra de fórmulas que se escribe sola, celdas que se llenan y resaltan),
@@ -97,7 +100,8 @@ de Microsoft o de Python, o se ejecuta, antes de aprobar el guion.
 - Miniaturas: estilo actual del canal (ver `marca.md`), que el público ya reconoce.
 
 ## Publicación
-- Frecuencia: 2 videos por semana, **martes y jueves a las 7:00 a. m. (UTC-5, Colombia)**, cada uno con 2–3 Shorts
-  repartidos el resto de la semana (lunes, miércoles, viernes o sábado a las 12:00 m.).
+- Frecuencia: 2 videos por semana, **martes y jueves a las 7:00 a. m. (UTC-5, Colombia)**, cada uno con **2 Shorts** a las 12:00 m.:
+  video del martes → miércoles y sábado; video del jueves → viernes y lunes siguiente.
+- Producción por lotes de 4 semanas (8 videos + 16 Shorts). Calendario vigente: `calendario.md`.
 - Publicar desde Claude: sí (`/conectar-youtube`). Monetización: sí (el canal ya está en el Programa de socios).
 - Web y tienda: https://www.edwinortiz.net · Blog de Excel: https://www.edwinortiz.net/excel/

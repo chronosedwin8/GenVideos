@@ -1,0 +1,330 @@
+{
+  "num": "11",
+  "titulo": "El aporte de Edwin",
+  "texto": "Te lo digo como docente. Lo veo en mis clases: el estudiante que no entiende qué es un rango, o qué hace el signo de dólar en una referencia, le cree todo a la IA. Y cuando la respuesta está mal, no se da cuenta. En cambio, el que domina lo básico usa la IA como un turbo. Termina en minutos, y sin errores.",
+  "texto_tts": "Te lo digo como docente. Lo veo en mis clases: el estudiante que no entiende qué es un rango, o qué hace el signo de dólar en una referencia, le cree todo a la IA. Y cuando la respuesta está mal, no se da cuenta. En cambio, el que domina lo básico usa la IA como un turbo. Termina en minutos, y sin errores.",
+  "modelo": "eleven_v3",
+  "duracion": 27.76,
+  "palabras": [
+    {
+      "texto": "Te",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "lo",
+      "inicio": 0.107,
+      "fin": 0.16
+    },
+    {
+      "texto": "digo",
+      "inicio": 0.22,
+      "fin": 0.56
+    },
+    {
+      "texto": "como",
+      "inicio": 0.592,
+      "fin": 0.72
+    },
+    {
+      "texto": "docente.",
+      "inicio": 0.78,
+      "fin": 1.52
+    },
+    {
+      "texto": "Lo",
+      "inicio": 1.867,
+      "fin": 2.56
+    },
+    {
+      "texto": "veo",
+      "inicio": 2.64,
+      "fin": 2.88
+    },
+    {
+      "texto": "en",
+      "inicio": 2.96,
+      "fin": 3.12
+    },
+    {
+      "texto": "mis",
+      "inicio": 3.16,
+      "fin": 3.28
+    },
+    {
+      "texto": "clases:",
+      "inicio": 3.371,
+      "fin": 4.16
+    },
+    {
+      "texto": "el",
+      "inicio": 4.213,
+      "fin": 4.32
+    },
+    {
+      "texto": "estudiante",
+      "inicio": 4.38,
+      "fin": 4.96
+    },
+    {
+      "texto": "que",
+      "inicio": 5.0,
+      "fin": 5.12
+    },
+    {
+      "texto": "no",
+      "inicio": 5.173,
+      "fin": 5.28
+    },
+    {
+      "texto": "entiende",
+      "inicio": 5.34,
+      "fin": 5.84
+    },
+    {
+      "texto": "qué",
+      "inicio": 5.9,
+      "fin": 6.08
+    },
+    {
+      "texto": "es",
+      "inicio": 6.133,
+      "fin": 6.24
+    },
+    {
+      "texto": "un",
+      "inicio": 6.293,
+      "fin": 6.4
+    },
+    {
+      "texto": "rango,",
+      "inicio": 6.48,
+      "fin": 7.48
+    },
+    {
+      "texto": "o",
+      "inicio": 7.74,
+      "fin": 8.0
+    },
+    {
+      "texto": "qué",
+      "inicio": 8.06,
+      "fin": 8.24
+    },
+    {
+      "texto": "hace",
+      "inicio": 8.32,
+      "fin": 8.64
+    },
+    {
+      "texto": "el",
+      "inicio": 8.747,
+      "fin": 8.96
+    },
+    {
+      "texto": "signo",
+      "inicio": 9.024,
+      "fin": 9.36
+    },
+    {
+      "texto": "de",
+      "inicio": 9.413,
+      "fin": 9.52
+    },
+    {
+      "texto": "dólar",
+      "inicio": 9.627,
+      "fin": 10.16
+    },
+    {
+      "texto": "en",
+      "inicio": 10.24,
+      "fin": 10.4
+    },
+    {
+      "texto": "una",
+      "inicio": 10.44,
+      "fin": 10.56
+    },
+    {
+      "texto": "referencia,",
+      "inicio": 10.64,
+      "fin": 11.52
+    },
+    {
+      "texto": "le",
+      "inicio": 11.813,
+      "fin": 12.4
+    },
+    {
+      "texto": "cree",
+      "inicio": 12.464,
+      "fin": 12.72
+    },
+    {
+      "texto": "todo",
+      "inicio": 12.816,
+      "fin": 13.2
+    },
+    {
+      "texto": "a",
+      "inicio": 13.32,
+      "fin": 13.44
+    },
+    {
+      "texto": "la",
+      "inicio": 13.493,
+      "fin": 13.6
+    },
+    {
+      "texto": "IA.",
+      "inicio": 13.707,
+      "fin": 14.08
+    },
+    {
+      "texto": "Y",
+      "inicio": 14.36,
+      "fin": 14.64
+    },
+    {
+      "texto": "cuando",
+      "inicio": 14.697,
+      "fin": 15.04
+    },
+    {
+      "texto": "la",
+      "inicio": 15.067,
+      "fin": 15.12
+    },
+    {
+      "texto": "respuesta",
+      "inicio": 15.168,
+      "fin": 15.6
+    },
+    {
+      "texto": "está",
+      "inicio": 15.648,
+      "fin": 15.84
+    },
+    {
+      "texto": "mal,",
+      "inicio": 15.9,
+      "fin": 16.4
+    },
+    {
+      "texto": "no",
+      "inicio": 16.453,
+      "fin": 16.56
+    },
+    {
+      "texto": "se",
+      "inicio": 16.64,
+      "fin": 16.8
+    },
+    {
+      "texto": "da",
+      "inicio": 16.853,
+      "fin": 16.96
+    },
+    {
+      "texto": "cuenta.",
+      "inicio": 17.04,
+      "fin": 17.6
+    },
+    {
+      "texto": "En",
+      "inicio": 17.973,
+      "fin": 18.72
+    },
+    {
+      "texto": "cambio,",
+      "inicio": 18.789,
+      "fin": 19.36
+    },
+    {
+      "texto": "el",
+      "inicio": 19.413,
+      "fin": 19.52
+    },
+    {
+      "texto": "que",
+      "inicio": 19.58,
+      "fin": 19.76
+    },
+    {
+      "texto": "domina",
+      "inicio": 19.817,
+      "fin": 20.16
+    },
+    {
+      "texto": "lo",
+      "inicio": 20.213,
+      "fin": 20.32
+    },
+    {
+      "texto": "básico",
+      "inicio": 20.4,
+      "fin": 21.2
+    },
+    {
+      "texto": "usa",
+      "inicio": 21.42,
+      "fin": 22.08
+    },
+    {
+      "texto": "la",
+      "inicio": 22.133,
+      "fin": 22.24
+    },
+    {
+      "texto": "IA",
+      "inicio": 22.32,
+      "fin": 22.48
+    },
+    {
+      "texto": "como",
+      "inicio": 22.544,
+      "fin": 22.8
+    },
+    {
+      "texto": "un",
+      "inicio": 22.853,
+      "fin": 22.96
+    },
+    {
+      "texto": "turbo.",
+      "inicio": 23.053,
+      "fin": 23.6
+    },
+    {
+      "texto": "Termina",
+      "inicio": 23.76,
+      "fin": 24.8
+    },
+    {
+      "texto": "en",
+      "inicio": 24.907,
+      "fin": 25.12
+    },
+    {
+      "texto": "minutos,",
+      "inicio": 25.23,
+      "fin": 26.08
+    },
+    {
+      "texto": "y",
+      "inicio": 26.36,
+      "fin": 26.64
+    },
+    {
+      "texto": "sin",
+      "inicio": 26.7,
+      "fin": 26.88
+    },
+    {
+      "texto": "errores.",
+      "inicio": 26.97,
+      "fin": 27.76
+    }
+  ]
+}

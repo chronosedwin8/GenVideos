@@ -1,0 +1,335 @@
+{
+  "num": "05",
+  "titulo": "El problema",
+  "texto": "Este es el archivo: dos mil cuatrocientas ventas de noviembre, de doce sucursales. A mano, tendrías que filtrar una sucursal, copiar, crear un libro nuevo, pegar, hacer el resumen, guardar… y repetirlo doce veces. Fácilmente una hora. Y la semana siguiente, otra vez. Y entre tanto copiar y pegar, tarde o temprano se te escapa una fila, o pegas los datos en el archivo equivocado.",
+  "texto_tts": "Este es el archivo: dos mil cuatrocientas ventas de noviembre, de doce sucursales. A mano, tendrías que filtrar una sucursal, copiar, crear un libro nuevo, pegar, hacer el resumen, guardar… y repetirlo doce veces. Fácilmente una hora. Y la semana siguiente, otra vez. Y entre tanto copiar y pegar, tarde o temprano se te escapa una fila, o pegas los datos en el archivo equivocado.",
+  "modelo": "eleven_v3",
+  "duracion": 25.36,
+  "palabras": [
+    {
+      "texto": "Este",
+      "inicio": 0.0,
+      "fin": 0.16
+    },
+    {
+      "texto": "es",
+      "inicio": 0.187,
+      "fin": 0.24
+    },
+    {
+      "texto": "el",
+      "inicio": 0.267,
+      "fin": 0.32
+    },
+    {
+      "texto": "archivo:",
+      "inicio": 0.37,
+      "fin": 0.8
+    },
+    {
+      "texto": "dos",
+      "inicio": 0.82,
+      "fin": 0.88
+    },
+    {
+      "texto": "mil",
+      "inicio": 0.92,
+      "fin": 1.04
+    },
+    {
+      "texto": "cuatrocientas",
+      "inicio": 1.097,
+      "fin": 1.92
+    },
+    {
+      "texto": "ventas",
+      "inicio": 1.954,
+      "fin": 2.16
+    },
+    {
+      "texto": "de",
+      "inicio": 2.187,
+      "fin": 2.24
+    },
+    {
+      "texto": "noviembre,",
+      "inicio": 2.3,
+      "fin": 3.28
+    },
+    {
+      "texto": "de",
+      "inicio": 3.333,
+      "fin": 3.44
+    },
+    {
+      "texto": "doce",
+      "inicio": 3.493,
+      "fin": 3.76
+    },
+    {
+      "texto": "sucursales.",
+      "inicio": 3.82,
+      "fin": 4.72
+    },
+    {
+      "texto": "A",
+      "inicio": 5.08,
+      "fin": 5.44
+    },
+    {
+      "texto": "mano,",
+      "inicio": 5.504,
+      "fin": 5.92
+    },
+    {
+      "texto": "tendrías",
+      "inicio": 5.973,
+      "fin": 6.4
+    },
+    {
+      "texto": "que",
+      "inicio": 6.44,
+      "fin": 6.56
+    },
+    {
+      "texto": "filtrar",
+      "inicio": 6.627,
+      "fin": 7.12
+    },
+    {
+      "texto": "una",
+      "inicio": 7.2,
+      "fin": 7.44
+    },
+    {
+      "texto": "sucursal,",
+      "inicio": 7.5,
+      "fin": 8.16
+    },
+    {
+      "texto": "copiar,",
+      "inicio": 8.2,
+      "fin": 8.64
+    },
+    {
+      "texto": "crear",
+      "inicio": 8.68,
+      "fin": 8.88
+    },
+    {
+      "texto": "un",
+      "inicio": 8.907,
+      "fin": 8.96
+    },
+    {
+      "texto": "libro",
+      "inicio": 9.0,
+      "fin": 9.2
+    },
+    {
+      "texto": "nuevo,",
+      "inicio": 9.267,
+      "fin": 9.68
+    },
+    {
+      "texto": "pegar,",
+      "inicio": 9.74,
+      "fin": 10.48
+    },
+    {
+      "texto": "hacer",
+      "inicio": 10.52,
+      "fin": 10.72
+    },
+    {
+      "texto": "el",
+      "inicio": 10.773,
+      "fin": 10.88
+    },
+    {
+      "texto": "resumen,",
+      "inicio": 10.94,
+      "fin": 11.68
+    },
+    {
+      "texto": "guardar…",
+      "inicio": 11.71,
+      "fin": 12.4
+    },
+    {
+      "texto": "y",
+      "inicio": 12.44,
+      "fin": 12.48
+    },
+    {
+      "texto": "repetirlo",
+      "inicio": 12.547,
+      "fin": 13.2
+    },
+    {
+      "texto": "doce",
+      "inicio": 13.36,
+      "fin": 13.76
+    },
+    {
+      "texto": "veces.",
+      "inicio": 13.853,
+      "fin": 14.4
+    },
+    {
+      "texto": "Fácilmente",
+      "inicio": 14.76,
+      "fin": 15.6
+    },
+    {
+      "texto": "una",
+      "inicio": 15.64,
+      "fin": 15.76
+    },
+    {
+      "texto": "hora.",
+      "inicio": 15.824,
+      "fin": 16.16
+    },
+    {
+      "texto": "Y",
+      "inicio": 16.44,
+      "fin": 16.72
+    },
+    {
+      "texto": "la",
+      "inicio": 16.747,
+      "fin": 16.8
+    },
+    {
+      "texto": "semana",
+      "inicio": 16.846,
+      "fin": 17.12
+    },
+    {
+      "texto": "siguiente,",
+      "inicio": 17.168,
+      "fin": 17.76
+    },
+    {
+      "texto": "otra",
+      "inicio": 17.824,
+      "fin": 18.08
+    },
+    {
+      "texto": "vez.",
+      "inicio": 18.14,
+      "fin": 18.48
+    },
+    {
+      "texto": "Y",
+      "inicio": 18.84,
+      "fin": 19.2
+    },
+    {
+      "texto": "entre",
+      "inicio": 19.24,
+      "fin": 19.44
+    },
+    {
+      "texto": "tanto",
+      "inicio": 19.507,
+      "fin": 19.84
+    },
+    {
+      "texto": "copiar",
+      "inicio": 19.88,
+      "fin": 20.16
+    },
+    {
+      "texto": "y",
+      "inicio": 20.22,
+      "fin": 20.28
+    },
+    {
+      "texto": "pegar,",
+      "inicio": 20.31,
+      "fin": 20.64
+    },
+    {
+      "texto": "tarde",
+      "inicio": 20.707,
+      "fin": 21.04
+    },
+    {
+      "texto": "o",
+      "inicio": 21.08,
+      "fin": 21.12
+    },
+    {
+      "texto": "temprano",
+      "inicio": 21.16,
+      "fin": 21.6
+    },
+    {
+      "texto": "se",
+      "inicio": 21.627,
+      "fin": 21.68
+    },
+    {
+      "texto": "te",
+      "inicio": 21.707,
+      "fin": 21.76
+    },
+    {
+      "texto": "escapa",
+      "inicio": 21.8,
+      "fin": 22.08
+    },
+    {
+      "texto": "una",
+      "inicio": 22.12,
+      "fin": 22.24
+    },
+    {
+      "texto": "fila,",
+      "inicio": 22.304,
+      "fin": 23.04
+    },
+    {
+      "texto": "o",
+      "inicio": 23.08,
+      "fin": 23.12
+    },
+    {
+      "texto": "pegas",
+      "inicio": 23.2,
+      "fin": 23.44
+    },
+    {
+      "texto": "los",
+      "inicio": 23.48,
+      "fin": 23.6
+    },
+    {
+      "texto": "datos",
+      "inicio": 23.667,
+      "fin": 24.0
+    },
+    {
+      "texto": "en",
+      "inicio": 24.08,
+      "fin": 24.24
+    },
+    {
+      "texto": "el",
+      "inicio": 24.267,
+      "fin": 24.32
+    },
+    {
+      "texto": "archivo",
+      "inicio": 24.36,
+      "fin": 24.64
+    },
+    {
+      "texto": "equivocado.",
+      "inicio": 24.693,
+      "fin": 25.36
+    }
+  ]
+}

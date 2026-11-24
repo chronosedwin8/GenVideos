@@ -1,0 +1,475 @@
+{
+  "num": "18",
+  "titulo": "Bonus: que te explique una fórmula heredada",
+  "texto": "Un bonus que te va a ahorrar mucho tiempo. ¿Te ha pasado que heredas un archivo de otra persona, con fórmulas larguísimas que nadie entiende? Copia la fórmula, pégala en la IA y escribe: explícame esta fórmula paso a paso, y dime si hay una forma más simple. En este caso, la IA me explica que busca un precio en otra hoja, y que si no lo encuentra pone cero. Y me propone una versión más corta con SI punto ERROR. Pero ojo: igual que antes, compruébala con tus datos antes de cambiarla.",
+  "texto_tts": "Un bonus que te va a ahorrar mucho tiempo. ¿Te ha pasado que heredas un archivo de otra persona, con fórmulas larguísimas que nadie entiende? Copia la fórmula, pégala en la IA y escribe: explícame esta fórmula paso a paso, y dime si hay una forma más simple. En este caso, la IA me explica que busca un precio en otra hoja, y que si no lo encuentra pone cero. Y me propone una versión más corta con SI punto ERROR. Pero ojo: igual que antes, compruébala con tus datos antes de cambiarla.",
+  "modelo": "eleven_v3",
+  "duracion": 32.72,
+  "palabras": [
+    {
+      "texto": "Un",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "bonus",
+      "inicio": 0.133,
+      "fin": 0.4
+    },
+    {
+      "texto": "que",
+      "inicio": 0.42,
+      "fin": 0.48
+    },
+    {
+      "texto": "te",
+      "inicio": 0.533,
+      "fin": 0.64
+    },
+    {
+      "texto": "va",
+      "inicio": 0.667,
+      "fin": 0.72
+    },
+    {
+      "texto": "a",
+      "inicio": 0.74,
+      "fin": 0.76
+    },
+    {
+      "texto": "ahorrar",
+      "inicio": 0.773,
+      "fin": 1.12
+    },
+    {
+      "texto": "mucho",
+      "inicio": 1.187,
+      "fin": 1.52
+    },
+    {
+      "texto": "tiempo.",
+      "inicio": 1.589,
+      "fin": 2.08
+    },
+    {
+      "texto": "¿Te",
+      "inicio": 2.36,
+      "fin": 2.72
+    },
+    {
+      "texto": "ha",
+      "inicio": 2.747,
+      "fin": 2.8
+    },
+    {
+      "texto": "pasado",
+      "inicio": 2.857,
+      "fin": 3.2
+    },
+    {
+      "texto": "que",
+      "inicio": 3.24,
+      "fin": 3.36
+    },
+    {
+      "texto": "heredas",
+      "inicio": 3.38,
+      "fin": 3.68
+    },
+    {
+      "texto": "un",
+      "inicio": 3.707,
+      "fin": 3.76
+    },
+    {
+      "texto": "archivo",
+      "inicio": 3.81,
+      "fin": 4.16
+    },
+    {
+      "texto": "de",
+      "inicio": 4.187,
+      "fin": 4.24
+    },
+    {
+      "texto": "otra",
+      "inicio": 4.288,
+      "fin": 4.48
+    },
+    {
+      "texto": "persona,",
+      "inicio": 4.54,
+      "fin": 5.36
+    },
+    {
+      "texto": "con",
+      "inicio": 5.4,
+      "fin": 5.52
+    },
+    {
+      "texto": "fórmulas",
+      "inicio": 5.56,
+      "fin": 6.0
+    },
+    {
+      "texto": "larguísimas",
+      "inicio": 6.064,
+      "fin": 6.8
+    },
+    {
+      "texto": "que",
+      "inicio": 6.82,
+      "fin": 6.88
+    },
+    {
+      "texto": "nadie",
+      "inicio": 6.92,
+      "fin": 7.12
+    },
+    {
+      "texto": "entiende?",
+      "inicio": 7.16,
+      "fin": 8.0
+    },
+    {
+      "texto": "Copia",
+      "inicio": 8.1,
+      "fin": 8.48
+    },
+    {
+      "texto": "la",
+      "inicio": 8.507,
+      "fin": 8.56
+    },
+    {
+      "texto": "fórmula,",
+      "inicio": 8.64,
+      "fin": 9.6
+    },
+    {
+      "texto": "pégala",
+      "inicio": 9.64,
+      "fin": 9.92
+    },
+    {
+      "texto": "en",
+      "inicio": 9.947,
+      "fin": 10.0
+    },
+    {
+      "texto": "la",
+      "inicio": 10.053,
+      "fin": 10.16
+    },
+    {
+      "texto": "IA",
+      "inicio": 10.267,
+      "fin": 10.48
+    },
+    {
+      "texto": "y",
+      "inicio": 10.52,
+      "fin": 10.56
+    },
+    {
+      "texto": "escribe:",
+      "inicio": 10.64,
+      "fin": 11.2
+    },
+    {
+      "texto": "explícame",
+      "inicio": 11.328,
+      "fin": 12.08
+    },
+    {
+      "texto": "esta",
+      "inicio": 12.112,
+      "fin": 12.24
+    },
+    {
+      "texto": "fórmula",
+      "inicio": 12.28,
+      "fin": 12.72
+    },
+    {
+      "texto": "paso",
+      "inicio": 12.8,
+      "fin": 13.12
+    },
+    {
+      "texto": "a",
+      "inicio": 13.16,
+      "fin": 13.2
+    },
+    {
+      "texto": "paso,",
+      "inicio": 13.264,
+      "fin": 13.92
+    },
+    {
+      "texto": "y",
+      "inicio": 13.96,
+      "fin": 14.0
+    },
+    {
+      "texto": "dime",
+      "inicio": 14.064,
+      "fin": 14.32
+    },
+    {
+      "texto": "si",
+      "inicio": 14.347,
+      "fin": 14.4
+    },
+    {
+      "texto": "hay",
+      "inicio": 14.44,
+      "fin": 14.56
+    },
+    {
+      "texto": "una",
+      "inicio": 14.58,
+      "fin": 14.64
+    },
+    {
+      "texto": "forma",
+      "inicio": 14.707,
+      "fin": 15.04
+    },
+    {
+      "texto": "más",
+      "inicio": 15.12,
+      "fin": 15.36
+    },
+    {
+      "texto": "simple.",
+      "inicio": 15.429,
+      "fin": 16.16
+    },
+    {
+      "texto": "En",
+      "inicio": 16.293,
+      "fin": 16.56
+    },
+    {
+      "texto": "este",
+      "inicio": 16.608,
+      "fin": 16.8
+    },
+    {
+      "texto": "caso,",
+      "inicio": 16.864,
+      "fin": 17.28
+    },
+    {
+      "texto": "la",
+      "inicio": 17.333,
+      "fin": 17.44
+    },
+    {
+      "texto": "IA",
+      "inicio": 17.52,
+      "fin": 17.68
+    },
+    {
+      "texto": "me",
+      "inicio": 17.707,
+      "fin": 17.76
+    },
+    {
+      "texto": "explica",
+      "inicio": 17.8,
+      "fin": 18.16
+    },
+    {
+      "texto": "que",
+      "inicio": 18.2,
+      "fin": 18.32
+    },
+    {
+      "texto": "busca",
+      "inicio": 18.373,
+      "fin": 18.64
+    },
+    {
+      "texto": "un",
+      "inicio": 18.72,
+      "fin": 18.88
+    },
+    {
+      "texto": "precio",
+      "inicio": 18.949,
+      "fin": 19.36
+    },
+    {
+      "texto": "en",
+      "inicio": 19.44,
+      "fin": 19.6
+    },
+    {
+      "texto": "otra",
+      "inicio": 19.648,
+      "fin": 19.84
+    },
+    {
+      "texto": "hoja,",
+      "inicio": 19.893,
+      "fin": 20.64
+    },
+    {
+      "texto": "y",
+      "inicio": 20.68,
+      "fin": 20.72
+    },
+    {
+      "texto": "que",
+      "inicio": 20.74,
+      "fin": 20.8
+    },
+    {
+      "texto": "si",
+      "inicio": 20.853,
+      "fin": 20.96
+    },
+    {
+      "texto": "no",
+      "inicio": 21.013,
+      "fin": 21.12
+    },
+    {
+      "texto": "lo",
+      "inicio": 21.147,
+      "fin": 21.2
+    },
+    {
+      "texto": "encuentra",
+      "inicio": 21.248,
+      "fin": 21.68
+    },
+    {
+      "texto": "pone",
+      "inicio": 21.8,
+      "fin": 22.08
+    },
+    {
+      "texto": "cero.",
+      "inicio": 22.16,
+      "fin": 22.72
+    },
+    {
+      "texto": "Y",
+      "inicio": 22.92,
+      "fin": 23.12
+    },
+    {
+      "texto": "me",
+      "inicio": 23.147,
+      "fin": 23.2
+    },
+    {
+      "texto": "propone",
+      "inicio": 23.248,
+      "fin": 23.6
+    },
+    {
+      "texto": "una",
+      "inicio": 23.64,
+      "fin": 23.76
+    },
+    {
+      "texto": "versión",
+      "inicio": 23.8,
+      "fin": 24.08
+    },
+    {
+      "texto": "más",
+      "inicio": 24.16,
+      "fin": 24.4
+    },
+    {
+      "texto": "corta",
+      "inicio": 24.48,
+      "fin": 24.88
+    },
+    {
+      "texto": "con",
+      "inicio": 24.98,
+      "fin": 25.28
+    },
+    {
+      "texto": "SI",
+      "inicio": 25.547,
+      "fin": 26.08
+    },
+    {
+      "texto": "punto",
+      "inicio": 26.187,
+      "fin": 26.72
+    },
+    {
+      "texto": "ERROR.",
+      "inicio": 26.8,
+      "fin": 27.84
+    },
+    {
+      "texto": "Pero",
+      "inicio": 27.888,
+      "fin": 28.08
+    },
+    {
+      "texto": "ojo:",
+      "inicio": 28.16,
+      "fin": 28.48
+    },
+    {
+      "texto": "igual",
+      "inicio": 28.587,
+      "fin": 29.12
+    },
+    {
+      "texto": "que",
+      "inicio": 29.16,
+      "fin": 29.28
+    },
+    {
+      "texto": "antes,",
+      "inicio": 29.36,
+      "fin": 29.84
+    },
+    {
+      "texto": "compruébala",
+      "inicio": 29.92,
+      "fin": 30.64
+    },
+    {
+      "texto": "con",
+      "inicio": 30.68,
+      "fin": 30.8
+    },
+    {
+      "texto": "tus",
+      "inicio": 30.84,
+      "fin": 30.96
+    },
+    {
+      "texto": "datos",
+      "inicio": 31.027,
+      "fin": 31.36
+    },
+    {
+      "texto": "antes",
+      "inicio": 31.44,
+      "fin": 31.84
+    },
+    {
+      "texto": "de",
+      "inicio": 31.867,
+      "fin": 31.92
+    },
+    {
+      "texto": "cambiarla.",
+      "inicio": 31.98,
+      "fin": 32.72
+    }
+  ]
+}

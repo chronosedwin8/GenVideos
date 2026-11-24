@@ -1,0 +1,350 @@
+{
+  "num": "16",
+  "titulo": "Los límites",
+  "texto": "Y ahora, los límites, para que no te lleves sorpresas. Uno: Python en Excel no puede leer archivos de tu computador ni conectarse a páginas web. Los datos tienen que estar en la hoja o venir de Power Query. Dos: sin internet no calcula, porque todo pasa en la nube. Y tres: no funciona en las aplicaciones del celular. Si conoces estos límites, no vas a perder tiempo.",
+  "texto_tts": "Y ahora, los límites, para que no te lleves sorpresas. Uno: Python en Excel no puede leer archivos de tu computador ni conectarse a páginas web. Los datos tienen que estar en la hoja o venir de Power Query. Dos: sin internet no calcula, porque todo pasa en la nube. Y tres: no funciona en las aplicaciones del celular. Si conoces estos límites, no vas a perder tiempo.",
+  "modelo": "eleven_v3",
+  "duracion": 30.72,
+  "palabras": [
+    {
+      "texto": "Y",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "ahora,",
+      "inicio": 0.133,
+      "fin": 0.88
+    },
+    {
+      "texto": "los",
+      "inicio": 0.94,
+      "fin": 1.12
+    },
+    {
+      "texto": "límites,",
+      "inicio": 1.2,
+      "fin": 2.16
+    },
+    {
+      "texto": "para",
+      "inicio": 2.208,
+      "fin": 2.4
+    },
+    {
+      "texto": "que",
+      "inicio": 2.42,
+      "fin": 2.48
+    },
+    {
+      "texto": "no",
+      "inicio": 2.533,
+      "fin": 2.64
+    },
+    {
+      "texto": "te",
+      "inicio": 2.667,
+      "fin": 2.72
+    },
+    {
+      "texto": "lleves",
+      "inicio": 2.76,
+      "fin": 3.04
+    },
+    {
+      "texto": "sorpresas.",
+      "inicio": 3.1,
+      "fin": 4.0
+    },
+    {
+      "texto": "Uno:",
+      "inicio": 4.08,
+      "fin": 5.6
+    },
+    {
+      "texto": "Python",
+      "inicio": 5.657,
+      "fin": 6.0
+    },
+    {
+      "texto": "en",
+      "inicio": 6.053,
+      "fin": 6.16
+    },
+    {
+      "texto": "Excel",
+      "inicio": 6.24,
+      "fin": 6.64
+    },
+    {
+      "texto": "no",
+      "inicio": 6.747,
+      "fin": 6.96
+    },
+    {
+      "texto": "puede",
+      "inicio": 7.027,
+      "fin": 7.36
+    },
+    {
+      "texto": "leer",
+      "inicio": 7.408,
+      "fin": 7.6
+    },
+    {
+      "texto": "archivos",
+      "inicio": 7.662,
+      "fin": 8.16
+    },
+    {
+      "texto": "de",
+      "inicio": 8.187,
+      "fin": 8.24
+    },
+    {
+      "texto": "tu",
+      "inicio": 8.32,
+      "fin": 8.48
+    },
+    {
+      "texto": "computador",
+      "inicio": 8.526,
+      "fin": 9.36
+    },
+    {
+      "texto": "ni",
+      "inicio": 9.52,
+      "fin": 9.84
+    },
+    {
+      "texto": "conectarse",
+      "inicio": 9.909,
+      "fin": 10.56
+    },
+    {
+      "texto": "a",
+      "inicio": 10.6,
+      "fin": 10.64
+    },
+    {
+      "texto": "páginas",
+      "inicio": 10.693,
+      "fin": 11.04
+    },
+    {
+      "texto": "web.",
+      "inicio": 11.14,
+      "fin": 11.52
+    },
+    {
+      "texto": "Los",
+      "inicio": 11.7,
+      "fin": 12.24
+    },
+    {
+      "texto": "datos",
+      "inicio": 12.333,
+      "fin": 12.8
+    },
+    {
+      "texto": "tienen",
+      "inicio": 12.834,
+      "fin": 13.04
+    },
+    {
+      "texto": "que",
+      "inicio": 13.08,
+      "fin": 13.2
+    },
+    {
+      "texto": "estar",
+      "inicio": 13.253,
+      "fin": 13.52
+    },
+    {
+      "texto": "en",
+      "inicio": 13.627,
+      "fin": 13.84
+    },
+    {
+      "texto": "la",
+      "inicio": 13.893,
+      "fin": 14.0
+    },
+    {
+      "texto": "hoja",
+      "inicio": 14.053,
+      "fin": 14.48
+    },
+    {
+      "texto": "o",
+      "inicio": 14.68,
+      "fin": 14.88
+    },
+    {
+      "texto": "venir",
+      "inicio": 14.947,
+      "fin": 15.28
+    },
+    {
+      "texto": "de",
+      "inicio": 15.36,
+      "fin": 15.52
+    },
+    {
+      "texto": "Power",
+      "inicio": 15.573,
+      "fin": 15.84
+    },
+    {
+      "texto": "Query.",
+      "inicio": 15.92,
+      "fin": 16.4
+    },
+    {
+      "texto": "Dos:",
+      "inicio": 16.72,
+      "fin": 17.84
+    },
+    {
+      "texto": "sin",
+      "inicio": 18.04,
+      "fin": 18.64
+    },
+    {
+      "texto": "internet",
+      "inicio": 18.711,
+      "fin": 19.28
+    },
+    {
+      "texto": "no",
+      "inicio": 19.387,
+      "fin": 19.6
+    },
+    {
+      "texto": "calcula,",
+      "inicio": 19.68,
+      "fin": 20.4
+    },
+    {
+      "texto": "porque",
+      "inicio": 20.469,
+      "fin": 20.88
+    },
+    {
+      "texto": "todo",
+      "inicio": 20.96,
+      "fin": 21.28
+    },
+    {
+      "texto": "pasa",
+      "inicio": 21.344,
+      "fin": 21.6
+    },
+    {
+      "texto": "en",
+      "inicio": 21.627,
+      "fin": 21.68
+    },
+    {
+      "texto": "la",
+      "inicio": 21.707,
+      "fin": 21.76
+    },
+    {
+      "texto": "nube.",
+      "inicio": 21.84,
+      "fin": 22.32
+    },
+    {
+      "texto": "Y",
+      "inicio": 22.72,
+      "fin": 23.12
+    },
+    {
+      "texto": "tres:",
+      "inicio": 23.2,
+      "fin": 23.68
+    },
+    {
+      "texto": "no",
+      "inicio": 23.92,
+      "fin": 24.4
+    },
+    {
+      "texto": "funciona",
+      "inicio": 24.462,
+      "fin": 24.96
+    },
+    {
+      "texto": "en",
+      "inicio": 24.987,
+      "fin": 25.04
+    },
+    {
+      "texto": "las",
+      "inicio": 25.08,
+      "fin": 25.2
+    },
+    {
+      "texto": "aplicaciones",
+      "inicio": 25.253,
+      "fin": 25.84
+    },
+    {
+      "texto": "del",
+      "inicio": 25.88,
+      "fin": 26.0
+    },
+    {
+      "texto": "celular.",
+      "inicio": 26.07,
+      "fin": 26.64
+    },
+    {
+      "texto": "Si",
+      "inicio": 27.013,
+      "fin": 27.76
+    },
+    {
+      "texto": "conoces",
+      "inicio": 27.813,
+      "fin": 28.24
+    },
+    {
+      "texto": "estos",
+      "inicio": 28.293,
+      "fin": 28.56
+    },
+    {
+      "texto": "límites,",
+      "inicio": 28.613,
+      "fin": 29.36
+    },
+    {
+      "texto": "no",
+      "inicio": 29.44,
+      "fin": 29.6
+    },
+    {
+      "texto": "vas",
+      "inicio": 29.64,
+      "fin": 29.76
+    },
+    {
+      "texto": "a",
+      "inicio": 29.8,
+      "fin": 29.84
+    },
+    {
+      "texto": "perder",
+      "inicio": 29.897,
+      "fin": 30.24
+    },
+    {
+      "texto": "tiempo.",
+      "inicio": 30.297,
+      "fin": 30.72
+    }
+  ]
+}

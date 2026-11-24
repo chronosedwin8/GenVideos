@@ -1,0 +1,82 @@
+{
+  "titulo": "¿Excel está MUERTO con la IA? Lo que de verdad cambió en 2026",
+  "titulos_alternativos": [
+    "La IA ya hace hojas de cálculo: ¿vale la pena aprender Excel?",
+    "5 cambios de Excel con IA (y lo que NO cambió)"
+  ],
+  "intro": "La IA ya crea fórmulas, tablas y gráficos dentro de Excel. ¿Entonces Excel va a morir? Te cuento, con datos, los 5 cambios reales, lo que no cambió, y lo que yo haría si hoy empezara desde cero.",
+  "aprenderas": [
+    "Copilot ya trabaja dentro de Excel",
+    "Por qué Microsoft retiró =COPILOT()",
+    "Python dentro de Excel",
+    "Qué habilidades piden las empresas",
+    "Un plan de 3 pasos para no quedarte atrás"
+  ],
+  "capitulos": {
+    "01": "¿Excel va a morir?",
+    "03": "40 años de Excel",
+    "04": "1. La IA trabaja dentro de Excel",
+    "05": "2. La IA salió de las celdas",
+    "06": "3. Python dentro de Excel",
+    "07": "4. Las fórmulas son un lenguaje",
+    "08": "5. Cambió lo que debes saber",
+    "09": "Un día de trabajo, antes y ahora",
+    "10": "Lo que NO cambió",
+    "12": "Lo que dicen las empresas",
+    "13": "Mi veredicto",
+    "14": "Qué haría yo desde cero",
+    "17": "3 señales de que vas bien",
+    "18": "Cuidado con tus datos"
+  },
+  "enlaces": [
+    "▶️ Fórmulas con IA que sí funcionan: (enlace al video del 1 de diciembre)",
+    "▶️ 12 reportes en segundos con Python: (enlace al video del 8 de diciembre)",
+    "📊 Guías de Excel en el blog: https://www.edwinortiz.net/excel/"
+  ],
+  "fuentes": [
+    "Microsoft, capacidades agénticas de Copilot (22/04/2026): https://www.microsoft.com/en-us/copilot/blog/2026/04/22/copilots-agentic-capabilities-in-word-excel-and-powerpoint-are-generally-available/",
+    "Función COPILOT retirada: https://support.microsoft.com/en-us/office/copilot-function-5849821b-755d-4030-a38b-9e20be0cbf62",
+    "Disponibilidad de Python en Excel: https://support.microsoft.com/en-us/office/python-in-excel-availability-781383e6-86b9-4156-84fb-93e786f7cab0",
+    "Stack Overflow Developer Survey 2025: https://stackoverflow.blog/2025/07/29/developers-remain-willing-but-reluctant-to-use-ai-the-2025-developer-survey-results-are-here/",
+    "WEF, Future of Jobs Report 2025: https://www.weforum.org/publications/the-future-of-jobs-report-2025/in-full/3-skills-outlook/"
+  ],
+  "hashtags": [
+    "#Excel",
+    "#InteligenciaArtificial",
+    "#Copilot"
+  ],
+  "tags": [
+    "excel esta muerto",
+    "excel e inteligencia artificial",
+    "copilot excel",
+    "futuro de excel",
+    "ia excel 2026",
+    "python en excel",
+    "aprender excel",
+    "habilidades digitales",
+    "excel para empresas",
+    "edwin o"
+  ],
+  "playlist": "Excel con IA",
+  "programar": "2026-12-10 07:00",
+  "shorts": [
+    {
+      "id": "short-1",
+      "titulo": "La IA se equivoca (y hay datos) #shorts",
+      "descripcion": "El 46 % desconfía de la precisión de la IA (Stack Overflow 2025). Video completo en el canal.",
+      "tags": [
+        "ia excel"
+      ],
+      "programar": "2026-12-11 12:00"
+    },
+    {
+      "id": "short-2",
+      "titulo": "¿Excel está MUERTO? Mi veredicto #shorts",
+      "descripcion": "Excel no está muerto: cambió quién gana con él. Video completo en el canal.",
+      "tags": [
+        "excel esta muerto"
+      ],
+      "programar": "2026-12-14 12:00"
+    }
+  ]
+}

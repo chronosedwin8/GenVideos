@@ -1,0 +1,315 @@
+{
+  "num": "11",
+  "titulo": "Paso 6: el nombre y el resumen",
+  "texto": "Paso seis. Primero, armamos el nombre del archivo. La f antes de las comillas permite meter variables entre llaves, así que en la vuelta de Bogotá se llama \"Reporte Bogotá punto xlsx\". Y luego el resumen: agrupamos los datos por vendedor, tomamos la columna monto y la sumamos. Es exactamente lo que harías con una tabla dinámica, pero en una línea.",
+  "texto_tts": "Paso seis. Primero, armamos el nombre del archivo. La f antes de las comillas permite meter variables entre llaves, así que en la vuelta de Bogotá se llama \"Reporte Bogotá punto xlsx\". Y luego el resumen: agrupamos los datos por vendedor, tomamos la columna monto y la sumamos. Es exactamente lo que harías con una tabla dinámica, pero en una línea.",
+  "modelo": "eleven_v3",
+  "duracion": 30.0,
+  "palabras": [
+    {
+      "texto": "Paso",
+      "inicio": 0.0,
+      "fin": 0.24
+    },
+    {
+      "texto": "seis.",
+      "inicio": 0.32,
+      "fin": 0.8
+    },
+    {
+      "texto": "Primero,",
+      "inicio": 0.976,
+      "fin": 2.4
+    },
+    {
+      "texto": "armamos",
+      "inicio": 2.46,
+      "fin": 2.96
+    },
+    {
+      "texto": "el",
+      "inicio": 3.04,
+      "fin": 3.2
+    },
+    {
+      "texto": "nombre",
+      "inicio": 3.257,
+      "fin": 3.6
+    },
+    {
+      "texto": "del",
+      "inicio": 3.64,
+      "fin": 3.76
+    },
+    {
+      "texto": "archivo.",
+      "inicio": 3.82,
+      "fin": 4.32
+    },
+    {
+      "texto": "La",
+      "inicio": 4.613,
+      "fin": 5.2
+    },
+    {
+      "texto": "f",
+      "inicio": 5.4,
+      "fin": 5.6
+    },
+    {
+      "texto": "antes",
+      "inicio": 5.667,
+      "fin": 6.0
+    },
+    {
+      "texto": "de",
+      "inicio": 6.027,
+      "fin": 6.08
+    },
+    {
+      "texto": "las",
+      "inicio": 6.12,
+      "fin": 6.24
+    },
+    {
+      "texto": "comillas",
+      "inicio": 6.3,
+      "fin": 6.88
+    },
+    {
+      "texto": "permite",
+      "inicio": 6.98,
+      "fin": 7.68
+    },
+    {
+      "texto": "meter",
+      "inicio": 7.733,
+      "fin": 8.0
+    },
+    {
+      "texto": "variables",
+      "inicio": 8.056,
+      "fin": 8.56
+    },
+    {
+      "texto": "entre",
+      "inicio": 8.6,
+      "fin": 8.8
+    },
+    {
+      "texto": "llaves,",
+      "inicio": 8.853,
+      "fin": 9.84
+    },
+    {
+      "texto": "así",
+      "inicio": 9.92,
+      "fin": 10.16
+    },
+    {
+      "texto": "que",
+      "inicio": 10.2,
+      "fin": 10.32
+    },
+    {
+      "texto": "en",
+      "inicio": 10.373,
+      "fin": 10.48
+    },
+    {
+      "texto": "la",
+      "inicio": 10.507,
+      "fin": 10.56
+    },
+    {
+      "texto": "vuelta",
+      "inicio": 10.608,
+      "fin": 10.96
+    },
+    {
+      "texto": "de",
+      "inicio": 10.987,
+      "fin": 11.04
+    },
+    {
+      "texto": "Bogotá",
+      "inicio": 11.08,
+      "fin": 11.44
+    },
+    {
+      "texto": "se",
+      "inicio": 11.573,
+      "fin": 11.84
+    },
+    {
+      "texto": "llama",
+      "inicio": 11.933,
+      "fin": 12.4
+    },
+    {
+      "texto": "\"Reporte",
+      "inicio": 12.48,
+      "fin": 13.04
+    },
+    {
+      "texto": "Bogotá",
+      "inicio": 13.1,
+      "fin": 13.6
+    },
+    {
+      "texto": "punto",
+      "inicio": 13.76,
+      "fin": 14.56
+    },
+    {
+      "texto": "xlsx\".",
+      "inicio": 14.96,
+      "fin": 16.72
+    },
+    {
+      "texto": "Y",
+      "inicio": 17.24,
+      "fin": 17.76
+    },
+    {
+      "texto": "luego",
+      "inicio": 17.827,
+      "fin": 18.16
+    },
+    {
+      "texto": "el",
+      "inicio": 18.24,
+      "fin": 18.4
+    },
+    {
+      "texto": "resumen:",
+      "inicio": 18.46,
+      "fin": 19.84
+    },
+    {
+      "texto": "agrupamos",
+      "inicio": 19.9,
+      "fin": 20.4
+    },
+    {
+      "texto": "los",
+      "inicio": 20.44,
+      "fin": 20.56
+    },
+    {
+      "texto": "datos",
+      "inicio": 20.627,
+      "fin": 20.96
+    },
+    {
+      "texto": "por",
+      "inicio": 20.98,
+      "fin": 21.04
+    },
+    {
+      "texto": "vendedor,",
+      "inicio": 21.12,
+      "fin": 21.76
+    },
+    {
+      "texto": "tomamos",
+      "inicio": 21.98,
+      "fin": 22.88
+    },
+    {
+      "texto": "la",
+      "inicio": 22.907,
+      "fin": 22.96
+    },
+    {
+      "texto": "columna",
+      "inicio": 23.02,
+      "fin": 23.44
+    },
+    {
+      "texto": "monto",
+      "inicio": 23.48,
+      "fin": 24.0
+    },
+    {
+      "texto": "y",
+      "inicio": 24.16,
+      "fin": 24.32
+    },
+    {
+      "texto": "la",
+      "inicio": 24.373,
+      "fin": 24.48
+    },
+    {
+      "texto": "sumamos.",
+      "inicio": 24.54,
+      "fin": 25.2
+    },
+    {
+      "texto": "Es",
+      "inicio": 25.493,
+      "fin": 26.08
+    },
+    {
+      "texto": "exactamente",
+      "inicio": 26.147,
+      "fin": 26.8
+    },
+    {
+      "texto": "lo",
+      "inicio": 26.853,
+      "fin": 26.96
+    },
+    {
+      "texto": "que",
+      "inicio": 26.98,
+      "fin": 27.04
+    },
+    {
+      "texto": "harías",
+      "inicio": 27.06,
+      "fin": 27.44
+    },
+    {
+      "texto": "con",
+      "inicio": 27.5,
+      "fin": 27.68
+    },
+    {
+      "texto": "una",
+      "inicio": 27.72,
+      "fin": 27.84
+    },
+    {
+      "texto": "tabla",
+      "inicio": 27.893,
+      "fin": 28.16
+    },
+    {
+      "texto": "dinámica,",
+      "inicio": 28.2,
+      "fin": 29.04
+    },
+    {
+      "texto": "pero",
+      "inicio": 29.088,
+      "fin": 29.28
+    },
+    {
+      "texto": "en",
+      "inicio": 29.307,
+      "fin": 29.36
+    },
+    {
+      "texto": "una",
+      "inicio": 29.4,
+      "fin": 29.52
+    },
+    {
+      "texto": "línea.",
+      "inicio": 29.6,
+      "fin": 30.0
+    }
+  ]
+}

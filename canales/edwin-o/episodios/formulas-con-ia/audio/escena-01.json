@@ -1,0 +1,190 @@
+{
+  "num": "01",
+  "titulo": "Gancho",
+  "texto": "Le pediste a la inteligencia artificial una fórmula de Excel, la pegaste, y parecía perfecta. Pero mira estas dos celdas: el vendedor que vendió exactamente cinco mil cobró cien pesos menos. Y nadie se dio cuenta.",
+  "texto_tts": "[curious] Le pediste a la inteligencia artificial una fórmula de Excel, la pegaste, y parecía perfecta. [serious] Pero mira estas dos celdas: el vendedor que vendió exactamente cinco mil cobró cien pesos menos. Y nadie se dio cuenta.",
+  "modelo": "eleven_v3",
+  "duracion": 13.766,
+  "palabras": [
+    {
+      "texto": "Le",
+      "inicio": 0.133,
+      "fin": 0.16
+    },
+    {
+      "texto": "pediste",
+      "inicio": 0.22,
+      "fin": 0.64
+    },
+    {
+      "texto": "a",
+      "inicio": 0.72,
+      "fin": 0.8
+    },
+    {
+      "texto": "la",
+      "inicio": 0.827,
+      "fin": 0.88
+    },
+    {
+      "texto": "inteligencia",
+      "inicio": 0.93,
+      "fin": 1.52
+    },
+    {
+      "texto": "artificial",
+      "inicio": 1.571,
+      "fin": 2.08
+    },
+    {
+      "texto": "una",
+      "inicio": 2.16,
+      "fin": 2.4
+    },
+    {
+      "texto": "fórmula",
+      "inicio": 2.44,
+      "fin": 2.8
+    },
+    {
+      "texto": "de",
+      "inicio": 2.827,
+      "fin": 2.88
+    },
+    {
+      "texto": "Excel,",
+      "inicio": 2.947,
+      "fin": 3.44
+    },
+    {
+      "texto": "la",
+      "inicio": 3.467,
+      "fin": 3.52
+    },
+    {
+      "texto": "pegaste,",
+      "inicio": 3.58,
+      "fin": 4.24
+    },
+    {
+      "texto": "y",
+      "inicio": 4.28,
+      "fin": 4.32
+    },
+    {
+      "texto": "parecía",
+      "inicio": 4.368,
+      "fin": 4.72
+    },
+    {
+      "texto": "perfecta.",
+      "inicio": 4.79,
+      "fin": 5.44
+    },
+    {
+      "texto": "Pero",
+      "inicio": 6.038,
+      "fin": 6.166
+    },
+    {
+      "texto": "mira",
+      "inicio": 6.226,
+      "fin": 6.526
+    },
+    {
+      "texto": "estas",
+      "inicio": 6.546,
+      "fin": 6.646
+    },
+    {
+      "texto": "dos",
+      "inicio": 6.686,
+      "fin": 6.806
+    },
+    {
+      "texto": "celdas:",
+      "inicio": 6.846,
+      "fin": 7.366
+    },
+    {
+      "texto": "el",
+      "inicio": 7.606,
+      "fin": 8.086
+    },
+    {
+      "texto": "vendedor",
+      "inicio": 8.126,
+      "fin": 8.566
+    },
+    {
+      "texto": "que",
+      "inicio": 8.606,
+      "fin": 8.726
+    },
+    {
+      "texto": "vendió",
+      "inicio": 8.758,
+      "fin": 8.966
+    },
+    {
+      "texto": "exactamente",
+      "inicio": 9.033,
+      "fin": 9.686
+    },
+    {
+      "texto": "cinco",
+      "inicio": 9.739,
+      "fin": 10.006
+    },
+    {
+      "texto": "mil",
+      "inicio": 10.066,
+      "fin": 10.246
+    },
+    {
+      "texto": "cobró",
+      "inicio": 10.346,
+      "fin": 10.726
+    },
+    {
+      "texto": "cien",
+      "inicio": 10.806,
+      "fin": 10.966
+    },
+    {
+      "texto": "pesos",
+      "inicio": 11.033,
+      "fin": 11.366
+    },
+    {
+      "texto": "menos.",
+      "inicio": 11.433,
+      "fin": 11.846
+    },
+    {
+      "texto": "Y",
+      "inicio": 12.166,
+      "fin": 12.486
+    },
+    {
+      "texto": "nadie",
+      "inicio": 12.546,
+      "fin": 12.806
+    },
+    {
+      "texto": "se",
+      "inicio": 12.859,
+      "fin": 12.966
+    },
+    {
+      "texto": "dio",
+      "inicio": 13.026,
+      "fin": 13.206
+    },
+    {
+      "texto": "cuenta.",
+      "inicio": 13.275,
+      "fin": 13.766
+    }
+  ]
+}

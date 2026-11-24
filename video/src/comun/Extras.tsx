@@ -58,7 +58,7 @@ export const DialogoOffice: React.FC<{
             {campo ? (
               <>
                 <div style={{fontSize: 24, color: '#444'}}>{campo.etiqueta}</div>
-                <div style={{border: '3px solid #217346', borderRadius: 6, padding: '12px 16px', fontSize: 34, fontFamily: 'Consolas, JetBrains Mono, monospace', minHeight: 40}}>
+                <div style={{border: '3px solid #217346', borderRadius: 6, padding: '12px 16px', fontSize: 34, fontFamily: 'Consolas, JetBrains Mono, monospace', fontVariantLigatures: 'none', minHeight: 40}}>
                   {campo.texto.slice(0, n)}
                   {s >= campo.desde && n < campo.texto.length && Math.floor(s * 2.5) % 2 === 0 ? '|' : ''}
                 </div>
@@ -112,7 +112,7 @@ export const LineaTurno: React.FC<{tema: Tema; desde?: number; restaDesde?: numb
         </div>
       </div>
       <div style={{position: 'absolute', top: 640, left: 0, right: 0, display: 'flex', justifyContent: 'center', transform: `scale(${er})`}}>
-        <div style={{background: 'white', border: '6px solid #000', borderRadius: 26, boxShadow: '10px 10px 0 #000', padding: '20px 50px', fontFamily: tema.fuentes.codigo, fontSize: 64, fontWeight: 700}}>
+        <div style={{background: 'white', border: '6px solid #000', borderRadius: 26, boxShadow: '10px 10px 0 #000', padding: '20px 50px', fontFamily: tema.fuentes.codigo, fontVariantLigatures: 'none', fontFeatureSettings: '"calt" 0, "liga" 0', fontSize: 64, fontWeight: 700}}>
           6:00 − 22:00 = <span style={{color: tema.colores.rojo}}>−16 h ✗</span>
         </div>
       </div>

@@ -20,3 +20,7 @@ video/public/**/manifest.json
 .claude/settings.local.json
 *.log
 Thumbs.db
+
+# Fotogramas de revisión y salidas de los ejemplos de código
+**/muestras/
+**/codigo/reportes/

@@ -1,0 +1,255 @@
+{
+  "num": "18",
+  "titulo": "Que trabaje solo",
+  "texto": "¿Y si quieres que se ejecute solo? Windows tiene el Programador de tareas. Le dices: cada lunes a las siete de la mañana, ejecuta este programa. Y cuando llegues a la oficina, los reportes ya están listos. Eso sí: primero pruébalo varias veces a mano, y después lo programas.",
+  "texto_tts": "¿Y si quieres que se ejecute solo? Windows tiene el Programador de tareas. Le dices: cada lunes a las siete de la mañana, ejecuta este programa. Y cuando llegues a la oficina, los reportes ya están listos. Eso sí: primero pruébalo varias veces a mano, y después lo programas.",
+  "modelo": "eleven_v3",
+  "duracion": 22.16,
+  "palabras": [
+    {
+      "texto": "¿Y",
+      "inicio": 0.0,
+      "fin": 0.16
+    },
+    {
+      "texto": "si",
+      "inicio": 0.213,
+      "fin": 0.32
+    },
+    {
+      "texto": "quieres",
+      "inicio": 0.37,
+      "fin": 0.72
+    },
+    {
+      "texto": "que",
+      "inicio": 0.74,
+      "fin": 0.8
+    },
+    {
+      "texto": "se",
+      "inicio": 0.853,
+      "fin": 0.96
+    },
+    {
+      "texto": "ejecute",
+      "inicio": 0.987,
+      "fin": 1.44
+    },
+    {
+      "texto": "solo?",
+      "inicio": 1.536,
+      "fin": 2.0
+    },
+    {
+      "texto": "Windows",
+      "inicio": 2.13,
+      "fin": 3.04
+    },
+    {
+      "texto": "tiene",
+      "inicio": 3.093,
+      "fin": 3.36
+    },
+    {
+      "texto": "el",
+      "inicio": 3.467,
+      "fin": 3.68
+    },
+    {
+      "texto": "Programador",
+      "inicio": 3.74,
+      "fin": 4.4
+    },
+    {
+      "texto": "de",
+      "inicio": 4.427,
+      "fin": 4.48
+    },
+    {
+      "texto": "tareas.",
+      "inicio": 4.56,
+      "fin": 5.2
+    },
+    {
+      "texto": "Le",
+      "inicio": 5.387,
+      "fin": 5.76
+    },
+    {
+      "texto": "dices:",
+      "inicio": 5.84,
+      "fin": 6.6
+    },
+    {
+      "texto": "cada",
+      "inicio": 6.656,
+      "fin": 6.88
+    },
+    {
+      "texto": "lunes",
+      "inicio": 6.92,
+      "fin": 7.36
+    },
+    {
+      "texto": "a",
+      "inicio": 7.48,
+      "fin": 7.6
+    },
+    {
+      "texto": "las",
+      "inicio": 7.64,
+      "fin": 7.76
+    },
+    {
+      "texto": "siete",
+      "inicio": 7.84,
+      "fin": 8.08
+    },
+    {
+      "texto": "de",
+      "inicio": 8.107,
+      "fin": 8.16
+    },
+    {
+      "texto": "la",
+      "inicio": 8.187,
+      "fin": 8.24
+    },
+    {
+      "texto": "mañana,",
+      "inicio": 8.297,
+      "fin": 8.72
+    },
+    {
+      "texto": "ejecuta",
+      "inicio": 8.848,
+      "fin": 9.6
+    },
+    {
+      "texto": "este",
+      "inicio": 9.696,
+      "fin": 10.08
+    },
+    {
+      "texto": "programa.",
+      "inicio": 10.133,
+      "fin": 10.8
+    },
+    {
+      "texto": "Y",
+      "inicio": 11.2,
+      "fin": 11.6
+    },
+    {
+      "texto": "cuando",
+      "inicio": 11.657,
+      "fin": 12.0
+    },
+    {
+      "texto": "llegues",
+      "inicio": 12.048,
+      "fin": 12.4
+    },
+    {
+      "texto": "a",
+      "inicio": 12.44,
+      "fin": 12.48
+    },
+    {
+      "texto": "la",
+      "inicio": 12.507,
+      "fin": 12.56
+    },
+    {
+      "texto": "oficina,",
+      "inicio": 12.587,
+      "fin": 13.36
+    },
+    {
+      "texto": "los",
+      "inicio": 13.4,
+      "fin": 13.52
+    },
+    {
+      "texto": "reportes",
+      "inicio": 13.589,
+      "fin": 14.24
+    },
+    {
+      "texto": "ya",
+      "inicio": 14.347,
+      "fin": 14.56
+    },
+    {
+      "texto": "están",
+      "inicio": 14.613,
+      "fin": 14.88
+    },
+    {
+      "texto": "listos.",
+      "inicio": 14.96,
+      "fin": 15.6
+    },
+    {
+      "texto": "Eso",
+      "inicio": 15.96,
+      "fin": 16.48
+    },
+    {
+      "texto": "sí:",
+      "inicio": 16.56,
+      "fin": 17.52
+    },
+    {
+      "texto": "primero",
+      "inicio": 17.57,
+      "fin": 17.92
+    },
+    {
+      "texto": "pruébalo",
+      "inicio": 17.973,
+      "fin": 18.48
+    },
+    {
+      "texto": "varias",
+      "inicio": 18.56,
+      "fin": 19.04
+    },
+    {
+      "texto": "veces",
+      "inicio": 19.093,
+      "fin": 19.36
+    },
+    {
+      "texto": "a",
+      "inicio": 19.4,
+      "fin": 19.44
+    },
+    {
+      "texto": "mano,",
+      "inicio": 19.504,
+      "fin": 19.84
+    },
+    {
+      "texto": "y",
+      "inicio": 20.04,
+      "fin": 20.24
+    },
+    {
+      "texto": "después",
+      "inicio": 20.32,
+      "fin": 20.88
+    },
+    {
+      "texto": "lo",
+      "inicio": 21.04,
+      "fin": 21.36
+    },
+    {
+      "texto": "programas.",
+      "inicio": 21.424,
+      "fin": 22.16
+    }
+  ]
+}

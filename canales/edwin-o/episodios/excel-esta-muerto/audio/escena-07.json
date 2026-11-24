@@ -1,0 +1,265 @@
+{
+  "num": "07",
+  "titulo": "Cambio 4: las fórmulas se volvieron un lenguaje",
+  "texto": "Cambio número cuatro: las fórmulas se volvieron un lenguaje de programación. Con funciones como FILTRAR, UNICOS o LET, una sola fórmula hace lo que antes requería macros. Y con LAMBDA, puedes crear tus propias funciones con nombre. Excel dejó de ser una calculadora con cuadritos. Es una herramienta para construir soluciones.",
+  "texto_tts": "Cambio número cuatro: las fórmulas se volvieron un lenguaje de programación. Con funciones como FILTRAR, UNICOS o LET, una sola fórmula hace lo que antes requería macros. Y con LAMBDA, puedes crear tus propias funciones con nombre. Excel dejó de ser una calculadora con cuadritos. Es una herramienta para construir soluciones.",
+  "modelo": "eleven_v3",
+  "duracion": 26.64,
+  "palabras": [
+    {
+      "texto": "Cambio",
+      "inicio": 0.0,
+      "fin": 0.32
+    },
+    {
+      "texto": "número",
+      "inicio": 0.366,
+      "fin": 0.64
+    },
+    {
+      "texto": "cuatro:",
+      "inicio": 0.709,
+      "fin": 1.2
+    },
+    {
+      "texto": "las",
+      "inicio": 1.48,
+      "fin": 2.32
+    },
+    {
+      "texto": "fórmulas",
+      "inicio": 2.36,
+      "fin": 3.2
+    },
+    {
+      "texto": "se",
+      "inicio": 3.36,
+      "fin": 3.68
+    },
+    {
+      "texto": "volvieron",
+      "inicio": 3.72,
+      "fin": 4.16
+    },
+    {
+      "texto": "un",
+      "inicio": 4.24,
+      "fin": 4.4
+    },
+    {
+      "texto": "lenguaje",
+      "inicio": 4.44,
+      "fin": 4.96
+    },
+    {
+      "texto": "de",
+      "inicio": 4.987,
+      "fin": 5.04
+    },
+    {
+      "texto": "programación.",
+      "inicio": 5.1,
+      "fin": 6.0
+    },
+    {
+      "texto": "Con",
+      "inicio": 6.28,
+      "fin": 7.12
+    },
+    {
+      "texto": "funciones",
+      "inicio": 7.168,
+      "fin": 7.6
+    },
+    {
+      "texto": "como",
+      "inicio": 7.648,
+      "fin": 7.84
+    },
+    {
+      "texto": "FILTRAR,",
+      "inicio": 7.9,
+      "fin": 8.64
+    },
+    {
+      "texto": "UNICOS",
+      "inicio": 8.853,
+      "fin": 9.76
+    },
+    {
+      "texto": "o",
+      "inicio": 9.88,
+      "fin": 10.0
+    },
+    {
+      "texto": "LET,",
+      "inicio": 10.12,
+      "fin": 11.2
+    },
+    {
+      "texto": "una",
+      "inicio": 11.26,
+      "fin": 11.44
+    },
+    {
+      "texto": "sola",
+      "inicio": 11.504,
+      "fin": 11.76
+    },
+    {
+      "texto": "fórmula",
+      "inicio": 11.8,
+      "fin": 12.32
+    },
+    {
+      "texto": "hace",
+      "inicio": 12.448,
+      "fin": 12.96
+    },
+    {
+      "texto": "lo",
+      "inicio": 13.013,
+      "fin": 13.12
+    },
+    {
+      "texto": "que",
+      "inicio": 13.16,
+      "fin": 13.28
+    },
+    {
+      "texto": "antes",
+      "inicio": 13.347,
+      "fin": 13.68
+    },
+    {
+      "texto": "requería",
+      "inicio": 13.726,
+      "fin": 14.08
+    },
+    {
+      "texto": "macros.",
+      "inicio": 14.171,
+      "fin": 14.8
+    },
+    {
+      "texto": "Y",
+      "inicio": 15.12,
+      "fin": 15.44
+    },
+    {
+      "texto": "con",
+      "inicio": 15.48,
+      "fin": 15.6
+    },
+    {
+      "texto": "LAMBDA,",
+      "inicio": 15.68,
+      "fin": 16.64
+    },
+    {
+      "texto": "puedes",
+      "inicio": 16.674,
+      "fin": 16.88
+    },
+    {
+      "texto": "crear",
+      "inicio": 16.933,
+      "fin": 17.2
+    },
+    {
+      "texto": "tus",
+      "inicio": 17.24,
+      "fin": 17.36
+    },
+    {
+      "texto": "propias",
+      "inicio": 17.408,
+      "fin": 17.76
+    },
+    {
+      "texto": "funciones",
+      "inicio": 17.816,
+      "fin": 18.32
+    },
+    {
+      "texto": "con",
+      "inicio": 18.38,
+      "fin": 18.56
+    },
+    {
+      "texto": "nombre.",
+      "inicio": 18.629,
+      "fin": 19.2
+    },
+    {
+      "texto": "Excel",
+      "inicio": 19.44,
+      "fin": 20.64
+    },
+    {
+      "texto": "dejó",
+      "inicio": 20.8,
+      "fin": 21.36
+    },
+    {
+      "texto": "de",
+      "inicio": 21.387,
+      "fin": 21.44
+    },
+    {
+      "texto": "ser",
+      "inicio": 21.48,
+      "fin": 21.6
+    },
+    {
+      "texto": "una",
+      "inicio": 21.64,
+      "fin": 21.76
+    },
+    {
+      "texto": "calculadora",
+      "inicio": 21.817,
+      "fin": 22.4
+    },
+    {
+      "texto": "con",
+      "inicio": 22.44,
+      "fin": 22.56
+    },
+    {
+      "texto": "cuadritos.",
+      "inicio": 22.613,
+      "fin": 23.52
+    },
+    {
+      "texto": "Es",
+      "inicio": 23.707,
+      "fin": 24.08
+    },
+    {
+      "texto": "una",
+      "inicio": 24.12,
+      "fin": 24.24
+    },
+    {
+      "texto": "herramienta",
+      "inicio": 24.298,
+      "fin": 24.96
+    },
+    {
+      "texto": "para",
+      "inicio": 25.008,
+      "fin": 25.2
+    },
+    {
+      "texto": "construir",
+      "inicio": 25.246,
+      "fin": 25.68
+    },
+    {
+      "texto": "soluciones.",
+      "inicio": 25.74,
+      "fin": 26.64
+    }
+  ]
+}

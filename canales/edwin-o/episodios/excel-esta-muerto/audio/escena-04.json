@@ -1,0 +1,390 @@
+{
+  "num": "04",
+  "titulo": "Cambio 1: la IA ya trabaja dentro de Excel",
+  "texto": "Cambio número uno: la IA ya trabaja dentro de Excel. En abril de este año, Microsoft lanzó para todos las funciones de Copilot que no solo responden, sino que hacen cambios en tu libro: crean fórmulas, tablas y gráficos a partir de lo que le pides en el panel. Y no es solo para empresas: también llegó a los planes Personal y Familia. Lo que antes te tomaba una tarde, ahora lo describes en una frase.",
+  "texto_tts": "Cambio número uno: la IA ya trabaja dentro de Excel. En abril de este año, Microsoft lanzó para todos las funciones de Copilot que no solo responden, sino que hacen cambios en tu libro: crean fórmulas, tablas y gráficos a partir de lo que le pides en el panel. Y no es solo para empresas: también llegó a los planes Personal y Familia. Lo que antes te tomaba una tarde, ahora lo describes en una frase.",
+  "modelo": "eleven_v3",
+  "duracion": 28.16,
+  "palabras": [
+    {
+      "texto": "Cambio",
+      "inicio": 0.0,
+      "fin": 0.4
+    },
+    {
+      "texto": "número",
+      "inicio": 0.457,
+      "fin": 0.8
+    },
+    {
+      "texto": "uno:",
+      "inicio": 0.88,
+      "fin": 1.28
+    },
+    {
+      "texto": "la",
+      "inicio": 1.547,
+      "fin": 2.08
+    },
+    {
+      "texto": "IA",
+      "inicio": 2.187,
+      "fin": 2.4
+    },
+    {
+      "texto": "ya",
+      "inicio": 2.507,
+      "fin": 2.72
+    },
+    {
+      "texto": "trabaja",
+      "inicio": 2.768,
+      "fin": 3.2
+    },
+    {
+      "texto": "dentro",
+      "inicio": 3.28,
+      "fin": 3.76
+    },
+    {
+      "texto": "de",
+      "inicio": 3.787,
+      "fin": 3.84
+    },
+    {
+      "texto": "Excel.",
+      "inicio": 3.92,
+      "fin": 4.4
+    },
+    {
+      "texto": "En",
+      "inicio": 4.667,
+      "fin": 5.2
+    },
+    {
+      "texto": "abril",
+      "inicio": 5.253,
+      "fin": 5.52
+    },
+    {
+      "texto": "de",
+      "inicio": 5.547,
+      "fin": 5.6
+    },
+    {
+      "texto": "este",
+      "inicio": 5.648,
+      "fin": 5.84
+    },
+    {
+      "texto": "año,",
+      "inicio": 5.9,
+      "fin": 6.24
+    },
+    {
+      "texto": "Microsoft",
+      "inicio": 6.304,
+      "fin": 6.88
+    },
+    {
+      "texto": "lanzó",
+      "inicio": 6.944,
+      "fin": 7.28
+    },
+    {
+      "texto": "para",
+      "inicio": 7.328,
+      "fin": 7.52
+    },
+    {
+      "texto": "todos",
+      "inicio": 7.613,
+      "fin": 8.08
+    },
+    {
+      "texto": "las",
+      "inicio": 8.14,
+      "fin": 8.32
+    },
+    {
+      "texto": "funciones",
+      "inicio": 8.368,
+      "fin": 8.8
+    },
+    {
+      "texto": "de",
+      "inicio": 8.827,
+      "fin": 8.88
+    },
+    {
+      "texto": "Copilot",
+      "inicio": 8.96,
+      "fin": 9.84
+    },
+    {
+      "texto": "que",
+      "inicio": 9.92,
+      "fin": 10.16
+    },
+    {
+      "texto": "no",
+      "inicio": 10.213,
+      "fin": 10.32
+    },
+    {
+      "texto": "solo",
+      "inicio": 10.384,
+      "fin": 10.64
+    },
+    {
+      "texto": "responden,",
+      "inicio": 10.71,
+      "fin": 11.52
+    },
+    {
+      "texto": "sino",
+      "inicio": 11.568,
+      "fin": 11.76
+    },
+    {
+      "texto": "que",
+      "inicio": 11.8,
+      "fin": 11.92
+    },
+    {
+      "texto": "hacen",
+      "inicio": 11.973,
+      "fin": 12.24
+    },
+    {
+      "texto": "cambios",
+      "inicio": 12.31,
+      "fin": 12.8
+    },
+    {
+      "texto": "en",
+      "inicio": 12.827,
+      "fin": 12.88
+    },
+    {
+      "texto": "tu",
+      "inicio": 12.933,
+      "fin": 13.04
+    },
+    {
+      "texto": "libro:",
+      "inicio": 13.107,
+      "fin": 13.92
+    },
+    {
+      "texto": "crean",
+      "inicio": 13.96,
+      "fin": 14.16
+    },
+    {
+      "texto": "fórmulas,",
+      "inicio": 14.24,
+      "fin": 14.96
+    },
+    {
+      "texto": "tablas",
+      "inicio": 15.02,
+      "fin": 15.44
+    },
+    {
+      "texto": "y",
+      "inicio": 15.52,
+      "fin": 15.6
+    },
+    {
+      "texto": "gráficos",
+      "inicio": 15.653,
+      "fin": 16.24
+    },
+    {
+      "texto": "a",
+      "inicio": 16.36,
+      "fin": 16.48
+    },
+    {
+      "texto": "partir",
+      "inicio": 16.537,
+      "fin": 16.88
+    },
+    {
+      "texto": "de",
+      "inicio": 16.907,
+      "fin": 16.96
+    },
+    {
+      "texto": "lo",
+      "inicio": 16.987,
+      "fin": 17.04
+    },
+    {
+      "texto": "que",
+      "inicio": 17.08,
+      "fin": 17.2
+    },
+    {
+      "texto": "le",
+      "inicio": 17.227,
+      "fin": 17.28
+    },
+    {
+      "texto": "pides",
+      "inicio": 17.36,
+      "fin": 17.76
+    },
+    {
+      "texto": "en",
+      "inicio": 17.813,
+      "fin": 17.92
+    },
+    {
+      "texto": "el",
+      "inicio": 17.947,
+      "fin": 18.0
+    },
+    {
+      "texto": "panel.",
+      "inicio": 18.08,
+      "fin": 18.56
+    },
+    {
+      "texto": "Y",
+      "inicio": 18.92,
+      "fin": 19.28
+    },
+    {
+      "texto": "no",
+      "inicio": 19.333,
+      "fin": 19.44
+    },
+    {
+      "texto": "es",
+      "inicio": 19.467,
+      "fin": 19.52
+    },
+    {
+      "texto": "solo",
+      "inicio": 19.568,
+      "fin": 19.76
+    },
+    {
+      "texto": "para",
+      "inicio": 19.776,
+      "fin": 19.84
+    },
+    {
+      "texto": "empresas:",
+      "inicio": 19.911,
+      "fin": 20.56
+    },
+    {
+      "texto": "también",
+      "inicio": 20.63,
+      "fin": 21.12
+    },
+    {
+      "texto": "llegó",
+      "inicio": 21.168,
+      "fin": 21.439
+    },
+    {
+      "texto": "a",
+      "inicio": 21.44,
+      "fin": 21.441
+    },
+    {
+      "texto": "los",
+      "inicio": 21.48,
+      "fin": 21.6
+    },
+    {
+      "texto": "planes",
+      "inicio": 21.657,
+      "fin": 22.0
+    },
+    {
+      "texto": "Personal",
+      "inicio": 22.08,
+      "fin": 22.72
+    },
+    {
+      "texto": "y",
+      "inicio": 22.8,
+      "fin": 22.88
+    },
+    {
+      "texto": "Familia.",
+      "inicio": 22.96,
+      "fin": 23.52
+    },
+    {
+      "texto": "Lo",
+      "inicio": 23.813,
+      "fin": 24.4
+    },
+    {
+      "texto": "que",
+      "inicio": 24.44,
+      "fin": 24.56
+    },
+    {
+      "texto": "antes",
+      "inicio": 24.613,
+      "fin": 24.88
+    },
+    {
+      "texto": "te",
+      "inicio": 24.907,
+      "fin": 24.96
+    },
+    {
+      "texto": "tomaba",
+      "inicio": 25.02,
+      "fin": 25.36
+    },
+    {
+      "texto": "una",
+      "inicio": 25.4,
+      "fin": 25.52
+    },
+    {
+      "texto": "tarde,",
+      "inicio": 25.587,
+      "fin": 26.08
+    },
+    {
+      "texto": "ahora",
+      "inicio": 26.133,
+      "fin": 26.4
+    },
+    {
+      "texto": "lo",
+      "inicio": 26.427,
+      "fin": 26.48
+    },
+    {
+      "texto": "describes",
+      "inicio": 26.536,
+      "fin": 27.04
+    },
+    {
+      "texto": "en",
+      "inicio": 27.147,
+      "fin": 27.36
+    },
+    {
+      "texto": "una",
+      "inicio": 27.4,
+      "fin": 27.52
+    },
+    {
+      "texto": "frase.",
+      "inicio": 27.6,
+      "fin": 28.16
+    }
+  ]
+}

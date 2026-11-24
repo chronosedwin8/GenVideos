@@ -1,0 +1,240 @@
+{
+  "num": "13",
+  "titulo": "Paso 8: ejecuta",
+  "texto": "Y la última línea imprime un mensaje para saber que todo va bien. Guarda el archivo, abre la terminal en esa carpeta y escribe: python reportes punto py. Mira cómo van saliendo: Arequipa, Barranquilla, Bogotá… doce reportes. Y en la carpeta, doce archivos de Excel nuevos.",
+  "texto_tts": "Y la última línea imprime un mensaje para saber que todo va bien. Guarda el archivo, abre la terminal en esa carpeta y escribe: python reportes punto py. [excited] Mira cómo van saliendo: Arequipa, Barranquilla, Bogotá… doce reportes. Y en la carpeta, doce archivos de Excel nuevos.",
+  "modelo": "eleven_v3",
+  "duracion": 23.6,
+  "palabras": [
+    {
+      "texto": "Y",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "la",
+      "inicio": 0.107,
+      "fin": 0.16
+    },
+    {
+      "texto": "última",
+      "inicio": 0.217,
+      "fin": 0.56
+    },
+    {
+      "texto": "línea",
+      "inicio": 0.627,
+      "fin": 0.96
+    },
+    {
+      "texto": "imprime",
+      "inicio": 1.12,
+      "fin": 1.92
+    },
+    {
+      "texto": "un",
+      "inicio": 1.947,
+      "fin": 2.0
+    },
+    {
+      "texto": "mensaje",
+      "inicio": 2.08,
+      "fin": 2.64
+    },
+    {
+      "texto": "para",
+      "inicio": 2.672,
+      "fin": 2.8
+    },
+    {
+      "texto": "saber",
+      "inicio": 2.853,
+      "fin": 3.12
+    },
+    {
+      "texto": "que",
+      "inicio": 3.16,
+      "fin": 3.28
+    },
+    {
+      "texto": "todo",
+      "inicio": 3.344,
+      "fin": 3.6
+    },
+    {
+      "texto": "va",
+      "inicio": 3.627,
+      "fin": 3.68
+    },
+    {
+      "texto": "bien.",
+      "inicio": 3.76,
+      "fin": 4.16
+    },
+    {
+      "texto": "Guarda",
+      "inicio": 4.427,
+      "fin": 5.84
+    },
+    {
+      "texto": "el",
+      "inicio": 5.867,
+      "fin": 5.92
+    },
+    {
+      "texto": "archivo,",
+      "inicio": 5.98,
+      "fin": 7.12
+    },
+    {
+      "texto": "abre",
+      "inicio": 7.184,
+      "fin": 7.44
+    },
+    {
+      "texto": "la",
+      "inicio": 7.467,
+      "fin": 7.52
+    },
+    {
+      "texto": "terminal",
+      "inicio": 7.582,
+      "fin": 8.08
+    },
+    {
+      "texto": "en",
+      "inicio": 8.133,
+      "fin": 8.24
+    },
+    {
+      "texto": "esa",
+      "inicio": 8.3,
+      "fin": 8.48
+    },
+    {
+      "texto": "carpeta",
+      "inicio": 8.528,
+      "fin": 8.96
+    },
+    {
+      "texto": "y",
+      "inicio": 9.0,
+      "fin": 9.04
+    },
+    {
+      "texto": "escribe:",
+      "inicio": 9.093,
+      "fin": 9.84
+    },
+    {
+      "texto": "python",
+      "inicio": 9.966,
+      "fin": 10.72
+    },
+    {
+      "texto": "reportes",
+      "inicio": 10.789,
+      "fin": 11.44
+    },
+    {
+      "texto": "punto",
+      "inicio": 11.507,
+      "fin": 11.84
+    },
+    {
+      "texto": "py.",
+      "inicio": 11.973,
+      "fin": 12.4
+    },
+    {
+      "texto": "Mira",
+      "inicio": 13.67,
+      "fin": 13.76
+    },
+    {
+      "texto": "cómo",
+      "inicio": 13.808,
+      "fin": 14.0
+    },
+    {
+      "texto": "van",
+      "inicio": 14.04,
+      "fin": 14.16
+    },
+    {
+      "texto": "saliendo:",
+      "inicio": 14.22,
+      "fin": 15.28
+    },
+    {
+      "texto": "Arequipa,",
+      "inicio": 15.36,
+      "fin": 16.16
+    },
+    {
+      "texto": "Barranquilla,",
+      "inicio": 16.192,
+      "fin": 17.12
+    },
+    {
+      "texto": "Bogotá…",
+      "inicio": 17.2,
+      "fin": 18.48
+    },
+    {
+      "texto": "doce",
+      "inicio": 18.533,
+      "fin": 18.72
+    },
+    {
+      "texto": "reportes.",
+      "inicio": 18.789,
+      "fin": 19.52
+    },
+    {
+      "texto": "Y",
+      "inicio": 19.84,
+      "fin": 20.16
+    },
+    {
+      "texto": "en",
+      "inicio": 20.187,
+      "fin": 20.24
+    },
+    {
+      "texto": "la",
+      "inicio": 20.267,
+      "fin": 20.32
+    },
+    {
+      "texto": "carpeta,",
+      "inicio": 20.384,
+      "fin": 20.96
+    },
+    {
+      "texto": "doce",
+      "inicio": 21.2,
+      "fin": 21.76
+    },
+    {
+      "texto": "archivos",
+      "inicio": 21.813,
+      "fin": 22.24
+    },
+    {
+      "texto": "de",
+      "inicio": 22.267,
+      "fin": 22.32
+    },
+    {
+      "texto": "Excel",
+      "inicio": 22.387,
+      "fin": 22.72
+    },
+    {
+      "texto": "nuevos.",
+      "inicio": 22.823,
+      "fin": 23.6
+    }
+  ]
+}

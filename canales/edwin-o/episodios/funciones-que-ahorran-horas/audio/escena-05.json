@@ -1,0 +1,205 @@
+{
+  "num": "05",
+  "titulo": "El aporte de Edwin",
+  "texto": "En mis talleres con docentes y personal administrativo, siempre pasa lo mismo: cuando muestro estas funciones, alguien dice \"¿y por qué nadie me enseñó esto antes?\". La que más los sorprende es FILTRAR. Ya vas a ver por qué.",
+  "texto_tts": "En mis talleres con docentes y personal administrativo, siempre pasa lo mismo: cuando muestro estas funciones, alguien dice \"¿y por qué nadie me enseñó esto antes?\". La que más los sorprende es FILTRAR. Ya vas a ver por qué.",
+  "modelo": "eleven_v3",
+  "duracion": 15.52,
+  "palabras": [
+    {
+      "texto": "En",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "mis",
+      "inicio": 0.12,
+      "fin": 0.24
+    },
+    {
+      "texto": "talleres",
+      "inicio": 0.288,
+      "fin": 0.72
+    },
+    {
+      "texto": "con",
+      "inicio": 0.78,
+      "fin": 0.96
+    },
+    {
+      "texto": "docentes",
+      "inicio": 1.04,
+      "fin": 1.68
+    },
+    {
+      "texto": "y",
+      "inicio": 1.76,
+      "fin": 1.84
+    },
+    {
+      "texto": "personal",
+      "inicio": 1.893,
+      "fin": 2.32
+    },
+    {
+      "texto": "administrativo,",
+      "inicio": 2.36,
+      "fin": 3.84
+    },
+    {
+      "texto": "siempre",
+      "inicio": 3.88,
+      "fin": 4.16
+    },
+    {
+      "texto": "pasa",
+      "inicio": 4.208,
+      "fin": 4.4
+    },
+    {
+      "texto": "lo",
+      "inicio": 4.427,
+      "fin": 4.48
+    },
+    {
+      "texto": "mismo:",
+      "inicio": 4.547,
+      "fin": 5.6
+    },
+    {
+      "texto": "cuando",
+      "inicio": 5.623,
+      "fin": 5.76
+    },
+    {
+      "texto": "muestro",
+      "inicio": 5.84,
+      "fin": 6.16
+    },
+    {
+      "texto": "estas",
+      "inicio": 6.187,
+      "fin": 6.32
+    },
+    {
+      "texto": "funciones,",
+      "inicio": 6.376,
+      "fin": 6.96
+    },
+    {
+      "texto": "alguien",
+      "inicio": 6.99,
+      "fin": 7.2
+    },
+    {
+      "texto": "dice",
+      "inicio": 7.312,
+      "fin": 7.76
+    },
+    {
+      "texto": "\"¿y",
+      "inicio": 8.0,
+      "fin": 8.4
+    },
+    {
+      "texto": "por",
+      "inicio": 8.42,
+      "fin": 8.48
+    },
+    {
+      "texto": "qué",
+      "inicio": 8.52,
+      "fin": 8.64
+    },
+    {
+      "texto": "nadie",
+      "inicio": 8.7,
+      "fin": 8.96
+    },
+    {
+      "texto": "me",
+      "inicio": 8.987,
+      "fin": 9.04
+    },
+    {
+      "texto": "enseñó",
+      "inicio": 9.088,
+      "fin": 9.44
+    },
+    {
+      "texto": "esto",
+      "inicio": 9.488,
+      "fin": 9.68
+    },
+    {
+      "texto": "antes?\".",
+      "inicio": 9.747,
+      "fin": 11.2
+    },
+    {
+      "texto": "La",
+      "inicio": 11.227,
+      "fin": 11.28
+    },
+    {
+      "texto": "que",
+      "inicio": 11.34,
+      "fin": 11.52
+    },
+    {
+      "texto": "más",
+      "inicio": 11.58,
+      "fin": 11.76
+    },
+    {
+      "texto": "los",
+      "inicio": 11.8,
+      "fin": 11.92
+    },
+    {
+      "texto": "sorprende",
+      "inicio": 11.98,
+      "fin": 12.72
+    },
+    {
+      "texto": "es",
+      "inicio": 12.853,
+      "fin": 13.12
+    },
+    {
+      "texto": "FILTRAR.",
+      "inicio": 13.18,
+      "fin": 13.76
+    },
+    {
+      "texto": "Ya",
+      "inicio": 14.053,
+      "fin": 14.64
+    },
+    {
+      "texto": "vas",
+      "inicio": 14.7,
+      "fin": 14.88
+    },
+    {
+      "texto": "a",
+      "inicio": 14.92,
+      "fin": 14.96
+    },
+    {
+      "texto": "ver",
+      "inicio": 14.98,
+      "fin": 15.04
+    },
+    {
+      "texto": "por",
+      "inicio": 15.1,
+      "fin": 15.28
+    },
+    {
+      "texto": "qué.",
+      "inicio": 15.32,
+      "fin": 15.52
+    }
+  ]
+}

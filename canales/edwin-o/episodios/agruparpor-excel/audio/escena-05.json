@@ -1,0 +1,245 @@
+{
+  "num": "05",
+  "titulo": "Lo que necesitas",
+  "texto": "Antes de empezar: AGRUPARPOR está en Excel para Microsoft trescientos sesenta y cinco. Si escribes la fórmula y te sale el error numeral nombre, tu versión todavía no la tiene. En ese caso, revisa que tu Office esté actualizado, o pídele a tu empresa que lo actualice.",
+  "texto_tts": "Antes de empezar: AGRUPARPOR está en Excel para Microsoft trescientos sesenta y cinco. Si escribes la fórmula y te sale el error numeral nombre, tu versión todavía no la tiene. En ese caso, revisa que tu Office esté actualizado, o pídele a tu empresa que lo actualice.",
+  "modelo": "eleven_v3",
+  "duracion": 22.0,
+  "palabras": [
+    {
+      "texto": "Antes",
+      "inicio": 0.0,
+      "fin": 0.24
+    },
+    {
+      "texto": "de",
+      "inicio": 0.267,
+      "fin": 0.32
+    },
+    {
+      "texto": "empezar:",
+      "inicio": 0.387,
+      "fin": 2.08
+    },
+    {
+      "texto": "AGRUPARPOR",
+      "inicio": 2.16,
+      "fin": 3.2
+    },
+    {
+      "texto": "está",
+      "inicio": 3.264,
+      "fin": 3.52
+    },
+    {
+      "texto": "en",
+      "inicio": 3.547,
+      "fin": 3.6
+    },
+    {
+      "texto": "Excel",
+      "inicio": 3.68,
+      "fin": 4.08
+    },
+    {
+      "texto": "para",
+      "inicio": 4.128,
+      "fin": 4.32
+    },
+    {
+      "texto": "Microsoft",
+      "inicio": 4.384,
+      "fin": 4.96
+    },
+    {
+      "texto": "trescientos",
+      "inicio": 5.024,
+      "fin": 5.68
+    },
+    {
+      "texto": "sesenta",
+      "inicio": 5.72,
+      "fin": 6.08
+    },
+    {
+      "texto": "y",
+      "inicio": 6.12,
+      "fin": 6.16
+    },
+    {
+      "texto": "cinco.",
+      "inicio": 6.213,
+      "fin": 6.64
+    },
+    {
+      "texto": "Si",
+      "inicio": 6.987,
+      "fin": 7.68
+    },
+    {
+      "texto": "escribes",
+      "inicio": 7.733,
+      "fin": 8.16
+    },
+    {
+      "texto": "la",
+      "inicio": 8.187,
+      "fin": 8.24
+    },
+    {
+      "texto": "fórmula",
+      "inicio": 8.32,
+      "fin": 8.88
+    },
+    {
+      "texto": "y",
+      "inicio": 9.04,
+      "fin": 9.2
+    },
+    {
+      "texto": "te",
+      "inicio": 9.253,
+      "fin": 9.36
+    },
+    {
+      "texto": "sale",
+      "inicio": 9.424,
+      "fin": 9.68
+    },
+    {
+      "texto": "el",
+      "inicio": 9.707,
+      "fin": 9.76
+    },
+    {
+      "texto": "error",
+      "inicio": 9.84,
+      "fin": 10.24
+    },
+    {
+      "texto": "numeral",
+      "inicio": 10.34,
+      "fin": 11.04
+    },
+    {
+      "texto": "nombre,",
+      "inicio": 11.154,
+      "fin": 11.92
+    },
+    {
+      "texto": "tu",
+      "inicio": 12.187,
+      "fin": 12.72
+    },
+    {
+      "texto": "versión",
+      "inicio": 12.77,
+      "fin": 13.12
+    },
+    {
+      "texto": "todavía",
+      "inicio": 13.2,
+      "fin": 13.68
+    },
+    {
+      "texto": "no",
+      "inicio": 13.733,
+      "fin": 13.84
+    },
+    {
+      "texto": "la",
+      "inicio": 13.867,
+      "fin": 13.92
+    },
+    {
+      "texto": "tiene.",
+      "inicio": 13.987,
+      "fin": 14.4
+    },
+    {
+      "texto": "En",
+      "inicio": 14.747,
+      "fin": 15.44
+    },
+    {
+      "texto": "ese",
+      "inicio": 15.5,
+      "fin": 15.68
+    },
+    {
+      "texto": "caso,",
+      "inicio": 15.76,
+      "fin": 16.4
+    },
+    {
+      "texto": "revisa",
+      "inicio": 16.48,
+      "fin": 16.881
+    },
+    {
+      "texto": "que",
+      "inicio": 16.92,
+      "fin": 17.04
+    },
+    {
+      "texto": "tu",
+      "inicio": 17.12,
+      "fin": 17.28
+    },
+    {
+      "texto": "Office",
+      "inicio": 17.349,
+      "fin": 17.76
+    },
+    {
+      "texto": "esté",
+      "inicio": 17.84,
+      "fin": 18.28
+    },
+    {
+      "texto": "actualizado,",
+      "inicio": 18.309,
+      "fin": 19.6
+    },
+    {
+      "texto": "o",
+      "inicio": 19.68,
+      "fin": 19.76
+    },
+    {
+      "texto": "pídele",
+      "inicio": 19.8,
+      "fin": 20.16
+    },
+    {
+      "texto": "a",
+      "inicio": 20.2,
+      "fin": 20.24
+    },
+    {
+      "texto": "tu",
+      "inicio": 20.267,
+      "fin": 20.32
+    },
+    {
+      "texto": "empresa",
+      "inicio": 20.38,
+      "fin": 20.8
+    },
+    {
+      "texto": "que",
+      "inicio": 20.88,
+      "fin": 21.12
+    },
+    {
+      "texto": "lo",
+      "inicio": 21.147,
+      "fin": 21.2
+    },
+    {
+      "texto": "actualice.",
+      "inicio": 21.257,
+      "fin": 22.0
+    }
+  ]
+}

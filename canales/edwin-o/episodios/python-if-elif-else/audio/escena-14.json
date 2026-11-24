@@ -1,0 +1,305 @@
+{
+  "num": "14",
+  "titulo": "Bonus: el if de una línea",
+  "texto": "Un bonus que te va a gustar si vienes de Excel. Cuando solo necesitas elegir entre dos valores, Python tiene un if de una línea: estado igual a \"Aprobado\" if nota mayor o igual que sesenta, else \"Reprobado\". Es casi idéntico a la función SI de Excel. Úsalo para cosas cortas, y el if normal para todo lo demás.",
+  "texto_tts": "Un bonus que te va a gustar si vienes de Excel. Cuando solo necesitas elegir entre dos valores, Python tiene un if de una línea: estado igual a \"Aprobado\" if nota mayor o igual que sesenta, else \"Reprobado\". Es casi idéntico a la función SI de Excel. Úsalo para cosas cortas, y el if normal para todo lo demás.",
+  "modelo": "eleven_v3",
+  "duracion": 22.96,
+  "palabras": [
+    {
+      "texto": "Un",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "bonus",
+      "inicio": 0.16,
+      "fin": 0.56
+    },
+    {
+      "texto": "que",
+      "inicio": 0.62,
+      "fin": 0.8
+    },
+    {
+      "texto": "te",
+      "inicio": 0.853,
+      "fin": 0.96
+    },
+    {
+      "texto": "va",
+      "inicio": 0.973,
+      "fin": 1.0
+    },
+    {
+      "texto": "a",
+      "inicio": 1.02,
+      "fin": 1.04
+    },
+    {
+      "texto": "gustar",
+      "inicio": 1.104,
+      "fin": 1.44
+    },
+    {
+      "texto": "si",
+      "inicio": 1.52,
+      "fin": 1.68
+    },
+    {
+      "texto": "vienes",
+      "inicio": 1.707,
+      "fin": 2.0
+    },
+    {
+      "texto": "de",
+      "inicio": 2.027,
+      "fin": 2.08
+    },
+    {
+      "texto": "Excel.",
+      "inicio": 2.147,
+      "fin": 3.2
+    },
+    {
+      "texto": "Cuando",
+      "inicio": 3.234,
+      "fin": 3.44
+    },
+    {
+      "texto": "solo",
+      "inicio": 3.504,
+      "fin": 3.76
+    },
+    {
+      "texto": "necesitas",
+      "inicio": 3.813,
+      "fin": 4.32
+    },
+    {
+      "texto": "elegir",
+      "inicio": 4.384,
+      "fin": 4.72
+    },
+    {
+      "texto": "entre",
+      "inicio": 4.773,
+      "fin": 5.04
+    },
+    {
+      "texto": "dos",
+      "inicio": 5.08,
+      "fin": 5.2
+    },
+    {
+      "texto": "valores,",
+      "inicio": 5.27,
+      "fin": 6.16
+    },
+    {
+      "texto": "Python",
+      "inicio": 6.217,
+      "fin": 6.56
+    },
+    {
+      "texto": "tiene",
+      "inicio": 6.6,
+      "fin": 6.8
+    },
+    {
+      "texto": "un",
+      "inicio": 6.827,
+      "fin": 6.88
+    },
+    {
+      "texto": "if",
+      "inicio": 6.96,
+      "fin": 7.12
+    },
+    {
+      "texto": "de",
+      "inicio": 7.173,
+      "fin": 7.28
+    },
+    {
+      "texto": "una",
+      "inicio": 7.32,
+      "fin": 7.44
+    },
+    {
+      "texto": "línea:",
+      "inicio": 7.507,
+      "fin": 8.48
+    },
+    {
+      "texto": "estado",
+      "inicio": 8.56,
+      "fin": 9.04
+    },
+    {
+      "texto": "igual",
+      "inicio": 9.12,
+      "fin": 9.52
+    },
+    {
+      "texto": "a",
+      "inicio": 9.56,
+      "fin": 9.6
+    },
+    {
+      "texto": "\"Aprobado\"",
+      "inicio": 9.64,
+      "fin": 10.32
+    },
+    {
+      "texto": "if",
+      "inicio": 10.56,
+      "fin": 11.04
+    },
+    {
+      "texto": "nota",
+      "inicio": 11.168,
+      "fin": 11.68
+    },
+    {
+      "texto": "mayor",
+      "inicio": 11.733,
+      "fin": 12.0
+    },
+    {
+      "texto": "o",
+      "inicio": 12.04,
+      "fin": 12.08
+    },
+    {
+      "texto": "igual",
+      "inicio": 12.12,
+      "fin": 12.32
+    },
+    {
+      "texto": "que",
+      "inicio": 12.36,
+      "fin": 12.48
+    },
+    {
+      "texto": "sesenta,",
+      "inicio": 12.54,
+      "fin": 13.6
+    },
+    {
+      "texto": "else",
+      "inicio": 13.728,
+      "fin": 14.24
+    },
+    {
+      "texto": "\"Reprobado\".",
+      "inicio": 14.32,
+      "fin": 15.2
+    },
+    {
+      "texto": "Es",
+      "inicio": 15.467,
+      "fin": 16.0
+    },
+    {
+      "texto": "casi",
+      "inicio": 16.064,
+      "fin": 16.32
+    },
+    {
+      "texto": "idéntico",
+      "inicio": 16.373,
+      "fin": 16.88
+    },
+    {
+      "texto": "a",
+      "inicio": 16.92,
+      "fin": 16.96
+    },
+    {
+      "texto": "la",
+      "inicio": 16.987,
+      "fin": 17.04
+    },
+    {
+      "texto": "función",
+      "inicio": 17.1,
+      "fin": 17.52
+    },
+    {
+      "texto": "SI",
+      "inicio": 17.627,
+      "fin": 17.84
+    },
+    {
+      "texto": "de",
+      "inicio": 17.867,
+      "fin": 17.92
+    },
+    {
+      "texto": "Excel.",
+      "inicio": 17.987,
+      "fin": 18.4
+    },
+    {
+      "texto": "Úsalo",
+      "inicio": 18.76,
+      "fin": 19.36
+    },
+    {
+      "texto": "para",
+      "inicio": 19.392,
+      "fin": 19.52
+    },
+    {
+      "texto": "cosas",
+      "inicio": 19.587,
+      "fin": 19.92
+    },
+    {
+      "texto": "cortas,",
+      "inicio": 19.984,
+      "fin": 20.48
+    },
+    {
+      "texto": "y",
+      "inicio": 20.6,
+      "fin": 20.72
+    },
+    {
+      "texto": "el",
+      "inicio": 20.773,
+      "fin": 20.88
+    },
+    {
+      "texto": "if",
+      "inicio": 20.933,
+      "fin": 21.04
+    },
+    {
+      "texto": "normal",
+      "inicio": 21.109,
+      "fin": 21.52
+    },
+    {
+      "texto": "para",
+      "inicio": 21.6,
+      "fin": 21.92
+    },
+    {
+      "texto": "todo",
+      "inicio": 21.984,
+      "fin": 22.24
+    },
+    {
+      "texto": "lo",
+      "inicio": 22.293,
+      "fin": 22.4
+    },
+    {
+      "texto": "demás.",
+      "inicio": 22.44,
+      "fin": 22.96
+    }
+  ]
+}

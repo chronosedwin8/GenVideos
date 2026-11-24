@@ -1,0 +1,340 @@
+{
+  "num": "10",
+  "titulo": "Pruébalo con los límites",
+  "texto": "La primera línea usa input para preguntar las ventas, y float para convertirlas en número. Ejecutamos y probamos los casos del límite, igual que en Excel. Novecientos noventa y nueve: cero. Mil: treinta. Cinco mil: doscientos cincuenta. Y siete mil doscientos: trescientos sesenta. ¡Todo correcto! Y si alguno no hubiera dado lo esperado, ya sabrías dónde buscar: en la condición, no en el resto del programa.",
+  "texto_tts": "La primera línea usa input para preguntar las ventas, y float para convertirlas en número. Ejecutamos y probamos los casos del límite, igual que en Excel. Novecientos noventa y nueve: cero. Mil: treinta. Cinco mil: doscientos cincuenta. Y siete mil doscientos: trescientos sesenta. [excited] ¡Todo correcto! Y si alguno no hubiera dado lo esperado, ya sabrías dónde buscar: en la condición, no en el resto del programa.",
+  "modelo": "eleven_v3",
+  "duracion": 34.16,
+  "palabras": [
+    {
+      "texto": "La",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "primera",
+      "inicio": 0.13,
+      "fin": 0.48
+    },
+    {
+      "texto": "línea",
+      "inicio": 0.56,
+      "fin": 0.96
+    },
+    {
+      "texto": "usa",
+      "inicio": 1.06,
+      "fin": 1.36
+    },
+    {
+      "texto": "input",
+      "inicio": 1.453,
+      "fin": 1.92
+    },
+    {
+      "texto": "para",
+      "inicio": 1.984,
+      "fin": 2.24
+    },
+    {
+      "texto": "preguntar",
+      "inicio": 2.288,
+      "fin": 2.8
+    },
+    {
+      "texto": "las",
+      "inicio": 2.84,
+      "fin": 2.96
+    },
+    {
+      "texto": "ventas,",
+      "inicio": 3.051,
+      "fin": 4.08
+    },
+    {
+      "texto": "y",
+      "inicio": 4.12,
+      "fin": 4.16
+    },
+    {
+      "texto": "float",
+      "inicio": 4.24,
+      "fin": 4.64
+    },
+    {
+      "texto": "para",
+      "inicio": 4.688,
+      "fin": 4.88
+    },
+    {
+      "texto": "convertirlas",
+      "inicio": 4.94,
+      "fin": 5.6
+    },
+    {
+      "texto": "en",
+      "inicio": 5.653,
+      "fin": 5.76
+    },
+    {
+      "texto": "número.",
+      "inicio": 5.829,
+      "fin": 6.32
+    },
+    {
+      "texto": "Ejecutamos",
+      "inicio": 6.667,
+      "fin": 8.0
+    },
+    {
+      "texto": "y",
+      "inicio": 8.12,
+      "fin": 8.24
+    },
+    {
+      "texto": "probamos",
+      "inicio": 8.288,
+      "fin": 8.64
+    },
+    {
+      "texto": "los",
+      "inicio": 8.68,
+      "fin": 8.8
+    },
+    {
+      "texto": "casos",
+      "inicio": 8.853,
+      "fin": 9.12
+    },
+    {
+      "texto": "del",
+      "inicio": 9.16,
+      "fin": 9.28
+    },
+    {
+      "texto": "límite,",
+      "inicio": 9.36,
+      "fin": 10.0
+    },
+    {
+      "texto": "igual",
+      "inicio": 10.053,
+      "fin": 10.32
+    },
+    {
+      "texto": "que",
+      "inicio": 10.34,
+      "fin": 10.4
+    },
+    {
+      "texto": "en",
+      "inicio": 10.427,
+      "fin": 10.48
+    },
+    {
+      "texto": "Excel.",
+      "inicio": 10.573,
+      "fin": 11.44
+    },
+    {
+      "texto": "Novecientos",
+      "inicio": 11.64,
+      "fin": 12.32
+    },
+    {
+      "texto": "noventa",
+      "inicio": 12.373,
+      "fin": 12.72
+    },
+    {
+      "texto": "y",
+      "inicio": 12.8,
+      "fin": 12.88
+    },
+    {
+      "texto": "nueve:",
+      "inicio": 12.94,
+      "fin": 13.56
+    },
+    {
+      "texto": "cero.",
+      "inicio": 13.74,
+      "fin": 14.32
+    },
+    {
+      "texto": "Mil:",
+      "inicio": 14.62,
+      "fin": 15.92
+    },
+    {
+      "texto": "treinta.",
+      "inicio": 16.02,
+      "fin": 16.8
+    },
+    {
+      "texto": "Cinco",
+      "inicio": 17.08,
+      "fin": 18.0
+    },
+    {
+      "texto": "mil:",
+      "inicio": 18.08,
+      "fin": 18.8
+    },
+    {
+      "texto": "doscientos",
+      "inicio": 18.86,
+      "fin": 19.36
+    },
+    {
+      "texto": "cincuenta.",
+      "inicio": 19.4,
+      "fin": 20.56
+    },
+    {
+      "texto": "Y",
+      "inicio": 20.84,
+      "fin": 21.12
+    },
+    {
+      "texto": "siete",
+      "inicio": 21.16,
+      "fin": 21.36
+    },
+    {
+      "texto": "mil",
+      "inicio": 21.4,
+      "fin": 21.52
+    },
+    {
+      "texto": "doscientos:",
+      "inicio": 21.6,
+      "fin": 22.72
+    },
+    {
+      "texto": "trescientos",
+      "inicio": 22.784,
+      "fin": 23.36
+    },
+    {
+      "texto": "sesenta.",
+      "inicio": 23.42,
+      "fin": 24.08
+    },
+    {
+      "texto": "¡Todo",
+      "inicio": 25.128,
+      "fin": 25.2
+    },
+    {
+      "texto": "correcto!",
+      "inicio": 25.27,
+      "fin": 25.92
+    },
+    {
+      "texto": "Y",
+      "inicio": 26.28,
+      "fin": 26.64
+    },
+    {
+      "texto": "si",
+      "inicio": 26.667,
+      "fin": 26.72
+    },
+    {
+      "texto": "alguno",
+      "inicio": 26.773,
+      "fin": 27.12
+    },
+    {
+      "texto": "no",
+      "inicio": 27.173,
+      "fin": 27.28
+    },
+    {
+      "texto": "hubiera",
+      "inicio": 27.3,
+      "fin": 27.52
+    },
+    {
+      "texto": "dado",
+      "inicio": 27.568,
+      "fin": 27.76
+    },
+    {
+      "texto": "lo",
+      "inicio": 27.787,
+      "fin": 27.84
+    },
+    {
+      "texto": "esperado,",
+      "inicio": 27.893,
+      "fin": 28.72
+    },
+    {
+      "texto": "ya",
+      "inicio": 28.747,
+      "fin": 28.8
+    },
+    {
+      "texto": "sabrías",
+      "inicio": 28.86,
+      "fin": 29.28
+    },
+    {
+      "texto": "dónde",
+      "inicio": 29.333,
+      "fin": 29.6
+    },
+    {
+      "texto": "buscar:",
+      "inicio": 29.669,
+      "fin": 30.8
+    },
+    {
+      "texto": "en",
+      "inicio": 30.853,
+      "fin": 30.96
+    },
+    {
+      "texto": "la",
+      "inicio": 31.013,
+      "fin": 31.12
+    },
+    {
+      "texto": "condición,",
+      "inicio": 31.168,
+      "fin": 32.4
+    },
+    {
+      "texto": "no",
+      "inicio": 32.48,
+      "fin": 32.64
+    },
+    {
+      "texto": "en",
+      "inicio": 32.747,
+      "fin": 32.96
+    },
+    {
+      "texto": "el",
+      "inicio": 32.987,
+      "fin": 33.04
+    },
+    {
+      "texto": "resto",
+      "inicio": 33.107,
+      "fin": 33.44
+    },
+    {
+      "texto": "del",
+      "inicio": 33.46,
+      "fin": 33.52
+    },
+    {
+      "texto": "programa.",
+      "inicio": 33.573,
+      "fin": 34.16
+    }
+  ]
+}

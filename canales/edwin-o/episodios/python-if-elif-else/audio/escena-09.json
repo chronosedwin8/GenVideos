@@ -1,0 +1,390 @@
+{
+  "num": "09",
+  "titulo": "Paso 3: el elif",
+  "texto": "Paso tres: elif, que es la abreviatura de \"else if\": si no, pregunta esto otro. Sirve cuando tienes más de dos opciones. ¿Recuerdas la regla de comisiones del video de fórmulas con IA? Desde cinco mil, el cinco por ciento. Desde mil, el tres por ciento. Si no, cero. En Python queda así: if ventas mayor o igual que cinco mil, elif ventas mayor o igual que mil, y else. Tres caminos, uno solo se cumple.",
+  "texto_tts": "Paso tres: elif, que es la abreviatura de \"else if\": si no, pregunta esto otro. Sirve cuando tienes más de dos opciones. ¿Recuerdas la regla de comisiones del video de fórmulas con IA? Desde cinco mil, el cinco por ciento. Desde mil, el tres por ciento. Si no, cero. En Python queda así: if ventas mayor o igual que cinco mil, elif ventas mayor o igual que mil, y else. Tres caminos, uno solo se cumple.",
+  "modelo": "eleven_v3",
+  "duracion": 37.44,
+  "palabras": [
+    {
+      "texto": "Paso",
+      "inicio": 0.0,
+      "fin": 0.32
+    },
+    {
+      "texto": "tres:",
+      "inicio": 0.416,
+      "fin": 0.88
+    },
+    {
+      "texto": "elif,",
+      "inicio": 1.088,
+      "fin": 2.12
+    },
+    {
+      "texto": "que",
+      "inicio": 2.17,
+      "fin": 2.32
+    },
+    {
+      "texto": "es",
+      "inicio": 2.347,
+      "fin": 2.4
+    },
+    {
+      "texto": "la",
+      "inicio": 2.427,
+      "fin": 2.48
+    },
+    {
+      "texto": "abreviatura",
+      "inicio": 2.533,
+      "fin": 3.12
+    },
+    {
+      "texto": "de",
+      "inicio": 3.147,
+      "fin": 3.2
+    },
+    {
+      "texto": "\"else",
+      "inicio": 3.32,
+      "fin": 3.76
+    },
+    {
+      "texto": "if\":",
+      "inicio": 3.92,
+      "fin": 4.48
+    },
+    {
+      "texto": "si",
+      "inicio": 4.533,
+      "fin": 4.64
+    },
+    {
+      "texto": "no,",
+      "inicio": 4.72,
+      "fin": 4.96
+    },
+    {
+      "texto": "pregunta",
+      "inicio": 5.04,
+      "fin": 5.68
+    },
+    {
+      "texto": "esto",
+      "inicio": 5.728,
+      "fin": 5.92
+    },
+    {
+      "texto": "otro.",
+      "inicio": 6.0,
+      "fin": 6.4
+    },
+    {
+      "texto": "Sirve",
+      "inicio": 6.68,
+      "fin": 7.6
+    },
+    {
+      "texto": "cuando",
+      "inicio": 7.634,
+      "fin": 7.84
+    },
+    {
+      "texto": "tienes",
+      "inicio": 7.886,
+      "fin": 8.16
+    },
+    {
+      "texto": "más",
+      "inicio": 8.2,
+      "fin": 8.32
+    },
+    {
+      "texto": "de",
+      "inicio": 8.373,
+      "fin": 8.48
+    },
+    {
+      "texto": "dos",
+      "inicio": 8.52,
+      "fin": 8.64
+    },
+    {
+      "texto": "opciones.",
+      "inicio": 8.72,
+      "fin": 9.6
+    },
+    {
+      "texto": "¿Recuerdas",
+      "inicio": 9.92,
+      "fin": 10.72
+    },
+    {
+      "texto": "la",
+      "inicio": 10.747,
+      "fin": 10.8
+    },
+    {
+      "texto": "regla",
+      "inicio": 10.86,
+      "fin": 11.12
+    },
+    {
+      "texto": "de",
+      "inicio": 11.147,
+      "fin": 11.2
+    },
+    {
+      "texto": "comisiones",
+      "inicio": 11.26,
+      "fin": 11.84
+    },
+    {
+      "texto": "del",
+      "inicio": 11.88,
+      "fin": 12.0
+    },
+    {
+      "texto": "video",
+      "inicio": 12.053,
+      "fin": 12.32
+    },
+    {
+      "texto": "de",
+      "inicio": 12.347,
+      "fin": 12.4
+    },
+    {
+      "texto": "fórmulas",
+      "inicio": 12.48,
+      "fin": 12.88
+    },
+    {
+      "texto": "con",
+      "inicio": 12.94,
+      "fin": 13.12
+    },
+    {
+      "texto": "IA?",
+      "inicio": 13.227,
+      "fin": 13.76
+    },
+    {
+      "texto": "Desde",
+      "inicio": 13.947,
+      "fin": 14.88
+    },
+    {
+      "texto": "cinco",
+      "inicio": 14.933,
+      "fin": 15.2
+    },
+    {
+      "texto": "mil,",
+      "inicio": 15.28,
+      "fin": 15.76
+    },
+    {
+      "texto": "el",
+      "inicio": 15.84,
+      "fin": 16.0
+    },
+    {
+      "texto": "cinco",
+      "inicio": 16.04,
+      "fin": 16.24
+    },
+    {
+      "texto": "por",
+      "inicio": 16.3,
+      "fin": 16.48
+    },
+    {
+      "texto": "ciento.",
+      "inicio": 16.52,
+      "fin": 17.12
+    },
+    {
+      "texto": "Desde",
+      "inicio": 17.24,
+      "fin": 17.84
+    },
+    {
+      "texto": "mil,",
+      "inicio": 17.94,
+      "fin": 18.4
+    },
+    {
+      "texto": "el",
+      "inicio": 18.453,
+      "fin": 18.56
+    },
+    {
+      "texto": "tres",
+      "inicio": 18.608,
+      "fin": 18.8
+    },
+    {
+      "texto": "por",
+      "inicio": 18.84,
+      "fin": 18.96
+    },
+    {
+      "texto": "ciento.",
+      "inicio": 19.04,
+      "fin": 19.76
+    },
+    {
+      "texto": "Si",
+      "inicio": 19.84,
+      "fin": 20.0
+    },
+    {
+      "texto": "no,",
+      "inicio": 20.107,
+      "fin": 20.64
+    },
+    {
+      "texto": "cero.",
+      "inicio": 20.8,
+      "fin": 21.84
+    },
+    {
+      "texto": "En",
+      "inicio": 22.0,
+      "fin": 22.32
+    },
+    {
+      "texto": "Python",
+      "inicio": 22.4,
+      "fin": 22.88
+    },
+    {
+      "texto": "queda",
+      "inicio": 22.92,
+      "fin": 23.12
+    },
+    {
+      "texto": "así:",
+      "inicio": 23.22,
+      "fin": 23.76
+    },
+    {
+      "texto": "if",
+      "inicio": 24.16,
+      "fin": 24.96
+    },
+    {
+      "texto": "ventas",
+      "inicio": 25.12,
+      "fin": 26.08
+    },
+    {
+      "texto": "mayor",
+      "inicio": 26.173,
+      "fin": 26.64
+    },
+    {
+      "texto": "o",
+      "inicio": 26.68,
+      "fin": 26.72
+    },
+    {
+      "texto": "igual",
+      "inicio": 26.773,
+      "fin": 27.04
+    },
+    {
+      "texto": "que",
+      "inicio": 27.08,
+      "fin": 27.2
+    },
+    {
+      "texto": "cinco",
+      "inicio": 27.253,
+      "fin": 27.52
+    },
+    {
+      "texto": "mil,",
+      "inicio": 27.6,
+      "fin": 28.24
+    },
+    {
+      "texto": "elif",
+      "inicio": 28.544,
+      "fin": 29.76
+    },
+    {
+      "texto": "ventas",
+      "inicio": 29.931,
+      "fin": 30.96
+    },
+    {
+      "texto": "mayor",
+      "inicio": 31.027,
+      "fin": 31.36
+    },
+    {
+      "texto": "o",
+      "inicio": 31.4,
+      "fin": 31.44
+    },
+    {
+      "texto": "igual",
+      "inicio": 31.493,
+      "fin": 31.76
+    },
+    {
+      "texto": "que",
+      "inicio": 31.8,
+      "fin": 31.92
+    },
+    {
+      "texto": "mil,",
+      "inicio": 32.04,
+      "fin": 32.64
+    },
+    {
+      "texto": "y",
+      "inicio": 33.0,
+      "fin": 33.36
+    },
+    {
+      "texto": "else.",
+      "inicio": 33.504,
+      "fin": 34.52
+    },
+    {
+      "texto": "Tres",
+      "inicio": 34.74,
+      "fin": 35.12
+    },
+    {
+      "texto": "caminos,",
+      "inicio": 35.18,
+      "fin": 36.08
+    },
+    {
+      "texto": "uno",
+      "inicio": 36.16,
+      "fin": 36.4
+    },
+    {
+      "texto": "solo",
+      "inicio": 36.448,
+      "fin": 36.64
+    },
+    {
+      "texto": "se",
+      "inicio": 36.693,
+      "fin": 36.8
+    },
+    {
+      "texto": "cumple.",
+      "inicio": 36.88,
+      "fin": 37.44
+    }
+  ]
+}

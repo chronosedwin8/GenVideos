@@ -1,0 +1,375 @@
+{
+  "num": "13",
+  "titulo": "Bonus: combínalas",
+  "texto": "Bonus: el verdadero poder aparece cuando las combinas. Por ejemplo: FILTRAR los vendedores del Norte, quitar los repetidos con UNICOS, y ordenarlos alfabéticamente con ORDENAR. Una sola fórmula, y tienes una lista limpia y ordenada: Ana, Luis y Marta. Es como armar con piezas de lego: cada función hace una cosa, y juntas construyen un reporte completo. Y si cambias Norte por Sur en una celda, la lista se recalcula en el acto.",
+  "texto_tts": "Bonus: el verdadero poder aparece cuando las combinas. Por ejemplo: FILTRAR los vendedores del Norte, quitar los repetidos con UNICOS, y ordenarlos alfabéticamente con ORDENAR. Una sola fórmula, y tienes una lista limpia y ordenada: Ana, Luis y Marta. Es como armar con piezas de lego: cada función hace una cosa, y juntas construyen un reporte completo. Y si cambias Norte por Sur en una celda, la lista se recalcula en el acto.",
+  "modelo": "eleven_v3",
+  "duracion": 36.08,
+  "palabras": [
+    {
+      "texto": "Bonus:",
+      "inicio": 0.0,
+      "fin": 0.48
+    },
+    {
+      "texto": "el",
+      "inicio": 0.56,
+      "fin": 0.72
+    },
+    {
+      "texto": "verdadero",
+      "inicio": 0.784,
+      "fin": 1.36
+    },
+    {
+      "texto": "poder",
+      "inicio": 1.427,
+      "fin": 1.76
+    },
+    {
+      "texto": "aparece",
+      "inicio": 1.853,
+      "fin": 2.48
+    },
+    {
+      "texto": "cuando",
+      "inicio": 2.526,
+      "fin": 2.8
+    },
+    {
+      "texto": "las",
+      "inicio": 2.86,
+      "fin": 3.04
+    },
+    {
+      "texto": "combinas.",
+      "inicio": 3.088,
+      "fin": 3.84
+    },
+    {
+      "texto": "Por",
+      "inicio": 4.04,
+      "fin": 4.64
+    },
+    {
+      "texto": "ejemplo:",
+      "inicio": 4.71,
+      "fin": 5.28
+    },
+    {
+      "texto": "FILTRAR",
+      "inicio": 5.56,
+      "fin": 6.64
+    },
+    {
+      "texto": "los",
+      "inicio": 6.68,
+      "fin": 6.8
+    },
+    {
+      "texto": "vendedores",
+      "inicio": 6.84,
+      "fin": 7.44
+    },
+    {
+      "texto": "del",
+      "inicio": 7.48,
+      "fin": 7.6
+    },
+    {
+      "texto": "Norte,",
+      "inicio": 7.667,
+      "fin": 8.08
+    },
+    {
+      "texto": "quitar",
+      "inicio": 8.267,
+      "fin": 8.96
+    },
+    {
+      "texto": "los",
+      "inicio": 8.98,
+      "fin": 9.04
+    },
+    {
+      "texto": "repetidos",
+      "inicio": 9.107,
+      "fin": 9.76
+    },
+    {
+      "texto": "con",
+      "inicio": 9.82,
+      "fin": 10.0
+    },
+    {
+      "texto": "UNICOS,",
+      "inicio": 10.053,
+      "fin": 10.72
+    },
+    {
+      "texto": "y",
+      "inicio": 10.96,
+      "fin": 11.2
+    },
+    {
+      "texto": "ordenarlos",
+      "inicio": 11.267,
+      "fin": 11.92
+    },
+    {
+      "texto": "alfabéticamente",
+      "inicio": 12.0,
+      "fin": 13.12
+    },
+    {
+      "texto": "con",
+      "inicio": 13.24,
+      "fin": 13.6
+    },
+    {
+      "texto": "ORDENAR.",
+      "inicio": 13.76,
+      "fin": 14.8
+    },
+    {
+      "texto": "Una",
+      "inicio": 15.04,
+      "fin": 15.76
+    },
+    {
+      "texto": "sola",
+      "inicio": 15.824,
+      "fin": 16.08
+    },
+    {
+      "texto": "fórmula,",
+      "inicio": 16.12,
+      "fin": 16.72
+    },
+    {
+      "texto": "y",
+      "inicio": 16.76,
+      "fin": 16.8
+    },
+    {
+      "texto": "tienes",
+      "inicio": 16.846,
+      "fin": 17.12
+    },
+    {
+      "texto": "una",
+      "inicio": 17.18,
+      "fin": 17.36
+    },
+    {
+      "texto": "lista",
+      "inicio": 17.413,
+      "fin": 17.68
+    },
+    {
+      "texto": "limpia",
+      "inicio": 17.76,
+      "fin": 18.24
+    },
+    {
+      "texto": "y",
+      "inicio": 18.36,
+      "fin": 18.48
+    },
+    {
+      "texto": "ordenada:",
+      "inicio": 18.547,
+      "fin": 19.84
+    },
+    {
+      "texto": "Ana,",
+      "inicio": 19.94,
+      "fin": 20.48
+    },
+    {
+      "texto": "Luis",
+      "inicio": 20.56,
+      "fin": 20.88
+    },
+    {
+      "texto": "y",
+      "inicio": 21.0,
+      "fin": 21.12
+    },
+    {
+      "texto": "Marta.",
+      "inicio": 21.216,
+      "fin": 21.76
+    },
+    {
+      "texto": "Es",
+      "inicio": 22.027,
+      "fin": 22.56
+    },
+    {
+      "texto": "como",
+      "inicio": 22.592,
+      "fin": 22.72
+    },
+    {
+      "texto": "armar",
+      "inicio": 22.773,
+      "fin": 23.04
+    },
+    {
+      "texto": "con",
+      "inicio": 23.1,
+      "fin": 23.28
+    },
+    {
+      "texto": "piezas",
+      "inicio": 23.34,
+      "fin": 23.68
+    },
+    {
+      "texto": "de",
+      "inicio": 23.707,
+      "fin": 23.76
+    },
+    {
+      "texto": "lego:",
+      "inicio": 23.84,
+      "fin": 24.24
+    },
+    {
+      "texto": "cada",
+      "inicio": 24.4,
+      "fin": 25.04
+    },
+    {
+      "texto": "función",
+      "inicio": 25.11,
+      "fin": 25.6
+    },
+    {
+      "texto": "hace",
+      "inicio": 25.68,
+      "fin": 26.0
+    },
+    {
+      "texto": "una",
+      "inicio": 26.06,
+      "fin": 26.24
+    },
+    {
+      "texto": "cosa,",
+      "inicio": 26.32,
+      "fin": 27.04
+    },
+    {
+      "texto": "y",
+      "inicio": 27.08,
+      "fin": 27.12
+    },
+    {
+      "texto": "juntas",
+      "inicio": 27.2,
+      "fin": 27.92
+    },
+    {
+      "texto": "construyen",
+      "inicio": 27.989,
+      "fin": 28.64
+    },
+    {
+      "texto": "un",
+      "inicio": 28.693,
+      "fin": 28.8
+    },
+    {
+      "texto": "reporte",
+      "inicio": 28.857,
+      "fin": 29.52
+    },
+    {
+      "texto": "completo.",
+      "inicio": 29.556,
+      "fin": 29.92
+    },
+    {
+      "texto": "Y",
+      "inicio": 30.32,
+      "fin": 30.72
+    },
+    {
+      "texto": "si",
+      "inicio": 30.747,
+      "fin": 30.8
+    },
+    {
+      "texto": "cambias",
+      "inicio": 30.864,
+      "fin": 31.36
+    },
+    {
+      "texto": "Norte",
+      "inicio": 31.44,
+      "fin": 31.84
+    },
+    {
+      "texto": "por",
+      "inicio": 31.88,
+      "fin": 32.0
+    },
+    {
+      "texto": "Sur",
+      "inicio": 32.12,
+      "fin": 32.48
+    },
+    {
+      "texto": "en",
+      "inicio": 32.533,
+      "fin": 32.64
+    },
+    {
+      "texto": "una",
+      "inicio": 32.68,
+      "fin": 32.8
+    },
+    {
+      "texto": "celda,",
+      "inicio": 32.88,
+      "fin": 33.44
+    },
+    {
+      "texto": "la",
+      "inicio": 33.6,
+      "fin": 33.92
+    },
+    {
+      "texto": "lista",
+      "inicio": 33.987,
+      "fin": 34.32
+    },
+    {
+      "texto": "se",
+      "inicio": 34.373,
+      "fin": 34.48
+    },
+    {
+      "texto": "recalcula",
+      "inicio": 34.547,
+      "fin": 35.12
+    },
+    {
+      "texto": "en",
+      "inicio": 35.253,
+      "fin": 35.52
+    },
+    {
+      "texto": "el",
+      "inicio": 35.573,
+      "fin": 35.68
+    },
+    {
+      "texto": "acto.",
+      "inicio": 35.76,
+      "fin": 36.08
+    }
+  ]
+}

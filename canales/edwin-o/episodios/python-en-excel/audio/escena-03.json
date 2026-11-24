@@ -1,0 +1,270 @@
+{
+  "num": "03",
+  "titulo": "El caso",
+  "texto": "Primero, el estado actual. Python en Excel ya no es un experimento: para cuentas de empresa ya está disponible en Windows, en la web, y desde dos mil veinticinco también en Mac. Para los planes Personal y Familia sigue en vista previa. Y por ahora no funciona en iPad, iPhone ni Android.",
+  "texto_tts": "Primero, el estado actual. Python en Excel ya no es un experimento: para cuentas de empresa ya está disponible en Windows, en la web, y desde dos mil veinticinco también en Mac. Para los planes Personal y Familia sigue en vista previa. Y por ahora no funciona en iPad, iPhone ni Android.",
+  "modelo": "eleven_v3",
+  "duracion": 18.4,
+  "palabras": [
+    {
+      "texto": "Primero,",
+      "inicio": 0.0,
+      "fin": 0.48
+    },
+    {
+      "texto": "el",
+      "inicio": 0.533,
+      "fin": 0.64
+    },
+    {
+      "texto": "estado",
+      "inicio": 0.686,
+      "fin": 0.96
+    },
+    {
+      "texto": "actual.",
+      "inicio": 1.017,
+      "fin": 1.52
+    },
+    {
+      "texto": "Python",
+      "inicio": 1.691,
+      "fin": 2.72
+    },
+    {
+      "texto": "en",
+      "inicio": 2.773,
+      "fin": 2.88
+    },
+    {
+      "texto": "Excel",
+      "inicio": 2.947,
+      "fin": 3.28
+    },
+    {
+      "texto": "ya",
+      "inicio": 3.333,
+      "fin": 3.44
+    },
+    {
+      "texto": "no",
+      "inicio": 3.467,
+      "fin": 3.52
+    },
+    {
+      "texto": "es",
+      "inicio": 3.573,
+      "fin": 3.68
+    },
+    {
+      "texto": "un",
+      "inicio": 3.707,
+      "fin": 3.76
+    },
+    {
+      "texto": "experimento:",
+      "inicio": 3.818,
+      "fin": 4.96
+    },
+    {
+      "texto": "para",
+      "inicio": 4.992,
+      "fin": 5.12
+    },
+    {
+      "texto": "cuentas",
+      "inicio": 5.16,
+      "fin": 5.44
+    },
+    {
+      "texto": "de",
+      "inicio": 5.467,
+      "fin": 5.52
+    },
+    {
+      "texto": "empresa",
+      "inicio": 5.58,
+      "fin": 6.0
+    },
+    {
+      "texto": "ya",
+      "inicio": 6.107,
+      "fin": 6.32
+    },
+    {
+      "texto": "está",
+      "inicio": 6.352,
+      "fin": 6.48
+    },
+    {
+      "texto": "disponible",
+      "inicio": 6.538,
+      "fin": 7.12
+    },
+    {
+      "texto": "en",
+      "inicio": 7.2,
+      "fin": 7.36
+    },
+    {
+      "texto": "Windows,",
+      "inicio": 7.43,
+      "fin": 8.08
+    },
+    {
+      "texto": "en",
+      "inicio": 8.107,
+      "fin": 8.16
+    },
+    {
+      "texto": "la",
+      "inicio": 8.213,
+      "fin": 8.32
+    },
+    {
+      "texto": "web,",
+      "inicio": 8.4,
+      "fin": 9.12
+    },
+    {
+      "texto": "y",
+      "inicio": 9.16,
+      "fin": 9.2
+    },
+    {
+      "texto": "desde",
+      "inicio": 9.253,
+      "fin": 9.52
+    },
+    {
+      "texto": "dos",
+      "inicio": 9.54,
+      "fin": 9.6
+    },
+    {
+      "texto": "mil",
+      "inicio": 9.64,
+      "fin": 9.76
+    },
+    {
+      "texto": "veinticinco",
+      "inicio": 9.813,
+      "fin": 10.32
+    },
+    {
+      "texto": "también",
+      "inicio": 10.38,
+      "fin": 10.8
+    },
+    {
+      "texto": "en",
+      "inicio": 10.827,
+      "fin": 10.88
+    },
+    {
+      "texto": "Mac.",
+      "inicio": 10.96,
+      "fin": 11.36
+    },
+    {
+      "texto": "Para",
+      "inicio": 11.504,
+      "fin": 12.08
+    },
+    {
+      "texto": "los",
+      "inicio": 12.12,
+      "fin": 12.24
+    },
+    {
+      "texto": "planes",
+      "inicio": 12.286,
+      "fin": 12.56
+    },
+    {
+      "texto": "Personal",
+      "inicio": 12.613,
+      "fin": 13.04
+    },
+    {
+      "texto": "y",
+      "inicio": 13.08,
+      "fin": 13.12
+    },
+    {
+      "texto": "Familia",
+      "inicio": 13.187,
+      "fin": 13.68
+    },
+    {
+      "texto": "sigue",
+      "inicio": 13.733,
+      "fin": 14.0
+    },
+    {
+      "texto": "en",
+      "inicio": 14.027,
+      "fin": 14.08
+    },
+    {
+      "texto": "vista",
+      "inicio": 14.12,
+      "fin": 14.32
+    },
+    {
+      "texto": "previa.",
+      "inicio": 14.384,
+      "fin": 14.88
+    },
+    {
+      "texto": "Y",
+      "inicio": 15.0,
+      "fin": 15.12
+    },
+    {
+      "texto": "por",
+      "inicio": 15.18,
+      "fin": 15.36
+    },
+    {
+      "texto": "ahora",
+      "inicio": 15.427,
+      "fin": 15.76
+    },
+    {
+      "texto": "no",
+      "inicio": 15.84,
+      "fin": 16.0
+    },
+    {
+      "texto": "funciona",
+      "inicio": 16.053,
+      "fin": 16.48
+    },
+    {
+      "texto": "en",
+      "inicio": 16.507,
+      "fin": 16.56
+    },
+    {
+      "texto": "iPad,",
+      "inicio": 16.672,
+      "fin": 17.2
+    },
+    {
+      "texto": "iPhone",
+      "inicio": 17.269,
+      "fin": 17.68
+    },
+    {
+      "texto": "ni",
+      "inicio": 17.787,
+      "fin": 18.0
+    },
+    {
+      "texto": "Android.",
+      "inicio": 18.05,
+      "fin": 18.4
+    }
+  ]
+}

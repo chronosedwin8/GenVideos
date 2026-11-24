@@ -1,0 +1,345 @@
+{
+  "num": "03",
+  "titulo": "El caso",
+  "texto": "¿Por qué Python, y por qué ahora? En la encuesta de Stack Overflow de dos mil veinticinco, el uso de Python subió siete puntos en un solo año, el mayor salto de todos los lenguajes. Ya lo usa más de la mitad de los desarrolladores. Y no es solo para programadores: cada vez más gente de oficina lo usa para no repetir el mismo trabajo cada semana.",
+  "texto_tts": "¿Por qué Python, y por qué ahora? En la encuesta de Stack Overflow de dos mil veinticinco, el uso de Python subió siete puntos en un solo año, el mayor salto de todos los lenguajes. Ya lo usa más de la mitad de los desarrolladores. Y no es solo para programadores: cada vez más gente de oficina lo usa para no repetir el mismo trabajo cada semana.",
+  "modelo": "eleven_v3",
+  "duracion": 22.241,
+  "palabras": [
+    {
+      "texto": "¿Por",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "qué",
+      "inicio": 0.12,
+      "fin": 0.24
+    },
+    {
+      "texto": "Python,",
+      "inicio": 0.309,
+      "fin": 0.96
+    },
+    {
+      "texto": "y",
+      "inicio": 1.0,
+      "fin": 1.04
+    },
+    {
+      "texto": "por",
+      "inicio": 1.1,
+      "fin": 1.28
+    },
+    {
+      "texto": "qué",
+      "inicio": 1.3,
+      "fin": 1.36
+    },
+    {
+      "texto": "ahora?",
+      "inicio": 1.427,
+      "fin": 1.761
+    },
+    {
+      "texto": "En",
+      "inicio": 2.108,
+      "fin": 2.801
+    },
+    {
+      "texto": "la",
+      "inicio": 2.828,
+      "fin": 2.881
+    },
+    {
+      "texto": "encuesta",
+      "inicio": 2.921,
+      "fin": 3.281
+    },
+    {
+      "texto": "de",
+      "inicio": 3.308,
+      "fin": 3.361
+    },
+    {
+      "texto": "Stack",
+      "inicio": 3.401,
+      "fin": 3.601
+    },
+    {
+      "texto": "Overflow",
+      "inicio": 3.654,
+      "fin": 4.081
+    },
+    {
+      "texto": "de",
+      "inicio": 4.108,
+      "fin": 4.161
+    },
+    {
+      "texto": "dos",
+      "inicio": 4.201,
+      "fin": 4.321
+    },
+    {
+      "texto": "mil",
+      "inicio": 4.341,
+      "fin": 4.401
+    },
+    {
+      "texto": "veinticinco,",
+      "inicio": 4.454,
+      "fin": 5.361
+    },
+    {
+      "texto": "el",
+      "inicio": 5.414,
+      "fin": 5.521
+    },
+    {
+      "texto": "uso",
+      "inicio": 5.561,
+      "fin": 5.681
+    },
+    {
+      "texto": "de",
+      "inicio": 5.708,
+      "fin": 5.761
+    },
+    {
+      "texto": "Python",
+      "inicio": 5.841,
+      "fin": 6.321
+    },
+    {
+      "texto": "subió",
+      "inicio": 6.361,
+      "fin": 6.801
+    },
+    {
+      "texto": "siete",
+      "inicio": 6.841,
+      "fin": 7.121
+    },
+    {
+      "texto": "puntos",
+      "inicio": 7.201,
+      "fin": 7.681
+    },
+    {
+      "texto": "en",
+      "inicio": 7.761,
+      "fin": 7.921
+    },
+    {
+      "texto": "un",
+      "inicio": 7.974,
+      "fin": 8.081
+    },
+    {
+      "texto": "solo",
+      "inicio": 8.113,
+      "fin": 8.241
+    },
+    {
+      "texto": "año,",
+      "inicio": 8.321,
+      "fin": 9.121
+    },
+    {
+      "texto": "el",
+      "inicio": 9.148,
+      "fin": 9.201
+    },
+    {
+      "texto": "mayor",
+      "inicio": 9.254,
+      "fin": 9.521
+    },
+    {
+      "texto": "salto",
+      "inicio": 9.581,
+      "fin": 10.001
+    },
+    {
+      "texto": "de",
+      "inicio": 10.081,
+      "fin": 10.241
+    },
+    {
+      "texto": "todos",
+      "inicio": 10.268,
+      "fin": 10.401
+    },
+    {
+      "texto": "los",
+      "inicio": 10.441,
+      "fin": 10.561
+    },
+    {
+      "texto": "lenguajes.",
+      "inicio": 10.601,
+      "fin": 11.361
+    },
+    {
+      "texto": "Ya",
+      "inicio": 11.628,
+      "fin": 12.161
+    },
+    {
+      "texto": "lo",
+      "inicio": 12.188,
+      "fin": 12.241
+    },
+    {
+      "texto": "usa",
+      "inicio": 12.321,
+      "fin": 12.561
+    },
+    {
+      "texto": "más",
+      "inicio": 12.641,
+      "fin": 12.881
+    },
+    {
+      "texto": "de",
+      "inicio": 12.908,
+      "fin": 12.961
+    },
+    {
+      "texto": "la",
+      "inicio": 12.988,
+      "fin": 13.041
+    },
+    {
+      "texto": "mitad",
+      "inicio": 13.101,
+      "fin": 13.361
+    },
+    {
+      "texto": "de",
+      "inicio": 13.388,
+      "fin": 13.441
+    },
+    {
+      "texto": "los",
+      "inicio": 13.461,
+      "fin": 13.521
+    },
+    {
+      "texto": "desarrolladores.",
+      "inicio": 13.569,
+      "fin": 14.561
+    },
+    {
+      "texto": "Y",
+      "inicio": 14.881,
+      "fin": 15.201
+    },
+    {
+      "texto": "no",
+      "inicio": 15.228,
+      "fin": 15.281
+    },
+    {
+      "texto": "es",
+      "inicio": 15.308,
+      "fin": 15.361
+    },
+    {
+      "texto": "solo",
+      "inicio": 15.409,
+      "fin": 15.601
+    },
+    {
+      "texto": "para",
+      "inicio": 15.633,
+      "fin": 15.761
+    },
+    {
+      "texto": "programadores:",
+      "inicio": 15.811,
+      "fin": 17.121
+    },
+    {
+      "texto": "cada",
+      "inicio": 17.153,
+      "fin": 17.281
+    },
+    {
+      "texto": "vez",
+      "inicio": 17.341,
+      "fin": 17.521
+    },
+    {
+      "texto": "más",
+      "inicio": 17.561,
+      "fin": 17.681
+    },
+    {
+      "texto": "gente",
+      "inicio": 17.734,
+      "fin": 18.001
+    },
+    {
+      "texto": "de",
+      "inicio": 18.028,
+      "fin": 18.081
+    },
+    {
+      "texto": "oficina",
+      "inicio": 18.134,
+      "fin": 18.641
+    },
+    {
+      "texto": "lo",
+      "inicio": 18.748,
+      "fin": 18.961
+    },
+    {
+      "texto": "usa",
+      "inicio": 19.041,
+      "fin": 19.281
+    },
+    {
+      "texto": "para",
+      "inicio": 19.361,
+      "fin": 19.681
+    },
+    {
+      "texto": "no",
+      "inicio": 19.734,
+      "fin": 19.841
+    },
+    {
+      "texto": "repetir",
+      "inicio": 19.894,
+      "fin": 20.241
+    },
+    {
+      "texto": "el",
+      "inicio": 20.321,
+      "fin": 20.481
+    },
+    {
+      "texto": "mismo",
+      "inicio": 20.534,
+      "fin": 20.801
+    },
+    {
+      "texto": "trabajo",
+      "inicio": 20.871,
+      "fin": 21.361
+    },
+    {
+      "texto": "cada",
+      "inicio": 21.441,
+      "fin": 21.761
+    },
+    {
+      "texto": "semana.",
+      "inicio": 21.818,
+      "fin": 22.241
+    }
+  ]
+}

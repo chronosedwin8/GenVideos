@@ -1,0 +1,76 @@
+{
+  "titulo": "5 errores de Excel que cometen hasta los expertos (y cómo evitarlos)",
+  "titulos_alternativos": [
+    "¿10 + 10 + 10 = 31? 5 errores silenciosos de Excel",
+    "BUSCARV te está mintiendo (y otros 4 errores de Excel)"
+  ],
+  "intro": "Cinco errores silenciosos de Excel: no muestran ningún mensaje, pero dan resultados equivocados. Aprende a detectarlos y corregirlos, y llévate una lista de revisión para antes de enviar cualquier archivo.",
+  "aprenderas": [
+    "Números guardados como texto",
+    "Referencias sin $",
+    "BUSCARV sin FALSO",
+    "El formato que engaña",
+    "Celdas combinadas",
+    "Bonus: números escondidos en las fórmulas"
+  ],
+  "bloque": "Lista de revisión antes de enviar:\n☐ ¿Números pegados a la izquierda?\n☐ ¿Tasas y porcentajes con $?\n☐ ¿Todos los BUSCARV terminan en FALSO?\n☐ ¿Los totales cuadran con decimales visibles?\n☐ ¿Celdas combinadas dentro de las tablas?",
+  "capitulos": {
+    "01": "¿10 + 10 + 10 = 31?",
+    "03": "Cuánto cuesta un error",
+    "05": "1. Números como texto",
+    "07": "2. La referencia que se mueve",
+    "09": "3. BUSCARV sin FALSO",
+    "11": "4. El formato que engaña",
+    "13": "5. Celdas combinadas",
+    "15": "Bonus: números escondidos",
+    "16": "Lista de revisión",
+    "18": "Resumen"
+  },
+  "enlaces": [
+    "▶️ Fórmulas con IA que sí funcionan: (enlace al video del 1 de diciembre)",
+    "📊 Guías de Excel en el blog: https://www.edwinortiz.net/excel/",
+    "🌐 Plantillas y cursos: https://www.edwinortiz.net"
+  ],
+  "fuentes": [
+    "Encuesta de DOSS (empresa de software) sobre errores en hojas de cálculo: https://careers.doss.com/research/spreadsheet-error-costs-operations-thousands"
+  ],
+  "hashtags": [
+    "#Excel",
+    "#TrucosDeExcel",
+    "#ErroresDeExcel"
+  ],
+  "tags": [
+    "errores comunes en excel",
+    "errores de excel",
+    "buscarv falso",
+    "numeros como texto excel",
+    "referencias absolutas excel",
+    "celdas combinadas",
+    "formato de numero excel",
+    "trucos de excel",
+    "excel para empresas",
+    "edwin o"
+  ],
+  "playlist": "Listas que enganchan",
+  "programar": "2026-12-24 07:00",
+  "shorts": [
+    {
+      "id": "short-1",
+      "titulo": "BUSCARV te está MINTIENDO #shorts",
+      "descripcion": "Sin FALSO, BUSCARV devuelve un precio para un código que no existe. Video completo en el canal.",
+      "tags": [
+        "buscarv"
+      ],
+      "programar": "2026-12-27 12:00"
+    },
+    {
+      "id": "short-2",
+      "titulo": "¿10 + 10 + 10 = 31 en Excel? #shorts",
+      "descripcion": "El formato cambia lo que ves, no el valor. Video completo en el canal.",
+      "tags": [
+        "formato excel"
+      ],
+      "programar": "2026-12-28 12:00"
+    }
+  ]
+}

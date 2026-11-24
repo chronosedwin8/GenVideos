@@ -1,0 +1,230 @@
+{
+  "num": "02",
+  "titulo": "Presentación",
+  "texto": "¡Bienvenidos, amigos del canal! Vamos en busca del poder tecnológico. Hoy juntamos los dos mundos de este canal: Excel y Python. Te muestro cómo activarlo, cómo traer tus datos, cómo sacar estadísticas y gráficos, y también sus límites, para que no te lleves sorpresas.",
+  "texto_tts": "[excited] ¡Bienvenidos, amigos del canal! Vamos en busca del poder tecnológico. Hoy juntamos los dos mundos de este canal: Excel y Python. Te muestro cómo activarlo, cómo traer tus datos, cómo sacar estadísticas y gráficos, y también sus límites, para que no te lleves sorpresas.",
+  "modelo": "eleven_v3",
+  "duracion": 20.08,
+  "palabras": [
+    {
+      "texto": "¡Bienvenidos,",
+      "inicio": 0.072,
+      "fin": 1.04
+    },
+    {
+      "texto": "amigos",
+      "inicio": 1.109,
+      "fin": 1.52
+    },
+    {
+      "texto": "del",
+      "inicio": 1.56,
+      "fin": 1.68
+    },
+    {
+      "texto": "canal!",
+      "inicio": 1.773,
+      "fin": 2.32
+    },
+    {
+      "texto": "Vamos",
+      "inicio": 2.4,
+      "fin": 2.72
+    },
+    {
+      "texto": "en",
+      "inicio": 2.773,
+      "fin": 2.88
+    },
+    {
+      "texto": "busca",
+      "inicio": 2.987,
+      "fin": 3.52
+    },
+    {
+      "texto": "del",
+      "inicio": 3.6,
+      "fin": 3.84
+    },
+    {
+      "texto": "poder",
+      "inicio": 3.947,
+      "fin": 4.48
+    },
+    {
+      "texto": "tecnológico.",
+      "inicio": 4.56,
+      "fin": 5.52
+    },
+    {
+      "texto": "Hoy",
+      "inicio": 5.58,
+      "fin": 5.76
+    },
+    {
+      "texto": "juntamos",
+      "inicio": 5.92,
+      "fin": 6.64
+    },
+    {
+      "texto": "los",
+      "inicio": 6.68,
+      "fin": 6.8
+    },
+    {
+      "texto": "dos",
+      "inicio": 6.84,
+      "fin": 6.96
+    },
+    {
+      "texto": "mundos",
+      "inicio": 7.04,
+      "fin": 7.44
+    },
+    {
+      "texto": "de",
+      "inicio": 7.467,
+      "fin": 7.52
+    },
+    {
+      "texto": "este",
+      "inicio": 7.568,
+      "fin": 7.76
+    },
+    {
+      "texto": "canal:",
+      "inicio": 7.827,
+      "fin": 8.56
+    },
+    {
+      "texto": "Excel",
+      "inicio": 8.64,
+      "fin": 9.04
+    },
+    {
+      "texto": "y",
+      "inicio": 9.28,
+      "fin": 9.52
+    },
+    {
+      "texto": "Python.",
+      "inicio": 9.6,
+      "fin": 10.56
+    },
+    {
+      "texto": "Te",
+      "inicio": 10.587,
+      "fin": 10.64
+    },
+    {
+      "texto": "muestro",
+      "inicio": 10.72,
+      "fin": 11.12
+    },
+    {
+      "texto": "cómo",
+      "inicio": 11.184,
+      "fin": 11.44
+    },
+    {
+      "texto": "activarlo,",
+      "inicio": 11.507,
+      "fin": 12.56
+    },
+    {
+      "texto": "cómo",
+      "inicio": 12.592,
+      "fin": 12.72
+    },
+    {
+      "texto": "traer",
+      "inicio": 12.78,
+      "fin": 13.04
+    },
+    {
+      "texto": "tus",
+      "inicio": 13.1,
+      "fin": 13.28
+    },
+    {
+      "texto": "datos,",
+      "inicio": 13.36,
+      "fin": 14.08
+    },
+    {
+      "texto": "cómo",
+      "inicio": 14.128,
+      "fin": 14.32
+    },
+    {
+      "texto": "sacar",
+      "inicio": 14.38,
+      "fin": 14.64
+    },
+    {
+      "texto": "estadísticas",
+      "inicio": 14.693,
+      "fin": 15.52
+    },
+    {
+      "texto": "y",
+      "inicio": 15.6,
+      "fin": 15.68
+    },
+    {
+      "texto": "gráficos,",
+      "inicio": 15.76,
+      "fin": 16.88
+    },
+    {
+      "texto": "y",
+      "inicio": 16.92,
+      "fin": 16.96
+    },
+    {
+      "texto": "también",
+      "inicio": 17.01,
+      "fin": 17.36
+    },
+    {
+      "texto": "sus",
+      "inicio": 17.42,
+      "fin": 17.6
+    },
+    {
+      "texto": "límites,",
+      "inicio": 17.653,
+      "fin": 18.32
+    },
+    {
+      "texto": "para",
+      "inicio": 18.352,
+      "fin": 18.48
+    },
+    {
+      "texto": "que",
+      "inicio": 18.52,
+      "fin": 18.64
+    },
+    {
+      "texto": "no",
+      "inicio": 18.667,
+      "fin": 18.72
+    },
+    {
+      "texto": "te",
+      "inicio": 18.773,
+      "fin": 18.88
+    },
+    {
+      "texto": "lleves",
+      "inicio": 18.92,
+      "fin": 19.2
+    },
+    {
+      "texto": "sorpresas.",
+      "inicio": 19.26,
+      "fin": 20.08
+    }
+  ]
+}

@@ -1,0 +1,360 @@
+{
+  "num": "19",
+  "titulo": "Resumen y siguiente video",
+  "texto": "En resumen: inserta una celda de Python desde la pestaña Fórmulas, trae tus datos con x l y confirma con Control más Entrar. Y con describe, groupby y plot tienes estadísticas, resúmenes y gráficos en minutos. En el próximo video, el último del año, te muestro cinco errores de Excel que cometen hasta los expertos. Suscríbete para no perdértelo. El poder de la tecnología te va a cambiar el mundo.",
+  "texto_tts": "En resumen: inserta una celda de Python desde la pestaña Fórmulas, trae tus datos con x l y confirma con Control más Entrar. Y con describe, groupby y plot tienes estadísticas, resúmenes y gráficos en minutos. En el próximo video, el último del año, te muestro cinco errores de Excel que cometen hasta los expertos. Suscríbete para no perdértelo. [excited] El poder de la tecnología te va a cambiar el mundo.",
+  "modelo": "eleven_v3",
+  "duracion": 29.362,
+  "palabras": [
+    {
+      "texto": "En",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "resumen:",
+      "inicio": 0.14,
+      "fin": 1.2
+    },
+    {
+      "texto": "inserta",
+      "inicio": 1.257,
+      "fin": 1.72
+    },
+    {
+      "texto": "una",
+      "inicio": 1.75,
+      "fin": 1.84
+    },
+    {
+      "texto": "celda",
+      "inicio": 1.88,
+      "fin": 2.16
+    },
+    {
+      "texto": "de",
+      "inicio": 2.187,
+      "fin": 2.24
+    },
+    {
+      "texto": "Python",
+      "inicio": 2.32,
+      "fin": 2.8
+    },
+    {
+      "texto": "desde",
+      "inicio": 2.84,
+      "fin": 3.04
+    },
+    {
+      "texto": "la",
+      "inicio": 3.067,
+      "fin": 3.12
+    },
+    {
+      "texto": "pestaña",
+      "inicio": 3.16,
+      "fin": 3.52
+    },
+    {
+      "texto": "Fórmulas,",
+      "inicio": 3.6,
+      "fin": 4.72
+    },
+    {
+      "texto": "trae",
+      "inicio": 4.773,
+      "fin": 5.04
+    },
+    {
+      "texto": "tus",
+      "inicio": 5.08,
+      "fin": 5.2
+    },
+    {
+      "texto": "datos",
+      "inicio": 5.267,
+      "fin": 5.6
+    },
+    {
+      "texto": "con",
+      "inicio": 5.64,
+      "fin": 5.76
+    },
+    {
+      "texto": "x",
+      "inicio": 6.0,
+      "fin": 6.24
+    },
+    {
+      "texto": "l",
+      "inicio": 6.44,
+      "fin": 6.64
+    },
+    {
+      "texto": "y",
+      "inicio": 6.84,
+      "fin": 7.04
+    },
+    {
+      "texto": "confirma",
+      "inicio": 7.104,
+      "fin": 7.6
+    },
+    {
+      "texto": "con",
+      "inicio": 7.64,
+      "fin": 7.76
+    },
+    {
+      "texto": "Control",
+      "inicio": 7.82,
+      "fin": 8.24
+    },
+    {
+      "texto": "más",
+      "inicio": 8.32,
+      "fin": 8.56
+    },
+    {
+      "texto": "Entrar.",
+      "inicio": 8.624,
+      "fin": 9.12
+    },
+    {
+      "texto": "Y",
+      "inicio": 9.56,
+      "fin": 10.0
+    },
+    {
+      "texto": "con",
+      "inicio": 10.06,
+      "fin": 10.24
+    },
+    {
+      "texto": "describe,",
+      "inicio": 10.32,
+      "fin": 11.2
+    },
+    {
+      "texto": "groupby",
+      "inicio": 11.253,
+      "fin": 11.84
+    },
+    {
+      "texto": "y",
+      "inicio": 11.92,
+      "fin": 12.0
+    },
+    {
+      "texto": "plot",
+      "inicio": 12.08,
+      "fin": 12.4
+    },
+    {
+      "texto": "tienes",
+      "inicio": 12.491,
+      "fin": 13.04
+    },
+    {
+      "texto": "estadísticas,",
+      "inicio": 13.093,
+      "fin": 14.08
+    },
+    {
+      "texto": "resúmenes",
+      "inicio": 14.14,
+      "fin": 14.72
+    },
+    {
+      "texto": "y",
+      "inicio": 14.84,
+      "fin": 14.96
+    },
+    {
+      "texto": "gráficos",
+      "inicio": 15.013,
+      "fin": 15.44
+    },
+    {
+      "texto": "en",
+      "inicio": 15.493,
+      "fin": 15.6
+    },
+    {
+      "texto": "minutos.",
+      "inicio": 15.67,
+      "fin": 16.24
+    },
+    {
+      "texto": "En",
+      "inicio": 16.613,
+      "fin": 17.36
+    },
+    {
+      "texto": "el",
+      "inicio": 17.387,
+      "fin": 17.44
+    },
+    {
+      "texto": "próximo",
+      "inicio": 17.5,
+      "fin": 17.92
+    },
+    {
+      "texto": "video,",
+      "inicio": 17.987,
+      "fin": 18.56
+    },
+    {
+      "texto": "el",
+      "inicio": 18.613,
+      "fin": 18.72
+    },
+    {
+      "texto": "último",
+      "inicio": 18.766,
+      "fin": 19.04
+    },
+    {
+      "texto": "del",
+      "inicio": 19.08,
+      "fin": 19.2
+    },
+    {
+      "texto": "año,",
+      "inicio": 19.28,
+      "fin": 19.92
+    },
+    {
+      "texto": "te",
+      "inicio": 19.973,
+      "fin": 20.08
+    },
+    {
+      "texto": "muestro",
+      "inicio": 20.12,
+      "fin": 20.48
+    },
+    {
+      "texto": "cinco",
+      "inicio": 20.52,
+      "fin": 20.72
+    },
+    {
+      "texto": "errores",
+      "inicio": 20.77,
+      "fin": 21.119
+    },
+    {
+      "texto": "de",
+      "inicio": 21.12,
+      "fin": 21.122
+    },
+    {
+      "texto": "Excel",
+      "inicio": 21.201,
+      "fin": 21.601
+    },
+    {
+      "texto": "que",
+      "inicio": 21.661,
+      "fin": 21.841
+    },
+    {
+      "texto": "cometen",
+      "inicio": 21.901,
+      "fin": 22.321
+    },
+    {
+      "texto": "hasta",
+      "inicio": 22.388,
+      "fin": 22.721
+    },
+    {
+      "texto": "los",
+      "inicio": 22.761,
+      "fin": 22.881
+    },
+    {
+      "texto": "expertos.",
+      "inicio": 22.95,
+      "fin": 23.681
+    },
+    {
+      "texto": "Suscríbete",
+      "inicio": 23.881,
+      "fin": 24.881
+    },
+    {
+      "texto": "para",
+      "inicio": 24.945,
+      "fin": 25.201
+    },
+    {
+      "texto": "no",
+      "inicio": 25.254,
+      "fin": 25.361
+    },
+    {
+      "texto": "perdértelo.",
+      "inicio": 25.393,
+      "fin": 26.361
+    },
+    {
+      "texto": "El",
+      "inicio": 26.784,
+      "fin": 26.802
+    },
+    {
+      "texto": "poder",
+      "inicio": 26.855,
+      "fin": 27.122
+    },
+    {
+      "texto": "de",
+      "inicio": 27.149,
+      "fin": 27.202
+    },
+    {
+      "texto": "la",
+      "inicio": 27.229,
+      "fin": 27.282
+    },
+    {
+      "texto": "tecnología",
+      "inicio": 27.33,
+      "fin": 28.002
+    },
+    {
+      "texto": "te",
+      "inicio": 28.109,
+      "fin": 28.322
+    },
+    {
+      "texto": "va",
+      "inicio": 28.349,
+      "fin": 28.401
+    },
+    {
+      "texto": "a",
+      "inicio": 28.402,
+      "fin": 28.403
+    },
+    {
+      "texto": "cambiar",
+      "inicio": 28.452,
+      "fin": 28.802
+    },
+    {
+      "texto": "el",
+      "inicio": 28.829,
+      "fin": 28.882
+    },
+    {
+      "texto": "mundo.",
+      "inicio": 28.935,
+      "fin": 29.362
+    }
+  ]
+}

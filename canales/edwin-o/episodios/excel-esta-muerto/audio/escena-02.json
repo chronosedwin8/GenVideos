@@ -1,0 +1,255 @@
+{
+  "num": "02",
+  "titulo": "Presentación",
+  "texto": "¡Bienvenidos, amigos del canal! Vamos en busca del poder tecnológico. Hoy no vengo a venderte humo. Te voy a contar cinco cosas que de verdad cambiaron en Excel con la IA, una que no cambió para nada, y al final, lo que yo haría si hoy empezara desde cero.",
+  "texto_tts": "[excited] ¡Bienvenidos, amigos del canal! Vamos en busca del poder tecnológico. Hoy no vengo a venderte humo. Te voy a contar cinco cosas que de verdad cambiaron en Excel con la IA, una que no cambió para nada, y al final, lo que yo haría si hoy empezara desde cero.",
+  "modelo": "eleven_v3",
+  "duracion": 18.24,
+  "palabras": [
+    {
+      "texto": "¡Bienvenidos,",
+      "inicio": 0.072,
+      "fin": 0.92
+    },
+    {
+      "texto": "amigos",
+      "inicio": 0.949,
+      "fin": 1.12
+    },
+    {
+      "texto": "del",
+      "inicio": 1.16,
+      "fin": 1.28
+    },
+    {
+      "texto": "canal!",
+      "inicio": 1.347,
+      "fin": 1.92
+    },
+    {
+      "texto": "Vamos",
+      "inicio": 1.96,
+      "fin": 2.24
+    },
+    {
+      "texto": "en",
+      "inicio": 2.267,
+      "fin": 2.32
+    },
+    {
+      "texto": "busca",
+      "inicio": 2.4,
+      "fin": 2.8
+    },
+    {
+      "texto": "del",
+      "inicio": 2.88,
+      "fin": 3.12
+    },
+    {
+      "texto": "poder",
+      "inicio": 3.187,
+      "fin": 3.52
+    },
+    {
+      "texto": "tecnológico.",
+      "inicio": 3.584,
+      "fin": 4.48
+    },
+    {
+      "texto": "Hoy",
+      "inicio": 4.66,
+      "fin": 5.2
+    },
+    {
+      "texto": "no",
+      "inicio": 5.333,
+      "fin": 5.6
+    },
+    {
+      "texto": "vengo",
+      "inicio": 5.64,
+      "fin": 5.84
+    },
+    {
+      "texto": "a",
+      "inicio": 5.88,
+      "fin": 5.92
+    },
+    {
+      "texto": "venderte",
+      "inicio": 5.952,
+      "fin": 6.4
+    },
+    {
+      "texto": "humo.",
+      "inicio": 6.46,
+      "fin": 6.8
+    },
+    {
+      "texto": "Te",
+      "inicio": 6.96,
+      "fin": 7.28
+    },
+    {
+      "texto": "voy",
+      "inicio": 7.32,
+      "fin": 7.44
+    },
+    {
+      "texto": "a",
+      "inicio": 7.48,
+      "fin": 7.52
+    },
+    {
+      "texto": "contar",
+      "inicio": 7.577,
+      "fin": 7.92
+    },
+    {
+      "texto": "cinco",
+      "inicio": 8.013,
+      "fin": 8.48
+    },
+    {
+      "texto": "cosas",
+      "inicio": 8.56,
+      "fin": 8.96
+    },
+    {
+      "texto": "que",
+      "inicio": 9.0,
+      "fin": 9.12
+    },
+    {
+      "texto": "de",
+      "inicio": 9.173,
+      "fin": 9.28
+    },
+    {
+      "texto": "verdad",
+      "inicio": 9.349,
+      "fin": 9.76
+    },
+    {
+      "texto": "cambiaron",
+      "inicio": 9.827,
+      "fin": 10.4
+    },
+    {
+      "texto": "en",
+      "inicio": 10.427,
+      "fin": 10.48
+    },
+    {
+      "texto": "Excel",
+      "inicio": 10.56,
+      "fin": 10.96
+    },
+    {
+      "texto": "con",
+      "inicio": 11.04,
+      "fin": 11.28
+    },
+    {
+      "texto": "la",
+      "inicio": 11.333,
+      "fin": 11.44
+    },
+    {
+      "texto": "IA,",
+      "inicio": 11.547,
+      "fin": 12.4
+    },
+    {
+      "texto": "una",
+      "inicio": 12.48,
+      "fin": 12.72
+    },
+    {
+      "texto": "que",
+      "inicio": 12.78,
+      "fin": 12.96
+    },
+    {
+      "texto": "no",
+      "inicio": 12.987,
+      "fin": 13.04
+    },
+    {
+      "texto": "cambió",
+      "inicio": 13.088,
+      "fin": 13.44
+    },
+    {
+      "texto": "para",
+      "inicio": 13.472,
+      "fin": 13.6
+    },
+    {
+      "texto": "nada,",
+      "inicio": 13.664,
+      "fin": 14.4
+    },
+    {
+      "texto": "y",
+      "inicio": 14.44,
+      "fin": 14.48
+    },
+    {
+      "texto": "al",
+      "inicio": 14.507,
+      "fin": 14.56
+    },
+    {
+      "texto": "final,",
+      "inicio": 14.627,
+      "fin": 15.28
+    },
+    {
+      "texto": "lo",
+      "inicio": 15.333,
+      "fin": 15.44
+    },
+    {
+      "texto": "que",
+      "inicio": 15.48,
+      "fin": 15.6
+    },
+    {
+      "texto": "yo",
+      "inicio": 15.68,
+      "fin": 15.84
+    },
+    {
+      "texto": "haría",
+      "inicio": 15.88,
+      "fin": 16.24
+    },
+    {
+      "texto": "si",
+      "inicio": 16.373,
+      "fin": 16.64
+    },
+    {
+      "texto": "hoy",
+      "inicio": 16.68,
+      "fin": 16.8
+    },
+    {
+      "texto": "empezara",
+      "inicio": 16.867,
+      "fin": 17.36
+    },
+    {
+      "texto": "desde",
+      "inicio": 17.4,
+      "fin": 17.6
+    },
+    {
+      "texto": "cero.",
+      "inicio": 17.68,
+      "fin": 18.24
+    }
+  ]
+}

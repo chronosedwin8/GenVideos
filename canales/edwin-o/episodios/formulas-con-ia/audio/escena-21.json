@@ -1,0 +1,285 @@
+{
+  "num": "21",
+  "titulo": "La plantilla del prompt",
+  "texto": "Y aquí tienes la plantilla. Copia este texto, llena los espacios y pégalo en tu asistente favorito. Te la dejo también en la descripción. Guárdala en un bloc de notas o en tus favoritos, porque la vas a usar todos los días. Con esto, la IA deja de adivinar y empieza a trabajar para ti.",
+  "texto_tts": "Y aquí tienes la plantilla. Copia este texto, llena los espacios y pégalo en tu asistente favorito. Te la dejo también en la descripción. Guárdala en un bloc de notas o en tus favoritos, porque la vas a usar todos los días. Con esto, la IA deja de adivinar y empieza a trabajar para ti.",
+  "modelo": "eleven_v3",
+  "duracion": 25.52,
+  "palabras": [
+    {
+      "texto": "Y",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "aquí",
+      "inicio": 0.128,
+      "fin": 0.32
+    },
+    {
+      "texto": "tienes",
+      "inicio": 0.366,
+      "fin": 0.64
+    },
+    {
+      "texto": "la",
+      "inicio": 0.667,
+      "fin": 0.72
+    },
+    {
+      "texto": "plantilla.",
+      "inicio": 0.787,
+      "fin": 1.52
+    },
+    {
+      "texto": "Copia",
+      "inicio": 1.66,
+      "fin": 2.16
+    },
+    {
+      "texto": "este",
+      "inicio": 2.208,
+      "fin": 2.4
+    },
+    {
+      "texto": "texto,",
+      "inicio": 2.48,
+      "fin": 4.32
+    },
+    {
+      "texto": "llena",
+      "inicio": 4.4,
+      "fin": 4.72
+    },
+    {
+      "texto": "los",
+      "inicio": 4.78,
+      "fin": 4.96
+    },
+    {
+      "texto": "espacios",
+      "inicio": 5.02,
+      "fin": 6.0
+    },
+    {
+      "texto": "y",
+      "inicio": 6.56,
+      "fin": 7.12
+    },
+    {
+      "texto": "pégalo",
+      "inicio": 7.2,
+      "fin": 7.76
+    },
+    {
+      "texto": "en",
+      "inicio": 7.84,
+      "fin": 8.0
+    },
+    {
+      "texto": "tu",
+      "inicio": 8.08,
+      "fin": 8.24
+    },
+    {
+      "texto": "asistente",
+      "inicio": 8.293,
+      "fin": 8.88
+    },
+    {
+      "texto": "favorito.",
+      "inicio": 8.933,
+      "fin": 9.68
+    },
+    {
+      "texto": "Te",
+      "inicio": 9.787,
+      "fin": 10.0
+    },
+    {
+      "texto": "la",
+      "inicio": 10.053,
+      "fin": 10.16
+    },
+    {
+      "texto": "dejo",
+      "inicio": 10.213,
+      "fin": 10.4
+    },
+    {
+      "texto": "también",
+      "inicio": 10.45,
+      "fin": 10.8
+    },
+    {
+      "texto": "en",
+      "inicio": 10.827,
+      "fin": 10.88
+    },
+    {
+      "texto": "la",
+      "inicio": 10.907,
+      "fin": 10.96
+    },
+    {
+      "texto": "descripción.",
+      "inicio": 11.006,
+      "fin": 11.92
+    },
+    {
+      "texto": "Guárdala",
+      "inicio": 12.32,
+      "fin": 13.52
+    },
+    {
+      "texto": "en",
+      "inicio": 13.6,
+      "fin": 13.76
+    },
+    {
+      "texto": "un",
+      "inicio": 13.813,
+      "fin": 13.92
+    },
+    {
+      "texto": "bloc",
+      "inicio": 13.968,
+      "fin": 14.16
+    },
+    {
+      "texto": "de",
+      "inicio": 14.187,
+      "fin": 14.24
+    },
+    {
+      "texto": "notas",
+      "inicio": 14.347,
+      "fin": 14.88
+    },
+    {
+      "texto": "o",
+      "inicio": 15.0,
+      "fin": 15.12
+    },
+    {
+      "texto": "en",
+      "inicio": 15.173,
+      "fin": 15.28
+    },
+    {
+      "texto": "tus",
+      "inicio": 15.32,
+      "fin": 15.44
+    },
+    {
+      "texto": "favoritos,",
+      "inicio": 15.507,
+      "fin": 16.48
+    },
+    {
+      "texto": "porque",
+      "inicio": 16.526,
+      "fin": 16.8
+    },
+    {
+      "texto": "la",
+      "inicio": 16.827,
+      "fin": 16.88
+    },
+    {
+      "texto": "vas",
+      "inicio": 16.94,
+      "fin": 17.12
+    },
+    {
+      "texto": "a",
+      "inicio": 17.22,
+      "fin": 17.32
+    },
+    {
+      "texto": "usar",
+      "inicio": 17.36,
+      "fin": 17.52
+    },
+    {
+      "texto": "todos",
+      "inicio": 17.627,
+      "fin": 18.16
+    },
+    {
+      "texto": "los",
+      "inicio": 18.2,
+      "fin": 18.32
+    },
+    {
+      "texto": "días.",
+      "inicio": 18.416,
+      "fin": 18.88
+    },
+    {
+      "texto": "Con",
+      "inicio": 19.2,
+      "fin": 20.16
+    },
+    {
+      "texto": "esto,",
+      "inicio": 20.24,
+      "fin": 21.04
+    },
+    {
+      "texto": "la",
+      "inicio": 21.12,
+      "fin": 21.28
+    },
+    {
+      "texto": "IA",
+      "inicio": 21.387,
+      "fin": 21.6
+    },
+    {
+      "texto": "deja",
+      "inicio": 21.712,
+      "fin": 22.16
+    },
+    {
+      "texto": "de",
+      "inicio": 22.187,
+      "fin": 22.24
+    },
+    {
+      "texto": "adivinar",
+      "inicio": 22.28,
+      "fin": 22.88
+    },
+    {
+      "texto": "y",
+      "inicio": 23.04,
+      "fin": 23.2
+    },
+    {
+      "texto": "empieza",
+      "inicio": 23.26,
+      "fin": 23.68
+    },
+    {
+      "texto": "a",
+      "inicio": 23.72,
+      "fin": 23.76
+    },
+    {
+      "texto": "trabajar",
+      "inicio": 23.831,
+      "fin": 24.4
+    },
+    {
+      "texto": "para",
+      "inicio": 24.512,
+      "fin": 24.96
+    },
+    {
+      "texto": "ti.",
+      "inicio": 25.04,
+      "fin": 25.52
+    }
+  ]
+}

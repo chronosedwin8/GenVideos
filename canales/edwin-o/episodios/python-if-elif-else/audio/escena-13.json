@@ -1,0 +1,465 @@
+{
+  "num": "13",
+  "titulo": "and y or",
+  "texto": "¿Y si necesitas dos condiciones a la vez? Para eso están and y or. And significa \"y\": las dos tienen que cumplirse. Por ejemplo, el estudiante aprueba si su nota es de sesenta o más, y su asistencia es de ochenta o más. Or significa \"o\": basta con que una se cumpla. Por ejemplo, el envío es gratis si la compra pasa de cien dólares, o si el cliente es premium. Con una sola que se cumpla, no paga envío. Con estas dos palabras, tus condiciones se vuelven mucho más poderosas.",
+  "texto_tts": "¿Y si necesitas dos condiciones a la vez? Para eso están and y or. And significa \"y\": las dos tienen que cumplirse. Por ejemplo, el estudiante aprueba si su nota es de sesenta o más, y su asistencia es de ochenta o más. Or significa \"o\": basta con que una se cumpla. Por ejemplo, el envío es gratis si la compra pasa de cien dólares, o si el cliente es premium. Con una sola que se cumpla, no paga envío. Con estas dos palabras, tus condiciones se vuelven mucho más poderosas.",
+  "modelo": "eleven_v3",
+  "duracion": 38.16,
+  "palabras": [
+    {
+      "texto": "¿Y",
+      "inicio": 0.0,
+      "fin": 0.16
+    },
+    {
+      "texto": "si",
+      "inicio": 0.213,
+      "fin": 0.32
+    },
+    {
+      "texto": "necesitas",
+      "inicio": 0.387,
+      "fin": 1.12
+    },
+    {
+      "texto": "dos",
+      "inicio": 1.18,
+      "fin": 1.36
+    },
+    {
+      "texto": "condiciones",
+      "inicio": 1.413,
+      "fin": 2.0
+    },
+    {
+      "texto": "a",
+      "inicio": 2.04,
+      "fin": 2.08
+    },
+    {
+      "texto": "la",
+      "inicio": 2.133,
+      "fin": 2.24
+    },
+    {
+      "texto": "vez?",
+      "inicio": 2.3,
+      "fin": 2.64
+    },
+    {
+      "texto": "Para",
+      "inicio": 2.752,
+      "fin": 3.2
+    },
+    {
+      "texto": "eso",
+      "inicio": 3.24,
+      "fin": 3.36
+    },
+    {
+      "texto": "están",
+      "inicio": 3.427,
+      "fin": 3.76
+    },
+    {
+      "texto": "and",
+      "inicio": 3.9,
+      "fin": 4.32
+    },
+    {
+      "texto": "y",
+      "inicio": 4.52,
+      "fin": 4.72
+    },
+    {
+      "texto": "or.",
+      "inicio": 4.88,
+      "fin": 5.28
+    },
+    {
+      "texto": "And",
+      "inicio": 5.42,
+      "fin": 5.84
+    },
+    {
+      "texto": "significa",
+      "inicio": 5.904,
+      "fin": 6.48
+    },
+    {
+      "texto": "\"y\":",
+      "inicio": 6.56,
+      "fin": 7.12
+    },
+    {
+      "texto": "las",
+      "inicio": 7.16,
+      "fin": 7.28
+    },
+    {
+      "texto": "dos",
+      "inicio": 7.34,
+      "fin": 7.52
+    },
+    {
+      "texto": "tienen",
+      "inicio": 7.566,
+      "fin": 7.84
+    },
+    {
+      "texto": "que",
+      "inicio": 7.86,
+      "fin": 7.92
+    },
+    {
+      "texto": "cumplirse.",
+      "inicio": 7.987,
+      "fin": 8.8
+    },
+    {
+      "texto": "Por",
+      "inicio": 8.92,
+      "fin": 9.28
+    },
+    {
+      "texto": "ejemplo,",
+      "inicio": 9.35,
+      "fin": 10.0
+    },
+    {
+      "texto": "el",
+      "inicio": 10.053,
+      "fin": 10.16
+    },
+    {
+      "texto": "estudiante",
+      "inicio": 10.2,
+      "fin": 10.8
+    },
+    {
+      "texto": "aprueba",
+      "inicio": 10.86,
+      "fin": 11.28
+    },
+    {
+      "texto": "si",
+      "inicio": 11.413,
+      "fin": 11.68
+    },
+    {
+      "texto": "su",
+      "inicio": 11.733,
+      "fin": 11.84
+    },
+    {
+      "texto": "nota",
+      "inicio": 11.904,
+      "fin": 12.16
+    },
+    {
+      "texto": "es",
+      "inicio": 12.187,
+      "fin": 12.24
+    },
+    {
+      "texto": "de",
+      "inicio": 12.293,
+      "fin": 12.4
+    },
+    {
+      "texto": "sesenta",
+      "inicio": 12.46,
+      "fin": 12.88
+    },
+    {
+      "texto": "o",
+      "inicio": 12.96,
+      "fin": 13.04
+    },
+    {
+      "texto": "más,",
+      "inicio": 13.12,
+      "fin": 13.44
+    },
+    {
+      "texto": "y",
+      "inicio": 13.68,
+      "fin": 13.92
+    },
+    {
+      "texto": "su",
+      "inicio": 13.973,
+      "fin": 14.08
+    },
+    {
+      "texto": "asistencia",
+      "inicio": 14.133,
+      "fin": 14.88
+    },
+    {
+      "texto": "es",
+      "inicio": 14.987,
+      "fin": 15.2
+    },
+    {
+      "texto": "de",
+      "inicio": 15.253,
+      "fin": 15.36
+    },
+    {
+      "texto": "ochenta",
+      "inicio": 15.4,
+      "fin": 15.84
+    },
+    {
+      "texto": "o",
+      "inicio": 15.88,
+      "fin": 15.92
+    },
+    {
+      "texto": "más.",
+      "inicio": 16.02,
+      "fin": 16.48
+    },
+    {
+      "texto": "Or",
+      "inicio": 16.827,
+      "fin": 17.52
+    },
+    {
+      "texto": "significa",
+      "inicio": 17.6,
+      "fin": 18.32
+    },
+    {
+      "texto": "\"o\":",
+      "inicio": 18.44,
+      "fin": 19.28
+    },
+    {
+      "texto": "basta",
+      "inicio": 19.32,
+      "fin": 19.76
+    },
+    {
+      "texto": "con",
+      "inicio": 19.82,
+      "fin": 20.0
+    },
+    {
+      "texto": "que",
+      "inicio": 20.06,
+      "fin": 20.24
+    },
+    {
+      "texto": "una",
+      "inicio": 20.34,
+      "fin": 20.64
+    },
+    {
+      "texto": "se",
+      "inicio": 20.693,
+      "fin": 20.8
+    },
+    {
+      "texto": "cumpla.",
+      "inicio": 20.9,
+      "fin": 21.52
+    },
+    {
+      "texto": "Por",
+      "inicio": 21.6,
+      "fin": 21.84
+    },
+    {
+      "texto": "ejemplo,",
+      "inicio": 21.92,
+      "fin": 22.88
+    },
+    {
+      "texto": "el",
+      "inicio": 22.933,
+      "fin": 23.04
+    },
+    {
+      "texto": "envío",
+      "inicio": 23.1,
+      "fin": 23.44
+    },
+    {
+      "texto": "es",
+      "inicio": 23.467,
+      "fin": 23.52
+    },
+    {
+      "texto": "gratis",
+      "inicio": 23.623,
+      "fin": 24.24
+    },
+    {
+      "texto": "si",
+      "inicio": 24.4,
+      "fin": 24.72
+    },
+    {
+      "texto": "la",
+      "inicio": 24.747,
+      "fin": 24.8
+    },
+    {
+      "texto": "compra",
+      "inicio": 24.869,
+      "fin": 25.28
+    },
+    {
+      "texto": "pasa",
+      "inicio": 25.36,
+      "fin": 25.68
+    },
+    {
+      "texto": "de",
+      "inicio": 25.707,
+      "fin": 25.76
+    },
+    {
+      "texto": "cien",
+      "inicio": 25.84,
+      "fin": 26.08
+    },
+    {
+      "texto": "dólares,",
+      "inicio": 26.16,
+      "fin": 26.96
+    },
+    {
+      "texto": "o",
+      "inicio": 27.16,
+      "fin": 27.36
+    },
+    {
+      "texto": "si",
+      "inicio": 27.52,
+      "fin": 27.84
+    },
+    {
+      "texto": "el",
+      "inicio": 27.867,
+      "fin": 27.92
+    },
+    {
+      "texto": "cliente",
+      "inicio": 27.99,
+      "fin": 28.48
+    },
+    {
+      "texto": "es",
+      "inicio": 28.507,
+      "fin": 28.56
+    },
+    {
+      "texto": "premium.",
+      "inicio": 28.64,
+      "fin": 29.28
+    },
+    {
+      "texto": "Con",
+      "inicio": 29.46,
+      "fin": 30.0
+    },
+    {
+      "texto": "una",
+      "inicio": 30.06,
+      "fin": 30.24
+    },
+    {
+      "texto": "sola",
+      "inicio": 30.32,
+      "fin": 30.64
+    },
+    {
+      "texto": "que",
+      "inicio": 30.66,
+      "fin": 30.72
+    },
+    {
+      "texto": "se",
+      "inicio": 30.773,
+      "fin": 30.88
+    },
+    {
+      "texto": "cumpla,",
+      "inicio": 30.98,
+      "fin": 31.68
+    },
+    {
+      "texto": "no",
+      "inicio": 31.76,
+      "fin": 31.92
+    },
+    {
+      "texto": "paga",
+      "inicio": 31.96,
+      "fin": 32.24
+    },
+    {
+      "texto": "envío.",
+      "inicio": 32.32,
+      "fin": 32.96
+    },
+    {
+      "texto": "Con",
+      "inicio": 33.08,
+      "fin": 33.44
+    },
+    {
+      "texto": "estas",
+      "inicio": 33.493,
+      "fin": 33.76
+    },
+    {
+      "texto": "dos",
+      "inicio": 33.8,
+      "fin": 33.92
+    },
+    {
+      "texto": "palabras,",
+      "inicio": 34.0,
+      "fin": 34.72
+    },
+    {
+      "texto": "tus",
+      "inicio": 34.8,
+      "fin": 35.04
+    },
+    {
+      "texto": "condiciones",
+      "inicio": 35.093,
+      "fin": 35.68
+    },
+    {
+      "texto": "se",
+      "inicio": 35.733,
+      "fin": 35.84
+    },
+    {
+      "texto": "vuelven",
+      "inicio": 35.904,
+      "fin": 36.32
+    },
+    {
+      "texto": "mucho",
+      "inicio": 36.44,
+      "fin": 37.04
+    },
+    {
+      "texto": "más",
+      "inicio": 37.08,
+      "fin": 37.2
+    },
+    {
+      "texto": "poderosas.",
+      "inicio": 37.267,
+      "fin": 38.16
+    }
+  ]
+}

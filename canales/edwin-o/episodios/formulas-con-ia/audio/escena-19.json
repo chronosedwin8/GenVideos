@@ -1,0 +1,370 @@
+{
+  "num": "19",
+  "titulo": "Cuidado: funciones que no existen",
+  "texto": "Y cuidado con esto: a veces la IA te sugiere funciones que tu versión de Excel no tiene. Por ejemplo, funciones nuevas de Microsoft trescientos sesenta y cinco, cuando tú tienes Excel dos mil dieciséis. O peor, funciones que ya no existen, como la de Copilot que te conté al principio. Si ves el error numeral nombre, díselo a la IA: dile tu versión exacta, y pídele una alternativa que sí funcione.",
+  "texto_tts": "Y cuidado con esto: a veces la IA te sugiere funciones que tu versión de Excel no tiene. Por ejemplo, funciones nuevas de Microsoft trescientos sesenta y cinco, cuando tú tienes Excel dos mil dieciséis. O peor, funciones que ya no existen, como la de Copilot que te conté al principio. Si ves el error numeral nombre, díselo a la IA: dile tu versión exacta, y pídele una alternativa que sí funcione.",
+  "modelo": "eleven_v3",
+  "duracion": 28.08,
+  "palabras": [
+    {
+      "texto": "Y",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "cuidado",
+      "inicio": 0.128,
+      "fin": 0.4
+    },
+    {
+      "texto": "con",
+      "inicio": 0.44,
+      "fin": 0.56
+    },
+    {
+      "texto": "esto:",
+      "inicio": 0.64,
+      "fin": 1.04
+    },
+    {
+      "texto": "a",
+      "inicio": 1.12,
+      "fin": 1.2
+    },
+    {
+      "texto": "veces",
+      "inicio": 1.24,
+      "fin": 1.44
+    },
+    {
+      "texto": "la",
+      "inicio": 1.493,
+      "fin": 1.6
+    },
+    {
+      "texto": "IA",
+      "inicio": 1.707,
+      "fin": 1.92
+    },
+    {
+      "texto": "te",
+      "inicio": 2.0,
+      "fin": 2.16
+    },
+    {
+      "texto": "sugiere",
+      "inicio": 2.24,
+      "fin": 2.8
+    },
+    {
+      "texto": "funciones",
+      "inicio": 2.896,
+      "fin": 3.76
+    },
+    {
+      "texto": "que",
+      "inicio": 3.84,
+      "fin": 4.08
+    },
+    {
+      "texto": "tu",
+      "inicio": 4.133,
+      "fin": 4.24
+    },
+    {
+      "texto": "versión",
+      "inicio": 4.29,
+      "fin": 4.64
+    },
+    {
+      "texto": "de",
+      "inicio": 4.667,
+      "fin": 4.72
+    },
+    {
+      "texto": "Excel",
+      "inicio": 4.787,
+      "fin": 5.12
+    },
+    {
+      "texto": "no",
+      "inicio": 5.173,
+      "fin": 5.28
+    },
+    {
+      "texto": "tiene.",
+      "inicio": 5.373,
+      "fin": 5.92
+    },
+    {
+      "texto": "Por",
+      "inicio": 6.2,
+      "fin": 7.04
+    },
+    {
+      "texto": "ejemplo,",
+      "inicio": 7.09,
+      "fin": 7.6
+    },
+    {
+      "texto": "funciones",
+      "inicio": 7.648,
+      "fin": 8.08
+    },
+    {
+      "texto": "nuevas",
+      "inicio": 8.126,
+      "fin": 8.4
+    },
+    {
+      "texto": "de",
+      "inicio": 8.427,
+      "fin": 8.48
+    },
+    {
+      "texto": "Microsoft",
+      "inicio": 8.528,
+      "fin": 8.96
+    },
+    {
+      "texto": "trescientos",
+      "inicio": 8.992,
+      "fin": 9.36
+    },
+    {
+      "texto": "sesenta",
+      "inicio": 9.4,
+      "fin": 9.76
+    },
+    {
+      "texto": "y",
+      "inicio": 9.84,
+      "fin": 9.92
+    },
+    {
+      "texto": "cinco,",
+      "inicio": 9.973,
+      "fin": 10.48
+    },
+    {
+      "texto": "cuando",
+      "inicio": 10.549,
+      "fin": 10.96
+    },
+    {
+      "texto": "tú",
+      "inicio": 11.04,
+      "fin": 11.2
+    },
+    {
+      "texto": "tienes",
+      "inicio": 11.234,
+      "fin": 11.44
+    },
+    {
+      "texto": "Excel",
+      "inicio": 11.493,
+      "fin": 11.76
+    },
+    {
+      "texto": "dos",
+      "inicio": 11.8,
+      "fin": 11.92
+    },
+    {
+      "texto": "mil",
+      "inicio": 11.94,
+      "fin": 12.0
+    },
+    {
+      "texto": "dieciséis.",
+      "inicio": 12.06,
+      "fin": 12.88
+    },
+    {
+      "texto": "O",
+      "inicio": 13.28,
+      "fin": 13.68
+    },
+    {
+      "texto": "peor,",
+      "inicio": 13.76,
+      "fin": 14.24
+    },
+    {
+      "texto": "funciones",
+      "inicio": 14.352,
+      "fin": 15.36
+    },
+    {
+      "texto": "que",
+      "inicio": 15.4,
+      "fin": 15.52
+    },
+    {
+      "texto": "ya",
+      "inicio": 15.573,
+      "fin": 15.68
+    },
+    {
+      "texto": "no",
+      "inicio": 15.707,
+      "fin": 15.76
+    },
+    {
+      "texto": "existen,",
+      "inicio": 15.84,
+      "fin": 16.56
+    },
+    {
+      "texto": "como",
+      "inicio": 16.608,
+      "fin": 16.8
+    },
+    {
+      "texto": "la",
+      "inicio": 16.853,
+      "fin": 16.96
+    },
+    {
+      "texto": "de",
+      "inicio": 16.987,
+      "fin": 17.04
+    },
+    {
+      "texto": "Copilot",
+      "inicio": 17.1,
+      "fin": 17.6
+    },
+    {
+      "texto": "que",
+      "inicio": 17.62,
+      "fin": 17.68
+    },
+    {
+      "texto": "te",
+      "inicio": 17.733,
+      "fin": 17.84
+    },
+    {
+      "texto": "conté",
+      "inicio": 17.888,
+      "fin": 18.16
+    },
+    {
+      "texto": "al",
+      "inicio": 18.187,
+      "fin": 18.24
+    },
+    {
+      "texto": "principio.",
+      "inicio": 18.288,
+      "fin": 18.8
+    },
+    {
+      "texto": "Si",
+      "inicio": 19.2,
+      "fin": 20.0
+    },
+    {
+      "texto": "ves",
+      "inicio": 20.06,
+      "fin": 20.24
+    },
+    {
+      "texto": "el",
+      "inicio": 20.267,
+      "fin": 20.32
+    },
+    {
+      "texto": "error",
+      "inicio": 20.373,
+      "fin": 20.64
+    },
+    {
+      "texto": "numeral",
+      "inicio": 20.7,
+      "fin": 21.12
+    },
+    {
+      "texto": "nombre,",
+      "inicio": 21.189,
+      "fin": 22.08
+    },
+    {
+      "texto": "díselo",
+      "inicio": 22.133,
+      "fin": 22.52
+    },
+    {
+      "texto": "a",
+      "inicio": 22.54,
+      "fin": 22.56
+    },
+    {
+      "texto": "la",
+      "inicio": 22.613,
+      "fin": 22.72
+    },
+    {
+      "texto": "IA:",
+      "inicio": 22.8,
+      "fin": 23.36
+    },
+    {
+      "texto": "dile",
+      "inicio": 23.408,
+      "fin": 23.6
+    },
+    {
+      "texto": "tu",
+      "inicio": 23.68,
+      "fin": 23.84
+    },
+    {
+      "texto": "versión",
+      "inicio": 23.89,
+      "fin": 24.24
+    },
+    {
+      "texto": "exacta,",
+      "inicio": 24.347,
+      "fin": 25.6
+    },
+    {
+      "texto": "y",
+      "inicio": 25.68,
+      "fin": 25.76
+    },
+    {
+      "texto": "pídele",
+      "inicio": 25.8,
+      "fin": 26.16
+    },
+    {
+      "texto": "una",
+      "inicio": 26.18,
+      "fin": 26.24
+    },
+    {
+      "texto": "alternativa",
+      "inicio": 26.297,
+      "fin": 26.96
+    },
+    {
+      "texto": "que",
+      "inicio": 27.02,
+      "fin": 27.2
+    },
+    {
+      "texto": "sí",
+      "inicio": 27.28,
+      "fin": 27.44
+    },
+    {
+      "texto": "funcione.",
+      "inicio": 27.504,
+      "fin": 28.08
+    }
+  ]
+}

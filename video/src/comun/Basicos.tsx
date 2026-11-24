@@ -310,7 +310,7 @@ export const Subtitulos: React.FC<{
 export const Tarjeta: React.FC<{
   tema: Tema;
   titulo: string;
-  texto: string;
+  texto: React.ReactNode;
   fuente?: string;
   icono?: string;
   desde?: number;

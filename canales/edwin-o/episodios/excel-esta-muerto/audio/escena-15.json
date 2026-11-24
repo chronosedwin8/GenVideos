@@ -1,0 +1,295 @@
+{
+  "num": "15",
+  "titulo": "Paso 2",
+  "texto": "Paso dos: aprende a pedirle a la IA y a verificar lo que te da. Ya hice un video con el método de las cinco partes para pedir fórmulas que sí funcionan, y con el truco de probar los casos del límite. Te lo dejo en la descripción. Esa habilidad, saber pedir y saber verificar, vale oro.",
+  "texto_tts": "Paso dos: aprende a pedirle a la IA y a verificar lo que te da. Ya hice un video con el método de las cinco partes para pedir fórmulas que sí funcionan, y con el truco de probar los casos del límite. Te lo dejo en la descripción. Esa habilidad, saber pedir y saber verificar, vale oro.",
+  "modelo": "eleven_v3",
+  "duracion": 22.32,
+  "palabras": [
+    {
+      "texto": "Paso",
+      "inicio": 0.0,
+      "fin": 0.24
+    },
+    {
+      "texto": "dos:",
+      "inicio": 0.34,
+      "fin": 0.72
+    },
+    {
+      "texto": "aprende",
+      "inicio": 0.971,
+      "fin": 2.56
+    },
+    {
+      "texto": "a",
+      "inicio": 2.6,
+      "fin": 2.64
+    },
+    {
+      "texto": "pedirle",
+      "inicio": 2.7,
+      "fin": 3.04
+    },
+    {
+      "texto": "a",
+      "inicio": 3.08,
+      "fin": 3.12
+    },
+    {
+      "texto": "la",
+      "inicio": 3.173,
+      "fin": 3.28
+    },
+    {
+      "texto": "IA",
+      "inicio": 3.387,
+      "fin": 3.6
+    },
+    {
+      "texto": "y",
+      "inicio": 3.68,
+      "fin": 3.76
+    },
+    {
+      "texto": "a",
+      "inicio": 3.8,
+      "fin": 3.84
+    },
+    {
+      "texto": "verificar",
+      "inicio": 3.904,
+      "fin": 4.48
+    },
+    {
+      "texto": "lo",
+      "inicio": 4.507,
+      "fin": 4.56
+    },
+    {
+      "texto": "que",
+      "inicio": 4.6,
+      "fin": 4.72
+    },
+    {
+      "texto": "te",
+      "inicio": 4.773,
+      "fin": 4.88
+    },
+    {
+      "texto": "da.",
+      "inicio": 4.96,
+      "fin": 5.2
+    },
+    {
+      "texto": "Ya",
+      "inicio": 5.627,
+      "fin": 6.48
+    },
+    {
+      "texto": "hice",
+      "inicio": 6.52,
+      "fin": 6.64
+    },
+    {
+      "texto": "un",
+      "inicio": 6.667,
+      "fin": 6.72
+    },
+    {
+      "texto": "video",
+      "inicio": 6.787,
+      "fin": 7.12
+    },
+    {
+      "texto": "con",
+      "inicio": 7.18,
+      "fin": 7.36
+    },
+    {
+      "texto": "el",
+      "inicio": 7.387,
+      "fin": 7.44
+    },
+    {
+      "texto": "método",
+      "inicio": 7.497,
+      "fin": 7.84
+    },
+    {
+      "texto": "de",
+      "inicio": 7.867,
+      "fin": 7.92
+    },
+    {
+      "texto": "las",
+      "inicio": 7.96,
+      "fin": 8.08
+    },
+    {
+      "texto": "cinco",
+      "inicio": 8.147,
+      "fin": 8.48
+    },
+    {
+      "texto": "partes",
+      "inicio": 8.56,
+      "fin": 9.04
+    },
+    {
+      "texto": "para",
+      "inicio": 9.104,
+      "fin": 9.36
+    },
+    {
+      "texto": "pedir",
+      "inicio": 9.4,
+      "fin": 9.68
+    },
+    {
+      "texto": "fórmulas",
+      "inicio": 9.76,
+      "fin": 10.24
+    },
+    {
+      "texto": "que",
+      "inicio": 10.28,
+      "fin": 10.4
+    },
+    {
+      "texto": "sí",
+      "inicio": 10.453,
+      "fin": 10.56
+    },
+    {
+      "texto": "funcionan,",
+      "inicio": 10.62,
+      "fin": 11.92
+    },
+    {
+      "texto": "y",
+      "inicio": 11.96,
+      "fin": 12.0
+    },
+    {
+      "texto": "con",
+      "inicio": 12.06,
+      "fin": 12.24
+    },
+    {
+      "texto": "el",
+      "inicio": 12.293,
+      "fin": 12.4
+    },
+    {
+      "texto": "truco",
+      "inicio": 12.48,
+      "fin": 12.88
+    },
+    {
+      "texto": "de",
+      "inicio": 12.96,
+      "fin": 13.12
+    },
+    {
+      "texto": "probar",
+      "inicio": 13.16,
+      "fin": 13.44
+    },
+    {
+      "texto": "los",
+      "inicio": 13.48,
+      "fin": 13.6
+    },
+    {
+      "texto": "casos",
+      "inicio": 13.653,
+      "fin": 13.92
+    },
+    {
+      "texto": "del",
+      "inicio": 13.96,
+      "fin": 14.08
+    },
+    {
+      "texto": "límite.",
+      "inicio": 14.133,
+      "fin": 14.64
+    },
+    {
+      "texto": "Te",
+      "inicio": 14.907,
+      "fin": 15.44
+    },
+    {
+      "texto": "lo",
+      "inicio": 15.467,
+      "fin": 15.52
+    },
+    {
+      "texto": "dejo",
+      "inicio": 15.573,
+      "fin": 15.76
+    },
+    {
+      "texto": "en",
+      "inicio": 15.787,
+      "fin": 15.84
+    },
+    {
+      "texto": "la",
+      "inicio": 15.867,
+      "fin": 15.92
+    },
+    {
+      "texto": "descripción.",
+      "inicio": 15.966,
+      "fin": 16.64
+    },
+    {
+      "texto": "Esa",
+      "inicio": 17.16,
+      "fin": 17.76
+    },
+    {
+      "texto": "habilidad,",
+      "inicio": 17.813,
+      "fin": 18.48
+    },
+    {
+      "texto": "saber",
+      "inicio": 18.573,
+      "fin": 19.04
+    },
+    {
+      "texto": "pedir",
+      "inicio": 19.12,
+      "fin": 19.52
+    },
+    {
+      "texto": "y",
+      "inicio": 19.64,
+      "fin": 19.76
+    },
+    {
+      "texto": "saber",
+      "inicio": 19.813,
+      "fin": 20.08
+    },
+    {
+      "texto": "verificar,",
+      "inicio": 20.152,
+      "fin": 21.2
+    },
+    {
+      "texto": "vale",
+      "inicio": 21.28,
+      "fin": 21.6
+    },
+    {
+      "texto": "oro.",
+      "inicio": 21.76,
+      "fin": 22.32
+    }
+  ]
+}

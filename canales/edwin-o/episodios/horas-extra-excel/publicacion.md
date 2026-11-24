@@ -13,7 +13,7 @@
 
 ## Datos
 - Categoría: 27 · Educación. Idioma: español.
-- Creado para niños: **no**. Contenido alterado o sintético: **no**. Es una voz en off sintética que no imita a ninguna persona real y no hay escenas realistas fabricadas.
+- Creado para niños: **no**. **Contenido alterado o sintético: sí** (voz clonada de Edwin, regenerada el 24 nov 2026).
 - Playlist: "Excel para la oficina" (temporada 1).
 - Miniatura: `miniatura.png` (1280×720).
 - Subtítulos: `audio/subtitulos.srt`.

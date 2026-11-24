@@ -1,0 +1,395 @@
+{
+  "num": "18",
+  "titulo": "Por qué aprenderlo ya",
+  "texto": "Y piensa en esto: hace unos años, para hacer este análisis necesitabas instalar programas, aprender a usar la terminal, y saber programar bastante. Hoy lo haces en una celda. Las herramientas se volvieron fáciles. Lo que marca la diferencia ahora es quién se anima a usarlas. Y quien domine Excel y Python juntos va a resolver en minutos lo que a otros les toma días. Esa persona puedes ser tú. Si no lo aprendes ahora, te extingues.",
+  "texto_tts": "Y piensa en esto: hace unos años, para hacer este análisis necesitabas instalar programas, aprender a usar la terminal, y saber programar bastante. Hoy lo haces en una celda. Las herramientas se volvieron fáciles. Lo que marca la diferencia ahora es quién se anima a usarlas. Y quien domine Excel y Python juntos va a resolver en minutos lo que a otros les toma días. Esa persona puedes ser tú. [serious] Si no lo aprendes ahora, te extingues.",
+  "modelo": "eleven_v3",
+  "duracion": 40.64,
+  "palabras": [
+    {
+      "texto": "Y",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "piensa",
+      "inicio": 0.133,
+      "fin": 0.4
+    },
+    {
+      "texto": "en",
+      "inicio": 0.427,
+      "fin": 0.48
+    },
+    {
+      "texto": "esto:",
+      "inicio": 0.544,
+      "fin": 0.88
+    },
+    {
+      "texto": "hace",
+      "inicio": 1.104,
+      "fin": 2.0
+    },
+    {
+      "texto": "unos",
+      "inicio": 2.064,
+      "fin": 2.32
+    },
+    {
+      "texto": "años,",
+      "inicio": 2.416,
+      "fin": 2.96
+    },
+    {
+      "texto": "para",
+      "inicio": 3.12,
+      "fin": 3.76
+    },
+    {
+      "texto": "hacer",
+      "inicio": 3.8,
+      "fin": 4.0
+    },
+    {
+      "texto": "este",
+      "inicio": 4.032,
+      "fin": 4.16
+    },
+    {
+      "texto": "análisis",
+      "inicio": 4.208,
+      "fin": 4.72
+    },
+    {
+      "texto": "necesitabas",
+      "inicio": 4.773,
+      "fin": 5.84
+    },
+    {
+      "texto": "instalar",
+      "inicio": 5.952,
+      "fin": 6.56
+    },
+    {
+      "texto": "programas,",
+      "inicio": 6.648,
+      "fin": 8.0
+    },
+    {
+      "texto": "aprender",
+      "inicio": 8.062,
+      "fin": 8.56
+    },
+    {
+      "texto": "a",
+      "inicio": 8.6,
+      "fin": 8.64
+    },
+    {
+      "texto": "usar",
+      "inicio": 8.704,
+      "fin": 8.96
+    },
+    {
+      "texto": "la",
+      "inicio": 8.987,
+      "fin": 9.04
+    },
+    {
+      "texto": "terminal,",
+      "inicio": 9.111,
+      "fin": 9.84
+    },
+    {
+      "texto": "y",
+      "inicio": 10.16,
+      "fin": 10.48
+    },
+    {
+      "texto": "saber",
+      "inicio": 10.533,
+      "fin": 10.8
+    },
+    {
+      "texto": "programar",
+      "inicio": 10.85,
+      "fin": 11.36
+    },
+    {
+      "texto": "bastante.",
+      "inicio": 11.44,
+      "fin": 12.16
+    },
+    {
+      "texto": "Hoy",
+      "inicio": 12.48,
+      "fin": 13.44
+    },
+    {
+      "texto": "lo",
+      "inicio": 13.6,
+      "fin": 13.92
+    },
+    {
+      "texto": "haces",
+      "inicio": 13.96,
+      "fin": 14.24
+    },
+    {
+      "texto": "en",
+      "inicio": 14.293,
+      "fin": 14.4
+    },
+    {
+      "texto": "una",
+      "inicio": 14.44,
+      "fin": 14.56
+    },
+    {
+      "texto": "celda.",
+      "inicio": 14.64,
+      "fin": 15.28
+    },
+    {
+      "texto": "Las",
+      "inicio": 15.52,
+      "fin": 16.24
+    },
+    {
+      "texto": "herramientas",
+      "inicio": 16.291,
+      "fin": 17.04
+    },
+    {
+      "texto": "se",
+      "inicio": 17.173,
+      "fin": 17.44
+    },
+    {
+      "texto": "volvieron",
+      "inicio": 17.48,
+      "fin": 17.92
+    },
+    {
+      "texto": "fáciles.",
+      "inicio": 18.0,
+      "fin": 18.8
+    },
+    {
+      "texto": "Lo",
+      "inicio": 19.093,
+      "fin": 19.68
+    },
+    {
+      "texto": "que",
+      "inicio": 19.72,
+      "fin": 19.84
+    },
+    {
+      "texto": "marca",
+      "inicio": 19.893,
+      "fin": 20.16
+    },
+    {
+      "texto": "la",
+      "inicio": 20.213,
+      "fin": 20.32
+    },
+    {
+      "texto": "diferencia",
+      "inicio": 20.371,
+      "fin": 20.88
+    },
+    {
+      "texto": "ahora",
+      "inicio": 20.947,
+      "fin": 21.28
+    },
+    {
+      "texto": "es",
+      "inicio": 21.547,
+      "fin": 22.08
+    },
+    {
+      "texto": "quién",
+      "inicio": 22.14,
+      "fin": 22.48
+    },
+    {
+      "texto": "se",
+      "inicio": 22.533,
+      "fin": 22.64
+    },
+    {
+      "texto": "anima",
+      "inicio": 22.688,
+      "fin": 22.96
+    },
+    {
+      "texto": "a",
+      "inicio": 23.08,
+      "fin": 23.2
+    },
+    {
+      "texto": "usarlas.",
+      "inicio": 23.248,
+      "fin": 23.92
+    },
+    {
+      "texto": "Y",
+      "inicio": 24.48,
+      "fin": 25.04
+    },
+    {
+      "texto": "quien",
+      "inicio": 25.08,
+      "fin": 25.28
+    },
+    {
+      "texto": "domine",
+      "inicio": 25.34,
+      "fin": 25.68
+    },
+    {
+      "texto": "Excel",
+      "inicio": 25.813,
+      "fin": 26.48
+    },
+    {
+      "texto": "y",
+      "inicio": 26.68,
+      "fin": 26.88
+    },
+    {
+      "texto": "Python",
+      "inicio": 26.983,
+      "fin": 27.6
+    },
+    {
+      "texto": "juntos",
+      "inicio": 27.68,
+      "fin": 28.4
+    },
+    {
+      "texto": "va",
+      "inicio": 28.667,
+      "fin": 29.2
+    },
+    {
+      "texto": "a",
+      "inicio": 29.32,
+      "fin": 29.44
+    },
+    {
+      "texto": "resolver",
+      "inicio": 29.467,
+      "fin": 29.68
+    },
+    {
+      "texto": "en",
+      "inicio": 29.733,
+      "fin": 29.84
+    },
+    {
+      "texto": "minutos",
+      "inicio": 29.93,
+      "fin": 30.56
+    },
+    {
+      "texto": "lo",
+      "inicio": 30.64,
+      "fin": 30.8
+    },
+    {
+      "texto": "que",
+      "inicio": 30.84,
+      "fin": 30.96
+    },
+    {
+      "texto": "a",
+      "inicio": 31.0,
+      "fin": 31.04
+    },
+    {
+      "texto": "otros",
+      "inicio": 31.107,
+      "fin": 31.44
+    },
+    {
+      "texto": "les",
+      "inicio": 31.48,
+      "fin": 31.6
+    },
+    {
+      "texto": "toma",
+      "inicio": 31.68,
+      "fin": 31.92
+    },
+    {
+      "texto": "días.",
+      "inicio": 32.032,
+      "fin": 32.64
+    },
+    {
+      "texto": "Esa",
+      "inicio": 33.16,
+      "fin": 33.76
+    },
+    {
+      "texto": "persona",
+      "inicio": 33.83,
+      "fin": 34.32
+    },
+    {
+      "texto": "puedes",
+      "inicio": 34.446,
+      "fin": 35.2
+    },
+    {
+      "texto": "ser",
+      "inicio": 35.26,
+      "fin": 35.44
+    },
+    {
+      "texto": "tú.",
+      "inicio": 35.547,
+      "fin": 35.84
+    },
+    {
+      "texto": "Si",
+      "inicio": 37.342,
+      "fin": 37.36
+    },
+    {
+      "texto": "no",
+      "inicio": 37.413,
+      "fin": 37.52
+    },
+    {
+      "texto": "lo",
+      "inicio": 37.547,
+      "fin": 37.6
+    },
+    {
+      "texto": "aprendes",
+      "inicio": 37.646,
+      "fin": 38.08
+    },
+    {
+      "texto": "ahora,",
+      "inicio": 38.147,
+      "fin": 39.44
+    },
+    {
+      "texto": "te",
+      "inicio": 39.493,
+      "fin": 39.6
+    },
+    {
+      "texto": "extingues.",
+      "inicio": 39.68,
+      "fin": 40.64
+    }
+  ]
+}

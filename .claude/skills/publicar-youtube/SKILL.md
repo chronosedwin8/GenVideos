@@ -11,6 +11,12 @@ Para publicar, el canal debe estar conectado (`/conectar-youtube`). Sin conexió
 Sigue la sección SEO de `canales/<canal>/canal.md`. Escribe en `canales/<canal>/episodios/<slug>/`:
 - `publicacion.md` (para que el usuario revise) y `publicacion.json` (formato de `plantillas/publicacion.json`).
 
+**Forma rápida (recomendada):** escribe `datos_publicacion.json` (título, alternativos, intro, aprenderás, bloque de
+fórmulas/código, `capitulos` = {escena: título}, enlaces, fuentes, hashtags, tags, playlist, programar, shorts) y ejecuta
+`python scripts/generar_publicacion.py <canal> <slug>`. Calcula los capítulos con los tiempos reales del manifest
+(verifica 0:00 y ≥ 10 s), arma la descripción (≤ 5000), agrega la nota de voz clonada y escribe el .json y el .md.
+Si regeneras una escena de voz, vuelve a ejecutarlo para actualizar los capítulos.
+
 1. **Título**: 3 opciones en el .md, la elegida en el .json (≤ 70 caracteres, empieza con lo que la gente busca, patrón del canal).
 2. **Descripción**: 2 primeras líneas con la respuesta; **capítulos** desde `audio/manifest.json` (empieza en 0:00, mínimo 3,
    cada uno ≥ 10 s); fuentes; enlaces a videos relacionados del canal (ver `publicado.json` de otros episodios).
@@ -20,6 +26,7 @@ Sigue la sección SEO de `canales/<canal>/canal.md`. Escribe en `canales/<canal>
    (tono, personajes, título "para niños"), es `true`. Siempre confírmalo con el usuario.
 6. **Contenido sintético** (`contenido_sintetico`): pregunta. `true` si hay contenido realista alterado o sintético que podría
    confundirse con algo real (p. ej. voz clonada de una persona diciendo algo que no grabó, imágenes realistas generadas).
+   Canal edwin-o: **siempre `true`** (voz clonada de Edwin) y la descripción lo dice.
 7. **Miniatura** 1280×720 (< 2 MB) con el componente `Miniatura` según `marca.md`:
    `npx remotion still <Id> ../canales/<canal>/episodios/<slug>/miniatura.png`. Muéstrasela al usuario.
 8. **Playlist** por temporada del backlog. **Shorts**: un item por short en `shorts`.

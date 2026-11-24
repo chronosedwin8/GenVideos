@@ -1,0 +1,275 @@
+{
+  "num": "03",
+  "titulo": "El caso: Microsoft retiró =COPILOT()",
+  "texto": "Primero, una noticia que casi nadie te contó. En agosto de dos mil veinticinco, Microsoft lanzó en vista previa una función para poner la IA dentro de una celda: igual, COPILOT. Y el catorce de septiembre de este año la retiró. Las hojas que la usaban, al recalcular, muestran el error numeral nombre.",
+  "texto_tts": "Primero, una noticia que casi nadie te contó. En agosto de dos mil veinticinco, Microsoft lanzó en vista previa una función para poner la IA dentro de una celda: igual, COPILOT. Y el catorce de septiembre de este año la retiró. Las hojas que la usaban, al recalcular, muestran el error numeral nombre.",
+  "modelo": "eleven_v3",
+  "duracion": 22.24,
+  "palabras": [
+    {
+      "texto": "Primero,",
+      "inicio": 0.0,
+      "fin": 0.64
+    },
+    {
+      "texto": "una",
+      "inicio": 0.68,
+      "fin": 0.8
+    },
+    {
+      "texto": "noticia",
+      "inicio": 0.86,
+      "fin": 1.28
+    },
+    {
+      "texto": "que",
+      "inicio": 1.32,
+      "fin": 1.44
+    },
+    {
+      "texto": "casi",
+      "inicio": 1.52,
+      "fin": 1.84
+    },
+    {
+      "texto": "nadie",
+      "inicio": 1.92,
+      "fin": 2.24
+    },
+    {
+      "texto": "te",
+      "inicio": 2.267,
+      "fin": 2.32
+    },
+    {
+      "texto": "contó.",
+      "inicio": 2.4,
+      "fin": 2.96
+    },
+    {
+      "texto": "En",
+      "inicio": 3.173,
+      "fin": 3.6
+    },
+    {
+      "texto": "agosto",
+      "inicio": 3.657,
+      "fin": 4.0
+    },
+    {
+      "texto": "de",
+      "inicio": 4.027,
+      "fin": 4.08
+    },
+    {
+      "texto": "dos",
+      "inicio": 4.1,
+      "fin": 4.16
+    },
+    {
+      "texto": "mil",
+      "inicio": 4.2,
+      "fin": 4.32
+    },
+    {
+      "texto": "veinticinco,",
+      "inicio": 4.373,
+      "fin": 5.36
+    },
+    {
+      "texto": "Microsoft",
+      "inicio": 5.424,
+      "fin": 6.0
+    },
+    {
+      "texto": "lanzó",
+      "inicio": 6.064,
+      "fin": 6.4
+    },
+    {
+      "texto": "en",
+      "inicio": 6.427,
+      "fin": 6.48
+    },
+    {
+      "texto": "vista",
+      "inicio": 6.547,
+      "fin": 6.88
+    },
+    {
+      "texto": "previa",
+      "inicio": 6.928,
+      "fin": 7.68
+    },
+    {
+      "texto": "una",
+      "inicio": 7.76,
+      "fin": 8.0
+    },
+    {
+      "texto": "función",
+      "inicio": 8.05,
+      "fin": 8.4
+    },
+    {
+      "texto": "para",
+      "inicio": 8.448,
+      "fin": 8.64
+    },
+    {
+      "texto": "poner",
+      "inicio": 8.693,
+      "fin": 8.96
+    },
+    {
+      "texto": "la",
+      "inicio": 9.04,
+      "fin": 9.2
+    },
+    {
+      "texto": "IA",
+      "inicio": 9.333,
+      "fin": 9.6
+    },
+    {
+      "texto": "dentro",
+      "inicio": 9.691,
+      "fin": 10.24
+    },
+    {
+      "texto": "de",
+      "inicio": 10.267,
+      "fin": 10.32
+    },
+    {
+      "texto": "una",
+      "inicio": 10.36,
+      "fin": 10.48
+    },
+    {
+      "texto": "celda:",
+      "inicio": 10.56,
+      "fin": 11.36
+    },
+    {
+      "texto": "igual,",
+      "inicio": 11.44,
+      "fin": 11.92
+    },
+    {
+      "texto": "COPILOT.",
+      "inicio": 12.107,
+      "fin": 13.2
+    },
+    {
+      "texto": "Y",
+      "inicio": 13.48,
+      "fin": 13.76
+    },
+    {
+      "texto": "el",
+      "inicio": 13.813,
+      "fin": 13.92
+    },
+    {
+      "texto": "catorce",
+      "inicio": 13.96,
+      "fin": 14.32
+    },
+    {
+      "texto": "de",
+      "inicio": 14.373,
+      "fin": 14.48
+    },
+    {
+      "texto": "septiembre",
+      "inicio": 14.528,
+      "fin": 14.96
+    },
+    {
+      "texto": "de",
+      "inicio": 14.987,
+      "fin": 15.04
+    },
+    {
+      "texto": "este",
+      "inicio": 15.072,
+      "fin": 15.2
+    },
+    {
+      "texto": "año",
+      "inicio": 15.3,
+      "fin": 15.6
+    },
+    {
+      "texto": "la",
+      "inicio": 15.68,
+      "fin": 15.84
+    },
+    {
+      "texto": "retiró.",
+      "inicio": 15.893,
+      "fin": 16.84
+    },
+    {
+      "texto": "Las",
+      "inicio": 16.97,
+      "fin": 17.36
+    },
+    {
+      "texto": "hojas",
+      "inicio": 17.413,
+      "fin": 17.68
+    },
+    {
+      "texto": "que",
+      "inicio": 17.7,
+      "fin": 17.76
+    },
+    {
+      "texto": "la",
+      "inicio": 17.813,
+      "fin": 17.92
+    },
+    {
+      "texto": "usaban,",
+      "inicio": 17.973,
+      "fin": 18.56
+    },
+    {
+      "texto": "al",
+      "inicio": 18.587,
+      "fin": 18.64
+    },
+    {
+      "texto": "recalcular,",
+      "inicio": 18.7,
+      "fin": 19.92
+    },
+    {
+      "texto": "muestran",
+      "inicio": 19.96,
+      "fin": 20.32
+    },
+    {
+      "texto": "el",
+      "inicio": 20.373,
+      "fin": 20.48
+    },
+    {
+      "texto": "error",
+      "inicio": 20.547,
+      "fin": 20.88
+    },
+    {
+      "texto": "numeral",
+      "inicio": 20.95,
+      "fin": 21.44
+    },
+    {
+      "texto": "nombre.",
+      "inicio": 21.543,
+      "fin": 22.24
+    }
+  ]
+}

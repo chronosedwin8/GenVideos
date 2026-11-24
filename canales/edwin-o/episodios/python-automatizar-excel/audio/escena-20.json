@@ -1,0 +1,320 @@
+{
+  "num": "20",
+  "titulo": "Resumen y siguiente video",
+  "texto": "En resumen: pandas lee el Excel, groupby lo separa por sucursal, y to excel escribe cada reporte. Doce líneas que te devuelven horas. En el próximo video respondemos la pregunta que todos se hacen: con la inteligencia artificial, ¿Excel está muerto? Te va a sorprender la respuesta. Suscríbete para no perdértelo. El poder de la tecnología te va a cambiar el mundo.",
+  "texto_tts": "En resumen: pandas lee el Excel, groupby lo separa por sucursal, y to excel escribe cada reporte. Doce líneas que te devuelven horas. En el próximo video respondemos la pregunta que todos se hacen: con la inteligencia artificial, ¿Excel está muerto? Te va a sorprender la respuesta. Suscríbete para no perdértelo. [excited] El poder de la tecnología te va a cambiar el mundo.",
+  "modelo": "eleven_v3",
+  "duracion": 26.8,
+  "palabras": [
+    {
+      "texto": "En",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "resumen:",
+      "inicio": 0.14,
+      "fin": 0.72
+    },
+    {
+      "texto": "pandas",
+      "inicio": 0.823,
+      "fin": 1.44
+    },
+    {
+      "texto": "lee",
+      "inicio": 1.54,
+      "fin": 1.84
+    },
+    {
+      "texto": "el",
+      "inicio": 1.867,
+      "fin": 1.92
+    },
+    {
+      "texto": "Excel,",
+      "inicio": 2.013,
+      "fin": 2.56
+    },
+    {
+      "texto": "groupby",
+      "inicio": 2.693,
+      "fin": 3.6
+    },
+    {
+      "texto": "lo",
+      "inicio": 3.627,
+      "fin": 3.68
+    },
+    {
+      "texto": "separa",
+      "inicio": 3.747,
+      "fin": 4.16
+    },
+    {
+      "texto": "por",
+      "inicio": 4.18,
+      "fin": 4.24
+    },
+    {
+      "texto": "sucursal,",
+      "inicio": 4.3,
+      "fin": 5.12
+    },
+    {
+      "texto": "y",
+      "inicio": 5.16,
+      "fin": 5.2
+    },
+    {
+      "texto": "to",
+      "inicio": 5.253,
+      "fin": 5.36
+    },
+    {
+      "texto": "excel",
+      "inicio": 5.44,
+      "fin": 5.84
+    },
+    {
+      "texto": "escribe",
+      "inicio": 5.947,
+      "fin": 6.4
+    },
+    {
+      "texto": "cada",
+      "inicio": 6.464,
+      "fin": 6.72
+    },
+    {
+      "texto": "reporte.",
+      "inicio": 6.789,
+      "fin": 7.36
+    },
+    {
+      "texto": "Doce",
+      "inicio": 7.733,
+      "fin": 8.56
+    },
+    {
+      "texto": "líneas",
+      "inicio": 8.64,
+      "fin": 9.12
+    },
+    {
+      "texto": "que",
+      "inicio": 9.18,
+      "fin": 9.36
+    },
+    {
+      "texto": "te",
+      "inicio": 9.387,
+      "fin": 9.44
+    },
+    {
+      "texto": "devuelven",
+      "inicio": 9.5,
+      "fin": 10.08
+    },
+    {
+      "texto": "horas.",
+      "inicio": 10.2,
+      "fin": 11.04
+    },
+    {
+      "texto": "En",
+      "inicio": 11.413,
+      "fin": 12.16
+    },
+    {
+      "texto": "el",
+      "inicio": 12.187,
+      "fin": 12.24
+    },
+    {
+      "texto": "próximo",
+      "inicio": 12.3,
+      "fin": 12.72
+    },
+    {
+      "texto": "video",
+      "inicio": 12.787,
+      "fin": 13.12
+    },
+    {
+      "texto": "respondemos",
+      "inicio": 13.18,
+      "fin": 13.76
+    },
+    {
+      "texto": "la",
+      "inicio": 13.787,
+      "fin": 13.84
+    },
+    {
+      "texto": "pregunta",
+      "inicio": 13.884,
+      "fin": 14.24
+    },
+    {
+      "texto": "que",
+      "inicio": 14.28,
+      "fin": 14.4
+    },
+    {
+      "texto": "todos",
+      "inicio": 14.453,
+      "fin": 14.72
+    },
+    {
+      "texto": "se",
+      "inicio": 14.773,
+      "fin": 14.88
+    },
+    {
+      "texto": "hacen:",
+      "inicio": 14.933,
+      "fin": 15.76
+    },
+    {
+      "texto": "con",
+      "inicio": 15.78,
+      "fin": 15.84
+    },
+    {
+      "texto": "la",
+      "inicio": 15.867,
+      "fin": 15.92
+    },
+    {
+      "texto": "inteligencia",
+      "inicio": 15.97,
+      "fin": 16.48
+    },
+    {
+      "texto": "artificial,",
+      "inicio": 16.538,
+      "fin": 17.2
+    },
+    {
+      "texto": "¿Excel",
+      "inicio": 17.28,
+      "fin": 17.76
+    },
+    {
+      "texto": "está",
+      "inicio": 17.808,
+      "fin": 18.0
+    },
+    {
+      "texto": "muerto?",
+      "inicio": 18.027,
+      "fin": 18.64
+    },
+    {
+      "texto": "Te",
+      "inicio": 18.88,
+      "fin": 19.36
+    },
+    {
+      "texto": "va",
+      "inicio": 19.387,
+      "fin": 19.44
+    },
+    {
+      "texto": "a",
+      "inicio": 19.48,
+      "fin": 19.52
+    },
+    {
+      "texto": "sorprender",
+      "inicio": 19.56,
+      "fin": 20.0
+    },
+    {
+      "texto": "la",
+      "inicio": 20.027,
+      "fin": 20.08
+    },
+    {
+      "texto": "respuesta.",
+      "inicio": 20.144,
+      "fin": 20.8
+    },
+    {
+      "texto": "Suscríbete",
+      "inicio": 20.96,
+      "fin": 21.84
+    },
+    {
+      "texto": "para",
+      "inicio": 21.92,
+      "fin": 22.24
+    },
+    {
+      "texto": "no",
+      "inicio": 22.267,
+      "fin": 22.32
+    },
+    {
+      "texto": "perdértelo.",
+      "inicio": 22.368,
+      "fin": 23.12
+    },
+    {
+      "texto": "El",
+      "inicio": 23.813,
+      "fin": 23.84
+    },
+    {
+      "texto": "poder",
+      "inicio": 23.907,
+      "fin": 24.24
+    },
+    {
+      "texto": "de",
+      "inicio": 24.267,
+      "fin": 24.32
+    },
+    {
+      "texto": "la",
+      "inicio": 24.347,
+      "fin": 24.4
+    },
+    {
+      "texto": "tecnología",
+      "inicio": 24.448,
+      "fin": 25.12
+    },
+    {
+      "texto": "te",
+      "inicio": 25.253,
+      "fin": 25.52
+    },
+    {
+      "texto": "va",
+      "inicio": 25.547,
+      "fin": 25.6
+    },
+    {
+      "texto": "a",
+      "inicio": 25.72,
+      "fin": 25.84
+    },
+    {
+      "texto": "cambiar",
+      "inicio": 25.87,
+      "fin": 26.08
+    },
+    {
+      "texto": "el",
+      "inicio": 26.107,
+      "fin": 26.16
+    },
+    {
+      "texto": "mundo.",
+      "inicio": 26.24,
+      "fin": 26.8
+    }
+  ]
+}

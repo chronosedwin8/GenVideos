@@ -1,0 +1,355 @@
+{
+  "num": "16",
+  "titulo": "Dale formato",
+  "texto": "Un detalle de presentación. Si el resumen te sale sin separador de miles, selecciónalo y dale formato de número desde la pestaña Inicio, como a cualquier celda. Y si quieres que salte a la vista la región ganadora, ponle formato condicional para resaltar el valor más alto. Como el resultado se mueve cuando cambian los datos, aplica el formato a unas filas de más, para que siempre quede cubierto.",
+  "texto_tts": "Un detalle de presentación. Si el resumen te sale sin separador de miles, selecciónalo y dale formato de número desde la pestaña Inicio, como a cualquier celda. Y si quieres que salte a la vista la región ganadora, ponle formato condicional para resaltar el valor más alto. Como el resultado se mueve cuando cambian los datos, aplica el formato a unas filas de más, para que siempre quede cubierto.",
+  "modelo": "eleven_v3",
+  "duracion": 24.88,
+  "palabras": [
+    {
+      "texto": "Un",
+      "inicio": 0.0,
+      "fin": 0.16
+    },
+    {
+      "texto": "detalle",
+      "inicio": 0.21,
+      "fin": 0.56
+    },
+    {
+      "texto": "de",
+      "inicio": 0.587,
+      "fin": 0.64
+    },
+    {
+      "texto": "presentación.",
+      "inicio": 0.68,
+      "fin": 1.44
+    },
+    {
+      "texto": "Si",
+      "inicio": 1.547,
+      "fin": 1.76
+    },
+    {
+      "texto": "el",
+      "inicio": 1.787,
+      "fin": 1.84
+    },
+    {
+      "texto": "resumen",
+      "inicio": 1.92,
+      "fin": 2.4
+    },
+    {
+      "texto": "te",
+      "inicio": 2.453,
+      "fin": 2.56
+    },
+    {
+      "texto": "sale",
+      "inicio": 2.624,
+      "fin": 2.88
+    },
+    {
+      "texto": "sin",
+      "inicio": 2.94,
+      "fin": 3.12
+    },
+    {
+      "texto": "separador",
+      "inicio": 3.187,
+      "fin": 3.68
+    },
+    {
+      "texto": "de",
+      "inicio": 3.707,
+      "fin": 3.76
+    },
+    {
+      "texto": "miles,",
+      "inicio": 3.84,
+      "fin": 4.72
+    },
+    {
+      "texto": "selecciónalo",
+      "inicio": 4.784,
+      "fin": 5.68
+    },
+    {
+      "texto": "y",
+      "inicio": 5.8,
+      "fin": 5.92
+    },
+    {
+      "texto": "dale",
+      "inicio": 5.96,
+      "fin": 6.16
+    },
+    {
+      "texto": "formato",
+      "inicio": 6.22,
+      "fin": 6.64
+    },
+    {
+      "texto": "de",
+      "inicio": 6.667,
+      "fin": 6.72
+    },
+    {
+      "texto": "número",
+      "inicio": 6.777,
+      "fin": 7.12
+    },
+    {
+      "texto": "desde",
+      "inicio": 7.187,
+      "fin": 7.52
+    },
+    {
+      "texto": "la",
+      "inicio": 7.547,
+      "fin": 7.6
+    },
+    {
+      "texto": "pestaña",
+      "inicio": 7.64,
+      "fin": 8.08
+    },
+    {
+      "texto": "Inicio,",
+      "inicio": 8.133,
+      "fin": 8.64
+    },
+    {
+      "texto": "como",
+      "inicio": 8.672,
+      "fin": 8.8
+    },
+    {
+      "texto": "a",
+      "inicio": 8.84,
+      "fin": 8.88
+    },
+    {
+      "texto": "cualquier",
+      "inicio": 8.92,
+      "fin": 9.28
+    },
+    {
+      "texto": "celda.",
+      "inicio": 9.36,
+      "fin": 10.0
+    },
+    {
+      "texto": "Y",
+      "inicio": 10.28,
+      "fin": 10.56
+    },
+    {
+      "texto": "si",
+      "inicio": 10.613,
+      "fin": 10.72
+    },
+    {
+      "texto": "quieres",
+      "inicio": 10.75,
+      "fin": 10.96
+    },
+    {
+      "texto": "que",
+      "inicio": 11.0,
+      "fin": 11.12
+    },
+    {
+      "texto": "salte",
+      "inicio": 11.18,
+      "fin": 11.44
+    },
+    {
+      "texto": "a",
+      "inicio": 11.48,
+      "fin": 11.52
+    },
+    {
+      "texto": "la",
+      "inicio": 11.547,
+      "fin": 11.6
+    },
+    {
+      "texto": "vista",
+      "inicio": 11.64,
+      "fin": 11.84
+    },
+    {
+      "texto": "la",
+      "inicio": 11.893,
+      "fin": 12.0
+    },
+    {
+      "texto": "región",
+      "inicio": 12.06,
+      "fin": 12.32
+    },
+    {
+      "texto": "ganadora,",
+      "inicio": 12.36,
+      "fin": 13.36
+    },
+    {
+      "texto": "ponle",
+      "inicio": 13.4,
+      "fin": 13.6
+    },
+    {
+      "texto": "formato",
+      "inicio": 13.66,
+      "fin": 14.08
+    },
+    {
+      "texto": "condicional",
+      "inicio": 14.128,
+      "fin": 15.04
+    },
+    {
+      "texto": "para",
+      "inicio": 15.12,
+      "fin": 15.44
+    },
+    {
+      "texto": "resaltar",
+      "inicio": 15.48,
+      "fin": 15.92
+    },
+    {
+      "texto": "el",
+      "inicio": 15.947,
+      "fin": 16.0
+    },
+    {
+      "texto": "valor",
+      "inicio": 16.053,
+      "fin": 16.32
+    },
+    {
+      "texto": "más",
+      "inicio": 16.36,
+      "fin": 16.48
+    },
+    {
+      "texto": "alto.",
+      "inicio": 16.56,
+      "fin": 16.96
+    },
+    {
+      "texto": "Como",
+      "inicio": 17.2,
+      "fin": 18.16
+    },
+    {
+      "texto": "el",
+      "inicio": 18.187,
+      "fin": 18.24
+    },
+    {
+      "texto": "resultado",
+      "inicio": 18.304,
+      "fin": 18.88
+    },
+    {
+      "texto": "se",
+      "inicio": 18.933,
+      "fin": 19.04
+    },
+    {
+      "texto": "mueve",
+      "inicio": 19.1,
+      "fin": 19.44
+    },
+    {
+      "texto": "cuando",
+      "inicio": 19.486,
+      "fin": 19.76
+    },
+    {
+      "texto": "cambian",
+      "inicio": 19.808,
+      "fin": 20.08
+    },
+    {
+      "texto": "los",
+      "inicio": 20.12,
+      "fin": 20.24
+    },
+    {
+      "texto": "datos,",
+      "inicio": 20.307,
+      "fin": 21.04
+    },
+    {
+      "texto": "aplica",
+      "inicio": 21.12,
+      "fin": 21.44
+    },
+    {
+      "texto": "el",
+      "inicio": 21.467,
+      "fin": 21.52
+    },
+    {
+      "texto": "formato",
+      "inicio": 21.58,
+      "fin": 22.0
+    },
+    {
+      "texto": "a",
+      "inicio": 22.08,
+      "fin": 22.16
+    },
+    {
+      "texto": "unas",
+      "inicio": 22.208,
+      "fin": 22.4
+    },
+    {
+      "texto": "filas",
+      "inicio": 22.44,
+      "fin": 22.64
+    },
+    {
+      "texto": "de",
+      "inicio": 22.693,
+      "fin": 22.8
+    },
+    {
+      "texto": "más,",
+      "inicio": 22.86,
+      "fin": 23.28
+    },
+    {
+      "texto": "para",
+      "inicio": 23.312,
+      "fin": 23.44
+    },
+    {
+      "texto": "que",
+      "inicio": 23.48,
+      "fin": 23.6
+    },
+    {
+      "texto": "siempre",
+      "inicio": 23.65,
+      "fin": 24.0
+    },
+    {
+      "texto": "quede",
+      "inicio": 24.027,
+      "fin": 24.24
+    },
+    {
+      "texto": "cubierto.",
+      "inicio": 24.3,
+      "fin": 24.88
+    }
+  ]
+}

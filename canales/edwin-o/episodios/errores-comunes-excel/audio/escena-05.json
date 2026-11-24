@@ -1,0 +1,365 @@
+{
+  "num": "05",
+  "titulo": "Error 1: números guardados como texto",
+  "texto": "Error número uno: números guardados como texto. Mira esta columna de ventas. ¿Ves que uno de los números está pegado a la izquierda, y tiene un triangulito verde en la esquina? Excel lo está tratando como texto. Y la función SUMA ignora los textos. Resultado: el total da mil seiscientos cinco, cuando en realidad es dos mil setecientos cincuenta y cinco. Le faltan mil ciento cincuenta pesos, y nadie lo nota.",
+  "texto_tts": "Error número uno: números guardados como texto. Mira esta columna de ventas. ¿Ves que uno de los números está pegado a la izquierda, y tiene un triangulito verde en la esquina? Excel lo está tratando como texto. Y la función SUMA ignora los textos. Resultado: el total da mil seiscientos cinco, cuando en realidad es dos mil setecientos cincuenta y cinco. Le faltan mil ciento cincuenta pesos, y nadie lo nota.",
+  "modelo": "eleven_v3",
+  "duracion": 25.761,
+  "palabras": [
+    {
+      "texto": "Error",
+      "inicio": 0.0,
+      "fin": 0.24
+    },
+    {
+      "texto": "número",
+      "inicio": 0.286,
+      "fin": 0.56
+    },
+    {
+      "texto": "uno:",
+      "inicio": 0.64,
+      "fin": 0.96
+    },
+    {
+      "texto": "números",
+      "inicio": 1.06,
+      "fin": 1.76
+    },
+    {
+      "texto": "guardados",
+      "inicio": 1.8,
+      "fin": 2.24
+    },
+    {
+      "texto": "como",
+      "inicio": 2.288,
+      "fin": 2.48
+    },
+    {
+      "texto": "texto.",
+      "inicio": 2.56,
+      "fin": 3.12
+    },
+    {
+      "texto": "Mira",
+      "inicio": 3.48,
+      "fin": 3.92
+    },
+    {
+      "texto": "esta",
+      "inicio": 3.952,
+      "fin": 4.08
+    },
+    {
+      "texto": "columna",
+      "inicio": 4.13,
+      "fin": 4.48
+    },
+    {
+      "texto": "de",
+      "inicio": 4.533,
+      "fin": 4.64
+    },
+    {
+      "texto": "ventas.",
+      "inicio": 4.709,
+      "fin": 5.2
+    },
+    {
+      "texto": "¿Ves",
+      "inicio": 5.32,
+      "fin": 5.6
+    },
+    {
+      "texto": "que",
+      "inicio": 5.62,
+      "fin": 5.68
+    },
+    {
+      "texto": "uno",
+      "inicio": 5.72,
+      "fin": 5.84
+    },
+    {
+      "texto": "de",
+      "inicio": 5.867,
+      "fin": 5.92
+    },
+    {
+      "texto": "los",
+      "inicio": 5.94,
+      "fin": 6.0
+    },
+    {
+      "texto": "números",
+      "inicio": 6.05,
+      "fin": 6.4
+    },
+    {
+      "texto": "está",
+      "inicio": 6.448,
+      "fin": 6.64
+    },
+    {
+      "texto": "pegado",
+      "inicio": 6.68,
+      "fin": 6.96
+    },
+    {
+      "texto": "a",
+      "inicio": 7.0,
+      "fin": 7.039
+    },
+    {
+      "texto": "la",
+      "inicio": 7.04,
+      "fin": 7.042
+    },
+    {
+      "texto": "izquierda,",
+      "inicio": 7.094,
+      "fin": 7.841
+    },
+    {
+      "texto": "y",
+      "inicio": 7.881,
+      "fin": 7.921
+    },
+    {
+      "texto": "tiene",
+      "inicio": 7.961,
+      "fin": 8.161
+    },
+    {
+      "texto": "un",
+      "inicio": 8.188,
+      "fin": 8.241
+    },
+    {
+      "texto": "triangulito",
+      "inicio": 8.275,
+      "fin": 8.801
+    },
+    {
+      "texto": "verde",
+      "inicio": 8.854,
+      "fin": 9.121
+    },
+    {
+      "texto": "en",
+      "inicio": 9.148,
+      "fin": 9.201
+    },
+    {
+      "texto": "la",
+      "inicio": 9.228,
+      "fin": 9.281
+    },
+    {
+      "texto": "esquina?",
+      "inicio": 9.334,
+      "fin": 10.081
+    },
+    {
+      "texto": "Excel",
+      "inicio": 10.201,
+      "fin": 10.801
+    },
+    {
+      "texto": "lo",
+      "inicio": 10.828,
+      "fin": 10.881
+    },
+    {
+      "texto": "está",
+      "inicio": 10.913,
+      "fin": 11.041
+    },
+    {
+      "texto": "tratando",
+      "inicio": 11.089,
+      "fin": 11.521
+    },
+    {
+      "texto": "como",
+      "inicio": 11.553,
+      "fin": 11.681
+    },
+    {
+      "texto": "texto.",
+      "inicio": 11.761,
+      "fin": 12.241
+    },
+    {
+      "texto": "Y",
+      "inicio": 12.441,
+      "fin": 12.641
+    },
+    {
+      "texto": "la",
+      "inicio": 12.668,
+      "fin": 12.721
+    },
+    {
+      "texto": "función",
+      "inicio": 12.771,
+      "fin": 13.121
+    },
+    {
+      "texto": "SUMA",
+      "inicio": 13.201,
+      "fin": 13.521
+    },
+    {
+      "texto": "ignora",
+      "inicio": 13.641,
+      "fin": 14.161
+    },
+    {
+      "texto": "los",
+      "inicio": 14.201,
+      "fin": 14.321
+    },
+    {
+      "texto": "textos.",
+      "inicio": 14.401,
+      "fin": 15.121
+    },
+    {
+      "texto": "Resultado:",
+      "inicio": 15.235,
+      "fin": 16.241
+    },
+    {
+      "texto": "el",
+      "inicio": 16.348,
+      "fin": 16.561
+    },
+    {
+      "texto": "total",
+      "inicio": 16.628,
+      "fin": 16.961
+    },
+    {
+      "texto": "da",
+      "inicio": 17.041,
+      "fin": 17.201
+    },
+    {
+      "texto": "mil",
+      "inicio": 17.281,
+      "fin": 17.521
+    },
+    {
+      "texto": "seiscientos",
+      "inicio": 17.574,
+      "fin": 18.161
+    },
+    {
+      "texto": "cinco,",
+      "inicio": 18.214,
+      "fin": 18.881
+    },
+    {
+      "texto": "cuando",
+      "inicio": 18.938,
+      "fin": 19.281
+    },
+    {
+      "texto": "en",
+      "inicio": 19.308,
+      "fin": 19.361
+    },
+    {
+      "texto": "realidad",
+      "inicio": 19.405,
+      "fin": 19.761
+    },
+    {
+      "texto": "es",
+      "inicio": 19.814,
+      "fin": 19.921
+    },
+    {
+      "texto": "dos",
+      "inicio": 19.941,
+      "fin": 20.001
+    },
+    {
+      "texto": "mil",
+      "inicio": 20.041,
+      "fin": 20.161
+    },
+    {
+      "texto": "setecientos",
+      "inicio": 20.221,
+      "fin": 20.881
+    },
+    {
+      "texto": "cincuenta",
+      "inicio": 20.921,
+      "fin": 21.281
+    },
+    {
+      "texto": "y",
+      "inicio": 21.321,
+      "fin": 21.361
+    },
+    {
+      "texto": "cinco.",
+      "inicio": 21.414,
+      "fin": 22.001
+    },
+    {
+      "texto": "Le",
+      "inicio": 22.134,
+      "fin": 22.401
+    },
+    {
+      "texto": "faltan",
+      "inicio": 22.441,
+      "fin": 22.801
+    },
+    {
+      "texto": "mil",
+      "inicio": 22.841,
+      "fin": 22.961
+    },
+    {
+      "texto": "ciento",
+      "inicio": 23.081,
+      "fin": 23.361
+    },
+    {
+      "texto": "cincuenta",
+      "inicio": 23.441,
+      "fin": 23.921
+    },
+    {
+      "texto": "pesos,",
+      "inicio": 24.014,
+      "fin": 24.601
+    },
+    {
+      "texto": "y",
+      "inicio": 24.661,
+      "fin": 24.721
+    },
+    {
+      "texto": "nadie",
+      "inicio": 24.781,
+      "fin": 25.041
+    },
+    {
+      "texto": "lo",
+      "inicio": 25.068,
+      "fin": 25.121
+    },
+    {
+      "texto": "nota.",
+      "inicio": 25.217,
+      "fin": 25.761
+    }
+  ]
+}

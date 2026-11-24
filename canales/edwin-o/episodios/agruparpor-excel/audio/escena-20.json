@@ -1,0 +1,325 @@
+{
+  "num": "20",
+  "titulo": "Resumen y siguiente video",
+  "texto": "En resumen: AGRUPARPOR responde tres preguntas, por qué agrupo, qué calculo y cómo. Puedes ordenar y filtrar dentro de la fórmula, y se actualiza sola. En el próximo video cambiamos de herramienta: te enseño las condicionales de Python, IF, ELIF y ELSE, para que tus programas tomen decisiones. Suscríbete para no perdértelo. El poder de la tecnología te va a cambiar el mundo.",
+  "texto_tts": "En resumen: AGRUPARPOR responde tres preguntas, por qué agrupo, qué calculo y cómo. Puedes ordenar y filtrar dentro de la fórmula, y se actualiza sola. En el próximo video cambiamos de herramienta: te enseño las condicionales de Python, IF, ELIF y ELSE, para que tus programas tomen decisiones. Suscríbete para no perdértelo. [excited] El poder de la tecnología te va a cambiar el mundo.",
+  "modelo": "eleven_v3",
+  "duracion": 29.605,
+  "palabras": [
+    {
+      "texto": "En",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "resumen:",
+      "inicio": 0.14,
+      "fin": 0.72
+    },
+    {
+      "texto": "AGRUPARPOR",
+      "inicio": 0.88,
+      "fin": 1.76
+    },
+    {
+      "texto": "responde",
+      "inicio": 1.84,
+      "fin": 2.32
+    },
+    {
+      "texto": "tres",
+      "inicio": 2.368,
+      "fin": 2.56
+    },
+    {
+      "texto": "preguntas,",
+      "inicio": 2.624,
+      "fin": 3.44
+    },
+    {
+      "texto": "por",
+      "inicio": 3.58,
+      "fin": 4.0
+    },
+    {
+      "texto": "qué",
+      "inicio": 4.04,
+      "fin": 4.16
+    },
+    {
+      "texto": "agrupo,",
+      "inicio": 4.22,
+      "fin": 4.8
+    },
+    {
+      "texto": "qué",
+      "inicio": 4.94,
+      "fin": 5.36
+    },
+    {
+      "texto": "calculo",
+      "inicio": 5.429,
+      "fin": 6.16
+    },
+    {
+      "texto": "y",
+      "inicio": 6.28,
+      "fin": 6.4
+    },
+    {
+      "texto": "cómo.",
+      "inicio": 6.48,
+      "fin": 6.96
+    },
+    {
+      "texto": "Puedes",
+      "inicio": 7.48,
+      "fin": 8.32
+    },
+    {
+      "texto": "ordenar",
+      "inicio": 8.373,
+      "fin": 8.72
+    },
+    {
+      "texto": "y",
+      "inicio": 8.76,
+      "fin": 8.8
+    },
+    {
+      "texto": "filtrar",
+      "inicio": 8.867,
+      "fin": 9.36
+    },
+    {
+      "texto": "dentro",
+      "inicio": 9.417,
+      "fin": 9.76
+    },
+    {
+      "texto": "de",
+      "inicio": 9.787,
+      "fin": 9.84
+    },
+    {
+      "texto": "la",
+      "inicio": 9.893,
+      "fin": 10.0
+    },
+    {
+      "texto": "fórmula,",
+      "inicio": 10.04,
+      "fin": 10.64
+    },
+    {
+      "texto": "y",
+      "inicio": 10.76,
+      "fin": 10.88
+    },
+    {
+      "texto": "se",
+      "inicio": 10.933,
+      "fin": 11.04
+    },
+    {
+      "texto": "actualiza",
+      "inicio": 11.086,
+      "fin": 11.6
+    },
+    {
+      "texto": "sola.",
+      "inicio": 11.68,
+      "fin": 12.6
+    },
+    {
+      "texto": "En",
+      "inicio": 12.8,
+      "fin": 13.2
+    },
+    {
+      "texto": "el",
+      "inicio": 13.227,
+      "fin": 13.28
+    },
+    {
+      "texto": "próximo",
+      "inicio": 13.34,
+      "fin": 13.76
+    },
+    {
+      "texto": "video",
+      "inicio": 13.827,
+      "fin": 14.16
+    },
+    {
+      "texto": "cambiamos",
+      "inicio": 14.224,
+      "fin": 14.72
+    },
+    {
+      "texto": "de",
+      "inicio": 14.747,
+      "fin": 14.8
+    },
+    {
+      "texto": "herramienta:",
+      "inicio": 14.844,
+      "fin": 15.68
+    },
+    {
+      "texto": "te",
+      "inicio": 15.707,
+      "fin": 15.76
+    },
+    {
+      "texto": "enseño",
+      "inicio": 15.824,
+      "fin": 16.16
+    },
+    {
+      "texto": "las",
+      "inicio": 16.2,
+      "fin": 16.32
+    },
+    {
+      "texto": "condicionales",
+      "inicio": 16.368,
+      "fin": 17.04
+    },
+    {
+      "texto": "de",
+      "inicio": 17.067,
+      "fin": 17.12
+    },
+    {
+      "texto": "Python,",
+      "inicio": 17.189,
+      "fin": 18.08
+    },
+    {
+      "texto": "IF,",
+      "inicio": 18.213,
+      "fin": 18.8
+    },
+    {
+      "texto": "ELIF",
+      "inicio": 18.88,
+      "fin": 19.36
+    },
+    {
+      "texto": "y",
+      "inicio": 19.52,
+      "fin": 19.68
+    },
+    {
+      "texto": "ELSE,",
+      "inicio": 19.776,
+      "fin": 20.24
+    },
+    {
+      "texto": "para",
+      "inicio": 20.368,
+      "fin": 20.88
+    },
+    {
+      "texto": "que",
+      "inicio": 20.92,
+      "fin": 21.04
+    },
+    {
+      "texto": "tus",
+      "inicio": 21.08,
+      "fin": 21.2
+    },
+    {
+      "texto": "programas",
+      "inicio": 21.256,
+      "fin": 21.76
+    },
+    {
+      "texto": "tomen",
+      "inicio": 21.84,
+      "fin": 22.16
+    },
+    {
+      "texto": "decisiones.",
+      "inicio": 22.222,
+      "fin": 23.12
+    },
+    {
+      "texto": "Suscríbete",
+      "inicio": 23.32,
+      "fin": 24.4
+    },
+    {
+      "texto": "para",
+      "inicio": 24.464,
+      "fin": 24.72
+    },
+    {
+      "texto": "no",
+      "inicio": 24.773,
+      "fin": 24.88
+    },
+    {
+      "texto": "perdértelo.",
+      "inicio": 24.928,
+      "fin": 25.68
+    },
+    {
+      "texto": "El",
+      "inicio": 26.352,
+      "fin": 26.405
+    },
+    {
+      "texto": "poder",
+      "inicio": 26.472,
+      "fin": 26.805
+    },
+    {
+      "texto": "de",
+      "inicio": 26.832,
+      "fin": 26.885
+    },
+    {
+      "texto": "la",
+      "inicio": 26.912,
+      "fin": 26.965
+    },
+    {
+      "texto": "tecnología",
+      "inicio": 27.029,
+      "fin": 27.765
+    },
+    {
+      "texto": "te",
+      "inicio": 27.952,
+      "fin": 28.325
+    },
+    {
+      "texto": "va",
+      "inicio": 28.352,
+      "fin": 28.405
+    },
+    {
+      "texto": "a",
+      "inicio": 28.445,
+      "fin": 28.485
+    },
+    {
+      "texto": "cambiar",
+      "inicio": 28.545,
+      "fin": 28.965
+    },
+    {
+      "texto": "el",
+      "inicio": 28.992,
+      "fin": 29.045
+    },
+    {
+      "texto": "mundo.",
+      "inicio": 29.125,
+      "fin": 29.605
+    }
+  ]
+}

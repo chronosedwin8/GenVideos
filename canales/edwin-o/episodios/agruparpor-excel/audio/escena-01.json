@@ -1,0 +1,215 @@
+{
+  "num": "01",
+  "titulo": "Gancho",
+  "texto": "Cambias un dato… y tu tabla dinámica se queda igual. Tienes que acordarte de darle actualizar, y si se te olvida, el informe sale mal. Mira este otro resumen: está hecho con una sola fórmula, y se actualiza solo, al instante.",
+  "texto_tts": "[curious] Cambias un dato… y tu tabla dinámica se queda igual. Tienes que acordarte de darle actualizar, y si se te olvida, el informe sale mal. [excited] Mira este otro resumen: está hecho con una sola fórmula, y se actualiza solo, al instante.",
+  "modelo": "eleven_v3",
+  "duracion": 15.6,
+  "palabras": [
+    {
+      "texto": "Cambias",
+      "inicio": 0.128,
+      "fin": 0.32
+    },
+    {
+      "texto": "un",
+      "inicio": 0.373,
+      "fin": 0.48
+    },
+    {
+      "texto": "dato…",
+      "inicio": 0.56,
+      "fin": 0.96
+    },
+    {
+      "texto": "y",
+      "inicio": 1.4,
+      "fin": 1.84
+    },
+    {
+      "texto": "tu",
+      "inicio": 1.893,
+      "fin": 2.0
+    },
+    {
+      "texto": "tabla",
+      "inicio": 2.04,
+      "fin": 2.24
+    },
+    {
+      "texto": "dinámica",
+      "inicio": 2.28,
+      "fin": 2.72
+    },
+    {
+      "texto": "se",
+      "inicio": 2.747,
+      "fin": 2.8
+    },
+    {
+      "texto": "queda",
+      "inicio": 2.84,
+      "fin": 3.04
+    },
+    {
+      "texto": "igual.",
+      "inicio": 3.093,
+      "fin": 3.52
+    },
+    {
+      "texto": "Tienes",
+      "inicio": 3.96,
+      "fin": 4.56
+    },
+    {
+      "texto": "que",
+      "inicio": 4.58,
+      "fin": 4.64
+    },
+    {
+      "texto": "acordarte",
+      "inicio": 4.667,
+      "fin": 5.2
+    },
+    {
+      "texto": "de",
+      "inicio": 5.253,
+      "fin": 5.36
+    },
+    {
+      "texto": "darle",
+      "inicio": 5.42,
+      "fin": 5.76
+    },
+    {
+      "texto": "actualizar,",
+      "inicio": 5.825,
+      "fin": 6.64
+    },
+    {
+      "texto": "y",
+      "inicio": 6.68,
+      "fin": 6.72
+    },
+    {
+      "texto": "si",
+      "inicio": 6.747,
+      "fin": 6.8
+    },
+    {
+      "texto": "se",
+      "inicio": 6.853,
+      "fin": 6.96
+    },
+    {
+      "texto": "te",
+      "inicio": 6.987,
+      "fin": 7.04
+    },
+    {
+      "texto": "olvida,",
+      "inicio": 7.093,
+      "fin": 7.6
+    },
+    {
+      "texto": "el",
+      "inicio": 7.653,
+      "fin": 7.76
+    },
+    {
+      "texto": "informe",
+      "inicio": 7.806,
+      "fin": 8.2
+    },
+    {
+      "texto": "sale",
+      "inicio": 8.224,
+      "fin": 8.32
+    },
+    {
+      "texto": "mal.",
+      "inicio": 8.38,
+      "fin": 8.64
+    },
+    {
+      "texto": "Mira",
+      "inicio": 10.056,
+      "fin": 10.08
+    },
+    {
+      "texto": "este",
+      "inicio": 10.112,
+      "fin": 10.24
+    },
+    {
+      "texto": "otro",
+      "inicio": 10.272,
+      "fin": 10.4
+    },
+    {
+      "texto": "resumen:",
+      "inicio": 10.46,
+      "fin": 11.04
+    },
+    {
+      "texto": "está",
+      "inicio": 11.104,
+      "fin": 11.36
+    },
+    {
+      "texto": "hecho",
+      "inicio": 11.387,
+      "fin": 11.52
+    },
+    {
+      "texto": "con",
+      "inicio": 11.56,
+      "fin": 11.68
+    },
+    {
+      "texto": "una",
+      "inicio": 11.72,
+      "fin": 11.84
+    },
+    {
+      "texto": "sola",
+      "inicio": 11.888,
+      "fin": 12.08
+    },
+    {
+      "texto": "fórmula,",
+      "inicio": 12.12,
+      "fin": 12.64
+    },
+    {
+      "texto": "y",
+      "inicio": 13.04,
+      "fin": 13.44
+    },
+    {
+      "texto": "se",
+      "inicio": 13.467,
+      "fin": 13.52
+    },
+    {
+      "texto": "actualiza",
+      "inicio": 13.566,
+      "fin": 14.0
+    },
+    {
+      "texto": "solo,",
+      "inicio": 14.096,
+      "fin": 14.56
+    },
+    {
+      "texto": "al",
+      "inicio": 14.64,
+      "fin": 14.8
+    },
+    {
+      "texto": "instante.",
+      "inicio": 14.848,
+      "fin": 15.6
+    }
+  ]
+}

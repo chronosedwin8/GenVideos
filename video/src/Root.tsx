@@ -7,6 +7,26 @@ import {HorasExtraExcel, manifestHorasExtra, SHORTS_HORAS_EXTRA, ShortHorasExtra
 import {duracionShort} from './comun/Short';
 import {duracionEpisodio} from './comun/Episodio';
 import {temaEdwinO} from './edwin-o/tema';
+import {EPISODIOS} from './edwin-o/episodios/index';
+import {color, datosShort, EpisodioMotor, ShortMotor} from './comun/Motor';
+import {MiniCodigo} from './comun/Bloques';
+
+const buscar = (id: string) => EPISODIOS.find((e) => e.id === id)!;
+
+const EpisodioPorId: React.FC<{id: string}> = ({id}) => <EpisodioMotor tema={temaEdwinO} esp={buscar(id)} />;
+const ShortPorId: React.FC<{id: string; n: number}> = ({id, n}) => <ShortMotor tema={temaEdwinO} esp={buscar(id)} n={n} />;
+const MiniaturaPorId: React.FC<{id: string}> = ({id}) => {
+  const m = buscar(id).miniatura;
+  return (
+    <Miniatura
+      tema={temaEdwinO}
+      lineas={m.lineas.map((l) => ({...l, color: color(temaEdwinO, l.color)}))}
+      pildora={m.pildora}
+      insignia={m.insignia}
+      apoyo={m.codigo ? <MiniCodigo codigo={m.codigo} /> : m.filas ? <MiniHoja filas={m.filas} formula={m.formula} resaltarFila={m.resaltarFila} /> : undefined}
+    />
+  );
+};
 
 // Los episodios se registran aquí (uno por video). Ver .claude/skills/construir-escenas.
 export const RemotionRoot: React.FC = () => (
@@ -45,6 +65,16 @@ export const RemotionRoot: React.FC = () => (
           />
         )}
       />
+      {EPISODIOS.map((esp) => (
+        <Folder key={esp.id} name={esp.slug}>
+          <Composition id={esp.id} component={EpisodioPorId} defaultProps={{id: esp.id}} durationInFrames={duracionEpisodio(esp.manifest)} fps={30} width={1920} height={1080} />
+          {esp.shorts.map((sh, i) => {
+            const d = datosShort(esp, i);
+            return <Composition key={sh.id} id={`${esp.id}-${sh.id}`} component={ShortPorId} defaultProps={{id: esp.id, n: i}} durationInFrames={duracionShort(d.escena, d.recorte)} fps={30} width={1080} height={1920} />;
+          })}
+          <Still id={`${esp.id}-Miniatura`} component={MiniaturaPorId} defaultProps={{id: esp.id}} width={1280} height={720} />
+        </Folder>
+      ))}
       <Composition id="EdwinO-Demo" component={DemoEdwinO} durationInFrames={1000} fps={30} width={1920} height={1080} />
       <Still
         id="EdwinO-MiniaturaDemo"

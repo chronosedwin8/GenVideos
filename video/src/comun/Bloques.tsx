@@ -14,7 +14,7 @@ export const TextoRico: React.FC<{tema: Tema; texto: string; fondoCodigo?: strin
   <>
     {texto.split(/(`[^`]+`)/g).map((p, i) =>
       p.startsWith('`') && p.endsWith('`') ? (
-        <span key={i} style={{fontFamily: tema.fuentes.codigo, background: fondoCodigo, color: '#111', padding: '0 8px', borderRadius: 8, fontWeight: 600}}>
+        <span key={i} style={{fontFamily: tema.fuentes.codigo, fontVariantLigatures: 'none', fontFeatureSettings: '"calt" 0, "liga" 0', background: fondoCodigo, color: '#111', padding: '0 8px', borderRadius: 8, fontWeight: 600}}>
           {p.slice(1, -1)}
         </span>
       ) : (
@@ -49,7 +49,7 @@ export const ChatIA: React.FC<{tema: Tema; mensajes: MensajeChat[]; titulo?: str
   const tam = panel ? 27 : 34;
   const caja: React.CSSProperties = panel
     ? {position: 'absolute', right: 40, top: 70, width: 660, height: 930}
-    : {position: 'absolute', left: 210, top: 70, width: 1500, height: 830};
+    : {position: 'absolute', left: 210, top: 130, width: 1500, height: 800};
   return (
     <AbsoluteFill style={{zIndex: panel ? 40 : 1}}>
       <div
@@ -225,16 +225,17 @@ export const Cuadricula: React.FC<{tema: Tema; titulo?: string; items: {icono: s
   const {fps} = useVideoConfig();
   const cols = items.length <= 3 ? items.length : items.length === 4 ? 2 : items.length <= 6 ? 3 : 4;
   const ancho = cols <= 2 ? 640 : cols === 3 ? 500 : 390;
+  const compacto = items.length > 8;
   return (
-    <AbsoluteFill style={{alignItems: 'center', justifyContent: 'center', gap: 44}}>
+    <AbsoluteFill style={{alignItems: 'center', justifyContent: 'center', gap: 44, paddingTop: compacto ? 60 : 0}}>
       {titulo ? <TituloContorno tema={tema} lineas={[{texto: titulo, color: 'white'}]} tamano={96} rotacion={0} desde={desde} /> : null}
-      <div style={{display: 'grid', gridTemplateColumns: `repeat(${cols}, ${ancho}px)`, gap: 36}}>
+      <div style={{display: 'grid', gridTemplateColumns: `repeat(${cols}, ${ancho}px)`, gap: compacto ? 26 : 36}}>
         {items.map((it, i) => {
           const e = entrada(s, fps, it.desde, 190);
           return (
-            <div key={i} style={{background: 'white', border: BORDE, borderRadius: 28, boxShadow: '9px 9px 0 #000', padding: '26px 24px', display: 'flex', flexDirection: 'column', alignItems: 'center', gap: 12, transform: `scale(${e}) rotate(${(1 - e) * 12}deg)`, fontFamily: tema.fuentes.texto}}>
-              <div style={{fontSize: 92}}>{it.icono}</div>
-              <div style={{fontSize: 38, fontWeight: 800, textAlign: 'center', lineHeight: 1.2}}>
+            <div key={i} style={{background: 'white', border: BORDE, borderRadius: 28, boxShadow: '9px 9px 0 #000', padding: compacto ? '14px 16px' : '26px 24px', display: 'flex', flexDirection: compacto ? 'row' : 'column', justifyContent: 'center', alignItems: 'center', gap: 12, transform: `scale(${e}) rotate(${(1 - e) * 12}deg)`, fontFamily: tema.fuentes.texto}}>
+              <div style={{fontSize: compacto ? 52 : 92}}>{it.icono}</div>
+              <div style={{fontSize: compacto ? 34 : 38, fontWeight: 800, textAlign: 'center', lineHeight: 1.2}}>
                 <TextoRico tema={tema} texto={it.texto} />
               </div>
             </div>
@@ -277,13 +278,13 @@ export const FormulaGrande: React.FC<{tema: Tema; formula: string; partes?: Part
     if (ult && ult.k === marca[c]) ult.t += formula[c];
     else segmentos.push({t: formula[c], k: marca[c]});
   }
-  const tam = formula.length > 34 ? 50 : formula.length > 24 ? 62 : 78;
+  const tam = formula.length > 48 ? 40 : formula.length > 34 ? 50 : formula.length > 24 ? 62 : 78;
   return (
     <AbsoluteFill style={{alignItems: 'center', justifyContent: 'center', gap: 46, fontFamily: tema.fuentes.texto}}>
       {titulo ? <TituloContorno tema={tema} lineas={[{texto: titulo, color: 'white'}]} tamano={90} rotacion={0} desde={desde} /> : null}
       <div style={{display: 'flex', alignItems: 'stretch', background: 'white', border: BORDE, borderRadius: 24, boxShadow: SOMBRA, transform: `scale(${0.8 + 0.2 * e})`, opacity: e, maxWidth: 1760}}>
         <div style={{fontFamily: 'Georgia, serif', fontStyle: 'italic', fontSize: tam * 0.8, padding: '18px 30px', borderRight: '4px solid #000', color: '#555', display: 'flex', alignItems: 'center'}}>fx</div>
-        <div style={{fontFamily: tema.fuentes.codigo, fontSize: tam, padding: '22px 36px', whiteSpace: 'pre', fontWeight: 600}}>
+        <div style={{fontFamily: tema.fuentes.codigo, fontVariantLigatures: 'none', fontFeatureSettings: '"calt" 0, "liga" 0', fontSize: tam, padding: '22px 36px', whiteSpace: 'pre', fontWeight: 600}}>
           {segmentos.map((g, i) => (
             <span key={i} style={g.k === null ? {} : {background: colores[g.k % colores.length], borderRadius: 10, boxShadow: '0 0 0 4px #000 inset', padding: '0 2px'}}>
               {g.t}
@@ -298,7 +299,7 @@ export const FormulaGrande: React.FC<{tema: Tema; formula: string; partes?: Part
           if (s < p.desde) return null;
           return (
             <div key={k} style={{display: 'flex', alignItems: 'center', gap: 16, background: 'white', border: '4px solid #000', borderRadius: 20, padding: '14px 26px', boxShadow: '6px 6px 0 #000', transform: `scale(${ep})`}}>
-              <span style={{fontFamily: tema.fuentes.codigo, fontSize: 36, fontWeight: 700, background: colores[k % colores.length], padding: '2px 12px', borderRadius: 10, border: '3px solid #000'}}>{p.texto}</span>
+              <span style={{fontFamily: tema.fuentes.codigo, fontVariantLigatures: 'none', fontFeatureSettings: '"calt" 0, "liga" 0', fontSize: 36, fontWeight: 700, background: colores[k % colores.length], padding: '2px 12px', borderRadius: 10, border: '3px solid #000'}}>{p.texto}</span>
               <span style={{fontSize: 36, fontWeight: 700}}>{p.nota}</span>
             </div>
           );
@@ -409,7 +410,68 @@ export const Teclas: React.FC<{tema: Tema; teclas: string[]; texto?: string; des
 /* ───────────── Mini tarjeta de código para miniaturas ───────────── */
 
 export const MiniCodigo: React.FC<{codigo: string}> = ({codigo}) => (
-  <div style={{background: '#1E1E1E', border: '6px solid #000', borderRadius: 22, padding: '22px 28px', boxShadow: '10px 10px 0 #000', fontFamily: 'JetBrains Mono', fontSize: 34, color: '#D4D4D4', whiteSpace: 'pre', lineHeight: 1.35}}>
+  <div style={{background: '#1E1E1E', border: '6px solid #000', borderRadius: 22, padding: '22px 28px', boxShadow: '10px 10px 0 #000', fontFamily: 'JetBrains Mono', fontVariantLigatures: 'none', fontFeatureSettings: '"calt" 0, "liga" 0', fontSize: 34, color: '#D4D4D4', whiteSpace: 'pre', lineHeight: 1.35}}>
     {codigo}
   </div>
 );
+
+/* ───────────── Gráfico de barras (estilo matplotlib por defecto, como lo devuelve Python) ───────────── */
+
+export const Barras: React.FC<{tema: Tema; titulo?: string; items: {etiqueta: string; valor: number}[]; desde?: number; ancho?: number; alto?: number; x?: number; y?: number; rotar?: boolean}> = ({
+  tema,
+  titulo,
+  items,
+  desde = 0,
+  ancho = 980,
+  alto = 760,
+  x,
+  y,
+  rotar = true,
+}) => {
+  const s = useSegundos();
+  const {fps} = useVideoConfig();
+  const e = entrada(s, fps, desde, 160);
+  const max = Math.max(...items.map((i) => i.valor));
+  const paso = Math.pow(10, Math.floor(Math.log10(max)));
+  const tope = Math.ceil((max * 1.05) / paso) * paso;
+  const marcas = Array.from({length: Math.floor(tope / paso) + 1}, (_, i) => i * paso);
+  const izq = 120;
+  const arriba = titulo ? 80 : 30;
+  const abajo = rotar ? 150 : 70;
+  const W = ancho - izq - 40;
+  const H = alto - arriba - abajo;
+  const anchoBarra = (W / items.length) * 0.5;
+  return (
+    <AbsoluteFill style={{alignItems: x === undefined ? 'center' : undefined, justifyContent: y === undefined ? 'center' : undefined}}>
+      <div style={{position: x === undefined ? 'relative' : 'absolute', left: x, top: y, width: ancho, height: alto, background: 'white', border: BORDE, borderRadius: 12, boxShadow: SOMBRA, transform: `scale(${0.85 + 0.15 * e})`, opacity: e, fontFamily: 'DejaVu Sans, Verdana, sans-serif'}}>
+        {titulo ? <div style={{position: 'absolute', top: 22, width: '100%', textAlign: 'center', fontSize: 30, color: '#000'}}>{titulo}</div> : null}
+        <svg width={ancho} height={alto} style={{position: 'absolute', inset: 0}}>
+          <rect x={izq} y={arriba} width={W} height={H} fill="none" stroke="#000" strokeWidth={1.5} />
+          {marcas.map((m) => {
+            const yy = arriba + H - (m / tope) * H;
+            return (
+              <g key={m}>
+                <line x1={izq - 8} x2={izq} y1={yy} y2={yy} stroke="#000" strokeWidth={1.5} />
+                <text x={izq - 14} y={yy + 8} fontSize={22} textAnchor="end" fill="#000">{m}</text>
+              </g>
+            );
+          })}
+          {items.map((it, i) => {
+            const cx = izq + (W / items.length) * (i + 0.5);
+            const p = progreso(s, desde + 0.4 + i * 0.25, 0.8);
+            const h = (it.valor / tope) * H * p;
+            return (
+              <g key={i}>
+                <rect x={cx - anchoBarra / 2} y={arriba + H - h} width={anchoBarra} height={h} fill="#1f77b4" />
+                <line x1={cx} x2={cx} y1={arriba + H} y2={arriba + H + 8} stroke="#000" strokeWidth={1.5} />
+                <text x={cx} y={arriba + H + 20} fontSize={24} fill="#000" textAnchor={rotar ? 'end' : 'middle'} transform={rotar ? `rotate(-90 ${cx} ${arriba + H + 20})` : undefined} dominantBaseline="middle">
+                  {it.etiqueta}
+                </text>
+              </g>
+            );
+          })}
+        </svg>
+      </div>
+    </AbsoluteFill>
+  );
+};

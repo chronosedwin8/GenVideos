@@ -1,0 +1,380 @@
+{
+  "num": "07",
+  "titulo": "Error 2: la referencia que se mueve",
+  "texto": "Error número dos: la referencia que se mueve. Tengo los precios en la columna B y el IVA en la celda E uno. En C dos calculo el precio con IVA: B dos por uno más E uno. Da ciento diecinueve, perfecto. Pero cuando arrastro la fórmula hacia abajo… los demás precios quedan igual, sin IVA. ¿Por qué? Porque Excel movió también la referencia del IVA: ahora apunta a E dos, que está vacía.",
+  "texto_tts": "Error número dos: la referencia que se mueve. Tengo los precios en la columna B y el IVA en la celda E uno. En C dos calculo el precio con IVA: B dos por uno más E uno. Da ciento diecinueve, perfecto. Pero cuando arrastro la fórmula hacia abajo… los demás precios quedan igual, sin IVA. ¿Por qué? Porque Excel movió también la referencia del IVA: ahora apunta a E dos, que está vacía.",
+  "modelo": "eleven_v3",
+  "duracion": 34.8,
+  "palabras": [
+    {
+      "texto": "Error",
+      "inicio": 0.0,
+      "fin": 0.32
+    },
+    {
+      "texto": "número",
+      "inicio": 0.366,
+      "fin": 0.64
+    },
+    {
+      "texto": "dos:",
+      "inicio": 0.72,
+      "fin": 1.12
+    },
+    {
+      "texto": "la",
+      "inicio": 1.413,
+      "fin": 2.0
+    },
+    {
+      "texto": "referencia",
+      "inicio": 2.065,
+      "fin": 2.72
+    },
+    {
+      "texto": "que",
+      "inicio": 2.78,
+      "fin": 2.96
+    },
+    {
+      "texto": "se",
+      "inicio": 3.013,
+      "fin": 3.12
+    },
+    {
+      "texto": "mueve.",
+      "inicio": 3.18,
+      "fin": 4.0
+    },
+    {
+      "texto": "Tengo",
+      "inicio": 4.56,
+      "fin": 5.28
+    },
+    {
+      "texto": "los",
+      "inicio": 5.32,
+      "fin": 5.44
+    },
+    {
+      "texto": "precios",
+      "inicio": 5.49,
+      "fin": 5.84
+    },
+    {
+      "texto": "en",
+      "inicio": 5.867,
+      "fin": 5.92
+    },
+    {
+      "texto": "la",
+      "inicio": 5.947,
+      "fin": 6.0
+    },
+    {
+      "texto": "columna",
+      "inicio": 6.05,
+      "fin": 6.4
+    },
+    {
+      "texto": "B",
+      "inicio": 6.56,
+      "fin": 6.72
+    },
+    {
+      "texto": "y",
+      "inicio": 6.96,
+      "fin": 7.2
+    },
+    {
+      "texto": "el",
+      "inicio": 7.227,
+      "fin": 7.28
+    },
+    {
+      "texto": "IVA",
+      "inicio": 7.36,
+      "fin": 7.6
+    },
+    {
+      "texto": "en",
+      "inicio": 7.707,
+      "fin": 7.92
+    },
+    {
+      "texto": "la",
+      "inicio": 7.947,
+      "fin": 8.0
+    },
+    {
+      "texto": "celda",
+      "inicio": 8.08,
+      "fin": 8.4
+    },
+    {
+      "texto": "E",
+      "inicio": 8.56,
+      "fin": 8.72
+    },
+    {
+      "texto": "uno.",
+      "inicio": 8.84,
+      "fin": 9.44
+    },
+    {
+      "texto": "En",
+      "inicio": 9.707,
+      "fin": 10.24
+    },
+    {
+      "texto": "C",
+      "inicio": 10.36,
+      "fin": 10.48
+    },
+    {
+      "texto": "dos",
+      "inicio": 10.56,
+      "fin": 10.8
+    },
+    {
+      "texto": "calculo",
+      "inicio": 10.891,
+      "fin": 11.48
+    },
+    {
+      "texto": "el",
+      "inicio": 11.493,
+      "fin": 11.52
+    },
+    {
+      "texto": "precio",
+      "inicio": 11.577,
+      "fin": 11.92
+    },
+    {
+      "texto": "con",
+      "inicio": 11.96,
+      "fin": 12.08
+    },
+    {
+      "texto": "IVA:",
+      "inicio": 12.16,
+      "fin": 12.8
+    },
+    {
+      "texto": "B",
+      "inicio": 12.92,
+      "fin": 13.04
+    },
+    {
+      "texto": "dos",
+      "inicio": 13.1,
+      "fin": 13.28
+    },
+    {
+      "texto": "por",
+      "inicio": 13.36,
+      "fin": 13.6
+    },
+    {
+      "texto": "uno",
+      "inicio": 13.66,
+      "fin": 13.84
+    },
+    {
+      "texto": "más",
+      "inicio": 14.0,
+      "fin": 14.48
+    },
+    {
+      "texto": "E",
+      "inicio": 14.64,
+      "fin": 14.8
+    },
+    {
+      "texto": "uno.",
+      "inicio": 14.88,
+      "fin": 15.56
+    },
+    {
+      "texto": "Da",
+      "inicio": 15.707,
+      "fin": 16.0
+    },
+    {
+      "texto": "ciento",
+      "inicio": 16.12,
+      "fin": 16.48
+    },
+    {
+      "texto": "diecinueve,",
+      "inicio": 16.54,
+      "fin": 17.44
+    },
+    {
+      "texto": "perfecto.",
+      "inicio": 17.49,
+      "fin": 18.08
+    },
+    {
+      "texto": "Pero",
+      "inicio": 18.288,
+      "fin": 19.12
+    },
+    {
+      "texto": "cuando",
+      "inicio": 19.189,
+      "fin": 19.6
+    },
+    {
+      "texto": "arrastro",
+      "inicio": 19.64,
+      "fin": 20.0
+    },
+    {
+      "texto": "la",
+      "inicio": 20.053,
+      "fin": 20.16
+    },
+    {
+      "texto": "fórmula",
+      "inicio": 20.2,
+      "fin": 20.56
+    },
+    {
+      "texto": "hacia",
+      "inicio": 20.6,
+      "fin": 20.8
+    },
+    {
+      "texto": "abajo…",
+      "inicio": 20.827,
+      "fin": 21.6
+    },
+    {
+      "texto": "los",
+      "inicio": 21.88,
+      "fin": 22.72
+    },
+    {
+      "texto": "demás",
+      "inicio": 22.78,
+      "fin": 23.04
+    },
+    {
+      "texto": "precios",
+      "inicio": 23.11,
+      "fin": 23.6
+    },
+    {
+      "texto": "quedan",
+      "inicio": 23.664,
+      "fin": 24.0
+    },
+    {
+      "texto": "igual,",
+      "inicio": 24.067,
+      "fin": 24.8
+    },
+    {
+      "texto": "sin",
+      "inicio": 24.88,
+      "fin": 25.12
+    },
+    {
+      "texto": "IVA.",
+      "inicio": 25.2,
+      "fin": 25.76
+    },
+    {
+      "texto": "¿Por",
+      "inicio": 26.08,
+      "fin": 26.48
+    },
+    {
+      "texto": "qué?",
+      "inicio": 26.6,
+      "fin": 27.52
+    },
+    {
+      "texto": "Porque",
+      "inicio": 27.66,
+      "fin": 28.16
+    },
+    {
+      "texto": "Excel",
+      "inicio": 28.227,
+      "fin": 28.56
+    },
+    {
+      "texto": "movió",
+      "inicio": 28.62,
+      "fin": 28.96
+    },
+    {
+      "texto": "también",
+      "inicio": 29.01,
+      "fin": 29.36
+    },
+    {
+      "texto": "la",
+      "inicio": 29.387,
+      "fin": 29.44
+    },
+    {
+      "texto": "referencia",
+      "inicio": 29.498,
+      "fin": 30.08
+    },
+    {
+      "texto": "del",
+      "inicio": 30.14,
+      "fin": 30.32
+    },
+    {
+      "texto": "IVA:",
+      "inicio": 30.36,
+      "fin": 31.2
+    },
+    {
+      "texto": "ahora",
+      "inicio": 31.253,
+      "fin": 31.52
+    },
+    {
+      "texto": "apunta",
+      "inicio": 31.6,
+      "fin": 32.08
+    },
+    {
+      "texto": "a",
+      "inicio": 32.2,
+      "fin": 32.32
+    },
+    {
+      "texto": "E",
+      "inicio": 32.48,
+      "fin": 32.64
+    },
+    {
+      "texto": "dos,",
+      "inicio": 32.74,
+      "fin": 33.24
+    },
+    {
+      "texto": "que",
+      "inicio": 33.29,
+      "fin": 33.44
+    },
+    {
+      "texto": "está",
+      "inicio": 33.504,
+      "fin": 33.76
+    },
+    {
+      "texto": "vacía.",
+      "inicio": 33.88,
+      "fin": 34.8
+    }
+  ]
+}

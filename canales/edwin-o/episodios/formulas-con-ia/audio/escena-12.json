@@ -1,0 +1,215 @@
+{
+  "num": "12",
+  "titulo": "Parte 2: dónde están los datos",
+  "texto": "Parte dos: dile dónde están los datos. Los encabezados están en la fila uno, las ventas en la columna C, desde la fila dos, y la fórmula va en la celda D dos. Ahora la IA sabe exactamente qué celda mirar.",
+  "texto_tts": "Parte dos: dile dónde están los datos. Los encabezados están en la fila uno, las ventas en la columna C, desde la fila dos, y la fórmula va en la celda D dos. Ahora la IA sabe exactamente qué celda mirar.",
+  "modelo": "eleven_v3",
+  "duracion": 17.28,
+  "palabras": [
+    {
+      "texto": "Parte",
+      "inicio": 0.0,
+      "fin": 0.44
+    },
+    {
+      "texto": "dos:",
+      "inicio": 0.49,
+      "fin": 1.0
+    },
+    {
+      "texto": "dile",
+      "inicio": 1.072,
+      "fin": 1.36
+    },
+    {
+      "texto": "dónde",
+      "inicio": 1.52,
+      "fin": 1.92
+    },
+    {
+      "texto": "están",
+      "inicio": 1.973,
+      "fin": 2.24
+    },
+    {
+      "texto": "los",
+      "inicio": 2.28,
+      "fin": 2.4
+    },
+    {
+      "texto": "datos.",
+      "inicio": 2.493,
+      "fin": 3.12
+    },
+    {
+      "texto": "Los",
+      "inicio": 3.4,
+      "fin": 4.24
+    },
+    {
+      "texto": "encabezados",
+      "inicio": 4.28,
+      "fin": 4.96
+    },
+    {
+      "texto": "están",
+      "inicio": 5.013,
+      "fin": 5.28
+    },
+    {
+      "texto": "en",
+      "inicio": 5.307,
+      "fin": 5.36
+    },
+    {
+      "texto": "la",
+      "inicio": 5.387,
+      "fin": 5.44
+    },
+    {
+      "texto": "fila",
+      "inicio": 5.504,
+      "fin": 5.76
+    },
+    {
+      "texto": "uno,",
+      "inicio": 5.84,
+      "fin": 6.48
+    },
+    {
+      "texto": "las",
+      "inicio": 6.52,
+      "fin": 6.64
+    },
+    {
+      "texto": "ventas",
+      "inicio": 6.72,
+      "fin": 7.2
+    },
+    {
+      "texto": "en",
+      "inicio": 7.227,
+      "fin": 7.28
+    },
+    {
+      "texto": "la",
+      "inicio": 7.307,
+      "fin": 7.36
+    },
+    {
+      "texto": "columna",
+      "inicio": 7.42,
+      "fin": 7.84
+    },
+    {
+      "texto": "C,",
+      "inicio": 8.0,
+      "fin": 8.24
+    },
+    {
+      "texto": "desde",
+      "inicio": 8.307,
+      "fin": 8.64
+    },
+    {
+      "texto": "la",
+      "inicio": 8.667,
+      "fin": 8.72
+    },
+    {
+      "texto": "fila",
+      "inicio": 8.784,
+      "fin": 9.04
+    },
+    {
+      "texto": "dos,",
+      "inicio": 9.14,
+      "fin": 9.6
+    },
+    {
+      "texto": "y",
+      "inicio": 9.92,
+      "fin": 10.24
+    },
+    {
+      "texto": "la",
+      "inicio": 10.267,
+      "fin": 10.32
+    },
+    {
+      "texto": "fórmula",
+      "inicio": 10.4,
+      "fin": 10.88
+    },
+    {
+      "texto": "va",
+      "inicio": 10.96,
+      "fin": 11.12
+    },
+    {
+      "texto": "en",
+      "inicio": 11.2,
+      "fin": 11.36
+    },
+    {
+      "texto": "la",
+      "inicio": 11.413,
+      "fin": 11.52
+    },
+    {
+      "texto": "celda",
+      "inicio": 11.6,
+      "fin": 12.0
+    },
+    {
+      "texto": "D",
+      "inicio": 12.24,
+      "fin": 12.48
+    },
+    {
+      "texto": "dos.",
+      "inicio": 12.6,
+      "fin": 13.12
+    },
+    {
+      "texto": "Ahora",
+      "inicio": 13.467,
+      "fin": 14.32
+    },
+    {
+      "texto": "la",
+      "inicio": 14.373,
+      "fin": 14.48
+    },
+    {
+      "texto": "IA",
+      "inicio": 14.587,
+      "fin": 14.8
+    },
+    {
+      "texto": "sabe",
+      "inicio": 14.896,
+      "fin": 15.28
+    },
+    {
+      "texto": "exactamente",
+      "inicio": 15.347,
+      "fin": 16.08
+    },
+    {
+      "texto": "qué",
+      "inicio": 16.16,
+      "fin": 16.4
+    },
+    {
+      "texto": "celda",
+      "inicio": 16.48,
+      "fin": 16.88
+    },
+    {
+      "texto": "mirar.",
+      "inicio": 16.92,
+      "fin": 17.28
+    }
+  ]
+}

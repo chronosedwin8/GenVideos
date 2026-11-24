@@ -1,0 +1,83 @@
+{
+  "titulo": "Automatiza Excel con Python: 12 reportes en segundos (pandas, paso a paso)",
+  "titulos_alternativos": [
+    "Crea 12 reportes de Excel en 8 segundos con Python",
+    "Python para Excel: deja de hacer reportes a mano"
+  ],
+  "intro": "Un reporte de Excel por cada sucursal, con sus ventas y su resumen por vendedor, en unos segundos y con un programa de 12 líneas. Te explico cada línea con pandas y openpyxl, aunque nunca hayas programado, y los errores de la primera vez.",
+  "aprenderas": [
+    "Instalar Python y las bibliotecas (pandas y openpyxl)",
+    "Leer un Excel con pandas",
+    "Separar por sucursal con groupby",
+    "Escribir un libro con varias hojas",
+    "Adaptarlo a tus datos cambiando una palabra",
+    "Agregar totales con openpyxl",
+    "Los errores más comunes"
+  ],
+  "bloque": "Código del video (reportes.py):\nimport pandas as pd\nfrom pathlib import Path\n\nventas = pd.read_excel(\"ventas.xlsx\")\ncarpeta = Path(\"reportes\")\ncarpeta.mkdir(exist_ok=True)\n\nfor sucursal, datos in ventas.groupby(\"Sucursal\"):\n    archivo = carpeta / f\"Reporte {sucursal}.xlsx\"\n    resumen = datos.groupby(\"Vendedor\")[\"Monto\"].sum()\n    with pd.ExcelWriter(archivo) as excel:\n        datos.to_excel(excel, sheet_name=\"Ventas\", index=False)\n        resumen.to_excel(excel, sheet_name=\"Resumen\")\n    print(f\"Listo: {archivo.name} ({len(datos)} ventas)\")\n\nInstalación: pip install pandas openpyxl",
+  "capitulos": {
+    "01": "12 reportes en segundos",
+    "03": "Por qué Python, y por qué ahora",
+    "05": "El problema",
+    "06": "Paso 1: instala Python",
+    "07": "Paso 2: la carpeta",
+    "08": "Paso 3: lee el Excel",
+    "09": "Paso 4: la carpeta de reportes",
+    "10": "Paso 5: el ciclo con groupby",
+    "11": "Paso 6: nombre y resumen",
+    "12": "Paso 7: escribe el libro",
+    "13": "Paso 8: ejecuta",
+    "14": "El resultado",
+    "15": "Adáptalo a tus datos",
+    "16": "Nivel pro: total y ancho",
+    "17": "Errores de la primera vez",
+    "18": "Que trabaje solo"
+  },
+  "enlaces": [
+    "🐍 Python: https://www.python.org",
+    "🌐 Plantillas y cursos: https://www.edwinortiz.net"
+  ],
+  "fuentes": [
+    "Stack Overflow Developer Survey 2025: https://survey.stackoverflow.co/2025/",
+    "pandas, read_excel y to_excel: https://pandas.pydata.org/docs/"
+  ],
+  "hashtags": [
+    "#Python",
+    "#Excel",
+    "#Automatizacion"
+  ],
+  "tags": [
+    "automatizar excel con python",
+    "python excel",
+    "pandas excel",
+    "openpyxl",
+    "reportes excel python",
+    "python para principiantes",
+    "automatizacion excel",
+    "groupby pandas",
+    "python para oficina",
+    "edwin o"
+  ],
+  "playlist": "Python práctico",
+  "programar": "2026-12-08 07:00",
+  "shorts": [
+    {
+      "id": "short-1",
+      "titulo": "12 reportes de Excel en 8 segundos con Python #shorts",
+      "descripcion": "Un ciclo for con groupby y to_excel. Video completo en el canal.",
+      "tags": [
+        "python excel"
+      ],
+      "programar": "2026-12-09 12:00"
+    },
+    {
+      "id": "short-2",
+      "titulo": "Cambia UNA palabra y salen 48 reportes (Python) #shorts",
+      "descripcion": "groupby(\"Vendedor\") en vez de groupby(\"Sucursal\"). Video completo en el canal.",
+      "tags": [
+        "pandas groupby"
+      ],
+      "programar": "2026-12-12 12:00"
+    }
+  ]
+}

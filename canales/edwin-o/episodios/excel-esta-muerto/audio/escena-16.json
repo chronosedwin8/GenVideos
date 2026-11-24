@@ -1,0 +1,260 @@
+{
+  "num": "16",
+  "titulo": "Paso 3",
+  "texto": "Y paso tres: automatiza lo que repites cada semana. Con Python, con Power Query o con macros. Hace poco te mostré cómo crear doce reportes en segundos con un programa de doce líneas. Ese es el tipo de cosa que te hace imprescindible en tu trabajo, con o sin IA.",
+  "texto_tts": "Y paso tres: automatiza lo que repites cada semana. Con Python, con Power Query o con macros. Hace poco te mostré cómo crear doce reportes en segundos con un programa de doce líneas. Ese es el tipo de cosa que te hace imprescindible en tu trabajo, con o sin IA.",
+  "modelo": "eleven_v3",
+  "duracion": 21.28,
+  "palabras": [
+    {
+      "texto": "Y",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "paso",
+      "inicio": 0.144,
+      "fin": 0.4
+    },
+    {
+      "texto": "tres:",
+      "inicio": 0.496,
+      "fin": 0.96
+    },
+    {
+      "texto": "automatiza",
+      "inicio": 1.07,
+      "fin": 2.24
+    },
+    {
+      "texto": "lo",
+      "inicio": 2.347,
+      "fin": 2.56
+    },
+    {
+      "texto": "que",
+      "inicio": 2.58,
+      "fin": 2.64
+    },
+    {
+      "texto": "repites",
+      "inicio": 2.72,
+      "fin": 3.36
+    },
+    {
+      "texto": "cada",
+      "inicio": 3.44,
+      "fin": 3.76
+    },
+    {
+      "texto": "semana.",
+      "inicio": 3.84,
+      "fin": 4.4
+    },
+    {
+      "texto": "Con",
+      "inicio": 4.62,
+      "fin": 5.28
+    },
+    {
+      "texto": "Python,",
+      "inicio": 5.371,
+      "fin": 6.48
+    },
+    {
+      "texto": "con",
+      "inicio": 6.52,
+      "fin": 6.64
+    },
+    {
+      "texto": "Power",
+      "inicio": 6.707,
+      "fin": 7.04
+    },
+    {
+      "texto": "Query",
+      "inicio": 7.147,
+      "fin": 7.68
+    },
+    {
+      "texto": "o",
+      "inicio": 7.92,
+      "fin": 8.16
+    },
+    {
+      "texto": "con",
+      "inicio": 8.2,
+      "fin": 8.32
+    },
+    {
+      "texto": "macros.",
+      "inicio": 8.411,
+      "fin": 9.04
+    },
+    {
+      "texto": "Hace",
+      "inicio": 9.52,
+      "fin": 10.08
+    },
+    {
+      "texto": "poco",
+      "inicio": 10.16,
+      "fin": 10.48
+    },
+    {
+      "texto": "te",
+      "inicio": 10.587,
+      "fin": 10.8
+    },
+    {
+      "texto": "mostré",
+      "inicio": 10.84,
+      "fin": 11.12
+    },
+    {
+      "texto": "cómo",
+      "inicio": 11.152,
+      "fin": 11.28
+    },
+    {
+      "texto": "crear",
+      "inicio": 11.347,
+      "fin": 11.68
+    },
+    {
+      "texto": "doce",
+      "inicio": 11.76,
+      "fin": 12.0
+    },
+    {
+      "texto": "reportes",
+      "inicio": 12.057,
+      "fin": 12.56
+    },
+    {
+      "texto": "en",
+      "inicio": 12.587,
+      "fin": 12.64
+    },
+    {
+      "texto": "segundos",
+      "inicio": 12.756,
+      "fin": 13.68
+    },
+    {
+      "texto": "con",
+      "inicio": 13.76,
+      "fin": 14.0
+    },
+    {
+      "texto": "un",
+      "inicio": 14.027,
+      "fin": 14.08
+    },
+    {
+      "texto": "programa",
+      "inicio": 14.133,
+      "fin": 14.56
+    },
+    {
+      "texto": "de",
+      "inicio": 14.613,
+      "fin": 14.72
+    },
+    {
+      "texto": "doce",
+      "inicio": 14.8,
+      "fin": 15.12
+    },
+    {
+      "texto": "líneas.",
+      "inicio": 15.2,
+      "fin": 15.76
+    },
+    {
+      "texto": "Ese",
+      "inicio": 16.08,
+      "fin": 16.48
+    },
+    {
+      "texto": "es",
+      "inicio": 16.507,
+      "fin": 16.56
+    },
+    {
+      "texto": "el",
+      "inicio": 16.613,
+      "fin": 16.72
+    },
+    {
+      "texto": "tipo",
+      "inicio": 16.768,
+      "fin": 16.96
+    },
+    {
+      "texto": "de",
+      "inicio": 17.013,
+      "fin": 17.12
+    },
+    {
+      "texto": "cosa",
+      "inicio": 17.168,
+      "fin": 17.36
+    },
+    {
+      "texto": "que",
+      "inicio": 17.4,
+      "fin": 17.52
+    },
+    {
+      "texto": "te",
+      "inicio": 17.547,
+      "fin": 17.6
+    },
+    {
+      "texto": "hace",
+      "inicio": 17.632,
+      "fin": 17.76
+    },
+    {
+      "texto": "imprescindible",
+      "inicio": 17.817,
+      "fin": 18.64
+    },
+    {
+      "texto": "en",
+      "inicio": 18.667,
+      "fin": 18.72
+    },
+    {
+      "texto": "tu",
+      "inicio": 18.773,
+      "fin": 18.88
+    },
+    {
+      "texto": "trabajo,",
+      "inicio": 18.94,
+      "fin": 19.84
+    },
+    {
+      "texto": "con",
+      "inicio": 19.92,
+      "fin": 20.16
+    },
+    {
+      "texto": "o",
+      "inicio": 20.32,
+      "fin": 20.48
+    },
+    {
+      "texto": "sin",
+      "inicio": 20.54,
+      "fin": 20.72
+    },
+    {
+      "texto": "IA.",
+      "inicio": 20.88,
+      "fin": 21.28
+    }
+  ]
+}

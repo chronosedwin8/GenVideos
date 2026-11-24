@@ -1,0 +1,265 @@
+{
+  "num": "07",
+  "titulo": "Los comparadores",
+  "texto": "Para escribir condiciones usas comparadores. Mayor que, menor que, mayor o igual, y menor o igual. Para preguntar si dos cosas son iguales, se usan dos signos de igual, no uno. Y para preguntar si son diferentes, signo de admiración e igual. Apréndete esos seis, y puedes escribir casi cualquier condición.",
+  "texto_tts": "Para escribir condiciones usas comparadores. Mayor que, menor que, mayor o igual, y menor o igual. Para preguntar si dos cosas son iguales, se usan dos signos de igual, no uno. Y para preguntar si son diferentes, signo de admiración e igual. Apréndete esos seis, y puedes escribir casi cualquier condición.",
+  "modelo": "eleven_v3",
+  "duracion": 23.28,
+  "palabras": [
+    {
+      "texto": "Para",
+      "inicio": 0.0,
+      "fin": 0.16
+    },
+    {
+      "texto": "escribir",
+      "inicio": 0.2,
+      "fin": 0.48
+    },
+    {
+      "texto": "condiciones",
+      "inicio": 0.533,
+      "fin": 1.12
+    },
+    {
+      "texto": "usas",
+      "inicio": 1.2,
+      "fin": 1.52
+    },
+    {
+      "texto": "comparadores.",
+      "inicio": 1.577,
+      "fin": 2.56
+    },
+    {
+      "texto": "Mayor",
+      "inicio": 2.693,
+      "fin": 3.36
+    },
+    {
+      "texto": "que,",
+      "inicio": 3.42,
+      "fin": 3.68
+    },
+    {
+      "texto": "menor",
+      "inicio": 3.733,
+      "fin": 4.0
+    },
+    {
+      "texto": "que,",
+      "inicio": 4.1,
+      "fin": 4.48
+    },
+    {
+      "texto": "mayor",
+      "inicio": 4.573,
+      "fin": 5.04
+    },
+    {
+      "texto": "o",
+      "inicio": 5.16,
+      "fin": 5.28
+    },
+    {
+      "texto": "igual,",
+      "inicio": 5.347,
+      "fin": 5.76
+    },
+    {
+      "texto": "y",
+      "inicio": 5.88,
+      "fin": 6.0
+    },
+    {
+      "texto": "menor",
+      "inicio": 6.067,
+      "fin": 6.4
+    },
+    {
+      "texto": "o",
+      "inicio": 6.52,
+      "fin": 6.64
+    },
+    {
+      "texto": "igual.",
+      "inicio": 6.707,
+      "fin": 7.2
+    },
+    {
+      "texto": "Para",
+      "inicio": 7.408,
+      "fin": 8.24
+    },
+    {
+      "texto": "preguntar",
+      "inicio": 8.288,
+      "fin": 8.8
+    },
+    {
+      "texto": "si",
+      "inicio": 8.853,
+      "fin": 8.96
+    },
+    {
+      "texto": "dos",
+      "inicio": 9.0,
+      "fin": 9.12
+    },
+    {
+      "texto": "cosas",
+      "inicio": 9.173,
+      "fin": 9.44
+    },
+    {
+      "texto": "son",
+      "inicio": 9.48,
+      "fin": 9.6
+    },
+    {
+      "texto": "iguales,",
+      "inicio": 9.68,
+      "fin": 10.24
+    },
+    {
+      "texto": "se",
+      "inicio": 10.32,
+      "fin": 10.48
+    },
+    {
+      "texto": "usan",
+      "inicio": 10.533,
+      "fin": 10.8
+    },
+    {
+      "texto": "dos",
+      "inicio": 10.9,
+      "fin": 11.2
+    },
+    {
+      "texto": "signos",
+      "inicio": 11.28,
+      "fin": 11.68
+    },
+    {
+      "texto": "de",
+      "inicio": 11.707,
+      "fin": 11.76
+    },
+    {
+      "texto": "igual,",
+      "inicio": 11.827,
+      "fin": 12.48
+    },
+    {
+      "texto": "no",
+      "inicio": 12.533,
+      "fin": 12.64
+    },
+    {
+      "texto": "uno.",
+      "inicio": 12.74,
+      "fin": 13.48
+    },
+    {
+      "texto": "Y",
+      "inicio": 13.7,
+      "fin": 13.92
+    },
+    {
+      "texto": "para",
+      "inicio": 13.968,
+      "fin": 14.16
+    },
+    {
+      "texto": "preguntar",
+      "inicio": 14.192,
+      "fin": 14.56
+    },
+    {
+      "texto": "si",
+      "inicio": 14.613,
+      "fin": 14.72
+    },
+    {
+      "texto": "son",
+      "inicio": 14.78,
+      "fin": 14.96
+    },
+    {
+      "texto": "diferentes,",
+      "inicio": 15.025,
+      "fin": 15.76
+    },
+    {
+      "texto": "signo",
+      "inicio": 15.856,
+      "fin": 16.32
+    },
+    {
+      "texto": "de",
+      "inicio": 16.347,
+      "fin": 16.4
+    },
+    {
+      "texto": "admiración",
+      "inicio": 16.453,
+      "fin": 17.28
+    },
+    {
+      "texto": "e",
+      "inicio": 17.44,
+      "fin": 17.6
+    },
+    {
+      "texto": "igual.",
+      "inicio": 17.667,
+      "fin": 18.16
+    },
+    {
+      "texto": "Apréndete",
+      "inicio": 18.42,
+      "fin": 19.52
+    },
+    {
+      "texto": "esos",
+      "inicio": 19.568,
+      "fin": 19.76
+    },
+    {
+      "texto": "seis,",
+      "inicio": 19.84,
+      "fin": 20.24
+    },
+    {
+      "texto": "y",
+      "inicio": 20.36,
+      "fin": 20.48
+    },
+    {
+      "texto": "puedes",
+      "inicio": 20.526,
+      "fin": 20.8
+    },
+    {
+      "texto": "escribir",
+      "inicio": 20.853,
+      "fin": 21.44
+    },
+    {
+      "texto": "casi",
+      "inicio": 21.552,
+      "fin": 22.0
+    },
+    {
+      "texto": "cualquier",
+      "inicio": 22.056,
+      "fin": 22.56
+    },
+    {
+      "texto": "condición.",
+      "inicio": 22.608,
+      "fin": 23.28
+    }
+  ]
+}

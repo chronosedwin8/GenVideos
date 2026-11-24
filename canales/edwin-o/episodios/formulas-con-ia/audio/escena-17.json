@@ -1,0 +1,305 @@
+{
+  "num": "17",
+  "titulo": "Nivel pro: las tasas en celdas",
+  "texto": "Nivel pro. Pídele a la IA: \"pon las tasas en una tabla aparte\". Te va a dar algo así, con BUSCARX. El menos uno del final significa: busca el valor exacto o el siguiente menor. ¿La ventaja? Si mañana la empresa sube la comisión al seis por ciento, cambias una celda, y listo. Nada escondido dentro de la fórmula.",
+  "texto_tts": "Nivel pro. Pídele a la IA: \"pon las tasas en una tabla aparte\". Te va a dar algo así, con BUSCARX. El menos uno del final significa: busca el valor exacto o el siguiente menor. ¿La ventaja? Si mañana la empresa sube la comisión al seis por ciento, cambias una celda, y listo. Nada escondido dentro de la fórmula.",
+  "modelo": "eleven_v3",
+  "duracion": 24.72,
+  "palabras": [
+    {
+      "texto": "Nivel",
+      "inicio": 0.0,
+      "fin": 0.32
+    },
+    {
+      "texto": "pro.",
+      "inicio": 0.42,
+      "fin": 0.88
+    },
+    {
+      "texto": "Pídele",
+      "inicio": 1.08,
+      "fin": 1.52
+    },
+    {
+      "texto": "a",
+      "inicio": 1.56,
+      "fin": 1.6
+    },
+    {
+      "texto": "la",
+      "inicio": 1.627,
+      "fin": 1.68
+    },
+    {
+      "texto": "IA:",
+      "inicio": 1.813,
+      "fin": 2.24
+    },
+    {
+      "texto": "\"pon",
+      "inicio": 2.48,
+      "fin": 2.8
+    },
+    {
+      "texto": "las",
+      "inicio": 2.86,
+      "fin": 3.04
+    },
+    {
+      "texto": "tasas",
+      "inicio": 3.12,
+      "fin": 3.52
+    },
+    {
+      "texto": "en",
+      "inicio": 3.627,
+      "fin": 3.84
+    },
+    {
+      "texto": "una",
+      "inicio": 3.88,
+      "fin": 4.0
+    },
+    {
+      "texto": "tabla",
+      "inicio": 4.053,
+      "fin": 4.32
+    },
+    {
+      "texto": "aparte\".",
+      "inicio": 4.387,
+      "fin": 4.96
+    },
+    {
+      "texto": "Te",
+      "inicio": 5.227,
+      "fin": 5.76
+    },
+    {
+      "texto": "va",
+      "inicio": 5.787,
+      "fin": 5.84
+    },
+    {
+      "texto": "a",
+      "inicio": 5.88,
+      "fin": 5.92
+    },
+    {
+      "texto": "dar",
+      "inicio": 5.94,
+      "fin": 6.0
+    },
+    {
+      "texto": "algo",
+      "inicio": 6.032,
+      "fin": 6.16
+    },
+    {
+      "texto": "así,",
+      "inicio": 6.24,
+      "fin": 6.56
+    },
+    {
+      "texto": "con",
+      "inicio": 6.68,
+      "fin": 7.04
+    },
+    {
+      "texto": "BUSCARX.",
+      "inicio": 7.1,
+      "fin": 7.92
+    },
+    {
+      "texto": "El",
+      "inicio": 8.107,
+      "fin": 8.48
+    },
+    {
+      "texto": "menos",
+      "inicio": 8.547,
+      "fin": 8.88
+    },
+    {
+      "texto": "uno",
+      "inicio": 8.96,
+      "fin": 9.2
+    },
+    {
+      "texto": "del",
+      "inicio": 9.26,
+      "fin": 9.44
+    },
+    {
+      "texto": "final",
+      "inicio": 9.52,
+      "fin": 9.92
+    },
+    {
+      "texto": "significa:",
+      "inicio": 10.008,
+      "fin": 11.04
+    },
+    {
+      "texto": "busca",
+      "inicio": 11.133,
+      "fin": 11.6
+    },
+    {
+      "texto": "el",
+      "inicio": 11.627,
+      "fin": 11.68
+    },
+    {
+      "texto": "valor",
+      "inicio": 11.747,
+      "fin": 12.08
+    },
+    {
+      "texto": "exacto",
+      "inicio": 12.213,
+      "fin": 13.04
+    },
+    {
+      "texto": "o",
+      "inicio": 13.2,
+      "fin": 13.36
+    },
+    {
+      "texto": "el",
+      "inicio": 13.413,
+      "fin": 13.52
+    },
+    {
+      "texto": "siguiente",
+      "inicio": 13.568,
+      "fin": 14.0
+    },
+    {
+      "texto": "menor.",
+      "inicio": 14.067,
+      "fin": 14.56
+    },
+    {
+      "texto": "¿La",
+      "inicio": 15.0,
+      "fin": 15.52
+    },
+    {
+      "texto": "ventaja?",
+      "inicio": 15.568,
+      "fin": 16.48
+    },
+    {
+      "texto": "Si",
+      "inicio": 16.587,
+      "fin": 16.8
+    },
+    {
+      "texto": "mañana",
+      "inicio": 16.846,
+      "fin": 17.12
+    },
+    {
+      "texto": "la",
+      "inicio": 17.173,
+      "fin": 17.28
+    },
+    {
+      "texto": "empresa",
+      "inicio": 17.33,
+      "fin": 17.68
+    },
+    {
+      "texto": "sube",
+      "inicio": 17.74,
+      "fin": 18.0
+    },
+    {
+      "texto": "la",
+      "inicio": 18.027,
+      "fin": 18.08
+    },
+    {
+      "texto": "comisión",
+      "inicio": 18.12,
+      "fin": 18.56
+    },
+    {
+      "texto": "al",
+      "inicio": 18.587,
+      "fin": 18.64
+    },
+    {
+      "texto": "seis",
+      "inicio": 18.688,
+      "fin": 18.88
+    },
+    {
+      "texto": "por",
+      "inicio": 18.94,
+      "fin": 19.12
+    },
+    {
+      "texto": "ciento,",
+      "inicio": 19.16,
+      "fin": 20.24
+    },
+    {
+      "texto": "cambias",
+      "inicio": 20.288,
+      "fin": 20.64
+    },
+    {
+      "texto": "una",
+      "inicio": 20.7,
+      "fin": 20.88
+    },
+    {
+      "texto": "celda,",
+      "inicio": 20.96,
+      "fin": 21.6
+    },
+    {
+      "texto": "y",
+      "inicio": 21.72,
+      "fin": 21.84
+    },
+    {
+      "texto": "listo.",
+      "inicio": 21.92,
+      "fin": 22.4
+    },
+    {
+      "texto": "Nada",
+      "inicio": 22.68,
+      "fin": 23.12
+    },
+    {
+      "texto": "escondido",
+      "inicio": 23.173,
+      "fin": 23.68
+    },
+    {
+      "texto": "dentro",
+      "inicio": 23.726,
+      "fin": 24.0
+    },
+    {
+      "texto": "de",
+      "inicio": 24.027,
+      "fin": 24.08
+    },
+    {
+      "texto": "la",
+      "inicio": 24.107,
+      "fin": 24.16
+    },
+    {
+      "texto": "fórmula.",
+      "inicio": 24.24,
+      "fin": 24.72
+    }
+  ]
+}

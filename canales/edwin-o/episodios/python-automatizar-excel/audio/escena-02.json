@@ -1,0 +1,255 @@
+{
+  "num": "02",
+  "titulo": "Presentación",
+  "texto": "¡Bienvenidos, amigos del canal! Vamos en busca del poder tecnológico. Hoy vamos a automatizar Excel con Python, paso a paso, aunque nunca hayas programado. Te explico cada línea, te doy el código completo, y al final te enseño los errores que casi todo el mundo comete la primera vez.",
+  "texto_tts": "[excited] ¡Bienvenidos, amigos del canal! Vamos en busca del poder tecnológico. Hoy vamos a automatizar Excel con Python, paso a paso, aunque nunca hayas programado. Te explico cada línea, te doy el código completo, y al final te enseño los errores que casi todo el mundo comete la primera vez.",
+  "modelo": "eleven_v3",
+  "duracion": 21.84,
+  "palabras": [
+    {
+      "texto": "¡Bienvenidos,",
+      "inicio": 0.18,
+      "fin": 0.92
+    },
+    {
+      "texto": "amigos",
+      "inicio": 0.949,
+      "fin": 1.12
+    },
+    {
+      "texto": "del",
+      "inicio": 1.14,
+      "fin": 1.2
+    },
+    {
+      "texto": "canal!",
+      "inicio": 1.28,
+      "fin": 1.76
+    },
+    {
+      "texto": "Vamos",
+      "inicio": 1.88,
+      "fin": 2.24
+    },
+    {
+      "texto": "en",
+      "inicio": 2.293,
+      "fin": 2.4
+    },
+    {
+      "texto": "busca",
+      "inicio": 2.48,
+      "fin": 2.88
+    },
+    {
+      "texto": "del",
+      "inicio": 2.96,
+      "fin": 3.2
+    },
+    {
+      "texto": "poder",
+      "inicio": 3.307,
+      "fin": 3.84
+    },
+    {
+      "texto": "tecnológico.",
+      "inicio": 3.904,
+      "fin": 4.88
+    },
+    {
+      "texto": "Hoy",
+      "inicio": 5.04,
+      "fin": 5.52
+    },
+    {
+      "texto": "vamos",
+      "inicio": 5.587,
+      "fin": 5.92
+    },
+    {
+      "texto": "a",
+      "inicio": 5.96,
+      "fin": 6.0
+    },
+    {
+      "texto": "automatizar",
+      "inicio": 6.06,
+      "fin": 6.72
+    },
+    {
+      "texto": "Excel",
+      "inicio": 6.84,
+      "fin": 7.44
+    },
+    {
+      "texto": "con",
+      "inicio": 7.54,
+      "fin": 7.84
+    },
+    {
+      "texto": "Python,",
+      "inicio": 7.92,
+      "fin": 8.88
+    },
+    {
+      "texto": "paso",
+      "inicio": 8.928,
+      "fin": 9.12
+    },
+    {
+      "texto": "a",
+      "inicio": 9.16,
+      "fin": 9.2
+    },
+    {
+      "texto": "paso,",
+      "inicio": 9.28,
+      "fin": 10.08
+    },
+    {
+      "texto": "aunque",
+      "inicio": 10.126,
+      "fin": 10.4
+    },
+    {
+      "texto": "nunca",
+      "inicio": 10.467,
+      "fin": 10.8
+    },
+    {
+      "texto": "hayas",
+      "inicio": 10.88,
+      "fin": 11.28
+    },
+    {
+      "texto": "programado.",
+      "inicio": 11.32,
+      "fin": 12.24
+    },
+    {
+      "texto": "Te",
+      "inicio": 12.32,
+      "fin": 12.48
+    },
+    {
+      "texto": "explico",
+      "inicio": 12.54,
+      "fin": 12.96
+    },
+    {
+      "texto": "cada",
+      "inicio": 13.056,
+      "fin": 13.44
+    },
+    {
+      "texto": "línea,",
+      "inicio": 13.507,
+      "fin": 14.16
+    },
+    {
+      "texto": "te",
+      "inicio": 14.187,
+      "fin": 14.24
+    },
+    {
+      "texto": "doy",
+      "inicio": 14.293,
+      "fin": 14.48
+    },
+    {
+      "texto": "el",
+      "inicio": 14.507,
+      "fin": 14.56
+    },
+    {
+      "texto": "código",
+      "inicio": 14.629,
+      "fin": 15.04
+    },
+    {
+      "texto": "completo,",
+      "inicio": 15.12,
+      "fin": 16.16
+    },
+    {
+      "texto": "y",
+      "inicio": 16.2,
+      "fin": 16.24
+    },
+    {
+      "texto": "al",
+      "inicio": 16.293,
+      "fin": 16.4
+    },
+    {
+      "texto": "final",
+      "inicio": 16.467,
+      "fin": 16.8
+    },
+    {
+      "texto": "te",
+      "inicio": 16.88,
+      "fin": 17.04
+    },
+    {
+      "texto": "enseño",
+      "inicio": 17.104,
+      "fin": 17.44
+    },
+    {
+      "texto": "los",
+      "inicio": 17.48,
+      "fin": 17.6
+    },
+    {
+      "texto": "errores",
+      "inicio": 17.66,
+      "fin": 18.08
+    },
+    {
+      "texto": "que",
+      "inicio": 18.14,
+      "fin": 18.32
+    },
+    {
+      "texto": "casi",
+      "inicio": 18.4,
+      "fin": 18.72
+    },
+    {
+      "texto": "todo",
+      "inicio": 18.784,
+      "fin": 19.04
+    },
+    {
+      "texto": "el",
+      "inicio": 19.093,
+      "fin": 19.2
+    },
+    {
+      "texto": "mundo",
+      "inicio": 19.267,
+      "fin": 19.6
+    },
+    {
+      "texto": "comete",
+      "inicio": 19.68,
+      "fin": 20.24
+    },
+    {
+      "texto": "la",
+      "inicio": 20.32,
+      "fin": 20.48
+    },
+    {
+      "texto": "primera",
+      "inicio": 20.54,
+      "fin": 20.96
+    },
+    {
+      "texto": "vez.",
+      "inicio": 21.08,
+      "fin": 21.84
+    }
+  ]
+}

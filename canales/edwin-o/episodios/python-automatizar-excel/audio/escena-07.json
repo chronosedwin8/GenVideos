@@ -1,0 +1,250 @@
+{
+  "num": "07",
+  "titulo": "Paso 2: la carpeta",
+  "texto": "Paso dos: crea una carpeta y pon ahí tu archivo de ventas. Al lado, crea un archivo de texto llamado reportes punto py. Puedes escribirlo en Visual Studio Code, o incluso en el bloc de notas. Lo importante es que los dos archivos estén en la misma carpeta.",
+  "texto_tts": "Paso dos: crea una carpeta y pon ahí tu archivo de ventas. Al lado, crea un archivo de texto llamado reportes punto py. Puedes escribirlo en Visual Studio Code, o incluso en el bloc de notas. Lo importante es que los dos archivos estén en la misma carpeta.",
+  "modelo": "eleven_v3",
+  "duracion": 20.96,
+  "palabras": [
+    {
+      "texto": "Paso",
+      "inicio": 0.0,
+      "fin": 0.24
+    },
+    {
+      "texto": "dos:",
+      "inicio": 0.34,
+      "fin": 0.72
+    },
+    {
+      "texto": "crea",
+      "inicio": 1.008,
+      "fin": 2.16
+    },
+    {
+      "texto": "una",
+      "inicio": 2.2,
+      "fin": 2.32
+    },
+    {
+      "texto": "carpeta",
+      "inicio": 2.384,
+      "fin": 2.96
+    },
+    {
+      "texto": "y",
+      "inicio": 3.36,
+      "fin": 3.76
+    },
+    {
+      "texto": "pon",
+      "inicio": 3.82,
+      "fin": 4.0
+    },
+    {
+      "texto": "ahí",
+      "inicio": 4.053,
+      "fin": 4.24
+    },
+    {
+      "texto": "tu",
+      "inicio": 4.347,
+      "fin": 4.56
+    },
+    {
+      "texto": "archivo",
+      "inicio": 4.62,
+      "fin": 5.04
+    },
+    {
+      "texto": "de",
+      "inicio": 5.067,
+      "fin": 5.12
+    },
+    {
+      "texto": "ventas.",
+      "inicio": 5.223,
+      "fin": 6.0
+    },
+    {
+      "texto": "Al",
+      "inicio": 6.373,
+      "fin": 7.12
+    },
+    {
+      "texto": "lado,",
+      "inicio": 7.184,
+      "fin": 7.52
+    },
+    {
+      "texto": "crea",
+      "inicio": 7.68,
+      "fin": 8.32
+    },
+    {
+      "texto": "un",
+      "inicio": 8.347,
+      "fin": 8.4
+    },
+    {
+      "texto": "archivo",
+      "inicio": 8.45,
+      "fin": 8.8
+    },
+    {
+      "texto": "de",
+      "inicio": 8.827,
+      "fin": 8.88
+    },
+    {
+      "texto": "texto",
+      "inicio": 8.947,
+      "fin": 9.28
+    },
+    {
+      "texto": "llamado",
+      "inicio": 9.312,
+      "fin": 9.68
+    },
+    {
+      "texto": "reportes",
+      "inicio": 9.783,
+      "fin": 10.72
+    },
+    {
+      "texto": "punto",
+      "inicio": 10.787,
+      "fin": 11.12
+    },
+    {
+      "texto": "py.",
+      "inicio": 11.333,
+      "fin": 11.84
+    },
+    {
+      "texto": "Puedes",
+      "inicio": 12.44,
+      "fin": 13.28
+    },
+    {
+      "texto": "escribirlo",
+      "inicio": 13.32,
+      "fin": 13.68
+    },
+    {
+      "texto": "en",
+      "inicio": 13.707,
+      "fin": 13.76
+    },
+    {
+      "texto": "Visual",
+      "inicio": 13.806,
+      "fin": 14.08
+    },
+    {
+      "texto": "Studio",
+      "inicio": 14.126,
+      "fin": 14.4
+    },
+    {
+      "texto": "Code,",
+      "inicio": 14.464,
+      "fin": 14.96
+    },
+    {
+      "texto": "o",
+      "inicio": 15.0,
+      "fin": 15.04
+    },
+    {
+      "texto": "incluso",
+      "inicio": 15.11,
+      "fin": 15.6
+    },
+    {
+      "texto": "en",
+      "inicio": 15.653,
+      "fin": 15.76
+    },
+    {
+      "texto": "el",
+      "inicio": 15.787,
+      "fin": 15.84
+    },
+    {
+      "texto": "bloc",
+      "inicio": 15.888,
+      "fin": 16.08
+    },
+    {
+      "texto": "de",
+      "inicio": 16.107,
+      "fin": 16.16
+    },
+    {
+      "texto": "notas.",
+      "inicio": 16.227,
+      "fin": 16.72
+    },
+    {
+      "texto": "Lo",
+      "inicio": 16.987,
+      "fin": 17.52
+    },
+    {
+      "texto": "importante",
+      "inicio": 17.578,
+      "fin": 18.16
+    },
+    {
+      "texto": "es",
+      "inicio": 18.24,
+      "fin": 18.4
+    },
+    {
+      "texto": "que",
+      "inicio": 18.42,
+      "fin": 18.48
+    },
+    {
+      "texto": "los",
+      "inicio": 18.52,
+      "fin": 18.64
+    },
+    {
+      "texto": "dos",
+      "inicio": 18.7,
+      "fin": 18.88
+    },
+    {
+      "texto": "archivos",
+      "inicio": 18.951,
+      "fin": 19.52
+    },
+    {
+      "texto": "estén",
+      "inicio": 19.58,
+      "fin": 19.84
+    },
+    {
+      "texto": "en",
+      "inicio": 19.867,
+      "fin": 19.92
+    },
+    {
+      "texto": "la",
+      "inicio": 19.973,
+      "fin": 20.08
+    },
+    {
+      "texto": "misma",
+      "inicio": 20.133,
+      "fin": 20.4
+    },
+    {
+      "texto": "carpeta.",
+      "inicio": 20.448,
+      "fin": 20.96
+    }
+  ]
+}

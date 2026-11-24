@@ -1,0 +1,325 @@
+{
+  "num": "12",
+  "titulo": "Paso 7: el gráfico",
+  "texto": "Paso siete, el que viste al principio. Al final de esa misma línea agrega: punto plot, kind igual a bar. La celda muestra una imagen pequeña. Para verla en grande, haz clic derecho sobre la celda y elige mostrar el gráfico sobre las celdas, o usa Control, Alt, Mayúscula y C. Y ahí está tu gráfico de barras, que puedes mover y agrandar.",
+  "texto_tts": "Paso siete, el que viste al principio. Al final de esa misma línea agrega: punto plot, kind igual a bar. La celda muestra una imagen pequeña. Para verla en grande, haz clic derecho sobre la celda y elige mostrar el gráfico sobre las celdas, o usa Control, Alt, Mayúscula y C. Y ahí está tu gráfico de barras, que puedes mover y agrandar.",
+  "modelo": "eleven_v3",
+  "duracion": 24.16,
+  "palabras": [
+    {
+      "texto": "Paso",
+      "inicio": 0.0,
+      "fin": 0.24
+    },
+    {
+      "texto": "siete,",
+      "inicio": 0.28,
+      "fin": 0.72
+    },
+    {
+      "texto": "el",
+      "inicio": 0.773,
+      "fin": 0.88
+    },
+    {
+      "texto": "que",
+      "inicio": 0.9,
+      "fin": 0.96
+    },
+    {
+      "texto": "viste",
+      "inicio": 1.04,
+      "fin": 1.28
+    },
+    {
+      "texto": "al",
+      "inicio": 1.307,
+      "fin": 1.36
+    },
+    {
+      "texto": "principio.",
+      "inicio": 1.416,
+      "fin": 2.08
+    },
+    {
+      "texto": "Al",
+      "inicio": 2.267,
+      "fin": 2.64
+    },
+    {
+      "texto": "final",
+      "inicio": 2.693,
+      "fin": 2.96
+    },
+    {
+      "texto": "de",
+      "inicio": 2.987,
+      "fin": 3.04
+    },
+    {
+      "texto": "esa",
+      "inicio": 3.08,
+      "fin": 3.2
+    },
+    {
+      "texto": "misma",
+      "inicio": 3.253,
+      "fin": 3.52
+    },
+    {
+      "texto": "línea",
+      "inicio": 3.573,
+      "fin": 3.84
+    },
+    {
+      "texto": "agrega:",
+      "inicio": 3.893,
+      "fin": 4.32
+    },
+    {
+      "texto": "punto",
+      "inicio": 4.4,
+      "fin": 4.8
+    },
+    {
+      "texto": "plot,",
+      "inicio": 4.896,
+      "fin": 5.44
+    },
+    {
+      "texto": "kind",
+      "inicio": 5.6,
+      "fin": 6.24
+    },
+    {
+      "texto": "igual",
+      "inicio": 6.307,
+      "fin": 6.64
+    },
+    {
+      "texto": "a",
+      "inicio": 6.68,
+      "fin": 6.72
+    },
+    {
+      "texto": "bar.",
+      "inicio": 6.8,
+      "fin": 7.12
+    },
+    {
+      "texto": "La",
+      "inicio": 7.413,
+      "fin": 8.0
+    },
+    {
+      "texto": "celda",
+      "inicio": 8.08,
+      "fin": 8.4
+    },
+    {
+      "texto": "muestra",
+      "inicio": 8.44,
+      "fin": 8.72
+    },
+    {
+      "texto": "una",
+      "inicio": 8.74,
+      "fin": 8.8
+    },
+    {
+      "texto": "imagen",
+      "inicio": 8.846,
+      "fin": 9.12
+    },
+    {
+      "texto": "pequeña.",
+      "inicio": 9.187,
+      "fin": 9.76
+    },
+    {
+      "texto": "Para",
+      "inicio": 9.84,
+      "fin": 10.16
+    },
+    {
+      "texto": "verla",
+      "inicio": 10.2,
+      "fin": 10.4
+    },
+    {
+      "texto": "en",
+      "inicio": 10.427,
+      "fin": 10.48
+    },
+    {
+      "texto": "grande,",
+      "inicio": 10.537,
+      "fin": 11.36
+    },
+    {
+      "texto": "haz",
+      "inicio": 11.42,
+      "fin": 11.6
+    },
+    {
+      "texto": "clic",
+      "inicio": 11.648,
+      "fin": 11.84
+    },
+    {
+      "texto": "derecho",
+      "inicio": 11.89,
+      "fin": 12.24
+    },
+    {
+      "texto": "sobre",
+      "inicio": 12.28,
+      "fin": 12.48
+    },
+    {
+      "texto": "la",
+      "inicio": 12.533,
+      "fin": 12.64
+    },
+    {
+      "texto": "celda",
+      "inicio": 12.68,
+      "fin": 13.04
+    },
+    {
+      "texto": "y",
+      "inicio": 13.24,
+      "fin": 13.44
+    },
+    {
+      "texto": "elige",
+      "inicio": 13.493,
+      "fin": 13.84
+    },
+    {
+      "texto": "mostrar",
+      "inicio": 13.92,
+      "fin": 14.48
+    },
+    {
+      "texto": "el",
+      "inicio": 14.533,
+      "fin": 14.64
+    },
+    {
+      "texto": "gráfico",
+      "inicio": 14.693,
+      "fin": 15.12
+    },
+    {
+      "texto": "sobre",
+      "inicio": 15.16,
+      "fin": 15.36
+    },
+    {
+      "texto": "las",
+      "inicio": 15.4,
+      "fin": 15.52
+    },
+    {
+      "texto": "celdas,",
+      "inicio": 15.56,
+      "fin": 16.56
+    },
+    {
+      "texto": "o",
+      "inicio": 16.64,
+      "fin": 16.72
+    },
+    {
+      "texto": "usa",
+      "inicio": 16.88,
+      "fin": 17.36
+    },
+    {
+      "texto": "Control,",
+      "inicio": 17.44,
+      "fin": 18.28
+    },
+    {
+      "texto": "Alt,",
+      "inicio": 18.35,
+      "fin": 18.64
+    },
+    {
+      "texto": "Mayúscula",
+      "inicio": 18.74,
+      "fin": 19.52
+    },
+    {
+      "texto": "y",
+      "inicio": 19.64,
+      "fin": 19.76
+    },
+    {
+      "texto": "C.",
+      "inicio": 19.92,
+      "fin": 20.32
+    },
+    {
+      "texto": "Y",
+      "inicio": 20.64,
+      "fin": 20.96
+    },
+    {
+      "texto": "ahí",
+      "inicio": 21.013,
+      "fin": 21.24
+    },
+    {
+      "texto": "está",
+      "inicio": 21.264,
+      "fin": 21.36
+    },
+    {
+      "texto": "tu",
+      "inicio": 21.413,
+      "fin": 21.52
+    },
+    {
+      "texto": "gráfico",
+      "inicio": 21.547,
+      "fin": 21.92
+    },
+    {
+      "texto": "de",
+      "inicio": 21.947,
+      "fin": 22.0
+    },
+    {
+      "texto": "barras,",
+      "inicio": 22.048,
+      "fin": 22.56
+    },
+    {
+      "texto": "que",
+      "inicio": 22.58,
+      "fin": 22.64
+    },
+    {
+      "texto": "puedes",
+      "inicio": 22.686,
+      "fin": 22.96
+    },
+    {
+      "texto": "mover",
+      "inicio": 23.027,
+      "fin": 23.36
+    },
+    {
+      "texto": "y",
+      "inicio": 23.44,
+      "fin": 23.52
+    },
+    {
+      "texto": "agrandar.",
+      "inicio": 23.58,
+      "fin": 24.16
+    }
+  ]
+}

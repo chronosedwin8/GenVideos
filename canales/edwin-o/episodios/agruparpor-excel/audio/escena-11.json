@@ -1,0 +1,285 @@
+{
+  "num": "11",
+  "titulo": "Paso 5: filtra sin tocar nada",
+  "texto": "Paso cinco, y este me encanta: filtrar dentro de la fórmula. El séptimo argumento es un filtro. Escribe A dos a A trece igual a Feb, entre comillas. Ahora el resumen solo cuenta las ventas de febrero. No tocaste los datos, no pusiste filtros, y si cambias Feb por Ene en la fórmula, ves enero.",
+  "texto_tts": "Paso cinco, y este me encanta: filtrar dentro de la fórmula. El séptimo argumento es un filtro. Escribe A dos a A trece igual a Feb, entre comillas. Ahora el resumen solo cuenta las ventas de febrero. No tocaste los datos, no pusiste filtros, y si cambias Feb por Ene en la fórmula, ves enero.",
+  "modelo": "eleven_v3",
+  "duracion": 20.96,
+  "palabras": [
+    {
+      "texto": "Paso",
+      "inicio": 0.0,
+      "fin": 0.24
+    },
+    {
+      "texto": "cinco,",
+      "inicio": 0.293,
+      "fin": 0.64
+    },
+    {
+      "texto": "y",
+      "inicio": 0.68,
+      "fin": 0.72
+    },
+    {
+      "texto": "este",
+      "inicio": 0.768,
+      "fin": 0.96
+    },
+    {
+      "texto": "me",
+      "inicio": 0.987,
+      "fin": 1.04
+    },
+    {
+      "texto": "encanta:",
+      "inicio": 1.1,
+      "fin": 1.76
+    },
+    {
+      "texto": "filtrar",
+      "inicio": 1.827,
+      "fin": 2.4
+    },
+    {
+      "texto": "dentro",
+      "inicio": 2.457,
+      "fin": 2.8
+    },
+    {
+      "texto": "de",
+      "inicio": 2.827,
+      "fin": 2.88
+    },
+    {
+      "texto": "la",
+      "inicio": 2.907,
+      "fin": 2.96
+    },
+    {
+      "texto": "fórmula.",
+      "inicio": 3.04,
+      "fin": 3.6
+    },
+    {
+      "texto": "El",
+      "inicio": 3.707,
+      "fin": 3.92
+    },
+    {
+      "texto": "séptimo",
+      "inicio": 3.973,
+      "fin": 4.32
+    },
+    {
+      "texto": "argumento",
+      "inicio": 4.364,
+      "fin": 4.8
+    },
+    {
+      "texto": "es",
+      "inicio": 4.827,
+      "fin": 4.88
+    },
+    {
+      "texto": "un",
+      "inicio": 4.933,
+      "fin": 5.04
+    },
+    {
+      "texto": "filtro.",
+      "inicio": 5.12,
+      "fin": 6.08
+    },
+    {
+      "texto": "Escribe",
+      "inicio": 6.32,
+      "fin": 6.96
+    },
+    {
+      "texto": "A",
+      "inicio": 7.12,
+      "fin": 7.28
+    },
+    {
+      "texto": "dos",
+      "inicio": 7.36,
+      "fin": 7.6
+    },
+    {
+      "texto": "a",
+      "inicio": 7.76,
+      "fin": 7.92
+    },
+    {
+      "texto": "A",
+      "inicio": 7.96,
+      "fin": 8.0
+    },
+    {
+      "texto": "trece",
+      "inicio": 8.04,
+      "fin": 8.32
+    },
+    {
+      "texto": "igual",
+      "inicio": 8.413,
+      "fin": 8.88
+    },
+    {
+      "texto": "a",
+      "inicio": 8.92,
+      "fin": 8.96
+    },
+    {
+      "texto": "Feb,",
+      "inicio": 9.08,
+      "fin": 9.52
+    },
+    {
+      "texto": "entre",
+      "inicio": 9.573,
+      "fin": 9.84
+    },
+    {
+      "texto": "comillas.",
+      "inicio": 9.88,
+      "fin": 10.48
+    },
+    {
+      "texto": "Ahora",
+      "inicio": 10.693,
+      "fin": 11.2
+    },
+    {
+      "texto": "el",
+      "inicio": 11.227,
+      "fin": 11.28
+    },
+    {
+      "texto": "resumen",
+      "inicio": 11.34,
+      "fin": 11.84
+    },
+    {
+      "texto": "solo",
+      "inicio": 11.936,
+      "fin": 12.32
+    },
+    {
+      "texto": "cuenta",
+      "inicio": 12.366,
+      "fin": 12.64
+    },
+    {
+      "texto": "las",
+      "inicio": 12.68,
+      "fin": 12.8
+    },
+    {
+      "texto": "ventas",
+      "inicio": 12.846,
+      "fin": 13.12
+    },
+    {
+      "texto": "de",
+      "inicio": 13.147,
+      "fin": 13.2
+    },
+    {
+      "texto": "febrero.",
+      "inicio": 13.28,
+      "fin": 13.84
+    },
+    {
+      "texto": "No",
+      "inicio": 14.027,
+      "fin": 14.4
+    },
+    {
+      "texto": "tocaste",
+      "inicio": 14.453,
+      "fin": 14.8
+    },
+    {
+      "texto": "los",
+      "inicio": 14.84,
+      "fin": 14.96
+    },
+    {
+      "texto": "datos,",
+      "inicio": 15.027,
+      "fin": 15.52
+    },
+    {
+      "texto": "no",
+      "inicio": 15.573,
+      "fin": 15.68
+    },
+    {
+      "texto": "pusiste",
+      "inicio": 15.74,
+      "fin": 16.08
+    },
+    {
+      "texto": "filtros,",
+      "inicio": 16.16,
+      "fin": 17.12
+    },
+    {
+      "texto": "y",
+      "inicio": 17.16,
+      "fin": 17.2
+    },
+    {
+      "texto": "si",
+      "inicio": 17.227,
+      "fin": 17.28
+    },
+    {
+      "texto": "cambias",
+      "inicio": 17.344,
+      "fin": 17.76
+    },
+    {
+      "texto": "Feb",
+      "inicio": 17.86,
+      "fin": 18.16
+    },
+    {
+      "texto": "por",
+      "inicio": 18.24,
+      "fin": 18.48
+    },
+    {
+      "texto": "Ene",
+      "inicio": 18.56,
+      "fin": 18.8
+    },
+    {
+      "texto": "en",
+      "inicio": 18.853,
+      "fin": 18.96
+    },
+    {
+      "texto": "la",
+      "inicio": 19.013,
+      "fin": 19.12
+    },
+    {
+      "texto": "fórmula,",
+      "inicio": 19.16,
+      "fin": 20.08
+    },
+    {
+      "texto": "ves",
+      "inicio": 20.14,
+      "fin": 20.32
+    },
+    {
+      "texto": "enero.",
+      "inicio": 20.427,
+      "fin": 20.96
+    }
+  ]
+}

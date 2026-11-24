@@ -1,0 +1,395 @@
+{
+  "num": "07",
+  "titulo": "2. FILTRAR",
+  "texto": "Número dos: FILTRAR, la que viste al principio. Primero le das la tabla, luego la condición, y al final qué mostrar si no hay resultados. FILTRAR, A dos a D nueve, punto y coma, la columna región igual a Norte. Y aparecen las tres ventas del Norte. Lo mejor es que no es una copia: si alguien cambia una región en la tabla original, el reporte se actualiza al instante. Se acabó el filtrar, copiar y pegar.",
+  "texto_tts": "Número dos: FILTRAR, la que viste al principio. Primero le das la tabla, luego la condición, y al final qué mostrar si no hay resultados. FILTRAR, A dos a D nueve, punto y coma, la columna región igual a Norte. Y aparecen las tres ventas del Norte. Lo mejor es que no es una copia: si alguien cambia una región en la tabla original, el reporte se actualiza al instante. Se acabó el filtrar, copiar y pegar.",
+  "modelo": "eleven_v3",
+  "duracion": 32.64,
+  "palabras": [
+    {
+      "texto": "Número",
+      "inicio": 0.0,
+      "fin": 0.32
+    },
+    {
+      "texto": "dos:",
+      "inicio": 0.4,
+      "fin": 0.72
+    },
+    {
+      "texto": "FILTRAR,",
+      "inicio": 0.86,
+      "fin": 2.12
+    },
+    {
+      "texto": "la",
+      "inicio": 2.213,
+      "fin": 2.4
+    },
+    {
+      "texto": "que",
+      "inicio": 2.44,
+      "fin": 2.56
+    },
+    {
+      "texto": "viste",
+      "inicio": 2.6,
+      "fin": 2.8
+    },
+    {
+      "texto": "al",
+      "inicio": 2.827,
+      "fin": 2.88
+    },
+    {
+      "texto": "principio.",
+      "inicio": 2.952,
+      "fin": 4.16
+    },
+    {
+      "texto": "Primero",
+      "inicio": 4.272,
+      "fin": 4.96
+    },
+    {
+      "texto": "le",
+      "inicio": 5.067,
+      "fin": 5.28
+    },
+    {
+      "texto": "das",
+      "inicio": 5.36,
+      "fin": 5.6
+    },
+    {
+      "texto": "la",
+      "inicio": 5.68,
+      "fin": 5.84
+    },
+    {
+      "texto": "tabla,",
+      "inicio": 5.92,
+      "fin": 6.4
+    },
+    {
+      "texto": "luego",
+      "inicio": 6.48,
+      "fin": 6.88
+    },
+    {
+      "texto": "la",
+      "inicio": 6.933,
+      "fin": 7.04
+    },
+    {
+      "texto": "condición,",
+      "inicio": 7.088,
+      "fin": 8.0
+    },
+    {
+      "texto": "y",
+      "inicio": 8.2,
+      "fin": 8.4
+    },
+    {
+      "texto": "al",
+      "inicio": 8.453,
+      "fin": 8.56
+    },
+    {
+      "texto": "final",
+      "inicio": 8.64,
+      "fin": 9.04
+    },
+    {
+      "texto": "qué",
+      "inicio": 9.14,
+      "fin": 9.44
+    },
+    {
+      "texto": "mostrar",
+      "inicio": 9.52,
+      "fin": 10.08
+    },
+    {
+      "texto": "si",
+      "inicio": 10.187,
+      "fin": 10.4
+    },
+    {
+      "texto": "no",
+      "inicio": 10.453,
+      "fin": 10.56
+    },
+    {
+      "texto": "hay",
+      "inicio": 10.6,
+      "fin": 10.72
+    },
+    {
+      "texto": "resultados.",
+      "inicio": 10.8,
+      "fin": 11.76
+    },
+    {
+      "texto": "FILTRAR,",
+      "inicio": 11.98,
+      "fin": 13.04
+    },
+    {
+      "texto": "A",
+      "inicio": 13.2,
+      "fin": 13.36
+    },
+    {
+      "texto": "dos",
+      "inicio": 13.42,
+      "fin": 13.6
+    },
+    {
+      "texto": "a",
+      "inicio": 13.68,
+      "fin": 13.76
+    },
+    {
+      "texto": "D",
+      "inicio": 13.8,
+      "fin": 13.84
+    },
+    {
+      "texto": "nueve,",
+      "inicio": 13.9,
+      "fin": 14.4
+    },
+    {
+      "texto": "punto",
+      "inicio": 14.44,
+      "fin": 14.64
+    },
+    {
+      "texto": "y",
+      "inicio": 14.72,
+      "fin": 14.8
+    },
+    {
+      "texto": "coma,",
+      "inicio": 14.864,
+      "fin": 15.2
+    },
+    {
+      "texto": "la",
+      "inicio": 15.307,
+      "fin": 15.52
+    },
+    {
+      "texto": "columna",
+      "inicio": 15.6,
+      "fin": 16.16
+    },
+    {
+      "texto": "región",
+      "inicio": 16.24,
+      "fin": 16.96
+    },
+    {
+      "texto": "igual",
+      "inicio": 17.067,
+      "fin": 17.6
+    },
+    {
+      "texto": "a",
+      "inicio": 17.64,
+      "fin": 17.68
+    },
+    {
+      "texto": "Norte.",
+      "inicio": 17.773,
+      "fin": 18.32
+    },
+    {
+      "texto": "Y",
+      "inicio": 18.64,
+      "fin": 18.96
+    },
+    {
+      "texto": "aparecen",
+      "inicio": 19.013,
+      "fin": 19.52
+    },
+    {
+      "texto": "las",
+      "inicio": 19.56,
+      "fin": 19.68
+    },
+    {
+      "texto": "tres",
+      "inicio": 19.744,
+      "fin": 20.0
+    },
+    {
+      "texto": "ventas",
+      "inicio": 20.057,
+      "fin": 20.4
+    },
+    {
+      "texto": "del",
+      "inicio": 20.44,
+      "fin": 20.56
+    },
+    {
+      "texto": "Norte.",
+      "inicio": 20.64,
+      "fin": 21.12
+    },
+    {
+      "texto": "Lo",
+      "inicio": 21.36,
+      "fin": 21.84
+    },
+    {
+      "texto": "mejor",
+      "inicio": 21.907,
+      "fin": 22.24
+    },
+    {
+      "texto": "es",
+      "inicio": 22.293,
+      "fin": 22.4
+    },
+    {
+      "texto": "que",
+      "inicio": 22.44,
+      "fin": 22.56
+    },
+    {
+      "texto": "no",
+      "inicio": 22.613,
+      "fin": 22.72
+    },
+    {
+      "texto": "es",
+      "inicio": 22.773,
+      "fin": 22.88
+    },
+    {
+      "texto": "una",
+      "inicio": 22.92,
+      "fin": 23.04
+    },
+    {
+      "texto": "copia:",
+      "inicio": 23.14,
+      "fin": 24.16
+    },
+    {
+      "texto": "si",
+      "inicio": 24.213,
+      "fin": 24.32
+    },
+    {
+      "texto": "alguien",
+      "inicio": 24.37,
+      "fin": 24.72
+    },
+    {
+      "texto": "cambia",
+      "inicio": 24.784,
+      "fin": 25.12
+    },
+    {
+      "texto": "una",
+      "inicio": 25.16,
+      "fin": 25.28
+    },
+    {
+      "texto": "región",
+      "inicio": 25.36,
+      "fin": 25.76
+    },
+    {
+      "texto": "en",
+      "inicio": 25.813,
+      "fin": 25.92
+    },
+    {
+      "texto": "la",
+      "inicio": 25.947,
+      "fin": 26.0
+    },
+    {
+      "texto": "tabla",
+      "inicio": 26.053,
+      "fin": 26.32
+    },
+    {
+      "texto": "original,",
+      "inicio": 26.382,
+      "fin": 27.36
+    },
+    {
+      "texto": "el",
+      "inicio": 27.413,
+      "fin": 27.52
+    },
+    {
+      "texto": "reporte",
+      "inicio": 27.589,
+      "fin": 28.08
+    },
+    {
+      "texto": "se",
+      "inicio": 28.107,
+      "fin": 28.16
+    },
+    {
+      "texto": "actualiza",
+      "inicio": 28.217,
+      "fin": 28.72
+    },
+    {
+      "texto": "al",
+      "inicio": 28.773,
+      "fin": 28.88
+    },
+    {
+      "texto": "instante.",
+      "inicio": 28.96,
+      "fin": 29.76
+    },
+    {
+      "texto": "Se",
+      "inicio": 29.947,
+      "fin": 30.32
+    },
+    {
+      "texto": "acabó",
+      "inicio": 30.384,
+      "fin": 30.72
+    },
+    {
+      "texto": "el",
+      "inicio": 30.747,
+      "fin": 30.8
+    },
+    {
+      "texto": "filtrar,",
+      "inicio": 30.867,
+      "fin": 31.52
+    },
+    {
+      "texto": "copiar",
+      "inicio": 31.58,
+      "fin": 31.92
+    },
+    {
+      "texto": "y",
+      "inicio": 31.96,
+      "fin": 32.0
+    },
+    {
+      "texto": "pegar.",
+      "inicio": 32.06,
+      "fin": 32.64
+    }
+  ]
+}

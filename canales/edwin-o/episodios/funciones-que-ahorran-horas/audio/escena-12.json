@@ -1,0 +1,465 @@
+{
+  "num": "12",
+  "titulo": "7. LET",
+  "texto": "Y número siete: LET, la que te prometí. Con LET le pones nombre a una parte de la fórmula. Mira: aquí busco el precio y, si pasa de mil, le aplico un diez por ciento de descuento. Sin LET, tendría que escribir el BUSCARX dos veces. Con LET, lo calculo una vez, lo llamo \"precio\", y lo uso donde quiera. El resultado: mil ochenta. La fórmula es más corta, más rápida, y cualquiera la entiende. Y si dentro de un mes tienes que cambiar algo, lo cambias en un solo lugar.",
+  "texto_tts": "Y número siete: LET, la que te prometí. Con LET le pones nombre a una parte de la fórmula. Mira: aquí busco el precio y, si pasa de mil, le aplico un diez por ciento de descuento. Sin LET, tendría que escribir el BUSCARX dos veces. Con LET, lo calculo una vez, lo llamo \"precio\", y lo uso donde quiera. El resultado: mil ochenta. La fórmula es más corta, más rápida, y cualquiera la entiende. Y si dentro de un mes tienes que cambiar algo, lo cambias en un solo lugar.",
+  "modelo": "eleven_v3",
+  "duracion": 36.4,
+  "palabras": [
+    {
+      "texto": "Y",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "número",
+      "inicio": 0.126,
+      "fin": 0.4
+    },
+    {
+      "texto": "siete:",
+      "inicio": 0.48,
+      "fin": 1.04
+    },
+    {
+      "texto": "LET,",
+      "inicio": 1.24,
+      "fin": 2.0
+    },
+    {
+      "texto": "la",
+      "inicio": 2.053,
+      "fin": 2.16
+    },
+    {
+      "texto": "que",
+      "inicio": 2.18,
+      "fin": 2.24
+    },
+    {
+      "texto": "te",
+      "inicio": 2.293,
+      "fin": 2.4
+    },
+    {
+      "texto": "prometí.",
+      "inicio": 2.448,
+      "fin": 3.36
+    },
+    {
+      "texto": "Con",
+      "inicio": 3.56,
+      "fin": 4.16
+    },
+    {
+      "texto": "LET",
+      "inicio": 4.26,
+      "fin": 4.56
+    },
+    {
+      "texto": "le",
+      "inicio": 4.64,
+      "fin": 4.8
+    },
+    {
+      "texto": "pones",
+      "inicio": 4.84,
+      "fin": 5.12
+    },
+    {
+      "texto": "nombre",
+      "inicio": 5.166,
+      "fin": 5.44
+    },
+    {
+      "texto": "a",
+      "inicio": 5.48,
+      "fin": 5.52
+    },
+    {
+      "texto": "una",
+      "inicio": 5.56,
+      "fin": 5.68
+    },
+    {
+      "texto": "parte",
+      "inicio": 5.733,
+      "fin": 6.0
+    },
+    {
+      "texto": "de",
+      "inicio": 6.027,
+      "fin": 6.08
+    },
+    {
+      "texto": "la",
+      "inicio": 6.107,
+      "fin": 6.16
+    },
+    {
+      "texto": "fórmula.",
+      "inicio": 6.24,
+      "fin": 6.96
+    },
+    {
+      "texto": "Mira:",
+      "inicio": 7.16,
+      "fin": 7.6
+    },
+    {
+      "texto": "aquí",
+      "inicio": 7.824,
+      "fin": 8.72
+    },
+    {
+      "texto": "busco",
+      "inicio": 8.76,
+      "fin": 8.96
+    },
+    {
+      "texto": "el",
+      "inicio": 9.013,
+      "fin": 9.12
+    },
+    {
+      "texto": "precio",
+      "inicio": 9.211,
+      "fin": 9.76
+    },
+    {
+      "texto": "y,",
+      "inicio": 10.0,
+      "fin": 10.32
+    },
+    {
+      "texto": "si",
+      "inicio": 10.347,
+      "fin": 10.4
+    },
+    {
+      "texto": "pasa",
+      "inicio": 10.48,
+      "fin": 10.8
+    },
+    {
+      "texto": "de",
+      "inicio": 10.853,
+      "fin": 10.96
+    },
+    {
+      "texto": "mil,",
+      "inicio": 11.04,
+      "fin": 11.36
+    },
+    {
+      "texto": "le",
+      "inicio": 11.467,
+      "fin": 11.68
+    },
+    {
+      "texto": "aplico",
+      "inicio": 11.747,
+      "fin": 12.16
+    },
+    {
+      "texto": "un",
+      "inicio": 12.187,
+      "fin": 12.24
+    },
+    {
+      "texto": "diez",
+      "inicio": 12.3,
+      "fin": 12.6
+    },
+    {
+      "texto": "por",
+      "inicio": 12.63,
+      "fin": 12.72
+    },
+    {
+      "texto": "ciento",
+      "inicio": 12.8,
+      "fin": 13.12
+    },
+    {
+      "texto": "de",
+      "inicio": 13.173,
+      "fin": 13.28
+    },
+    {
+      "texto": "descuento.",
+      "inicio": 13.328,
+      "fin": 14.0
+    },
+    {
+      "texto": "Sin",
+      "inicio": 14.26,
+      "fin": 15.04
+    },
+    {
+      "texto": "LET,",
+      "inicio": 15.14,
+      "fin": 15.52
+    },
+    {
+      "texto": "tendría",
+      "inicio": 15.573,
+      "fin": 15.92
+    },
+    {
+      "texto": "que",
+      "inicio": 15.94,
+      "fin": 16.0
+    },
+    {
+      "texto": "escribir",
+      "inicio": 16.053,
+      "fin": 16.48
+    },
+    {
+      "texto": "el",
+      "inicio": 16.507,
+      "fin": 16.56
+    },
+    {
+      "texto": "BUSCARX",
+      "inicio": 16.64,
+      "fin": 17.52
+    },
+    {
+      "texto": "dos",
+      "inicio": 17.58,
+      "fin": 17.76
+    },
+    {
+      "texto": "veces.",
+      "inicio": 17.84,
+      "fin": 18.56
+    },
+    {
+      "texto": "Con",
+      "inicio": 18.66,
+      "fin": 18.96
+    },
+    {
+      "texto": "LET,",
+      "inicio": 19.06,
+      "fin": 19.52
+    },
+    {
+      "texto": "lo",
+      "inicio": 19.573,
+      "fin": 19.68
+    },
+    {
+      "texto": "calculo",
+      "inicio": 19.737,
+      "fin": 20.2
+    },
+    {
+      "texto": "una",
+      "inicio": 20.23,
+      "fin": 20.32
+    },
+    {
+      "texto": "vez,",
+      "inicio": 20.4,
+      "fin": 20.72
+    },
+    {
+      "texto": "lo",
+      "inicio": 20.853,
+      "fin": 21.12
+    },
+    {
+      "texto": "llamo",
+      "inicio": 21.173,
+      "fin": 21.44
+    },
+    {
+      "texto": "\"precio\",",
+      "inicio": 21.48,
+      "fin": 22.24
+    },
+    {
+      "texto": "y",
+      "inicio": 22.28,
+      "fin": 22.32
+    },
+    {
+      "texto": "lo",
+      "inicio": 22.373,
+      "fin": 22.48
+    },
+    {
+      "texto": "uso",
+      "inicio": 22.56,
+      "fin": 22.8
+    },
+    {
+      "texto": "donde",
+      "inicio": 22.867,
+      "fin": 23.2
+    },
+    {
+      "texto": "quiera.",
+      "inicio": 23.253,
+      "fin": 23.84
+    },
+    {
+      "texto": "El",
+      "inicio": 24.053,
+      "fin": 24.48
+    },
+    {
+      "texto": "resultado:",
+      "inicio": 24.552,
+      "fin": 25.28
+    },
+    {
+      "texto": "mil",
+      "inicio": 25.42,
+      "fin": 25.84
+    },
+    {
+      "texto": "ochenta.",
+      "inicio": 25.9,
+      "fin": 26.88
+    },
+    {
+      "texto": "La",
+      "inicio": 27.04,
+      "fin": 27.36
+    },
+    {
+      "texto": "fórmula",
+      "inicio": 27.4,
+      "fin": 27.76
+    },
+    {
+      "texto": "es",
+      "inicio": 27.787,
+      "fin": 27.84
+    },
+    {
+      "texto": "más",
+      "inicio": 27.88,
+      "fin": 28.0
+    },
+    {
+      "texto": "corta,",
+      "inicio": 28.096,
+      "fin": 28.64
+    },
+    {
+      "texto": "más",
+      "inicio": 28.72,
+      "fin": 28.96
+    },
+    {
+      "texto": "rápida,",
+      "inicio": 29.06,
+      "fin": 29.68
+    },
+    {
+      "texto": "y",
+      "inicio": 29.72,
+      "fin": 29.76
+    },
+    {
+      "texto": "cualquiera",
+      "inicio": 29.84,
+      "fin": 30.4
+    },
+    {
+      "texto": "la",
+      "inicio": 30.427,
+      "fin": 30.48
+    },
+    {
+      "texto": "entiende.",
+      "inicio": 30.54,
+      "fin": 31.28
+    },
+    {
+      "texto": "Y",
+      "inicio": 31.6,
+      "fin": 31.92
+    },
+    {
+      "texto": "si",
+      "inicio": 31.973,
+      "fin": 32.08
+    },
+    {
+      "texto": "dentro",
+      "inicio": 32.137,
+      "fin": 32.48
+    },
+    {
+      "texto": "de",
+      "inicio": 32.507,
+      "fin": 32.56
+    },
+    {
+      "texto": "un",
+      "inicio": 32.587,
+      "fin": 32.64
+    },
+    {
+      "texto": "mes",
+      "inicio": 32.7,
+      "fin": 32.88
+    },
+    {
+      "texto": "tienes",
+      "inicio": 32.926,
+      "fin": 33.2
+    },
+    {
+      "texto": "que",
+      "inicio": 33.22,
+      "fin": 33.28
+    },
+    {
+      "texto": "cambiar",
+      "inicio": 33.33,
+      "fin": 33.68
+    },
+    {
+      "texto": "algo,",
+      "inicio": 33.76,
+      "fin": 34.16
+    },
+    {
+      "texto": "lo",
+      "inicio": 34.24,
+      "fin": 34.4
+    },
+    {
+      "texto": "cambias",
+      "inicio": 34.464,
+      "fin": 34.96
+    },
+    {
+      "texto": "en",
+      "inicio": 35.04,
+      "fin": 35.2
+    },
+    {
+      "texto": "un",
+      "inicio": 35.28,
+      "fin": 35.44
+    },
+    {
+      "texto": "solo",
+      "inicio": 35.52,
+      "fin": 35.84
+    },
+    {
+      "texto": "lugar.",
+      "inicio": 35.907,
+      "fin": 36.4
+    }
+  ]
+}

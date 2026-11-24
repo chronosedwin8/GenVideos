@@ -1,0 +1,205 @@
+{
+  "num": "01",
+  "titulo": "Gancho",
+  "texto": "Escribes cinco mil, y el programa te dice: comisión de doscientos cincuenta. Escribes novecientos noventa y nueve, y te dice: cero. ¿Cómo sabe qué hacer? Porque tomó una decisión. Y hoy vas a aprender a programar decisiones en Python.",
+  "texto_tts": "[excited] Escribes cinco mil, y el programa te dice: comisión de doscientos cincuenta. Escribes novecientos noventa y nueve, y te dice: cero. [curious] ¿Cómo sabe qué hacer? Porque tomó una decisión. Y hoy vas a aprender a programar decisiones en Python.",
+  "modelo": "eleven_v3",
+  "duracion": 16.96,
+  "palabras": [
+    {
+      "texto": "Escribes",
+      "inicio": 0.139,
+      "fin": 0.4
+    },
+    {
+      "texto": "cinco",
+      "inicio": 0.44,
+      "fin": 0.64
+    },
+    {
+      "texto": "mil,",
+      "inicio": 0.72,
+      "fin": 1.04
+    },
+    {
+      "texto": "y",
+      "inicio": 1.24,
+      "fin": 1.44
+    },
+    {
+      "texto": "el",
+      "inicio": 1.467,
+      "fin": 1.52
+    },
+    {
+      "texto": "programa",
+      "inicio": 1.556,
+      "fin": 1.84
+    },
+    {
+      "texto": "te",
+      "inicio": 1.893,
+      "fin": 2.0
+    },
+    {
+      "texto": "dice:",
+      "inicio": 2.064,
+      "fin": 2.4
+    },
+    {
+      "texto": "comisión",
+      "inicio": 2.52,
+      "fin": 3.12
+    },
+    {
+      "texto": "de",
+      "inicio": 3.173,
+      "fin": 3.28
+    },
+    {
+      "texto": "doscientos",
+      "inicio": 3.4,
+      "fin": 4.0
+    },
+    {
+      "texto": "cincuenta.",
+      "inicio": 4.04,
+      "fin": 4.64
+    },
+    {
+      "texto": "Escribes",
+      "inicio": 4.827,
+      "fin": 5.6
+    },
+    {
+      "texto": "novecientos",
+      "inicio": 5.653,
+      "fin": 6.24
+    },
+    {
+      "texto": "noventa",
+      "inicio": 6.267,
+      "fin": 6.56
+    },
+    {
+      "texto": "y",
+      "inicio": 6.6,
+      "fin": 6.64
+    },
+    {
+      "texto": "nueve,",
+      "inicio": 6.68,
+      "fin": 7.12
+    },
+    {
+      "texto": "y",
+      "inicio": 7.32,
+      "fin": 7.52
+    },
+    {
+      "texto": "te",
+      "inicio": 7.573,
+      "fin": 7.68
+    },
+    {
+      "texto": "dice:",
+      "inicio": 7.744,
+      "fin": 8.08
+    },
+    {
+      "texto": "cero.",
+      "inicio": 8.28,
+      "fin": 8.96
+    },
+    {
+      "texto": "¿Cómo",
+      "inicio": 10.672,
+      "fin": 10.72
+    },
+    {
+      "texto": "sabe",
+      "inicio": 10.784,
+      "fin": 11.04
+    },
+    {
+      "texto": "qué",
+      "inicio": 11.08,
+      "fin": 11.2
+    },
+    {
+      "texto": "hacer?",
+      "inicio": 11.253,
+      "fin": 11.68
+    },
+    {
+      "texto": "Porque",
+      "inicio": 11.86,
+      "fin": 12.48
+    },
+    {
+      "texto": "tomó",
+      "inicio": 12.52,
+      "fin": 12.72
+    },
+    {
+      "texto": "una",
+      "inicio": 12.74,
+      "fin": 12.8
+    },
+    {
+      "texto": "decisión.",
+      "inicio": 12.867,
+      "fin": 13.44
+    },
+    {
+      "texto": "Y",
+      "inicio": 13.72,
+      "fin": 14.0
+    },
+    {
+      "texto": "hoy",
+      "inicio": 14.04,
+      "fin": 14.16
+    },
+    {
+      "texto": "vas",
+      "inicio": 14.2,
+      "fin": 14.32
+    },
+    {
+      "texto": "a",
+      "inicio": 14.36,
+      "fin": 14.4
+    },
+    {
+      "texto": "aprender",
+      "inicio": 14.453,
+      "fin": 14.88
+    },
+    {
+      "texto": "a",
+      "inicio": 14.96,
+      "fin": 15.04
+    },
+    {
+      "texto": "programar",
+      "inicio": 15.09,
+      "fin": 15.6
+    },
+    {
+      "texto": "decisiones",
+      "inicio": 15.653,
+      "fin": 16.16
+    },
+    {
+      "texto": "en",
+      "inicio": 16.213,
+      "fin": 16.32
+    },
+    {
+      "texto": "Python.",
+      "inicio": 16.4,
+      "fin": 16.96
+    }
+  ]
+}

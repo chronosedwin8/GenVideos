@@ -1,0 +1,315 @@
+{
+  "num": "10",
+  "titulo": "Paso 5: estadísticas en una línea",
+  "texto": "Paso cinco: estadísticas. En otra celda escribe: d f punto describe, abre y cierra paréntesis. Control más Entrar, y cámbialo a valores de Excel. Mira todo lo que te da: doce ventas, un promedio de novecientos diez, la desviación estándar, la venta mínima de treinta y cinco, la máxima de tres mil seiscientos, y los cuartiles. Todo eso, con una palabra.",
+  "texto_tts": "Paso cinco: estadísticas. En otra celda escribe: d f punto describe, abre y cierra paréntesis. Control más Entrar, y cámbialo a valores de Excel. Mira todo lo que te da: doce ventas, un promedio de novecientos diez, la desviación estándar, la venta mínima de treinta y cinco, la máxima de tres mil seiscientos, y los cuartiles. Todo eso, con una palabra.",
+  "modelo": "eleven_v3",
+  "duracion": 33.28,
+  "palabras": [
+    {
+      "texto": "Paso",
+      "inicio": 0.0,
+      "fin": 0.32
+    },
+    {
+      "texto": "cinco:",
+      "inicio": 0.4,
+      "fin": 0.96
+    },
+    {
+      "texto": "estadísticas.",
+      "inicio": 1.107,
+      "fin": 2.56
+    },
+    {
+      "texto": "En",
+      "inicio": 2.907,
+      "fin": 3.6
+    },
+    {
+      "texto": "otra",
+      "inicio": 3.664,
+      "fin": 3.92
+    },
+    {
+      "texto": "celda",
+      "inicio": 3.96,
+      "fin": 4.4
+    },
+    {
+      "texto": "escribe:",
+      "inicio": 4.507,
+      "fin": 5.2
+    },
+    {
+      "texto": "d",
+      "inicio": 5.52,
+      "fin": 5.84
+    },
+    {
+      "texto": "f",
+      "inicio": 6.04,
+      "fin": 6.24
+    },
+    {
+      "texto": "punto",
+      "inicio": 6.347,
+      "fin": 6.88
+    },
+    {
+      "texto": "describe,",
+      "inicio": 6.978,
+      "fin": 8.08
+    },
+    {
+      "texto": "abre",
+      "inicio": 8.208,
+      "fin": 8.72
+    },
+    {
+      "texto": "y",
+      "inicio": 8.76,
+      "fin": 8.8
+    },
+    {
+      "texto": "cierra",
+      "inicio": 8.853,
+      "fin": 9.12
+    },
+    {
+      "texto": "paréntesis.",
+      "inicio": 9.16,
+      "fin": 10.0
+    },
+    {
+      "texto": "Control",
+      "inicio": 10.13,
+      "fin": 11.04
+    },
+    {
+      "texto": "más",
+      "inicio": 11.1,
+      "fin": 11.28
+    },
+    {
+      "texto": "Entrar,",
+      "inicio": 11.328,
+      "fin": 12.0
+    },
+    {
+      "texto": "y",
+      "inicio": 12.24,
+      "fin": 12.48
+    },
+    {
+      "texto": "cámbialo",
+      "inicio": 12.56,
+      "fin": 13.04
+    },
+    {
+      "texto": "a",
+      "inicio": 13.2,
+      "fin": 13.36
+    },
+    {
+      "texto": "valores",
+      "inicio": 13.43,
+      "fin": 13.92
+    },
+    {
+      "texto": "de",
+      "inicio": 13.973,
+      "fin": 14.08
+    },
+    {
+      "texto": "Excel.",
+      "inicio": 14.16,
+      "fin": 14.72
+    },
+    {
+      "texto": "Mira",
+      "inicio": 15.28,
+      "fin": 16.0
+    },
+    {
+      "texto": "todo",
+      "inicio": 16.064,
+      "fin": 16.32
+    },
+    {
+      "texto": "lo",
+      "inicio": 16.373,
+      "fin": 16.48
+    },
+    {
+      "texto": "que",
+      "inicio": 16.5,
+      "fin": 16.56
+    },
+    {
+      "texto": "te",
+      "inicio": 16.613,
+      "fin": 16.72
+    },
+    {
+      "texto": "da:",
+      "inicio": 16.8,
+      "fin": 18.08
+    },
+    {
+      "texto": "doce",
+      "inicio": 18.133,
+      "fin": 18.32
+    },
+    {
+      "texto": "ventas,",
+      "inicio": 18.411,
+      "fin": 19.2
+    },
+    {
+      "texto": "un",
+      "inicio": 19.36,
+      "fin": 19.68
+    },
+    {
+      "texto": "promedio",
+      "inicio": 19.728,
+      "fin": 20.16
+    },
+    {
+      "texto": "de",
+      "inicio": 20.187,
+      "fin": 20.24
+    },
+    {
+      "texto": "novecientos",
+      "inicio": 20.293,
+      "fin": 20.96
+    },
+    {
+      "texto": "diez,",
+      "inicio": 21.0,
+      "fin": 21.36
+    },
+    {
+      "texto": "la",
+      "inicio": 21.627,
+      "fin": 22.16
+    },
+    {
+      "texto": "desviación",
+      "inicio": 22.22,
+      "fin": 22.72
+    },
+    {
+      "texto": "estándar,",
+      "inicio": 22.784,
+      "fin": 23.6
+    },
+    {
+      "texto": "la",
+      "inicio": 23.787,
+      "fin": 24.16
+    },
+    {
+      "texto": "venta",
+      "inicio": 24.213,
+      "fin": 24.48
+    },
+    {
+      "texto": "mínima",
+      "inicio": 24.54,
+      "fin": 24.88
+    },
+    {
+      "texto": "de",
+      "inicio": 24.907,
+      "fin": 24.96
+    },
+    {
+      "texto": "treinta",
+      "inicio": 25.02,
+      "fin": 25.36
+    },
+    {
+      "texto": "y",
+      "inicio": 25.4,
+      "fin": 25.44
+    },
+    {
+      "texto": "cinco,",
+      "inicio": 25.533,
+      "fin": 26.32
+    },
+    {
+      "texto": "la",
+      "inicio": 26.48,
+      "fin": 26.8
+    },
+    {
+      "texto": "máxima",
+      "inicio": 26.88,
+      "fin": 27.36
+    },
+    {
+      "texto": "de",
+      "inicio": 27.387,
+      "fin": 27.44
+    },
+    {
+      "texto": "tres",
+      "inicio": 27.472,
+      "fin": 27.6
+    },
+    {
+      "texto": "mil",
+      "inicio": 27.66,
+      "fin": 27.84
+    },
+    {
+      "texto": "seiscientos,",
+      "inicio": 27.893,
+      "fin": 28.88
+    },
+    {
+      "texto": "y",
+      "inicio": 29.08,
+      "fin": 29.28
+    },
+    {
+      "texto": "los",
+      "inicio": 29.32,
+      "fin": 29.44
+    },
+    {
+      "texto": "cuartiles.",
+      "inicio": 29.493,
+      "fin": 30.92
+    },
+    {
+      "texto": "Todo",
+      "inicio": 31.04,
+      "fin": 31.52
+    },
+    {
+      "texto": "eso,",
+      "inicio": 31.62,
+      "fin": 32.16
+    },
+    {
+      "texto": "con",
+      "inicio": 32.22,
+      "fin": 32.4
+    },
+    {
+      "texto": "una",
+      "inicio": 32.44,
+      "fin": 32.56
+    },
+    {
+      "texto": "palabra.",
+      "inicio": 32.62,
+      "fin": 33.28
+    }
+  ]
+}

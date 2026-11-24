@@ -1,0 +1,305 @@
+{
+  "num": "18",
+  "titulo": "Errores comunes",
+  "texto": "Los errores más comunes. Numeral nombre: tu versión de Excel todavía no tiene la función. Desbordamiento: hay algo estorbando donde va el resultado, bórralo. Y numeral valor: casi siempre es porque los rangos no tienen el mismo tamaño. Si agrupas de B dos a B trece, los valores también tienen que ir de la fila dos a la trece.",
+  "texto_tts": "Los errores más comunes. Numeral nombre: tu versión de Excel todavía no tiene la función. Desbordamiento: hay algo estorbando donde va el resultado, bórralo. Y numeral valor: casi siempre es porque los rangos no tienen el mismo tamaño. Si agrupas de B dos a B trece, los valores también tienen que ir de la fila dos a la trece.",
+  "modelo": "eleven_v3",
+  "duracion": 27.44,
+  "palabras": [
+    {
+      "texto": "Los",
+      "inicio": 0.0,
+      "fin": 0.16
+    },
+    {
+      "texto": "errores",
+      "inicio": 0.2,
+      "fin": 0.48
+    },
+    {
+      "texto": "más",
+      "inicio": 0.54,
+      "fin": 0.72
+    },
+    {
+      "texto": "comunes.",
+      "inicio": 0.78,
+      "fin": 1.36
+    },
+    {
+      "texto": "Numeral",
+      "inicio": 1.56,
+      "fin": 2.64
+    },
+    {
+      "texto": "nombre:",
+      "inicio": 2.731,
+      "fin": 3.92
+    },
+    {
+      "texto": "tu",
+      "inicio": 3.973,
+      "fin": 4.08
+    },
+    {
+      "texto": "versión",
+      "inicio": 4.13,
+      "fin": 4.48
+    },
+    {
+      "texto": "de",
+      "inicio": 4.507,
+      "fin": 4.56
+    },
+    {
+      "texto": "Excel",
+      "inicio": 4.64,
+      "fin": 5.04
+    },
+    {
+      "texto": "todavía",
+      "inicio": 5.14,
+      "fin": 5.76
+    },
+    {
+      "texto": "no",
+      "inicio": 5.813,
+      "fin": 5.92
+    },
+    {
+      "texto": "tiene",
+      "inicio": 5.987,
+      "fin": 6.32
+    },
+    {
+      "texto": "la",
+      "inicio": 6.347,
+      "fin": 6.4
+    },
+    {
+      "texto": "función.",
+      "inicio": 6.49,
+      "fin": 7.2
+    },
+    {
+      "texto": "Desbordamiento:",
+      "inicio": 7.5,
+      "fin": 9.28
+    },
+    {
+      "texto": "hay",
+      "inicio": 9.44,
+      "fin": 9.92
+    },
+    {
+      "texto": "algo",
+      "inicio": 9.984,
+      "fin": 10.24
+    },
+    {
+      "texto": "estorbando",
+      "inicio": 10.28,
+      "fin": 10.96
+    },
+    {
+      "texto": "donde",
+      "inicio": 11.027,
+      "fin": 11.36
+    },
+    {
+      "texto": "va",
+      "inicio": 11.413,
+      "fin": 11.52
+    },
+    {
+      "texto": "el",
+      "inicio": 11.547,
+      "fin": 11.6
+    },
+    {
+      "texto": "resultado,",
+      "inicio": 11.672,
+      "fin": 12.8
+    },
+    {
+      "texto": "bórralo.",
+      "inicio": 12.88,
+      "fin": 13.44
+    },
+    {
+      "texto": "Y",
+      "inicio": 13.88,
+      "fin": 14.32
+    },
+    {
+      "texto": "numeral",
+      "inicio": 14.4,
+      "fin": 14.96
+    },
+    {
+      "texto": "valor:",
+      "inicio": 15.027,
+      "fin": 15.44
+    },
+    {
+      "texto": "casi",
+      "inicio": 15.6,
+      "fin": 16.24
+    },
+    {
+      "texto": "siempre",
+      "inicio": 16.29,
+      "fin": 16.64
+    },
+    {
+      "texto": "es",
+      "inicio": 16.693,
+      "fin": 16.8
+    },
+    {
+      "texto": "porque",
+      "inicio": 16.834,
+      "fin": 17.04
+    },
+    {
+      "texto": "los",
+      "inicio": 17.08,
+      "fin": 17.2
+    },
+    {
+      "texto": "rangos",
+      "inicio": 17.28,
+      "fin": 17.76
+    },
+    {
+      "texto": "no",
+      "inicio": 17.813,
+      "fin": 17.92
+    },
+    {
+      "texto": "tienen",
+      "inicio": 17.977,
+      "fin": 18.32
+    },
+    {
+      "texto": "el",
+      "inicio": 18.347,
+      "fin": 18.4
+    },
+    {
+      "texto": "mismo",
+      "inicio": 18.453,
+      "fin": 18.72
+    },
+    {
+      "texto": "tamaño.",
+      "inicio": 18.8,
+      "fin": 19.36
+    },
+    {
+      "texto": "Si",
+      "inicio": 19.68,
+      "fin": 20.32
+    },
+    {
+      "texto": "agrupas",
+      "inicio": 20.38,
+      "fin": 20.96
+    },
+    {
+      "texto": "de",
+      "inicio": 21.04,
+      "fin": 21.2
+    },
+    {
+      "texto": "B",
+      "inicio": 21.32,
+      "fin": 21.44
+    },
+    {
+      "texto": "dos",
+      "inicio": 21.5,
+      "fin": 21.68
+    },
+    {
+      "texto": "a",
+      "inicio": 21.84,
+      "fin": 22.0
+    },
+    {
+      "texto": "B",
+      "inicio": 22.12,
+      "fin": 22.24
+    },
+    {
+      "texto": "trece,",
+      "inicio": 22.28,
+      "fin": 23.12
+    },
+    {
+      "texto": "los",
+      "inicio": 23.16,
+      "fin": 23.28
+    },
+    {
+      "texto": "valores",
+      "inicio": 23.33,
+      "fin": 23.68
+    },
+    {
+      "texto": "también",
+      "inicio": 23.77,
+      "fin": 24.4
+    },
+    {
+      "texto": "tienen",
+      "inicio": 24.457,
+      "fin": 24.8
+    },
+    {
+      "texto": "que",
+      "inicio": 24.86,
+      "fin": 25.04
+    },
+    {
+      "texto": "ir",
+      "inicio": 25.12,
+      "fin": 25.28
+    },
+    {
+      "texto": "de",
+      "inicio": 25.333,
+      "fin": 25.44
+    },
+    {
+      "texto": "la",
+      "inicio": 25.467,
+      "fin": 25.52
+    },
+    {
+      "texto": "fila",
+      "inicio": 25.6,
+      "fin": 25.92
+    },
+    {
+      "texto": "dos",
+      "inicio": 26.02,
+      "fin": 26.32
+    },
+    {
+      "texto": "a",
+      "inicio": 26.52,
+      "fin": 26.72
+    },
+    {
+      "texto": "la",
+      "inicio": 26.747,
+      "fin": 26.8
+    },
+    {
+      "texto": "trece.",
+      "inicio": 26.86,
+      "fin": 27.44
+    }
+  ]
+}

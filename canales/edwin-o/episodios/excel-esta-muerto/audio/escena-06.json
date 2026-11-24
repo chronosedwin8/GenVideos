@@ -1,0 +1,325 @@
+{
+  "num": "06",
+  "titulo": "Cambio 3: Python dentro de Excel",
+  "texto": "Cambio número tres: Python vive dentro de Excel. Escribes igual, P Y, y puedes usar Python en una celda, con las mismas bibliotecas que usan los científicos de datos. El código se ejecuta en la nube de Microsoft. Ya está disponible para empresas, y en vista previa para los planes personales. En un par de semanas te hago un tutorial completo de esto.",
+  "texto_tts": "Cambio número tres: Python vive dentro de Excel. Escribes igual, P Y, y puedes usar Python en una celda, con las mismas bibliotecas que usan los científicos de datos. El código se ejecuta en la nube de Microsoft. Ya está disponible para empresas, y en vista previa para los planes personales. En un par de semanas te hago un tutorial completo de esto.",
+  "modelo": "eleven_v3",
+  "duracion": 25.2,
+  "palabras": [
+    {
+      "texto": "Cambio",
+      "inicio": 0.0,
+      "fin": 0.24
+    },
+    {
+      "texto": "número",
+      "inicio": 0.286,
+      "fin": 0.56
+    },
+    {
+      "texto": "tres:",
+      "inicio": 0.656,
+      "fin": 1.6
+    },
+    {
+      "texto": "Python",
+      "inicio": 1.68,
+      "fin": 2.16
+    },
+    {
+      "texto": "vive",
+      "inicio": 2.224,
+      "fin": 2.48
+    },
+    {
+      "texto": "dentro",
+      "inicio": 2.549,
+      "fin": 2.96
+    },
+    {
+      "texto": "de",
+      "inicio": 2.987,
+      "fin": 3.04
+    },
+    {
+      "texto": "Excel.",
+      "inicio": 3.12,
+      "fin": 3.84
+    },
+    {
+      "texto": "Escribes",
+      "inicio": 3.973,
+      "fin": 4.48
+    },
+    {
+      "texto": "igual,",
+      "inicio": 4.547,
+      "fin": 5.12
+    },
+    {
+      "texto": "P",
+      "inicio": 5.24,
+      "fin": 5.36
+    },
+    {
+      "texto": "Y,",
+      "inicio": 5.6,
+      "fin": 6.32
+    },
+    {
+      "texto": "y",
+      "inicio": 6.52,
+      "fin": 6.72
+    },
+    {
+      "texto": "puedes",
+      "inicio": 6.754,
+      "fin": 6.96
+    },
+    {
+      "texto": "usar",
+      "inicio": 7.024,
+      "fin": 7.28
+    },
+    {
+      "texto": "Python",
+      "inicio": 7.36,
+      "fin": 7.84
+    },
+    {
+      "texto": "en",
+      "inicio": 7.92,
+      "fin": 8.08
+    },
+    {
+      "texto": "una",
+      "inicio": 8.14,
+      "fin": 8.32
+    },
+    {
+      "texto": "celda,",
+      "inicio": 8.4,
+      "fin": 9.12
+    },
+    {
+      "texto": "con",
+      "inicio": 9.24,
+      "fin": 9.6
+    },
+    {
+      "texto": "las",
+      "inicio": 9.64,
+      "fin": 9.76
+    },
+    {
+      "texto": "mismas",
+      "inicio": 9.808,
+      "fin": 10.08
+    },
+    {
+      "texto": "bibliotecas",
+      "inicio": 10.12,
+      "fin": 10.64
+    },
+    {
+      "texto": "que",
+      "inicio": 10.68,
+      "fin": 10.8
+    },
+    {
+      "texto": "usan",
+      "inicio": 10.827,
+      "fin": 10.96
+    },
+    {
+      "texto": "los",
+      "inicio": 11.0,
+      "fin": 11.12
+    },
+    {
+      "texto": "científicos",
+      "inicio": 11.16,
+      "fin": 11.68
+    },
+    {
+      "texto": "de",
+      "inicio": 11.707,
+      "fin": 11.76
+    },
+    {
+      "texto": "datos.",
+      "inicio": 11.84,
+      "fin": 12.48
+    },
+    {
+      "texto": "El",
+      "inicio": 12.747,
+      "fin": 13.28
+    },
+    {
+      "texto": "código",
+      "inicio": 13.337,
+      "fin": 13.68
+    },
+    {
+      "texto": "se",
+      "inicio": 13.707,
+      "fin": 13.76
+    },
+    {
+      "texto": "ejecuta",
+      "inicio": 13.808,
+      "fin": 14.32
+    },
+    {
+      "texto": "en",
+      "inicio": 14.427,
+      "fin": 14.64
+    },
+    {
+      "texto": "la",
+      "inicio": 14.693,
+      "fin": 14.8
+    },
+    {
+      "texto": "nube",
+      "inicio": 14.84,
+      "fin": 15.04
+    },
+    {
+      "texto": "de",
+      "inicio": 15.093,
+      "fin": 15.2
+    },
+    {
+      "texto": "Microsoft.",
+      "inicio": 15.256,
+      "fin": 15.92
+    },
+    {
+      "texto": "Ya",
+      "inicio": 16.293,
+      "fin": 17.04
+    },
+    {
+      "texto": "está",
+      "inicio": 17.088,
+      "fin": 17.28
+    },
+    {
+      "texto": "disponible",
+      "inicio": 17.324,
+      "fin": 17.76
+    },
+    {
+      "texto": "para",
+      "inicio": 17.792,
+      "fin": 17.92
+    },
+    {
+      "texto": "empresas,",
+      "inicio": 17.982,
+      "fin": 18.56
+    },
+    {
+      "texto": "y",
+      "inicio": 18.8,
+      "fin": 19.04
+    },
+    {
+      "texto": "en",
+      "inicio": 19.067,
+      "fin": 19.12
+    },
+    {
+      "texto": "vista",
+      "inicio": 19.187,
+      "fin": 19.52
+    },
+    {
+      "texto": "previa",
+      "inicio": 19.568,
+      "fin": 19.92
+    },
+    {
+      "texto": "para",
+      "inicio": 19.952,
+      "fin": 20.08
+    },
+    {
+      "texto": "los",
+      "inicio": 20.12,
+      "fin": 20.24
+    },
+    {
+      "texto": "planes",
+      "inicio": 20.274,
+      "fin": 20.48
+    },
+    {
+      "texto": "personales.",
+      "inicio": 20.537,
+      "fin": 21.52
+    },
+    {
+      "texto": "En",
+      "inicio": 21.733,
+      "fin": 22.16
+    },
+    {
+      "texto": "un",
+      "inicio": 22.213,
+      "fin": 22.32
+    },
+    {
+      "texto": "par",
+      "inicio": 22.36,
+      "fin": 22.48
+    },
+    {
+      "texto": "de",
+      "inicio": 22.507,
+      "fin": 22.56
+    },
+    {
+      "texto": "semanas",
+      "inicio": 22.64,
+      "fin": 23.2
+    },
+    {
+      "texto": "te",
+      "inicio": 23.307,
+      "fin": 23.519
+    },
+    {
+      "texto": "hago",
+      "inicio": 23.52,
+      "fin": 23.6
+    },
+    {
+      "texto": "un",
+      "inicio": 23.627,
+      "fin": 23.68
+    },
+    {
+      "texto": "tutorial",
+      "inicio": 23.733,
+      "fin": 24.16
+    },
+    {
+      "texto": "completo",
+      "inicio": 24.222,
+      "fin": 24.72
+    },
+    {
+      "texto": "de",
+      "inicio": 24.747,
+      "fin": 24.8
+    },
+    {
+      "texto": "esto.",
+      "inicio": 24.864,
+      "fin": 25.2
+    }
+  ]
+}

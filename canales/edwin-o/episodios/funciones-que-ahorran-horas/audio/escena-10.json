@@ -1,0 +1,335 @@
+{
+  "num": "10",
+  "titulo": "5. DIVIDIRTEXTO",
+  "texto": "Número cinco: DIVIDIRTEXTO. ¿Te llegan códigos o nombres todos pegados en una sola celda? Igual, DIVIDIRTEXTO, la celda, y entre comillas el separador, en este caso un guion. Y el código se reparte en tres columnas: el año, el país y el número. Antes esto se hacía con Texto en columnas, y había que repetirlo cada vez. Ahora es una fórmula que se actualiza sola.",
+  "texto_tts": "Número cinco: DIVIDIRTEXTO. ¿Te llegan códigos o nombres todos pegados en una sola celda? Igual, DIVIDIRTEXTO, la celda, y entre comillas el separador, en este caso un guion. Y el código se reparte en tres columnas: el año, el país y el número. Antes esto se hacía con Texto en columnas, y había que repetirlo cada vez. Ahora es una fórmula que se actualiza sola.",
+  "modelo": "eleven_v3",
+  "duracion": 29.2,
+  "palabras": [
+    {
+      "texto": "Número",
+      "inicio": 0.0,
+      "fin": 0.32
+    },
+    {
+      "texto": "cinco:",
+      "inicio": 0.387,
+      "fin": 0.8
+    },
+    {
+      "texto": "DIVIDIRTEXTO.",
+      "inicio": 0.94,
+      "fin": 2.56
+    },
+    {
+      "texto": "¿Te",
+      "inicio": 3.0,
+      "fin": 3.52
+    },
+    {
+      "texto": "llegan",
+      "inicio": 3.568,
+      "fin": 3.84
+    },
+    {
+      "texto": "códigos",
+      "inicio": 3.92,
+      "fin": 4.4
+    },
+    {
+      "texto": "o",
+      "inicio": 4.44,
+      "fin": 4.48
+    },
+    {
+      "texto": "nombres",
+      "inicio": 4.55,
+      "fin": 5.04
+    },
+    {
+      "texto": "todos",
+      "inicio": 5.133,
+      "fin": 5.6
+    },
+    {
+      "texto": "pegados",
+      "inicio": 5.64,
+      "fin": 6.0
+    },
+    {
+      "texto": "en",
+      "inicio": 6.053,
+      "fin": 6.16
+    },
+    {
+      "texto": "una",
+      "inicio": 6.2,
+      "fin": 6.32
+    },
+    {
+      "texto": "sola",
+      "inicio": 6.384,
+      "fin": 6.64
+    },
+    {
+      "texto": "celda?",
+      "inicio": 6.72,
+      "fin": 7.36
+    },
+    {
+      "texto": "Igual,",
+      "inicio": 7.573,
+      "fin": 8.32
+    },
+    {
+      "texto": "DIVIDIRTEXTO,",
+      "inicio": 8.52,
+      "fin": 10.4
+    },
+    {
+      "texto": "la",
+      "inicio": 10.453,
+      "fin": 10.56
+    },
+    {
+      "texto": "celda,",
+      "inicio": 10.64,
+      "fin": 11.44
+    },
+    {
+      "texto": "y",
+      "inicio": 11.56,
+      "fin": 11.68
+    },
+    {
+      "texto": "entre",
+      "inicio": 11.72,
+      "fin": 11.92
+    },
+    {
+      "texto": "comillas",
+      "inicio": 12.0,
+      "fin": 12.48
+    },
+    {
+      "texto": "el",
+      "inicio": 12.533,
+      "fin": 12.64
+    },
+    {
+      "texto": "separador,",
+      "inicio": 12.693,
+      "fin": 13.36
+    },
+    {
+      "texto": "en",
+      "inicio": 13.413,
+      "fin": 13.52
+    },
+    {
+      "texto": "este",
+      "inicio": 13.568,
+      "fin": 13.76
+    },
+    {
+      "texto": "caso",
+      "inicio": 13.824,
+      "fin": 14.08
+    },
+    {
+      "texto": "un",
+      "inicio": 14.16,
+      "fin": 14.32
+    },
+    {
+      "texto": "guion.",
+      "inicio": 14.373,
+      "fin": 15.04
+    },
+    {
+      "texto": "Y",
+      "inicio": 15.36,
+      "fin": 15.68
+    },
+    {
+      "texto": "el",
+      "inicio": 15.733,
+      "fin": 15.84
+    },
+    {
+      "texto": "código",
+      "inicio": 15.897,
+      "fin": 16.24
+    },
+    {
+      "texto": "se",
+      "inicio": 16.293,
+      "fin": 16.4
+    },
+    {
+      "texto": "reparte",
+      "inicio": 16.44,
+      "fin": 16.8
+    },
+    {
+      "texto": "en",
+      "inicio": 16.827,
+      "fin": 16.88
+    },
+    {
+      "texto": "tres",
+      "inicio": 16.928,
+      "fin": 17.12
+    },
+    {
+      "texto": "columnas:",
+      "inicio": 17.189,
+      "fin": 18.0
+    },
+    {
+      "texto": "el",
+      "inicio": 18.053,
+      "fin": 18.16
+    },
+    {
+      "texto": "año,",
+      "inicio": 18.24,
+      "fin": 18.72
+    },
+    {
+      "texto": "el",
+      "inicio": 18.747,
+      "fin": 18.8
+    },
+    {
+      "texto": "país",
+      "inicio": 18.928,
+      "fin": 19.44
+    },
+    {
+      "texto": "y",
+      "inicio": 19.52,
+      "fin": 19.6
+    },
+    {
+      "texto": "el",
+      "inicio": 19.627,
+      "fin": 19.68
+    },
+    {
+      "texto": "número.",
+      "inicio": 19.749,
+      "fin": 20.4
+    },
+    {
+      "texto": "Antes",
+      "inicio": 20.66,
+      "fin": 21.6
+    },
+    {
+      "texto": "esto",
+      "inicio": 21.68,
+      "fin": 22.0
+    },
+    {
+      "texto": "se",
+      "inicio": 22.027,
+      "fin": 22.08
+    },
+    {
+      "texto": "hacía",
+      "inicio": 22.12,
+      "fin": 22.4
+    },
+    {
+      "texto": "con",
+      "inicio": 22.46,
+      "fin": 22.64
+    },
+    {
+      "texto": "Texto",
+      "inicio": 22.704,
+      "fin": 23.04
+    },
+    {
+      "texto": "en",
+      "inicio": 23.067,
+      "fin": 23.12
+    },
+    {
+      "texto": "columnas,",
+      "inicio": 23.189,
+      "fin": 24.0
+    },
+    {
+      "texto": "y",
+      "inicio": 24.04,
+      "fin": 24.08
+    },
+    {
+      "texto": "había",
+      "inicio": 24.133,
+      "fin": 24.4
+    },
+    {
+      "texto": "que",
+      "inicio": 24.42,
+      "fin": 24.48
+    },
+    {
+      "texto": "repetirlo",
+      "inicio": 24.533,
+      "fin": 25.12
+    },
+    {
+      "texto": "cada",
+      "inicio": 25.216,
+      "fin": 25.6
+    },
+    {
+      "texto": "vez.",
+      "inicio": 25.68,
+      "fin": 26.24
+    },
+    {
+      "texto": "Ahora",
+      "inicio": 26.427,
+      "fin": 26.88
+    },
+    {
+      "texto": "es",
+      "inicio": 26.933,
+      "fin": 27.04
+    },
+    {
+      "texto": "una",
+      "inicio": 27.1,
+      "fin": 27.28
+    },
+    {
+      "texto": "fórmula",
+      "inicio": 27.32,
+      "fin": 27.76
+    },
+    {
+      "texto": "que",
+      "inicio": 27.82,
+      "fin": 28.0
+    },
+    {
+      "texto": "se",
+      "inicio": 28.027,
+      "fin": 28.08
+    },
+    {
+      "texto": "actualiza",
+      "inicio": 28.126,
+      "fin": 28.56
+    },
+    {
+      "texto": "sola.",
+      "inicio": 28.656,
+      "fin": 29.2
+    }
+  ]
+}

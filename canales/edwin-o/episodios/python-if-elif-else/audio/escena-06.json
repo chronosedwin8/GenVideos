@@ -1,0 +1,305 @@
+{
+  "num": "06",
+  "titulo": "Paso 1: el if",
+  "texto": "Paso uno: el if. Escribes la palabra if, luego la condición, por ejemplo ventas mayor o igual que cinco mil, y terminas con dos puntos. Y aquí está lo más importante de Python: la línea de abajo va con sangría, cuatro espacios hacia adentro. Esa sangría le dice a Python: esto solo se ejecuta si la condición es verdadera.",
+  "texto_tts": "Paso uno: el if. Escribes la palabra if, luego la condición, por ejemplo ventas mayor o igual que cinco mil, y terminas con dos puntos. Y aquí está lo más importante de Python: la línea de abajo va con sangría, cuatro espacios hacia adentro. Esa sangría le dice a Python: esto solo se ejecuta si la condición es verdadera.",
+  "modelo": "eleven_v3",
+  "duracion": 28.08,
+  "palabras": [
+    {
+      "texto": "Paso",
+      "inicio": 0.0,
+      "fin": 0.32
+    },
+    {
+      "texto": "uno:",
+      "inicio": 0.42,
+      "fin": 0.8
+    },
+    {
+      "texto": "el",
+      "inicio": 0.96,
+      "fin": 1.28
+    },
+    {
+      "texto": "if.",
+      "inicio": 1.44,
+      "fin": 1.84
+    },
+    {
+      "texto": "Escribes",
+      "inicio": 2.053,
+      "fin": 2.88
+    },
+    {
+      "texto": "la",
+      "inicio": 2.907,
+      "fin": 2.96
+    },
+    {
+      "texto": "palabra",
+      "inicio": 3.01,
+      "fin": 3.36
+    },
+    {
+      "texto": "if,",
+      "inicio": 3.52,
+      "fin": 4.24
+    },
+    {
+      "texto": "luego",
+      "inicio": 4.293,
+      "fin": 4.56
+    },
+    {
+      "texto": "la",
+      "inicio": 4.667,
+      "fin": 4.88
+    },
+    {
+      "texto": "condición,",
+      "inicio": 4.944,
+      "fin": 5.92
+    },
+    {
+      "texto": "por",
+      "inicio": 5.96,
+      "fin": 6.08
+    },
+    {
+      "texto": "ejemplo",
+      "inicio": 6.15,
+      "fin": 6.64
+    },
+    {
+      "texto": "ventas",
+      "inicio": 6.8,
+      "fin": 7.76
+    },
+    {
+      "texto": "mayor",
+      "inicio": 7.853,
+      "fin": 8.32
+    },
+    {
+      "texto": "o",
+      "inicio": 8.36,
+      "fin": 8.4
+    },
+    {
+      "texto": "igual",
+      "inicio": 8.453,
+      "fin": 8.72
+    },
+    {
+      "texto": "que",
+      "inicio": 8.8,
+      "fin": 9.04
+    },
+    {
+      "texto": "cinco",
+      "inicio": 9.147,
+      "fin": 9.68
+    },
+    {
+      "texto": "mil,",
+      "inicio": 9.76,
+      "fin": 10.16
+    },
+    {
+      "texto": "y",
+      "inicio": 10.4,
+      "fin": 10.64
+    },
+    {
+      "texto": "terminas",
+      "inicio": 10.697,
+      "fin": 11.28
+    },
+    {
+      "texto": "con",
+      "inicio": 11.34,
+      "fin": 11.52
+    },
+    {
+      "texto": "dos",
+      "inicio": 11.6,
+      "fin": 11.84
+    },
+    {
+      "texto": "puntos.",
+      "inicio": 11.931,
+      "fin": 12.64
+    },
+    {
+      "texto": "Y",
+      "inicio": 12.96,
+      "fin": 13.28
+    },
+    {
+      "texto": "aquí",
+      "inicio": 13.344,
+      "fin": 13.6
+    },
+    {
+      "texto": "está",
+      "inicio": 13.68,
+      "fin": 14.0
+    },
+    {
+      "texto": "lo",
+      "inicio": 14.053,
+      "fin": 14.16
+    },
+    {
+      "texto": "más",
+      "inicio": 14.22,
+      "fin": 14.4
+    },
+    {
+      "texto": "importante",
+      "inicio": 14.458,
+      "fin": 15.04
+    },
+    {
+      "texto": "de",
+      "inicio": 15.067,
+      "fin": 15.12
+    },
+    {
+      "texto": "Python:",
+      "inicio": 15.2,
+      "fin": 16.32
+    },
+    {
+      "texto": "la",
+      "inicio": 16.373,
+      "fin": 16.48
+    },
+    {
+      "texto": "línea",
+      "inicio": 16.547,
+      "fin": 16.88
+    },
+    {
+      "texto": "de",
+      "inicio": 16.907,
+      "fin": 16.96
+    },
+    {
+      "texto": "abajo",
+      "inicio": 17.013,
+      "fin": 17.52
+    },
+    {
+      "texto": "va",
+      "inicio": 17.627,
+      "fin": 17.84
+    },
+    {
+      "texto": "con",
+      "inicio": 17.9,
+      "fin": 18.08
+    },
+    {
+      "texto": "sangría,",
+      "inicio": 18.16,
+      "fin": 19.36
+    },
+    {
+      "texto": "cuatro",
+      "inicio": 19.417,
+      "fin": 19.76
+    },
+    {
+      "texto": "espacios",
+      "inicio": 19.82,
+      "fin": 20.4
+    },
+    {
+      "texto": "hacia",
+      "inicio": 20.467,
+      "fin": 20.8
+    },
+    {
+      "texto": "adentro.",
+      "inicio": 20.827,
+      "fin": 21.76
+    },
+    {
+      "texto": "Esa",
+      "inicio": 21.96,
+      "fin": 22.24
+    },
+    {
+      "texto": "sangría",
+      "inicio": 22.304,
+      "fin": 22.88
+    },
+    {
+      "texto": "le",
+      "inicio": 22.96,
+      "fin": 23.12
+    },
+    {
+      "texto": "dice",
+      "inicio": 23.168,
+      "fin": 23.36
+    },
+    {
+      "texto": "a",
+      "inicio": 23.48,
+      "fin": 23.6
+    },
+    {
+      "texto": "Python:",
+      "inicio": 23.634,
+      "fin": 23.92
+    },
+    {
+      "texto": "esto",
+      "inicio": 24.096,
+      "fin": 24.8
+    },
+    {
+      "texto": "solo",
+      "inicio": 24.88,
+      "fin": 25.2
+    },
+    {
+      "texto": "se",
+      "inicio": 25.253,
+      "fin": 25.36
+    },
+    {
+      "texto": "ejecuta",
+      "inicio": 25.408,
+      "fin": 25.92
+    },
+    {
+      "texto": "si",
+      "inicio": 26.027,
+      "fin": 26.24
+    },
+    {
+      "texto": "la",
+      "inicio": 26.267,
+      "fin": 26.32
+    },
+    {
+      "texto": "condición",
+      "inicio": 26.384,
+      "fin": 27.04
+    },
+    {
+      "texto": "es",
+      "inicio": 27.147,
+      "fin": 27.36
+    },
+    {
+      "texto": "verdadera.",
+      "inicio": 27.424,
+      "fin": 28.08
+    }
+  ]
+}

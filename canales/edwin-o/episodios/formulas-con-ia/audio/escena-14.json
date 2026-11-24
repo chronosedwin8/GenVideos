@@ -1,0 +1,225 @@
+{
+  "num": "14",
+  "titulo": "Parte 5: explicación y pruebas",
+  "texto": "Parte cinco: pídele que te explique la fórmula y que te dé casos de prueba. Mira la diferencia: ahora me responde con SI punto CONJUNTO, en español, con mayor o igual, y además me dice con qué valores probarla. Eso es otro nivel.",
+  "texto_tts": "Parte cinco: pídele que te explique la fórmula y que te dé casos de prueba. Mira la diferencia: ahora me responde con SI punto CONJUNTO, en español, con mayor o igual, y además me dice con qué valores probarla. Eso es otro nivel.",
+  "modelo": "eleven_v3",
+  "duracion": 17.84,
+  "palabras": [
+    {
+      "texto": "Parte",
+      "inicio": 0.0,
+      "fin": 0.24
+    },
+    {
+      "texto": "cinco:",
+      "inicio": 0.32,
+      "fin": 1.52
+    },
+    {
+      "texto": "pídele",
+      "inicio": 1.56,
+      "fin": 1.84
+    },
+    {
+      "texto": "que",
+      "inicio": 1.88,
+      "fin": 2.0
+    },
+    {
+      "texto": "te",
+      "inicio": 2.027,
+      "fin": 2.08
+    },
+    {
+      "texto": "explique",
+      "inicio": 2.128,
+      "fin": 2.48
+    },
+    {
+      "texto": "la",
+      "inicio": 2.507,
+      "fin": 2.56
+    },
+    {
+      "texto": "fórmula",
+      "inicio": 2.64,
+      "fin": 3.12
+    },
+    {
+      "texto": "y",
+      "inicio": 3.28,
+      "fin": 3.44
+    },
+    {
+      "texto": "que",
+      "inicio": 3.48,
+      "fin": 3.6
+    },
+    {
+      "texto": "te",
+      "inicio": 3.653,
+      "fin": 3.76
+    },
+    {
+      "texto": "dé",
+      "inicio": 3.813,
+      "fin": 3.92
+    },
+    {
+      "texto": "casos",
+      "inicio": 3.973,
+      "fin": 4.24
+    },
+    {
+      "texto": "de",
+      "inicio": 4.267,
+      "fin": 4.32
+    },
+    {
+      "texto": "prueba.",
+      "inicio": 4.389,
+      "fin": 4.88
+    },
+    {
+      "texto": "Mira",
+      "inicio": 5.6,
+      "fin": 6.4
+    },
+    {
+      "texto": "la",
+      "inicio": 6.453,
+      "fin": 6.56
+    },
+    {
+      "texto": "diferencia:",
+      "inicio": 6.618,
+      "fin": 7.28
+    },
+    {
+      "texto": "ahora",
+      "inicio": 7.373,
+      "fin": 7.84
+    },
+    {
+      "texto": "me",
+      "inicio": 7.867,
+      "fin": 7.92
+    },
+    {
+      "texto": "responde",
+      "inicio": 7.98,
+      "fin": 8.4
+    },
+    {
+      "texto": "con",
+      "inicio": 8.46,
+      "fin": 8.64
+    },
+    {
+      "texto": "SI",
+      "inicio": 8.773,
+      "fin": 9.04
+    },
+    {
+      "texto": "punto",
+      "inicio": 9.107,
+      "fin": 9.44
+    },
+    {
+      "texto": "CONJUNTO,",
+      "inicio": 9.5,
+      "fin": 10.32
+    },
+    {
+      "texto": "en",
+      "inicio": 10.347,
+      "fin": 10.4
+    },
+    {
+      "texto": "español,",
+      "inicio": 10.46,
+      "fin": 11.04
+    },
+    {
+      "texto": "con",
+      "inicio": 11.16,
+      "fin": 11.52
+    },
+    {
+      "texto": "mayor",
+      "inicio": 11.6,
+      "fin": 12.0
+    },
+    {
+      "texto": "o",
+      "inicio": 12.12,
+      "fin": 12.24
+    },
+    {
+      "texto": "igual,",
+      "inicio": 12.307,
+      "fin": 12.88
+    },
+    {
+      "texto": "y",
+      "inicio": 13.08,
+      "fin": 13.28
+    },
+    {
+      "texto": "además",
+      "inicio": 13.337,
+      "fin": 13.68
+    },
+    {
+      "texto": "me",
+      "inicio": 13.707,
+      "fin": 13.76
+    },
+    {
+      "texto": "dice",
+      "inicio": 13.84,
+      "fin": 14.16
+    },
+    {
+      "texto": "con",
+      "inicio": 14.24,
+      "fin": 14.48
+    },
+    {
+      "texto": "qué",
+      "inicio": 14.54,
+      "fin": 14.72
+    },
+    {
+      "texto": "valores",
+      "inicio": 14.78,
+      "fin": 15.2
+    },
+    {
+      "texto": "probarla.",
+      "inicio": 15.24,
+      "fin": 15.84
+    },
+    {
+      "texto": "Eso",
+      "inicio": 16.08,
+      "fin": 16.48
+    },
+    {
+      "texto": "es",
+      "inicio": 16.587,
+      "fin": 16.8
+    },
+    {
+      "texto": "otro",
+      "inicio": 16.88,
+      "fin": 17.2
+    },
+    {
+      "texto": "nivel.",
+      "inicio": 17.267,
+      "fin": 17.84
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "titulo": "Python en Excel: tu primer análisis con =PY() (sin instalar nada)",
+  "titulos_alternativos": [
+    "Cómo usar Python DENTRO de Excel paso a paso",
+    "=PY() en Excel: estadísticas y gráficos con Python"
+  ],
+  "intro": "Python ya vive dentro de Excel. Te enseño a insertar una celda de Python, traer tus datos con xl(), sacar estadísticas con describe, agrupar con groupby y crear un gráfico, además de sus límites y cuándo usar cada herramienta.",
+  "aprenderas": [
+    "Cómo funciona (Microsoft Cloud + Anaconda)",
+    "Fórmulas > Insertar Python y Ctrl + Entrar",
+    "xl(\"Tabla[#All]\", headers=True)",
+    "Objeto de Python vs valores de Excel",
+    "describe, groupby y plot",
+    "Orden de cálculo y límites"
+  ],
+  "bloque": "Código del video (cada línea en una celda =PY):\ndf = xl(\"Ventas[#All]\", headers=True)\ndf.describe()\ndf.groupby(\"Región\")[\"Monto\"].sum()\ndf.groupby(\"Región\")[\"Monto\"].sum().plot(kind=\"bar\")\ndf[df[\"Mes\"] == \"Feb\"].groupby(\"Región\")[\"Monto\"].sum()",
+  "capitulos": {
+    "01": "Python dentro de una celda",
+    "03": "Disponibilidad",
+    "05": "¿Cómo funciona?",
+    "06": "Paso 1: tus datos en Tabla",
+    "07": "Paso 2: Insertar Python",
+    "08": "Paso 3: xl() y Ctrl + Entrar",
+    "09": "Paso 4: dos tipos de salida",
+    "10": "Paso 5: estadísticas",
+    "11": "Paso 6: agrupa",
+    "12": "Paso 7: el gráfico",
+    "13": "Bonus: filtra antes de agrupar",
+    "14": "Las bibliotecas incluidas",
+    "15": "El orden de cálculo",
+    "16": "Los límites",
+    "17": "¿Cuándo usar cada cosa?"
+  },
+  "enlaces": [
+    "📊 Guías de Excel en el blog: https://www.edwinortiz.net/excel/",
+    "🌐 Plantillas y cursos: https://www.edwinortiz.net"
+  ],
+  "fuentes": [
+    "Introducción a Python en Excel: https://support.microsoft.com/es-es/office/introducci%C3%B3n-a-python-en-excel-a33fbcbe-065b-41d3-82cf-23d05397f53d",
+    "Disponibilidad: https://support.microsoft.com/en-us/office/python-in-excel-availability-781383e6-86b9-4156-84fb-93e786f7cab0",
+    "Bibliotecas incluidas: https://support.microsoft.com/en-us/office/python-in-excel-open-source-libraries-c817c897-41db-40a1-b9f3-d5ffe6d1bf3e",
+    "Gráficos: https://support.microsoft.com/en-us/office/create-python-in-excel-plots-and-charts-798b5e8d-ce45-4451-8da3-f269cdad5cff"
+  ],
+  "hashtags": [
+    "#Python",
+    "#Excel",
+    "#PythonEnExcel"
+  ],
+  "tags": [
+    "python en excel",
+    "=py excel",
+    "python in excel",
+    "pandas excel",
+    "excel 365 python",
+    "analisis de datos excel",
+    "graficos python excel",
+    "python para excel",
+    "ciencia de datos excel",
+    "edwin o"
+  ],
+  "playlist": "Excel con IA",
+  "programar": "2026-12-22 07:00",
+  "shorts": [
+    {
+      "id": "short-1",
+      "titulo": "Un gráfico con PYTHON dentro de Excel #shorts",
+      "descripcion": ".plot(kind=\"bar\") en una celda =PY. Video completo en el canal.",
+      "tags": [
+        "python en excel"
+      ],
+      "programar": "2026-12-23 12:00"
+    },
+    {
+      "id": "short-2",
+      "titulo": "Estadísticas en Excel con UNA palabra (Python) #shorts",
+      "descripcion": "df.describe() en una celda =PY. Video completo en el canal.",
+      "tags": [
+        "python excel describe"
+      ],
+      "programar": "2026-12-26 12:00"
+    }
+  ]
+}

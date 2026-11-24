@@ -1,0 +1,55 @@
+{
+  "titulo": "Cómo pedirle a la IA fórmulas de Excel que SÍ funcionan (ChatGPT, Copilot, Claude)",
+  "descripcion": "¿Le pides fórmulas de Excel a la inteligencia artificial y a veces salen mal? En este video te enseño el método de las 5 partes para que ChatGPT, Claude, Gemini o Copilot te den fórmulas que funcionan a la primera, y a probarlas antes de usarlas.\nMicrosoft retiró la función =COPILOT() de Excel en septiembre de 2026: la lección es usar la IA para escribir fórmulas normales, no para que tu hoja dependa de ella.\n\nEn este video aprenderás:\n✅ Por qué la IA se equivoca con tus fórmulas\n✅ El prompt de 5 partes (versión, datos, regla, ejemplo y pruebas)\n✅ Probar los casos frontera antes de confiar\n✅ SI.CONJUNTO y BUSCARX con tasas en celdas\n✅ Qué hacer con #¿NOMBRE?\n\nPlantilla del prompt:\n\"Uso Excel 365 en español (separador ;). Mis datos están en ___, con encabezados en la fila 1. Necesito en ___ una fórmula que ___. Regla exacta: ___ (límites inclusive). Ejemplo: si ___, el resultado es ___. Explícamela y dame casos de prueba.\"\n\nFórmulas del video:\n=SI.CONJUNTO(C2>=5000;C2*5%;C2>=1000;C2*3%;VERDADERO;0)\n=C2*BUSCARX(C2;$F$2:$F$4;$G$2:$G$4;0;-1)\n\nCapítulos\n0:00 La fórmula que parecía perfecta\n0:39 Microsoft retiró =COPILOT()\n1:51 El ejemplo: comisiones\n2:10 El prompt vago y sus 2 problemas\n3:34 El método de las 5 partes\n4:56 Prueba los casos frontera\n5:18 Entiende la fórmula\n5:41 Nivel pro: tasas en celdas con BUSCARX\n6:06 Bonus: fórmulas heredadas\n6:40 Funciones que no existen\n7:08 3 reglas de seguridad\n7:31 Plantilla del prompt\n\n📊 Guías de Excel en el blog: https://www.edwinortiz.net/excel/\n🌐 Plantillas y cursos: https://www.edwinortiz.net\n\nFuentes\nMicrosoft Support, función COPILOT (retirada el 14/09/2026): https://support.microsoft.com/en-us/office/copilot-function-5849821b-755d-4030-a38b-9e20be0cbf62\nCentro de mensajes MC1454373: https://mc.merill.net/message/MC1454373\n\nLa voz de este video es la voz de Edwin, clonada con inteligencia artificial (ElevenLabs).\n\nVamos en busca del poder tecnológico. 🚀\n#Excel #InteligenciaArtificial #ChatGPT",
+  "tags": [
+    "formulas de excel con ia",
+    "chatgpt excel",
+    "copilot excel",
+    "prompt para excel",
+    "ia para excel",
+    "formulas excel",
+    "si.conjunto",
+    "buscarx",
+    "excel 365",
+    "trucos de excel",
+    "excel para empresas",
+    "claude excel",
+    "edwin o"
+  ],
+  "categoria": 27,
+  "idioma": "es",
+  "creado_para_ninos": false,
+  "contenido_sintetico": true,
+  "privacidad": "public",
+  "programar": "2026-12-01 07:00",
+  "playlist": "Excel con IA",
+  "archivo": "render/formulas-con-ia.mp4",
+  "miniatura": "miniatura.png",
+  "subtitulos": "audio/subtitulos.srt",
+  "shorts": [
+    {
+      "id": "short-1",
+      "titulo": "Microsoft BORRÓ esta función de Excel #shorts",
+      "descripcion": "La función =COPILOT() se retiró de Excel el 14 de septiembre de 2026. Video completo en el canal: fórmulas con IA que sí funcionan.",
+      "tags": [
+        "copilot excel",
+        "excel ia",
+        "shorts"
+      ],
+      "programar": "2026-12-02 12:00",
+      "archivo": "render/short-1.mp4"
+    },
+    {
+      "id": "short-2",
+      "titulo": "La IA te dio una fórmula de Excel MAL #shorts",
+      "descripcion": "\"Mayor que\" en vez de \"mayor o igual\": prueba siempre los límites. Video completo en el canal.",
+      "tags": [
+        "formulas excel ia",
+        "chatgpt excel",
+        "shorts"
+      ],
+      "programar": "2026-12-05 12:00",
+      "archivo": "render/short-2.mp4"
+    }
+  ]
+}

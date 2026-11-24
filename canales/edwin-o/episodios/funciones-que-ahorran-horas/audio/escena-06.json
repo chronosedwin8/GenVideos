@@ -1,0 +1,355 @@
+{
+  "num": "06",
+  "titulo": "1. BUSCARX",
+  "texto": "Número uno: BUSCARX, la heredera de BUSCARV. Le dices qué buscar, dónde buscarlo y qué columna devolver. Igual, BUSCARX, F dos, la columna de códigos, la columna de precios, y entre comillas: no existe. El código P ciento tres devuelve trescientos diez. Y si el código no existe, en vez del feo error, te dice \"no existe\". Además, puede buscar hacia la izquierda, algo que BUSCARV nunca pudo hacer.",
+  "texto_tts": "Número uno: BUSCARX, la heredera de BUSCARV. Le dices qué buscar, dónde buscarlo y qué columna devolver. Igual, BUSCARX, F dos, la columna de códigos, la columna de precios, y entre comillas: no existe. El código P ciento tres devuelve trescientos diez. Y si el código no existe, en vez del feo error, te dice \"no existe\". Además, puede buscar hacia la izquierda, algo que BUSCARV nunca pudo hacer.",
+  "modelo": "eleven_v3",
+  "duracion": 40.8,
+  "palabras": [
+    {
+      "texto": "Número",
+      "inicio": 0.0,
+      "fin": 0.32
+    },
+    {
+      "texto": "uno:",
+      "inicio": 0.4,
+      "fin": 0.8
+    },
+    {
+      "texto": "BUSCARX,",
+      "inicio": 0.94,
+      "fin": 2.48
+    },
+    {
+      "texto": "la",
+      "inicio": 2.613,
+      "fin": 2.88
+    },
+    {
+      "texto": "heredera",
+      "inicio": 2.94,
+      "fin": 3.52
+    },
+    {
+      "texto": "de",
+      "inicio": 3.653,
+      "fin": 3.92
+    },
+    {
+      "texto": "BUSCARV.",
+      "inicio": 4.0,
+      "fin": 5.12
+    },
+    {
+      "texto": "Le",
+      "inicio": 5.467,
+      "fin": 6.16
+    },
+    {
+      "texto": "dices",
+      "inicio": 6.2,
+      "fin": 6.56
+    },
+    {
+      "texto": "qué",
+      "inicio": 6.6,
+      "fin": 6.72
+    },
+    {
+      "texto": "buscar,",
+      "inicio": 6.8,
+      "fin": 7.36
+    },
+    {
+      "texto": "dónde",
+      "inicio": 7.627,
+      "fin": 8.32
+    },
+    {
+      "texto": "buscarlo",
+      "inicio": 8.4,
+      "fin": 9.04
+    },
+    {
+      "texto": "y",
+      "inicio": 9.2,
+      "fin": 9.36
+    },
+    {
+      "texto": "qué",
+      "inicio": 9.42,
+      "fin": 9.6
+    },
+    {
+      "texto": "columna",
+      "inicio": 9.67,
+      "fin": 10.16
+    },
+    {
+      "texto": "devolver.",
+      "inicio": 10.22,
+      "fin": 10.96
+    },
+    {
+      "texto": "Igual,",
+      "inicio": 11.333,
+      "fin": 12.48
+    },
+    {
+      "texto": "BUSCARX,",
+      "inicio": 12.66,
+      "fin": 14.24
+    },
+    {
+      "texto": "F",
+      "inicio": 14.48,
+      "fin": 14.72
+    },
+    {
+      "texto": "dos,",
+      "inicio": 14.82,
+      "fin": 15.28
+    },
+    {
+      "texto": "la",
+      "inicio": 15.467,
+      "fin": 15.84
+    },
+    {
+      "texto": "columna",
+      "inicio": 15.89,
+      "fin": 16.24
+    },
+    {
+      "texto": "de",
+      "inicio": 16.293,
+      "fin": 16.4
+    },
+    {
+      "texto": "códigos,",
+      "inicio": 16.48,
+      "fin": 17.12
+    },
+    {
+      "texto": "la",
+      "inicio": 17.227,
+      "fin": 17.44
+    },
+    {
+      "texto": "columna",
+      "inicio": 17.51,
+      "fin": 18.0
+    },
+    {
+      "texto": "de",
+      "inicio": 18.027,
+      "fin": 18.08
+    },
+    {
+      "texto": "precios,",
+      "inicio": 18.17,
+      "fin": 18.96
+    },
+    {
+      "texto": "y",
+      "inicio": 19.0,
+      "fin": 19.04
+    },
+    {
+      "texto": "entre",
+      "inicio": 19.093,
+      "fin": 19.36
+    },
+    {
+      "texto": "comillas:",
+      "inicio": 19.42,
+      "fin": 20.24
+    },
+    {
+      "texto": "no",
+      "inicio": 20.373,
+      "fin": 20.64
+    },
+    {
+      "texto": "existe.",
+      "inicio": 20.743,
+      "fin": 21.44
+    },
+    {
+      "texto": "El",
+      "inicio": 21.787,
+      "fin": 22.48
+    },
+    {
+      "texto": "código",
+      "inicio": 22.537,
+      "fin": 22.88
+    },
+    {
+      "texto": "P",
+      "inicio": 23.04,
+      "fin": 23.2
+    },
+    {
+      "texto": "ciento",
+      "inicio": 23.28,
+      "fin": 23.6
+    },
+    {
+      "texto": "tres",
+      "inicio": 23.744,
+      "fin": 24.32
+    },
+    {
+      "texto": "devuelve",
+      "inicio": 24.409,
+      "fin": 25.12
+    },
+    {
+      "texto": "trescientos",
+      "inicio": 25.2,
+      "fin": 25.92
+    },
+    {
+      "texto": "diez.",
+      "inicio": 26.0,
+      "fin": 26.48
+    },
+    {
+      "texto": "Y",
+      "inicio": 26.92,
+      "fin": 27.36
+    },
+    {
+      "texto": "si",
+      "inicio": 27.413,
+      "fin": 27.52
+    },
+    {
+      "texto": "el",
+      "inicio": 27.547,
+      "fin": 27.6
+    },
+    {
+      "texto": "código",
+      "inicio": 27.669,
+      "fin": 28.08
+    },
+    {
+      "texto": "no",
+      "inicio": 28.107,
+      "fin": 28.16
+    },
+    {
+      "texto": "existe,",
+      "inicio": 28.251,
+      "fin": 29.28
+    },
+    {
+      "texto": "en",
+      "inicio": 29.333,
+      "fin": 29.44
+    },
+    {
+      "texto": "vez",
+      "inicio": 29.52,
+      "fin": 29.76
+    },
+    {
+      "texto": "del",
+      "inicio": 29.8,
+      "fin": 29.92
+    },
+    {
+      "texto": "feo",
+      "inicio": 30.027,
+      "fin": 30.32
+    },
+    {
+      "texto": "error,",
+      "inicio": 30.4,
+      "fin": 31.12
+    },
+    {
+      "texto": "te",
+      "inicio": 31.173,
+      "fin": 31.28
+    },
+    {
+      "texto": "dice",
+      "inicio": 31.408,
+      "fin": 31.92
+    },
+    {
+      "texto": "\"no",
+      "inicio": 32.12,
+      "fin": 32.4
+    },
+    {
+      "texto": "existe\".",
+      "inicio": 32.503,
+      "fin": 33.2
+    },
+    {
+      "texto": "Además,",
+      "inicio": 33.44,
+      "fin": 35.04
+    },
+    {
+      "texto": "puede",
+      "inicio": 35.147,
+      "fin": 35.68
+    },
+    {
+      "texto": "buscar",
+      "inicio": 35.737,
+      "fin": 36.08
+    },
+    {
+      "texto": "hacia",
+      "inicio": 36.12,
+      "fin": 36.32
+    },
+    {
+      "texto": "la",
+      "inicio": 36.347,
+      "fin": 36.4
+    },
+    {
+      "texto": "izquierda,",
+      "inicio": 36.48,
+      "fin": 37.6
+    },
+    {
+      "texto": "algo",
+      "inicio": 37.664,
+      "fin": 37.92
+    },
+    {
+      "texto": "que",
+      "inicio": 37.96,
+      "fin": 38.08
+    },
+    {
+      "texto": "BUSCARV",
+      "inicio": 38.16,
+      "fin": 39.28
+    },
+    {
+      "texto": "nunca",
+      "inicio": 39.373,
+      "fin": 39.84
+    },
+    {
+      "texto": "pudo",
+      "inicio": 39.904,
+      "fin": 40.16
+    },
+    {
+      "texto": "hacer.",
+      "inicio": 40.24,
+      "fin": 40.8
+    }
+  ]
+}

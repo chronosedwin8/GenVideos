@@ -1,0 +1,325 @@
+{
+  "num": "18",
+  "titulo": "Resumen y siguiente video",
+  "texto": "En resumen: BUSCARX, FILTRAR, UNICOS, ORDENARPOR, DIVIDIRTEXTO, APILARV y LET. Siete funciones, horas de trabajo ahorradas. Dime en los comentarios cuál vas a usar primero. Y en el próximo video vamos un paso más allá: vas a ver cómo Python crea decenas de reportes de Excel en segundos. Suscríbete para no perdértelo. El poder de la tecnología te va a cambiar el mundo.",
+  "texto_tts": "En resumen: BUSCARX, FILTRAR, UNICOS, ORDENARPOR, DIVIDIRTEXTO, APILARV y LET. Siete funciones, horas de trabajo ahorradas. Dime en los comentarios cuál vas a usar primero. Y en el próximo video vamos un paso más allá: vas a ver cómo Python crea decenas de reportes de Excel en segundos. Suscríbete para no perdértelo. [excited] El poder de la tecnología te va a cambiar el mundo.",
+  "modelo": "eleven_v3",
+  "duracion": 28.965,
+  "palabras": [
+    {
+      "texto": "En",
+      "inicio": 0.0,
+      "fin": 0.16
+    },
+    {
+      "texto": "resumen:",
+      "inicio": 0.2,
+      "fin": 0.72
+    },
+    {
+      "texto": "BUSCARX,",
+      "inicio": 0.82,
+      "fin": 2.16
+    },
+    {
+      "texto": "FILTRAR,",
+      "inicio": 2.26,
+      "fin": 3.4
+    },
+    {
+      "texto": "UNICOS,",
+      "inicio": 3.547,
+      "fin": 4.52
+    },
+    {
+      "texto": "ORDENARPOR,",
+      "inicio": 4.59,
+      "fin": 5.6
+    },
+    {
+      "texto": "DIVIDIRTEXTO,",
+      "inicio": 5.74,
+      "fin": 7.28
+    },
+    {
+      "texto": "APILARV",
+      "inicio": 7.387,
+      "fin": 8.56
+    },
+    {
+      "texto": "y",
+      "inicio": 8.68,
+      "fin": 8.8
+    },
+    {
+      "texto": "LET.",
+      "inicio": 8.88,
+      "fin": 9.28
+    },
+    {
+      "texto": "Siete",
+      "inicio": 9.64,
+      "fin": 10.24
+    },
+    {
+      "texto": "funciones,",
+      "inicio": 10.312,
+      "fin": 11.04
+    },
+    {
+      "texto": "horas",
+      "inicio": 11.147,
+      "fin": 11.68
+    },
+    {
+      "texto": "de",
+      "inicio": 11.707,
+      "fin": 11.76
+    },
+    {
+      "texto": "trabajo",
+      "inicio": 11.81,
+      "fin": 12.16
+    },
+    {
+      "texto": "ahorradas.",
+      "inicio": 12.187,
+      "fin": 13.16
+    },
+    {
+      "texto": "Dime",
+      "inicio": 13.3,
+      "fin": 13.6
+    },
+    {
+      "texto": "en",
+      "inicio": 13.627,
+      "fin": 13.68
+    },
+    {
+      "texto": "los",
+      "inicio": 13.7,
+      "fin": 13.76
+    },
+    {
+      "texto": "comentarios",
+      "inicio": 13.813,
+      "fin": 14.4
+    },
+    {
+      "texto": "cuál",
+      "inicio": 14.48,
+      "fin": 14.72
+    },
+    {
+      "texto": "vas",
+      "inicio": 14.76,
+      "fin": 14.88
+    },
+    {
+      "texto": "a",
+      "inicio": 14.92,
+      "fin": 14.96
+    },
+    {
+      "texto": "usar",
+      "inicio": 15.008,
+      "fin": 15.2
+    },
+    {
+      "texto": "primero.",
+      "inicio": 15.27,
+      "fin": 15.92
+    },
+    {
+      "texto": "Y",
+      "inicio": 16.08,
+      "fin": 16.24
+    },
+    {
+      "texto": "en",
+      "inicio": 16.267,
+      "fin": 16.32
+    },
+    {
+      "texto": "el",
+      "inicio": 16.347,
+      "fin": 16.4
+    },
+    {
+      "texto": "próximo",
+      "inicio": 16.47,
+      "fin": 16.96
+    },
+    {
+      "texto": "video",
+      "inicio": 17.013,
+      "fin": 17.28
+    },
+    {
+      "texto": "vamos",
+      "inicio": 17.347,
+      "fin": 17.68
+    },
+    {
+      "texto": "un",
+      "inicio": 17.707,
+      "fin": 17.76
+    },
+    {
+      "texto": "paso",
+      "inicio": 17.84,
+      "fin": 18.16
+    },
+    {
+      "texto": "más",
+      "inicio": 18.22,
+      "fin": 18.4
+    },
+    {
+      "texto": "allá:",
+      "inicio": 18.44,
+      "fin": 19.12
+    },
+    {
+      "texto": "vas",
+      "inicio": 19.16,
+      "fin": 19.28
+    },
+    {
+      "texto": "a",
+      "inicio": 19.34,
+      "fin": 19.4
+    },
+    {
+      "texto": "ver",
+      "inicio": 19.43,
+      "fin": 19.52
+    },
+    {
+      "texto": "cómo",
+      "inicio": 19.568,
+      "fin": 19.76
+    },
+    {
+      "texto": "Python",
+      "inicio": 19.851,
+      "fin": 20.4
+    },
+    {
+      "texto": "crea",
+      "inicio": 20.464,
+      "fin": 20.72
+    },
+    {
+      "texto": "decenas",
+      "inicio": 20.82,
+      "fin": 21.28
+    },
+    {
+      "texto": "de",
+      "inicio": 21.307,
+      "fin": 21.36
+    },
+    {
+      "texto": "reportes",
+      "inicio": 21.417,
+      "fin": 21.84
+    },
+    {
+      "texto": "de",
+      "inicio": 21.867,
+      "fin": 21.92
+    },
+    {
+      "texto": "Excel",
+      "inicio": 21.987,
+      "fin": 22.32
+    },
+    {
+      "texto": "en",
+      "inicio": 22.4,
+      "fin": 22.56
+    },
+    {
+      "texto": "segundos.",
+      "inicio": 22.631,
+      "fin": 23.36
+    },
+    {
+      "texto": "Suscríbete",
+      "inicio": 23.52,
+      "fin": 24.4
+    },
+    {
+      "texto": "para",
+      "inicio": 24.48,
+      "fin": 24.8
+    },
+    {
+      "texto": "no",
+      "inicio": 24.853,
+      "fin": 24.96
+    },
+    {
+      "texto": "perdértelo.",
+      "inicio": 25.008,
+      "fin": 25.84
+    },
+    {
+      "texto": "El",
+      "inicio": 26.218,
+      "fin": 26.245
+    },
+    {
+      "texto": "poder",
+      "inicio": 26.298,
+      "fin": 26.565
+    },
+    {
+      "texto": "de",
+      "inicio": 26.592,
+      "fin": 26.645
+    },
+    {
+      "texto": "la",
+      "inicio": 26.672,
+      "fin": 26.725
+    },
+    {
+      "texto": "tecnología",
+      "inicio": 26.789,
+      "fin": 27.445
+    },
+    {
+      "texto": "te",
+      "inicio": 27.552,
+      "fin": 27.765
+    },
+    {
+      "texto": "va",
+      "inicio": 27.792,
+      "fin": 27.845
+    },
+    {
+      "texto": "a",
+      "inicio": 27.885,
+      "fin": 27.925
+    },
+    {
+      "texto": "cambiar",
+      "inicio": 27.965,
+      "fin": 28.245
+    },
+    {
+      "texto": "el",
+      "inicio": 28.272,
+      "fin": 28.325
+    },
+    {
+      "texto": "mundo.",
+      "inicio": 28.392,
+      "fin": 28.965
+    }
+  ]
+}

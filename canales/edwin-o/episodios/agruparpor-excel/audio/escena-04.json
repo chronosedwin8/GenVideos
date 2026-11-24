@@ -1,0 +1,295 @@
+{
+  "num": "04",
+  "titulo": "El aporte de Edwin",
+  "texto": "En mis capacitaciones, la queja número uno sobre las tablas dinámicas siempre es la misma: \"profe, cambié los datos y la tabla no cambió\". Y no es un error: la tabla dinámica es una foto de tus datos. Hay que actualizarla. Con AGRUPARPOR, en cambio, el resumen es una fórmula, y las fórmulas siempre están al día.",
+  "texto_tts": "En mis capacitaciones, la queja número uno sobre las tablas dinámicas siempre es la misma: \"profe, cambié los datos y la tabla no cambió\". Y no es un error: la tabla dinámica es una foto de tus datos. Hay que actualizarla. Con AGRUPARPOR, en cambio, el resumen es una fórmula, y las fórmulas siempre están al día.",
+  "modelo": "eleven_v3",
+  "duracion": 23.12,
+  "palabras": [
+    {
+      "texto": "En",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "mis",
+      "inicio": 0.12,
+      "fin": 0.24
+    },
+    {
+      "texto": "capacitaciones,",
+      "inicio": 0.3,
+      "fin": 1.6
+    },
+    {
+      "texto": "la",
+      "inicio": 1.653,
+      "fin": 1.76
+    },
+    {
+      "texto": "queja",
+      "inicio": 1.82,
+      "fin": 2.08
+    },
+    {
+      "texto": "número",
+      "inicio": 2.137,
+      "fin": 2.48
+    },
+    {
+      "texto": "uno",
+      "inicio": 2.56,
+      "fin": 2.8
+    },
+    {
+      "texto": "sobre",
+      "inicio": 2.853,
+      "fin": 3.12
+    },
+    {
+      "texto": "las",
+      "inicio": 3.16,
+      "fin": 3.28
+    },
+    {
+      "texto": "tablas",
+      "inicio": 3.34,
+      "fin": 3.6
+    },
+    {
+      "texto": "dinámicas",
+      "inicio": 3.64,
+      "fin": 4.4
+    },
+    {
+      "texto": "siempre",
+      "inicio": 4.5,
+      "fin": 5.2
+    },
+    {
+      "texto": "es",
+      "inicio": 5.28,
+      "fin": 5.44
+    },
+    {
+      "texto": "la",
+      "inicio": 5.467,
+      "fin": 5.52
+    },
+    {
+      "texto": "misma:",
+      "inicio": 5.587,
+      "fin": 6.48
+    },
+    {
+      "texto": "\"profe,",
+      "inicio": 6.52,
+      "fin": 7.2
+    },
+    {
+      "texto": "cambié",
+      "inicio": 7.253,
+      "fin": 7.6
+    },
+    {
+      "texto": "los",
+      "inicio": 7.64,
+      "fin": 7.76
+    },
+    {
+      "texto": "datos",
+      "inicio": 7.84,
+      "fin": 8.24
+    },
+    {
+      "texto": "y",
+      "inicio": 8.36,
+      "fin": 8.48
+    },
+    {
+      "texto": "la",
+      "inicio": 8.507,
+      "fin": 8.56
+    },
+    {
+      "texto": "tabla",
+      "inicio": 8.627,
+      "fin": 8.96
+    },
+    {
+      "texto": "no",
+      "inicio": 9.013,
+      "fin": 9.12
+    },
+    {
+      "texto": "cambió\".",
+      "inicio": 9.168,
+      "fin": 9.68
+    },
+    {
+      "texto": "Y",
+      "inicio": 10.12,
+      "fin": 10.56
+    },
+    {
+      "texto": "no",
+      "inicio": 10.587,
+      "fin": 10.64
+    },
+    {
+      "texto": "es",
+      "inicio": 10.693,
+      "fin": 10.8
+    },
+    {
+      "texto": "un",
+      "inicio": 10.853,
+      "fin": 10.96
+    },
+    {
+      "texto": "error:",
+      "inicio": 11.013,
+      "fin": 12.08
+    },
+    {
+      "texto": "la",
+      "inicio": 12.133,
+      "fin": 12.24
+    },
+    {
+      "texto": "tabla",
+      "inicio": 12.293,
+      "fin": 12.56
+    },
+    {
+      "texto": "dinámica",
+      "inicio": 12.6,
+      "fin": 13.04
+    },
+    {
+      "texto": "es",
+      "inicio": 13.12,
+      "fin": 13.28
+    },
+    {
+      "texto": "una",
+      "inicio": 13.34,
+      "fin": 13.52
+    },
+    {
+      "texto": "foto",
+      "inicio": 13.632,
+      "fin": 14.08
+    },
+    {
+      "texto": "de",
+      "inicio": 14.187,
+      "fin": 14.4
+    },
+    {
+      "texto": "tus",
+      "inicio": 14.44,
+      "fin": 14.56
+    },
+    {
+      "texto": "datos.",
+      "inicio": 14.627,
+      "fin": 15.12
+    },
+    {
+      "texto": "Hay",
+      "inicio": 15.26,
+      "fin": 15.68
+    },
+    {
+      "texto": "que",
+      "inicio": 15.7,
+      "fin": 15.76
+    },
+    {
+      "texto": "actualizarla.",
+      "inicio": 15.811,
+      "fin": 16.56
+    },
+    {
+      "texto": "Con",
+      "inicio": 16.8,
+      "fin": 17.52
+    },
+    {
+      "texto": "AGRUPARPOR,",
+      "inicio": 17.56,
+      "fin": 18.16
+    },
+    {
+      "texto": "en",
+      "inicio": 18.187,
+      "fin": 18.24
+    },
+    {
+      "texto": "cambio,",
+      "inicio": 18.297,
+      "fin": 18.8
+    },
+    {
+      "texto": "el",
+      "inicio": 18.827,
+      "fin": 18.88
+    },
+    {
+      "texto": "resumen",
+      "inicio": 18.94,
+      "fin": 19.36
+    },
+    {
+      "texto": "es",
+      "inicio": 19.44,
+      "fin": 19.6
+    },
+    {
+      "texto": "una",
+      "inicio": 19.64,
+      "fin": 19.76
+    },
+    {
+      "texto": "fórmula,",
+      "inicio": 19.84,
+      "fin": 20.72
+    },
+    {
+      "texto": "y",
+      "inicio": 20.76,
+      "fin": 20.8
+    },
+    {
+      "texto": "las",
+      "inicio": 20.84,
+      "fin": 20.96
+    },
+    {
+      "texto": "fórmulas",
+      "inicio": 21.04,
+      "fin": 21.6
+    },
+    {
+      "texto": "siempre",
+      "inicio": 21.69,
+      "fin": 22.32
+    },
+    {
+      "texto": "están",
+      "inicio": 22.373,
+      "fin": 22.64
+    },
+    {
+      "texto": "al",
+      "inicio": 22.667,
+      "fin": 22.72
+    },
+    {
+      "texto": "día.",
+      "inicio": 22.8,
+      "fin": 23.12
+    }
+  ]
+}

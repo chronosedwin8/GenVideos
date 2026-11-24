@@ -1,0 +1,250 @@
+{
+  "num": "17",
+  "titulo": "Por qué importa",
+  "texto": "¿Por qué importa todo esto? Porque el trabajo que haces cada semana a mano, copiando, pegando y ordenando, se puede hacer con una fórmula que trabaja por ti. Y en un mundo donde la inteligencia artificial ya hace hojas de cálculo, si no lo aprendes ahora, te extingues.",
+  "texto_tts": "¿Por qué importa todo esto? Porque el trabajo que haces cada semana a mano, copiando, pegando y ordenando, se puede hacer con una fórmula que trabaja por ti. Y en un mundo donde la inteligencia artificial ya hace hojas de cálculo, [serious] si no lo aprendes ahora, te extingues.",
+  "modelo": "eleven_v3",
+  "duracion": 19.126,
+  "palabras": [
+    {
+      "texto": "¿Por",
+      "inicio": 0.0,
+      "fin": 0.16
+    },
+    {
+      "texto": "qué",
+      "inicio": 0.2,
+      "fin": 0.32
+    },
+    {
+      "texto": "importa",
+      "inicio": 0.377,
+      "fin": 0.88
+    },
+    {
+      "texto": "todo",
+      "inicio": 0.912,
+      "fin": 1.04
+    },
+    {
+      "texto": "esto?",
+      "inicio": 1.104,
+      "fin": 1.52
+    },
+    {
+      "texto": "Porque",
+      "inicio": 1.74,
+      "fin": 2.48
+    },
+    {
+      "texto": "el",
+      "inicio": 2.507,
+      "fin": 2.56
+    },
+    {
+      "texto": "trabajo",
+      "inicio": 2.62,
+      "fin": 3.04
+    },
+    {
+      "texto": "que",
+      "inicio": 3.08,
+      "fin": 3.2
+    },
+    {
+      "texto": "haces",
+      "inicio": 3.24,
+      "fin": 3.52
+    },
+    {
+      "texto": "cada",
+      "inicio": 3.568,
+      "fin": 3.76
+    },
+    {
+      "texto": "semana",
+      "inicio": 3.817,
+      "fin": 4.16
+    },
+    {
+      "texto": "a",
+      "inicio": 4.2,
+      "fin": 4.24
+    },
+    {
+      "texto": "mano,",
+      "inicio": 4.304,
+      "fin": 4.64
+    },
+    {
+      "texto": "copiando,",
+      "inicio": 4.88,
+      "fin": 6.4
+    },
+    {
+      "texto": "pegando",
+      "inicio": 6.46,
+      "fin": 6.96
+    },
+    {
+      "texto": "y",
+      "inicio": 7.04,
+      "fin": 7.12
+    },
+    {
+      "texto": "ordenando,",
+      "inicio": 7.187,
+      "fin": 8.0
+    },
+    {
+      "texto": "se",
+      "inicio": 8.187,
+      "fin": 8.56
+    },
+    {
+      "texto": "puede",
+      "inicio": 8.6,
+      "fin": 8.8
+    },
+    {
+      "texto": "hacer",
+      "inicio": 8.84,
+      "fin": 9.04
+    },
+    {
+      "texto": "con",
+      "inicio": 9.08,
+      "fin": 9.2
+    },
+    {
+      "texto": "una",
+      "inicio": 9.26,
+      "fin": 9.44
+    },
+    {
+      "texto": "fórmula",
+      "inicio": 9.48,
+      "fin": 9.92
+    },
+    {
+      "texto": "que",
+      "inicio": 9.96,
+      "fin": 10.08
+    },
+    {
+      "texto": "trabaja",
+      "inicio": 10.128,
+      "fin": 10.48
+    },
+    {
+      "texto": "por",
+      "inicio": 10.52,
+      "fin": 10.64
+    },
+    {
+      "texto": "ti.",
+      "inicio": 10.747,
+      "fin": 11.04
+    },
+    {
+      "texto": "Y",
+      "inicio": 11.48,
+      "fin": 11.92
+    },
+    {
+      "texto": "en",
+      "inicio": 11.947,
+      "fin": 12.0
+    },
+    {
+      "texto": "un",
+      "inicio": 12.027,
+      "fin": 12.08
+    },
+    {
+      "texto": "mundo",
+      "inicio": 12.173,
+      "fin": 12.64
+    },
+    {
+      "texto": "donde",
+      "inicio": 12.707,
+      "fin": 13.04
+    },
+    {
+      "texto": "la",
+      "inicio": 13.067,
+      "fin": 13.12
+    },
+    {
+      "texto": "inteligencia",
+      "inicio": 13.17,
+      "fin": 13.68
+    },
+    {
+      "texto": "artificial",
+      "inicio": 13.745,
+      "fin": 14.4
+    },
+    {
+      "texto": "ya",
+      "inicio": 14.533,
+      "fin": 14.8
+    },
+    {
+      "texto": "hace",
+      "inicio": 14.848,
+      "fin": 15.04
+    },
+    {
+      "texto": "hojas",
+      "inicio": 15.067,
+      "fin": 15.28
+    },
+    {
+      "texto": "de",
+      "inicio": 15.307,
+      "fin": 15.36
+    },
+    {
+      "texto": "cálculo,",
+      "inicio": 15.4,
+      "fin": 16.48
+    },
+    {
+      "texto": "si",
+      "inicio": 16.593,
+      "fin": 16.646
+    },
+    {
+      "texto": "no",
+      "inicio": 16.699,
+      "fin": 16.806
+    },
+    {
+      "texto": "lo",
+      "inicio": 16.833,
+      "fin": 16.886
+    },
+    {
+      "texto": "aprendes",
+      "inicio": 16.932,
+      "fin": 17.286
+    },
+    {
+      "texto": "ahora,",
+      "inicio": 17.353,
+      "fin": 18.246
+    },
+    {
+      "texto": "te",
+      "inicio": 18.273,
+      "fin": 18.326
+    },
+    {
+      "texto": "extingues.",
+      "inicio": 18.386,
+      "fin": 19.126
+    }
+  ]
+}

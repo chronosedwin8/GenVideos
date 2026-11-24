@@ -1,0 +1,290 @@
+{
+  "num": "12",
+  "titulo": "input devuelve texto",
+  "texto": "Otro detalle. Input siempre devuelve texto, aunque escribas un número. Si comparas ese texto con cinco mil, Python se queja: type error, no se puede comparar un texto con un número. La solución es la que ya viste: envolver el input en float, para convertirlo en número con decimales. O en int, si solo necesitas enteros.",
+  "texto_tts": "Otro detalle. Input siempre devuelve texto, aunque escribas un número. Si comparas ese texto con cinco mil, Python se queja: type error, no se puede comparar un texto con un número. La solución es la que ya viste: envolver el input en float, para convertirlo en número con decimales. O en int, si solo necesitas enteros.",
+  "modelo": "eleven_v3",
+  "duracion": 20.72,
+  "palabras": [
+    {
+      "texto": "Otro",
+      "inicio": 0.0,
+      "fin": 0.24
+    },
+    {
+      "texto": "detalle.",
+      "inicio": 0.3,
+      "fin": 0.8
+    },
+    {
+      "texto": "Input",
+      "inicio": 0.933,
+      "fin": 1.6
+    },
+    {
+      "texto": "siempre",
+      "inicio": 1.67,
+      "fin": 2.16
+    },
+    {
+      "texto": "devuelve",
+      "inicio": 2.204,
+      "fin": 2.56
+    },
+    {
+      "texto": "texto,",
+      "inicio": 2.64,
+      "fin": 3.2
+    },
+    {
+      "texto": "aunque",
+      "inicio": 3.234,
+      "fin": 3.44
+    },
+    {
+      "texto": "escribas",
+      "inicio": 3.48,
+      "fin": 3.92
+    },
+    {
+      "texto": "un",
+      "inicio": 3.947,
+      "fin": 4.0
+    },
+    {
+      "texto": "número.",
+      "inicio": 4.069,
+      "fin": 4.56
+    },
+    {
+      "texto": "Si",
+      "inicio": 4.667,
+      "fin": 4.88
+    },
+    {
+      "texto": "comparas",
+      "inicio": 4.937,
+      "fin": 5.44
+    },
+    {
+      "texto": "ese",
+      "inicio": 5.5,
+      "fin": 5.68
+    },
+    {
+      "texto": "texto",
+      "inicio": 5.747,
+      "fin": 6.08
+    },
+    {
+      "texto": "con",
+      "inicio": 6.14,
+      "fin": 6.32
+    },
+    {
+      "texto": "cinco",
+      "inicio": 6.387,
+      "fin": 6.72
+    },
+    {
+      "texto": "mil,",
+      "inicio": 6.78,
+      "fin": 7.2
+    },
+    {
+      "texto": "Python",
+      "inicio": 7.257,
+      "fin": 7.6
+    },
+    {
+      "texto": "se",
+      "inicio": 7.68,
+      "fin": 7.84
+    },
+    {
+      "texto": "queja:",
+      "inicio": 7.9,
+      "fin": 8.32
+    },
+    {
+      "texto": "type",
+      "inicio": 8.4,
+      "fin": 8.72
+    },
+    {
+      "texto": "error,",
+      "inicio": 8.787,
+      "fin": 9.28
+    },
+    {
+      "texto": "no",
+      "inicio": 9.307,
+      "fin": 9.36
+    },
+    {
+      "texto": "se",
+      "inicio": 9.413,
+      "fin": 9.52
+    },
+    {
+      "texto": "puede",
+      "inicio": 9.573,
+      "fin": 9.84
+    },
+    {
+      "texto": "comparar",
+      "inicio": 9.897,
+      "fin": 10.32
+    },
+    {
+      "texto": "un",
+      "inicio": 10.347,
+      "fin": 10.4
+    },
+    {
+      "texto": "texto",
+      "inicio": 10.467,
+      "fin": 10.8
+    },
+    {
+      "texto": "con",
+      "inicio": 10.84,
+      "fin": 10.96
+    },
+    {
+      "texto": "un",
+      "inicio": 10.987,
+      "fin": 11.04
+    },
+    {
+      "texto": "número.",
+      "inicio": 11.097,
+      "fin": 11.52
+    },
+    {
+      "texto": "La",
+      "inicio": 11.6,
+      "fin": 11.76
+    },
+    {
+      "texto": "solución",
+      "inicio": 11.82,
+      "fin": 12.32
+    },
+    {
+      "texto": "es",
+      "inicio": 12.453,
+      "fin": 12.72
+    },
+    {
+      "texto": "la",
+      "inicio": 12.773,
+      "fin": 12.88
+    },
+    {
+      "texto": "que",
+      "inicio": 12.9,
+      "fin": 12.96
+    },
+    {
+      "texto": "ya",
+      "inicio": 13.013,
+      "fin": 13.12
+    },
+    {
+      "texto": "viste:",
+      "inicio": 13.16,
+      "fin": 13.68
+    },
+    {
+      "texto": "envolver",
+      "inicio": 13.74,
+      "fin": 14.24
+    },
+    {
+      "texto": "el",
+      "inicio": 14.267,
+      "fin": 14.32
+    },
+    {
+      "texto": "input",
+      "inicio": 14.387,
+      "fin": 14.72
+    },
+    {
+      "texto": "en",
+      "inicio": 14.8,
+      "fin": 14.96
+    },
+    {
+      "texto": "float,",
+      "inicio": 15.053,
+      "fin": 15.68
+    },
+    {
+      "texto": "para",
+      "inicio": 15.712,
+      "fin": 15.84
+    },
+    {
+      "texto": "convertirlo",
+      "inicio": 15.9,
+      "fin": 16.64
+    },
+    {
+      "texto": "en",
+      "inicio": 16.72,
+      "fin": 16.88
+    },
+    {
+      "texto": "número",
+      "inicio": 16.937,
+      "fin": 17.28
+    },
+    {
+      "texto": "con",
+      "inicio": 17.32,
+      "fin": 17.44
+    },
+    {
+      "texto": "decimales.",
+      "inicio": 17.48,
+      "fin": 18.24
+    },
+    {
+      "texto": "O",
+      "inicio": 18.32,
+      "fin": 18.4
+    },
+    {
+      "texto": "en",
+      "inicio": 18.453,
+      "fin": 18.56
+    },
+    {
+      "texto": "int,",
+      "inicio": 18.62,
+      "fin": 18.88
+    },
+    {
+      "texto": "si",
+      "inicio": 18.96,
+      "fin": 19.12
+    },
+    {
+      "texto": "solo",
+      "inicio": 19.184,
+      "fin": 19.44
+    },
+    {
+      "texto": "necesitas",
+      "inicio": 19.493,
+      "fin": 20.0
+    },
+    {
+      "texto": "enteros.",
+      "inicio": 20.067,
+      "fin": 20.72
+    }
+  ]
+}

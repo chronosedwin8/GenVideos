@@ -1,0 +1,260 @@
+{
+  "num": "08",
+  "titulo": "Problema 1: el idioma",
+  "texto": "Problema uno: el idioma. La IA me la dio en inglés, con IF y con comas. Si tu Excel está en español, usa SI y punto y coma. Pegas la fórmula y Excel te dice que hay un problema. Muchos se rinden aquí y piensan que la IA no sirve.",
+  "texto_tts": "Problema uno: el idioma. La IA me la dio en inglés, con IF y con comas. Si tu Excel está en español, usa SI y punto y coma. Pegas la fórmula y Excel te dice que hay un problema. Muchos se rinden aquí y piensan que la IA no sirve.",
+  "modelo": "eleven_v3",
+  "duracion": 20.08,
+  "palabras": [
+    {
+      "texto": "Problema",
+      "inicio": 0.0,
+      "fin": 0.4
+    },
+    {
+      "texto": "uno:",
+      "inicio": 0.48,
+      "fin": 0.88
+    },
+    {
+      "texto": "el",
+      "inicio": 0.933,
+      "fin": 1.04
+    },
+    {
+      "texto": "idioma.",
+      "inicio": 1.08,
+      "fin": 2.2
+    },
+    {
+      "texto": "La",
+      "inicio": 2.4,
+      "fin": 2.8
+    },
+    {
+      "texto": "IA",
+      "inicio": 2.96,
+      "fin": 3.28
+    },
+    {
+      "texto": "me",
+      "inicio": 3.387,
+      "fin": 3.6
+    },
+    {
+      "texto": "la",
+      "inicio": 3.627,
+      "fin": 3.68
+    },
+    {
+      "texto": "dio",
+      "inicio": 3.72,
+      "fin": 3.84
+    },
+    {
+      "texto": "en",
+      "inicio": 3.867,
+      "fin": 3.92
+    },
+    {
+      "texto": "inglés,",
+      "inicio": 3.984,
+      "fin": 5.2
+    },
+    {
+      "texto": "con",
+      "inicio": 5.24,
+      "fin": 5.36
+    },
+    {
+      "texto": "IF",
+      "inicio": 5.573,
+      "fin": 6.0
+    },
+    {
+      "texto": "y",
+      "inicio": 6.04,
+      "fin": 6.08
+    },
+    {
+      "texto": "con",
+      "inicio": 6.14,
+      "fin": 6.32
+    },
+    {
+      "texto": "comas.",
+      "inicio": 6.38,
+      "fin": 6.96
+    },
+    {
+      "texto": "Si",
+      "inicio": 7.28,
+      "fin": 7.92
+    },
+    {
+      "texto": "tu",
+      "inicio": 7.973,
+      "fin": 8.08
+    },
+    {
+      "texto": "Excel",
+      "inicio": 8.133,
+      "fin": 8.4
+    },
+    {
+      "texto": "está",
+      "inicio": 8.448,
+      "fin": 8.64
+    },
+    {
+      "texto": "en",
+      "inicio": 8.667,
+      "fin": 8.72
+    },
+    {
+      "texto": "español,",
+      "inicio": 8.78,
+      "fin": 9.52
+    },
+    {
+      "texto": "usa",
+      "inicio": 9.62,
+      "fin": 9.92
+    },
+    {
+      "texto": "SI",
+      "inicio": 10.187,
+      "fin": 10.72
+    },
+    {
+      "texto": "y",
+      "inicio": 10.88,
+      "fin": 11.04
+    },
+    {
+      "texto": "punto",
+      "inicio": 11.107,
+      "fin": 11.44
+    },
+    {
+      "texto": "y",
+      "inicio": 11.48,
+      "fin": 11.52
+    },
+    {
+      "texto": "coma.",
+      "inicio": 11.6,
+      "fin": 12.0
+    },
+    {
+      "texto": "Pegas",
+      "inicio": 12.48,
+      "fin": 13.2
+    },
+    {
+      "texto": "la",
+      "inicio": 13.227,
+      "fin": 13.28
+    },
+    {
+      "texto": "fórmula",
+      "inicio": 13.32,
+      "fin": 14.0
+    },
+    {
+      "texto": "y",
+      "inicio": 14.12,
+      "fin": 14.24
+    },
+    {
+      "texto": "Excel",
+      "inicio": 14.293,
+      "fin": 14.56
+    },
+    {
+      "texto": "te",
+      "inicio": 14.613,
+      "fin": 14.72
+    },
+    {
+      "texto": "dice",
+      "inicio": 14.768,
+      "fin": 14.96
+    },
+    {
+      "texto": "que",
+      "inicio": 14.98,
+      "fin": 15.04
+    },
+    {
+      "texto": "hay",
+      "inicio": 15.06,
+      "fin": 15.12
+    },
+    {
+      "texto": "un",
+      "inicio": 15.147,
+      "fin": 15.2
+    },
+    {
+      "texto": "problema.",
+      "inicio": 15.262,
+      "fin": 15.84
+    },
+    {
+      "texto": "Muchos",
+      "inicio": 16.048,
+      "fin": 16.96
+    },
+    {
+      "texto": "se",
+      "inicio": 16.987,
+      "fin": 17.04
+    },
+    {
+      "texto": "rinden",
+      "inicio": 17.12,
+      "fin": 17.44
+    },
+    {
+      "texto": "aquí",
+      "inicio": 17.504,
+      "fin": 17.76
+    },
+    {
+      "texto": "y",
+      "inicio": 17.92,
+      "fin": 18.08
+    },
+    {
+      "texto": "piensan",
+      "inicio": 18.133,
+      "fin": 18.48
+    },
+    {
+      "texto": "que",
+      "inicio": 18.52,
+      "fin": 18.64
+    },
+    {
+      "texto": "la",
+      "inicio": 18.693,
+      "fin": 18.8
+    },
+    {
+      "texto": "IA",
+      "inicio": 18.907,
+      "fin": 19.12
+    },
+    {
+      "texto": "no",
+      "inicio": 19.227,
+      "fin": 19.44
+    },
+    {
+      "texto": "sirve.",
+      "inicio": 19.52,
+      "fin": 20.08
+    }
+  ]
+}

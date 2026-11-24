@@ -1,0 +1,240 @@
+{
+  "num": "11",
+  "titulo": "Parte 1: tu Excel",
+  "texto": "Este es el método de las cinco partes. Parte uno: di qué Excel usas. Escribe algo como: uso Excel para Microsoft trescientos sesenta y cinco en español, con punto y coma como separador. Solo con esto, ya te responde con SI y con punto y coma.",
+  "texto_tts": "Este es el método de las cinco partes. Parte uno: di qué Excel usas. Escribe algo como: uso Excel para Microsoft trescientos sesenta y cinco en español, con punto y coma como separador. Solo con esto, ya te responde con SI y con punto y coma.",
+  "modelo": "eleven_v3",
+  "duracion": 19.6,
+  "palabras": [
+    {
+      "texto": "Este",
+      "inicio": 0.0,
+      "fin": 0.24
+    },
+    {
+      "texto": "es",
+      "inicio": 0.293,
+      "fin": 0.4
+    },
+    {
+      "texto": "el",
+      "inicio": 0.427,
+      "fin": 0.48
+    },
+    {
+      "texto": "método",
+      "inicio": 0.526,
+      "fin": 0.8
+    },
+    {
+      "texto": "de",
+      "inicio": 0.827,
+      "fin": 0.88
+    },
+    {
+      "texto": "las",
+      "inicio": 0.9,
+      "fin": 0.96
+    },
+    {
+      "texto": "cinco",
+      "inicio": 1.013,
+      "fin": 1.28
+    },
+    {
+      "texto": "partes.",
+      "inicio": 1.371,
+      "fin": 2.32
+    },
+    {
+      "texto": "Parte",
+      "inicio": 2.4,
+      "fin": 2.8
+    },
+    {
+      "texto": "uno:",
+      "inicio": 2.88,
+      "fin": 3.52
+    },
+    {
+      "texto": "di",
+      "inicio": 3.707,
+      "fin": 4.08
+    },
+    {
+      "texto": "qué",
+      "inicio": 4.14,
+      "fin": 4.32
+    },
+    {
+      "texto": "Excel",
+      "inicio": 4.387,
+      "fin": 4.72
+    },
+    {
+      "texto": "usas.",
+      "inicio": 4.827,
+      "fin": 5.44
+    },
+    {
+      "texto": "Escribe",
+      "inicio": 5.8,
+      "fin": 6.56
+    },
+    {
+      "texto": "algo",
+      "inicio": 6.608,
+      "fin": 6.8
+    },
+    {
+      "texto": "como:",
+      "inicio": 6.88,
+      "fin": 7.28
+    },
+    {
+      "texto": "uso",
+      "inicio": 7.42,
+      "fin": 7.84
+    },
+    {
+      "texto": "Excel",
+      "inicio": 7.907,
+      "fin": 8.24
+    },
+    {
+      "texto": "para",
+      "inicio": 8.288,
+      "fin": 8.48
+    },
+    {
+      "texto": "Microsoft",
+      "inicio": 8.536,
+      "fin": 9.04
+    },
+    {
+      "texto": "trescientos",
+      "inicio": 9.088,
+      "fin": 9.52
+    },
+    {
+      "texto": "sesenta",
+      "inicio": 9.56,
+      "fin": 9.92
+    },
+    {
+      "texto": "y",
+      "inicio": 10.0,
+      "fin": 10.08
+    },
+    {
+      "texto": "cinco",
+      "inicio": 10.12,
+      "fin": 10.32
+    },
+    {
+      "texto": "en",
+      "inicio": 10.453,
+      "fin": 10.72
+    },
+    {
+      "texto": "español,",
+      "inicio": 10.8,
+      "fin": 11.6
+    },
+    {
+      "texto": "con",
+      "inicio": 11.76,
+      "fin": 12.24
+    },
+    {
+      "texto": "punto",
+      "inicio": 12.293,
+      "fin": 12.56
+    },
+    {
+      "texto": "y",
+      "inicio": 12.64,
+      "fin": 12.72
+    },
+    {
+      "texto": "coma",
+      "inicio": 12.768,
+      "fin": 12.96
+    },
+    {
+      "texto": "como",
+      "inicio": 13.04,
+      "fin": 13.36
+    },
+    {
+      "texto": "separador.",
+      "inicio": 13.413,
+      "fin": 14.24
+    },
+    {
+      "texto": "Solo",
+      "inicio": 14.448,
+      "fin": 15.28
+    },
+    {
+      "texto": "con",
+      "inicio": 15.32,
+      "fin": 15.44
+    },
+    {
+      "texto": "esto,",
+      "inicio": 15.52,
+      "fin": 16.32
+    },
+    {
+      "texto": "ya",
+      "inicio": 16.373,
+      "fin": 16.48
+    },
+    {
+      "texto": "te",
+      "inicio": 16.507,
+      "fin": 16.56
+    },
+    {
+      "texto": "responde",
+      "inicio": 16.62,
+      "fin": 17.12
+    },
+    {
+      "texto": "con",
+      "inicio": 17.18,
+      "fin": 17.36
+    },
+    {
+      "texto": "SI",
+      "inicio": 17.6,
+      "fin": 18.08
+    },
+    {
+      "texto": "y",
+      "inicio": 18.24,
+      "fin": 18.4
+    },
+    {
+      "texto": "con",
+      "inicio": 18.46,
+      "fin": 18.64
+    },
+    {
+      "texto": "punto",
+      "inicio": 18.693,
+      "fin": 18.96
+    },
+    {
+      "texto": "y",
+      "inicio": 19.0,
+      "fin": 19.04
+    },
+    {
+      "texto": "coma.",
+      "inicio": 19.104,
+      "fin": 19.6
+    }
+  ]
+}

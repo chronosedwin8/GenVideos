@@ -1,0 +1,5995 @@
+{
+  "canal": "edwin-o",
+  "slug": "python-if-elif-else",
+  "duracion_total": 521.206,
+  "pausa_entre_escenas": 0.4,
+  "escenas": [
+    {
+      "num": "01",
+      "titulo": "Gancho",
+      "audio": "escena-01.mp3",
+      "inicio": 0.0,
+      "duracion": 16.96,
+      "palabras": [
+        {
+          "texto": "Escribes",
+          "inicio": 0.139,
+          "fin": 0.4
+        },
+        {
+          "texto": "cinco",
+          "inicio": 0.44,
+          "fin": 0.64
+        },
+        {
+          "texto": "mil,",
+          "inicio": 0.72,
+          "fin": 1.04
+        },
+        {
+          "texto": "y",
+          "inicio": 1.24,
+          "fin": 1.44
+        },
+        {
+          "texto": "el",
+          "inicio": 1.467,
+          "fin": 1.52
+        },
+        {
+          "texto": "programa",
+          "inicio": 1.556,
+          "fin": 1.84
+        },
+        {
+          "texto": "te",
+          "inicio": 1.893,
+          "fin": 2.0
+        },
+        {
+          "texto": "dice:",
+          "inicio": 2.064,
+          "fin": 2.4
+        },
+        {
+          "texto": "comisión",
+          "inicio": 2.52,
+          "fin": 3.12
+        },
+        {
+          "texto": "de",
+          "inicio": 3.173,
+          "fin": 3.28
+        },
+        {
+          "texto": "doscientos",
+          "inicio": 3.4,
+          "fin": 4.0
+        },
+        {
+          "texto": "cincuenta.",
+          "inicio": 4.04,
+          "fin": 4.64
+        },
+        {
+          "texto": "Escribes",
+          "inicio": 4.827,
+          "fin": 5.6
+        },
+        {
+          "texto": "novecientos",
+          "inicio": 5.653,
+          "fin": 6.24
+        },
+        {
+          "texto": "noventa",
+          "inicio": 6.267,
+          "fin": 6.56
+        },
+        {
+          "texto": "y",
+          "inicio": 6.6,
+          "fin": 6.64
+        },
+        {
+          "texto": "nueve,",
+          "inicio": 6.68,
+          "fin": 7.12
+        },
+        {
+          "texto": "y",
+          "inicio": 7.32,
+          "fin": 7.52
+        },
+        {
+          "texto": "te",
+          "inicio": 7.573,
+          "fin": 7.68
+        },
+        {
+          "texto": "dice:",
+          "inicio": 7.744,
+          "fin": 8.08
+        },
+        {
+          "texto": "cero.",
+          "inicio": 8.28,
+          "fin": 8.96
+        },
+        {
+          "texto": "¿Cómo",
+          "inicio": 10.672,
+          "fin": 10.72
+        },
+        {
+          "texto": "sabe",
+          "inicio": 10.784,
+          "fin": 11.04
+        },
+        {
+          "texto": "qué",
+          "inicio": 11.08,
+          "fin": 11.2
+        },
+        {
+          "texto": "hacer?",
+          "inicio": 11.253,
+          "fin": 11.68
+        },
+        {
+          "texto": "Porque",
+          "inicio": 11.86,
+          "fin": 12.48
+        },
+        {
+          "texto": "tomó",
+          "inicio": 12.52,
+          "fin": 12.72
+        },
+        {
+          "texto": "una",
+          "inicio": 12.74,
+          "fin": 12.8
+        },
+        {
+          "texto": "decisión.",
+          "inicio": 12.867,
+          "fin": 13.44
+        },
+        {
+          "texto": "Y",
+          "inicio": 13.72,
+          "fin": 14.0
+        },
+        {
+          "texto": "hoy",
+          "inicio": 14.04,
+          "fin": 14.16
+        },
+        {
+          "texto": "vas",
+          "inicio": 14.2,
+          "fin": 14.32
+        },
+        {
+          "texto": "a",
+          "inicio": 14.36,
+          "fin": 14.4
+        },
+        {
+          "texto": "aprender",
+          "inicio": 14.453,
+          "fin": 14.88
+        },
+        {
+          "texto": "a",
+          "inicio": 14.96,
+          "fin": 15.04
+        },
+        {
+          "texto": "programar",
+          "inicio": 15.09,
+          "fin": 15.6
+        },
+        {
+          "texto": "decisiones",
+          "inicio": 15.653,
+          "fin": 16.16
+        },
+        {
+          "texto": "en",
+          "inicio": 16.213,
+          "fin": 16.32
+        },
+        {
+          "texto": "Python.",
+          "inicio": 16.4,
+          "fin": 16.96
+        }
+      ]
+    },
+    {
+      "num": "02",
+      "titulo": "Presentación",
+      "audio": "escena-02.mp3",
+      "inicio": 17.36,
+      "duracion": 22.64,
+      "palabras": [
+        {
+          "texto": "¡Bienvenidos,",
+          "inicio": 0.072,
+          "fin": 1.04
+        },
+        {
+          "texto": "amigos",
+          "inicio": 1.097,
+          "fin": 1.44
+        },
+        {
+          "texto": "del",
+          "inicio": 1.48,
+          "fin": 1.6
+        },
+        {
+          "texto": "canal!",
+          "inicio": 1.667,
+          "fin": 2.24
+        },
+        {
+          "texto": "Vamos",
+          "inicio": 2.28,
+          "fin": 2.64
+        },
+        {
+          "texto": "en",
+          "inicio": 2.72,
+          "fin": 2.88
+        },
+        {
+          "texto": "busca",
+          "inicio": 2.96,
+          "fin": 3.36
+        },
+        {
+          "texto": "del",
+          "inicio": 3.42,
+          "fin": 3.6
+        },
+        {
+          "texto": "poder",
+          "inicio": 3.667,
+          "fin": 4.0
+        },
+        {
+          "texto": "tecnológico.",
+          "inicio": 4.08,
+          "fin": 5.04
+        },
+        {
+          "texto": "Hoy",
+          "inicio": 5.24,
+          "fin": 5.84
+        },
+        {
+          "texto": "te",
+          "inicio": 5.947,
+          "fin": 6.16
+        },
+        {
+          "texto": "explico",
+          "inicio": 6.22,
+          "fin": 6.64
+        },
+        {
+          "texto": "las",
+          "inicio": 6.7,
+          "fin": 6.88
+        },
+        {
+          "texto": "condicionales",
+          "inicio": 6.944,
+          "fin": 7.76
+        },
+        {
+          "texto": "de",
+          "inicio": 7.813,
+          "fin": 7.92
+        },
+        {
+          "texto": "Python:",
+          "inicio": 7.989,
+          "fin": 8.64
+        },
+        {
+          "texto": "if,",
+          "inicio": 8.747,
+          "fin": 9.2
+        },
+        {
+          "texto": "elif",
+          "inicio": 9.312,
+          "fin": 9.76
+        },
+        {
+          "texto": "y",
+          "inicio": 9.92,
+          "fin": 10.08
+        },
+        {
+          "texto": "else,",
+          "inicio": 10.176,
+          "fin": 10.8
+        },
+        {
+          "texto": "desde",
+          "inicio": 10.853,
+          "fin": 11.12
+        },
+        {
+          "texto": "cero",
+          "inicio": 11.2,
+          "fin": 11.52
+        },
+        {
+          "texto": "y",
+          "inicio": 11.76,
+          "fin": 12.0
+        },
+        {
+          "texto": "con",
+          "inicio": 12.06,
+          "fin": 12.24
+        },
+        {
+          "texto": "un",
+          "inicio": 12.267,
+          "fin": 12.32
+        },
+        {
+          "texto": "ejemplo",
+          "inicio": 12.4,
+          "fin": 12.96
+        },
+        {
+          "texto": "real",
+          "inicio": 13.056,
+          "fin": 13.44
+        },
+        {
+          "texto": "de",
+          "inicio": 13.493,
+          "fin": 13.6
+        },
+        {
+          "texto": "trabajo.",
+          "inicio": 13.66,
+          "fin": 14.48
+        },
+        {
+          "texto": "Y",
+          "inicio": 14.56,
+          "fin": 14.64
+        },
+        {
+          "texto": "al",
+          "inicio": 14.667,
+          "fin": 14.72
+        },
+        {
+          "texto": "final",
+          "inicio": 14.787,
+          "fin": 15.12
+        },
+        {
+          "texto": "te",
+          "inicio": 15.2,
+          "fin": 15.36
+        },
+        {
+          "texto": "enseño",
+          "inicio": 15.424,
+          "fin": 15.84
+        },
+        {
+          "texto": "los",
+          "inicio": 15.9,
+          "fin": 16.08
+        },
+        {
+          "texto": "cinco",
+          "inicio": 16.133,
+          "fin": 16.4
+        },
+        {
+          "texto": "errores",
+          "inicio": 16.46,
+          "fin": 16.88
+        },
+        {
+          "texto": "que",
+          "inicio": 16.92,
+          "fin": 17.04
+        },
+        {
+          "texto": "todo",
+          "inicio": 17.136,
+          "fin": 17.52
+        },
+        {
+          "texto": "principiante",
+          "inicio": 17.58,
+          "fin": 18.32
+        },
+        {
+          "texto": "comete,",
+          "inicio": 18.38,
+          "fin": 19.28
+        },
+        {
+          "texto": "con",
+          "inicio": 19.3,
+          "fin": 19.36
+        },
+        {
+          "texto": "los",
+          "inicio": 19.4,
+          "fin": 19.52
+        },
+        {
+          "texto": "mensajes",
+          "inicio": 19.6,
+          "fin": 20.24
+        },
+        {
+          "texto": "exactos",
+          "inicio": 20.36,
+          "fin": 21.12
+        },
+        {
+          "texto": "que",
+          "inicio": 21.18,
+          "fin": 21.36
+        },
+        {
+          "texto": "te",
+          "inicio": 21.387,
+          "fin": 21.44
+        },
+        {
+          "texto": "muestra",
+          "inicio": 21.49,
+          "fin": 21.84
+        },
+        {
+          "texto": "Python.",
+          "inicio": 21.92,
+          "fin": 22.64
+        }
+      ]
+    },
+    {
+      "num": "03",
+      "titulo": "El caso",
+      "audio": "escena-03.mp3",
+      "inicio": 40.4,
+      "duracion": 27.76,
+      "palabras": [
+        {
+          "texto": "Un",
+          "inicio": 0.0,
+          "fin": 0.16
+        },
+        {
+          "texto": "dato",
+          "inicio": 0.24,
+          "fin": 0.56
+        },
+        {
+          "texto": "antes",
+          "inicio": 0.627,
+          "fin": 0.96
+        },
+        {
+          "texto": "de",
+          "inicio": 0.987,
+          "fin": 1.04
+        },
+        {
+          "texto": "empezar.",
+          "inicio": 1.107,
+          "fin": 1.84
+        },
+        {
+          "texto": "En",
+          "inicio": 2.16,
+          "fin": 2.8
+        },
+        {
+          "texto": "octubre",
+          "inicio": 2.9,
+          "fin": 3.36
+        },
+        {
+          "texto": "de",
+          "inicio": 3.413,
+          "fin": 3.52
+        },
+        {
+          "texto": "dos",
+          "inicio": 3.54,
+          "fin": 3.6
+        },
+        {
+          "texto": "mil",
+          "inicio": 3.66,
+          "fin": 3.84
+        },
+        {
+          "texto": "veinticinco",
+          "inicio": 3.893,
+          "fin": 4.72
+        },
+        {
+          "texto": "salió",
+          "inicio": 4.82,
+          "fin": 5.28
+        },
+        {
+          "texto": "Python",
+          "inicio": 5.383,
+          "fin": 6.0
+        },
+        {
+          "texto": "tres",
+          "inicio": 6.064,
+          "fin": 6.32
+        },
+        {
+          "texto": "punto",
+          "inicio": 6.387,
+          "fin": 6.72
+        },
+        {
+          "texto": "catorce,",
+          "inicio": 6.8,
+          "fin": 8.32
+        },
+        {
+          "texto": "y",
+          "inicio": 8.4,
+          "fin": 8.48
+        },
+        {
+          "texto": "una",
+          "inicio": 8.54,
+          "fin": 8.72
+        },
+        {
+          "texto": "de",
+          "inicio": 8.747,
+          "fin": 8.8
+        },
+        {
+          "texto": "sus",
+          "inicio": 8.86,
+          "fin": 9.04
+        },
+        {
+          "texto": "novedades",
+          "inicio": 9.08,
+          "fin": 9.92
+        },
+        {
+          "texto": "son",
+          "inicio": 10.02,
+          "fin": 10.32
+        },
+        {
+          "texto": "mensajes",
+          "inicio": 10.382,
+          "fin": 10.88
+        },
+        {
+          "texto": "de",
+          "inicio": 10.907,
+          "fin": 10.96
+        },
+        {
+          "texto": "error",
+          "inicio": 11.027,
+          "fin": 11.36
+        },
+        {
+          "texto": "mucho",
+          "inicio": 11.44,
+          "fin": 11.84
+        },
+        {
+          "texto": "más",
+          "inicio": 11.9,
+          "fin": 12.08
+        },
+        {
+          "texto": "claros.",
+          "inicio": 12.144,
+          "fin": 12.8
+        },
+        {
+          "texto": "Uno",
+          "inicio": 13.08,
+          "fin": 13.92
+        },
+        {
+          "texto": "de",
+          "inicio": 13.973,
+          "fin": 14.08
+        },
+        {
+          "texto": "ellos",
+          "inicio": 14.16,
+          "fin": 14.56
+        },
+        {
+          "texto": "es",
+          "inicio": 14.667,
+          "fin": 14.88
+        },
+        {
+          "texto": "justo",
+          "inicio": 14.96,
+          "fin": 15.36
+        },
+        {
+          "texto": "sobre",
+          "inicio": 15.4,
+          "fin": 15.6
+        },
+        {
+          "texto": "el",
+          "inicio": 15.653,
+          "fin": 15.76
+        },
+        {
+          "texto": "tema",
+          "inicio": 15.824,
+          "fin": 16.08
+        },
+        {
+          "texto": "de",
+          "inicio": 16.107,
+          "fin": 16.16
+        },
+        {
+          "texto": "hoy:",
+          "inicio": 16.24,
+          "fin": 17.36
+        },
+        {
+          "texto": "si",
+          "inicio": 17.413,
+          "fin": 17.52
+        },
+        {
+          "texto": "pones",
+          "inicio": 17.6,
+          "fin": 18.0
+        },
+        {
+          "texto": "las",
+          "inicio": 18.06,
+          "fin": 18.24
+        },
+        {
+          "texto": "partes",
+          "inicio": 18.32,
+          "fin": 18.8
+        },
+        {
+          "texto": "de",
+          "inicio": 18.827,
+          "fin": 18.88
+        },
+        {
+          "texto": "una",
+          "inicio": 18.94,
+          "fin": 19.12
+        },
+        {
+          "texto": "condicional",
+          "inicio": 19.184,
+          "fin": 20.08
+        },
+        {
+          "texto": "en",
+          "inicio": 20.187,
+          "fin": 20.4
+        },
+        {
+          "texto": "el",
+          "inicio": 20.427,
+          "fin": 20.48
+        },
+        {
+          "texto": "orden",
+          "inicio": 20.547,
+          "fin": 20.88
+        },
+        {
+          "texto": "equivocado,",
+          "inicio": 20.933,
+          "fin": 22.4
+        },
+        {
+          "texto": "ahora",
+          "inicio": 22.453,
+          "fin": 22.72
+        },
+        {
+          "texto": "Python",
+          "inicio": 22.811,
+          "fin": 23.36
+        },
+        {
+          "texto": "te",
+          "inicio": 23.413,
+          "fin": 23.52
+        },
+        {
+          "texto": "lo",
+          "inicio": 23.573,
+          "fin": 23.68
+        },
+        {
+          "texto": "dice",
+          "inicio": 23.76,
+          "fin": 24.08
+        },
+        {
+          "texto": "con",
+          "inicio": 24.14,
+          "fin": 24.32
+        },
+        {
+          "texto": "todas",
+          "inicio": 24.387,
+          "fin": 24.72
+        },
+        {
+          "texto": "las",
+          "inicio": 24.76,
+          "fin": 24.88
+        },
+        {
+          "texto": "letras.",
+          "inicio": 24.971,
+          "fin": 25.6
+        },
+        {
+          "texto": "Lo",
+          "inicio": 25.813,
+          "fin": 26.24
+        },
+        {
+          "texto": "vas",
+          "inicio": 26.3,
+          "fin": 26.48
+        },
+        {
+          "texto": "a",
+          "inicio": 26.52,
+          "fin": 26.56
+        },
+        {
+          "texto": "ver",
+          "inicio": 26.62,
+          "fin": 26.8
+        },
+        {
+          "texto": "al",
+          "inicio": 26.907,
+          "fin": 27.12
+        },
+        {
+          "texto": "final.",
+          "inicio": 27.213,
+          "fin": 27.76
+        }
+      ]
+    },
+    {
+      "num": "04",
+      "titulo": "El aporte de Edwin",
+      "audio": "escena-04.mp3",
+      "inicio": 68.56,
+      "duracion": 21.12,
+      "palabras": [
+        {
+          "texto": "Y",
+          "inicio": 0.0,
+          "fin": 0.16
+        },
+        {
+          "texto": "te",
+          "inicio": 0.293,
+          "fin": 0.56
+        },
+        {
+          "texto": "cuento",
+          "inicio": 0.587,
+          "fin": 0.96
+        },
+        {
+          "texto": "algo:",
+          "inicio": 1.024,
+          "fin": 1.44
+        },
+        {
+          "texto": "el",
+          "inicio": 1.52,
+          "fin": 1.68
+        },
+        {
+          "texto": "Short",
+          "inicio": 1.76,
+          "fin": 2.16
+        },
+        {
+          "texto": "de",
+          "inicio": 2.24,
+          "fin": 2.4
+        },
+        {
+          "texto": "if",
+          "inicio": 2.533,
+          "fin": 2.8
+        },
+        {
+          "texto": "es",
+          "inicio": 2.933,
+          "fin": 3.2
+        },
+        {
+          "texto": "el",
+          "inicio": 3.253,
+          "fin": 3.36
+        },
+        {
+          "texto": "video",
+          "inicio": 3.413,
+          "fin": 3.68
+        },
+        {
+          "texto": "más",
+          "inicio": 3.74,
+          "fin": 3.92
+        },
+        {
+          "texto": "visto",
+          "inicio": 3.987,
+          "fin": 4.32
+        },
+        {
+          "texto": "de",
+          "inicio": 4.347,
+          "fin": 4.4
+        },
+        {
+          "texto": "este",
+          "inicio": 4.448,
+          "fin": 4.64
+        },
+        {
+          "texto": "canal,",
+          "inicio": 4.693,
+          "fin": 5.44
+        },
+        {
+          "texto": "con",
+          "inicio": 5.48,
+          "fin": 5.6
+        },
+        {
+          "texto": "más",
+          "inicio": 5.64,
+          "fin": 5.76
+        },
+        {
+          "texto": "de",
+          "inicio": 5.813,
+          "fin": 5.92
+        },
+        {
+          "texto": "veintidós",
+          "inicio": 5.947,
+          "fin": 6.48
+        },
+        {
+          "texto": "mil",
+          "inicio": 6.52,
+          "fin": 6.64
+        },
+        {
+          "texto": "vistas.",
+          "inicio": 6.709,
+          "fin": 7.28
+        },
+        {
+          "texto": "En",
+          "inicio": 7.6,
+          "fin": 8.24
+        },
+        {
+          "texto": "un",
+          "inicio": 8.267,
+          "fin": 8.32
+        },
+        {
+          "texto": "minuto",
+          "inicio": 8.38,
+          "fin": 8.88
+        },
+        {
+          "texto": "no",
+          "inicio": 8.987,
+          "fin": 9.2
+        },
+        {
+          "texto": "cabe",
+          "inicio": 9.264,
+          "fin": 9.52
+        },
+        {
+          "texto": "todo,",
+          "inicio": 9.584,
+          "fin": 10.0
+        },
+        {
+          "texto": "así",
+          "inicio": 10.06,
+          "fin": 10.24
+        },
+        {
+          "texto": "que",
+          "inicio": 10.28,
+          "fin": 10.4
+        },
+        {
+          "texto": "hoy",
+          "inicio": 10.52,
+          "fin": 10.88
+        },
+        {
+          "texto": "va",
+          "inicio": 10.96,
+          "fin": 11.12
+        },
+        {
+          "texto": "la",
+          "inicio": 11.173,
+          "fin": 11.28
+        },
+        {
+          "texto": "versión",
+          "inicio": 11.32,
+          "fin": 11.6
+        },
+        {
+          "texto": "completa.",
+          "inicio": 11.662,
+          "fin": 12.24
+        },
+        {
+          "texto": "Además,",
+          "inicio": 12.377,
+          "fin": 13.24
+        },
+        {
+          "texto": "en",
+          "inicio": 13.253,
+          "fin": 13.28
+        },
+        {
+          "texto": "mis",
+          "inicio": 13.32,
+          "fin": 13.44
+        },
+        {
+          "texto": "clases",
+          "inicio": 13.497,
+          "fin": 13.84
+        },
+        {
+          "texto": "de",
+          "inicio": 13.867,
+          "fin": 13.92
+        },
+        {
+          "texto": "tecnología",
+          "inicio": 13.968,
+          "fin": 14.56
+        },
+        {
+          "texto": "siempre",
+          "inicio": 14.61,
+          "fin": 14.96
+        },
+        {
+          "texto": "lo",
+          "inicio": 15.013,
+          "fin": 15.12
+        },
+        {
+          "texto": "noto:",
+          "inicio": 15.18,
+          "fin": 15.92
+        },
+        {
+          "texto": "el",
+          "inicio": 15.973,
+          "fin": 16.08
+        },
+        {
+          "texto": "if",
+          "inicio": 16.213,
+          "fin": 16.48
+        },
+        {
+          "texto": "es",
+          "inicio": 16.613,
+          "fin": 16.88
+        },
+        {
+          "texto": "el",
+          "inicio": 16.907,
+          "fin": 16.96
+        },
+        {
+          "texto": "momento",
+          "inicio": 17.03,
+          "fin": 17.52
+        },
+        {
+          "texto": "en",
+          "inicio": 17.6,
+          "fin": 17.76
+        },
+        {
+          "texto": "que",
+          "inicio": 17.8,
+          "fin": 17.92
+        },
+        {
+          "texto": "los",
+          "inicio": 17.96,
+          "fin": 18.08
+        },
+        {
+          "texto": "estudiantes",
+          "inicio": 18.133,
+          "fin": 18.72
+        },
+        {
+          "texto": "sienten",
+          "inicio": 18.8,
+          "fin": 19.2
+        },
+        {
+          "texto": "que",
+          "inicio": 19.24,
+          "fin": 19.36
+        },
+        {
+          "texto": "su",
+          "inicio": 19.413,
+          "fin": 19.52
+        },
+        {
+          "texto": "programa",
+          "inicio": 19.573,
+          "fin": 20.0
+        },
+        {
+          "texto": "empieza",
+          "inicio": 20.06,
+          "fin": 20.48
+        },
+        {
+          "texto": "a",
+          "inicio": 20.62,
+          "fin": 20.76
+        },
+        {
+          "texto": "pensar.",
+          "inicio": 20.8,
+          "fin": 21.12
+        }
+      ]
+    },
+    {
+      "num": "05",
+      "titulo": "¿Qué es una condicional?",
+      "audio": "escena-05.mp3",
+      "inicio": 90.08,
+      "duracion": 27.68,
+      "palabras": [
+        {
+          "texto": "¿Qué",
+          "inicio": 0.0,
+          "fin": 0.16
+        },
+        {
+          "texto": "es",
+          "inicio": 0.187,
+          "fin": 0.24
+        },
+        {
+          "texto": "una",
+          "inicio": 0.28,
+          "fin": 0.4
+        },
+        {
+          "texto": "condicional?",
+          "inicio": 0.464,
+          "fin": 1.28
+        },
+        {
+          "texto": "Es",
+          "inicio": 1.653,
+          "fin": 2.4
+        },
+        {
+          "texto": "una",
+          "inicio": 2.46,
+          "fin": 2.64
+        },
+        {
+          "texto": "pregunta",
+          "inicio": 2.738,
+          "fin": 3.52
+        },
+        {
+          "texto": "que",
+          "inicio": 3.58,
+          "fin": 3.76
+        },
+        {
+          "texto": "tu",
+          "inicio": 3.813,
+          "fin": 3.92
+        },
+        {
+          "texto": "programa",
+          "inicio": 3.973,
+          "fin": 4.4
+        },
+        {
+          "texto": "se",
+          "inicio": 4.48,
+          "fin": 4.64
+        },
+        {
+          "texto": "hace:",
+          "inicio": 4.72,
+          "fin": 5.12
+        },
+        {
+          "texto": "¿esto",
+          "inicio": 5.52,
+          "fin": 6.16
+        },
+        {
+          "texto": "es",
+          "inicio": 6.187,
+          "fin": 6.24
+        },
+        {
+          "texto": "verdad?",
+          "inicio": 6.297,
+          "fin": 6.8
+        },
+        {
+          "texto": "Si",
+          "inicio": 7.173,
+          "fin": 7.92
+        },
+        {
+          "texto": "es",
+          "inicio": 7.947,
+          "fin": 8.0
+        },
+        {
+          "texto": "verdad,",
+          "inicio": 8.057,
+          "fin": 8.56
+        },
+        {
+          "texto": "hace",
+          "inicio": 8.64,
+          "fin": 8.96
+        },
+        {
+          "texto": "una",
+          "inicio": 9.02,
+          "fin": 9.2
+        },
+        {
+          "texto": "cosa,",
+          "inicio": 9.28,
+          "fin": 9.68
+        },
+        {
+          "texto": "y",
+          "inicio": 9.92,
+          "fin": 10.16
+        },
+        {
+          "texto": "si",
+          "inicio": 10.213,
+          "fin": 10.32
+        },
+        {
+          "texto": "no,",
+          "inicio": 10.4,
+          "fin": 10.72
+        },
+        {
+          "texto": "hace",
+          "inicio": 10.832,
+          "fin": 11.28
+        },
+        {
+          "texto": "otra.",
+          "inicio": 11.344,
+          "fin": 11.68
+        },
+        {
+          "texto": "Si",
+          "inicio": 12.053,
+          "fin": 12.8
+        },
+        {
+          "texto": "usas",
+          "inicio": 12.853,
+          "fin": 13.12
+        },
+        {
+          "texto": "Excel,",
+          "inicio": 13.187,
+          "fin": 13.76
+        },
+        {
+          "texto": "ya",
+          "inicio": 13.813,
+          "fin": 13.92
+        },
+        {
+          "texto": "la",
+          "inicio": 13.947,
+          "fin": 14.0
+        },
+        {
+          "texto": "conoces:",
+          "inicio": 14.067,
+          "fin": 14.72
+        },
+        {
+          "texto": "es",
+          "inicio": 14.747,
+          "fin": 14.8
+        },
+        {
+          "texto": "la",
+          "inicio": 14.853,
+          "fin": 14.96
+        },
+        {
+          "texto": "función",
+          "inicio": 15.02,
+          "fin": 15.44
+        },
+        {
+          "texto": "SI.",
+          "inicio": 15.733,
+          "fin": 16.92
+        },
+        {
+          "texto": "La",
+          "inicio": 17.12,
+          "fin": 17.52
+        },
+        {
+          "texto": "diferencia",
+          "inicio": 17.564,
+          "fin": 18.0
+        },
+        {
+          "texto": "es",
+          "inicio": 18.027,
+          "fin": 18.08
+        },
+        {
+          "texto": "que",
+          "inicio": 18.1,
+          "fin": 18.16
+        },
+        {
+          "texto": "en",
+          "inicio": 18.213,
+          "fin": 18.32
+        },
+        {
+          "texto": "Python",
+          "inicio": 18.411,
+          "fin": 18.96
+        },
+        {
+          "texto": "no",
+          "inicio": 19.067,
+          "fin": 19.28
+        },
+        {
+          "texto": "la",
+          "inicio": 19.333,
+          "fin": 19.44
+        },
+        {
+          "texto": "escribes",
+          "inicio": 19.493,
+          "fin": 20.0
+        },
+        {
+          "texto": "en",
+          "inicio": 20.027,
+          "fin": 20.08
+        },
+        {
+          "texto": "una",
+          "inicio": 20.14,
+          "fin": 20.32
+        },
+        {
+          "texto": "celda,",
+          "inicio": 20.36,
+          "fin": 21.28
+        },
+        {
+          "texto": "sino",
+          "inicio": 21.36,
+          "fin": 21.68
+        },
+        {
+          "texto": "en",
+          "inicio": 21.813,
+          "fin": 22.08
+        },
+        {
+          "texto": "líneas",
+          "inicio": 22.16,
+          "fin": 22.48
+        },
+        {
+          "texto": "de",
+          "inicio": 22.507,
+          "fin": 22.56
+        },
+        {
+          "texto": "código,",
+          "inicio": 22.64,
+          "fin": 23.92
+        },
+        {
+          "texto": "y",
+          "inicio": 23.96,
+          "fin": 24.0
+        },
+        {
+          "texto": "puede",
+          "inicio": 24.053,
+          "fin": 24.32
+        },
+        {
+          "texto": "hacer",
+          "inicio": 24.413,
+          "fin": 24.88
+        },
+        {
+          "texto": "mucho",
+          "inicio": 24.987,
+          "fin": 25.52
+        },
+        {
+          "texto": "más",
+          "inicio": 25.62,
+          "fin": 25.92
+        },
+        {
+          "texto": "que",
+          "inicio": 26.0,
+          "fin": 26.24
+        },
+        {
+          "texto": "devolver",
+          "inicio": 26.3,
+          "fin": 26.8
+        },
+        {
+          "texto": "un",
+          "inicio": 26.933,
+          "fin": 27.2
+        },
+        {
+          "texto": "valor.",
+          "inicio": 27.267,
+          "fin": 27.68
+        }
+      ]
+    },
+    {
+      "num": "06",
+      "titulo": "Paso 1: el if",
+      "audio": "escena-06.mp3",
+      "inicio": 118.16,
+      "duracion": 28.08,
+      "palabras": [
+        {
+          "texto": "Paso",
+          "inicio": 0.0,
+          "fin": 0.32
+        },
+        {
+          "texto": "uno:",
+          "inicio": 0.42,
+          "fin": 0.8
+        },
+        {
+          "texto": "el",
+          "inicio": 0.96,
+          "fin": 1.28
+        },
+        {
+          "texto": "if.",
+          "inicio": 1.44,
+          "fin": 1.84
+        },
+        {
+          "texto": "Escribes",
+          "inicio": 2.053,
+          "fin": 2.88
+        },
+        {
+          "texto": "la",
+          "inicio": 2.907,
+          "fin": 2.96
+        },
+        {
+          "texto": "palabra",
+          "inicio": 3.01,
+          "fin": 3.36
+        },
+        {
+          "texto": "if,",
+          "inicio": 3.52,
+          "fin": 4.24
+        },
+        {
+          "texto": "luego",
+          "inicio": 4.293,
+          "fin": 4.56
+        },
+        {
+          "texto": "la",
+          "inicio": 4.667,
+          "fin": 4.88
+        },
+        {
+          "texto": "condición,",
+          "inicio": 4.944,
+          "fin": 5.92
+        },
+        {
+          "texto": "por",
+          "inicio": 5.96,
+          "fin": 6.08
+        },
+        {
+          "texto": "ejemplo",
+          "inicio": 6.15,
+          "fin": 6.64
+        },
+        {
+          "texto": "ventas",
+          "inicio": 6.8,
+          "fin": 7.76
+        },
+        {
+          "texto": "mayor",
+          "inicio": 7.853,
+          "fin": 8.32
+        },
+        {
+          "texto": "o",
+          "inicio": 8.36,
+          "fin": 8.4
+        },
+        {
+          "texto": "igual",
+          "inicio": 8.453,
+          "fin": 8.72
+        },
+        {
+          "texto": "que",
+          "inicio": 8.8,
+          "fin": 9.04
+        },
+        {
+          "texto": "cinco",
+          "inicio": 9.147,
+          "fin": 9.68
+        },
+        {
+          "texto": "mil,",
+          "inicio": 9.76,
+          "fin": 10.16
+        },
+        {
+          "texto": "y",
+          "inicio": 10.4,
+          "fin": 10.64
+        },
+        {
+          "texto": "terminas",
+          "inicio": 10.697,
+          "fin": 11.28
+        },
+        {
+          "texto": "con",
+          "inicio": 11.34,
+          "fin": 11.52
+        },
+        {
+          "texto": "dos",
+          "inicio": 11.6,
+          "fin": 11.84
+        },
+        {
+          "texto": "puntos.",
+          "inicio": 11.931,
+          "fin": 12.64
+        },
+        {
+          "texto": "Y",
+          "inicio": 12.96,
+          "fin": 13.28
+        },
+        {
+          "texto": "aquí",
+          "inicio": 13.344,
+          "fin": 13.6
+        },
+        {
+          "texto": "está",
+          "inicio": 13.68,
+          "fin": 14.0
+        },
+        {
+          "texto": "lo",
+          "inicio": 14.053,
+          "fin": 14.16
+        },
+        {
+          "texto": "más",
+          "inicio": 14.22,
+          "fin": 14.4
+        },
+        {
+          "texto": "importante",
+          "inicio": 14.458,
+          "fin": 15.04
+        },
+        {
+          "texto": "de",
+          "inicio": 15.067,
+          "fin": 15.12
+        },
+        {
+          "texto": "Python:",
+          "inicio": 15.2,
+          "fin": 16.32
+        },
+        {
+          "texto": "la",
+          "inicio": 16.373,
+          "fin": 16.48
+        },
+        {
+          "texto": "línea",
+          "inicio": 16.547,
+          "fin": 16.88
+        },
+        {
+          "texto": "de",
+          "inicio": 16.907,
+          "fin": 16.96
+        },
+        {
+          "texto": "abajo",
+          "inicio": 17.013,
+          "fin": 17.52
+        },
+        {
+          "texto": "va",
+          "inicio": 17.627,
+          "fin": 17.84
+        },
+        {
+          "texto": "con",
+          "inicio": 17.9,
+          "fin": 18.08
+        },
+        {
+          "texto": "sangría,",
+          "inicio": 18.16,
+          "fin": 19.36
+        },
+        {
+          "texto": "cuatro",
+          "inicio": 19.417,
+          "fin": 19.76
+        },
+        {
+          "texto": "espacios",
+          "inicio": 19.82,
+          "fin": 20.4
+        },
+        {
+          "texto": "hacia",
+          "inicio": 20.467,
+          "fin": 20.8
+        },
+        {
+          "texto": "adentro.",
+          "inicio": 20.827,
+          "fin": 21.76
+        },
+        {
+          "texto": "Esa",
+          "inicio": 21.96,
+          "fin": 22.24
+        },
+        {
+          "texto": "sangría",
+          "inicio": 22.304,
+          "fin": 22.88
+        },
+        {
+          "texto": "le",
+          "inicio": 22.96,
+          "fin": 23.12
+        },
+        {
+          "texto": "dice",
+          "inicio": 23.168,
+          "fin": 23.36
+        },
+        {
+          "texto": "a",
+          "inicio": 23.48,
+          "fin": 23.6
+        },
+        {
+          "texto": "Python:",
+          "inicio": 23.634,
+          "fin": 23.92
+        },
+        {
+          "texto": "esto",
+          "inicio": 24.096,
+          "fin": 24.8
+        },
+        {
+          "texto": "solo",
+          "inicio": 24.88,
+          "fin": 25.2
+        },
+        {
+          "texto": "se",
+          "inicio": 25.253,
+          "fin": 25.36
+        },
+        {
+          "texto": "ejecuta",
+          "inicio": 25.408,
+          "fin": 25.92
+        },
+        {
+          "texto": "si",
+          "inicio": 26.027,
+          "fin": 26.24
+        },
+        {
+          "texto": "la",
+          "inicio": 26.267,
+          "fin": 26.32
+        },
+        {
+          "texto": "condición",
+          "inicio": 26.384,
+          "fin": 27.04
+        },
+        {
+          "texto": "es",
+          "inicio": 27.147,
+          "fin": 27.36
+        },
+        {
+          "texto": "verdadera.",
+          "inicio": 27.424,
+          "fin": 28.08
+        }
+      ]
+    },
+    {
+      "num": "07",
+      "titulo": "Los comparadores",
+      "audio": "escena-07.mp3",
+      "inicio": 146.64,
+      "duracion": 23.28,
+      "palabras": [
+        {
+          "texto": "Para",
+          "inicio": 0.0,
+          "fin": 0.16
+        },
+        {
+          "texto": "escribir",
+          "inicio": 0.2,
+          "fin": 0.48
+        },
+        {
+          "texto": "condiciones",
+          "inicio": 0.533,
+          "fin": 1.12
+        },
+        {
+          "texto": "usas",
+          "inicio": 1.2,
+          "fin": 1.52
+        },
+        {
+          "texto": "comparadores.",
+          "inicio": 1.577,
+          "fin": 2.56
+        },
+        {
+          "texto": "Mayor",
+          "inicio": 2.693,
+          "fin": 3.36
+        },
+        {
+          "texto": "que,",
+          "inicio": 3.42,
+          "fin": 3.68
+        },
+        {
+          "texto": "menor",
+          "inicio": 3.733,
+          "fin": 4.0
+        },
+        {
+          "texto": "que,",
+          "inicio": 4.1,
+          "fin": 4.48
+        },
+        {
+          "texto": "mayor",
+          "inicio": 4.573,
+          "fin": 5.04
+        },
+        {
+          "texto": "o",
+          "inicio": 5.16,
+          "fin": 5.28
+        },
+        {
+          "texto": "igual,",
+          "inicio": 5.347,
+          "fin": 5.76
+        },
+        {
+          "texto": "y",
+          "inicio": 5.88,
+          "fin": 6.0
+        },
+        {
+          "texto": "menor",
+          "inicio": 6.067,
+          "fin": 6.4
+        },
+        {
+          "texto": "o",
+          "inicio": 6.52,
+          "fin": 6.64
+        },
+        {
+          "texto": "igual.",
+          "inicio": 6.707,
+          "fin": 7.2
+        },
+        {
+          "texto": "Para",
+          "inicio": 7.408,
+          "fin": 8.24
+        },
+        {
+          "texto": "preguntar",
+          "inicio": 8.288,
+          "fin": 8.8
+        },
+        {
+          "texto": "si",
+          "inicio": 8.853,
+          "fin": 8.96
+        },
+        {
+          "texto": "dos",
+          "inicio": 9.0,
+          "fin": 9.12
+        },
+        {
+          "texto": "cosas",
+          "inicio": 9.173,
+          "fin": 9.44
+        },
+        {
+          "texto": "son",
+          "inicio": 9.48,
+          "fin": 9.6
+        },
+        {
+          "texto": "iguales,",
+          "inicio": 9.68,
+          "fin": 10.24
+        },
+        {
+          "texto": "se",
+          "inicio": 10.32,
+          "fin": 10.48
+        },
+        {
+          "texto": "usan",
+          "inicio": 10.533,
+          "fin": 10.8
+        },
+        {
+          "texto": "dos",
+          "inicio": 10.9,
+          "fin": 11.2
+        },
+        {
+          "texto": "signos",
+          "inicio": 11.28,
+          "fin": 11.68
+        },
+        {
+          "texto": "de",
+          "inicio": 11.707,
+          "fin": 11.76
+        },
+        {
+          "texto": "igual,",
+          "inicio": 11.827,
+          "fin": 12.48
+        },
+        {
+          "texto": "no",
+          "inicio": 12.533,
+          "fin": 12.64
+        },
+        {
+          "texto": "uno.",
+          "inicio": 12.74,
+          "fin": 13.48
+        },
+        {
+          "texto": "Y",
+          "inicio": 13.7,
+          "fin": 13.92
+        },
+        {
+          "texto": "para",
+          "inicio": 13.968,
+          "fin": 14.16
+        },
+        {
+          "texto": "preguntar",
+          "inicio": 14.192,
+          "fin": 14.56
+        },
+        {
+          "texto": "si",
+          "inicio": 14.613,
+          "fin": 14.72
+        },
+        {
+          "texto": "son",
+          "inicio": 14.78,
+          "fin": 14.96
+        },
+        {
+          "texto": "diferentes,",
+          "inicio": 15.025,
+          "fin": 15.76
+        },
+        {
+          "texto": "signo",
+          "inicio": 15.856,
+          "fin": 16.32
+        },
+        {
+          "texto": "de",
+          "inicio": 16.347,
+          "fin": 16.4
+        },
+        {
+          "texto": "admiración",
+          "inicio": 16.453,
+          "fin": 17.28
+        },
+        {
+          "texto": "e",
+          "inicio": 17.44,
+          "fin": 17.6
+        },
+        {
+          "texto": "igual.",
+          "inicio": 17.667,
+          "fin": 18.16
+        },
+        {
+          "texto": "Apréndete",
+          "inicio": 18.42,
+          "fin": 19.52
+        },
+        {
+          "texto": "esos",
+          "inicio": 19.568,
+          "fin": 19.76
+        },
+        {
+          "texto": "seis,",
+          "inicio": 19.84,
+          "fin": 20.24
+        },
+        {
+          "texto": "y",
+          "inicio": 20.36,
+          "fin": 20.48
+        },
+        {
+          "texto": "puedes",
+          "inicio": 20.526,
+          "fin": 20.8
+        },
+        {
+          "texto": "escribir",
+          "inicio": 20.853,
+          "fin": 21.44
+        },
+        {
+          "texto": "casi",
+          "inicio": 21.552,
+          "fin": 22.0
+        },
+        {
+          "texto": "cualquier",
+          "inicio": 22.056,
+          "fin": 22.56
+        },
+        {
+          "texto": "condición.",
+          "inicio": 22.608,
+          "fin": 23.28
+        }
+      ]
+    },
+    {
+      "num": "08",
+      "titulo": "Paso 2: el else",
+      "audio": "escena-08.mp3",
+      "inicio": 170.32,
+      "duracion": 28.64,
+      "palabras": [
+        {
+          "texto": "Paso",
+          "inicio": 0.0,
+          "fin": 0.32
+        },
+        {
+          "texto": "dos:",
+          "inicio": 0.42,
+          "fin": 0.8
+        },
+        {
+          "texto": "el",
+          "inicio": 1.147,
+          "fin": 1.84
+        },
+        {
+          "texto": "else,",
+          "inicio": 1.968,
+          "fin": 2.56
+        },
+        {
+          "texto": "que",
+          "inicio": 2.66,
+          "fin": 2.96
+        },
+        {
+          "texto": "significa",
+          "inicio": 3.016,
+          "fin": 3.52
+        },
+        {
+          "texto": "\"si",
+          "inicio": 3.72,
+          "fin": 4.08
+        },
+        {
+          "texto": "no\".",
+          "inicio": 4.16,
+          "fin": 4.4
+        },
+        {
+          "texto": "Va",
+          "inicio": 4.773,
+          "fin": 5.52
+        },
+        {
+          "texto": "al",
+          "inicio": 5.573,
+          "fin": 5.68
+        },
+        {
+          "texto": "mismo",
+          "inicio": 5.733,
+          "fin": 6.0
+        },
+        {
+          "texto": "nivel",
+          "inicio": 6.053,
+          "fin": 6.32
+        },
+        {
+          "texto": "que",
+          "inicio": 6.36,
+          "fin": 6.48
+        },
+        {
+          "texto": "el",
+          "inicio": 6.507,
+          "fin": 6.56
+        },
+        {
+          "texto": "if,",
+          "inicio": 6.667,
+          "fin": 6.96
+        },
+        {
+          "texto": "sin",
+          "inicio": 7.12,
+          "fin": 7.6
+        },
+        {
+          "texto": "sangría,",
+          "inicio": 7.664,
+          "fin": 8.32
+        },
+        {
+          "texto": "también",
+          "inicio": 8.42,
+          "fin": 9.12
+        },
+        {
+          "texto": "con",
+          "inicio": 9.18,
+          "fin": 9.36
+        },
+        {
+          "texto": "dos",
+          "inicio": 9.4,
+          "fin": 9.52
+        },
+        {
+          "texto": "puntos.",
+          "inicio": 9.6,
+          "fin": 10.24
+        },
+        {
+          "texto": "Lo",
+          "inicio": 10.453,
+          "fin": 10.88
+        },
+        {
+          "texto": "que",
+          "inicio": 10.92,
+          "fin": 11.04
+        },
+        {
+          "texto": "pongas",
+          "inicio": 11.104,
+          "fin": 11.44
+        },
+        {
+          "texto": "debajo",
+          "inicio": 11.5,
+          "fin": 11.92
+        },
+        {
+          "texto": "de",
+          "inicio": 11.973,
+          "fin": 12.08
+        },
+        {
+          "texto": "else",
+          "inicio": 12.208,
+          "fin": 12.72
+        },
+        {
+          "texto": "se",
+          "inicio": 12.853,
+          "fin": 13.12
+        },
+        {
+          "texto": "ejecuta",
+          "inicio": 13.184,
+          "fin": 13.68
+        },
+        {
+          "texto": "cuando",
+          "inicio": 13.726,
+          "fin": 14.0
+        },
+        {
+          "texto": "la",
+          "inicio": 14.027,
+          "fin": 14.08
+        },
+        {
+          "texto": "condición",
+          "inicio": 14.144,
+          "fin": 14.72
+        },
+        {
+          "texto": "es",
+          "inicio": 14.853,
+          "fin": 15.12
+        },
+        {
+          "texto": "falsa.",
+          "inicio": 15.216,
+          "fin": 15.76
+        },
+        {
+          "texto": "Así",
+          "inicio": 16.107,
+          "fin": 16.88
+        },
+        {
+          "texto": "tu",
+          "inicio": 16.933,
+          "fin": 17.04
+        },
+        {
+          "texto": "programa",
+          "inicio": 17.102,
+          "fin": 17.6
+        },
+        {
+          "texto": "siempre",
+          "inicio": 17.65,
+          "fin": 18.0
+        },
+        {
+          "texto": "hace",
+          "inicio": 18.048,
+          "fin": 18.24
+        },
+        {
+          "texto": "algo:",
+          "inicio": 18.32,
+          "fin": 18.88
+        },
+        {
+          "texto": "o",
+          "inicio": 18.92,
+          "fin": 18.96
+        },
+        {
+          "texto": "una",
+          "inicio": 19.04,
+          "fin": 19.28
+        },
+        {
+          "texto": "cosa,",
+          "inicio": 19.376,
+          "fin": 20.0
+        },
+        {
+          "texto": "o",
+          "inicio": 20.12,
+          "fin": 20.24
+        },
+        {
+          "texto": "la",
+          "inicio": 20.293,
+          "fin": 20.4
+        },
+        {
+          "texto": "otra.",
+          "inicio": 20.48,
+          "fin": 20.88
+        },
+        {
+          "texto": "Nunca",
+          "inicio": 21.12,
+          "fin": 21.92
+        },
+        {
+          "texto": "las",
+          "inicio": 21.96,
+          "fin": 22.08
+        },
+        {
+          "texto": "dos.",
+          "inicio": 22.18,
+          "fin": 22.56
+        },
+        {
+          "texto": "Y",
+          "inicio": 23.0,
+          "fin": 23.44
+        },
+        {
+          "texto": "fíjate",
+          "inicio": 23.52,
+          "fin": 23.84
+        },
+        {
+          "texto": "que",
+          "inicio": 23.88,
+          "fin": 24.0
+        },
+        {
+          "texto": "el",
+          "inicio": 24.027,
+          "fin": 24.08
+        },
+        {
+          "texto": "else",
+          "inicio": 24.224,
+          "fin": 24.8
+        },
+        {
+          "texto": "no",
+          "inicio": 24.88,
+          "fin": 25.04
+        },
+        {
+          "texto": "lleva",
+          "inicio": 25.088,
+          "fin": 25.36
+        },
+        {
+          "texto": "condición:",
+          "inicio": 25.408,
+          "fin": 26.56
+        },
+        {
+          "texto": "atrapa",
+          "inicio": 26.64,
+          "fin": 27.12
+        },
+        {
+          "texto": "todo",
+          "inicio": 27.184,
+          "fin": 27.44
+        },
+        {
+          "texto": "lo",
+          "inicio": 27.493,
+          "fin": 27.6
+        },
+        {
+          "texto": "que",
+          "inicio": 27.62,
+          "fin": 27.68
+        },
+        {
+          "texto": "no",
+          "inicio": 27.733,
+          "fin": 27.84
+        },
+        {
+          "texto": "cumplió",
+          "inicio": 27.893,
+          "fin": 28.24
+        },
+        {
+          "texto": "el",
+          "inicio": 28.267,
+          "fin": 28.32
+        },
+        {
+          "texto": "if.",
+          "inicio": 28.427,
+          "fin": 28.64
+        }
+      ]
+    },
+    {
+      "num": "09",
+      "titulo": "Paso 3: el elif",
+      "audio": "escena-09.mp3",
+      "inicio": 199.36,
+      "duracion": 37.44,
+      "palabras": [
+        {
+          "texto": "Paso",
+          "inicio": 0.0,
+          "fin": 0.32
+        },
+        {
+          "texto": "tres:",
+          "inicio": 0.416,
+          "fin": 0.88
+        },
+        {
+          "texto": "elif,",
+          "inicio": 1.088,
+          "fin": 2.12
+        },
+        {
+          "texto": "que",
+          "inicio": 2.17,
+          "fin": 2.32
+        },
+        {
+          "texto": "es",
+          "inicio": 2.347,
+          "fin": 2.4
+        },
+        {
+          "texto": "la",
+          "inicio": 2.427,
+          "fin": 2.48
+        },
+        {
+          "texto": "abreviatura",
+          "inicio": 2.533,
+          "fin": 3.12
+        },
+        {
+          "texto": "de",
+          "inicio": 3.147,
+          "fin": 3.2
+        },
+        {
+          "texto": "\"else",
+          "inicio": 3.32,
+          "fin": 3.76
+        },
+        {
+          "texto": "if\":",
+          "inicio": 3.92,
+          "fin": 4.48
+        },
+        {
+          "texto": "si",
+          "inicio": 4.533,
+          "fin": 4.64
+        },
+        {
+          "texto": "no,",
+          "inicio": 4.72,
+          "fin": 4.96
+        },
+        {
+          "texto": "pregunta",
+          "inicio": 5.04,
+          "fin": 5.68
+        },
+        {
+          "texto": "esto",
+          "inicio": 5.728,
+          "fin": 5.92
+        },
+        {
+          "texto": "otro.",
+          "inicio": 6.0,
+          "fin": 6.4
+        },
+        {
+          "texto": "Sirve",
+          "inicio": 6.68,
+          "fin": 7.6
+        },
+        {
+          "texto": "cuando",
+          "inicio": 7.634,
+          "fin": 7.84
+        },
+        {
+          "texto": "tienes",
+          "inicio": 7.886,
+          "fin": 8.16
+        },
+        {
+          "texto": "más",
+          "inicio": 8.2,
+          "fin": 8.32
+        },
+        {
+          "texto": "de",
+          "inicio": 8.373,
+          "fin": 8.48
+        },
+        {
+          "texto": "dos",
+          "inicio": 8.52,
+          "fin": 8.64
+        },
+        {
+          "texto": "opciones.",
+          "inicio": 8.72,
+          "fin": 9.6
+        },
+        {
+          "texto": "¿Recuerdas",
+          "inicio": 9.92,
+          "fin": 10.72
+        },
+        {
+          "texto": "la",
+          "inicio": 10.747,
+          "fin": 10.8
+        },
+        {
+          "texto": "regla",
+          "inicio": 10.86,
+          "fin": 11.12
+        },
+        {
+          "texto": "de",
+          "inicio": 11.147,
+          "fin": 11.2
+        },
+        {
+          "texto": "comisiones",
+          "inicio": 11.26,
+          "fin": 11.84
+        },
+        {
+          "texto": "del",
+          "inicio": 11.88,
+          "fin": 12.0
+        },
+        {
+          "texto": "video",
+          "inicio": 12.053,
+          "fin": 12.32
+        },
+        {
+          "texto": "de",
+          "inicio": 12.347,
+          "fin": 12.4
+        },
+        {
+          "texto": "fórmulas",
+          "inicio": 12.48,
+          "fin": 12.88
+        },
+        {
+          "texto": "con",
+          "inicio": 12.94,
+          "fin": 13.12
+        },
+        {
+          "texto": "IA?",
+          "inicio": 13.227,
+          "fin": 13.76
+        },
+        {
+          "texto": "Desde",
+          "inicio": 13.947,
+          "fin": 14.88
+        },
+        {
+          "texto": "cinco",
+          "inicio": 14.933,
+          "fin": 15.2
+        },
+        {
+          "texto": "mil,",
+          "inicio": 15.28,
+          "fin": 15.76
+        },
+        {
+          "texto": "el",
+          "inicio": 15.84,
+          "fin": 16.0
+        },
+        {
+          "texto": "cinco",
+          "inicio": 16.04,
+          "fin": 16.24
+        },
+        {
+          "texto": "por",
+          "inicio": 16.3,
+          "fin": 16.48
+        },
+        {
+          "texto": "ciento.",
+          "inicio": 16.52,
+          "fin": 17.12
+        },
+        {
+          "texto": "Desde",
+          "inicio": 17.24,
+          "fin": 17.84
+        },
+        {
+          "texto": "mil,",
+          "inicio": 17.94,
+          "fin": 18.4
+        },
+        {
+          "texto": "el",
+          "inicio": 18.453,
+          "fin": 18.56
+        },
+        {
+          "texto": "tres",
+          "inicio": 18.608,
+          "fin": 18.8
+        },
+        {
+          "texto": "por",
+          "inicio": 18.84,
+          "fin": 18.96
+        },
+        {
+          "texto": "ciento.",
+          "inicio": 19.04,
+          "fin": 19.76
+        },
+        {
+          "texto": "Si",
+          "inicio": 19.84,
+          "fin": 20.0
+        },
+        {
+          "texto": "no,",
+          "inicio": 20.107,
+          "fin": 20.64
+        },
+        {
+          "texto": "cero.",
+          "inicio": 20.8,
+          "fin": 21.84
+        },
+        {
+          "texto": "En",
+          "inicio": 22.0,
+          "fin": 22.32
+        },
+        {
+          "texto": "Python",
+          "inicio": 22.4,
+          "fin": 22.88
+        },
+        {
+          "texto": "queda",
+          "inicio": 22.92,
+          "fin": 23.12
+        },
+        {
+          "texto": "así:",
+          "inicio": 23.22,
+          "fin": 23.76
+        },
+        {
+          "texto": "if",
+          "inicio": 24.16,
+          "fin": 24.96
+        },
+        {
+          "texto": "ventas",
+          "inicio": 25.12,
+          "fin": 26.08
+        },
+        {
+          "texto": "mayor",
+          "inicio": 26.173,
+          "fin": 26.64
+        },
+        {
+          "texto": "o",
+          "inicio": 26.68,
+          "fin": 26.72
+        },
+        {
+          "texto": "igual",
+          "inicio": 26.773,
+          "fin": 27.04
+        },
+        {
+          "texto": "que",
+          "inicio": 27.08,
+          "fin": 27.2
+        },
+        {
+          "texto": "cinco",
+          "inicio": 27.253,
+          "fin": 27.52
+        },
+        {
+          "texto": "mil,",
+          "inicio": 27.6,
+          "fin": 28.24
+        },
+        {
+          "texto": "elif",
+          "inicio": 28.544,
+          "fin": 29.76
+        },
+        {
+          "texto": "ventas",
+          "inicio": 29.931,
+          "fin": 30.96
+        },
+        {
+          "texto": "mayor",
+          "inicio": 31.027,
+          "fin": 31.36
+        },
+        {
+          "texto": "o",
+          "inicio": 31.4,
+          "fin": 31.44
+        },
+        {
+          "texto": "igual",
+          "inicio": 31.493,
+          "fin": 31.76
+        },
+        {
+          "texto": "que",
+          "inicio": 31.8,
+          "fin": 31.92
+        },
+        {
+          "texto": "mil,",
+          "inicio": 32.04,
+          "fin": 32.64
+        },
+        {
+          "texto": "y",
+          "inicio": 33.0,
+          "fin": 33.36
+        },
+        {
+          "texto": "else.",
+          "inicio": 33.504,
+          "fin": 34.52
+        },
+        {
+          "texto": "Tres",
+          "inicio": 34.74,
+          "fin": 35.12
+        },
+        {
+          "texto": "caminos,",
+          "inicio": 35.18,
+          "fin": 36.08
+        },
+        {
+          "texto": "uno",
+          "inicio": 36.16,
+          "fin": 36.4
+        },
+        {
+          "texto": "solo",
+          "inicio": 36.448,
+          "fin": 36.64
+        },
+        {
+          "texto": "se",
+          "inicio": 36.693,
+          "fin": 36.8
+        },
+        {
+          "texto": "cumple.",
+          "inicio": 36.88,
+          "fin": 37.44
+        }
+      ]
+    },
+    {
+      "num": "10",
+      "titulo": "Pruébalo con los límites",
+      "audio": "escena-10.mp3",
+      "inicio": 237.2,
+      "duracion": 34.16,
+      "palabras": [
+        {
+          "texto": "La",
+          "inicio": 0.0,
+          "fin": 0.08
+        },
+        {
+          "texto": "primera",
+          "inicio": 0.13,
+          "fin": 0.48
+        },
+        {
+          "texto": "línea",
+          "inicio": 0.56,
+          "fin": 0.96
+        },
+        {
+          "texto": "usa",
+          "inicio": 1.06,
+          "fin": 1.36
+        },
+        {
+          "texto": "input",
+          "inicio": 1.453,
+          "fin": 1.92
+        },
+        {
+          "texto": "para",
+          "inicio": 1.984,
+          "fin": 2.24
+        },
+        {
+          "texto": "preguntar",
+          "inicio": 2.288,
+          "fin": 2.8
+        },
+        {
+          "texto": "las",
+          "inicio": 2.84,
+          "fin": 2.96
+        },
+        {
+          "texto": "ventas,",
+          "inicio": 3.051,
+          "fin": 4.08
+        },
+        {
+          "texto": "y",
+          "inicio": 4.12,
+          "fin": 4.16
+        },
+        {
+          "texto": "float",
+          "inicio": 4.24,
+          "fin": 4.64
+        },
+        {
+          "texto": "para",
+          "inicio": 4.688,
+          "fin": 4.88
+        },
+        {
+          "texto": "convertirlas",
+          "inicio": 4.94,
+          "fin": 5.6
+        },
+        {
+          "texto": "en",
+          "inicio": 5.653,
+          "fin": 5.76
+        },
+        {
+          "texto": "número.",
+          "inicio": 5.829,
+          "fin": 6.32
+        },
+        {
+          "texto": "Ejecutamos",
+          "inicio": 6.667,
+          "fin": 8.0
+        },
+        {
+          "texto": "y",
+          "inicio": 8.12,
+          "fin": 8.24
+        },
+        {
+          "texto": "probamos",
+          "inicio": 8.288,
+          "fin": 8.64
+        },
+        {
+          "texto": "los",
+          "inicio": 8.68,
+          "fin": 8.8
+        },
+        {
+          "texto": "casos",
+          "inicio": 8.853,
+          "fin": 9.12
+        },
+        {
+          "texto": "del",
+          "inicio": 9.16,
+          "fin": 9.28
+        },
+        {
+          "texto": "límite,",
+          "inicio": 9.36,
+          "fin": 10.0
+        },
+        {
+          "texto": "igual",
+          "inicio": 10.053,
+          "fin": 10.32
+        },
+        {
+          "texto": "que",
+          "inicio": 10.34,
+          "fin": 10.4
+        },
+        {
+          "texto": "en",
+          "inicio": 10.427,
+          "fin": 10.48
+        },
+        {
+          "texto": "Excel.",
+          "inicio": 10.573,
+          "fin": 11.44
+        },
+        {
+          "texto": "Novecientos",
+          "inicio": 11.64,
+          "fin": 12.32
+        },
+        {
+          "texto": "noventa",
+          "inicio": 12.373,
+          "fin": 12.72
+        },
+        {
+          "texto": "y",
+          "inicio": 12.8,
+          "fin": 12.88
+        },
+        {
+          "texto": "nueve:",
+          "inicio": 12.94,
+          "fin": 13.56
+        },
+        {
+          "texto": "cero.",
+          "inicio": 13.74,
+          "fin": 14.32
+        },
+        {
+          "texto": "Mil:",
+          "inicio": 14.62,
+          "fin": 15.92
+        },
+        {
+          "texto": "treinta.",
+          "inicio": 16.02,
+          "fin": 16.8
+        },
+        {
+          "texto": "Cinco",
+          "inicio": 17.08,
+          "fin": 18.0
+        },
+        {
+          "texto": "mil:",
+          "inicio": 18.08,
+          "fin": 18.8
+        },
+        {
+          "texto": "doscientos",
+          "inicio": 18.86,
+          "fin": 19.36
+        },
+        {
+          "texto": "cincuenta.",
+          "inicio": 19.4,
+          "fin": 20.56
+        },
+        {
+          "texto": "Y",
+          "inicio": 20.84,
+          "fin": 21.12
+        },
+        {
+          "texto": "siete",
+          "inicio": 21.16,
+          "fin": 21.36
+        },
+        {
+          "texto": "mil",
+          "inicio": 21.4,
+          "fin": 21.52
+        },
+        {
+          "texto": "doscientos:",
+          "inicio": 21.6,
+          "fin": 22.72
+        },
+        {
+          "texto": "trescientos",
+          "inicio": 22.784,
+          "fin": 23.36
+        },
+        {
+          "texto": "sesenta.",
+          "inicio": 23.42,
+          "fin": 24.08
+        },
+        {
+          "texto": "¡Todo",
+          "inicio": 25.128,
+          "fin": 25.2
+        },
+        {
+          "texto": "correcto!",
+          "inicio": 25.27,
+          "fin": 25.92
+        },
+        {
+          "texto": "Y",
+          "inicio": 26.28,
+          "fin": 26.64
+        },
+        {
+          "texto": "si",
+          "inicio": 26.667,
+          "fin": 26.72
+        },
+        {
+          "texto": "alguno",
+          "inicio": 26.773,
+          "fin": 27.12
+        },
+        {
+          "texto": "no",
+          "inicio": 27.173,
+          "fin": 27.28
+        },
+        {
+          "texto": "hubiera",
+          "inicio": 27.3,
+          "fin": 27.52
+        },
+        {
+          "texto": "dado",
+          "inicio": 27.568,
+          "fin": 27.76
+        },
+        {
+          "texto": "lo",
+          "inicio": 27.787,
+          "fin": 27.84
+        },
+        {
+          "texto": "esperado,",
+          "inicio": 27.893,
+          "fin": 28.72
+        },
+        {
+          "texto": "ya",
+          "inicio": 28.747,
+          "fin": 28.8
+        },
+        {
+          "texto": "sabrías",
+          "inicio": 28.86,
+          "fin": 29.28
+        },
+        {
+          "texto": "dónde",
+          "inicio": 29.333,
+          "fin": 29.6
+        },
+        {
+          "texto": "buscar:",
+          "inicio": 29.669,
+          "fin": 30.8
+        },
+        {
+          "texto": "en",
+          "inicio": 30.853,
+          "fin": 30.96
+        },
+        {
+          "texto": "la",
+          "inicio": 31.013,
+          "fin": 31.12
+        },
+        {
+          "texto": "condición,",
+          "inicio": 31.168,
+          "fin": 32.4
+        },
+        {
+          "texto": "no",
+          "inicio": 32.48,
+          "fin": 32.64
+        },
+        {
+          "texto": "en",
+          "inicio": 32.747,
+          "fin": 32.96
+        },
+        {
+          "texto": "el",
+          "inicio": 32.987,
+          "fin": 33.04
+        },
+        {
+          "texto": "resto",
+          "inicio": 33.107,
+          "fin": 33.44
+        },
+        {
+          "texto": "del",
+          "inicio": 33.46,
+          "fin": 33.52
+        },
+        {
+          "texto": "programa.",
+          "inicio": 33.573,
+          "fin": 34.16
+        }
+      ]
+    },
+    {
+      "num": "11",
+      "titulo": "El orden importa",
+      "audio": "escena-11.mp3",
+      "inicio": 271.76,
+      "duracion": 35.04,
+      "palabras": [
+        {
+          "texto": "Ahora,",
+          "inicio": 0.0,
+          "fin": 0.4
+        },
+        {
+          "texto": "un",
+          "inicio": 0.427,
+          "fin": 0.48
+        },
+        {
+          "texto": "error",
+          "inicio": 0.533,
+          "fin": 0.8
+        },
+        {
+          "texto": "que",
+          "inicio": 0.84,
+          "fin": 0.96
+        },
+        {
+          "texto": "cuesta",
+          "inicio": 1.0,
+          "fin": 1.36
+        },
+        {
+          "texto": "dinero.",
+          "inicio": 1.429,
+          "fin": 1.92
+        },
+        {
+          "texto": "¿Qué",
+          "inicio": 2.32,
+          "fin": 2.8
+        },
+        {
+          "texto": "pasa",
+          "inicio": 2.848,
+          "fin": 3.04
+        },
+        {
+          "texto": "si",
+          "inicio": 3.093,
+          "fin": 3.2
+        },
+        {
+          "texto": "pongo",
+          "inicio": 3.28,
+          "fin": 3.6
+        },
+        {
+          "texto": "primero",
+          "inicio": 3.65,
+          "fin": 4.0
+        },
+        {
+          "texto": "la",
+          "inicio": 4.053,
+          "fin": 4.16
+        },
+        {
+          "texto": "condición",
+          "inicio": 4.208,
+          "fin": 4.72
+        },
+        {
+          "texto": "de",
+          "inicio": 4.747,
+          "fin": 4.8
+        },
+        {
+          "texto": "mil,",
+          "inicio": 4.9,
+          "fin": 5.36
+        },
+        {
+          "texto": "y",
+          "inicio": 5.76,
+          "fin": 6.16
+        },
+        {
+          "texto": "después",
+          "inicio": 6.21,
+          "fin": 6.56
+        },
+        {
+          "texto": "la",
+          "inicio": 6.587,
+          "fin": 6.64
+        },
+        {
+          "texto": "de",
+          "inicio": 6.693,
+          "fin": 6.8
+        },
+        {
+          "texto": "cinco",
+          "inicio": 6.84,
+          "fin": 7.04
+        },
+        {
+          "texto": "mil?",
+          "inicio": 7.14,
+          "fin": 7.6
+        },
+        {
+          "texto": "Ejecuto",
+          "inicio": 7.84,
+          "fin": 8.72
+        },
+        {
+          "texto": "con",
+          "inicio": 8.78,
+          "fin": 8.96
+        },
+        {
+          "texto": "siete",
+          "inicio": 9.04,
+          "fin": 9.28
+        },
+        {
+          "texto": "mil",
+          "inicio": 9.32,
+          "fin": 9.44
+        },
+        {
+          "texto": "doscientos",
+          "inicio": 9.52,
+          "fin": 10.48
+        },
+        {
+          "texto": "y…",
+          "inicio": 10.84,
+          "fin": 11.28
+        },
+        {
+          "texto": "doscientos",
+          "inicio": 11.56,
+          "fin": 12.76
+        },
+        {
+          "texto": "dieciséis.",
+          "inicio": 12.79,
+          "fin": 13.6
+        },
+        {
+          "texto": "¡Le",
+          "inicio": 13.92,
+          "fin": 14.32
+        },
+        {
+          "texto": "pagué",
+          "inicio": 14.36,
+          "fin": 14.56
+        },
+        {
+          "texto": "el",
+          "inicio": 14.587,
+          "fin": 14.64
+        },
+        {
+          "texto": "tres",
+          "inicio": 14.688,
+          "fin": 14.88
+        },
+        {
+          "texto": "por",
+          "inicio": 14.92,
+          "fin": 15.04
+        },
+        {
+          "texto": "ciento",
+          "inicio": 15.12,
+          "fin": 15.36
+        },
+        {
+          "texto": "en",
+          "inicio": 15.413,
+          "fin": 15.52
+        },
+        {
+          "texto": "vez",
+          "inicio": 15.56,
+          "fin": 15.68
+        },
+        {
+          "texto": "del",
+          "inicio": 15.72,
+          "fin": 15.84
+        },
+        {
+          "texto": "cinco!",
+          "inicio": 15.92,
+          "fin": 16.4
+        },
+        {
+          "texto": "Python",
+          "inicio": 16.617,
+          "fin": 17.92
+        },
+        {
+          "texto": "revisa",
+          "inicio": 17.987,
+          "fin": 18.4
+        },
+        {
+          "texto": "las",
+          "inicio": 18.48,
+          "fin": 18.72
+        },
+        {
+          "texto": "condiciones",
+          "inicio": 18.773,
+          "fin": 19.36
+        },
+        {
+          "texto": "de",
+          "inicio": 19.387,
+          "fin": 19.44
+        },
+        {
+          "texto": "arriba",
+          "inicio": 19.493,
+          "fin": 19.76
+        },
+        {
+          "texto": "hacia",
+          "inicio": 19.8,
+          "fin": 20.0
+        },
+        {
+          "texto": "abajo,",
+          "inicio": 20.027,
+          "fin": 20.48
+        },
+        {
+          "texto": "y",
+          "inicio": 20.8,
+          "fin": 21.12
+        },
+        {
+          "texto": "se",
+          "inicio": 21.173,
+          "fin": 21.28
+        },
+        {
+          "texto": "detiene",
+          "inicio": 21.32,
+          "fin": 21.6
+        },
+        {
+          "texto": "en",
+          "inicio": 21.627,
+          "fin": 21.68
+        },
+        {
+          "texto": "la",
+          "inicio": 21.707,
+          "fin": 21.76
+        },
+        {
+          "texto": "primera",
+          "inicio": 21.81,
+          "fin": 22.16
+        },
+        {
+          "texto": "que",
+          "inicio": 22.18,
+          "fin": 22.24
+        },
+        {
+          "texto": "es",
+          "inicio": 22.293,
+          "fin": 22.4
+        },
+        {
+          "texto": "verdadera.",
+          "inicio": 22.432,
+          "fin": 23.12
+        },
+        {
+          "texto": "Siete",
+          "inicio": 23.36,
+          "fin": 23.76
+        },
+        {
+          "texto": "mil",
+          "inicio": 23.8,
+          "fin": 23.92
+        },
+        {
+          "texto": "doscientos",
+          "inicio": 24.0,
+          "fin": 24.56
+        },
+        {
+          "texto": "es",
+          "inicio": 24.667,
+          "fin": 24.88
+        },
+        {
+          "texto": "mayor",
+          "inicio": 24.92,
+          "fin": 25.12
+        },
+        {
+          "texto": "que",
+          "inicio": 25.18,
+          "fin": 25.36
+        },
+        {
+          "texto": "mil,",
+          "inicio": 25.44,
+          "fin": 26.32
+        },
+        {
+          "texto": "así",
+          "inicio": 26.38,
+          "fin": 26.56
+        },
+        {
+          "texto": "que",
+          "inicio": 26.6,
+          "fin": 26.72
+        },
+        {
+          "texto": "nunca",
+          "inicio": 26.773,
+          "fin": 27.04
+        },
+        {
+          "texto": "llega",
+          "inicio": 27.088,
+          "fin": 27.32
+        },
+        {
+          "texto": "a",
+          "inicio": 27.34,
+          "fin": 27.36
+        },
+        {
+          "texto": "preguntar",
+          "inicio": 27.408,
+          "fin": 27.92
+        },
+        {
+          "texto": "por",
+          "inicio": 27.98,
+          "fin": 28.16
+        },
+        {
+          "texto": "cinco",
+          "inicio": 28.213,
+          "fin": 28.48
+        },
+        {
+          "texto": "mil.",
+          "inicio": 28.56,
+          "fin": 28.88
+        },
+        {
+          "texto": "Regla",
+          "inicio": 29.14,
+          "fin": 30.0
+        },
+        {
+          "texto": "de",
+          "inicio": 30.053,
+          "fin": 30.16
+        },
+        {
+          "texto": "oro:",
+          "inicio": 30.22,
+          "fin": 30.48
+        },
+        {
+          "texto": "de",
+          "inicio": 30.667,
+          "fin": 31.04
+        },
+        {
+          "texto": "la",
+          "inicio": 31.067,
+          "fin": 31.12
+        },
+        {
+          "texto": "condición",
+          "inicio": 31.184,
+          "fin": 31.76
+        },
+        {
+          "texto": "más",
+          "inicio": 31.86,
+          "fin": 32.16
+        },
+        {
+          "texto": "exigente",
+          "inicio": 32.256,
+          "fin": 33.04
+        },
+        {
+          "texto": "a",
+          "inicio": 33.32,
+          "fin": 33.6
+        },
+        {
+          "texto": "la",
+          "inicio": 33.653,
+          "fin": 33.76
+        },
+        {
+          "texto": "menos",
+          "inicio": 33.813,
+          "fin": 34.08
+        },
+        {
+          "texto": "exigente.",
+          "inicio": 34.176,
+          "fin": 35.04
+        }
+      ]
+    },
+    {
+      "num": "12",
+      "titulo": "input devuelve texto",
+      "audio": "escena-12.mp3",
+      "inicio": 307.2,
+      "duracion": 20.72,
+      "palabras": [
+        {
+          "texto": "Otro",
+          "inicio": 0.0,
+          "fin": 0.24
+        },
+        {
+          "texto": "detalle.",
+          "inicio": 0.3,
+          "fin": 0.8
+        },
+        {
+          "texto": "Input",
+          "inicio": 0.933,
+          "fin": 1.6
+        },
+        {
+          "texto": "siempre",
+          "inicio": 1.67,
+          "fin": 2.16
+        },
+        {
+          "texto": "devuelve",
+          "inicio": 2.204,
+          "fin": 2.56
+        },
+        {
+          "texto": "texto,",
+          "inicio": 2.64,
+          "fin": 3.2
+        },
+        {
+          "texto": "aunque",
+          "inicio": 3.234,
+          "fin": 3.44
+        },
+        {
+          "texto": "escribas",
+          "inicio": 3.48,
+          "fin": 3.92
+        },
+        {
+          "texto": "un",
+          "inicio": 3.947,
+          "fin": 4.0
+        },
+        {
+          "texto": "número.",
+          "inicio": 4.069,
+          "fin": 4.56
+        },
+        {
+          "texto": "Si",
+          "inicio": 4.667,
+          "fin": 4.88
+        },
+        {
+          "texto": "comparas",
+          "inicio": 4.937,
+          "fin": 5.44
+        },
+        {
+          "texto": "ese",
+          "inicio": 5.5,
+          "fin": 5.68
+        },
+        {
+          "texto": "texto",
+          "inicio": 5.747,
+          "fin": 6.08
+        },
+        {
+          "texto": "con",
+          "inicio": 6.14,
+          "fin": 6.32
+        },
+        {
+          "texto": "cinco",
+          "inicio": 6.387,
+          "fin": 6.72
+        },
+        {
+          "texto": "mil,",
+          "inicio": 6.78,
+          "fin": 7.2
+        },
+        {
+          "texto": "Python",
+          "inicio": 7.257,
+          "fin": 7.6
+        },
+        {
+          "texto": "se",
+          "inicio": 7.68,
+          "fin": 7.84
+        },
+        {
+          "texto": "queja:",
+          "inicio": 7.9,
+          "fin": 8.32
+        },
+        {
+          "texto": "type",
+          "inicio": 8.4,
+          "fin": 8.72
+        },
+        {
+          "texto": "error,",
+          "inicio": 8.787,
+          "fin": 9.28
+        },
+        {
+          "texto": "no",
+          "inicio": 9.307,
+          "fin": 9.36
+        },
+        {
+          "texto": "se",
+          "inicio": 9.413,
+          "fin": 9.52
+        },
+        {
+          "texto": "puede",
+          "inicio": 9.573,
+          "fin": 9.84
+        },
+        {
+          "texto": "comparar",
+          "inicio": 9.897,
+          "fin": 10.32
+        },
+        {
+          "texto": "un",
+          "inicio": 10.347,
+          "fin": 10.4
+        },
+        {
+          "texto": "texto",
+          "inicio": 10.467,
+          "fin": 10.8
+        },
+        {
+          "texto": "con",
+          "inicio": 10.84,
+          "fin": 10.96
+        },
+        {
+          "texto": "un",
+          "inicio": 10.987,
+          "fin": 11.04
+        },
+        {
+          "texto": "número.",
+          "inicio": 11.097,
+          "fin": 11.52
+        },
+        {
+          "texto": "La",
+          "inicio": 11.6,
+          "fin": 11.76
+        },
+        {
+          "texto": "solución",
+          "inicio": 11.82,
+          "fin": 12.32
+        },
+        {
+          "texto": "es",
+          "inicio": 12.453,
+          "fin": 12.72
+        },
+        {
+          "texto": "la",
+          "inicio": 12.773,
+          "fin": 12.88
+        },
+        {
+          "texto": "que",
+          "inicio": 12.9,
+          "fin": 12.96
+        },
+        {
+          "texto": "ya",
+          "inicio": 13.013,
+          "fin": 13.12
+        },
+        {
+          "texto": "viste:",
+          "inicio": 13.16,
+          "fin": 13.68
+        },
+        {
+          "texto": "envolver",
+          "inicio": 13.74,
+          "fin": 14.24
+        },
+        {
+          "texto": "el",
+          "inicio": 14.267,
+          "fin": 14.32
+        },
+        {
+          "texto": "input",
+          "inicio": 14.387,
+          "fin": 14.72
+        },
+        {
+          "texto": "en",
+          "inicio": 14.8,
+          "fin": 14.96
+        },
+        {
+          "texto": "float,",
+          "inicio": 15.053,
+          "fin": 15.68
+        },
+        {
+          "texto": "para",
+          "inicio": 15.712,
+          "fin": 15.84
+        },
+        {
+          "texto": "convertirlo",
+          "inicio": 15.9,
+          "fin": 16.64
+        },
+        {
+          "texto": "en",
+          "inicio": 16.72,
+          "fin": 16.88
+        },
+        {
+          "texto": "número",
+          "inicio": 16.937,
+          "fin": 17.28
+        },
+        {
+          "texto": "con",
+          "inicio": 17.32,
+          "fin": 17.44
+        },
+        {
+          "texto": "decimales.",
+          "inicio": 17.48,
+          "fin": 18.24
+        },
+        {
+          "texto": "O",
+          "inicio": 18.32,
+          "fin": 18.4
+        },
+        {
+          "texto": "en",
+          "inicio": 18.453,
+          "fin": 18.56
+        },
+        {
+          "texto": "int,",
+          "inicio": 18.62,
+          "fin": 18.88
+        },
+        {
+          "texto": "si",
+          "inicio": 18.96,
+          "fin": 19.12
+        },
+        {
+          "texto": "solo",
+          "inicio": 19.184,
+          "fin": 19.44
+        },
+        {
+          "texto": "necesitas",
+          "inicio": 19.493,
+          "fin": 20.0
+        },
+        {
+          "texto": "enteros.",
+          "inicio": 20.067,
+          "fin": 20.72
+        }
+      ]
+    },
+    {
+      "num": "13",
+      "titulo": "and y or",
+      "audio": "escena-13.mp3",
+      "inicio": 328.32,
+      "duracion": 38.16,
+      "palabras": [
+        {
+          "texto": "¿Y",
+          "inicio": 0.0,
+          "fin": 0.16
+        },
+        {
+          "texto": "si",
+          "inicio": 0.213,
+          "fin": 0.32
+        },
+        {
+          "texto": "necesitas",
+          "inicio": 0.387,
+          "fin": 1.12
+        },
+        {
+          "texto": "dos",
+          "inicio": 1.18,
+          "fin": 1.36
+        },
+        {
+          "texto": "condiciones",
+          "inicio": 1.413,
+          "fin": 2.0
+        },
+        {
+          "texto": "a",
+          "inicio": 2.04,
+          "fin": 2.08
+        },
+        {
+          "texto": "la",
+          "inicio": 2.133,
+          "fin": 2.24
+        },
+        {
+          "texto": "vez?",
+          "inicio": 2.3,
+          "fin": 2.64
+        },
+        {
+          "texto": "Para",
+          "inicio": 2.752,
+          "fin": 3.2
+        },
+        {
+          "texto": "eso",
+          "inicio": 3.24,
+          "fin": 3.36
+        },
+        {
+          "texto": "están",
+          "inicio": 3.427,
+          "fin": 3.76
+        },
+        {
+          "texto": "and",
+          "inicio": 3.9,
+          "fin": 4.32
+        },
+        {
+          "texto": "y",
+          "inicio": 4.52,
+          "fin": 4.72
+        },
+        {
+          "texto": "or.",
+          "inicio": 4.88,
+          "fin": 5.28
+        },
+        {
+          "texto": "And",
+          "inicio": 5.42,
+          "fin": 5.84
+        },
+        {
+          "texto": "significa",
+          "inicio": 5.904,
+          "fin": 6.48
+        },
+        {
+          "texto": "\"y\":",
+          "inicio": 6.56,
+          "fin": 7.12
+        },
+        {
+          "texto": "las",
+          "inicio": 7.16,
+          "fin": 7.28
+        },
+        {
+          "texto": "dos",
+          "inicio": 7.34,
+          "fin": 7.52
+        },
+        {
+          "texto": "tienen",
+          "inicio": 7.566,
+          "fin": 7.84
+        },
+        {
+          "texto": "que",
+          "inicio": 7.86,
+          "fin": 7.92
+        },
+        {
+          "texto": "cumplirse.",
+          "inicio": 7.987,
+          "fin": 8.8
+        },
+        {
+          "texto": "Por",
+          "inicio": 8.92,
+          "fin": 9.28
+        },
+        {
+          "texto": "ejemplo,",
+          "inicio": 9.35,
+          "fin": 10.0
+        },
+        {
+          "texto": "el",
+          "inicio": 10.053,
+          "fin": 10.16
+        },
+        {
+          "texto": "estudiante",
+          "inicio": 10.2,
+          "fin": 10.8
+        },
+        {
+          "texto": "aprueba",
+          "inicio": 10.86,
+          "fin": 11.28
+        },
+        {
+          "texto": "si",
+          "inicio": 11.413,
+          "fin": 11.68
+        },
+        {
+          "texto": "su",
+          "inicio": 11.733,
+          "fin": 11.84
+        },
+        {
+          "texto": "nota",
+          "inicio": 11.904,
+          "fin": 12.16
+        },
+        {
+          "texto": "es",
+          "inicio": 12.187,
+          "fin": 12.24
+        },
+        {
+          "texto": "de",
+          "inicio": 12.293,
+          "fin": 12.4
+        },
+        {
+          "texto": "sesenta",
+          "inicio": 12.46,
+          "fin": 12.88
+        },
+        {
+          "texto": "o",
+          "inicio": 12.96,
+          "fin": 13.04
+        },
+        {
+          "texto": "más,",
+          "inicio": 13.12,
+          "fin": 13.44
+        },
+        {
+          "texto": "y",
+          "inicio": 13.68,
+          "fin": 13.92
+        },
+        {
+          "texto": "su",
+          "inicio": 13.973,
+          "fin": 14.08
+        },
+        {
+          "texto": "asistencia",
+          "inicio": 14.133,
+          "fin": 14.88
+        },
+        {
+          "texto": "es",
+          "inicio": 14.987,
+          "fin": 15.2
+        },
+        {
+          "texto": "de",
+          "inicio": 15.253,
+          "fin": 15.36
+        },
+        {
+          "texto": "ochenta",
+          "inicio": 15.4,
+          "fin": 15.84
+        },
+        {
+          "texto": "o",
+          "inicio": 15.88,
+          "fin": 15.92
+        },
+        {
+          "texto": "más.",
+          "inicio": 16.02,
+          "fin": 16.48
+        },
+        {
+          "texto": "Or",
+          "inicio": 16.827,
+          "fin": 17.52
+        },
+        {
+          "texto": "significa",
+          "inicio": 17.6,
+          "fin": 18.32
+        },
+        {
+          "texto": "\"o\":",
+          "inicio": 18.44,
+          "fin": 19.28
+        },
+        {
+          "texto": "basta",
+          "inicio": 19.32,
+          "fin": 19.76
+        },
+        {
+          "texto": "con",
+          "inicio": 19.82,
+          "fin": 20.0
+        },
+        {
+          "texto": "que",
+          "inicio": 20.06,
+          "fin": 20.24
+        },
+        {
+          "texto": "una",
+          "inicio": 20.34,
+          "fin": 20.64
+        },
+        {
+          "texto": "se",
+          "inicio": 20.693,
+          "fin": 20.8
+        },
+        {
+          "texto": "cumpla.",
+          "inicio": 20.9,
+          "fin": 21.52
+        },
+        {
+          "texto": "Por",
+          "inicio": 21.6,
+          "fin": 21.84
+        },
+        {
+          "texto": "ejemplo,",
+          "inicio": 21.92,
+          "fin": 22.88
+        },
+        {
+          "texto": "el",
+          "inicio": 22.933,
+          "fin": 23.04
+        },
+        {
+          "texto": "envío",
+          "inicio": 23.1,
+          "fin": 23.44
+        },
+        {
+          "texto": "es",
+          "inicio": 23.467,
+          "fin": 23.52
+        },
+        {
+          "texto": "gratis",
+          "inicio": 23.623,
+          "fin": 24.24
+        },
+        {
+          "texto": "si",
+          "inicio": 24.4,
+          "fin": 24.72
+        },
+        {
+          "texto": "la",
+          "inicio": 24.747,
+          "fin": 24.8
+        },
+        {
+          "texto": "compra",
+          "inicio": 24.869,
+          "fin": 25.28
+        },
+        {
+          "texto": "pasa",
+          "inicio": 25.36,
+          "fin": 25.68
+        },
+        {
+          "texto": "de",
+          "inicio": 25.707,
+          "fin": 25.76
+        },
+        {
+          "texto": "cien",
+          "inicio": 25.84,
+          "fin": 26.08
+        },
+        {
+          "texto": "dólares,",
+          "inicio": 26.16,
+          "fin": 26.96
+        },
+        {
+          "texto": "o",
+          "inicio": 27.16,
+          "fin": 27.36
+        },
+        {
+          "texto": "si",
+          "inicio": 27.52,
+          "fin": 27.84
+        },
+        {
+          "texto": "el",
+          "inicio": 27.867,
+          "fin": 27.92
+        },
+        {
+          "texto": "cliente",
+          "inicio": 27.99,
+          "fin": 28.48
+        },
+        {
+          "texto": "es",
+          "inicio": 28.507,
+          "fin": 28.56
+        },
+        {
+          "texto": "premium.",
+          "inicio": 28.64,
+          "fin": 29.28
+        },
+        {
+          "texto": "Con",
+          "inicio": 29.46,
+          "fin": 30.0
+        },
+        {
+          "texto": "una",
+          "inicio": 30.06,
+          "fin": 30.24
+        },
+        {
+          "texto": "sola",
+          "inicio": 30.32,
+          "fin": 30.64
+        },
+        {
+          "texto": "que",
+          "inicio": 30.66,
+          "fin": 30.72
+        },
+        {
+          "texto": "se",
+          "inicio": 30.773,
+          "fin": 30.88
+        },
+        {
+          "texto": "cumpla,",
+          "inicio": 30.98,
+          "fin": 31.68
+        },
+        {
+          "texto": "no",
+          "inicio": 31.76,
+          "fin": 31.92
+        },
+        {
+          "texto": "paga",
+          "inicio": 31.96,
+          "fin": 32.24
+        },
+        {
+          "texto": "envío.",
+          "inicio": 32.32,
+          "fin": 32.96
+        },
+        {
+          "texto": "Con",
+          "inicio": 33.08,
+          "fin": 33.44
+        },
+        {
+          "texto": "estas",
+          "inicio": 33.493,
+          "fin": 33.76
+        },
+        {
+          "texto": "dos",
+          "inicio": 33.8,
+          "fin": 33.92
+        },
+        {
+          "texto": "palabras,",
+          "inicio": 34.0,
+          "fin": 34.72
+        },
+        {
+          "texto": "tus",
+          "inicio": 34.8,
+          "fin": 35.04
+        },
+        {
+          "texto": "condiciones",
+          "inicio": 35.093,
+          "fin": 35.68
+        },
+        {
+          "texto": "se",
+          "inicio": 35.733,
+          "fin": 35.84
+        },
+        {
+          "texto": "vuelven",
+          "inicio": 35.904,
+          "fin": 36.32
+        },
+        {
+          "texto": "mucho",
+          "inicio": 36.44,
+          "fin": 37.04
+        },
+        {
+          "texto": "más",
+          "inicio": 37.08,
+          "fin": 37.2
+        },
+        {
+          "texto": "poderosas.",
+          "inicio": 37.267,
+          "fin": 38.16
+        }
+      ]
+    },
+    {
+      "num": "14",
+      "titulo": "Bonus: el if de una línea",
+      "audio": "escena-14.mp3",
+      "inicio": 366.88,
+      "duracion": 22.96,
+      "palabras": [
+        {
+          "texto": "Un",
+          "inicio": 0.0,
+          "fin": 0.08
+        },
+        {
+          "texto": "bonus",
+          "inicio": 0.16,
+          "fin": 0.56
+        },
+        {
+          "texto": "que",
+          "inicio": 0.62,
+          "fin": 0.8
+        },
+        {
+          "texto": "te",
+          "inicio": 0.853,
+          "fin": 0.96
+        },
+        {
+          "texto": "va",
+          "inicio": 0.973,
+          "fin": 1.0
+        },
+        {
+          "texto": "a",
+          "inicio": 1.02,
+          "fin": 1.04
+        },
+        {
+          "texto": "gustar",
+          "inicio": 1.104,
+          "fin": 1.44
+        },
+        {
+          "texto": "si",
+          "inicio": 1.52,
+          "fin": 1.68
+        },
+        {
+          "texto": "vienes",
+          "inicio": 1.707,
+          "fin": 2.0
+        },
+        {
+          "texto": "de",
+          "inicio": 2.027,
+          "fin": 2.08
+        },
+        {
+          "texto": "Excel.",
+          "inicio": 2.147,
+          "fin": 3.2
+        },
+        {
+          "texto": "Cuando",
+          "inicio": 3.234,
+          "fin": 3.44
+        },
+        {
+          "texto": "solo",
+          "inicio": 3.504,
+          "fin": 3.76
+        },
+        {
+          "texto": "necesitas",
+          "inicio": 3.813,
+          "fin": 4.32
+        },
+        {
+          "texto": "elegir",
+          "inicio": 4.384,
+          "fin": 4.72
+        },
+        {
+          "texto": "entre",
+          "inicio": 4.773,
+          "fin": 5.04
+        },
+        {
+          "texto": "dos",
+          "inicio": 5.08,
+          "fin": 5.2
+        },
+        {
+          "texto": "valores,",
+          "inicio": 5.27,
+          "fin": 6.16
+        },
+        {
+          "texto": "Python",
+          "inicio": 6.217,
+          "fin": 6.56
+        },
+        {
+          "texto": "tiene",
+          "inicio": 6.6,
+          "fin": 6.8
+        },
+        {
+          "texto": "un",
+          "inicio": 6.827,
+          "fin": 6.88
+        },
+        {
+          "texto": "if",
+          "inicio": 6.96,
+          "fin": 7.12
+        },
+        {
+          "texto": "de",
+          "inicio": 7.173,
+          "fin": 7.28
+        },
+        {
+          "texto": "una",
+          "inicio": 7.32,
+          "fin": 7.44
+        },
+        {
+          "texto": "línea:",
+          "inicio": 7.507,
+          "fin": 8.48
+        },
+        {
+          "texto": "estado",
+          "inicio": 8.56,
+          "fin": 9.04
+        },
+        {
+          "texto": "igual",
+          "inicio": 9.12,
+          "fin": 9.52
+        },
+        {
+          "texto": "a",
+          "inicio": 9.56,
+          "fin": 9.6
+        },
+        {
+          "texto": "\"Aprobado\"",
+          "inicio": 9.64,
+          "fin": 10.32
+        },
+        {
+          "texto": "if",
+          "inicio": 10.56,
+          "fin": 11.04
+        },
+        {
+          "texto": "nota",
+          "inicio": 11.168,
+          "fin": 11.68
+        },
+        {
+          "texto": "mayor",
+          "inicio": 11.733,
+          "fin": 12.0
+        },
+        {
+          "texto": "o",
+          "inicio": 12.04,
+          "fin": 12.08
+        },
+        {
+          "texto": "igual",
+          "inicio": 12.12,
+          "fin": 12.32
+        },
+        {
+          "texto": "que",
+          "inicio": 12.36,
+          "fin": 12.48
+        },
+        {
+          "texto": "sesenta,",
+          "inicio": 12.54,
+          "fin": 13.6
+        },
+        {
+          "texto": "else",
+          "inicio": 13.728,
+          "fin": 14.24
+        },
+        {
+          "texto": "\"Reprobado\".",
+          "inicio": 14.32,
+          "fin": 15.2
+        },
+        {
+          "texto": "Es",
+          "inicio": 15.467,
+          "fin": 16.0
+        },
+        {
+          "texto": "casi",
+          "inicio": 16.064,
+          "fin": 16.32
+        },
+        {
+          "texto": "idéntico",
+          "inicio": 16.373,
+          "fin": 16.88
+        },
+        {
+          "texto": "a",
+          "inicio": 16.92,
+          "fin": 16.96
+        },
+        {
+          "texto": "la",
+          "inicio": 16.987,
+          "fin": 17.04
+        },
+        {
+          "texto": "función",
+          "inicio": 17.1,
+          "fin": 17.52
+        },
+        {
+          "texto": "SI",
+          "inicio": 17.627,
+          "fin": 17.84
+        },
+        {
+          "texto": "de",
+          "inicio": 17.867,
+          "fin": 17.92
+        },
+        {
+          "texto": "Excel.",
+          "inicio": 17.987,
+          "fin": 18.4
+        },
+        {
+          "texto": "Úsalo",
+          "inicio": 18.76,
+          "fin": 19.36
+        },
+        {
+          "texto": "para",
+          "inicio": 19.392,
+          "fin": 19.52
+        },
+        {
+          "texto": "cosas",
+          "inicio": 19.587,
+          "fin": 19.92
+        },
+        {
+          "texto": "cortas,",
+          "inicio": 19.984,
+          "fin": 20.48
+        },
+        {
+          "texto": "y",
+          "inicio": 20.6,
+          "fin": 20.72
+        },
+        {
+          "texto": "el",
+          "inicio": 20.773,
+          "fin": 20.88
+        },
+        {
+          "texto": "if",
+          "inicio": 20.933,
+          "fin": 21.04
+        },
+        {
+          "texto": "normal",
+          "inicio": 21.109,
+          "fin": 21.52
+        },
+        {
+          "texto": "para",
+          "inicio": 21.6,
+          "fin": 21.92
+        },
+        {
+          "texto": "todo",
+          "inicio": 21.984,
+          "fin": 22.24
+        },
+        {
+          "texto": "lo",
+          "inicio": 22.293,
+          "fin": 22.4
+        },
+        {
+          "texto": "demás.",
+          "inicio": 22.44,
+          "fin": 22.96
+        }
+      ]
+    },
+    {
+      "num": "15",
+      "titulo": "Los 5 errores de principiante",
+      "audio": "escena-15.mp3",
+      "inicio": 390.24,
+      "duracion": 44.32,
+      "palabras": [
+        {
+          "texto": "Y",
+          "inicio": 0.0,
+          "fin": 0.16
+        },
+        {
+          "texto": "los",
+          "inicio": 0.24,
+          "fin": 0.48
+        },
+        {
+          "texto": "cinco",
+          "inicio": 0.533,
+          "fin": 0.8
+        },
+        {
+          "texto": "errores",
+          "inicio": 0.84,
+          "fin": 1.12
+        },
+        {
+          "texto": "de",
+          "inicio": 1.173,
+          "fin": 1.28
+        },
+        {
+          "texto": "principiante,",
+          "inicio": 1.32,
+          "fin": 2.16
+        },
+        {
+          "texto": "con",
+          "inicio": 2.2,
+          "fin": 2.32
+        },
+        {
+          "texto": "lo",
+          "inicio": 2.347,
+          "fin": 2.4
+        },
+        {
+          "texto": "que",
+          "inicio": 2.42,
+          "fin": 2.48
+        },
+        {
+          "texto": "te",
+          "inicio": 2.533,
+          "fin": 2.64
+        },
+        {
+          "texto": "dice",
+          "inicio": 2.72,
+          "fin": 3.04
+        },
+        {
+          "texto": "Python.",
+          "inicio": 3.131,
+          "fin": 3.76
+        },
+        {
+          "texto": "Uno:",
+          "inicio": 4.04,
+          "fin": 5.6
+        },
+        {
+          "texto": "olvidar",
+          "inicio": 5.653,
+          "fin": 6.0
+        },
+        {
+          "texto": "los",
+          "inicio": 6.04,
+          "fin": 6.16
+        },
+        {
+          "texto": "dos",
+          "inicio": 6.18,
+          "fin": 6.24
+        },
+        {
+          "texto": "puntos,",
+          "inicio": 6.309,
+          "fin": 6.88
+        },
+        {
+          "texto": "y",
+          "inicio": 6.96,
+          "fin": 7.04
+        },
+        {
+          "texto": "Python",
+          "inicio": 7.097,
+          "fin": 7.44
+        },
+        {
+          "texto": "te",
+          "inicio": 7.467,
+          "fin": 7.52
+        },
+        {
+          "texto": "dice",
+          "inicio": 7.584,
+          "fin": 7.84
+        },
+        {
+          "texto": "\"expected",
+          "inicio": 7.92,
+          "fin": 8.64
+        },
+        {
+          "texto": "dos",
+          "inicio": 8.68,
+          "fin": 8.8
+        },
+        {
+          "texto": "puntos\".",
+          "inicio": 8.869,
+          "fin": 9.44
+        },
+        {
+          "texto": "Dos:",
+          "inicio": 9.72,
+          "fin": 10.72
+        },
+        {
+          "texto": "olvidar",
+          "inicio": 10.933,
+          "fin": 11.6
+        },
+        {
+          "texto": "la",
+          "inicio": 11.627,
+          "fin": 11.68
+        },
+        {
+          "texto": "sangría,",
+          "inicio": 11.744,
+          "fin": 12.4
+        },
+        {
+          "texto": "y",
+          "inicio": 12.52,
+          "fin": 12.64
+        },
+        {
+          "texto": "te",
+          "inicio": 12.693,
+          "fin": 12.8
+        },
+        {
+          "texto": "dice",
+          "inicio": 12.864,
+          "fin": 13.12
+        },
+        {
+          "texto": "que",
+          "inicio": 13.2,
+          "fin": 13.44
+        },
+        {
+          "texto": "esperaba",
+          "inicio": 13.48,
+          "fin": 13.84
+        },
+        {
+          "texto": "un",
+          "inicio": 13.867,
+          "fin": 13.92
+        },
+        {
+          "texto": "bloque",
+          "inicio": 13.966,
+          "fin": 14.24
+        },
+        {
+          "texto": "con",
+          "inicio": 14.28,
+          "fin": 14.4
+        },
+        {
+          "texto": "sangría",
+          "inicio": 14.464,
+          "fin": 14.96
+        },
+        {
+          "texto": "después",
+          "inicio": 15.0,
+          "fin": 15.28
+        },
+        {
+          "texto": "del",
+          "inicio": 15.32,
+          "fin": 15.44
+        },
+        {
+          "texto": "if.",
+          "inicio": 15.547,
+          "fin": 15.84
+        },
+        {
+          "texto": "Tres:",
+          "inicio": 16.48,
+          "fin": 17.52
+        },
+        {
+          "texto": "usar",
+          "inicio": 17.712,
+          "fin": 18.48
+        },
+        {
+          "texto": "un",
+          "inicio": 18.56,
+          "fin": 18.72
+        },
+        {
+          "texto": "solo",
+          "inicio": 18.784,
+          "fin": 19.04
+        },
+        {
+          "texto": "igual",
+          "inicio": 19.08,
+          "fin": 19.28
+        },
+        {
+          "texto": "para",
+          "inicio": 19.328,
+          "fin": 19.52
+        },
+        {
+          "texto": "comparar,",
+          "inicio": 19.577,
+          "fin": 20.16
+        },
+        {
+          "texto": "y",
+          "inicio": 20.36,
+          "fin": 20.56
+        },
+        {
+          "texto": "te",
+          "inicio": 20.587,
+          "fin": 20.64
+        },
+        {
+          "texto": "pregunta",
+          "inicio": 20.693,
+          "fin": 21.12
+        },
+        {
+          "texto": "si",
+          "inicio": 21.173,
+          "fin": 21.28
+        },
+        {
+          "texto": "quisiste",
+          "inicio": 21.328,
+          "fin": 21.76
+        },
+        {
+          "texto": "decir",
+          "inicio": 21.827,
+          "fin": 22.16
+        },
+        {
+          "texto": "doble",
+          "inicio": 22.267,
+          "fin": 22.64
+        },
+        {
+          "texto": "igual.",
+          "inicio": 22.693,
+          "fin": 23.12
+        },
+        {
+          "texto": "Cuatro:",
+          "inicio": 23.52,
+          "fin": 25.28
+        },
+        {
+          "texto": "poner",
+          "inicio": 25.333,
+          "fin": 25.6
+        },
+        {
+          "texto": "un",
+          "inicio": 25.68,
+          "fin": 25.84
+        },
+        {
+          "texto": "elif",
+          "inicio": 25.968,
+          "fin": 26.48
+        },
+        {
+          "texto": "después",
+          "inicio": 26.54,
+          "fin": 26.96
+        },
+        {
+          "texto": "del",
+          "inicio": 27.0,
+          "fin": 27.12
+        },
+        {
+          "texto": "else,",
+          "inicio": 27.216,
+          "fin": 27.72
+        },
+        {
+          "texto": "y",
+          "inicio": 27.78,
+          "fin": 27.84
+        },
+        {
+          "texto": "te",
+          "inicio": 27.893,
+          "fin": 28.0
+        },
+        {
+          "texto": "dice",
+          "inicio": 28.048,
+          "fin": 28.24
+        },
+        {
+          "texto": "exactamente",
+          "inicio": 28.293,
+          "fin": 28.96
+        },
+        {
+          "texto": "eso,",
+          "inicio": 29.04,
+          "fin": 29.52
+        },
+        {
+          "texto": "que",
+          "inicio": 29.54,
+          "fin": 29.6
+        },
+        {
+          "texto": "el",
+          "inicio": 29.653,
+          "fin": 29.76
+        },
+        {
+          "texto": "elif",
+          "inicio": 29.888,
+          "fin": 30.4
+        },
+        {
+          "texto": "va",
+          "inicio": 30.48,
+          "fin": 30.64
+        },
+        {
+          "texto": "después",
+          "inicio": 30.68,
+          "fin": 30.96
+        },
+        {
+          "texto": "de",
+          "inicio": 30.987,
+          "fin": 31.04
+        },
+        {
+          "texto": "un",
+          "inicio": 31.093,
+          "fin": 31.2
+        },
+        {
+          "texto": "else.",
+          "inicio": 31.312,
+          "fin": 31.92
+        },
+        {
+          "texto": "Y",
+          "inicio": 32.36,
+          "fin": 32.8
+        },
+        {
+          "texto": "cinco:",
+          "inicio": 32.893,
+          "fin": 33.44
+        },
+        {
+          "texto": "escribir",
+          "inicio": 33.56,
+          "fin": 34.32
+        },
+        {
+          "texto": "mal",
+          "inicio": 34.38,
+          "fin": 34.56
+        },
+        {
+          "texto": "la",
+          "inicio": 34.587,
+          "fin": 34.64
+        },
+        {
+          "texto": "palabra",
+          "inicio": 34.7,
+          "fin": 35.12
+        },
+        {
+          "texto": "if,",
+          "inicio": 35.253,
+          "fin": 35.6
+        },
+        {
+          "texto": "y",
+          "inicio": 35.72,
+          "fin": 35.84
+        },
+        {
+          "texto": "te",
+          "inicio": 35.893,
+          "fin": 36.0
+        },
+        {
+          "texto": "pregunta:",
+          "inicio": 36.062,
+          "fin": 36.64
+        },
+        {
+          "texto": "¿quisiste",
+          "inicio": 36.76,
+          "fin": 37.28
+        },
+        {
+          "texto": "decir",
+          "inicio": 37.36,
+          "fin": 37.76
+        },
+        {
+          "texto": "if?",
+          "inicio": 37.947,
+          "fin": 38.48
+        },
+        {
+          "texto": "Lee",
+          "inicio": 39.0,
+          "fin": 40.56
+        },
+        {
+          "texto": "siempre",
+          "inicio": 40.61,
+          "fin": 40.96
+        },
+        {
+          "texto": "el",
+          "inicio": 40.987,
+          "fin": 41.04
+        },
+        {
+          "texto": "mensaje",
+          "inicio": 41.09,
+          "fin": 41.44
+        },
+        {
+          "texto": "de",
+          "inicio": 41.467,
+          "fin": 41.52
+        },
+        {
+          "texto": "error:",
+          "inicio": 41.573,
+          "fin": 42.48
+        },
+        {
+          "texto": "casi",
+          "inicio": 42.544,
+          "fin": 42.8
+        },
+        {
+          "texto": "siempre",
+          "inicio": 42.85,
+          "fin": 43.2
+        },
+        {
+          "texto": "te",
+          "inicio": 43.253,
+          "fin": 43.36
+        },
+        {
+          "texto": "dice",
+          "inicio": 43.408,
+          "fin": 43.6
+        },
+        {
+          "texto": "la",
+          "inicio": 43.627,
+          "fin": 43.68
+        },
+        {
+          "texto": "solución.",
+          "inicio": 43.72,
+          "fin": 44.32
+        }
+      ]
+    },
+    {
+      "num": "16",
+      "titulo": "Excel y Python, la misma lógica",
+      "audio": "escena-16.mp3",
+      "inicio": 434.96,
+      "duracion": 32.56,
+      "palabras": [
+        {
+          "texto": "Fíjate",
+          "inicio": 0.0,
+          "fin": 0.4
+        },
+        {
+          "texto": "en",
+          "inicio": 0.48,
+          "fin": 0.64
+        },
+        {
+          "texto": "algo",
+          "inicio": 0.72,
+          "fin": 1.04
+        },
+        {
+          "texto": "bonito.",
+          "inicio": 1.16,
+          "fin": 1.92
+        },
+        {
+          "texto": "La",
+          "inicio": 2.507,
+          "fin": 3.68
+        },
+        {
+          "texto": "fórmula",
+          "inicio": 3.76,
+          "fin": 4.24
+        },
+        {
+          "texto": "de",
+          "inicio": 4.267,
+          "fin": 4.32
+        },
+        {
+          "texto": "comisiones",
+          "inicio": 4.38,
+          "fin": 4.96
+        },
+        {
+          "texto": "que",
+          "inicio": 4.98,
+          "fin": 5.04
+        },
+        {
+          "texto": "hicimos",
+          "inicio": 5.08,
+          "fin": 5.52
+        },
+        {
+          "texto": "en",
+          "inicio": 5.547,
+          "fin": 5.6
+        },
+        {
+          "texto": "Excel",
+          "inicio": 5.693,
+          "fin": 6.16
+        },
+        {
+          "texto": "con",
+          "inicio": 6.28,
+          "fin": 6.64
+        },
+        {
+          "texto": "SI",
+          "inicio": 6.907,
+          "fin": 7.44
+        },
+        {
+          "texto": "punto",
+          "inicio": 7.493,
+          "fin": 7.76
+        },
+        {
+          "texto": "CONJUNTO,",
+          "inicio": 7.84,
+          "fin": 9.08
+        },
+        {
+          "texto": "y",
+          "inicio": 9.3,
+          "fin": 9.52
+        },
+        {
+          "texto": "este",
+          "inicio": 9.584,
+          "fin": 9.84
+        },
+        {
+          "texto": "programa",
+          "inicio": 9.893,
+          "fin": 10.32
+        },
+        {
+          "texto": "en",
+          "inicio": 10.347,
+          "fin": 10.4
+        },
+        {
+          "texto": "Python,",
+          "inicio": 10.48,
+          "fin": 11.12
+        },
+        {
+          "texto": "tienen",
+          "inicio": 11.326,
+          "fin": 12.56
+        },
+        {
+          "texto": "exactamente",
+          "inicio": 12.627,
+          "fin": 13.28
+        },
+        {
+          "texto": "la",
+          "inicio": 13.307,
+          "fin": 13.36
+        },
+        {
+          "texto": "misma",
+          "inicio": 13.413,
+          "fin": 13.68
+        },
+        {
+          "texto": "lógica:",
+          "inicio": 13.72,
+          "fin": 14.88
+        },
+        {
+          "texto": "primero",
+          "inicio": 14.94,
+          "fin": 15.36
+        },
+        {
+          "texto": "la",
+          "inicio": 15.44,
+          "fin": 15.6
+        },
+        {
+          "texto": "condición",
+          "inicio": 15.648,
+          "fin": 16.08
+        },
+        {
+          "texto": "más",
+          "inicio": 16.14,
+          "fin": 16.32
+        },
+        {
+          "texto": "exigente,",
+          "inicio": 16.384,
+          "fin": 17.68
+        },
+        {
+          "texto": "luego",
+          "inicio": 17.747,
+          "fin": 18.08
+        },
+        {
+          "texto": "la",
+          "inicio": 18.107,
+          "fin": 18.16
+        },
+        {
+          "texto": "siguiente,",
+          "inicio": 18.224,
+          "fin": 19.04
+        },
+        {
+          "texto": "y",
+          "inicio": 19.08,
+          "fin": 19.12
+        },
+        {
+          "texto": "al",
+          "inicio": 19.173,
+          "fin": 19.28
+        },
+        {
+          "texto": "final",
+          "inicio": 19.347,
+          "fin": 19.68
+        },
+        {
+          "texto": "el",
+          "inicio": 19.76,
+          "fin": 19.92
+        },
+        {
+          "texto": "caso",
+          "inicio": 19.984,
+          "fin": 20.24
+        },
+        {
+          "texto": "por",
+          "inicio": 20.28,
+          "fin": 20.4
+        },
+        {
+          "texto": "defecto.",
+          "inicio": 20.469,
+          "fin": 21.04
+        },
+        {
+          "texto": "Si",
+          "inicio": 21.2,
+          "fin": 21.52
+        },
+        {
+          "texto": "entiendes",
+          "inicio": 21.58,
+          "fin": 22.16
+        },
+        {
+          "texto": "una,",
+          "inicio": 22.22,
+          "fin": 22.72
+        },
+        {
+          "texto": "entiendes",
+          "inicio": 22.78,
+          "fin": 23.2
+        },
+        {
+          "texto": "la",
+          "inicio": 23.253,
+          "fin": 23.36
+        },
+        {
+          "texto": "otra.",
+          "inicio": 23.44,
+          "fin": 23.84
+        },
+        {
+          "texto": "Por",
+          "inicio": 23.96,
+          "fin": 24.32
+        },
+        {
+          "texto": "eso",
+          "inicio": 24.38,
+          "fin": 24.56
+        },
+        {
+          "texto": "digo",
+          "inicio": 24.6,
+          "fin": 24.8
+        },
+        {
+          "texto": "que",
+          "inicio": 24.82,
+          "fin": 24.88
+        },
+        {
+          "texto": "aprender",
+          "inicio": 24.933,
+          "fin": 25.36
+        },
+        {
+          "texto": "Excel",
+          "inicio": 25.453,
+          "fin": 25.92
+        },
+        {
+          "texto": "y",
+          "inicio": 26.04,
+          "fin": 26.16
+        },
+        {
+          "texto": "Python",
+          "inicio": 26.24,
+          "fin": 26.72
+        },
+        {
+          "texto": "juntos",
+          "inicio": 26.8,
+          "fin": 27.68
+        },
+        {
+          "texto": "es",
+          "inicio": 27.893,
+          "fin": 28.32
+        },
+        {
+          "texto": "un",
+          "inicio": 28.347,
+          "fin": 28.4
+        },
+        {
+          "texto": "superpoder.",
+          "inicio": 28.48,
+          "fin": 29.36
+        },
+        {
+          "texto": "Si",
+          "inicio": 29.982,
+          "fin": 30.0
+        },
+        {
+          "texto": "no",
+          "inicio": 30.053,
+          "fin": 30.16
+        },
+        {
+          "texto": "lo",
+          "inicio": 30.187,
+          "fin": 30.24
+        },
+        {
+          "texto": "aprendes",
+          "inicio": 30.286,
+          "fin": 30.72
+        },
+        {
+          "texto": "ahora,",
+          "inicio": 30.787,
+          "fin": 31.6
+        },
+        {
+          "texto": "te",
+          "inicio": 31.627,
+          "fin": 31.68
+        },
+        {
+          "texto": "extingues.",
+          "inicio": 31.74,
+          "fin": 32.56
+        }
+      ]
+    },
+    {
+      "num": "17",
+      "titulo": "Tu reto",
+      "audio": "escena-17.mp3",
+      "inicio": 467.92,
+      "duracion": 19.92,
+      "palabras": [
+        {
+          "texto": "Ahora",
+          "inicio": 0.0,
+          "fin": 0.16
+        },
+        {
+          "texto": "te",
+          "inicio": 0.213,
+          "fin": 0.32
+        },
+        {
+          "texto": "toca",
+          "inicio": 0.373,
+          "fin": 0.56
+        },
+        {
+          "texto": "a",
+          "inicio": 0.64,
+          "fin": 0.72
+        },
+        {
+          "texto": "ti.",
+          "inicio": 0.773,
+          "fin": 0.96
+        },
+        {
+          "texto": "El",
+          "inicio": 1.253,
+          "fin": 1.84
+        },
+        {
+          "texto": "reto:",
+          "inicio": 1.893,
+          "fin": 2.48
+        },
+        {
+          "texto": "escribe",
+          "inicio": 2.56,
+          "fin": 2.96
+        },
+        {
+          "texto": "un",
+          "inicio": 2.987,
+          "fin": 3.04
+        },
+        {
+          "texto": "programa",
+          "inicio": 3.093,
+          "fin": 3.52
+        },
+        {
+          "texto": "que",
+          "inicio": 3.56,
+          "fin": 3.68
+        },
+        {
+          "texto": "pida",
+          "inicio": 3.72,
+          "fin": 3.92
+        },
+        {
+          "texto": "una",
+          "inicio": 3.96,
+          "fin": 4.08
+        },
+        {
+          "texto": "nota",
+          "inicio": 4.144,
+          "fin": 4.4
+        },
+        {
+          "texto": "de",
+          "inicio": 4.453,
+          "fin": 4.56
+        },
+        {
+          "texto": "cero",
+          "inicio": 4.6,
+          "fin": 4.72
+        },
+        {
+          "texto": "a",
+          "inicio": 4.8,
+          "fin": 4.88
+        },
+        {
+          "texto": "cien.",
+          "inicio": 4.92,
+          "fin": 5.52
+        },
+        {
+          "texto": "Si",
+          "inicio": 5.627,
+          "fin": 5.84
+        },
+        {
+          "texto": "es",
+          "inicio": 5.893,
+          "fin": 6.0
+        },
+        {
+          "texto": "noventa",
+          "inicio": 6.053,
+          "fin": 6.4
+        },
+        {
+          "texto": "o",
+          "inicio": 6.48,
+          "fin": 6.56
+        },
+        {
+          "texto": "más,",
+          "inicio": 6.62,
+          "fin": 6.96
+        },
+        {
+          "texto": "que",
+          "inicio": 6.98,
+          "fin": 7.04
+        },
+        {
+          "texto": "diga",
+          "inicio": 7.08,
+          "fin": 7.28
+        },
+        {
+          "texto": "\"Excelente\".",
+          "inicio": 7.4,
+          "fin": 8.4
+        },
+        {
+          "texto": "Si",
+          "inicio": 8.56,
+          "fin": 8.88
+        },
+        {
+          "texto": "es",
+          "inicio": 8.907,
+          "fin": 8.96
+        },
+        {
+          "texto": "sesenta",
+          "inicio": 9.02,
+          "fin": 9.44
+        },
+        {
+          "texto": "o",
+          "inicio": 9.52,
+          "fin": 9.6
+        },
+        {
+          "texto": "más,",
+          "inicio": 9.66,
+          "fin": 9.92
+        },
+        {
+          "texto": "\"Aprobado\".",
+          "inicio": 10.0,
+          "fin": 10.8
+        },
+        {
+          "texto": "Y",
+          "inicio": 10.92,
+          "fin": 11.04
+        },
+        {
+          "texto": "si",
+          "inicio": 11.093,
+          "fin": 11.2
+        },
+        {
+          "texto": "no,",
+          "inicio": 11.253,
+          "fin": 11.6
+        },
+        {
+          "texto": "\"Reprobado\".",
+          "inicio": 11.68,
+          "fin": 12.64
+        },
+        {
+          "texto": "Pista:",
+          "inicio": 12.96,
+          "fin": 13.84
+        },
+        {
+          "texto": "el",
+          "inicio": 13.973,
+          "fin": 14.24
+        },
+        {
+          "texto": "orden",
+          "inicio": 14.307,
+          "fin": 14.64
+        },
+        {
+          "texto": "importa.",
+          "inicio": 14.743,
+          "fin": 15.6
+        },
+        {
+          "texto": "Déjame",
+          "inicio": 15.947,
+          "fin": 16.8
+        },
+        {
+          "texto": "tu",
+          "inicio": 16.853,
+          "fin": 16.96
+        },
+        {
+          "texto": "código",
+          "inicio": 17.017,
+          "fin": 17.36
+        },
+        {
+          "texto": "en",
+          "inicio": 17.387,
+          "fin": 17.44
+        },
+        {
+          "texto": "los",
+          "inicio": 17.46,
+          "fin": 17.52
+        },
+        {
+          "texto": "comentarios,",
+          "inicio": 17.58,
+          "fin": 18.32
+        },
+        {
+          "texto": "y",
+          "inicio": 18.44,
+          "fin": 18.56
+        },
+        {
+          "texto": "reviso",
+          "inicio": 18.627,
+          "fin": 19.04
+        },
+        {
+          "texto": "los",
+          "inicio": 19.06,
+          "fin": 19.12
+        },
+        {
+          "texto": "primeros.",
+          "inicio": 19.166,
+          "fin": 19.92
+        }
+      ]
+    },
+    {
+      "num": "18",
+      "titulo": "Resumen y siguiente video",
+      "audio": "escena-18.mp3",
+      "inicio": 488.24,
+      "duracion": 32.566,
+      "palabras": [
+        {
+          "texto": "En",
+          "inicio": 0.0,
+          "fin": 0.16
+        },
+        {
+          "texto": "resumen:",
+          "inicio": 0.22,
+          "fin": 0.88
+        },
+        {
+          "texto": "if",
+          "inicio": 1.12,
+          "fin": 1.6
+        },
+        {
+          "texto": "pregunta,",
+          "inicio": 1.689,
+          "fin": 2.48
+        },
+        {
+          "texto": "elif",
+          "inicio": 2.656,
+          "fin": 3.36
+        },
+        {
+          "texto": "pregunta",
+          "inicio": 3.431,
+          "fin": 4.0
+        },
+        {
+          "texto": "otra",
+          "inicio": 4.096,
+          "fin": 4.48
+        },
+        {
+          "texto": "cosa",
+          "inicio": 4.576,
+          "fin": 4.96
+        },
+        {
+          "texto": "si",
+          "inicio": 5.12,
+          "fin": 5.44
+        },
+        {
+          "texto": "la",
+          "inicio": 5.467,
+          "fin": 5.52
+        },
+        {
+          "texto": "primera",
+          "inicio": 5.58,
+          "fin": 6.0
+        },
+        {
+          "texto": "fue",
+          "inicio": 6.06,
+          "fin": 6.24
+        },
+        {
+          "texto": "falsa,",
+          "inicio": 6.32,
+          "fin": 6.8
+        },
+        {
+          "texto": "y",
+          "inicio": 7.12,
+          "fin": 7.44
+        },
+        {
+          "texto": "else",
+          "inicio": 7.536,
+          "fin": 7.92
+        },
+        {
+          "texto": "atrapa",
+          "inicio": 8.06,
+          "fin": 8.72
+        },
+        {
+          "texto": "todo",
+          "inicio": 8.8,
+          "fin": 9.12
+        },
+        {
+          "texto": "lo",
+          "inicio": 9.173,
+          "fin": 9.28
+        },
+        {
+          "texto": "demás.",
+          "inicio": 9.34,
+          "fin": 10.16
+        },
+        {
+          "texto": "Dos",
+          "inicio": 10.24,
+          "fin": 10.48
+        },
+        {
+          "texto": "puntos,",
+          "inicio": 10.571,
+          "fin": 11.52
+        },
+        {
+          "texto": "sangría,",
+          "inicio": 11.6,
+          "fin": 12.32
+        },
+        {
+          "texto": "y",
+          "inicio": 12.64,
+          "fin": 12.96
+        },
+        {
+          "texto": "de",
+          "inicio": 13.013,
+          "fin": 13.12
+        },
+        {
+          "texto": "la",
+          "inicio": 13.147,
+          "fin": 13.2
+        },
+        {
+          "texto": "condición",
+          "inicio": 13.248,
+          "fin": 13.84
+        },
+        {
+          "texto": "más",
+          "inicio": 13.94,
+          "fin": 14.24
+        },
+        {
+          "texto": "exigente",
+          "inicio": 14.304,
+          "fin": 14.96
+        },
+        {
+          "texto": "a",
+          "inicio": 15.16,
+          "fin": 15.36
+        },
+        {
+          "texto": "la",
+          "inicio": 15.387,
+          "fin": 15.44
+        },
+        {
+          "texto": "menos",
+          "inicio": 15.507,
+          "fin": 15.84
+        },
+        {
+          "texto": "exigente.",
+          "inicio": 15.92,
+          "fin": 16.64
+        },
+        {
+          "texto": "En",
+          "inicio": 16.987,
+          "fin": 17.68
+        },
+        {
+          "texto": "el",
+          "inicio": 17.707,
+          "fin": 17.76
+        },
+        {
+          "texto": "próximo",
+          "inicio": 17.82,
+          "fin": 18.24
+        },
+        {
+          "texto": "video",
+          "inicio": 18.32,
+          "fin": 18.72
+        },
+        {
+          "texto": "juntamos",
+          "inicio": 18.84,
+          "fin": 19.44
+        },
+        {
+          "texto": "los",
+          "inicio": 19.48,
+          "fin": 19.6
+        },
+        {
+          "texto": "dos",
+          "inicio": 19.64,
+          "fin": 19.76
+        },
+        {
+          "texto": "mundos:",
+          "inicio": 19.84,
+          "fin": 20.88
+        },
+        {
+          "texto": "vas",
+          "inicio": 20.94,
+          "fin": 21.12
+        },
+        {
+          "texto": "a",
+          "inicio": 21.16,
+          "fin": 21.2
+        },
+        {
+          "texto": "usar",
+          "inicio": 21.248,
+          "fin": 21.44
+        },
+        {
+          "texto": "Python",
+          "inicio": 21.531,
+          "fin": 22.08
+        },
+        {
+          "texto": "dentro",
+          "inicio": 22.16,
+          "fin": 22.64
+        },
+        {
+          "texto": "de",
+          "inicio": 22.667,
+          "fin": 22.72
+        },
+        {
+          "texto": "Excel,",
+          "inicio": 22.8,
+          "fin": 23.28
+        },
+        {
+          "texto": "con",
+          "inicio": 23.38,
+          "fin": 23.68
+        },
+        {
+          "texto": "la",
+          "inicio": 23.707,
+          "fin": 23.76
+        },
+        {
+          "texto": "función",
+          "inicio": 23.83,
+          "fin": 24.32
+        },
+        {
+          "texto": "P",
+          "inicio": 24.6,
+          "fin": 24.88
+        },
+        {
+          "texto": "Y.",
+          "inicio": 25.16,
+          "fin": 26.0
+        },
+        {
+          "texto": "Suscríbete",
+          "inicio": 26.18,
+          "fin": 27.2
+        },
+        {
+          "texto": "para",
+          "inicio": 27.28,
+          "fin": 27.6
+        },
+        {
+          "texto": "no",
+          "inicio": 27.653,
+          "fin": 27.76
+        },
+        {
+          "texto": "perdértelo.",
+          "inicio": 27.808,
+          "fin": 28.48
+        },
+        {
+          "texto": "El",
+          "inicio": 29.153,
+          "fin": 29.206
+        },
+        {
+          "texto": "poder",
+          "inicio": 29.273,
+          "fin": 29.606
+        },
+        {
+          "texto": "de",
+          "inicio": 29.659,
+          "fin": 29.766
+        },
+        {
+          "texto": "la",
+          "inicio": 29.793,
+          "fin": 29.846
+        },
+        {
+          "texto": "tecnología",
+          "inicio": 29.894,
+          "fin": 30.646
+        },
+        {
+          "texto": "te",
+          "inicio": 30.779,
+          "fin": 31.046
+        },
+        {
+          "texto": "va",
+          "inicio": 31.073,
+          "fin": 31.126
+        },
+        {
+          "texto": "a",
+          "inicio": 31.166,
+          "fin": 31.206
+        },
+        {
+          "texto": "cambiar",
+          "inicio": 31.256,
+          "fin": 31.606
+        },
+        {
+          "texto": "el",
+          "inicio": 31.659,
+          "fin": 31.766
+        },
+        {
+          "texto": "mundo.",
+          "inicio": 31.846,
+          "fin": 32.566
+        }
+      ]
+    }
+  ]
+}

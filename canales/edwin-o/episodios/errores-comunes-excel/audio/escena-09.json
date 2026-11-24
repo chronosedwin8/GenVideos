@@ -1,0 +1,345 @@
+{
+  "num": "09",
+  "titulo": "Error 3: BUSCARV sin FALSO",
+  "texto": "Error número tres, y este es peligroso: BUSCARV sin el cuarto argumento. Busco el código P novecientos noventa y nueve, que no existe en mi lista, y BUSCARV me devuelve un precio: ochenta y cinco. ¿De dónde salió? Si no escribes FALSO al final, BUSCARV hace una coincidencia aproximada, y te trae el valor más cercano por debajo. Te da un precio equivocado, sin avisarte de nada.",
+  "texto_tts": "Error número tres, y este es peligroso: BUSCARV sin el cuarto argumento. Busco el código P novecientos noventa y nueve, que no existe en mi lista, y BUSCARV me devuelve un precio: ochenta y cinco. ¿De dónde salió? Si no escribes FALSO al final, BUSCARV hace una coincidencia aproximada, y te trae el valor más cercano por debajo. Te da un precio equivocado, sin avisarte de nada.",
+  "modelo": "eleven_v3",
+  "duracion": 27.36,
+  "palabras": [
+    {
+      "texto": "Error",
+      "inicio": 0.0,
+      "fin": 0.24
+    },
+    {
+      "texto": "número",
+      "inicio": 0.274,
+      "fin": 0.48
+    },
+    {
+      "texto": "tres,",
+      "inicio": 0.56,
+      "fin": 1.12
+    },
+    {
+      "texto": "y",
+      "inicio": 1.16,
+      "fin": 1.2
+    },
+    {
+      "texto": "este",
+      "inicio": 1.232,
+      "fin": 1.36
+    },
+    {
+      "texto": "es",
+      "inicio": 1.413,
+      "fin": 1.52
+    },
+    {
+      "texto": "peligroso:",
+      "inicio": 1.56,
+      "fin": 2.8
+    },
+    {
+      "texto": "BUSCARV",
+      "inicio": 2.86,
+      "fin": 3.84
+    },
+    {
+      "texto": "sin",
+      "inicio": 3.96,
+      "fin": 4.32
+    },
+    {
+      "texto": "el",
+      "inicio": 4.347,
+      "fin": 4.4
+    },
+    {
+      "texto": "cuarto",
+      "inicio": 4.453,
+      "fin": 4.8
+    },
+    {
+      "texto": "argumento.",
+      "inicio": 4.853,
+      "fin": 5.52
+    },
+    {
+      "texto": "Busco",
+      "inicio": 5.7,
+      "fin": 6.32
+    },
+    {
+      "texto": "el",
+      "inicio": 6.347,
+      "fin": 6.4
+    },
+    {
+      "texto": "código",
+      "inicio": 6.469,
+      "fin": 6.88
+    },
+    {
+      "texto": "P",
+      "inicio": 7.04,
+      "fin": 7.2
+    },
+    {
+      "texto": "novecientos",
+      "inicio": 7.253,
+      "fin": 7.76
+    },
+    {
+      "texto": "noventa",
+      "inicio": 7.84,
+      "fin": 8.24
+    },
+    {
+      "texto": "y",
+      "inicio": 8.32,
+      "fin": 8.4
+    },
+    {
+      "texto": "nueve,",
+      "inicio": 8.44,
+      "fin": 8.88
+    },
+    {
+      "texto": "que",
+      "inicio": 8.98,
+      "fin": 9.28
+    },
+    {
+      "texto": "no",
+      "inicio": 9.333,
+      "fin": 9.44
+    },
+    {
+      "texto": "existe",
+      "inicio": 9.497,
+      "fin": 9.84
+    },
+    {
+      "texto": "en",
+      "inicio": 9.867,
+      "fin": 9.92
+    },
+    {
+      "texto": "mi",
+      "inicio": 9.947,
+      "fin": 10.0
+    },
+    {
+      "texto": "lista,",
+      "inicio": 10.067,
+      "fin": 10.56
+    },
+    {
+      "texto": "y",
+      "inicio": 10.76,
+      "fin": 10.96
+    },
+    {
+      "texto": "BUSCARV",
+      "inicio": 11.02,
+      "fin": 11.76
+    },
+    {
+      "texto": "me",
+      "inicio": 11.84,
+      "fin": 12.0
+    },
+    {
+      "texto": "devuelve",
+      "inicio": 12.044,
+      "fin": 12.4
+    },
+    {
+      "texto": "un",
+      "inicio": 12.453,
+      "fin": 12.56
+    },
+    {
+      "texto": "precio:",
+      "inicio": 12.617,
+      "fin": 13.12
+    },
+    {
+      "texto": "ochenta",
+      "inicio": 13.18,
+      "fin": 13.52
+    },
+    {
+      "texto": "y",
+      "inicio": 13.6,
+      "fin": 13.68
+    },
+    {
+      "texto": "cinco.",
+      "inicio": 13.747,
+      "fin": 14.48
+    },
+    {
+      "texto": "¿De",
+      "inicio": 14.68,
+      "fin": 14.96
+    },
+    {
+      "texto": "dónde",
+      "inicio": 14.987,
+      "fin": 15.2
+    },
+    {
+      "texto": "salió?",
+      "inicio": 15.24,
+      "fin": 15.68
+    },
+    {
+      "texto": "Si",
+      "inicio": 15.947,
+      "fin": 16.48
+    },
+    {
+      "texto": "no",
+      "inicio": 16.507,
+      "fin": 16.56
+    },
+    {
+      "texto": "escribes",
+      "inicio": 16.613,
+      "fin": 17.12
+    },
+    {
+      "texto": "FALSO",
+      "inicio": 17.2,
+      "fin": 17.6
+    },
+    {
+      "texto": "al",
+      "inicio": 17.627,
+      "fin": 17.68
+    },
+    {
+      "texto": "final,",
+      "inicio": 17.747,
+      "fin": 18.56
+    },
+    {
+      "texto": "BUSCARV",
+      "inicio": 18.62,
+      "fin": 19.44
+    },
+    {
+      "texto": "hace",
+      "inicio": 19.488,
+      "fin": 19.68
+    },
+    {
+      "texto": "una",
+      "inicio": 19.72,
+      "fin": 19.84
+    },
+    {
+      "texto": "coincidencia",
+      "inicio": 19.893,
+      "fin": 20.48
+    },
+    {
+      "texto": "aproximada,",
+      "inicio": 20.55,
+      "fin": 21.36
+    },
+    {
+      "texto": "y",
+      "inicio": 21.56,
+      "fin": 21.76
+    },
+    {
+      "texto": "te",
+      "inicio": 21.813,
+      "fin": 21.92
+    },
+    {
+      "texto": "trae",
+      "inicio": 21.973,
+      "fin": 22.16
+    },
+    {
+      "texto": "el",
+      "inicio": 22.187,
+      "fin": 22.24
+    },
+    {
+      "texto": "valor",
+      "inicio": 22.293,
+      "fin": 22.56
+    },
+    {
+      "texto": "más",
+      "inicio": 22.62,
+      "fin": 22.8
+    },
+    {
+      "texto": "cercano",
+      "inicio": 22.864,
+      "fin": 23.36
+    },
+    {
+      "texto": "por",
+      "inicio": 23.4,
+      "fin": 23.52
+    },
+    {
+      "texto": "debajo.",
+      "inicio": 23.58,
+      "fin": 24.08
+    },
+    {
+      "texto": "Te",
+      "inicio": 24.293,
+      "fin": 24.72
+    },
+    {
+      "texto": "da",
+      "inicio": 24.773,
+      "fin": 24.88
+    },
+    {
+      "texto": "un",
+      "inicio": 24.933,
+      "fin": 25.04
+    },
+    {
+      "texto": "precio",
+      "inicio": 25.063,
+      "fin": 25.2
+    },
+    {
+      "texto": "equivocado,",
+      "inicio": 25.24,
+      "fin": 25.92
+    },
+    {
+      "texto": "sin",
+      "inicio": 26.02,
+      "fin": 26.32
+    },
+    {
+      "texto": "avisarte",
+      "inicio": 26.384,
+      "fin": 26.88
+    },
+    {
+      "texto": "de",
+      "inicio": 26.907,
+      "fin": 26.96
+    },
+    {
+      "texto": "nada.",
+      "inicio": 27.04,
+      "fin": 27.36
+    }
+  ]
+}

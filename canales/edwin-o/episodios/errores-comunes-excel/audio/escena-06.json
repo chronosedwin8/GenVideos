@@ -1,0 +1,395 @@
+{
+  "num": "06",
+  "titulo": "Cómo corregirlo",
+  "texto": "¿Cómo se corrige? Selecciona la celda, haz clic en el aviso del triángulo, y elige convertir en número. Si son muchas celdas, selecciónalas todas y hazlo de una vez. Y una pista para detectarlo rápido: por defecto, Excel alinea los números a la derecha y el texto a la izquierda. Si ves un número pegado a la izquierda, sospecha. Y si te pasa con frecuencia al importar datos, revisa la columna completa antes de hacer cualquier cálculo.",
+  "texto_tts": "¿Cómo se corrige? Selecciona la celda, haz clic en el aviso del triángulo, y elige convertir en número. Si son muchas celdas, selecciónalas todas y hazlo de una vez. Y una pista para detectarlo rápido: por defecto, Excel alinea los números a la derecha y el texto a la izquierda. Si ves un número pegado a la izquierda, sospecha. Y si te pasa con frecuencia al importar datos, revisa la columna completa antes de hacer cualquier cálculo.",
+  "modelo": "eleven_v3",
+  "duracion": 31.041,
+  "palabras": [
+    {
+      "texto": "¿Cómo",
+      "inicio": 0.0,
+      "fin": 0.24
+    },
+    {
+      "texto": "se",
+      "inicio": 0.293,
+      "fin": 0.4
+    },
+    {
+      "texto": "corrige?",
+      "inicio": 0.432,
+      "fin": 0.96
+    },
+    {
+      "texto": "Selecciona",
+      "inicio": 1.093,
+      "fin": 1.76
+    },
+    {
+      "texto": "la",
+      "inicio": 1.787,
+      "fin": 1.84
+    },
+    {
+      "texto": "celda,",
+      "inicio": 1.92,
+      "fin": 2.8
+    },
+    {
+      "texto": "haz",
+      "inicio": 2.86,
+      "fin": 3.04
+    },
+    {
+      "texto": "clic",
+      "inicio": 3.104,
+      "fin": 3.36
+    },
+    {
+      "texto": "en",
+      "inicio": 3.387,
+      "fin": 3.44
+    },
+    {
+      "texto": "el",
+      "inicio": 3.493,
+      "fin": 3.6
+    },
+    {
+      "texto": "aviso",
+      "inicio": 3.653,
+      "fin": 3.92
+    },
+    {
+      "texto": "del",
+      "inicio": 3.94,
+      "fin": 4.0
+    },
+    {
+      "texto": "triángulo,",
+      "inicio": 4.06,
+      "fin": 5.12
+    },
+    {
+      "texto": "y",
+      "inicio": 5.16,
+      "fin": 5.2
+    },
+    {
+      "texto": "elige",
+      "inicio": 5.28,
+      "fin": 5.68
+    },
+    {
+      "texto": "convertir",
+      "inicio": 5.75,
+      "fin": 6.4
+    },
+    {
+      "texto": "en",
+      "inicio": 6.48,
+      "fin": 6.64
+    },
+    {
+      "texto": "número.",
+      "inicio": 6.709,
+      "fin": 7.2
+    },
+    {
+      "texto": "Si",
+      "inicio": 7.573,
+      "fin": 8.32
+    },
+    {
+      "texto": "son",
+      "inicio": 8.38,
+      "fin": 8.56
+    },
+    {
+      "texto": "muchas",
+      "inicio": 8.617,
+      "fin": 8.96
+    },
+    {
+      "texto": "celdas,",
+      "inicio": 9.04,
+      "fin": 9.68
+    },
+    {
+      "texto": "selecciónalas",
+      "inicio": 9.728,
+      "fin": 10.4
+    },
+    {
+      "texto": "todas",
+      "inicio": 10.467,
+      "fin": 10.8
+    },
+    {
+      "texto": "y",
+      "inicio": 10.92,
+      "fin": 11.04
+    },
+    {
+      "texto": "hazlo",
+      "inicio": 11.06,
+      "fin": 11.28
+    },
+    {
+      "texto": "de",
+      "inicio": 11.307,
+      "fin": 11.36
+    },
+    {
+      "texto": "una",
+      "inicio": 11.4,
+      "fin": 11.52
+    },
+    {
+      "texto": "vez.",
+      "inicio": 11.6,
+      "fin": 12.08
+    },
+    {
+      "texto": "Y",
+      "inicio": 12.4,
+      "fin": 12.72
+    },
+    {
+      "texto": "una",
+      "inicio": 12.76,
+      "fin": 12.88
+    },
+    {
+      "texto": "pista",
+      "inicio": 12.96,
+      "fin": 13.28
+    },
+    {
+      "texto": "para",
+      "inicio": 13.328,
+      "fin": 13.52
+    },
+    {
+      "texto": "detectarlo",
+      "inicio": 13.566,
+      "fin": 14.08
+    },
+    {
+      "texto": "rápido:",
+      "inicio": 14.137,
+      "fin": 15.04
+    },
+    {
+      "texto": "por",
+      "inicio": 15.08,
+      "fin": 15.2
+    },
+    {
+      "texto": "defecto,",
+      "inicio": 15.28,
+      "fin": 16.0
+    },
+    {
+      "texto": "Excel",
+      "inicio": 16.08,
+      "fin": 16.48
+    },
+    {
+      "texto": "alinea",
+      "inicio": 16.613,
+      "fin": 17.2
+    },
+    {
+      "texto": "los",
+      "inicio": 17.28,
+      "fin": 17.52
+    },
+    {
+      "texto": "números",
+      "inicio": 17.58,
+      "fin": 18.0
+    },
+    {
+      "texto": "a",
+      "inicio": 18.04,
+      "fin": 18.08
+    },
+    {
+      "texto": "la",
+      "inicio": 18.107,
+      "fin": 18.16
+    },
+    {
+      "texto": "derecha",
+      "inicio": 18.224,
+      "fin": 18.72
+    },
+    {
+      "texto": "y",
+      "inicio": 18.84,
+      "fin": 18.96
+    },
+    {
+      "texto": "el",
+      "inicio": 18.987,
+      "fin": 19.04
+    },
+    {
+      "texto": "texto",
+      "inicio": 19.12,
+      "fin": 19.52
+    },
+    {
+      "texto": "a",
+      "inicio": 19.521,
+      "fin": 19.522
+    },
+    {
+      "texto": "la",
+      "inicio": 19.548,
+      "fin": 19.601
+    },
+    {
+      "texto": "izquierda.",
+      "inicio": 19.654,
+      "fin": 20.401
+    },
+    {
+      "texto": "Si",
+      "inicio": 20.588,
+      "fin": 20.961
+    },
+    {
+      "texto": "ves",
+      "inicio": 21.021,
+      "fin": 21.201
+    },
+    {
+      "texto": "un",
+      "inicio": 21.228,
+      "fin": 21.281
+    },
+    {
+      "texto": "número",
+      "inicio": 21.338,
+      "fin": 21.681
+    },
+    {
+      "texto": "pegado",
+      "inicio": 21.741,
+      "fin": 22.001
+    },
+    {
+      "texto": "a",
+      "inicio": 22.041,
+      "fin": 22.081
+    },
+    {
+      "texto": "la",
+      "inicio": 22.108,
+      "fin": 22.161
+    },
+    {
+      "texto": "izquierda,",
+      "inicio": 22.214,
+      "fin": 22.961
+    },
+    {
+      "texto": "sospecha.",
+      "inicio": 23.021,
+      "fin": 23.761
+    },
+    {
+      "texto": "Y",
+      "inicio": 24.081,
+      "fin": 24.401
+    },
+    {
+      "texto": "si",
+      "inicio": 24.454,
+      "fin": 24.561
+    },
+    {
+      "texto": "te",
+      "inicio": 24.614,
+      "fin": 24.721
+    },
+    {
+      "texto": "pasa",
+      "inicio": 24.769,
+      "fin": 24.961
+    },
+    {
+      "texto": "con",
+      "inicio": 25.001,
+      "fin": 25.121
+    },
+    {
+      "texto": "frecuencia",
+      "inicio": 25.185,
+      "fin": 25.841
+    },
+    {
+      "texto": "al",
+      "inicio": 25.921,
+      "fin": 26.081
+    },
+    {
+      "texto": "importar",
+      "inicio": 26.138,
+      "fin": 26.561
+    },
+    {
+      "texto": "datos,",
+      "inicio": 26.641,
+      "fin": 27.441
+    },
+    {
+      "texto": "revisa",
+      "inicio": 27.521,
+      "fin": 27.921
+    },
+    {
+      "texto": "la",
+      "inicio": 27.974,
+      "fin": 28.081
+    },
+    {
+      "texto": "columna",
+      "inicio": 28.131,
+      "fin": 28.481
+    },
+    {
+      "texto": "completa",
+      "inicio": 28.561,
+      "fin": 29.201
+    },
+    {
+      "texto": "antes",
+      "inicio": 29.281,
+      "fin": 29.681
+    },
+    {
+      "texto": "de",
+      "inicio": 29.708,
+      "fin": 29.761
+    },
+    {
+      "texto": "hacer",
+      "inicio": 29.801,
+      "fin": 30.001
+    },
+    {
+      "texto": "cualquier",
+      "inicio": 30.049,
+      "fin": 30.481
+    },
+    {
+      "texto": "cálculo.",
+      "inicio": 30.521,
+      "fin": 31.041
+    }
+  ]
+}

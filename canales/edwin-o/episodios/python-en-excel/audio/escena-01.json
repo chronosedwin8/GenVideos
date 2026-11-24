@@ -1,0 +1,230 @@
+{
+  "num": "01",
+  "titulo": "Gancho",
+  "texto": "Esto es una celda de Excel… y adentro estoy escribiendo Python. Una línea, Control más Entrar, y aparece un gráfico de ventas por región. Sin instalar nada, sin salir de Excel. Hoy te enseño a hacer tu primer análisis con Python dentro de Excel.",
+  "texto_tts": "[excited] Esto es una celda de Excel… y adentro estoy escribiendo Python. Una línea, Control más Entrar, y aparece un gráfico de ventas por región. [curious] Sin instalar nada, sin salir de Excel. Hoy te enseño a hacer tu primer análisis con Python dentro de Excel.",
+  "modelo": "eleven_v3",
+  "duracion": 20.24,
+  "palabras": [
+    {
+      "texto": "Esto",
+      "inicio": 0.202,
+      "fin": 0.24
+    },
+    {
+      "texto": "es",
+      "inicio": 0.293,
+      "fin": 0.4
+    },
+    {
+      "texto": "una",
+      "inicio": 0.44,
+      "fin": 0.56
+    },
+    {
+      "texto": "celda",
+      "inicio": 0.64,
+      "fin": 1.04
+    },
+    {
+      "texto": "de",
+      "inicio": 1.067,
+      "fin": 1.12
+    },
+    {
+      "texto": "Excel…",
+      "inicio": 1.213,
+      "fin": 2.4
+    },
+    {
+      "texto": "y",
+      "inicio": 2.44,
+      "fin": 2.48
+    },
+    {
+      "texto": "adentro",
+      "inicio": 2.56,
+      "fin": 3.12
+    },
+    {
+      "texto": "estoy",
+      "inicio": 3.213,
+      "fin": 3.68
+    },
+    {
+      "texto": "escribiendo",
+      "inicio": 3.733,
+      "fin": 4.4
+    },
+    {
+      "texto": "Python.",
+      "inicio": 4.503,
+      "fin": 5.64
+    },
+    {
+      "texto": "Una",
+      "inicio": 5.77,
+      "fin": 6.16
+    },
+    {
+      "texto": "línea,",
+      "inicio": 6.227,
+      "fin": 6.64
+    },
+    {
+      "texto": "Control",
+      "inicio": 6.75,
+      "fin": 7.52
+    },
+    {
+      "texto": "más",
+      "inicio": 7.56,
+      "fin": 7.68
+    },
+    {
+      "texto": "Entrar,",
+      "inicio": 7.76,
+      "fin": 8.64
+    },
+    {
+      "texto": "y",
+      "inicio": 8.68,
+      "fin": 8.72
+    },
+    {
+      "texto": "aparece",
+      "inicio": 8.787,
+      "fin": 9.28
+    },
+    {
+      "texto": "un",
+      "inicio": 9.333,
+      "fin": 9.44
+    },
+    {
+      "texto": "gráfico",
+      "inicio": 9.493,
+      "fin": 10.0
+    },
+    {
+      "texto": "de",
+      "inicio": 10.027,
+      "fin": 10.08
+    },
+    {
+      "texto": "ventas",
+      "inicio": 10.149,
+      "fin": 10.56
+    },
+    {
+      "texto": "por",
+      "inicio": 10.6,
+      "fin": 10.72
+    },
+    {
+      "texto": "región.",
+      "inicio": 10.78,
+      "fin": 11.36
+    },
+    {
+      "texto": "Sin",
+      "inicio": 12.21,
+      "fin": 12.24
+    },
+    {
+      "texto": "instalar",
+      "inicio": 12.288,
+      "fin": 12.72
+    },
+    {
+      "texto": "nada,",
+      "inicio": 12.816,
+      "fin": 13.68
+    },
+    {
+      "texto": "sin",
+      "inicio": 13.74,
+      "fin": 13.92
+    },
+    {
+      "texto": "salir",
+      "inicio": 13.987,
+      "fin": 14.32
+    },
+    {
+      "texto": "de",
+      "inicio": 14.347,
+      "fin": 14.4
+    },
+    {
+      "texto": "Excel.",
+      "inicio": 14.48,
+      "fin": 14.96
+    },
+    {
+      "texto": "Hoy",
+      "inicio": 15.12,
+      "fin": 15.6
+    },
+    {
+      "texto": "te",
+      "inicio": 15.653,
+      "fin": 15.76
+    },
+    {
+      "texto": "enseño",
+      "inicio": 15.808,
+      "fin": 16.16
+    },
+    {
+      "texto": "a",
+      "inicio": 16.24,
+      "fin": 16.32
+    },
+    {
+      "texto": "hacer",
+      "inicio": 16.347,
+      "fin": 16.48
+    },
+    {
+      "texto": "tu",
+      "inicio": 16.587,
+      "fin": 16.8
+    },
+    {
+      "texto": "primer",
+      "inicio": 16.846,
+      "fin": 17.12
+    },
+    {
+      "texto": "análisis",
+      "inicio": 17.168,
+      "fin": 17.84
+    },
+    {
+      "texto": "con",
+      "inicio": 17.9,
+      "fin": 18.08
+    },
+    {
+      "texto": "Python",
+      "inicio": 18.171,
+      "fin": 18.72
+    },
+    {
+      "texto": "dentro",
+      "inicio": 18.834,
+      "fin": 19.52
+    },
+    {
+      "texto": "de",
+      "inicio": 19.547,
+      "fin": 19.6
+    },
+    {
+      "texto": "Excel.",
+      "inicio": 19.667,
+      "fin": 20.24
+    }
+  ]
+}

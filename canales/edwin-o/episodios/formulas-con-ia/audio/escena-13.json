@@ -1,0 +1,275 @@
+{
+  "num": "13",
+  "titulo": "Parte 3 y 4: la regla y un ejemplo",
+  "texto": "Parte tres: escribe la regla con los límites exactos. Desde mil, inclusive, el tres por ciento. Desde cinco mil, inclusive, el cinco por ciento. Esa palabra, inclusive, evita el error que vimos. Y parte cuatro: dale un ejemplo con el resultado esperado. Si C dos vale cinco mil, la comisión es doscientos cincuenta.",
+  "texto_tts": "Parte tres: escribe la regla con los límites exactos. Desde mil, inclusive, el tres por ciento. Desde cinco mil, inclusive, el cinco por ciento. Esa palabra, inclusive, evita el error que vimos. Y parte cuatro: dale un ejemplo con el resultado esperado. Si C dos vale cinco mil, la comisión es doscientos cincuenta.",
+  "modelo": "eleven_v3",
+  "duracion": 26.24,
+  "palabras": [
+    {
+      "texto": "Parte",
+      "inicio": 0.0,
+      "fin": 0.44
+    },
+    {
+      "texto": "tres:",
+      "inicio": 0.48,
+      "fin": 0.8
+    },
+    {
+      "texto": "escribe",
+      "inicio": 1.04,
+      "fin": 1.76
+    },
+    {
+      "texto": "la",
+      "inicio": 1.813,
+      "fin": 1.92
+    },
+    {
+      "texto": "regla",
+      "inicio": 2.0,
+      "fin": 2.4
+    },
+    {
+      "texto": "con",
+      "inicio": 2.46,
+      "fin": 2.64
+    },
+    {
+      "texto": "los",
+      "inicio": 2.68,
+      "fin": 2.8
+    },
+    {
+      "texto": "límites",
+      "inicio": 2.88,
+      "fin": 3.36
+    },
+    {
+      "texto": "exactos.",
+      "inicio": 3.453,
+      "fin": 4.24
+    },
+    {
+      "texto": "Desde",
+      "inicio": 4.44,
+      "fin": 5.44
+    },
+    {
+      "texto": "mil,",
+      "inicio": 5.52,
+      "fin": 6.0
+    },
+    {
+      "texto": "inclusive,",
+      "inicio": 6.072,
+      "fin": 6.8
+    },
+    {
+      "texto": "el",
+      "inicio": 6.907,
+      "fin": 7.12
+    },
+    {
+      "texto": "tres",
+      "inicio": 7.168,
+      "fin": 7.36
+    },
+    {
+      "texto": "por",
+      "inicio": 7.4,
+      "fin": 7.52
+    },
+    {
+      "texto": "ciento.",
+      "inicio": 7.6,
+      "fin": 8.16
+    },
+    {
+      "texto": "Desde",
+      "inicio": 8.32,
+      "fin": 9.12
+    },
+    {
+      "texto": "cinco",
+      "inicio": 9.187,
+      "fin": 9.52
+    },
+    {
+      "texto": "mil,",
+      "inicio": 9.6,
+      "fin": 9.92
+    },
+    {
+      "texto": "inclusive,",
+      "inicio": 10.008,
+      "fin": 11.04
+    },
+    {
+      "texto": "el",
+      "inicio": 11.093,
+      "fin": 11.2
+    },
+    {
+      "texto": "cinco",
+      "inicio": 11.267,
+      "fin": 11.6
+    },
+    {
+      "texto": "por",
+      "inicio": 11.64,
+      "fin": 11.76
+    },
+    {
+      "texto": "ciento.",
+      "inicio": 11.84,
+      "fin": 12.4
+    },
+    {
+      "texto": "Esa",
+      "inicio": 12.8,
+      "fin": 13.36
+    },
+    {
+      "texto": "palabra,",
+      "inicio": 13.41,
+      "fin": 13.92
+    },
+    {
+      "texto": "inclusive,",
+      "inicio": 13.992,
+      "fin": 14.88
+    },
+    {
+      "texto": "evita",
+      "inicio": 14.96,
+      "fin": 15.28
+    },
+    {
+      "texto": "el",
+      "inicio": 15.307,
+      "fin": 15.36
+    },
+    {
+      "texto": "error",
+      "inicio": 15.413,
+      "fin": 15.68
+    },
+    {
+      "texto": "que",
+      "inicio": 15.7,
+      "fin": 15.76
+    },
+    {
+      "texto": "vimos.",
+      "inicio": 15.84,
+      "fin": 16.56
+    },
+    {
+      "texto": "Y",
+      "inicio": 16.92,
+      "fin": 17.28
+    },
+    {
+      "texto": "parte",
+      "inicio": 17.333,
+      "fin": 17.6
+    },
+    {
+      "texto": "cuatro:",
+      "inicio": 17.669,
+      "fin": 18.16
+    },
+    {
+      "texto": "dale",
+      "inicio": 18.44,
+      "fin": 18.88
+    },
+    {
+      "texto": "un",
+      "inicio": 18.907,
+      "fin": 18.96
+    },
+    {
+      "texto": "ejemplo",
+      "inicio": 19.03,
+      "fin": 19.52
+    },
+    {
+      "texto": "con",
+      "inicio": 19.6,
+      "fin": 19.84
+    },
+    {
+      "texto": "el",
+      "inicio": 19.867,
+      "fin": 19.92
+    },
+    {
+      "texto": "resultado",
+      "inicio": 19.976,
+      "fin": 20.48
+    },
+    {
+      "texto": "esperado.",
+      "inicio": 20.533,
+      "fin": 21.28
+    },
+    {
+      "texto": "Si",
+      "inicio": 21.547,
+      "fin": 22.08
+    },
+    {
+      "texto": "C",
+      "inicio": 22.2,
+      "fin": 22.32
+    },
+    {
+      "texto": "dos",
+      "inicio": 22.4,
+      "fin": 22.64
+    },
+    {
+      "texto": "vale",
+      "inicio": 22.72,
+      "fin": 23.04
+    },
+    {
+      "texto": "cinco",
+      "inicio": 23.107,
+      "fin": 23.44
+    },
+    {
+      "texto": "mil,",
+      "inicio": 23.52,
+      "fin": 23.84
+    },
+    {
+      "texto": "la",
+      "inicio": 23.973,
+      "fin": 24.24
+    },
+    {
+      "texto": "comisión",
+      "inicio": 24.3,
+      "fin": 24.8
+    },
+    {
+      "texto": "es",
+      "inicio": 24.827,
+      "fin": 24.88
+    },
+    {
+      "texto": "doscientos",
+      "inicio": 24.94,
+      "fin": 25.44
+    },
+    {
+      "texto": "cincuenta.",
+      "inicio": 25.48,
+      "fin": 26.24
+    }
+  ]
+}

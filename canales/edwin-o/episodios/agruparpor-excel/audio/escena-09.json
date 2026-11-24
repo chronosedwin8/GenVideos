@@ -1,0 +1,310 @@
+{
+  "num": "09",
+  "titulo": "Paso 3: ordena de mayor a menor",
+  "texto": "Paso tres: ordenar. Por defecto, AGRUPARPOR ordena alfabéticamente. Pero el jefe quiere ver primero la región que más vendió. El sexto argumento es el orden: escribe punto y coma tres veces y luego menos dos. El dos significa \"la segunda columna del resultado\", la de los montos, y el signo menos significa de mayor a menor. Ahora Norte está arriba.",
+  "texto_tts": "Paso tres: ordenar. Por defecto, AGRUPARPOR ordena alfabéticamente. Pero el jefe quiere ver primero la región que más vendió. El sexto argumento es el orden: escribe punto y coma tres veces y luego menos dos. El dos significa \"la segunda columna del resultado\", la de los montos, y el signo menos significa de mayor a menor. Ahora Norte está arriba.",
+  "modelo": "eleven_v3",
+  "duracion": 29.12,
+  "palabras": [
+    {
+      "texto": "Paso",
+      "inicio": 0.0,
+      "fin": 0.24
+    },
+    {
+      "texto": "tres:",
+      "inicio": 0.32,
+      "fin": 0.88
+    },
+    {
+      "texto": "ordenar.",
+      "inicio": 1.0,
+      "fin": 2.48
+    },
+    {
+      "texto": "Por",
+      "inicio": 2.62,
+      "fin": 3.04
+    },
+    {
+      "texto": "defecto,",
+      "inicio": 3.109,
+      "fin": 3.84
+    },
+    {
+      "texto": "AGRUPARPOR",
+      "inicio": 3.92,
+      "fin": 4.72
+    },
+    {
+      "texto": "ordena",
+      "inicio": 4.787,
+      "fin": 5.2
+    },
+    {
+      "texto": "alfabéticamente.",
+      "inicio": 5.227,
+      "fin": 6.32
+    },
+    {
+      "texto": "Pero",
+      "inicio": 6.464,
+      "fin": 7.04
+    },
+    {
+      "texto": "el",
+      "inicio": 7.067,
+      "fin": 7.12
+    },
+    {
+      "texto": "jefe",
+      "inicio": 7.16,
+      "fin": 7.44
+    },
+    {
+      "texto": "quiere",
+      "inicio": 7.474,
+      "fin": 7.68
+    },
+    {
+      "texto": "ver",
+      "inicio": 7.72,
+      "fin": 7.84
+    },
+    {
+      "texto": "primero",
+      "inicio": 7.9,
+      "fin": 8.32
+    },
+    {
+      "texto": "la",
+      "inicio": 8.347,
+      "fin": 8.4
+    },
+    {
+      "texto": "región",
+      "inicio": 8.46,
+      "fin": 8.8
+    },
+    {
+      "texto": "que",
+      "inicio": 8.84,
+      "fin": 8.96
+    },
+    {
+      "texto": "más",
+      "inicio": 9.0,
+      "fin": 9.12
+    },
+    {
+      "texto": "vendió.",
+      "inicio": 9.168,
+      "fin": 9.84
+    },
+    {
+      "texto": "El",
+      "inicio": 10.107,
+      "fin": 10.64
+    },
+    {
+      "texto": "sexto",
+      "inicio": 10.72,
+      "fin": 11.28
+    },
+    {
+      "texto": "argumento",
+      "inicio": 11.307,
+      "fin": 11.6
+    },
+    {
+      "texto": "es",
+      "inicio": 11.627,
+      "fin": 11.68
+    },
+    {
+      "texto": "el",
+      "inicio": 11.707,
+      "fin": 11.76
+    },
+    {
+      "texto": "orden:",
+      "inicio": 11.84,
+      "fin": 12.32
+    },
+    {
+      "texto": "escribe",
+      "inicio": 12.453,
+      "fin": 13.04
+    },
+    {
+      "texto": "punto",
+      "inicio": 13.147,
+      "fin": 13.68
+    },
+    {
+      "texto": "y",
+      "inicio": 13.72,
+      "fin": 13.76
+    },
+    {
+      "texto": "coma",
+      "inicio": 13.84,
+      "fin": 14.16
+    },
+    {
+      "texto": "tres",
+      "inicio": 14.288,
+      "fin": 14.8
+    },
+    {
+      "texto": "veces",
+      "inicio": 14.893,
+      "fin": 15.36
+    },
+    {
+      "texto": "y",
+      "inicio": 15.52,
+      "fin": 15.68
+    },
+    {
+      "texto": "luego",
+      "inicio": 15.76,
+      "fin": 16.16
+    },
+    {
+      "texto": "menos",
+      "inicio": 16.227,
+      "fin": 16.56
+    },
+    {
+      "texto": "dos.",
+      "inicio": 16.68,
+      "fin": 17.28
+    },
+    {
+      "texto": "El",
+      "inicio": 17.52,
+      "fin": 18.0
+    },
+    {
+      "texto": "dos",
+      "inicio": 18.06,
+      "fin": 18.24
+    },
+    {
+      "texto": "significa",
+      "inicio": 18.312,
+      "fin": 18.96
+    },
+    {
+      "texto": "\"la",
+      "inicio": 19.08,
+      "fin": 19.28
+    },
+    {
+      "texto": "segunda",
+      "inicio": 19.35,
+      "fin": 19.84
+    },
+    {
+      "texto": "columna",
+      "inicio": 19.91,
+      "fin": 20.4
+    },
+    {
+      "texto": "del",
+      "inicio": 20.44,
+      "fin": 20.56
+    },
+    {
+      "texto": "resultado\",",
+      "inicio": 20.624,
+      "fin": 21.52
+    },
+    {
+      "texto": "la",
+      "inicio": 21.627,
+      "fin": 21.84
+    },
+    {
+      "texto": "de",
+      "inicio": 21.867,
+      "fin": 21.92
+    },
+    {
+      "texto": "los",
+      "inicio": 21.96,
+      "fin": 22.08
+    },
+    {
+      "texto": "montos,",
+      "inicio": 22.16,
+      "fin": 22.88
+    },
+    {
+      "texto": "y",
+      "inicio": 23.08,
+      "fin": 23.28
+    },
+    {
+      "texto": "el",
+      "inicio": 23.307,
+      "fin": 23.36
+    },
+    {
+      "texto": "signo",
+      "inicio": 23.424,
+      "fin": 23.76
+    },
+    {
+      "texto": "menos",
+      "inicio": 23.813,
+      "fin": 24.08
+    },
+    {
+      "texto": "significa",
+      "inicio": 24.144,
+      "fin": 24.72
+    },
+    {
+      "texto": "de",
+      "inicio": 24.853,
+      "fin": 25.12
+    },
+    {
+      "texto": "mayor",
+      "inicio": 25.187,
+      "fin": 25.52
+    },
+    {
+      "texto": "a",
+      "inicio": 25.64,
+      "fin": 25.76
+    },
+    {
+      "texto": "menor.",
+      "inicio": 25.84,
+      "fin": 26.32
+    },
+    {
+      "texto": "Ahora",
+      "inicio": 26.587,
+      "fin": 27.36
+    },
+    {
+      "texto": "Norte",
+      "inicio": 27.48,
+      "fin": 28.08
+    },
+    {
+      "texto": "está",
+      "inicio": 28.16,
+      "fin": 28.48
+    },
+    {
+      "texto": "arriba.",
+      "inicio": 28.533,
+      "fin": 29.12
+    }
+  ]
+}

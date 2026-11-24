@@ -1,0 +1,84 @@
+{
+  "titulo": "AGRUPARPOR en Excel: resúmenes como tabla dinámica… con UNA fórmula",
+  "titulos_alternativos": [
+    "Adiós tablas dinámicas: AGRUPARPOR y PIVOTARPOR en Excel",
+    "Resúmenes que se actualizan solos en Excel (AGRUPARPOR)"
+  ],
+  "intro": "AGRUPARPOR y PIVOTARPOR hacen resúmenes como una tabla dinámica, pero con una fórmula que se actualiza sola. Aprende a ordenar, filtrar, poner encabezados, armar un mini tablero y a decidir cuándo conviene más la tabla dinámica.",
+  "aprenderas": [
+    "La fórmula básica y sus 3 preguntas",
+    "Ordenar de mayor a menor",
+    "Encabezados",
+    "Filtrar dentro de la fórmula",
+    "PIVOTARPOR: filas y columnas",
+    "Un mini tablero en 3 fórmulas",
+    "¿Fórmula o tabla dinámica?"
+  ],
+  "bloque": "Fórmulas del video:\n=AGRUPARPOR(B2:B13;D2:D13;SUMA)\n=AGRUPARPOR(B2:B13;D2:D13;SUMA;;;-2)\n=AGRUPARPOR(B1:B13;D1:D13;SUMA;3)\n=AGRUPARPOR(B2:B13;D2:D13;SUMA;;;;A2:A13=\"Feb\")\n=PIVOTARPOR(B2:B13;A2:A13;D2:D13;SUMA)\n=AGRUPARPOR(Ventas[Región];Ventas[Monto];SUMA)\nRequiere Excel para Microsoft 365.",
+  "capitulos": {
+    "01": "La tabla dinámica que no se actualiza",
+    "03": "\"Dile adiós a las tablas dinámicas\"",
+    "05": "Lo que necesitas",
+    "07": "Paso 1: la fórmula básica",
+    "08": "Paso 2: las 3 preguntas",
+    "09": "Paso 3: de mayor a menor",
+    "10": "Paso 4: encabezados",
+    "11": "Paso 5: filtra en la fórmula",
+    "12": "Paso 6: se actualiza sola",
+    "13": "Paso 7: dos niveles",
+    "14": "PIVOTARPOR",
+    "15": "Un mini tablero",
+    "16": "Dale formato",
+    "17": "¿Fórmula o tabla dinámica?",
+    "18": "Errores comunes",
+    "19": "Truco: combínala con una Tabla"
+  },
+  "enlaces": [
+    "📊 Guías de Excel en el blog: https://www.edwinortiz.net/excel/",
+    "🌐 Plantillas y cursos: https://www.edwinortiz.net"
+  ],
+  "fuentes": [
+    "Microsoft Support, función AGRUPARPOR: https://support.microsoft.com/es-es/office/funci%C3%B3n-agruparpor-5e08ae8c-6800-4b72-b623-c41773611505",
+    "Microsoft Support, función PIVOTARPOR: https://support.microsoft.com/es-ES/Excel/functions/pivotby-function",
+    "Journal of Accountancy, junio 2025: https://www.journalofaccountancy.com/issues/2025/jun/say-bye-to-pivottables-with-excels-new-pivotby-function/"
+  ],
+  "hashtags": [
+    "#Excel",
+    "#AGRUPARPOR",
+    "#TrucosDeExcel"
+  ],
+  "tags": [
+    "agruparpor excel",
+    "groupby excel",
+    "pivotarpor",
+    "pivotby excel",
+    "tabla dinamica excel",
+    "resumen excel",
+    "excel 365",
+    "funciones nuevas excel",
+    "dashboard excel",
+    "edwin o"
+  ],
+  "playlist": "Gráficos y análisis",
+  "programar": "2026-12-15 07:00",
+  "shorts": [
+    {
+      "id": "short-1",
+      "titulo": "Un resumen de Excel que se actualiza SOLO #shorts",
+      "descripcion": "AGRUPARPOR: cambias un dato y el resumen cambia. Video completo en el canal.",
+      "tags": [
+        "agruparpor"
+      ],
+      "programar": "2026-12-16 12:00"
+    },
+    {
+      "id": "short-2",
+      "titulo": "Filtra DENTRO de la fórmula en Excel (AGRUPARPOR) #shorts",
+      "descripcion": "=AGRUPARPOR(B2:B13;D2:D13;SUMA;;;;A2:A13=\"Feb\"). Video completo en el canal.",
+      "tags": [
+        "agruparpor filtro"
+      ],
+      "programar": "2026-12-19 12:00"
+    }
+  ]
+}

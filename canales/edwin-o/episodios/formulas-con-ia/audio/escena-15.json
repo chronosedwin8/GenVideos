@@ -1,0 +1,260 @@
+{
+  "num": "15",
+  "titulo": "Prueba los casos frontera",
+  "texto": "Ahora sí, la pego en D dos y la arrastro. Y lo más importante: pruebo los casos frontera. Novecientos noventa y nueve da cero. Mil da treinta. Cinco mil da doscientos cincuenta. ¡Perfecto! Nunca pegues una fórmula de la IA sin probar los valores que están justo en el límite.",
+  "texto_tts": "Ahora sí, la pego en D dos y la arrastro. Y lo más importante: pruebo los casos frontera. Novecientos noventa y nueve da cero. Mil da treinta. Cinco mil da doscientos cincuenta. [excited] ¡Perfecto! Nunca pegues una fórmula de la IA sin probar los valores que están justo en el límite.",
+  "modelo": "eleven_v3",
+  "duracion": 22.005,
+  "palabras": [
+    {
+      "texto": "Ahora",
+      "inicio": 0.0,
+      "fin": 0.16
+    },
+    {
+      "texto": "sí,",
+      "inicio": 0.24,
+      "fin": 0.48
+    },
+    {
+      "texto": "la",
+      "inicio": 0.56,
+      "fin": 0.72
+    },
+    {
+      "texto": "pego",
+      "inicio": 0.8,
+      "fin": 1.04
+    },
+    {
+      "texto": "en",
+      "inicio": 1.067,
+      "fin": 1.12
+    },
+    {
+      "texto": "D",
+      "inicio": 1.16,
+      "fin": 1.2
+    },
+    {
+      "texto": "dos",
+      "inicio": 1.3,
+      "fin": 1.6
+    },
+    {
+      "texto": "y",
+      "inicio": 1.76,
+      "fin": 1.92
+    },
+    {
+      "texto": "la",
+      "inicio": 1.973,
+      "fin": 2.08
+    },
+    {
+      "texto": "arrastro.",
+      "inicio": 2.12,
+      "fin": 3.16
+    },
+    {
+      "texto": "Y",
+      "inicio": 3.38,
+      "fin": 3.6
+    },
+    {
+      "texto": "lo",
+      "inicio": 3.653,
+      "fin": 3.76
+    },
+    {
+      "texto": "más",
+      "inicio": 3.82,
+      "fin": 4.0
+    },
+    {
+      "texto": "importante:",
+      "inicio": 4.065,
+      "fin": 4.8
+    },
+    {
+      "texto": "pruebo",
+      "inicio": 4.933,
+      "fin": 5.36
+    },
+    {
+      "texto": "los",
+      "inicio": 5.4,
+      "fin": 5.52
+    },
+    {
+      "texto": "casos",
+      "inicio": 5.573,
+      "fin": 5.84
+    },
+    {
+      "texto": "frontera.",
+      "inicio": 5.888,
+      "fin": 6.56
+    },
+    {
+      "texto": "Novecientos",
+      "inicio": 6.76,
+      "fin": 7.44
+    },
+    {
+      "texto": "noventa",
+      "inicio": 7.493,
+      "fin": 7.76
+    },
+    {
+      "texto": "y",
+      "inicio": 7.8,
+      "fin": 7.84
+    },
+    {
+      "texto": "nueve",
+      "inicio": 7.88,
+      "fin": 8.08
+    },
+    {
+      "texto": "da",
+      "inicio": 8.213,
+      "fin": 8.48
+    },
+    {
+      "texto": "cero.",
+      "inicio": 8.52,
+      "fin": 8.96
+    },
+    {
+      "texto": "Mil",
+      "inicio": 9.12,
+      "fin": 9.6
+    },
+    {
+      "texto": "da",
+      "inicio": 9.787,
+      "fin": 10.16
+    },
+    {
+      "texto": "treinta.",
+      "inicio": 10.2,
+      "fin": 11.08
+    },
+    {
+      "texto": "Cinco",
+      "inicio": 11.17,
+      "fin": 11.52
+    },
+    {
+      "texto": "mil",
+      "inicio": 11.6,
+      "fin": 11.84
+    },
+    {
+      "texto": "da",
+      "inicio": 12.027,
+      "fin": 12.4
+    },
+    {
+      "texto": "doscientos",
+      "inicio": 12.46,
+      "fin": 13.04
+    },
+    {
+      "texto": "cincuenta.",
+      "inicio": 13.08,
+      "fin": 14.24
+    },
+    {
+      "texto": "¡Perfecto!",
+      "inicio": 15.125,
+      "fin": 15.845
+    },
+    {
+      "texto": "Nunca",
+      "inicio": 16.045,
+      "fin": 16.805
+    },
+    {
+      "texto": "pegues",
+      "inicio": 16.905,
+      "fin": 17.365
+    },
+    {
+      "texto": "una",
+      "inicio": 17.405,
+      "fin": 17.525
+    },
+    {
+      "texto": "fórmula",
+      "inicio": 17.605,
+      "fin": 18.005
+    },
+    {
+      "texto": "de",
+      "inicio": 18.032,
+      "fin": 18.085
+    },
+    {
+      "texto": "la",
+      "inicio": 18.112,
+      "fin": 18.165
+    },
+    {
+      "texto": "IA",
+      "inicio": 18.298,
+      "fin": 18.565
+    },
+    {
+      "texto": "sin",
+      "inicio": 18.745,
+      "fin": 19.285
+    },
+    {
+      "texto": "probar",
+      "inicio": 19.325,
+      "fin": 19.685
+    },
+    {
+      "texto": "los",
+      "inicio": 19.745,
+      "fin": 19.925
+    },
+    {
+      "texto": "valores",
+      "inicio": 19.975,
+      "fin": 20.325
+    },
+    {
+      "texto": "que",
+      "inicio": 20.345,
+      "fin": 20.405
+    },
+    {
+      "texto": "están",
+      "inicio": 20.472,
+      "fin": 20.805
+    },
+    {
+      "texto": "justo",
+      "inicio": 20.858,
+      "fin": 21.125
+    },
+    {
+      "texto": "en",
+      "inicio": 21.152,
+      "fin": 21.205
+    },
+    {
+      "texto": "el",
+      "inicio": 21.258,
+      "fin": 21.365
+    },
+    {
+      "texto": "límite.",
+      "inicio": 21.418,
+      "fin": 22.005
+    }
+  ]
+}

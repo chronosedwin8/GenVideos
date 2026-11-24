@@ -1,0 +1,465 @@
+{
+  "num": "09",
+  "titulo": "Un día de trabajo, antes y ahora",
+  "texto": "Mira cómo se ve en un día normal. Imagina que tu jefe te pide el análisis de ventas del mes. Antes: filtrabas, armabas la tabla dinámica, hacías el gráfico, y lo copiabas al correo. Ahora: le pides a la IA que resuma las ventas por región y que haga el gráfico. Pero tu trabajo no termina ahí. Revisas los totales con una tabla dinámica de control, buscas lo que no cuadra, y decides qué le vas a recomendar a tu jefe. El valor se movió: de hacer, a revisar y decidir.",
+  "texto_tts": "Mira cómo se ve en un día normal. Imagina que tu jefe te pide el análisis de ventas del mes. Antes: filtrabas, armabas la tabla dinámica, hacías el gráfico, y lo copiabas al correo. Ahora: le pides a la IA que resuma las ventas por región y que haga el gráfico. Pero tu trabajo no termina ahí. Revisas los totales con una tabla dinámica de control, buscas lo que no cuadra, y decides qué le vas a recomendar a tu jefe. El valor se movió: de hacer, a revisar y decidir.",
+  "modelo": "eleven_v3",
+  "duracion": 32.48,
+  "palabras": [
+    {
+      "texto": "Mira",
+      "inicio": 0.0,
+      "fin": 0.16
+    },
+    {
+      "texto": "cómo",
+      "inicio": 0.208,
+      "fin": 0.4
+    },
+    {
+      "texto": "se",
+      "inicio": 0.453,
+      "fin": 0.56
+    },
+    {
+      "texto": "ve",
+      "inicio": 0.613,
+      "fin": 0.72
+    },
+    {
+      "texto": "en",
+      "inicio": 0.747,
+      "fin": 0.8
+    },
+    {
+      "texto": "un",
+      "inicio": 0.827,
+      "fin": 0.88
+    },
+    {
+      "texto": "día",
+      "inicio": 0.92,
+      "fin": 1.04
+    },
+    {
+      "texto": "normal.",
+      "inicio": 1.131,
+      "fin": 1.76
+    },
+    {
+      "texto": "Imagina",
+      "inicio": 1.936,
+      "fin": 2.8
+    },
+    {
+      "texto": "que",
+      "inicio": 2.84,
+      "fin": 2.96
+    },
+    {
+      "texto": "tu",
+      "inicio": 3.013,
+      "fin": 3.12
+    },
+    {
+      "texto": "jefe",
+      "inicio": 3.16,
+      "fin": 3.44
+    },
+    {
+      "texto": "te",
+      "inicio": 3.493,
+      "fin": 3.6
+    },
+    {
+      "texto": "pide",
+      "inicio": 3.68,
+      "fin": 3.84
+    },
+    {
+      "texto": "el",
+      "inicio": 3.867,
+      "fin": 3.92
+    },
+    {
+      "texto": "análisis",
+      "inicio": 3.968,
+      "fin": 4.4
+    },
+    {
+      "texto": "de",
+      "inicio": 4.427,
+      "fin": 4.48
+    },
+    {
+      "texto": "ventas",
+      "inicio": 4.526,
+      "fin": 4.8
+    },
+    {
+      "texto": "del",
+      "inicio": 4.84,
+      "fin": 4.96
+    },
+    {
+      "texto": "mes.",
+      "inicio": 5.04,
+      "fin": 5.44
+    },
+    {
+      "texto": "Antes:",
+      "inicio": 5.68,
+      "fin": 7.2
+    },
+    {
+      "texto": "filtrabas,",
+      "inicio": 7.253,
+      "fin": 8.0
+    },
+    {
+      "texto": "armabas",
+      "inicio": 8.06,
+      "fin": 8.4
+    },
+    {
+      "texto": "la",
+      "inicio": 8.427,
+      "fin": 8.48
+    },
+    {
+      "texto": "tabla",
+      "inicio": 8.533,
+      "fin": 8.8
+    },
+    {
+      "texto": "dinámica,",
+      "inicio": 8.84,
+      "fin": 9.52
+    },
+    {
+      "texto": "hacías",
+      "inicio": 9.56,
+      "fin": 9.92
+    },
+    {
+      "texto": "el",
+      "inicio": 9.947,
+      "fin": 10.0
+    },
+    {
+      "texto": "gráfico,",
+      "inicio": 10.053,
+      "fin": 10.96
+    },
+    {
+      "texto": "y",
+      "inicio": 11.0,
+      "fin": 11.04
+    },
+    {
+      "texto": "lo",
+      "inicio": 11.067,
+      "fin": 11.12
+    },
+    {
+      "texto": "copiabas",
+      "inicio": 11.18,
+      "fin": 11.6
+    },
+    {
+      "texto": "al",
+      "inicio": 11.627,
+      "fin": 11.68
+    },
+    {
+      "texto": "correo.",
+      "inicio": 11.749,
+      "fin": 12.24
+    },
+    {
+      "texto": "Ahora:",
+      "inicio": 12.48,
+      "fin": 13.84
+    },
+    {
+      "texto": "le",
+      "inicio": 13.867,
+      "fin": 13.92
+    },
+    {
+      "texto": "pides",
+      "inicio": 14.0,
+      "fin": 14.32
+    },
+    {
+      "texto": "a",
+      "inicio": 14.36,
+      "fin": 14.4
+    },
+    {
+      "texto": "la",
+      "inicio": 14.427,
+      "fin": 14.48
+    },
+    {
+      "texto": "IA",
+      "inicio": 14.587,
+      "fin": 14.8
+    },
+    {
+      "texto": "que",
+      "inicio": 14.82,
+      "fin": 14.88
+    },
+    {
+      "texto": "resuma",
+      "inicio": 14.94,
+      "fin": 15.2
+    },
+    {
+      "texto": "las",
+      "inicio": 15.24,
+      "fin": 15.36
+    },
+    {
+      "texto": "ventas",
+      "inicio": 15.417,
+      "fin": 15.76
+    },
+    {
+      "texto": "por",
+      "inicio": 15.78,
+      "fin": 15.84
+    },
+    {
+      "texto": "región",
+      "inicio": 15.9,
+      "fin": 16.32
+    },
+    {
+      "texto": "y",
+      "inicio": 16.6,
+      "fin": 16.88
+    },
+    {
+      "texto": "que",
+      "inicio": 16.92,
+      "fin": 17.04
+    },
+    {
+      "texto": "haga",
+      "inicio": 17.08,
+      "fin": 17.2
+    },
+    {
+      "texto": "el",
+      "inicio": 17.227,
+      "fin": 17.28
+    },
+    {
+      "texto": "gráfico.",
+      "inicio": 17.307,
+      "fin": 17.84
+    },
+    {
+      "texto": "Pero",
+      "inicio": 18.0,
+      "fin": 18.64
+    },
+    {
+      "texto": "tu",
+      "inicio": 18.667,
+      "fin": 18.72
+    },
+    {
+      "texto": "trabajo",
+      "inicio": 18.77,
+      "fin": 19.12
+    },
+    {
+      "texto": "no",
+      "inicio": 19.147,
+      "fin": 19.2
+    },
+    {
+      "texto": "termina",
+      "inicio": 19.246,
+      "fin": 19.6
+    },
+    {
+      "texto": "ahí.",
+      "inicio": 19.627,
+      "fin": 19.84
+    },
+    {
+      "texto": "Revisas",
+      "inicio": 20.053,
+      "fin": 20.8
+    },
+    {
+      "texto": "los",
+      "inicio": 20.82,
+      "fin": 20.88
+    },
+    {
+      "texto": "totales",
+      "inicio": 20.94,
+      "fin": 21.36
+    },
+    {
+      "texto": "con",
+      "inicio": 21.4,
+      "fin": 21.52
+    },
+    {
+      "texto": "una",
+      "inicio": 21.54,
+      "fin": 21.6
+    },
+    {
+      "texto": "tabla",
+      "inicio": 21.653,
+      "fin": 21.92
+    },
+    {
+      "texto": "dinámica",
+      "inicio": 21.98,
+      "fin": 22.4
+    },
+    {
+      "texto": "de",
+      "inicio": 22.427,
+      "fin": 22.48
+    },
+    {
+      "texto": "control,",
+      "inicio": 22.54,
+      "fin": 23.6
+    },
+    {
+      "texto": "buscas",
+      "inicio": 23.64,
+      "fin": 23.92
+    },
+    {
+      "texto": "lo",
+      "inicio": 23.947,
+      "fin": 24.0
+    },
+    {
+      "texto": "que",
+      "inicio": 24.02,
+      "fin": 24.08
+    },
+    {
+      "texto": "no",
+      "inicio": 24.133,
+      "fin": 24.24
+    },
+    {
+      "texto": "cuadra,",
+      "inicio": 24.293,
+      "fin": 24.8
+    },
+    {
+      "texto": "y",
+      "inicio": 25.08,
+      "fin": 25.36
+    },
+    {
+      "texto": "decides",
+      "inicio": 25.42,
+      "fin": 25.84
+    },
+    {
+      "texto": "qué",
+      "inicio": 25.88,
+      "fin": 26.0
+    },
+    {
+      "texto": "le",
+      "inicio": 26.027,
+      "fin": 26.08
+    },
+    {
+      "texto": "vas",
+      "inicio": 26.14,
+      "fin": 26.32
+    },
+    {
+      "texto": "a",
+      "inicio": 26.36,
+      "fin": 26.4
+    },
+    {
+      "texto": "recomendar",
+      "inicio": 26.44,
+      "fin": 26.88
+    },
+    {
+      "texto": "a",
+      "inicio": 26.92,
+      "fin": 26.96
+    },
+    {
+      "texto": "tu",
+      "inicio": 27.013,
+      "fin": 27.12
+    },
+    {
+      "texto": "jefe.",
+      "inicio": 27.16,
+      "fin": 27.6
+    },
+    {
+      "texto": "El",
+      "inicio": 27.84,
+      "fin": 28.32
+    },
+    {
+      "texto": "valor",
+      "inicio": 28.373,
+      "fin": 28.64
+    },
+    {
+      "texto": "se",
+      "inicio": 28.667,
+      "fin": 28.72
+    },
+    {
+      "texto": "movió:",
+      "inicio": 28.78,
+      "fin": 29.28
+    },
+    {
+      "texto": "de",
+      "inicio": 29.44,
+      "fin": 29.76
+    },
+    {
+      "texto": "hacer,",
+      "inicio": 29.84,
+      "fin": 30.32
+    },
+    {
+      "texto": "a",
+      "inicio": 30.6,
+      "fin": 30.88
+    },
+    {
+      "texto": "revisar",
+      "inicio": 30.947,
+      "fin": 31.44
+    },
+    {
+      "texto": "y",
+      "inicio": 31.64,
+      "fin": 31.84
+    },
+    {
+      "texto": "decidir.",
+      "inicio": 31.907,
+      "fin": 32.48
+    }
+  ]
+}

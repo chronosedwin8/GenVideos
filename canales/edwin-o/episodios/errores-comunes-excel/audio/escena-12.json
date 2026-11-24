@@ -1,0 +1,270 @@
+{
+  "num": "12",
+  "titulo": "Cómo corregirlo",
+  "texto": "La solución depende de lo que necesites. Si quieres ver la verdad, muestra los decimales con el botón aumentar decimales. Y si de verdad necesitas trabajar con números redondos, por ejemplo para una factura, no te quedes con el formato: usa la función REDONDEAR, para que el valor real también quede redondeado.",
+  "texto_tts": "La solución depende de lo que necesites. Si quieres ver la verdad, muestra los decimales con el botón aumentar decimales. Y si de verdad necesitas trabajar con números redondos, por ejemplo para una factura, no te quedes con el formato: usa la función REDONDEAR, para que el valor real también quede redondeado.",
+  "modelo": "eleven_v3",
+  "duracion": 21.04,
+  "palabras": [
+    {
+      "texto": "La",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "solución",
+      "inicio": 0.12,
+      "fin": 0.56
+    },
+    {
+      "texto": "depende",
+      "inicio": 0.617,
+      "fin": 1.04
+    },
+    {
+      "texto": "de",
+      "inicio": 1.12,
+      "fin": 1.28
+    },
+    {
+      "texto": "lo",
+      "inicio": 1.333,
+      "fin": 1.44
+    },
+    {
+      "texto": "que",
+      "inicio": 1.46,
+      "fin": 1.52
+    },
+    {
+      "texto": "necesites.",
+      "inicio": 1.587,
+      "fin": 2.48
+    },
+    {
+      "texto": "Si",
+      "inicio": 2.747,
+      "fin": 3.28
+    },
+    {
+      "texto": "quieres",
+      "inicio": 3.32,
+      "fin": 3.6
+    },
+    {
+      "texto": "ver",
+      "inicio": 3.64,
+      "fin": 3.76
+    },
+    {
+      "texto": "la",
+      "inicio": 3.787,
+      "fin": 3.84
+    },
+    {
+      "texto": "verdad,",
+      "inicio": 3.909,
+      "fin": 4.64
+    },
+    {
+      "texto": "muestra",
+      "inicio": 4.69,
+      "fin": 5.04
+    },
+    {
+      "texto": "los",
+      "inicio": 5.08,
+      "fin": 5.2
+    },
+    {
+      "texto": "decimales",
+      "inicio": 5.24,
+      "fin": 5.84
+    },
+    {
+      "texto": "con",
+      "inicio": 5.9,
+      "fin": 6.08
+    },
+    {
+      "texto": "el",
+      "inicio": 6.107,
+      "fin": 6.16
+    },
+    {
+      "texto": "botón",
+      "inicio": 6.22,
+      "fin": 6.56
+    },
+    {
+      "texto": "aumentar",
+      "inicio": 6.651,
+      "fin": 7.28
+    },
+    {
+      "texto": "decimales.",
+      "inicio": 7.34,
+      "fin": 8.16
+    },
+    {
+      "texto": "Y",
+      "inicio": 8.6,
+      "fin": 9.04
+    },
+    {
+      "texto": "si",
+      "inicio": 9.093,
+      "fin": 9.2
+    },
+    {
+      "texto": "de",
+      "inicio": 9.227,
+      "fin": 9.28
+    },
+    {
+      "texto": "verdad",
+      "inicio": 9.337,
+      "fin": 9.68
+    },
+    {
+      "texto": "necesitas",
+      "inicio": 9.733,
+      "fin": 10.24
+    },
+    {
+      "texto": "trabajar",
+      "inicio": 10.293,
+      "fin": 10.72
+    },
+    {
+      "texto": "con",
+      "inicio": 10.76,
+      "fin": 10.88
+    },
+    {
+      "texto": "números",
+      "inicio": 10.93,
+      "fin": 11.28
+    },
+    {
+      "texto": "redondos,",
+      "inicio": 11.34,
+      "fin": 12.32
+    },
+    {
+      "texto": "por",
+      "inicio": 12.34,
+      "fin": 12.4
+    },
+    {
+      "texto": "ejemplo",
+      "inicio": 12.46,
+      "fin": 12.88
+    },
+    {
+      "texto": "para",
+      "inicio": 12.912,
+      "fin": 13.04
+    },
+    {
+      "texto": "una",
+      "inicio": 13.08,
+      "fin": 13.2
+    },
+    {
+      "texto": "factura,",
+      "inicio": 13.27,
+      "fin": 14.4
+    },
+    {
+      "texto": "no",
+      "inicio": 14.453,
+      "fin": 14.56
+    },
+    {
+      "texto": "te",
+      "inicio": 14.587,
+      "fin": 14.64
+    },
+    {
+      "texto": "quedes",
+      "inicio": 14.693,
+      "fin": 15.04
+    },
+    {
+      "texto": "con",
+      "inicio": 15.08,
+      "fin": 15.2
+    },
+    {
+      "texto": "el",
+      "inicio": 15.227,
+      "fin": 15.28
+    },
+    {
+      "texto": "formato:",
+      "inicio": 15.35,
+      "fin": 16.12
+    },
+    {
+      "texto": "usa",
+      "inicio": 16.19,
+      "fin": 16.4
+    },
+    {
+      "texto": "la",
+      "inicio": 16.427,
+      "fin": 16.48
+    },
+    {
+      "texto": "función",
+      "inicio": 16.54,
+      "fin": 16.96
+    },
+    {
+      "texto": "REDONDEAR,",
+      "inicio": 17.04,
+      "fin": 18.16
+    },
+    {
+      "texto": "para",
+      "inicio": 18.192,
+      "fin": 18.32
+    },
+    {
+      "texto": "que",
+      "inicio": 18.34,
+      "fin": 18.4
+    },
+    {
+      "texto": "el",
+      "inicio": 18.427,
+      "fin": 18.48
+    },
+    {
+      "texto": "valor",
+      "inicio": 18.547,
+      "fin": 18.88
+    },
+    {
+      "texto": "real",
+      "inicio": 18.96,
+      "fin": 19.28
+    },
+    {
+      "texto": "también",
+      "inicio": 19.37,
+      "fin": 20.0
+    },
+    {
+      "texto": "quede",
+      "inicio": 20.027,
+      "fin": 20.24
+    },
+    {
+      "texto": "redondeado.",
+      "inicio": 20.3,
+      "fin": 21.04
+    }
+  ]
+}

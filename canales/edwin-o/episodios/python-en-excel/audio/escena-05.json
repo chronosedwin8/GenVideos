@@ -1,0 +1,385 @@
+{
+  "num": "05",
+  "titulo": "¿Cómo funciona?",
+  "texto": "¿Cómo funciona? Tu código no se ejecuta en tu computador, sino en la nube de Microsoft, con las bibliotecas de Anaconda, las mismas que usan los científicos de datos. Excel envía el código y los datos, la nube los procesa, y el resultado vuelve a tu celda. Por eso necesitas conexión a internet, y por eso no tienes que instalar nada. Tu hoja sigue siendo un archivo de Excel normal, que puedes compartir como siempre.",
+  "texto_tts": "¿Cómo funciona? Tu código no se ejecuta en tu computador, sino en la nube de Microsoft, con las bibliotecas de Anaconda, las mismas que usan los científicos de datos. Excel envía el código y los datos, la nube los procesa, y el resultado vuelve a tu celda. Por eso necesitas conexión a internet, y por eso no tienes que instalar nada. Tu hoja sigue siendo un archivo de Excel normal, que puedes compartir como siempre.",
+  "modelo": "eleven_v3",
+  "duracion": 28.56,
+  "palabras": [
+    {
+      "texto": "¿Cómo",
+      "inicio": 0.0,
+      "fin": 0.24
+    },
+    {
+      "texto": "funciona?",
+      "inicio": 0.302,
+      "fin": 0.88
+    },
+    {
+      "texto": "Tu",
+      "inicio": 1.173,
+      "fin": 1.76
+    },
+    {
+      "texto": "código",
+      "inicio": 1.874,
+      "fin": 2.56
+    },
+    {
+      "texto": "no",
+      "inicio": 2.64,
+      "fin": 2.8
+    },
+    {
+      "texto": "se",
+      "inicio": 2.853,
+      "fin": 2.96
+    },
+    {
+      "texto": "ejecuta",
+      "inicio": 3.024,
+      "fin": 3.52
+    },
+    {
+      "texto": "en",
+      "inicio": 3.547,
+      "fin": 3.6
+    },
+    {
+      "texto": "tu",
+      "inicio": 3.653,
+      "fin": 3.76
+    },
+    {
+      "texto": "computador,",
+      "inicio": 3.817,
+      "fin": 4.96
+    },
+    {
+      "texto": "sino",
+      "inicio": 5.008,
+      "fin": 5.2
+    },
+    {
+      "texto": "en",
+      "inicio": 5.253,
+      "fin": 5.36
+    },
+    {
+      "texto": "la",
+      "inicio": 5.387,
+      "fin": 5.44
+    },
+    {
+      "texto": "nube",
+      "inicio": 5.52,
+      "fin": 5.76
+    },
+    {
+      "texto": "de",
+      "inicio": 5.787,
+      "fin": 5.84
+    },
+    {
+      "texto": "Microsoft,",
+      "inicio": 5.904,
+      "fin": 7.04
+    },
+    {
+      "texto": "con",
+      "inicio": 7.08,
+      "fin": 7.2
+    },
+    {
+      "texto": "las",
+      "inicio": 7.22,
+      "fin": 7.28
+    },
+    {
+      "texto": "bibliotecas",
+      "inicio": 7.32,
+      "fin": 7.84
+    },
+    {
+      "texto": "de",
+      "inicio": 7.867,
+      "fin": 7.92
+    },
+    {
+      "texto": "Anaconda,",
+      "inicio": 7.98,
+      "fin": 8.88
+    },
+    {
+      "texto": "las",
+      "inicio": 8.92,
+      "fin": 9.04
+    },
+    {
+      "texto": "mismas",
+      "inicio": 9.12,
+      "fin": 9.52
+    },
+    {
+      "texto": "que",
+      "inicio": 9.56,
+      "fin": 9.68
+    },
+    {
+      "texto": "usan",
+      "inicio": 9.733,
+      "fin": 9.92
+    },
+    {
+      "texto": "los",
+      "inicio": 9.94,
+      "fin": 10.0
+    },
+    {
+      "texto": "científicos",
+      "inicio": 10.04,
+      "fin": 10.64
+    },
+    {
+      "texto": "de",
+      "inicio": 10.667,
+      "fin": 10.72
+    },
+    {
+      "texto": "datos.",
+      "inicio": 10.8,
+      "fin": 11.28
+    },
+    {
+      "texto": "Excel",
+      "inicio": 11.48,
+      "fin": 12.48
+    },
+    {
+      "texto": "envía",
+      "inicio": 12.56,
+      "fin": 12.88
+    },
+    {
+      "texto": "el",
+      "inicio": 12.907,
+      "fin": 12.96
+    },
+    {
+      "texto": "código",
+      "inicio": 13.04,
+      "fin": 13.52
+    },
+    {
+      "texto": "y",
+      "inicio": 13.68,
+      "fin": 13.84
+    },
+    {
+      "texto": "los",
+      "inicio": 13.86,
+      "fin": 13.92
+    },
+    {
+      "texto": "datos,",
+      "inicio": 14.0,
+      "fin": 14.8
+    },
+    {
+      "texto": "la",
+      "inicio": 14.853,
+      "fin": 14.96
+    },
+    {
+      "texto": "nube",
+      "inicio": 15.04,
+      "fin": 15.28
+    },
+    {
+      "texto": "los",
+      "inicio": 15.3,
+      "fin": 15.36
+    },
+    {
+      "texto": "procesa,",
+      "inicio": 15.44,
+      "fin": 16.08
+    },
+    {
+      "texto": "y",
+      "inicio": 16.28,
+      "fin": 16.48
+    },
+    {
+      "texto": "el",
+      "inicio": 16.507,
+      "fin": 16.56
+    },
+    {
+      "texto": "resultado",
+      "inicio": 16.624,
+      "fin": 17.2
+    },
+    {
+      "texto": "vuelve",
+      "inicio": 17.36,
+      "fin": 17.68
+    },
+    {
+      "texto": "a",
+      "inicio": 17.72,
+      "fin": 17.76
+    },
+    {
+      "texto": "tu",
+      "inicio": 17.813,
+      "fin": 17.92
+    },
+    {
+      "texto": "celda.",
+      "inicio": 17.96,
+      "fin": 18.4
+    },
+    {
+      "texto": "Por",
+      "inicio": 18.62,
+      "fin": 19.28
+    },
+    {
+      "texto": "eso",
+      "inicio": 19.32,
+      "fin": 19.44
+    },
+    {
+      "texto": "necesitas",
+      "inicio": 19.48,
+      "fin": 19.92
+    },
+    {
+      "texto": "conexión",
+      "inicio": 19.964,
+      "fin": 20.32
+    },
+    {
+      "texto": "a",
+      "inicio": 20.44,
+      "fin": 20.56
+    },
+    {
+      "texto": "internet,",
+      "inicio": 20.587,
+      "fin": 21.28
+    },
+    {
+      "texto": "y",
+      "inicio": 21.32,
+      "fin": 21.36
+    },
+    {
+      "texto": "por",
+      "inicio": 21.4,
+      "fin": 21.52
+    },
+    {
+      "texto": "eso",
+      "inicio": 21.6,
+      "fin": 21.84
+    },
+    {
+      "texto": "no",
+      "inicio": 21.947,
+      "fin": 22.16
+    },
+    {
+      "texto": "tienes",
+      "inicio": 22.194,
+      "fin": 22.4
+    },
+    {
+      "texto": "que",
+      "inicio": 22.42,
+      "fin": 22.48
+    },
+    {
+      "texto": "instalar",
+      "inicio": 22.512,
+      "fin": 22.88
+    },
+    {
+      "texto": "nada.",
+      "inicio": 22.944,
+      "fin": 23.28
+    },
+    {
+      "texto": "Tu",
+      "inicio": 23.52,
+      "fin": 24.0
+    },
+    {
+      "texto": "hoja",
+      "inicio": 24.053,
+      "fin": 24.56
+    },
+    {
+      "texto": "sigue",
+      "inicio": 24.6,
+      "fin": 24.8
+    },
+    {
+      "texto": "siendo",
+      "inicio": 24.846,
+      "fin": 25.12
+    },
+    {
+      "texto": "un",
+      "inicio": 25.147,
+      "fin": 25.2
+    },
+    {
+      "texto": "archivo",
+      "inicio": 25.25,
+      "fin": 25.6
+    },
+    {
+      "texto": "de",
+      "inicio": 25.627,
+      "fin": 25.68
+    },
+    {
+      "texto": "Excel",
+      "inicio": 25.72,
+      "fin": 25.92
+    },
+    {
+      "texto": "normal,",
+      "inicio": 25.989,
+      "fin": 26.8
+    },
+    {
+      "texto": "que",
+      "inicio": 26.84,
+      "fin": 26.96
+    },
+    {
+      "texto": "puedes",
+      "inicio": 27.006,
+      "fin": 27.28
+    },
+    {
+      "texto": "compartir",
+      "inicio": 27.328,
+      "fin": 27.76
+    },
+    {
+      "texto": "como",
+      "inicio": 27.808,
+      "fin": 28.0
+    },
+    {
+      "texto": "siempre.",
+      "inicio": 28.06,
+      "fin": 28.56
+    }
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "num": "15",
+  "titulo": "El orden de cálculo",
+  "texto": "Un detalle que confunde a muchos: las celdas de Python se calculan en orden, fila por fila, de izquierda a derecha y de arriba hacia abajo. Por eso, la celda donde creas d f tiene que estar antes que las celdas que la usan. Mi consejo: pon la celda de los datos arriba a la izquierda, y tus análisis debajo o a la derecha.",
+  "texto_tts": "Un detalle que confunde a muchos: las celdas de Python se calculan en orden, fila por fila, de izquierda a derecha y de arriba hacia abajo. Por eso, la celda donde creas d f tiene que estar antes que las celdas que la usan. Mi consejo: pon la celda de los datos arriba a la izquierda, y tus análisis debajo o a la derecha.",
+  "modelo": "eleven_v3",
+  "duracion": 20.72,
+  "palabras": [
+    {
+      "texto": "Un",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "detalle",
+      "inicio": 0.13,
+      "fin": 0.48
+    },
+    {
+      "texto": "que",
+      "inicio": 0.5,
+      "fin": 0.56
+    },
+    {
+      "texto": "confunde",
+      "inicio": 0.608,
+      "fin": 0.96
+    },
+    {
+      "texto": "a",
+      "inicio": 1.0,
+      "fin": 1.04
+    },
+    {
+      "texto": "muchos:",
+      "inicio": 1.097,
+      "fin": 2.0
+    },
+    {
+      "texto": "las",
+      "inicio": 2.04,
+      "fin": 2.16
+    },
+    {
+      "texto": "celdas",
+      "inicio": 2.2,
+      "fin": 2.48
+    },
+    {
+      "texto": "de",
+      "inicio": 2.507,
+      "fin": 2.56
+    },
+    {
+      "texto": "Python",
+      "inicio": 2.629,
+      "fin": 3.04
+    },
+    {
+      "texto": "se",
+      "inicio": 3.093,
+      "fin": 3.2
+    },
+    {
+      "texto": "calculan",
+      "inicio": 3.257,
+      "fin": 3.84
+    },
+    {
+      "texto": "en",
+      "inicio": 3.893,
+      "fin": 4.0
+    },
+    {
+      "texto": "orden,",
+      "inicio": 4.067,
+      "fin": 4.64
+    },
+    {
+      "texto": "fila",
+      "inicio": 4.688,
+      "fin": 4.88
+    },
+    {
+      "texto": "por",
+      "inicio": 4.92,
+      "fin": 5.04
+    },
+    {
+      "texto": "fila,",
+      "inicio": 5.12,
+      "fin": 5.52
+    },
+    {
+      "texto": "de",
+      "inicio": 5.68,
+      "fin": 6.0
+    },
+    {
+      "texto": "izquierda",
+      "inicio": 6.053,
+      "fin": 6.4
+    },
+    {
+      "texto": "a",
+      "inicio": 6.44,
+      "fin": 6.48
+    },
+    {
+      "texto": "derecha",
+      "inicio": 6.512,
+      "fin": 6.96
+    },
+    {
+      "texto": "y",
+      "inicio": 7.08,
+      "fin": 7.2
+    },
+    {
+      "texto": "de",
+      "inicio": 7.227,
+      "fin": 7.28
+    },
+    {
+      "texto": "arriba",
+      "inicio": 7.307,
+      "fin": 7.52
+    },
+    {
+      "texto": "hacia",
+      "inicio": 7.56,
+      "fin": 7.76
+    },
+    {
+      "texto": "abajo.",
+      "inicio": 7.787,
+      "fin": 8.56
+    },
+    {
+      "texto": "Por",
+      "inicio": 8.68,
+      "fin": 9.04
+    },
+    {
+      "texto": "eso,",
+      "inicio": 9.1,
+      "fin": 9.44
+    },
+    {
+      "texto": "la",
+      "inicio": 9.493,
+      "fin": 9.6
+    },
+    {
+      "texto": "celda",
+      "inicio": 9.64,
+      "fin": 9.92
+    },
+    {
+      "texto": "donde",
+      "inicio": 9.96,
+      "fin": 10.16
+    },
+    {
+      "texto": "creas",
+      "inicio": 10.22,
+      "fin": 10.56
+    },
+    {
+      "texto": "d",
+      "inicio": 10.72,
+      "fin": 10.88
+    },
+    {
+      "texto": "f",
+      "inicio": 11.12,
+      "fin": 11.36
+    },
+    {
+      "texto": "tiene",
+      "inicio": 11.453,
+      "fin": 11.92
+    },
+    {
+      "texto": "que",
+      "inicio": 11.94,
+      "fin": 12.0
+    },
+    {
+      "texto": "estar",
+      "inicio": 12.067,
+      "fin": 12.4
+    },
+    {
+      "texto": "antes",
+      "inicio": 12.453,
+      "fin": 12.72
+    },
+    {
+      "texto": "que",
+      "inicio": 12.76,
+      "fin": 12.88
+    },
+    {
+      "texto": "las",
+      "inicio": 12.9,
+      "fin": 12.96
+    },
+    {
+      "texto": "celdas",
+      "inicio": 13.04,
+      "fin": 13.28
+    },
+    {
+      "texto": "que",
+      "inicio": 13.32,
+      "fin": 13.44
+    },
+    {
+      "texto": "la",
+      "inicio": 13.467,
+      "fin": 13.52
+    },
+    {
+      "texto": "usan.",
+      "inicio": 13.6,
+      "fin": 14.36
+    },
+    {
+      "texto": "Mi",
+      "inicio": 14.507,
+      "fin": 14.8
+    },
+    {
+      "texto": "consejo:",
+      "inicio": 14.853,
+      "fin": 15.92
+    },
+    {
+      "texto": "pon",
+      "inicio": 15.96,
+      "fin": 16.08
+    },
+    {
+      "texto": "la",
+      "inicio": 16.107,
+      "fin": 16.16
+    },
+    {
+      "texto": "celda",
+      "inicio": 16.24,
+      "fin": 16.56
+    },
+    {
+      "texto": "de",
+      "inicio": 16.587,
+      "fin": 16.64
+    },
+    {
+      "texto": "los",
+      "inicio": 16.66,
+      "fin": 16.72
+    },
+    {
+      "texto": "datos",
+      "inicio": 16.787,
+      "fin": 17.12
+    },
+    {
+      "texto": "arriba",
+      "inicio": 17.2,
+      "fin": 17.519
+    },
+    {
+      "texto": "a",
+      "inicio": 17.52,
+      "fin": 17.521
+    },
+    {
+      "texto": "la",
+      "inicio": 17.547,
+      "fin": 17.6
+    },
+    {
+      "texto": "izquierda,",
+      "inicio": 17.653,
+      "fin": 18.24
+    },
+    {
+      "texto": "y",
+      "inicio": 18.44,
+      "fin": 18.64
+    },
+    {
+      "texto": "tus",
+      "inicio": 18.68,
+      "fin": 18.8
+    },
+    {
+      "texto": "análisis",
+      "inicio": 18.848,
+      "fin": 19.36
+    },
+    {
+      "texto": "debajo",
+      "inicio": 19.42,
+      "fin": 19.84
+    },
+    {
+      "texto": "o",
+      "inicio": 19.96,
+      "fin": 20.08
+    },
+    {
+      "texto": "a",
+      "inicio": 20.12,
+      "fin": 20.16
+    },
+    {
+      "texto": "la",
+      "inicio": 20.187,
+      "fin": 20.24
+    },
+    {
+      "texto": "derecha.",
+      "inicio": 20.288,
+      "fin": 20.72
+    }
+  ]
+}

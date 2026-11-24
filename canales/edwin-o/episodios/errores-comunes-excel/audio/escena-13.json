@@ -1,0 +1,360 @@
+{
+  "num": "13",
+  "titulo": "Error 5: las celdas combinadas",
+  "texto": "Error número cinco: las celdas combinadas. Se ven muy bonitas para los títulos, pero son un dolor de cabeza. Cuando intentas ordenar o filtrar una tabla que tiene celdas combinadas, Excel te muestra un aviso y no te deja hacerlo. Y al copiar y pegar, los datos terminan donde no deberían. Además, cuando seleccionas una columna, Excel selecciona también las columnas vecinas que están combinadas, y eso confunde a cualquiera.",
+  "texto_tts": "Error número cinco: las celdas combinadas. Se ven muy bonitas para los títulos, pero son un dolor de cabeza. Cuando intentas ordenar o filtrar una tabla que tiene celdas combinadas, Excel te muestra un aviso y no te deja hacerlo. Y al copiar y pegar, los datos terminan donde no deberían. Además, cuando seleccionas una columna, Excel selecciona también las columnas vecinas que están combinadas, y eso confunde a cualquiera.",
+  "modelo": "eleven_v3",
+  "duracion": 32.8,
+  "palabras": [
+    {
+      "texto": "Error",
+      "inicio": 0.0,
+      "fin": 0.32
+    },
+    {
+      "texto": "número",
+      "inicio": 0.366,
+      "fin": 0.64
+    },
+    {
+      "texto": "cinco:",
+      "inicio": 0.707,
+      "fin": 1.2
+    },
+    {
+      "texto": "las",
+      "inicio": 1.4,
+      "fin": 2.0
+    },
+    {
+      "texto": "celdas",
+      "inicio": 2.08,
+      "fin": 2.4
+    },
+    {
+      "texto": "combinadas.",
+      "inicio": 2.469,
+      "fin": 3.44
+    },
+    {
+      "texto": "Se",
+      "inicio": 3.707,
+      "fin": 4.24
+    },
+    {
+      "texto": "ven",
+      "inicio": 4.3,
+      "fin": 4.48
+    },
+    {
+      "texto": "muy",
+      "inicio": 4.54,
+      "fin": 4.72
+    },
+    {
+      "texto": "bonitas",
+      "inicio": 4.8,
+      "fin": 5.36
+    },
+    {
+      "texto": "para",
+      "inicio": 5.408,
+      "fin": 5.6
+    },
+    {
+      "texto": "los",
+      "inicio": 5.64,
+      "fin": 5.76
+    },
+    {
+      "texto": "títulos,",
+      "inicio": 5.84,
+      "fin": 6.72
+    },
+    {
+      "texto": "pero",
+      "inicio": 6.752,
+      "fin": 6.88
+    },
+    {
+      "texto": "son",
+      "inicio": 6.96,
+      "fin": 7.2
+    },
+    {
+      "texto": "un",
+      "inicio": 7.307,
+      "fin": 7.52
+    },
+    {
+      "texto": "dolor",
+      "inicio": 7.587,
+      "fin": 7.92
+    },
+    {
+      "texto": "de",
+      "inicio": 7.973,
+      "fin": 8.08
+    },
+    {
+      "texto": "cabeza.",
+      "inicio": 8.16,
+      "fin": 8.8
+    },
+    {
+      "texto": "Cuando",
+      "inicio": 8.96,
+      "fin": 9.92
+    },
+    {
+      "texto": "intentas",
+      "inicio": 9.977,
+      "fin": 10.4
+    },
+    {
+      "texto": "ordenar",
+      "inicio": 10.467,
+      "fin": 11.04
+    },
+    {
+      "texto": "o",
+      "inicio": 11.16,
+      "fin": 11.28
+    },
+    {
+      "texto": "filtrar",
+      "inicio": 11.333,
+      "fin": 11.76
+    },
+    {
+      "texto": "una",
+      "inicio": 11.8,
+      "fin": 11.92
+    },
+    {
+      "texto": "tabla",
+      "inicio": 12.0,
+      "fin": 12.4
+    },
+    {
+      "texto": "que",
+      "inicio": 12.42,
+      "fin": 12.48
+    },
+    {
+      "texto": "tiene",
+      "inicio": 12.533,
+      "fin": 12.8
+    },
+    {
+      "texto": "celdas",
+      "inicio": 12.88,
+      "fin": 13.2
+    },
+    {
+      "texto": "combinadas,",
+      "inicio": 13.257,
+      "fin": 14.56
+    },
+    {
+      "texto": "Excel",
+      "inicio": 14.64,
+      "fin": 15.04
+    },
+    {
+      "texto": "te",
+      "inicio": 15.093,
+      "fin": 15.2
+    },
+    {
+      "texto": "muestra",
+      "inicio": 15.24,
+      "fin": 15.52
+    },
+    {
+      "texto": "un",
+      "inicio": 15.573,
+      "fin": 15.68
+    },
+    {
+      "texto": "aviso",
+      "inicio": 15.707,
+      "fin": 16.16
+    },
+    {
+      "texto": "y",
+      "inicio": 16.36,
+      "fin": 16.56
+    },
+    {
+      "texto": "no",
+      "inicio": 16.613,
+      "fin": 16.72
+    },
+    {
+      "texto": "te",
+      "inicio": 16.773,
+      "fin": 16.88
+    },
+    {
+      "texto": "deja",
+      "inicio": 16.944,
+      "fin": 17.2
+    },
+    {
+      "texto": "hacerlo.",
+      "inicio": 17.253,
+      "fin": 17.84
+    },
+    {
+      "texto": "Y",
+      "inicio": 18.2,
+      "fin": 18.56
+    },
+    {
+      "texto": "al",
+      "inicio": 18.587,
+      "fin": 18.64
+    },
+    {
+      "texto": "copiar",
+      "inicio": 18.7,
+      "fin": 19.04
+    },
+    {
+      "texto": "y",
+      "inicio": 19.08,
+      "fin": 19.12
+    },
+    {
+      "texto": "pegar,",
+      "inicio": 19.18,
+      "fin": 19.92
+    },
+    {
+      "texto": "los",
+      "inicio": 19.96,
+      "fin": 20.08
+    },
+    {
+      "texto": "datos",
+      "inicio": 20.133,
+      "fin": 20.4
+    },
+    {
+      "texto": "terminan",
+      "inicio": 20.457,
+      "fin": 20.88
+    },
+    {
+      "texto": "donde",
+      "inicio": 20.933,
+      "fin": 21.2
+    },
+    {
+      "texto": "no",
+      "inicio": 21.28,
+      "fin": 21.44
+    },
+    {
+      "texto": "deberían.",
+      "inicio": 21.493,
+      "fin": 22.24
+    },
+    {
+      "texto": "Además,",
+      "inicio": 22.4,
+      "fin": 23.84
+    },
+    {
+      "texto": "cuando",
+      "inicio": 23.874,
+      "fin": 24.08
+    },
+    {
+      "texto": "seleccionas",
+      "inicio": 24.128,
+      "fin": 24.72
+    },
+    {
+      "texto": "una",
+      "inicio": 24.76,
+      "fin": 24.88
+    },
+    {
+      "texto": "columna,",
+      "inicio": 24.95,
+      "fin": 26.0
+    },
+    {
+      "texto": "Excel",
+      "inicio": 26.067,
+      "fin": 26.4
+    },
+    {
+      "texto": "selecciona",
+      "inicio": 26.456,
+      "fin": 27.24
+    },
+    {
+      "texto": "también",
+      "inicio": 27.275,
+      "fin": 27.52
+    },
+    {
+      "texto": "las",
+      "inicio": 27.6,
+      "fin": 27.84
+    },
+    {
+      "texto": "columnas",
+      "inicio": 27.897,
+      "fin": 28.32
+    },
+    {
+      "texto": "vecinas",
+      "inicio": 28.42,
+      "fin": 29.04
+    },
+    {
+      "texto": "que",
+      "inicio": 29.06,
+      "fin": 29.12
+    },
+    {
+      "texto": "están",
+      "inicio": 29.16,
+      "fin": 29.36
+    },
+    {
+      "texto": "combinadas,",
+      "inicio": 29.417,
+      "fin": 30.72
+    },
+    {
+      "texto": "y",
+      "inicio": 30.76,
+      "fin": 30.8
+    },
+    {
+      "texto": "eso",
+      "inicio": 30.9,
+      "fin": 31.2
+    },
+    {
+      "texto": "confunde",
+      "inicio": 31.296,
+      "fin": 31.92
+    },
+    {
+      "texto": "a",
+      "inicio": 32.0,
+      "fin": 32.08
+    },
+    {
+      "texto": "cualquiera.",
+      "inicio": 32.112,
+      "fin": 32.8
+    }
+  ]
+}

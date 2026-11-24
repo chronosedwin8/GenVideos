@@ -1,0 +1,935 @@
+1
+00:00:00,070 --> 00:00:01,120
+"Excel va a morir".
+
+2
+00:00:01,227 --> 00:00:03,520
+Lo he escuchado mil veces este año.
+
+3
+00:00:03,627 --> 00:00:06,000
+La inteligencia artificial ya hace hojas de
+
+4
+00:00:06,040 --> 00:00:09,040
+cálculo, ya escribe fórmulas y ya arma
+
+5
+00:00:09,093 --> 00:00:10,080
+gráficos.
+
+6
+00:00:10,755 --> 00:00:13,280
+Entonces… ¿vale la pena seguir aprendiendo
+
+7
+00:00:13,360 --> 00:00:13,840
+Excel?
+
+8
+00:00:14,140 --> 00:00:17,040
+Hoy te doy mi respuesta, con
+
+9
+00:00:17,133 --> 00:00:18,960
+datos, y te va a sorprender.
+
+10
+00:00:19,432 --> 00:00:21,280
+¡Bienvenidos, amigos del canal!
+
+11
+00:00:21,320 --> 00:00:23,840
+Vamos en busca del poder tecnológico.
+
+12
+00:00:24,020 --> 00:00:26,160
+Hoy no vengo a venderte humo.
+
+13
+00:00:26,320 --> 00:00:28,480
+Te voy a contar cinco cosas que
+
+14
+00:00:28,533 --> 00:00:30,800
+de verdad cambiaron en Excel con la
+
+15
+00:00:30,907 --> 00:00:33,760
+IA, una que no cambió para nada,
+
+16
+00:00:33,800 --> 00:00:35,600
+y al final, lo que yo haría
+
+17
+00:00:35,733 --> 00:00:37,600
+si hoy empezara desde cero.
+
+18
+00:00:38,000 --> 00:00:39,200
+Primero, el contexto.
+
+19
+00:00:39,253 --> 00:00:41,360
+Excel cumplió cuarenta años en septiembre de
+
+20
+00:00:41,400 --> 00:00:42,400
+dos mil veinticinco.
+
+21
+00:00:42,960 --> 00:00:45,120
+Pocos programas sobreviven tanto
+
+22
+00:00:45,189 --> 00:00:46,000
+tiempo.
+
+23
+00:00:46,100 --> 00:00:48,880
+Sobrevivió a internet, a los celulares
+
+24
+00:00:49,000 --> 00:00:49,760
+y a la nube.
+
+25
+00:00:50,160 --> 00:00:51,760
+Y ahora le toca enfrentar a la
+
+26
+00:00:51,810 --> 00:00:53,040
+inteligencia artificial.
+
+27
+00:00:53,440 --> 00:00:56,160
+Y en sus últimos dos años, cambió
+
+28
+00:00:56,240 --> 00:00:57,920
+más que en los veinte anteriores.
+
+29
+00:00:58,080 --> 00:00:59,520
+Vamos con los cinco cambios.
+
+30
+00:00:59,920 --> 00:01:01,200
+Cambio número uno:
+
+31
+00:01:01,467 --> 00:01:04,320
+la IA ya trabaja dentro de Excel.
+
+32
+00:01:04,587 --> 00:01:07,200
+En abril de este año, Microsoft lanzó
+
+33
+00:01:07,248 --> 00:01:10,080
+para todos las funciones de Copilot que
+
+34
+00:01:10,133 --> 00:01:12,720
+no solo responden, sino que hacen cambios
+
+35
+00:01:12,747 --> 00:01:13,840
+en tu libro:
+
+36
+00:01:13,880 --> 00:01:16,800
+crean fórmulas, tablas y gráficos a partir
+
+37
+00:01:16,827 --> 00:01:17,920
+de lo que le pides en el
+
+38
+00:01:18,000 --> 00:01:18,480
+panel.
+
+39
+00:01:18,840 --> 00:01:20,480
+Y no es solo para empresas:
+
+40
+00:01:20,550 --> 00:01:22,800
+también llegó a los planes Personal y
+
+41
+00:01:22,880 --> 00:01:23,440
+Familia.
+
+42
+00:01:23,733 --> 00:01:26,000
+Lo que antes te tomaba una tarde,
+
+43
+00:01:26,053 --> 00:01:28,080
+ahora lo describes en una frase.
+
+44
+00:01:28,480 --> 00:01:30,320
+Cambio número dos, y este casi nadie
+
+45
+00:01:30,373 --> 00:01:30,960
+lo notó.
+
+46
+00:01:31,096 --> 00:01:34,080
+Microsoft había puesto la IA
+
+47
+00:01:34,171 --> 00:01:36,880
+dentro de las celdas, con una función
+
+48
+00:01:36,912 --> 00:01:38,560
+llamada COPILOT.
+
+49
+00:01:39,120 --> 00:01:41,680
+Y el catorce de septiembre la
+
+50
+00:01:41,747 --> 00:01:42,240
+retiró.
+
+51
+00:01:42,960 --> 00:01:44,720
+¿Qué nos dice eso?
+
+52
+00:01:44,920 --> 00:01:47,440
+Que la IA te ayuda desde
+
+53
+00:01:47,493 --> 00:01:50,400
+afuera, en un panel, pero lo que
+
+54
+00:01:50,440 --> 00:01:52,400
+queda en la celda tiene que ser
+
+55
+00:01:52,500 --> 00:01:54,800
+una fórmula normal,
+
+56
+00:01:54,860 --> 00:01:57,120
+predecible, que dé siempre el mismo
+
+57
+00:01:57,192 --> 00:01:57,920
+resultado.
+
+58
+00:01:58,267 --> 00:02:00,960
+Tu hoja sigue necesitando
+
+59
+00:02:01,080 --> 00:02:02,720
+fórmulas de verdad.
+
+60
+00:02:03,120 --> 00:02:04,720
+Cambio número tres:
+
+61
+00:02:04,800 --> 00:02:06,960
+Python vive dentro de Excel.
+
+62
+00:02:07,093 --> 00:02:10,080
+Escribes igual, P Y, y puedes
+
+63
+00:02:10,144 --> 00:02:12,880
+usar Python en una celda, con las
+
+64
+00:02:12,928 --> 00:02:14,880
+mismas bibliotecas que usan los científicos de
+
+65
+00:02:14,960 --> 00:02:15,600
+datos.
+
+66
+00:02:15,867 --> 00:02:18,160
+El código se ejecuta en la nube
+
+67
+00:02:18,213 --> 00:02:19,040
+de Microsoft.
+
+68
+00:02:19,413 --> 00:02:22,240
+Ya está disponible para empresas, y en
+
+69
+00:02:22,307 --> 00:02:24,640
+vista previa para los planes personales.
+
+70
+00:02:24,853 --> 00:02:26,720
+En un par de semanas te hago
+
+71
+00:02:26,747 --> 00:02:28,320
+un tutorial completo de esto.
+
+72
+00:02:28,720 --> 00:02:29,920
+Cambio número cuatro:
+
+73
+00:02:30,200 --> 00:02:33,120
+las fórmulas se volvieron un
+
+74
+00:02:33,160 --> 00:02:34,720
+lenguaje de programación.
+
+75
+00:02:35,000 --> 00:02:37,360
+Con funciones como FILTRAR,
+
+76
+00:02:37,573 --> 00:02:40,480
+UNICOS o LET, una sola
+
+77
+00:02:40,520 --> 00:02:43,520
+fórmula hace lo que antes requería macros.
+
+78
+00:02:43,840 --> 00:02:46,480
+Y con LAMBDA, puedes crear tus propias
+
+79
+00:02:46,536 --> 00:02:47,920
+funciones con nombre.
+
+80
+00:02:48,160 --> 00:02:51,120
+Excel dejó de ser una calculadora
+
+81
+00:02:51,160 --> 00:02:52,240
+con cuadritos.
+
+82
+00:02:52,427 --> 00:02:55,360
+Es una herramienta para construir soluciones.
+
+83
+00:02:55,760 --> 00:02:57,600
+Y el cambio número cinco es el
+
+84
+00:02:57,680 --> 00:03:00,400
+más importante, porque es sobre ti.
+
+85
+00:03:00,700 --> 00:03:03,120
+Antes, ganaba el que
+
+86
+00:03:03,187 --> 00:03:06,000
+memorizaba más fórmulas y sabía dónde estaba
+
+87
+00:03:06,064 --> 00:03:06,800
+cada botón.
+
+88
+00:03:07,093 --> 00:03:09,440
+Ahora, eso lo hace la IA.
+
+89
+00:03:09,660 --> 00:03:12,000
+Hoy gana el que entiende sus
+
+90
+00:03:12,093 --> 00:03:14,640
+datos, sabe exactamente qué
+
+91
+00:03:14,700 --> 00:03:16,800
+pedirle a la IA, y es capaz
+
+92
+00:03:16,827 --> 00:03:19,680
+de verificar si el resultado tiene sentido.
+
+93
+00:03:20,080 --> 00:03:21,120
+Mira cómo se ve en un día
+
+94
+00:03:21,211 --> 00:03:21,840
+normal.
+
+95
+00:03:22,016 --> 00:03:24,000
+Imagina que tu jefe te pide el
+
+96
+00:03:24,048 --> 00:03:25,520
+análisis de ventas del mes.
+
+97
+00:03:25,760 --> 00:03:27,280
+Antes:
+
+98
+00:03:27,333 --> 00:03:30,080
+filtrabas, armabas la tabla dinámica, hacías el
+
+99
+00:03:30,133 --> 00:03:32,320
+gráfico, y lo copiabas al correo.
+
+100
+00:03:32,560 --> 00:03:33,920
+Ahora:
+
+101
+00:03:33,947 --> 00:03:35,280
+le pides a la IA que resuma
+
+102
+00:03:35,320 --> 00:03:37,280
+las ventas por región y que haga
+
+103
+00:03:37,307 --> 00:03:37,920
+el gráfico.
+
+104
+00:03:38,080 --> 00:03:39,920
+Pero tu trabajo no termina ahí.
+
+105
+00:03:40,133 --> 00:03:42,480
+Revisas los totales con una tabla dinámica
+
+106
+00:03:42,507 --> 00:03:44,880
+de control, buscas lo que no cuadra,
+
+107
+00:03:45,160 --> 00:03:46,960
+y decides qué le vas a recomendar
+
+108
+00:03:47,000 --> 00:03:47,680
+a tu jefe.
+
+109
+00:03:47,920 --> 00:03:49,360
+El valor se movió:
+
+110
+00:03:49,520 --> 00:03:51,920
+de hacer, a revisar y
+
+111
+00:03:51,987 --> 00:03:52,560
+decidir.
+
+112
+00:03:52,960 --> 00:03:54,320
+Ahora, lo que no cambió:
+
+113
+00:03:54,667 --> 00:03:57,200
+la IA se equivoca.
+
+114
+00:03:57,573 --> 00:04:00,240
+En la encuesta de Stack Overflow de
+
+115
+00:04:00,280 --> 00:04:02,880
+dos mil veinticinco, el cuarenta y seis
+
+116
+00:04:02,940 --> 00:04:05,440
+por ciento de los desarrolladores dijo que
+
+117
+00:04:05,540 --> 00:04:08,160
+desconfía de la precisión de la IA.
+
+118
+00:04:08,520 --> 00:04:10,960
+Y la queja número uno fueron las
+
+119
+00:04:11,024 --> 00:04:13,680
+respuestas casi correctas.
+
+120
+00:04:14,240 --> 00:04:16,000
+Casi correctas.
+
+121
+00:04:16,187 --> 00:04:18,960
+En una hoja de nómina, casi correcto
+
+122
+00:04:19,032 --> 00:04:21,680
+significa que alguien cobra mal.
+
+123
+00:04:22,080 --> 00:04:23,600
+Te lo digo como docente.
+
+124
+00:04:23,947 --> 00:04:26,240
+Lo veo en mis clases:
+
+125
+00:04:26,293 --> 00:04:28,320
+el estudiante que no entiende qué es
+
+126
+00:04:28,373 --> 00:04:31,040
+un rango, o qué hace el
+
+127
+00:04:31,104 --> 00:04:33,600
+signo de dólar en una referencia,
+
+128
+00:04:33,893 --> 00:04:36,160
+le cree todo a la IA.
+
+129
+00:04:36,440 --> 00:04:38,640
+Y cuando la respuesta está mal, no
+
+130
+00:04:38,720 --> 00:04:39,680
+se da cuenta.
+
+131
+00:04:40,053 --> 00:04:42,400
+En cambio, el que domina lo
+
+132
+00:04:42,480 --> 00:04:45,040
+básico usa la IA como un
+
+133
+00:04:45,133 --> 00:04:45,680
+turbo.
+
+134
+00:04:45,840 --> 00:04:48,720
+Termina en minutos, y
+
+135
+00:04:48,780 --> 00:04:49,840
+sin errores.
+
+136
+00:04:50,240 --> 00:04:51,840
+Y las empresas piensan igual.
+
+137
+00:04:52,040 --> 00:04:54,800
+Según el informe del Foro Económico Mundial
+
+138
+00:04:54,853 --> 00:04:57,680
+sobre el futuro del empleo, siete de
+
+139
+00:04:57,744 --> 00:05:00,560
+cada diez empresas consideran el pensamiento
+
+140
+00:05:00,624 --> 00:05:03,360
+analítico como la habilidad central.
+
+141
+00:05:03,640 --> 00:05:06,560
+Y las habilidades que más crecen son
+
+142
+00:05:06,720 --> 00:05:09,280
+la inteligencia artificial y el manejo de
+
+143
+00:05:09,373 --> 00:05:09,920
+datos.
+
+144
+00:05:10,360 --> 00:05:11,200
+Fíjate:
+
+145
+00:05:11,360 --> 00:05:13,360
+no es IA o Excel.
+
+146
+00:05:13,520 --> 00:05:16,240
+Es IA y datos, juntos.
+
+147
+00:05:16,640 --> 00:05:18,160
+Así que, mi veredicto:
+
+148
+00:05:18,280 --> 00:05:20,160
+Excel no está muerto.
+
+149
+00:05:20,675 --> 00:05:21,840
+Está más vivo que nunca.
+
+150
+00:05:22,080 --> 00:05:24,080
+Lo que murió es la forma vieja
+
+151
+00:05:24,107 --> 00:05:24,960
+de usarlo:
+
+152
+00:05:25,013 --> 00:05:27,360
+memorizar, copiar y pegar, hacer todo a
+
+153
+00:05:27,424 --> 00:05:27,760
+mano.
+
+154
+00:05:27,947 --> 00:05:30,720
+Excel no va a desaparecer, pero
+
+155
+00:05:30,800 --> 00:05:32,720
+sí va a cambiar quién gana con
+
+156
+00:05:32,773 --> 00:05:32,960
+él.
+
+157
+00:05:33,360 --> 00:05:34,800
+Y como siempre digo:
+
+158
+00:05:35,258 --> 00:05:38,165
+si no lo aprendes ahora, te extingues.
+
+159
+00:05:38,565 --> 00:05:40,885
+Entonces, ¿qué haría yo si hoy empezara
+
+160
+00:05:40,925 --> 00:05:41,605
+desde cero?
+
+161
+00:05:42,205 --> 00:05:43,525
+Tres pasos.
+
+162
+00:05:43,605 --> 00:05:44,485
+Paso uno:
+
+163
+00:05:44,554 --> 00:05:45,765
+domina lo esencial.
+
+164
+00:05:45,938 --> 00:05:48,405
+Referencias relativas y absolutas,
+
+165
+00:05:48,495 --> 00:05:50,965
+convertir tus datos en tablas,
+
+166
+00:05:51,045 --> 00:05:54,005
+BUSCARX, FILTRAR y las tablas dinámicas.
+
+167
+00:05:54,165 --> 00:05:56,725
+Con eso entiendes casi todo lo que
+
+168
+00:05:56,778 --> 00:05:58,725
+la IA te va a proponer, y
+
+169
+00:05:58,771 --> 00:06:00,965
+puedes detectar cuándo se equivoca.
+
+170
+00:06:01,365 --> 00:06:02,085
+Paso dos:
+
+171
+00:06:02,336 --> 00:06:05,125
+aprende a pedirle a la IA y
+
+172
+00:06:05,165 --> 00:06:06,565
+a verificar lo que te da.
+
+173
+00:06:06,992 --> 00:06:09,205
+Ya hice un video con el método
+
+174
+00:06:09,232 --> 00:06:11,605
+de las cinco partes para pedir fórmulas
+
+175
+00:06:11,645 --> 00:06:14,245
+que sí funcionan, y con el truco
+
+176
+00:06:14,325 --> 00:06:16,005
+de probar los casos del límite.
+
+177
+00:06:16,272 --> 00:06:18,005
+Te lo dejo en la descripción.
+
+178
+00:06:18,525 --> 00:06:21,445
+Esa habilidad, saber pedir y saber
+
+179
+00:06:21,517 --> 00:06:23,685
+verificar, vale oro.
+
+180
+00:06:24,085 --> 00:06:25,045
+Y paso tres:
+
+181
+00:06:25,155 --> 00:06:27,845
+automatiza lo que repites cada
+
+182
+00:06:27,925 --> 00:06:28,485
+semana.
+
+183
+00:06:28,705 --> 00:06:31,125
+Con Python, con Power
+
+184
+00:06:31,232 --> 00:06:33,125
+Query o con macros.
+
+185
+00:06:33,605 --> 00:06:36,085
+Hace poco te mostré cómo crear doce
+
+186
+00:06:36,142 --> 00:06:38,805
+reportes en segundos con un programa de
+
+187
+00:06:38,885 --> 00:06:39,845
+doce líneas.
+
+188
+00:06:40,165 --> 00:06:41,605
+Ese es el tipo de cosa que
+
+189
+00:06:41,632 --> 00:06:44,245
+te hace imprescindible en tu trabajo, con
+
+190
+00:06:44,405 --> 00:06:45,365
+o sin IA.
+
+191
+00:06:45,765 --> 00:06:47,125
+¿Y cómo sabes si vas por buen
+
+192
+00:06:47,194 --> 00:06:47,845
+camino?
+
+193
+00:06:48,045 --> 00:06:49,125
+Tres señales.
+
+194
+00:06:49,265 --> 00:06:49,765
+Uno:
+
+195
+00:06:49,959 --> 00:06:52,485
+puedes explicar cada
+
+196
+00:06:52,565 --> 00:06:54,565
+fórmula de tu hoja, aunque la haya
+
+197
+00:06:54,605 --> 00:06:55,365
+escrito la IA.
+
+198
+00:06:55,845 --> 00:06:57,365
+Dos:
+
+199
+00:06:57,552 --> 00:07:00,405
+revisas los totales importantes con
+
+200
+00:07:00,458 --> 00:07:02,725
+un segundo método, por ejemplo una tabla
+
+201
+00:07:02,785 --> 00:07:04,725
+dinámica o una suma rápida.
+
+202
+00:07:05,285 --> 00:07:06,485
+Y tres:
+
+203
+00:07:06,709 --> 00:07:09,525
+este mes automatizaste al
+
+204
+00:07:09,578 --> 00:07:12,005
+menos una tarea que antes hacías a
+
+205
+00:07:12,085 --> 00:07:12,485
+mano.
+
+206
+00:07:12,885 --> 00:07:15,685
+Si cumples las tres, la
+
+207
+00:07:15,792 --> 00:07:17,445
+IA no te va a reemplazar.
+
+208
+00:07:17,632 --> 00:07:19,125
+Te va a potenciar.
+
+209
+00:07:19,525 --> 00:07:21,285
+Una advertencia antes de terminar.
+
+210
+00:07:21,425 --> 00:07:23,365
+Antes de pegar datos de tu empresa
+
+211
+00:07:23,392 --> 00:07:25,285
+en cualquier IA, pregúntate:
+
+212
+00:07:25,645 --> 00:07:27,845
+¿esta herramienta es pública, o es la
+
+213
+00:07:27,865 --> 00:07:29,045
+que mi empresa aprobó?
+
+214
+00:07:29,405 --> 00:07:32,085
+Nada de cédulas, salarios ni datos de
+
+215
+00:07:32,147 --> 00:07:34,085
+clientes en herramientas públicas.
+
+216
+00:07:34,305 --> 00:07:36,085
+Usa datos de ejemplo.
+
+217
+00:07:36,165 --> 00:07:38,725
+La productividad no vale un problema de
+
+218
+00:07:38,781 --> 00:07:39,365
+seguridad.
+
+219
+00:07:39,765 --> 00:07:41,445
+Ahora quiero saber tu opinión.
+
+220
+00:07:41,725 --> 00:07:43,605
+¿Crees que Excel está muerto?
+
+221
+00:07:43,765 --> 00:07:45,605
+¿Ya usas IA en tu trabajo?
+
+222
+00:07:45,845 --> 00:07:48,085
+Déjamelo en los comentarios, que los leo
+
+223
+00:07:48,165 --> 00:07:48,645
+todos.
+
+224
+00:07:49,045 --> 00:07:50,805
+Y si este video te ayudó a
+
+225
+00:07:50,825 --> 00:07:53,445
+ver el panorama más claro, compártelo con
+
+226
+00:07:53,485 --> 00:07:55,445
+ese compañero de trabajo que todavía dice
+
+227
+00:07:55,485 --> 00:07:57,005
+que Excel ya no sirve.
+
+228
+00:07:57,152 --> 00:07:58,965
+En el próximo video te enseño
+
+229
+00:07:59,125 --> 00:08:01,605
+AGRUPARPOR, la función que hace
+
+230
+00:08:01,665 --> 00:08:04,485
+resúmenes como una tabla dinámica, pero con
+
+231
+00:08:04,545 --> 00:08:05,605
+una sola fórmula.
+
+232
+00:08:05,805 --> 00:08:08,365
+Suscríbete para no perdértelo.
+
+233
+00:08:08,858 --> 00:08:10,885
+El poder de la tecnología te va
+
+234
+00:08:10,925 --> 00:08:12,085
+a cambiar el mundo.

@@ -1,0 +1,250 @@
+{
+  "num": "05",
+  "titulo": "El aporte de Edwin",
+  "texto": "En mis clases con docentes y con personal administrativo, el error que más veo es este: escriben \"hazme una fórmula de comisiones\", y ya. Sin decir dónde están los datos, ni qué versión de Excel usan. Y claro, la IA adivina. A veces acierta… y a veces no.",
+  "texto_tts": "En mis clases con docentes y con personal administrativo, el error que más veo es este: escriben \"hazme una fórmula de comisiones\", y ya. Sin decir dónde están los datos, ni qué versión de Excel usan. Y claro, la IA adivina. A veces acierta… y a veces no.",
+  "modelo": "eleven_v3",
+  "duracion": 24.96,
+  "palabras": [
+    {
+      "texto": "En",
+      "inicio": 0.0,
+      "fin": 0.16
+    },
+    {
+      "texto": "mis",
+      "inicio": 0.22,
+      "fin": 0.4
+    },
+    {
+      "texto": "clases",
+      "inicio": 0.457,
+      "fin": 0.8
+    },
+    {
+      "texto": "con",
+      "inicio": 0.84,
+      "fin": 0.96
+    },
+    {
+      "texto": "docentes",
+      "inicio": 1.04,
+      "fin": 1.92
+    },
+    {
+      "texto": "y",
+      "inicio": 2.16,
+      "fin": 2.4
+    },
+    {
+      "texto": "con",
+      "inicio": 2.62,
+      "fin": 3.28
+    },
+    {
+      "texto": "personal",
+      "inicio": 3.342,
+      "fin": 3.84
+    },
+    {
+      "texto": "administrativo,",
+      "inicio": 3.896,
+      "fin": 5.76
+    },
+    {
+      "texto": "el",
+      "inicio": 5.813,
+      "fin": 5.92
+    },
+    {
+      "texto": "error",
+      "inicio": 5.96,
+      "fin": 6.16
+    },
+    {
+      "texto": "que",
+      "inicio": 6.22,
+      "fin": 6.4
+    },
+    {
+      "texto": "más",
+      "inicio": 6.44,
+      "fin": 6.56
+    },
+    {
+      "texto": "veo",
+      "inicio": 6.64,
+      "fin": 6.88
+    },
+    {
+      "texto": "es",
+      "inicio": 6.987,
+      "fin": 7.2
+    },
+    {
+      "texto": "este:",
+      "inicio": 7.28,
+      "fin": 7.68
+    },
+    {
+      "texto": "escriben",
+      "inicio": 7.88,
+      "fin": 9.12
+    },
+    {
+      "texto": "\"hazme",
+      "inicio": 9.24,
+      "fin": 9.68
+    },
+    {
+      "texto": "una",
+      "inicio": 9.74,
+      "fin": 9.92
+    },
+    {
+      "texto": "fórmula",
+      "inicio": 10.0,
+      "fin": 10.48
+    },
+    {
+      "texto": "de",
+      "inicio": 10.507,
+      "fin": 10.56
+    },
+    {
+      "texto": "comisiones\",",
+      "inicio": 10.62,
+      "fin": 11.52
+    },
+    {
+      "texto": "y",
+      "inicio": 11.88,
+      "fin": 12.24
+    },
+    {
+      "texto": "ya.",
+      "inicio": 12.373,
+      "fin": 13.28
+    },
+    {
+      "texto": "Sin",
+      "inicio": 13.44,
+      "fin": 13.92
+    },
+    {
+      "texto": "decir",
+      "inicio": 13.987,
+      "fin": 14.32
+    },
+    {
+      "texto": "dónde",
+      "inicio": 14.4,
+      "fin": 14.72
+    },
+    {
+      "texto": "están",
+      "inicio": 14.773,
+      "fin": 15.04
+    },
+    {
+      "texto": "los",
+      "inicio": 15.08,
+      "fin": 15.2
+    },
+    {
+      "texto": "datos,",
+      "inicio": 15.307,
+      "fin": 16.4
+    },
+    {
+      "texto": "ni",
+      "inicio": 16.453,
+      "fin": 16.56
+    },
+    {
+      "texto": "qué",
+      "inicio": 16.62,
+      "fin": 16.8
+    },
+    {
+      "texto": "versión",
+      "inicio": 16.85,
+      "fin": 17.2
+    },
+    {
+      "texto": "de",
+      "inicio": 17.227,
+      "fin": 17.28
+    },
+    {
+      "texto": "Excel",
+      "inicio": 17.347,
+      "fin": 17.68
+    },
+    {
+      "texto": "usan.",
+      "inicio": 17.76,
+      "fin": 18.72
+    },
+    {
+      "texto": "Y",
+      "inicio": 19.0,
+      "fin": 19.28
+    },
+    {
+      "texto": "claro,",
+      "inicio": 19.333,
+      "fin": 20.08
+    },
+    {
+      "texto": "la",
+      "inicio": 20.133,
+      "fin": 20.24
+    },
+    {
+      "texto": "IA",
+      "inicio": 20.373,
+      "fin": 20.64
+    },
+    {
+      "texto": "adivina.",
+      "inicio": 20.84,
+      "fin": 21.6
+    },
+    {
+      "texto": "A",
+      "inicio": 21.92,
+      "fin": 22.24
+    },
+    {
+      "texto": "veces",
+      "inicio": 22.307,
+      "fin": 22.64
+    },
+    {
+      "texto": "acierta…",
+      "inicio": 22.693,
+      "fin": 23.36
+    },
+    {
+      "texto": "y",
+      "inicio": 23.84,
+      "fin": 24.32
+    },
+    {
+      "texto": "a",
+      "inicio": 24.36,
+      "fin": 24.4
+    },
+    {
+      "texto": "veces",
+      "inicio": 24.453,
+      "fin": 24.72
+    },
+    {
+      "texto": "no.",
+      "inicio": 24.8,
+      "fin": 24.96
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "texto": "Pasa porque el sábado entró a las diez de la noche y salió a las seis de la mañana. Seis menos veintidós da negativo, y Excel no muestra horas negativas. La solución es una función muy simple: RESIDUO. Escribe igual, RESIDUO, abre paréntesis, C dos menos B dos, punto y coma, uno, y cierra. ¡Listo! Ocho horas exactas. Y lo mejor: funciona también para los turnos de día, así que usa esta fórmula siempre.",
   "texto_tts": "Pasa porque el sábado entró a las diez de la noche y salió a las seis de la mañana. Seis menos veintidós da negativo, y Excel no muestra horas negativas. La solución es una función muy simple: RESIDUO. Escribe igual, RESIDUO, abre paréntesis, C dos menos B dos, punto y coma, uno, y cierra. [excited] ¡Listo! Ocho horas exactas. Y lo mejor: funciona también para los turnos de día, así que usa esta fórmula siempre.",
   "modelo": "eleven_v3",
-  "duracion": 36.72,
+  "duracion": 32.56,
   "palabras": [
     {
       "texto": "Pasa",
@@ -13,368 +13,368 @@
     },
     {
       "texto": "porque",
-      "inicio": 0.377,
-      "fin": 0.72
-    },
-    {
-      "texto": "el",
-      "inicio": 0.747,
+      "inicio": 0.389,
       "fin": 0.8
     },
     {
-      "texto": "sábado",
-      "inicio": 0.857,
+      "texto": "el",
+      "inicio": 0.933,
       "fin": 1.2
     },
     {
-      "texto": "entró",
-      "inicio": 1.248,
-      "fin": 1.52
-    },
-    {
-      "texto": "a",
-      "inicio": 1.56,
-      "fin": 1.6
-    },
-    {
-      "texto": "las",
-      "inicio": 1.64,
+      "texto": "sábado",
+      "inicio": 1.28,
       "fin": 1.76
     },
     {
-      "texto": "diez",
-      "inicio": 1.84,
-      "fin": 2.16
-    },
-    {
-      "texto": "de",
-      "inicio": 2.187,
-      "fin": 2.24
-    },
-    {
-      "texto": "la",
-      "inicio": 2.267,
+      "texto": "entró",
+      "inicio": 1.856,
       "fin": 2.32
     },
     {
-      "texto": "noche",
-      "inicio": 2.387,
-      "fin": 2.72
-    },
-    {
-      "texto": "y",
-      "inicio": 2.92,
-      "fin": 3.12
-    },
-    {
-      "texto": "salió",
-      "inicio": 3.18,
-      "fin": 3.52
-    },
-    {
       "texto": "a",
-      "inicio": 3.58,
-      "fin": 3.64
+      "inicio": 2.36,
+      "fin": 2.4
     },
     {
       "texto": "las",
-      "inicio": 3.67,
-      "fin": 3.76
+      "inicio": 2.42,
+      "fin": 2.48
     },
     {
-      "texto": "seis",
-      "inicio": 3.824,
-      "fin": 4.08
+      "texto": "diez",
+      "inicio": 2.52,
+      "fin": 2.72
     },
     {
       "texto": "de",
-      "inicio": 4.133,
-      "fin": 4.24
+      "inicio": 2.747,
+      "fin": 2.8
     },
     {
       "texto": "la",
-      "inicio": 4.267,
-      "fin": 4.32
+      "inicio": 2.827,
+      "fin": 2.88
     },
     {
-      "texto": "mañana.",
-      "inicio": 4.389,
-      "fin": 4.88
-    },
-    {
-      "texto": "Seis",
-      "inicio": 5.147,
-      "fin": 5.76
-    },
-    {
-      "texto": "menos",
-      "inicio": 5.813,
-      "fin": 6.08
-    },
-    {
-      "texto": "veintidós",
-      "inicio": 6.107,
-      "fin": 6.64
-    },
-    {
-      "texto": "da",
-      "inicio": 6.773,
-      "fin": 7.04
-    },
-    {
-      "texto": "negativo,",
-      "inicio": 7.1,
-      "fin": 8.08
+      "texto": "noche",
+      "inicio": 2.96,
+      "fin": 3.36
     },
     {
       "texto": "y",
-      "inicio": 8.12,
-      "fin": 8.16
+      "inicio": 3.48,
+      "fin": 3.6
+    },
+    {
+      "texto": "salió",
+      "inicio": 3.66,
+      "fin": 4.0
+    },
+    {
+      "texto": "a",
+      "inicio": 4.12,
+      "fin": 4.24
+    },
+    {
+      "texto": "las",
+      "inicio": 4.28,
+      "fin": 4.4
+    },
+    {
+      "texto": "seis",
+      "inicio": 4.448,
+      "fin": 4.64
+    },
+    {
+      "texto": "de",
+      "inicio": 4.667,
+      "fin": 4.72
+    },
+    {
+      "texto": "la",
+      "inicio": 4.747,
+      "fin": 4.8
+    },
+    {
+      "texto": "mañana.",
+      "inicio": 4.857,
+      "fin": 5.28
+    },
+    {
+      "texto": "Seis",
+      "inicio": 5.6,
+      "fin": 6.32
+    },
+    {
+      "texto": "menos",
+      "inicio": 6.36,
+      "fin": 6.56
+    },
+    {
+      "texto": "veintidós",
+      "inicio": 6.613,
+      "fin": 7.12
+    },
+    {
+      "texto": "da",
+      "inicio": 7.253,
+      "fin": 7.52
+    },
+    {
+      "texto": "negativo,",
+      "inicio": 7.56,
+      "fin": 8.24
+    },
+    {
+      "texto": "y",
+      "inicio": 8.28,
+      "fin": 8.32
     },
     {
       "texto": "Excel",
-      "inicio": 8.24,
-      "fin": 8.64
+      "inicio": 8.4,
+      "fin": 8.8
     },
     {
       "texto": "no",
-      "inicio": 8.747,
-      "fin": 8.96
+      "inicio": 8.88,
+      "fin": 9.04
     },
     {
       "texto": "muestra",
-      "inicio": 9.02,
+      "inicio": 9.09,
       "fin": 9.44
     },
     {
       "texto": "horas",
-      "inicio": 9.52,
-      "fin": 9.92
+      "inicio": 9.493,
+      "fin": 9.76
     },
     {
       "texto": "negativas.",
-      "inicio": 9.96,
-      "fin": 10.8
+      "inicio": 9.8,
+      "fin": 10.4
     },
     {
       "texto": "La",
-      "inicio": 11.067,
-      "fin": 11.6
+      "inicio": 10.72,
+      "fin": 11.36
     },
     {
       "texto": "solución",
-      "inicio": 11.64,
-      "fin": 12.16
+      "inicio": 11.42,
+      "fin": 11.92
     },
     {
       "texto": "es",
-      "inicio": 12.267,
-      "fin": 12.48
+      "inicio": 12.0,
+      "fin": 12.16
     },
     {
       "texto": "una",
-      "inicio": 12.52,
-      "fin": 12.64
+      "inicio": 12.2,
+      "fin": 12.32
     },
     {
       "texto": "función",
-      "inicio": 12.7,
-      "fin": 13.12
+      "inicio": 12.37,
+      "fin": 12.72
     },
     {
       "texto": "muy",
-      "inicio": 13.16,
-      "fin": 13.28
+      "inicio": 12.8,
+      "fin": 13.04
     },
     {
       "texto": "simple:",
-      "inicio": 13.349,
-      "fin": 13.84
+      "inicio": 13.109,
+      "fin": 13.92
     },
     {
       "texto": "RESIDUO.",
-      "inicio": 14.06,
-      "fin": 15.12
+      "inicio": 14.0,
+      "fin": 14.56
     },
     {
       "texto": "Escribe",
-      "inicio": 15.56,
-      "fin": 16.24
+      "inicio": 14.96,
+      "fin": 15.68
     },
     {
       "texto": "igual,",
-      "inicio": 16.307,
-      "fin": 16.8
+      "inicio": 15.747,
+      "fin": 16.16
     },
     {
       "texto": "RESIDUO,",
-      "inicio": 17.0,
-      "fin": 18.08
+      "inicio": 16.3,
+      "fin": 17.36
     },
     {
       "texto": "abre",
-      "inicio": 18.304,
-      "fin": 19.2
+      "inicio": 17.424,
+      "fin": 17.68
     },
     {
       "texto": "paréntesis,",
-      "inicio": 19.24,
-      "fin": 20.16
+      "inicio": 17.72,
+      "fin": 18.56
     },
     {
       "texto": "C",
-      "inicio": 20.48,
-      "fin": 20.8
+      "inicio": 18.84,
+      "fin": 19.12
     },
     {
       "texto": "dos",
-      "inicio": 20.88,
-      "fin": 21.12
+      "inicio": 19.18,
+      "fin": 19.36
     },
     {
       "texto": "menos",
-      "inicio": 21.267,
-      "fin": 22.0
+      "inicio": 19.44,
+      "fin": 19.84
     },
     {
       "texto": "B",
-      "inicio": 22.12,
-      "fin": 22.24
+      "inicio": 19.92,
+      "fin": 20.0
     },
     {
       "texto": "dos,",
-      "inicio": 22.36,
-      "fin": 22.88
+      "inicio": 20.1,
+      "fin": 20.48
     },
     {
       "texto": "punto",
-      "inicio": 23.027,
-      "fin": 23.76
+      "inicio": 20.6,
+      "fin": 21.2
     },
     {
       "texto": "y",
-      "inicio": 23.86,
-      "fin": 23.96
+      "inicio": 21.24,
+      "fin": 21.28
     },
     {
       "texto": "coma,",
-      "inicio": 24.0,
-      "fin": 24.32
+      "inicio": 21.328,
+      "fin": 21.76
     },
     {
       "texto": "uno,",
-      "inicio": 24.54,
-      "fin": 25.28
+      "inicio": 21.86,
+      "fin": 22.32
     },
     {
       "texto": "y",
-      "inicio": 25.56,
-      "fin": 25.84
+      "inicio": 22.52,
+      "fin": 22.72
     },
     {
       "texto": "cierra.",
-      "inicio": 25.92,
-      "fin": 26.4
+      "inicio": 22.773,
+      "fin": 23.28
     },
     {
       "texto": "¡Listo!",
-      "inicio": 27.504,
-      "fin": 27.76
+      "inicio": 23.984,
+      "fin": 24.32
     },
     {
       "texto": "Ocho",
-      "inicio": 28.12,
-      "fin": 28.64
+      "inicio": 24.52,
+      "fin": 24.8
     },
     {
       "texto": "horas",
-      "inicio": 28.707,
-      "fin": 29.04
+      "inicio": 24.84,
+      "fin": 25.04
     },
     {
       "texto": "exactas.",
-      "inicio": 29.133,
-      "fin": 29.92
+      "inicio": 25.12,
+      "fin": 25.76
     },
     {
       "texto": "Y",
-      "inicio": 30.16,
-      "fin": 30.4
+      "inicio": 26.04,
+      "fin": 26.32
     },
     {
       "texto": "lo",
-      "inicio": 30.427,
-      "fin": 30.48
+      "inicio": 26.347,
+      "fin": 26.4
     },
     {
       "texto": "mejor:",
-      "inicio": 30.56,
-      "fin": 31.36
+      "inicio": 26.48,
+      "fin": 27.04
     },
     {
       "texto": "funciona",
-      "inicio": 31.413,
-      "fin": 31.84
+      "inicio": 27.138,
+      "fin": 27.92
     },
     {
       "texto": "también",
-      "inicio": 31.88,
-      "fin": 32.16
+      "inicio": 27.97,
+      "fin": 28.32
     },
     {
       "texto": "para",
-      "inicio": 32.208,
-      "fin": 32.4
+      "inicio": 28.368,
+      "fin": 28.56
     },
     {
       "texto": "los",
-      "inicio": 32.46,
-      "fin": 32.64
+      "inicio": 28.6,
+      "fin": 28.72
     },
     {
       "texto": "turnos",
-      "inicio": 32.704,
-      "fin": 33.04
+      "inicio": 28.768,
+      "fin": 29.04
     },
     {
       "texto": "de",
-      "inicio": 33.093,
-      "fin": 33.2
+      "inicio": 29.067,
+      "fin": 29.12
     },
     {
       "texto": "día,",
-      "inicio": 33.28,
-      "fin": 33.92
+      "inicio": 29.2,
+      "fin": 29.92
     },
     {
       "texto": "así",
-      "inicio": 34.0,
-      "fin": 34.24
+      "inicio": 29.98,
+      "fin": 30.16
     },
     {
       "texto": "que",
-      "inicio": 34.28,
-      "fin": 34.4
+      "inicio": 30.22,
+      "fin": 30.4
     },
     {
       "texto": "usa",
-      "inicio": 34.48,
-      "fin": 34.72
+      "inicio": 30.5,
+      "fin": 30.8
     },
     {
       "texto": "esta",
-      "inicio": 34.816,
-      "fin": 35.2
+      "inicio": 30.848,
+      "fin": 31.04
     },
     {
       "texto": "fórmula",
-      "inicio": 35.28,
-      "fin": 35.76
+      "inicio": 31.08,
+      "fin": 31.52
     },
     {
       "texto": "siempre.",
-      "inicio": 35.87,
-      "fin": 36.72
+      "inicio": 31.63,
+      "fin": 32.56
     }
   ]
 }

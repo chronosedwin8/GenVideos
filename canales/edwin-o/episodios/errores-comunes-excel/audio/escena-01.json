@@ -1,0 +1,240 @@
+{
+  "num": "01",
+  "titulo": "Gancho",
+  "texto": "Diez, más diez, más diez… ¿treinta y uno? No, no es un error de Excel. Es uno de los cinco errores que cometen hasta los expertos, y que pueden hacer que tu informe muestre números que no cuadran. Hoy te enseño a detectarlos y a corregirlos.",
+  "texto_tts": "[curious] Diez, más diez, más diez… ¿treinta y uno? No, no es un error de Excel. Es uno de los cinco errores que cometen hasta los expertos, y que pueden hacer que tu informe muestre números que no cuadran. [excited] Hoy te enseño a detectarlos y a corregirlos.",
+  "modelo": "eleven_v3",
+  "duracion": 16.16,
+  "palabras": [
+    {
+      "texto": "Diez,",
+      "inicio": 0.195,
+      "fin": 0.4
+    },
+    {
+      "texto": "más",
+      "inicio": 0.46,
+      "fin": 0.64
+    },
+    {
+      "texto": "diez,",
+      "inicio": 0.7,
+      "fin": 1.12
+    },
+    {
+      "texto": "más",
+      "inicio": 1.16,
+      "fin": 1.28
+    },
+    {
+      "texto": "diez…",
+      "inicio": 1.32,
+      "fin": 1.76
+    },
+    {
+      "texto": "¿treinta",
+      "inicio": 1.88,
+      "fin": 2.24
+    },
+    {
+      "texto": "y",
+      "inicio": 2.32,
+      "fin": 2.4
+    },
+    {
+      "texto": "uno?",
+      "inicio": 2.42,
+      "fin": 2.72
+    },
+    {
+      "texto": "No,",
+      "inicio": 3.04,
+      "fin": 3.84
+    },
+    {
+      "texto": "no",
+      "inicio": 3.867,
+      "fin": 3.92
+    },
+    {
+      "texto": "es",
+      "inicio": 3.973,
+      "fin": 4.08
+    },
+    {
+      "texto": "un",
+      "inicio": 4.107,
+      "fin": 4.16
+    },
+    {
+      "texto": "error",
+      "inicio": 4.213,
+      "fin": 4.48
+    },
+    {
+      "texto": "de",
+      "inicio": 4.507,
+      "fin": 4.56
+    },
+    {
+      "texto": "Excel.",
+      "inicio": 4.627,
+      "fin": 5.12
+    },
+    {
+      "texto": "Es",
+      "inicio": 5.307,
+      "fin": 5.68
+    },
+    {
+      "texto": "uno",
+      "inicio": 5.72,
+      "fin": 5.84
+    },
+    {
+      "texto": "de",
+      "inicio": 5.893,
+      "fin": 6.0
+    },
+    {
+      "texto": "los",
+      "inicio": 6.02,
+      "fin": 6.08
+    },
+    {
+      "texto": "cinco",
+      "inicio": 6.147,
+      "fin": 6.48
+    },
+    {
+      "texto": "errores",
+      "inicio": 6.53,
+      "fin": 6.88
+    },
+    {
+      "texto": "que",
+      "inicio": 6.92,
+      "fin": 7.04
+    },
+    {
+      "texto": "cometen",
+      "inicio": 7.08,
+      "fin": 7.52
+    },
+    {
+      "texto": "hasta",
+      "inicio": 7.587,
+      "fin": 7.92
+    },
+    {
+      "texto": "los",
+      "inicio": 7.96,
+      "fin": 8.08
+    },
+    {
+      "texto": "expertos,",
+      "inicio": 8.16,
+      "fin": 9.36
+    },
+    {
+      "texto": "y",
+      "inicio": 9.4,
+      "fin": 9.44
+    },
+    {
+      "texto": "que",
+      "inicio": 9.48,
+      "fin": 9.6
+    },
+    {
+      "texto": "pueden",
+      "inicio": 9.634,
+      "fin": 9.84
+    },
+    {
+      "texto": "hacer",
+      "inicio": 9.88,
+      "fin": 10.08
+    },
+    {
+      "texto": "que",
+      "inicio": 10.1,
+      "fin": 10.16
+    },
+    {
+      "texto": "tu",
+      "inicio": 10.213,
+      "fin": 10.32
+    },
+    {
+      "texto": "informe",
+      "inicio": 10.377,
+      "fin": 10.8
+    },
+    {
+      "texto": "muestre",
+      "inicio": 10.84,
+      "fin": 11.12
+    },
+    {
+      "texto": "números",
+      "inicio": 11.19,
+      "fin": 11.68
+    },
+    {
+      "texto": "que",
+      "inicio": 11.76,
+      "fin": 12.0
+    },
+    {
+      "texto": "no",
+      "inicio": 12.027,
+      "fin": 12.08
+    },
+    {
+      "texto": "cuadran.",
+      "inicio": 12.16,
+      "fin": 12.72
+    },
+    {
+      "texto": "Hoy",
+      "inicio": 13.49,
+      "fin": 13.52
+    },
+    {
+      "texto": "te",
+      "inicio": 13.547,
+      "fin": 13.6
+    },
+    {
+      "texto": "enseño",
+      "inicio": 13.664,
+      "fin": 14.0
+    },
+    {
+      "texto": "a",
+      "inicio": 14.04,
+      "fin": 14.08
+    },
+    {
+      "texto": "detectarlos",
+      "inicio": 14.126,
+      "fin": 14.88
+    },
+    {
+      "texto": "y",
+      "inicio": 15.04,
+      "fin": 15.2
+    },
+    {
+      "texto": "a",
+      "inicio": 15.24,
+      "fin": 15.28
+    },
+    {
+      "texto": "corregirlos.",
+      "inicio": 15.32,
+      "fin": 16.16
+    }
+  ]
+}

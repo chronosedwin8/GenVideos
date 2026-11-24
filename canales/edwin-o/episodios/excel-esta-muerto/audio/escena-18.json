@@ -1,0 +1,260 @@
+{
+  "num": "18",
+  "titulo": "Cuidado con tus datos",
+  "texto": "Una advertencia antes de terminar. Antes de pegar datos de tu empresa en cualquier IA, pregúntate: ¿esta herramienta es pública, o es la que mi empresa aprobó? Nada de cédulas, salarios ni datos de clientes en herramientas públicas. Usa datos de ejemplo. La productividad no vale un problema de seguridad.",
+  "texto_tts": "Una advertencia antes de terminar. Antes de pegar datos de tu empresa en cualquier IA, pregúntate: ¿esta herramienta es pública, o es la que mi empresa aprobó? Nada de cédulas, salarios ni datos de clientes en herramientas públicas. Usa datos de ejemplo. La productividad no vale un problema de seguridad.",
+  "modelo": "eleven_v3",
+  "duracion": 19.84,
+  "palabras": [
+    {
+      "texto": "Una",
+      "inicio": 0.0,
+      "fin": 0.16
+    },
+    {
+      "texto": "advertencia",
+      "inicio": 0.206,
+      "fin": 0.72
+    },
+    {
+      "texto": "antes",
+      "inicio": 0.76,
+      "fin": 0.96
+    },
+    {
+      "texto": "de",
+      "inicio": 0.987,
+      "fin": 1.04
+    },
+    {
+      "texto": "terminar.",
+      "inicio": 1.086,
+      "fin": 1.76
+    },
+    {
+      "texto": "Antes",
+      "inicio": 1.9,
+      "fin": 2.4
+    },
+    {
+      "texto": "de",
+      "inicio": 2.427,
+      "fin": 2.48
+    },
+    {
+      "texto": "pegar",
+      "inicio": 2.54,
+      "fin": 2.88
+    },
+    {
+      "texto": "datos",
+      "inicio": 2.933,
+      "fin": 3.2
+    },
+    {
+      "texto": "de",
+      "inicio": 3.227,
+      "fin": 3.28
+    },
+    {
+      "texto": "tu",
+      "inicio": 3.333,
+      "fin": 3.44
+    },
+    {
+      "texto": "empresa",
+      "inicio": 3.49,
+      "fin": 3.84
+    },
+    {
+      "texto": "en",
+      "inicio": 3.867,
+      "fin": 3.92
+    },
+    {
+      "texto": "cualquier",
+      "inicio": 3.976,
+      "fin": 4.48
+    },
+    {
+      "texto": "IA,",
+      "inicio": 4.56,
+      "fin": 4.88
+    },
+    {
+      "texto": "pregúntate:",
+      "inicio": 4.928,
+      "fin": 5.76
+    },
+    {
+      "texto": "¿esta",
+      "inicio": 6.12,
+      "fin": 6.64
+    },
+    {
+      "texto": "herramienta",
+      "inicio": 6.676,
+      "fin": 7.041
+    },
+    {
+      "texto": "es",
+      "inicio": 7.093,
+      "fin": 7.2
+    },
+    {
+      "texto": "pública,",
+      "inicio": 7.28,
+      "fin": 8.0
+    },
+    {
+      "texto": "o",
+      "inicio": 8.04,
+      "fin": 8.08
+    },
+    {
+      "texto": "es",
+      "inicio": 8.107,
+      "fin": 8.16
+    },
+    {
+      "texto": "la",
+      "inicio": 8.213,
+      "fin": 8.32
+    },
+    {
+      "texto": "que",
+      "inicio": 8.34,
+      "fin": 8.4
+    },
+    {
+      "texto": "mi",
+      "inicio": 8.453,
+      "fin": 8.56
+    },
+    {
+      "texto": "empresa",
+      "inicio": 8.61,
+      "fin": 8.959
+    },
+    {
+      "texto": "aprobó?",
+      "inicio": 8.96,
+      "fin": 9.52
+    },
+    {
+      "texto": "Nada",
+      "inicio": 9.88,
+      "fin": 10.4
+    },
+    {
+      "texto": "de",
+      "inicio": 10.453,
+      "fin": 10.56
+    },
+    {
+      "texto": "cédulas,",
+      "inicio": 10.64,
+      "fin": 11.36
+    },
+    {
+      "texto": "salarios",
+      "inicio": 11.4,
+      "fin": 11.92
+    },
+    {
+      "texto": "ni",
+      "inicio": 12.0,
+      "fin": 12.16
+    },
+    {
+      "texto": "datos",
+      "inicio": 12.213,
+      "fin": 12.48
+    },
+    {
+      "texto": "de",
+      "inicio": 12.507,
+      "fin": 12.56
+    },
+    {
+      "texto": "clientes",
+      "inicio": 12.622,
+      "fin": 13.12
+    },
+    {
+      "texto": "en",
+      "inicio": 13.173,
+      "fin": 13.28
+    },
+    {
+      "texto": "herramientas",
+      "inicio": 13.316,
+      "fin": 13.76
+    },
+    {
+      "texto": "públicas.",
+      "inicio": 13.84,
+      "fin": 14.56
+    },
+    {
+      "texto": "Usa",
+      "inicio": 14.78,
+      "fin": 15.44
+    },
+    {
+      "texto": "datos",
+      "inicio": 15.48,
+      "fin": 15.68
+    },
+    {
+      "texto": "de",
+      "inicio": 15.707,
+      "fin": 15.76
+    },
+    {
+      "texto": "ejemplo.",
+      "inicio": 15.83,
+      "fin": 16.56
+    },
+    {
+      "texto": "La",
+      "inicio": 16.64,
+      "fin": 16.8
+    },
+    {
+      "texto": "productividad",
+      "inicio": 16.85,
+      "fin": 17.68
+    },
+    {
+      "texto": "no",
+      "inicio": 17.733,
+      "fin": 17.84
+    },
+    {
+      "texto": "vale",
+      "inicio": 17.904,
+      "fin": 18.16
+    },
+    {
+      "texto": "un",
+      "inicio": 18.267,
+      "fin": 18.48
+    },
+    {
+      "texto": "problema",
+      "inicio": 18.533,
+      "fin": 18.96
+    },
+    {
+      "texto": "de",
+      "inicio": 19.04,
+      "fin": 19.2
+    },
+    {
+      "texto": "seguridad.",
+      "inicio": 19.256,
+      "fin": 19.84
+    }
+  ]
+}

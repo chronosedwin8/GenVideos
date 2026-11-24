@@ -7,7 +7,8 @@
     "studio": "remotion studio",
     "render": "remotion render",
     "still": "remotion still",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "validar": "esbuild scripts/validar.ts --bundle --platform=node --outfile=out/validar.cjs --log-level=warning && node out/validar.cjs"
   },
   "dependencies": {
     "@remotion/cli": "^4.0.547",

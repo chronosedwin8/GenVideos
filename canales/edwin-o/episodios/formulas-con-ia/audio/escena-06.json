@@ -1,0 +1,230 @@
+{
+  "num": "06",
+  "titulo": "El ejemplo",
+  "texto": "Vamos con un ejemplo real. Tengo esta hoja de comisiones: vendedor, mes y ventas. La regla de la empresa es sencilla: si vende menos de mil, no hay comisión. Desde mil, gana el tres por ciento. Y desde cinco mil, el cinco por ciento.",
+  "texto_tts": "Vamos con un ejemplo real. Tengo esta hoja de comisiones: vendedor, mes y ventas. La regla de la empresa es sencilla: si vende menos de mil, no hay comisión. Desde mil, gana el tres por ciento. Y desde cinco mil, el cinco por ciento.",
+  "modelo": "eleven_v3",
+  "duracion": 18.4,
+  "palabras": [
+    {
+      "texto": "Vamos",
+      "inicio": 0.0,
+      "fin": 0.24
+    },
+    {
+      "texto": "con",
+      "inicio": 0.28,
+      "fin": 0.4
+    },
+    {
+      "texto": "un",
+      "inicio": 0.427,
+      "fin": 0.48
+    },
+    {
+      "texto": "ejemplo",
+      "inicio": 0.55,
+      "fin": 1.04
+    },
+    {
+      "texto": "real.",
+      "inicio": 1.12,
+      "fin": 1.6
+    },
+    {
+      "texto": "Tengo",
+      "inicio": 2.16,
+      "fin": 2.88
+    },
+    {
+      "texto": "esta",
+      "inicio": 2.944,
+      "fin": 3.2
+    },
+    {
+      "texto": "hoja",
+      "inicio": 3.253,
+      "fin": 3.44
+    },
+    {
+      "texto": "de",
+      "inicio": 3.467,
+      "fin": 3.52
+    },
+    {
+      "texto": "comisiones:",
+      "inicio": 3.58,
+      "fin": 4.48
+    },
+    {
+      "texto": "vendedor,",
+      "inicio": 4.52,
+      "fin": 5.28
+    },
+    {
+      "texto": "mes",
+      "inicio": 5.4,
+      "fin": 5.76
+    },
+    {
+      "texto": "y",
+      "inicio": 5.88,
+      "fin": 6.0
+    },
+    {
+      "texto": "ventas.",
+      "inicio": 6.091,
+      "fin": 6.88
+    },
+    {
+      "texto": "La",
+      "inicio": 7.253,
+      "fin": 8.0
+    },
+    {
+      "texto": "regla",
+      "inicio": 8.06,
+      "fin": 8.32
+    },
+    {
+      "texto": "de",
+      "inicio": 8.347,
+      "fin": 8.4
+    },
+    {
+      "texto": "la",
+      "inicio": 8.427,
+      "fin": 8.48
+    },
+    {
+      "texto": "empresa",
+      "inicio": 8.53,
+      "fin": 8.88
+    },
+    {
+      "texto": "es",
+      "inicio": 8.907,
+      "fin": 8.96
+    },
+    {
+      "texto": "sencilla:",
+      "inicio": 9.0,
+      "fin": 9.68
+    },
+    {
+      "texto": "si",
+      "inicio": 9.867,
+      "fin": 10.24
+    },
+    {
+      "texto": "vende",
+      "inicio": 10.28,
+      "fin": 10.64
+    },
+    {
+      "texto": "menos",
+      "inicio": 10.693,
+      "fin": 10.96
+    },
+    {
+      "texto": "de",
+      "inicio": 10.987,
+      "fin": 11.04
+    },
+    {
+      "texto": "mil,",
+      "inicio": 11.12,
+      "fin": 11.6
+    },
+    {
+      "texto": "no",
+      "inicio": 11.653,
+      "fin": 11.76
+    },
+    {
+      "texto": "hay",
+      "inicio": 11.78,
+      "fin": 11.84
+    },
+    {
+      "texto": "comisión.",
+      "inicio": 11.9,
+      "fin": 12.64
+    },
+    {
+      "texto": "Desde",
+      "inicio": 12.8,
+      "fin": 13.6
+    },
+    {
+      "texto": "mil,",
+      "inicio": 13.68,
+      "fin": 14.08
+    },
+    {
+      "texto": "gana",
+      "inicio": 14.12,
+      "fin": 14.32
+    },
+    {
+      "texto": "el",
+      "inicio": 14.347,
+      "fin": 14.4
+    },
+    {
+      "texto": "tres",
+      "inicio": 14.432,
+      "fin": 14.56
+    },
+    {
+      "texto": "por",
+      "inicio": 14.62,
+      "fin": 14.8
+    },
+    {
+      "texto": "ciento.",
+      "inicio": 14.88,
+      "fin": 15.52
+    },
+    {
+      "texto": "Y",
+      "inicio": 15.76,
+      "fin": 16.0
+    },
+    {
+      "texto": "desde",
+      "inicio": 16.04,
+      "fin": 16.24
+    },
+    {
+      "texto": "cinco",
+      "inicio": 16.307,
+      "fin": 16.64
+    },
+    {
+      "texto": "mil,",
+      "inicio": 16.72,
+      "fin": 17.16
+    },
+    {
+      "texto": "el",
+      "inicio": 17.227,
+      "fin": 17.36
+    },
+    {
+      "texto": "cinco",
+      "inicio": 17.4,
+      "fin": 17.6
+    },
+    {
+      "texto": "por",
+      "inicio": 17.66,
+      "fin": 17.84
+    },
+    {
+      "texto": "ciento.",
+      "inicio": 17.88,
+      "fin": 18.4
+    }
+  ]
+}

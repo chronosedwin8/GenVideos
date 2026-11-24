@@ -1,0 +1,245 @@
+{
+  "num": "20",
+  "titulo": "Tres reglas de seguridad",
+  "texto": "Antes de terminar, tres reglas de seguridad. Uno: no pegues nombres, cédulas ni salarios reales en una IA pública. Usa datos de ejemplo. Dos: prueba siempre los límites. Y tres: si no entiendes la fórmula, no la uses todavía. Pídele que te la explique paso a paso.",
+  "texto_tts": "Antes de terminar, tres reglas de seguridad. Uno: no pegues nombres, cédulas ni salarios reales en una IA pública. Usa datos de ejemplo. Dos: prueba siempre los límites. Y tres: si no entiendes la fórmula, no la uses todavía. Pídele que te la explique paso a paso.",
+  "modelo": "eleven_v3",
+  "duracion": 22.88,
+  "palabras": [
+    {
+      "texto": "Antes",
+      "inicio": 0.0,
+      "fin": 0.32
+    },
+    {
+      "texto": "de",
+      "inicio": 0.347,
+      "fin": 0.4
+    },
+    {
+      "texto": "terminar,",
+      "inicio": 0.457,
+      "fin": 1.44
+    },
+    {
+      "texto": "tres",
+      "inicio": 1.504,
+      "fin": 1.76
+    },
+    {
+      "texto": "reglas",
+      "inicio": 1.84,
+      "fin": 2.24
+    },
+    {
+      "texto": "de",
+      "inicio": 2.267,
+      "fin": 2.32
+    },
+    {
+      "texto": "seguridad.",
+      "inicio": 2.392,
+      "fin": 3.2
+    },
+    {
+      "texto": "Uno:",
+      "inicio": 3.4,
+      "fin": 4.72
+    },
+    {
+      "texto": "no",
+      "inicio": 4.773,
+      "fin": 4.88
+    },
+    {
+      "texto": "pegues",
+      "inicio": 4.96,
+      "fin": 5.44
+    },
+    {
+      "texto": "nombres,",
+      "inicio": 5.5,
+      "fin": 6.0
+    },
+    {
+      "texto": "cédulas",
+      "inicio": 6.08,
+      "fin": 6.56
+    },
+    {
+      "texto": "ni",
+      "inicio": 6.613,
+      "fin": 6.72
+    },
+    {
+      "texto": "salarios",
+      "inicio": 6.8,
+      "fin": 7.28
+    },
+    {
+      "texto": "reales",
+      "inicio": 7.36,
+      "fin": 7.84
+    },
+    {
+      "texto": "en",
+      "inicio": 7.947,
+      "fin": 8.16
+    },
+    {
+      "texto": "una",
+      "inicio": 8.22,
+      "fin": 8.4
+    },
+    {
+      "texto": "IA",
+      "inicio": 8.533,
+      "fin": 8.8
+    },
+    {
+      "texto": "pública.",
+      "inicio": 8.91,
+      "fin": 9.88
+    },
+    {
+      "texto": "Usa",
+      "inicio": 9.93,
+      "fin": 10.08
+    },
+    {
+      "texto": "datos",
+      "inicio": 10.16,
+      "fin": 10.56
+    },
+    {
+      "texto": "de",
+      "inicio": 10.587,
+      "fin": 10.64
+    },
+    {
+      "texto": "ejemplo.",
+      "inicio": 10.71,
+      "fin": 11.28
+    },
+    {
+      "texto": "Dos:",
+      "inicio": 11.5,
+      "fin": 12.24
+    },
+    {
+      "texto": "prueba",
+      "inicio": 12.354,
+      "fin": 13.04
+    },
+    {
+      "texto": "siempre",
+      "inicio": 13.1,
+      "fin": 13.52
+    },
+    {
+      "texto": "los",
+      "inicio": 13.58,
+      "fin": 13.76
+    },
+    {
+      "texto": "límites.",
+      "inicio": 13.84,
+      "fin": 14.56
+    },
+    {
+      "texto": "Y",
+      "inicio": 14.76,
+      "fin": 14.96
+    },
+    {
+      "texto": "tres:",
+      "inicio": 15.04,
+      "fin": 15.52
+    },
+    {
+      "texto": "si",
+      "inicio": 15.733,
+      "fin": 16.16
+    },
+    {
+      "texto": "no",
+      "inicio": 16.213,
+      "fin": 16.32
+    },
+    {
+      "texto": "entiendes",
+      "inicio": 16.4,
+      "fin": 16.96
+    },
+    {
+      "texto": "la",
+      "inicio": 17.013,
+      "fin": 17.12
+    },
+    {
+      "texto": "fórmula,",
+      "inicio": 17.2,
+      "fin": 17.76
+    },
+    {
+      "texto": "no",
+      "inicio": 17.92,
+      "fin": 18.24
+    },
+    {
+      "texto": "la",
+      "inicio": 18.293,
+      "fin": 18.4
+    },
+    {
+      "texto": "uses",
+      "inicio": 18.496,
+      "fin": 18.88
+    },
+    {
+      "texto": "todavía.",
+      "inicio": 18.92,
+      "fin": 19.52
+    },
+    {
+      "texto": "Pídele",
+      "inicio": 19.84,
+      "fin": 20.48
+    },
+    {
+      "texto": "que",
+      "inicio": 20.52,
+      "fin": 20.64
+    },
+    {
+      "texto": "te",
+      "inicio": 20.693,
+      "fin": 20.8
+    },
+    {
+      "texto": "la",
+      "inicio": 20.827,
+      "fin": 20.88
+    },
+    {
+      "texto": "explique",
+      "inicio": 20.944,
+      "fin": 21.44
+    },
+    {
+      "texto": "paso",
+      "inicio": 21.568,
+      "fin": 22.08
+    },
+    {
+      "texto": "a",
+      "inicio": 22.24,
+      "fin": 22.4
+    },
+    {
+      "texto": "paso.",
+      "inicio": 22.48,
+      "fin": 22.88
+    }
+  ]
+}

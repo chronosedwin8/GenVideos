@@ -1,0 +1,330 @@
+{
+  "num": "11",
+  "titulo": "Paso 6: agrupa como tabla dinámica",
+  "texto": "Paso seis: agrupar. ¿Te suena groupby? Es lo mismo que usamos en el video de los doce reportes. Escribe: d f punto groupby región, corchetes monto, punto sum. Y tienes el total por región: Centro, dos mil doscientos treinta y cinco. Norte, seis mil trescientos cuarenta y cinco. Y Sur, dos mil trescientos cuarenta. Los mismos resultados que con AGRUPARPOR, pero ahora en Python.",
+  "texto_tts": "Paso seis: agrupar. ¿Te suena groupby? Es lo mismo que usamos en el video de los doce reportes. Escribe: d f punto groupby región, corchetes monto, punto sum. Y tienes el total por región: Centro, dos mil doscientos treinta y cinco. Norte, seis mil trescientos cuarenta y cinco. Y Sur, dos mil trescientos cuarenta. Los mismos resultados que con AGRUPARPOR, pero ahora en Python.",
+  "modelo": "eleven_v3",
+  "duracion": 32.0,
+  "palabras": [
+    {
+      "texto": "Paso",
+      "inicio": 0.0,
+      "fin": 0.24
+    },
+    {
+      "texto": "seis:",
+      "inicio": 0.32,
+      "fin": 0.72
+    },
+    {
+      "texto": "agrupar.",
+      "inicio": 0.84,
+      "fin": 1.68
+    },
+    {
+      "texto": "¿Te",
+      "inicio": 2.04,
+      "fin": 2.48
+    },
+    {
+      "texto": "suena",
+      "inicio": 2.533,
+      "fin": 2.8
+    },
+    {
+      "texto": "groupby?",
+      "inicio": 2.853,
+      "fin": 3.52
+    },
+    {
+      "texto": "Es",
+      "inicio": 3.733,
+      "fin": 4.16
+    },
+    {
+      "texto": "lo",
+      "inicio": 4.187,
+      "fin": 4.24
+    },
+    {
+      "texto": "mismo",
+      "inicio": 4.293,
+      "fin": 4.56
+    },
+    {
+      "texto": "que",
+      "inicio": 4.58,
+      "fin": 4.64
+    },
+    {
+      "texto": "usamos",
+      "inicio": 4.693,
+      "fin": 5.12
+    },
+    {
+      "texto": "en",
+      "inicio": 5.147,
+      "fin": 5.2
+    },
+    {
+      "texto": "el",
+      "inicio": 5.227,
+      "fin": 5.28
+    },
+    {
+      "texto": "video",
+      "inicio": 5.333,
+      "fin": 5.6
+    },
+    {
+      "texto": "de",
+      "inicio": 5.627,
+      "fin": 5.68
+    },
+    {
+      "texto": "los",
+      "inicio": 5.7,
+      "fin": 5.76
+    },
+    {
+      "texto": "doce",
+      "inicio": 5.84,
+      "fin": 6.08
+    },
+    {
+      "texto": "reportes.",
+      "inicio": 6.149,
+      "fin": 6.96
+    },
+    {
+      "texto": "Escribe:",
+      "inicio": 7.12,
+      "fin": 8.08
+    },
+    {
+      "texto": "d",
+      "inicio": 8.24,
+      "fin": 8.4
+    },
+    {
+      "texto": "f",
+      "inicio": 8.72,
+      "fin": 9.04
+    },
+    {
+      "texto": "punto",
+      "inicio": 9.16,
+      "fin": 9.76
+    },
+    {
+      "texto": "groupby",
+      "inicio": 9.907,
+      "fin": 11.04
+    },
+    {
+      "texto": "región,",
+      "inicio": 11.22,
+      "fin": 12.16
+    },
+    {
+      "texto": "corchetes",
+      "inicio": 12.32,
+      "fin": 13.28
+    },
+    {
+      "texto": "monto,",
+      "inicio": 13.48,
+      "fin": 14.16
+    },
+    {
+      "texto": "punto",
+      "inicio": 14.307,
+      "fin": 15.04
+    },
+    {
+      "texto": "sum.",
+      "inicio": 15.22,
+      "fin": 15.84
+    },
+    {
+      "texto": "Y",
+      "inicio": 16.2,
+      "fin": 16.56
+    },
+    {
+      "texto": "tienes",
+      "inicio": 16.606,
+      "fin": 16.88
+    },
+    {
+      "texto": "el",
+      "inicio": 16.933,
+      "fin": 17.04
+    },
+    {
+      "texto": "total",
+      "inicio": 17.107,
+      "fin": 17.44
+    },
+    {
+      "texto": "por",
+      "inicio": 17.52,
+      "fin": 17.76
+    },
+    {
+      "texto": "región:",
+      "inicio": 17.82,
+      "fin": 18.72
+    },
+    {
+      "texto": "Centro,",
+      "inicio": 18.8,
+      "fin": 19.36
+    },
+    {
+      "texto": "dos",
+      "inicio": 19.44,
+      "fin": 19.68
+    },
+    {
+      "texto": "mil",
+      "inicio": 19.72,
+      "fin": 19.84
+    },
+    {
+      "texto": "doscientos",
+      "inicio": 19.9,
+      "fin": 20.36
+    },
+    {
+      "texto": "treinta",
+      "inicio": 20.39,
+      "fin": 20.56
+    },
+    {
+      "texto": "y",
+      "inicio": 20.6,
+      "fin": 20.64
+    },
+    {
+      "texto": "cinco.",
+      "inicio": 20.733,
+      "fin": 21.28
+    },
+    {
+      "texto": "Norte,",
+      "inicio": 21.427,
+      "fin": 22.24
+    },
+    {
+      "texto": "seis",
+      "inicio": 22.304,
+      "fin": 22.56
+    },
+    {
+      "texto": "mil",
+      "inicio": 22.62,
+      "fin": 22.8
+    },
+    {
+      "texto": "trescientos",
+      "inicio": 22.848,
+      "fin": 23.28
+    },
+    {
+      "texto": "cuarenta",
+      "inicio": 23.333,
+      "fin": 23.68
+    },
+    {
+      "texto": "y",
+      "inicio": 23.72,
+      "fin": 23.76
+    },
+    {
+      "texto": "cinco.",
+      "inicio": 23.853,
+      "fin": 24.48
+    },
+    {
+      "texto": "Y",
+      "inicio": 24.64,
+      "fin": 24.8
+    },
+    {
+      "texto": "Sur,",
+      "inicio": 24.9,
+      "fin": 25.44
+    },
+    {
+      "texto": "dos",
+      "inicio": 25.5,
+      "fin": 25.68
+    },
+    {
+      "texto": "mil",
+      "inicio": 25.74,
+      "fin": 25.92
+    },
+    {
+      "texto": "trescientos",
+      "inicio": 25.968,
+      "fin": 26.4
+    },
+    {
+      "texto": "cuarenta.",
+      "inicio": 26.453,
+      "fin": 27.2
+    },
+    {
+      "texto": "Los",
+      "inicio": 27.36,
+      "fin": 27.84
+    },
+    {
+      "texto": "mismos",
+      "inicio": 27.904,
+      "fin": 28.48
+    },
+    {
+      "texto": "resultados",
+      "inicio": 28.509,
+      "fin": 28.8
+    },
+    {
+      "texto": "que",
+      "inicio": 28.82,
+      "fin": 28.88
+    },
+    {
+      "texto": "con",
+      "inicio": 28.94,
+      "fin": 29.12
+    },
+    {
+      "texto": "AGRUPARPOR,",
+      "inicio": 29.28,
+      "fin": 30.56
+    },
+    {
+      "texto": "pero",
+      "inicio": 30.592,
+      "fin": 30.72
+    },
+    {
+      "texto": "ahora",
+      "inicio": 30.787,
+      "fin": 31.12
+    },
+    {
+      "texto": "en",
+      "inicio": 31.227,
+      "fin": 31.44
+    },
+    {
+      "texto": "Python.",
+      "inicio": 31.52,
+      "fin": 32.0
+    }
+  ]
+}

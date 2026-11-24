@@ -1,0 +1,270 @@
+{
+  "num": "07",
+  "titulo": "Paso 2: inserta una celda de Python",
+  "texto": "Paso dos: selecciona una celda vacía, ve a la pestaña Fórmulas, y haz clic en Insertar Python. O más rápido: escribe igual, P Y, y abre paréntesis. La celda se marca con una insignia que dice P Y. Eso significa que todo lo que escribas ahí es Python, no una fórmula normal.",
+  "texto_tts": "Paso dos: selecciona una celda vacía, ve a la pestaña Fórmulas, y haz clic en Insertar Python. O más rápido: escribe igual, P Y, y abre paréntesis. La celda se marca con una insignia que dice P Y. Eso significa que todo lo que escribas ahí es Python, no una fórmula normal.",
+  "modelo": "eleven_v3",
+  "duracion": 21.52,
+  "palabras": [
+    {
+      "texto": "Paso",
+      "inicio": 0.0,
+      "fin": 0.24
+    },
+    {
+      "texto": "dos:",
+      "inicio": 0.32,
+      "fin": 0.64
+    },
+    {
+      "texto": "selecciona",
+      "inicio": 0.696,
+      "fin": 1.28
+    },
+    {
+      "texto": "una",
+      "inicio": 1.36,
+      "fin": 1.6
+    },
+    {
+      "texto": "celda",
+      "inicio": 1.68,
+      "fin": 2.0
+    },
+    {
+      "texto": "vacía,",
+      "inicio": 2.06,
+      "fin": 3.2
+    },
+    {
+      "texto": "ve",
+      "inicio": 3.253,
+      "fin": 3.36
+    },
+    {
+      "texto": "a",
+      "inicio": 3.4,
+      "fin": 3.44
+    },
+    {
+      "texto": "la",
+      "inicio": 3.467,
+      "fin": 3.52
+    },
+    {
+      "texto": "pestaña",
+      "inicio": 3.6,
+      "fin": 3.92
+    },
+    {
+      "texto": "Fórmulas,",
+      "inicio": 4.0,
+      "fin": 4.72
+    },
+    {
+      "texto": "y",
+      "inicio": 4.76,
+      "fin": 4.8
+    },
+    {
+      "texto": "haz",
+      "inicio": 4.84,
+      "fin": 4.96
+    },
+    {
+      "texto": "clic",
+      "inicio": 5.008,
+      "fin": 5.2
+    },
+    {
+      "texto": "en",
+      "inicio": 5.253,
+      "fin": 5.36
+    },
+    {
+      "texto": "Insertar",
+      "inicio": 5.451,
+      "fin": 6.08
+    },
+    {
+      "texto": "Python.",
+      "inicio": 6.16,
+      "fin": 6.72
+    },
+    {
+      "texto": "O",
+      "inicio": 7.08,
+      "fin": 7.44
+    },
+    {
+      "texto": "más",
+      "inicio": 7.48,
+      "fin": 7.6
+    },
+    {
+      "texto": "rápido:",
+      "inicio": 7.669,
+      "fin": 8.28
+    },
+    {
+      "texto": "escribe",
+      "inicio": 8.347,
+      "fin": 8.72
+    },
+    {
+      "texto": "igual,",
+      "inicio": 8.787,
+      "fin": 9.68
+    },
+    {
+      "texto": "P",
+      "inicio": 9.8,
+      "fin": 9.92
+    },
+    {
+      "texto": "Y,",
+      "inicio": 10.2,
+      "fin": 10.88
+    },
+    {
+      "texto": "y",
+      "inicio": 10.92,
+      "fin": 10.96
+    },
+    {
+      "texto": "abre",
+      "inicio": 11.008,
+      "fin": 11.2
+    },
+    {
+      "texto": "paréntesis.",
+      "inicio": 11.24,
+      "fin": 12.08
+    },
+    {
+      "texto": "La",
+      "inicio": 12.32,
+      "fin": 12.8
+    },
+    {
+      "texto": "celda",
+      "inicio": 12.84,
+      "fin": 13.12
+    },
+    {
+      "texto": "se",
+      "inicio": 13.173,
+      "fin": 13.28
+    },
+    {
+      "texto": "marca",
+      "inicio": 13.32,
+      "fin": 13.52
+    },
+    {
+      "texto": "con",
+      "inicio": 13.56,
+      "fin": 13.68
+    },
+    {
+      "texto": "una",
+      "inicio": 13.72,
+      "fin": 13.84
+    },
+    {
+      "texto": "insignia",
+      "inicio": 13.909,
+      "fin": 14.4
+    },
+    {
+      "texto": "que",
+      "inicio": 14.44,
+      "fin": 14.56
+    },
+    {
+      "texto": "dice",
+      "inicio": 14.656,
+      "fin": 15.04
+    },
+    {
+      "texto": "P",
+      "inicio": 15.2,
+      "fin": 15.36
+    },
+    {
+      "texto": "Y.",
+      "inicio": 15.68,
+      "fin": 16.16
+    },
+    {
+      "texto": "Eso",
+      "inicio": 16.52,
+      "fin": 16.96
+    },
+    {
+      "texto": "significa",
+      "inicio": 17.016,
+      "fin": 17.52
+    },
+    {
+      "texto": "que",
+      "inicio": 17.56,
+      "fin": 17.68
+    },
+    {
+      "texto": "todo",
+      "inicio": 17.744,
+      "fin": 18.0
+    },
+    {
+      "texto": "lo",
+      "inicio": 18.027,
+      "fin": 18.08
+    },
+    {
+      "texto": "que",
+      "inicio": 18.1,
+      "fin": 18.16
+    },
+    {
+      "texto": "escribas",
+      "inicio": 18.213,
+      "fin": 18.64
+    },
+    {
+      "texto": "ahí",
+      "inicio": 18.693,
+      "fin": 19.04
+    },
+    {
+      "texto": "es",
+      "inicio": 19.173,
+      "fin": 19.44
+    },
+    {
+      "texto": "Python,",
+      "inicio": 19.52,
+      "fin": 20.24
+    },
+    {
+      "texto": "no",
+      "inicio": 20.267,
+      "fin": 20.32
+    },
+    {
+      "texto": "una",
+      "inicio": 20.38,
+      "fin": 20.56
+    },
+    {
+      "texto": "fórmula",
+      "inicio": 20.64,
+      "fin": 20.96
+    },
+    {
+      "texto": "normal.",
+      "inicio": 21.029,
+      "fin": 21.52
+    }
+  ]
+}

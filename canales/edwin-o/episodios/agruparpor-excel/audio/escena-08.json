@@ -1,0 +1,240 @@
+{
+  "num": "08",
+  "titulo": "Paso 2: entiende los tres argumentos",
+  "texto": "Fíjate que la fórmula responde tres preguntas. ¿Por qué agrupo? Por región. ¿Qué calculo? Los montos. ¿Y cómo lo calculo? Sumando. Si en vez de SUMA escribes CONTARA, te dice cuántas ventas hubo en cada región. Con esas tres preguntas ya puedes armar casi cualquier resumen.",
+  "texto_tts": "Fíjate que la fórmula responde tres preguntas. ¿Por qué agrupo? Por región. ¿Qué calculo? Los montos. ¿Y cómo lo calculo? Sumando. Si en vez de SUMA escribes CONTARA, te dice cuántas ventas hubo en cada región. Con esas tres preguntas ya puedes armar casi cualquier resumen.",
+  "modelo": "eleven_v3",
+  "duracion": 22.96,
+  "palabras": [
+    {
+      "texto": "Fíjate",
+      "inicio": 0.0,
+      "fin": 0.4
+    },
+    {
+      "texto": "que",
+      "inicio": 0.46,
+      "fin": 0.64
+    },
+    {
+      "texto": "la",
+      "inicio": 0.773,
+      "fin": 1.04
+    },
+    {
+      "texto": "fórmula",
+      "inicio": 1.12,
+      "fin": 1.68
+    },
+    {
+      "texto": "responde",
+      "inicio": 1.78,
+      "fin": 2.32
+    },
+    {
+      "texto": "tres",
+      "inicio": 2.384,
+      "fin": 2.64
+    },
+    {
+      "texto": "preguntas.",
+      "inicio": 2.704,
+      "fin": 3.6
+    },
+    {
+      "texto": "¿Por",
+      "inicio": 3.92,
+      "fin": 4.32
+    },
+    {
+      "texto": "qué",
+      "inicio": 4.36,
+      "fin": 4.48
+    },
+    {
+      "texto": "agrupo?",
+      "inicio": 4.54,
+      "fin": 5.12
+    },
+    {
+      "texto": "Por",
+      "inicio": 5.24,
+      "fin": 5.6
+    },
+    {
+      "texto": "región.",
+      "inicio": 5.66,
+      "fin": 6.6
+    },
+    {
+      "texto": "¿Qué",
+      "inicio": 6.82,
+      "fin": 7.36
+    },
+    {
+      "texto": "calculo?",
+      "inicio": 7.406,
+      "fin": 7.76
+    },
+    {
+      "texto": "Los",
+      "inicio": 7.88,
+      "fin": 8.24
+    },
+    {
+      "texto": "montos.",
+      "inicio": 8.32,
+      "fin": 8.96
+    },
+    {
+      "texto": "¿Y",
+      "inicio": 9.2,
+      "fin": 9.52
+    },
+    {
+      "texto": "cómo",
+      "inicio": 9.584,
+      "fin": 9.84
+    },
+    {
+      "texto": "lo",
+      "inicio": 9.867,
+      "fin": 9.92
+    },
+    {
+      "texto": "calculo?",
+      "inicio": 10.0,
+      "fin": 10.72
+    },
+    {
+      "texto": "Sumando.",
+      "inicio": 10.86,
+      "fin": 11.92
+    },
+    {
+      "texto": "Si",
+      "inicio": 12.16,
+      "fin": 12.64
+    },
+    {
+      "texto": "en",
+      "inicio": 12.667,
+      "fin": 12.72
+    },
+    {
+      "texto": "vez",
+      "inicio": 12.76,
+      "fin": 12.88
+    },
+    {
+      "texto": "de",
+      "inicio": 12.933,
+      "fin": 13.04
+    },
+    {
+      "texto": "SUMA",
+      "inicio": 13.12,
+      "fin": 13.52
+    },
+    {
+      "texto": "escribes",
+      "inicio": 13.627,
+      "fin": 14.16
+    },
+    {
+      "texto": "CONTARA,",
+      "inicio": 14.256,
+      "fin": 15.6
+    },
+    {
+      "texto": "te",
+      "inicio": 15.627,
+      "fin": 15.68
+    },
+    {
+      "texto": "dice",
+      "inicio": 15.744,
+      "fin": 16.0
+    },
+    {
+      "texto": "cuántas",
+      "inicio": 16.08,
+      "fin": 16.56
+    },
+    {
+      "texto": "ventas",
+      "inicio": 16.629,
+      "fin": 17.04
+    },
+    {
+      "texto": "hubo",
+      "inicio": 17.1,
+      "fin": 17.32
+    },
+    {
+      "texto": "en",
+      "inicio": 17.333,
+      "fin": 17.36
+    },
+    {
+      "texto": "cada",
+      "inicio": 17.424,
+      "fin": 17.68
+    },
+    {
+      "texto": "región.",
+      "inicio": 17.74,
+      "fin": 18.24
+    },
+    {
+      "texto": "Con",
+      "inicio": 18.48,
+      "fin": 19.2
+    },
+    {
+      "texto": "esas",
+      "inicio": 19.264,
+      "fin": 19.52
+    },
+    {
+      "texto": "tres",
+      "inicio": 19.552,
+      "fin": 19.68
+    },
+    {
+      "texto": "preguntas",
+      "inicio": 19.744,
+      "fin": 20.48
+    },
+    {
+      "texto": "ya",
+      "inicio": 20.587,
+      "fin": 20.8
+    },
+    {
+      "texto": "puedes",
+      "inicio": 20.846,
+      "fin": 21.12
+    },
+    {
+      "texto": "armar",
+      "inicio": 21.173,
+      "fin": 21.44
+    },
+    {
+      "texto": "casi",
+      "inicio": 21.552,
+      "fin": 22.0
+    },
+    {
+      "texto": "cualquier",
+      "inicio": 22.04,
+      "fin": 22.4
+    },
+    {
+      "texto": "resumen.",
+      "inicio": 22.46,
+      "fin": 22.96
+    }
+  ]
+}

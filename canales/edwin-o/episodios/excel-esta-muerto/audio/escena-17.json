@@ -1,0 +1,365 @@
+{
+  "num": "17",
+  "titulo": "Tres señales de que vas bien",
+  "texto": "¿Y cómo sabes si vas por buen camino? Tres señales. Uno: puedes explicar cada fórmula de tu hoja, aunque la haya escrito la IA. Dos: revisas los totales importantes con un segundo método, por ejemplo una tabla dinámica o una suma rápida. Y tres: este mes automatizaste al menos una tarea que antes hacías a mano. Si cumples las tres, la IA no te va a reemplazar. Te va a potenciar.",
+  "texto_tts": "¿Y cómo sabes si vas por buen camino? Tres señales. Uno: puedes explicar cada fórmula de tu hoja, aunque la haya escrito la IA. Dos: revisas los totales importantes con un segundo método, por ejemplo una tabla dinámica o una suma rápida. Y tres: este mes automatizaste al menos una tarea que antes hacías a mano. Si cumples las tres, la IA no te va a reemplazar. Te va a potenciar.",
+  "modelo": "eleven_v3",
+  "duracion": 33.36,
+  "palabras": [
+    {
+      "texto": "¿Y",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "cómo",
+      "inicio": 0.144,
+      "fin": 0.4
+    },
+    {
+      "texto": "sabes",
+      "inicio": 0.46,
+      "fin": 0.8
+    },
+    {
+      "texto": "si",
+      "inicio": 0.827,
+      "fin": 0.88
+    },
+    {
+      "texto": "vas",
+      "inicio": 0.92,
+      "fin": 1.04
+    },
+    {
+      "texto": "por",
+      "inicio": 1.08,
+      "fin": 1.2
+    },
+    {
+      "texto": "buen",
+      "inicio": 1.232,
+      "fin": 1.36
+    },
+    {
+      "texto": "camino?",
+      "inicio": 1.429,
+      "fin": 2.08
+    },
+    {
+      "texto": "Tres",
+      "inicio": 2.28,
+      "fin": 2.56
+    },
+    {
+      "texto": "señales.",
+      "inicio": 2.64,
+      "fin": 3.36
+    },
+    {
+      "texto": "Uno:",
+      "inicio": 3.5,
+      "fin": 4.0
+    },
+    {
+      "texto": "puedes",
+      "inicio": 4.194,
+      "fin": 5.36
+    },
+    {
+      "texto": "explicar",
+      "inicio": 5.429,
+      "fin": 6.24
+    },
+    {
+      "texto": "cada",
+      "inicio": 6.336,
+      "fin": 6.72
+    },
+    {
+      "texto": "fórmula",
+      "inicio": 6.8,
+      "fin": 7.28
+    },
+    {
+      "texto": "de",
+      "inicio": 7.307,
+      "fin": 7.36
+    },
+    {
+      "texto": "tu",
+      "inicio": 7.44,
+      "fin": 7.6
+    },
+    {
+      "texto": "hoja,",
+      "inicio": 7.653,
+      "fin": 8.32
+    },
+    {
+      "texto": "aunque",
+      "inicio": 8.354,
+      "fin": 8.56
+    },
+    {
+      "texto": "la",
+      "inicio": 8.587,
+      "fin": 8.64
+    },
+    {
+      "texto": "haya",
+      "inicio": 8.672,
+      "fin": 8.8
+    },
+    {
+      "texto": "escrito",
+      "inicio": 8.84,
+      "fin": 9.12
+    },
+    {
+      "texto": "la",
+      "inicio": 9.173,
+      "fin": 9.28
+    },
+    {
+      "texto": "IA.",
+      "inicio": 9.36,
+      "fin": 9.6
+    },
+    {
+      "texto": "Dos:",
+      "inicio": 10.08,
+      "fin": 11.6
+    },
+    {
+      "texto": "revisas",
+      "inicio": 11.787,
+      "fin": 12.8
+    },
+    {
+      "texto": "los",
+      "inicio": 12.84,
+      "fin": 12.96
+    },
+    {
+      "texto": "totales",
+      "inicio": 13.02,
+      "fin": 13.44
+    },
+    {
+      "texto": "importantes",
+      "inicio": 13.52,
+      "fin": 14.4
+    },
+    {
+      "texto": "con",
+      "inicio": 14.46,
+      "fin": 14.64
+    },
+    {
+      "texto": "un",
+      "inicio": 14.693,
+      "fin": 14.8
+    },
+    {
+      "texto": "segundo",
+      "inicio": 14.87,
+      "fin": 15.36
+    },
+    {
+      "texto": "método,",
+      "inicio": 15.429,
+      "fin": 16.0
+    },
+    {
+      "texto": "por",
+      "inicio": 16.02,
+      "fin": 16.08
+    },
+    {
+      "texto": "ejemplo",
+      "inicio": 16.13,
+      "fin": 16.48
+    },
+    {
+      "texto": "una",
+      "inicio": 16.52,
+      "fin": 16.64
+    },
+    {
+      "texto": "tabla",
+      "inicio": 16.693,
+      "fin": 16.96
+    },
+    {
+      "texto": "dinámica",
+      "inicio": 17.02,
+      "fin": 17.68
+    },
+    {
+      "texto": "o",
+      "inicio": 17.76,
+      "fin": 17.84
+    },
+    {
+      "texto": "una",
+      "inicio": 17.9,
+      "fin": 18.08
+    },
+    {
+      "texto": "suma",
+      "inicio": 18.144,
+      "fin": 18.4
+    },
+    {
+      "texto": "rápida.",
+      "inicio": 18.48,
+      "fin": 18.96
+    },
+    {
+      "texto": "Y",
+      "inicio": 19.52,
+      "fin": 20.08
+    },
+    {
+      "texto": "tres:",
+      "inicio": 20.192,
+      "fin": 20.72
+    },
+    {
+      "texto": "este",
+      "inicio": 20.944,
+      "fin": 21.84
+    },
+    {
+      "texto": "mes",
+      "inicio": 21.94,
+      "fin": 22.24
+    },
+    {
+      "texto": "automatizaste",
+      "inicio": 22.33,
+      "fin": 23.52
+    },
+    {
+      "texto": "al",
+      "inicio": 23.6,
+      "fin": 23.76
+    },
+    {
+      "texto": "menos",
+      "inicio": 23.813,
+      "fin": 24.08
+    },
+    {
+      "texto": "una",
+      "inicio": 24.2,
+      "fin": 24.56
+    },
+    {
+      "texto": "tarea",
+      "inicio": 24.653,
+      "fin": 25.12
+    },
+    {
+      "texto": "que",
+      "inicio": 25.2,
+      "fin": 25.44
+    },
+    {
+      "texto": "antes",
+      "inicio": 25.493,
+      "fin": 25.76
+    },
+    {
+      "texto": "hacías",
+      "inicio": 25.82,
+      "fin": 26.16
+    },
+    {
+      "texto": "a",
+      "inicio": 26.2,
+      "fin": 26.24
+    },
+    {
+      "texto": "mano.",
+      "inicio": 26.32,
+      "fin": 26.72
+    },
+    {
+      "texto": "Si",
+      "inicio": 27.12,
+      "fin": 27.92
+    },
+    {
+      "texto": "cumples",
+      "inicio": 28.0,
+      "fin": 28.4
+    },
+    {
+      "texto": "las",
+      "inicio": 28.44,
+      "fin": 28.56
+    },
+    {
+      "texto": "tres,",
+      "inicio": 28.672,
+      "fin": 29.76
+    },
+    {
+      "texto": "la",
+      "inicio": 29.813,
+      "fin": 29.92
+    },
+    {
+      "texto": "IA",
+      "inicio": 30.027,
+      "fin": 30.24
+    },
+    {
+      "texto": "no",
+      "inicio": 30.373,
+      "fin": 30.64
+    },
+    {
+      "texto": "te",
+      "inicio": 30.693,
+      "fin": 30.8
+    },
+    {
+      "texto": "va",
+      "inicio": 30.827,
+      "fin": 30.88
+    },
+    {
+      "texto": "a",
+      "inicio": 30.92,
+      "fin": 30.96
+    },
+    {
+      "texto": "reemplazar.",
+      "inicio": 30.987,
+      "fin": 31.68
+    },
+    {
+      "texto": "Te",
+      "inicio": 31.867,
+      "fin": 32.24
+    },
+    {
+      "texto": "va",
+      "inicio": 32.293,
+      "fin": 32.4
+    },
+    {
+      "texto": "a",
+      "inicio": 32.44,
+      "fin": 32.48
+    },
+    {
+      "texto": "potenciar.",
+      "inicio": 32.54,
+      "fin": 33.36
+    }
+  ]
+}

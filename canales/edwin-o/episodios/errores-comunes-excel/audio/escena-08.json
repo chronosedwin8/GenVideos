@@ -1,0 +1,320 @@
+{
+  "num": "08",
+  "titulo": "Cómo corregirlo",
+  "texto": "La solución es fijar la celda del IVA con signos de dólar. Haz clic sobre E uno dentro de la fórmula y presiona F cuatro: se convierte en dólar E dólar uno. Ahora sí, arrastra, y todos los precios tienen su IVA. Regla fácil: si una celda es un dato fijo, como una tasa o un porcentaje, casi siempre va con dólares.",
+  "texto_tts": "La solución es fijar la celda del IVA con signos de dólar. Haz clic sobre E uno dentro de la fórmula y presiona F cuatro: se convierte en dólar E dólar uno. Ahora sí, arrastra, y todos los precios tienen su IVA. Regla fácil: si una celda es un dato fijo, como una tasa o un porcentaje, casi siempre va con dólares.",
+  "modelo": "eleven_v3",
+  "duracion": 27.84,
+  "palabras": [
+    {
+      "texto": "La",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "solución",
+      "inicio": 0.14,
+      "fin": 0.72
+    },
+    {
+      "texto": "es",
+      "inicio": 0.853,
+      "fin": 1.12
+    },
+    {
+      "texto": "fijar",
+      "inicio": 1.28,
+      "fin": 1.84
+    },
+    {
+      "texto": "la",
+      "inicio": 1.947,
+      "fin": 2.16
+    },
+    {
+      "texto": "celda",
+      "inicio": 2.2,
+      "fin": 2.56
+    },
+    {
+      "texto": "del",
+      "inicio": 2.6,
+      "fin": 2.72
+    },
+    {
+      "texto": "IVA",
+      "inicio": 2.76,
+      "fin": 2.96
+    },
+    {
+      "texto": "con",
+      "inicio": 3.0,
+      "fin": 3.12
+    },
+    {
+      "texto": "signos",
+      "inicio": 3.184,
+      "fin": 3.6
+    },
+    {
+      "texto": "de",
+      "inicio": 3.627,
+      "fin": 3.68
+    },
+    {
+      "texto": "dólar.",
+      "inicio": 3.733,
+      "fin": 4.16
+    },
+    {
+      "texto": "Haz",
+      "inicio": 4.42,
+      "fin": 5.2
+    },
+    {
+      "texto": "clic",
+      "inicio": 5.264,
+      "fin": 5.52
+    },
+    {
+      "texto": "sobre",
+      "inicio": 5.587,
+      "fin": 5.92
+    },
+    {
+      "texto": "E",
+      "inicio": 6.12,
+      "fin": 6.32
+    },
+    {
+      "texto": "uno",
+      "inicio": 6.4,
+      "fin": 6.64
+    },
+    {
+      "texto": "dentro",
+      "inicio": 6.731,
+      "fin": 7.28
+    },
+    {
+      "texto": "de",
+      "inicio": 7.307,
+      "fin": 7.36
+    },
+    {
+      "texto": "la",
+      "inicio": 7.387,
+      "fin": 7.44
+    },
+    {
+      "texto": "fórmula",
+      "inicio": 7.52,
+      "fin": 8.0
+    },
+    {
+      "texto": "y",
+      "inicio": 8.16,
+      "fin": 8.32
+    },
+    {
+      "texto": "presiona",
+      "inicio": 8.384,
+      "fin": 8.88
+    },
+    {
+      "texto": "F",
+      "inicio": 9.16,
+      "fin": 9.44
+    },
+    {
+      "texto": "cuatro:",
+      "inicio": 9.497,
+      "fin": 10.56
+    },
+    {
+      "texto": "se",
+      "inicio": 10.613,
+      "fin": 10.72
+    },
+    {
+      "texto": "convierte",
+      "inicio": 10.768,
+      "fin": 11.2
+    },
+    {
+      "texto": "en",
+      "inicio": 11.227,
+      "fin": 11.28
+    },
+    {
+      "texto": "dólar",
+      "inicio": 11.36,
+      "fin": 11.76
+    },
+    {
+      "texto": "E",
+      "inicio": 12.08,
+      "fin": 12.4
+    },
+    {
+      "texto": "dólar",
+      "inicio": 12.613,
+      "fin": 13.2
+    },
+    {
+      "texto": "uno.",
+      "inicio": 13.32,
+      "fin": 13.76
+    },
+    {
+      "texto": "Ahora",
+      "inicio": 14.133,
+      "fin": 15.04
+    },
+    {
+      "texto": "sí,",
+      "inicio": 15.093,
+      "fin": 15.68
+    },
+    {
+      "texto": "arrastra,",
+      "inicio": 15.74,
+      "fin": 16.4
+    },
+    {
+      "texto": "y",
+      "inicio": 16.44,
+      "fin": 16.48
+    },
+    {
+      "texto": "todos",
+      "inicio": 16.533,
+      "fin": 16.8
+    },
+    {
+      "texto": "los",
+      "inicio": 16.84,
+      "fin": 16.96
+    },
+    {
+      "texto": "precios",
+      "inicio": 17.03,
+      "fin": 17.52
+    },
+    {
+      "texto": "tienen",
+      "inicio": 17.577,
+      "fin": 17.92
+    },
+    {
+      "texto": "su",
+      "inicio": 17.973,
+      "fin": 18.08
+    },
+    {
+      "texto": "IVA.",
+      "inicio": 18.16,
+      "fin": 18.48
+    },
+    {
+      "texto": "Regla",
+      "inicio": 18.9,
+      "fin": 20.24
+    },
+    {
+      "texto": "fácil:",
+      "inicio": 20.333,
+      "fin": 20.96
+    },
+    {
+      "texto": "si",
+      "inicio": 21.147,
+      "fin": 21.52
+    },
+    {
+      "texto": "una",
+      "inicio": 21.56,
+      "fin": 21.68
+    },
+    {
+      "texto": "celda",
+      "inicio": 21.76,
+      "fin": 22.16
+    },
+    {
+      "texto": "es",
+      "inicio": 22.267,
+      "fin": 22.48
+    },
+    {
+      "texto": "un",
+      "inicio": 22.507,
+      "fin": 22.56
+    },
+    {
+      "texto": "dato",
+      "inicio": 22.608,
+      "fin": 22.8
+    },
+    {
+      "texto": "fijo,",
+      "inicio": 22.88,
+      "fin": 23.52
+    },
+    {
+      "texto": "como",
+      "inicio": 23.552,
+      "fin": 23.68
+    },
+    {
+      "texto": "una",
+      "inicio": 23.72,
+      "fin": 23.84
+    },
+    {
+      "texto": "tasa",
+      "inicio": 23.92,
+      "fin": 24.32
+    },
+    {
+      "texto": "o",
+      "inicio": 24.44,
+      "fin": 24.56
+    },
+    {
+      "texto": "un",
+      "inicio": 24.587,
+      "fin": 24.64
+    },
+    {
+      "texto": "porcentaje,",
+      "inicio": 24.7,
+      "fin": 25.84
+    },
+    {
+      "texto": "casi",
+      "inicio": 25.904,
+      "fin": 26.16
+    },
+    {
+      "texto": "siempre",
+      "inicio": 26.23,
+      "fin": 26.72
+    },
+    {
+      "texto": "va",
+      "inicio": 26.8,
+      "fin": 26.96
+    },
+    {
+      "texto": "con",
+      "inicio": 27.02,
+      "fin": 27.2
+    },
+    {
+      "texto": "dólares.",
+      "inicio": 27.253,
+      "fin": 27.84
+    }
+  ]
+}

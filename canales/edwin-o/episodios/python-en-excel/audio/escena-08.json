@@ -1,0 +1,330 @@
+{
+  "num": "08",
+  "titulo": "Paso 3: trae los datos con xl",
+  "texto": "Paso tres: trae los datos. Escribe: d f, igual, x l, y entre paréntesis y comillas, Ventas, corchete, numeral, all. Coma, headers igual a True, para decir que la primera fila son encabezados. Y ojo: aquí Enter no confirma, solo crea una línea nueva. Para confirmar, presiona Control más Entrar. La celda muestra una tarjeta que dice DataFrame: tu tabla ya vive en Python.",
+  "texto_tts": "Paso tres: trae los datos. Escribe: d f, igual, x l, y entre paréntesis y comillas, Ventas, corchete, numeral, all. Coma, headers igual a True, para decir que la primera fila son encabezados. Y ojo: aquí Enter no confirma, solo crea una línea nueva. Para confirmar, presiona Control más Entrar. La celda muestra una tarjeta que dice DataFrame: tu tabla ya vive en Python.",
+  "modelo": "eleven_v3",
+  "duracion": 43.44,
+  "palabras": [
+    {
+      "texto": "Paso",
+      "inicio": 0.0,
+      "fin": 0.24
+    },
+    {
+      "texto": "tres:",
+      "inicio": 0.32,
+      "fin": 0.8
+    },
+    {
+      "texto": "trae",
+      "inicio": 1.04,
+      "fin": 1.68
+    },
+    {
+      "texto": "los",
+      "inicio": 1.72,
+      "fin": 1.84
+    },
+    {
+      "texto": "datos.",
+      "inicio": 1.933,
+      "fin": 2.48
+    },
+    {
+      "texto": "Escribe:",
+      "inicio": 2.72,
+      "fin": 4.32
+    },
+    {
+      "texto": "d",
+      "inicio": 4.44,
+      "fin": 4.56
+    },
+    {
+      "texto": "f,",
+      "inicio": 4.96,
+      "fin": 5.44
+    },
+    {
+      "texto": "igual,",
+      "inicio": 5.587,
+      "fin": 6.4
+    },
+    {
+      "texto": "x",
+      "inicio": 7.0,
+      "fin": 7.6
+    },
+    {
+      "texto": "l,",
+      "inicio": 7.92,
+      "fin": 8.48
+    },
+    {
+      "texto": "y",
+      "inicio": 8.76,
+      "fin": 9.04
+    },
+    {
+      "texto": "entre",
+      "inicio": 9.093,
+      "fin": 9.36
+    },
+    {
+      "texto": "paréntesis",
+      "inicio": 9.42,
+      "fin": 10.16
+    },
+    {
+      "texto": "y",
+      "inicio": 10.28,
+      "fin": 10.4
+    },
+    {
+      "texto": "comillas,",
+      "inicio": 10.46,
+      "fin": 11.28
+    },
+    {
+      "texto": "Ventas,",
+      "inicio": 11.424,
+      "fin": 12.4
+    },
+    {
+      "texto": "corchete,",
+      "inicio": 12.58,
+      "fin": 13.88
+    },
+    {
+      "texto": "numeral,",
+      "inicio": 13.925,
+      "fin": 14.64
+    },
+    {
+      "texto": "all.",
+      "inicio": 14.8,
+      "fin": 15.36
+    },
+    {
+      "texto": "Coma,",
+      "inicio": 15.66,
+      "fin": 16.72
+    },
+    {
+      "texto": "headers",
+      "inicio": 16.9,
+      "fin": 18.16
+    },
+    {
+      "texto": "igual",
+      "inicio": 18.24,
+      "fin": 18.64
+    },
+    {
+      "texto": "a",
+      "inicio": 18.76,
+      "fin": 18.88
+    },
+    {
+      "texto": "True,",
+      "inicio": 18.96,
+      "fin": 19.68
+    },
+    {
+      "texto": "para",
+      "inicio": 19.712,
+      "fin": 19.84
+    },
+    {
+      "texto": "decir",
+      "inicio": 19.907,
+      "fin": 20.24
+    },
+    {
+      "texto": "que",
+      "inicio": 20.3,
+      "fin": 20.48
+    },
+    {
+      "texto": "la",
+      "inicio": 20.507,
+      "fin": 20.56
+    },
+    {
+      "texto": "primera",
+      "inicio": 20.61,
+      "fin": 20.96
+    },
+    {
+      "texto": "fila",
+      "inicio": 21.04,
+      "fin": 21.36
+    },
+    {
+      "texto": "son",
+      "inicio": 21.5,
+      "fin": 21.92
+    },
+    {
+      "texto": "encabezados.",
+      "inicio": 21.98,
+      "fin": 22.96
+    },
+    {
+      "texto": "Y",
+      "inicio": 23.32,
+      "fin": 23.68
+    },
+    {
+      "texto": "ojo:",
+      "inicio": 23.76,
+      "fin": 24.32
+    },
+    {
+      "texto": "aquí",
+      "inicio": 24.448,
+      "fin": 24.96
+    },
+    {
+      "texto": "Enter",
+      "inicio": 25.08,
+      "fin": 25.68
+    },
+    {
+      "texto": "no",
+      "inicio": 25.787,
+      "fin": 26.0
+    },
+    {
+      "texto": "confirma,",
+      "inicio": 26.08,
+      "fin": 27.2
+    },
+    {
+      "texto": "solo",
+      "inicio": 27.296,
+      "fin": 27.68
+    },
+    {
+      "texto": "crea",
+      "inicio": 27.76,
+      "fin": 28.08
+    },
+    {
+      "texto": "una",
+      "inicio": 28.16,
+      "fin": 28.4
+    },
+    {
+      "texto": "línea",
+      "inicio": 28.467,
+      "fin": 28.8
+    },
+    {
+      "texto": "nueva.",
+      "inicio": 28.88,
+      "fin": 29.52
+    },
+    {
+      "texto": "Para",
+      "inicio": 29.648,
+      "fin": 30.16
+    },
+    {
+      "texto": "confirmar,",
+      "inicio": 30.23,
+      "fin": 31.44
+    },
+    {
+      "texto": "presiona",
+      "inicio": 31.488,
+      "fin": 32.0
+    },
+    {
+      "texto": "Control",
+      "inicio": 32.14,
+      "fin": 33.12
+    },
+    {
+      "texto": "más",
+      "inicio": 33.24,
+      "fin": 33.6
+    },
+    {
+      "texto": "Entrar.",
+      "inicio": 33.728,
+      "fin": 34.64
+    },
+    {
+      "texto": "La",
+      "inicio": 35.04,
+      "fin": 35.84
+    },
+    {
+      "texto": "celda",
+      "inicio": 35.92,
+      "fin": 36.32
+    },
+    {
+      "texto": "muestra",
+      "inicio": 36.4,
+      "fin": 36.96
+    },
+    {
+      "texto": "una",
+      "inicio": 37.02,
+      "fin": 37.2
+    },
+    {
+      "texto": "tarjeta",
+      "inicio": 37.28,
+      "fin": 37.84
+    },
+    {
+      "texto": "que",
+      "inicio": 37.9,
+      "fin": 38.08
+    },
+    {
+      "texto": "dice",
+      "inicio": 38.24,
+      "fin": 38.88
+    },
+    {
+      "texto": "DataFrame:",
+      "inicio": 39.0,
+      "fin": 40.8
+    },
+    {
+      "texto": "tu",
+      "inicio": 40.853,
+      "fin": 40.96
+    },
+    {
+      "texto": "tabla",
+      "inicio": 41.053,
+      "fin": 41.52
+    },
+    {
+      "texto": "ya",
+      "inicio": 41.653,
+      "fin": 41.92
+    },
+    {
+      "texto": "vive",
+      "inicio": 42.0,
+      "fin": 42.32
+    },
+    {
+      "texto": "en",
+      "inicio": 42.427,
+      "fin": 42.64
+    },
+    {
+      "texto": "Python.",
+      "inicio": 42.731,
+      "fin": 43.44
+    }
+  ]
+}

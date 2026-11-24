@@ -1,0 +1,300 @@
+{
+  "num": "10",
+  "titulo": "Cómo corregirlo",
+  "texto": "La solución: escribe siempre FALSO como cuarto argumento. Ahora, si el código no existe, Excel te muestra el error numeral N barra A, que es mucho mejor que un precio inventado. Y si tienes Microsoft trescientos sesenta y cinco, usa BUSCARX, que busca la coincidencia exacta por defecto, y además te deja escribir un mensaje como \"no existe\".",
+  "texto_tts": "La solución: escribe siempre FALSO como cuarto argumento. Ahora, si el código no existe, Excel te muestra el error numeral N barra A, que es mucho mejor que un precio inventado. Y si tienes Microsoft trescientos sesenta y cinco, usa BUSCARX, que busca la coincidencia exacta por defecto, y además te deja escribir un mensaje como \"no existe\".",
+  "modelo": "eleven_v3",
+  "duracion": 29.92,
+  "palabras": [
+    {
+      "texto": "La",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "solución:",
+      "inicio": 0.14,
+      "fin": 0.8
+    },
+    {
+      "texto": "escribe",
+      "inicio": 1.04,
+      "fin": 1.76
+    },
+    {
+      "texto": "siempre",
+      "inicio": 1.83,
+      "fin": 2.32
+    },
+    {
+      "texto": "FALSO",
+      "inicio": 2.56,
+      "fin": 3.28
+    },
+    {
+      "texto": "como",
+      "inicio": 3.36,
+      "fin": 3.68
+    },
+    {
+      "texto": "cuarto",
+      "inicio": 3.733,
+      "fin": 4.08
+    },
+    {
+      "texto": "argumento.",
+      "inicio": 4.142,
+      "fin": 4.88
+    },
+    {
+      "texto": "Ahora,",
+      "inicio": 5.173,
+      "fin": 6.4
+    },
+    {
+      "texto": "si",
+      "inicio": 6.453,
+      "fin": 6.56
+    },
+    {
+      "texto": "el",
+      "inicio": 6.587,
+      "fin": 6.64
+    },
+    {
+      "texto": "código",
+      "inicio": 6.709,
+      "fin": 7.12
+    },
+    {
+      "texto": "no",
+      "inicio": 7.173,
+      "fin": 7.28
+    },
+    {
+      "texto": "existe,",
+      "inicio": 7.371,
+      "fin": 8.4
+    },
+    {
+      "texto": "Excel",
+      "inicio": 8.467,
+      "fin": 8.8
+    },
+    {
+      "texto": "te",
+      "inicio": 8.853,
+      "fin": 8.96
+    },
+    {
+      "texto": "muestra",
+      "inicio": 9.01,
+      "fin": 9.36
+    },
+    {
+      "texto": "el",
+      "inicio": 9.387,
+      "fin": 9.44
+    },
+    {
+      "texto": "error",
+      "inicio": 9.493,
+      "fin": 9.76
+    },
+    {
+      "texto": "numeral",
+      "inicio": 9.82,
+      "fin": 10.24
+    },
+    {
+      "texto": "N",
+      "inicio": 10.52,
+      "fin": 10.8
+    },
+    {
+      "texto": "barra",
+      "inicio": 10.88,
+      "fin": 11.2
+    },
+    {
+      "texto": "A,",
+      "inicio": 11.4,
+      "fin": 11.76
+    },
+    {
+      "texto": "que",
+      "inicio": 11.9,
+      "fin": 12.32
+    },
+    {
+      "texto": "es",
+      "inicio": 12.373,
+      "fin": 12.48
+    },
+    {
+      "texto": "mucho",
+      "inicio": 12.547,
+      "fin": 12.88
+    },
+    {
+      "texto": "mejor",
+      "inicio": 12.947,
+      "fin": 13.28
+    },
+    {
+      "texto": "que",
+      "inicio": 13.34,
+      "fin": 13.52
+    },
+    {
+      "texto": "un",
+      "inicio": 13.547,
+      "fin": 13.6
+    },
+    {
+      "texto": "precio",
+      "inicio": 13.657,
+      "fin": 14.0
+    },
+    {
+      "texto": "inventado.",
+      "inicio": 14.057,
+      "fin": 14.96
+    },
+    {
+      "texto": "Y",
+      "inicio": 15.36,
+      "fin": 15.76
+    },
+    {
+      "texto": "si",
+      "inicio": 15.787,
+      "fin": 15.84
+    },
+    {
+      "texto": "tienes",
+      "inicio": 15.897,
+      "fin": 16.24
+    },
+    {
+      "texto": "Microsoft",
+      "inicio": 16.296,
+      "fin": 16.8
+    },
+    {
+      "texto": "trescientos",
+      "inicio": 16.864,
+      "fin": 17.36
+    },
+    {
+      "texto": "sesenta",
+      "inicio": 17.4,
+      "fin": 17.76
+    },
+    {
+      "texto": "y",
+      "inicio": 17.8,
+      "fin": 17.84
+    },
+    {
+      "texto": "cinco,",
+      "inicio": 17.92,
+      "fin": 18.76
+    },
+    {
+      "texto": "usa",
+      "inicio": 18.87,
+      "fin": 19.2
+    },
+    {
+      "texto": "BUSCARX,",
+      "inicio": 19.34,
+      "fin": 21.28
+    },
+    {
+      "texto": "que",
+      "inicio": 21.32,
+      "fin": 21.44
+    },
+    {
+      "texto": "busca",
+      "inicio": 21.493,
+      "fin": 21.76
+    },
+    {
+      "texto": "la",
+      "inicio": 21.787,
+      "fin": 21.84
+    },
+    {
+      "texto": "coincidencia",
+      "inicio": 21.893,
+      "fin": 22.56
+    },
+    {
+      "texto": "exacta",
+      "inicio": 22.64,
+      "fin": 23.12
+    },
+    {
+      "texto": "por",
+      "inicio": 23.16,
+      "fin": 23.28
+    },
+    {
+      "texto": "defecto,",
+      "inicio": 23.36,
+      "fin": 24.48
+    },
+    {
+      "texto": "y",
+      "inicio": 24.52,
+      "fin": 24.56
+    },
+    {
+      "texto": "además",
+      "inicio": 24.629,
+      "fin": 25.04
+    },
+    {
+      "texto": "te",
+      "inicio": 25.12,
+      "fin": 25.28
+    },
+    {
+      "texto": "deja",
+      "inicio": 25.328,
+      "fin": 25.52
+    },
+    {
+      "texto": "escribir",
+      "inicio": 25.56,
+      "fin": 25.84
+    },
+    {
+      "texto": "un",
+      "inicio": 25.893,
+      "fin": 26.0
+    },
+    {
+      "texto": "mensaje",
+      "inicio": 26.07,
+      "fin": 26.56
+    },
+    {
+      "texto": "como",
+      "inicio": 26.64,
+      "fin": 26.96
+    },
+    {
+      "texto": "\"no",
+      "inicio": 27.24,
+      "fin": 27.6
+    },
+    {
+      "texto": "existe\".",
+      "inicio": 27.68,
+      "fin": 29.92
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "num": "02",
+  "titulo": "Presentación",
+  "texto": "¡Bienvenidos, amigos del canal! Vamos en busca del poder tecnológico. Hoy te enseño AGRUPARPOR y su hermana PIVOTARPOR, dos funciones que hacen resúmenes como una tabla dinámica, pero con una fórmula. Te muestro cómo ordenar, filtrar, poner encabezados, y cuándo te conviene más la tabla dinámica de toda la vida.",
+  "texto_tts": "[excited] ¡Bienvenidos, amigos del canal! Vamos en busca del poder tecnológico. Hoy te enseño AGRUPARPOR y su hermana PIVOTARPOR, dos funciones que hacen resúmenes como una tabla dinámica, pero con una fórmula. Te muestro cómo ordenar, filtrar, poner encabezados, y cuándo te conviene más la tabla dinámica de toda la vida.",
+  "modelo": "eleven_v3",
+  "duracion": 25.2,
+  "palabras": [
+    {
+      "texto": "¡Bienvenidos,",
+      "inicio": 0.072,
+      "fin": 1.0
+    },
+    {
+      "texto": "amigos",
+      "inicio": 1.029,
+      "fin": 1.2
+    },
+    {
+      "texto": "del",
+      "inicio": 1.24,
+      "fin": 1.36
+    },
+    {
+      "texto": "canal!",
+      "inicio": 1.44,
+      "fin": 2.24
+    },
+    {
+      "texto": "Vamos",
+      "inicio": 2.32,
+      "fin": 2.56
+    },
+    {
+      "texto": "en",
+      "inicio": 2.613,
+      "fin": 2.72
+    },
+    {
+      "texto": "busca",
+      "inicio": 2.8,
+      "fin": 3.2
+    },
+    {
+      "texto": "del",
+      "inicio": 3.3,
+      "fin": 3.6
+    },
+    {
+      "texto": "poder",
+      "inicio": 3.693,
+      "fin": 4.16
+    },
+    {
+      "texto": "tecnológico.",
+      "inicio": 4.224,
+      "fin": 5.2
+    },
+    {
+      "texto": "Hoy",
+      "inicio": 5.34,
+      "fin": 5.76
+    },
+    {
+      "texto": "te",
+      "inicio": 5.813,
+      "fin": 5.92
+    },
+    {
+      "texto": "enseño",
+      "inicio": 6.0,
+      "fin": 6.56
+    },
+    {
+      "texto": "AGRUPARPOR",
+      "inicio": 6.76,
+      "fin": 7.92
+    },
+    {
+      "texto": "y",
+      "inicio": 8.0,
+      "fin": 8.08
+    },
+    {
+      "texto": "su",
+      "inicio": 8.133,
+      "fin": 8.24
+    },
+    {
+      "texto": "hermana",
+      "inicio": 8.28,
+      "fin": 8.72
+    },
+    {
+      "texto": "PIVOTARPOR,",
+      "inicio": 8.88,
+      "fin": 10.56
+    },
+    {
+      "texto": "dos",
+      "inicio": 10.6,
+      "fin": 10.72
+    },
+    {
+      "texto": "funciones",
+      "inicio": 10.792,
+      "fin": 11.44
+    },
+    {
+      "texto": "que",
+      "inicio": 11.5,
+      "fin": 11.68
+    },
+    {
+      "texto": "hacen",
+      "inicio": 11.747,
+      "fin": 12.08
+    },
+    {
+      "texto": "resúmenes",
+      "inicio": 12.18,
+      "fin": 12.96
+    },
+    {
+      "texto": "como",
+      "inicio": 13.04,
+      "fin": 13.36
+    },
+    {
+      "texto": "una",
+      "inicio": 13.42,
+      "fin": 13.6
+    },
+    {
+      "texto": "tabla",
+      "inicio": 13.653,
+      "fin": 13.92
+    },
+    {
+      "texto": "dinámica,",
+      "inicio": 13.98,
+      "fin": 14.96
+    },
+    {
+      "texto": "pero",
+      "inicio": 15.024,
+      "fin": 15.28
+    },
+    {
+      "texto": "con",
+      "inicio": 15.36,
+      "fin": 15.6
+    },
+    {
+      "texto": "una",
+      "inicio": 15.66,
+      "fin": 15.84
+    },
+    {
+      "texto": "fórmula.",
+      "inicio": 15.92,
+      "fin": 16.72
+    },
+    {
+      "texto": "Te",
+      "inicio": 16.8,
+      "fin": 16.96
+    },
+    {
+      "texto": "muestro",
+      "inicio": 17.0,
+      "fin": 17.44
+    },
+    {
+      "texto": "cómo",
+      "inicio": 17.472,
+      "fin": 17.6
+    },
+    {
+      "texto": "ordenar,",
+      "inicio": 17.667,
+      "fin": 18.4
+    },
+    {
+      "texto": "filtrar,",
+      "inicio": 18.48,
+      "fin": 19.2
+    },
+    {
+      "texto": "poner",
+      "inicio": 19.253,
+      "fin": 19.52
+    },
+    {
+      "texto": "encabezados,",
+      "inicio": 19.58,
+      "fin": 20.56
+    },
+    {
+      "texto": "y",
+      "inicio": 20.76,
+      "fin": 20.96
+    },
+    {
+      "texto": "cuándo",
+      "inicio": 21.04,
+      "fin": 21.44
+    },
+    {
+      "texto": "te",
+      "inicio": 21.467,
+      "fin": 21.52
+    },
+    {
+      "texto": "conviene",
+      "inicio": 21.584,
+      "fin": 22.0
+    },
+    {
+      "texto": "más",
+      "inicio": 22.08,
+      "fin": 22.32
+    },
+    {
+      "texto": "la",
+      "inicio": 22.453,
+      "fin": 22.72
+    },
+    {
+      "texto": "tabla",
+      "inicio": 22.787,
+      "fin": 23.12
+    },
+    {
+      "texto": "dinámica",
+      "inicio": 23.18,
+      "fin": 23.84
+    },
+    {
+      "texto": "de",
+      "inicio": 23.947,
+      "fin": 24.16
+    },
+    {
+      "texto": "toda",
+      "inicio": 24.24,
+      "fin": 24.56
+    },
+    {
+      "texto": "la",
+      "inicio": 24.587,
+      "fin": 24.64
+    },
+    {
+      "texto": "vida.",
+      "inicio": 24.72,
+      "fin": 25.2
+    }
+  ]
+}

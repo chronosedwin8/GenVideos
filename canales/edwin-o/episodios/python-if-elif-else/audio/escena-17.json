@@ -1,0 +1,260 @@
+{
+  "num": "17",
+  "titulo": "Tu reto",
+  "texto": "Ahora te toca a ti. El reto: escribe un programa que pida una nota de cero a cien. Si es noventa o más, que diga \"Excelente\". Si es sesenta o más, \"Aprobado\". Y si no, \"Reprobado\". Pista: el orden importa. Déjame tu código en los comentarios, y reviso los primeros.",
+  "texto_tts": "Ahora te toca a ti. El reto: escribe un programa que pida una nota de cero a cien. Si es noventa o más, que diga \"Excelente\". Si es sesenta o más, \"Aprobado\". Y si no, \"Reprobado\". Pista: el orden importa. Déjame tu código en los comentarios, y reviso los primeros.",
+  "modelo": "eleven_v3",
+  "duracion": 19.92,
+  "palabras": [
+    {
+      "texto": "Ahora",
+      "inicio": 0.0,
+      "fin": 0.16
+    },
+    {
+      "texto": "te",
+      "inicio": 0.213,
+      "fin": 0.32
+    },
+    {
+      "texto": "toca",
+      "inicio": 0.373,
+      "fin": 0.56
+    },
+    {
+      "texto": "a",
+      "inicio": 0.64,
+      "fin": 0.72
+    },
+    {
+      "texto": "ti.",
+      "inicio": 0.773,
+      "fin": 0.96
+    },
+    {
+      "texto": "El",
+      "inicio": 1.253,
+      "fin": 1.84
+    },
+    {
+      "texto": "reto:",
+      "inicio": 1.893,
+      "fin": 2.48
+    },
+    {
+      "texto": "escribe",
+      "inicio": 2.56,
+      "fin": 2.96
+    },
+    {
+      "texto": "un",
+      "inicio": 2.987,
+      "fin": 3.04
+    },
+    {
+      "texto": "programa",
+      "inicio": 3.093,
+      "fin": 3.52
+    },
+    {
+      "texto": "que",
+      "inicio": 3.56,
+      "fin": 3.68
+    },
+    {
+      "texto": "pida",
+      "inicio": 3.72,
+      "fin": 3.92
+    },
+    {
+      "texto": "una",
+      "inicio": 3.96,
+      "fin": 4.08
+    },
+    {
+      "texto": "nota",
+      "inicio": 4.144,
+      "fin": 4.4
+    },
+    {
+      "texto": "de",
+      "inicio": 4.453,
+      "fin": 4.56
+    },
+    {
+      "texto": "cero",
+      "inicio": 4.6,
+      "fin": 4.72
+    },
+    {
+      "texto": "a",
+      "inicio": 4.8,
+      "fin": 4.88
+    },
+    {
+      "texto": "cien.",
+      "inicio": 4.92,
+      "fin": 5.52
+    },
+    {
+      "texto": "Si",
+      "inicio": 5.627,
+      "fin": 5.84
+    },
+    {
+      "texto": "es",
+      "inicio": 5.893,
+      "fin": 6.0
+    },
+    {
+      "texto": "noventa",
+      "inicio": 6.053,
+      "fin": 6.4
+    },
+    {
+      "texto": "o",
+      "inicio": 6.48,
+      "fin": 6.56
+    },
+    {
+      "texto": "más,",
+      "inicio": 6.62,
+      "fin": 6.96
+    },
+    {
+      "texto": "que",
+      "inicio": 6.98,
+      "fin": 7.04
+    },
+    {
+      "texto": "diga",
+      "inicio": 7.08,
+      "fin": 7.28
+    },
+    {
+      "texto": "\"Excelente\".",
+      "inicio": 7.4,
+      "fin": 8.4
+    },
+    {
+      "texto": "Si",
+      "inicio": 8.56,
+      "fin": 8.88
+    },
+    {
+      "texto": "es",
+      "inicio": 8.907,
+      "fin": 8.96
+    },
+    {
+      "texto": "sesenta",
+      "inicio": 9.02,
+      "fin": 9.44
+    },
+    {
+      "texto": "o",
+      "inicio": 9.52,
+      "fin": 9.6
+    },
+    {
+      "texto": "más,",
+      "inicio": 9.66,
+      "fin": 9.92
+    },
+    {
+      "texto": "\"Aprobado\".",
+      "inicio": 10.0,
+      "fin": 10.8
+    },
+    {
+      "texto": "Y",
+      "inicio": 10.92,
+      "fin": 11.04
+    },
+    {
+      "texto": "si",
+      "inicio": 11.093,
+      "fin": 11.2
+    },
+    {
+      "texto": "no,",
+      "inicio": 11.253,
+      "fin": 11.6
+    },
+    {
+      "texto": "\"Reprobado\".",
+      "inicio": 11.68,
+      "fin": 12.64
+    },
+    {
+      "texto": "Pista:",
+      "inicio": 12.96,
+      "fin": 13.84
+    },
+    {
+      "texto": "el",
+      "inicio": 13.973,
+      "fin": 14.24
+    },
+    {
+      "texto": "orden",
+      "inicio": 14.307,
+      "fin": 14.64
+    },
+    {
+      "texto": "importa.",
+      "inicio": 14.743,
+      "fin": 15.6
+    },
+    {
+      "texto": "Déjame",
+      "inicio": 15.947,
+      "fin": 16.8
+    },
+    {
+      "texto": "tu",
+      "inicio": 16.853,
+      "fin": 16.96
+    },
+    {
+      "texto": "código",
+      "inicio": 17.017,
+      "fin": 17.36
+    },
+    {
+      "texto": "en",
+      "inicio": 17.387,
+      "fin": 17.44
+    },
+    {
+      "texto": "los",
+      "inicio": 17.46,
+      "fin": 17.52
+    },
+    {
+      "texto": "comentarios,",
+      "inicio": 17.58,
+      "fin": 18.32
+    },
+    {
+      "texto": "y",
+      "inicio": 18.44,
+      "fin": 18.56
+    },
+    {
+      "texto": "reviso",
+      "inicio": 18.627,
+      "fin": 19.04
+    },
+    {
+      "texto": "los",
+      "inicio": 19.06,
+      "fin": 19.12
+    },
+    {
+      "texto": "primeros.",
+      "inicio": 19.166,
+      "fin": 19.92
+    }
+  ]
+}

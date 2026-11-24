@@ -51,4 +51,10 @@ canales/<canal>/backlog.csv
 - `scripts/youtube_publicar.py`: YouTube Data API v3 (conectar, estado, publicar, subir). Tokens en `secretos/`.
 - **Remotion** en `video/` (componentes comunes en `video/src/comun/`, tema por canal en `video/src/<canal>/`).
   Si no existe: `npx create-video@latest video` (blank, TypeScript).
+  Episodios con el **motor declarativo** (`video/src/comun/Motor.tsx`): un archivo de datos por video en
+  `video/src/<canal>/episodios/<slug>.ts`, registrado en `index.ts`. Ver la skill `construir-escenas`.
+  `cd video && npm run validar` comprueba que cada palabra clave exista en el audio.
+- `scripts/render_episodio.py <canal> <slug> <Id> [--muestras s1 s2 …] [--solo video|shorts|miniatura]`: copia el audio,
+  valida y renderiza video, Shorts y miniatura (los mp4 no se suben a git).
+- `scripts/generar_publicacion.py <canal> <slug>`: crea `publicacion.json/.md` desde `datos_publicacion.json` con capítulos reales.
 - Nunca imprimir, mostrar ni commitear claves (`.env`, `secretos/`).

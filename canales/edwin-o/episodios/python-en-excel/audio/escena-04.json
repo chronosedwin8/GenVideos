@@ -1,0 +1,285 @@
+{
+  "num": "04",
+  "titulo": "El aporte de Edwin",
+  "texto": "Te doy mi opinión: para quien ya sabe Excel, esta es la mejor puerta de entrada a Python. No tienes que instalar nada, ni configurar nada, ni pelear con la terminal. Tus datos ya están ahí, en la hoja. Solo escribes, y ves el resultado. Si alguna vez te dio miedo programar, empieza por aquí.",
+  "texto_tts": "Te doy mi opinión: para quien ya sabe Excel, esta es la mejor puerta de entrada a Python. No tienes que instalar nada, ni configurar nada, ni pelear con la terminal. Tus datos ya están ahí, en la hoja. Solo escribes, y ves el resultado. Si alguna vez te dio miedo programar, empieza por aquí.",
+  "modelo": "eleven_v3",
+  "duracion": 20.88,
+  "palabras": [
+    {
+      "texto": "Te",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "doy",
+      "inicio": 0.107,
+      "fin": 0.24
+    },
+    {
+      "texto": "mi",
+      "inicio": 0.267,
+      "fin": 0.32
+    },
+    {
+      "texto": "opinión:",
+      "inicio": 0.368,
+      "fin": 0.88
+    },
+    {
+      "texto": "para",
+      "inicio": 1.072,
+      "fin": 1.84
+    },
+    {
+      "texto": "quien",
+      "inicio": 1.893,
+      "fin": 2.16
+    },
+    {
+      "texto": "ya",
+      "inicio": 2.213,
+      "fin": 2.32
+    },
+    {
+      "texto": "sabe",
+      "inicio": 2.4,
+      "fin": 2.72
+    },
+    {
+      "texto": "Excel,",
+      "inicio": 2.813,
+      "fin": 3.92
+    },
+    {
+      "texto": "esta",
+      "inicio": 3.968,
+      "fin": 4.16
+    },
+    {
+      "texto": "es",
+      "inicio": 4.187,
+      "fin": 4.24
+    },
+    {
+      "texto": "la",
+      "inicio": 4.293,
+      "fin": 4.4
+    },
+    {
+      "texto": "mejor",
+      "inicio": 4.453,
+      "fin": 4.72
+    },
+    {
+      "texto": "puerta",
+      "inicio": 4.773,
+      "fin": 5.12
+    },
+    {
+      "texto": "de",
+      "inicio": 5.147,
+      "fin": 5.2
+    },
+    {
+      "texto": "entrada",
+      "inicio": 5.24,
+      "fin": 5.52
+    },
+    {
+      "texto": "a",
+      "inicio": 5.56,
+      "fin": 5.6
+    },
+    {
+      "texto": "Python.",
+      "inicio": 5.669,
+      "fin": 6.16
+    },
+    {
+      "texto": "No",
+      "inicio": 6.533,
+      "fin": 7.28
+    },
+    {
+      "texto": "tienes",
+      "inicio": 7.314,
+      "fin": 7.52
+    },
+    {
+      "texto": "que",
+      "inicio": 7.54,
+      "fin": 7.6
+    },
+    {
+      "texto": "instalar",
+      "inicio": 7.648,
+      "fin": 8.08
+    },
+    {
+      "texto": "nada,",
+      "inicio": 8.16,
+      "fin": 8.56
+    },
+    {
+      "texto": "ni",
+      "inicio": 8.587,
+      "fin": 8.64
+    },
+    {
+      "texto": "configurar",
+      "inicio": 8.702,
+      "fin": 9.28
+    },
+    {
+      "texto": "nada,",
+      "inicio": 9.36,
+      "fin": 9.76
+    },
+    {
+      "texto": "ni",
+      "inicio": 9.787,
+      "fin": 9.84
+    },
+    {
+      "texto": "pelear",
+      "inicio": 9.893,
+      "fin": 10.16
+    },
+    {
+      "texto": "con",
+      "inicio": 10.2,
+      "fin": 10.32
+    },
+    {
+      "texto": "la",
+      "inicio": 10.347,
+      "fin": 10.4
+    },
+    {
+      "texto": "terminal.",
+      "inicio": 10.471,
+      "fin": 11.28
+    },
+    {
+      "texto": "Tus",
+      "inicio": 11.38,
+      "fin": 11.68
+    },
+    {
+      "texto": "datos",
+      "inicio": 11.747,
+      "fin": 12.08
+    },
+    {
+      "texto": "ya",
+      "inicio": 12.133,
+      "fin": 12.24
+    },
+    {
+      "texto": "están",
+      "inicio": 12.293,
+      "fin": 12.56
+    },
+    {
+      "texto": "ahí,",
+      "inicio": 12.613,
+      "fin": 12.88
+    },
+    {
+      "texto": "en",
+      "inicio": 13.013,
+      "fin": 13.28
+    },
+    {
+      "texto": "la",
+      "inicio": 13.307,
+      "fin": 13.36
+    },
+    {
+      "texto": "hoja.",
+      "inicio": 13.44,
+      "fin": 13.84
+    },
+    {
+      "texto": "Solo",
+      "inicio": 13.984,
+      "fin": 14.56
+    },
+    {
+      "texto": "escribes,",
+      "inicio": 14.613,
+      "fin": 15.4
+    },
+    {
+      "texto": "y",
+      "inicio": 15.5,
+      "fin": 15.6
+    },
+    {
+      "texto": "ves",
+      "inicio": 15.66,
+      "fin": 15.84
+    },
+    {
+      "texto": "el",
+      "inicio": 15.867,
+      "fin": 15.92
+    },
+    {
+      "texto": "resultado.",
+      "inicio": 15.984,
+      "fin": 16.64
+    },
+    {
+      "texto": "Si",
+      "inicio": 16.987,
+      "fin": 17.68
+    },
+    {
+      "texto": "alguna",
+      "inicio": 17.726,
+      "fin": 18.0
+    },
+    {
+      "texto": "vez",
+      "inicio": 18.04,
+      "fin": 18.16
+    },
+    {
+      "texto": "te",
+      "inicio": 18.24,
+      "fin": 18.4
+    },
+    {
+      "texto": "dio",
+      "inicio": 18.44,
+      "fin": 18.56
+    },
+    {
+      "texto": "miedo",
+      "inicio": 18.6,
+      "fin": 18.88
+    },
+    {
+      "texto": "programar,",
+      "inicio": 18.93,
+      "fin": 19.92
+    },
+    {
+      "texto": "empieza",
+      "inicio": 19.98,
+      "fin": 20.32
+    },
+    {
+      "texto": "por",
+      "inicio": 20.36,
+      "fin": 20.48
+    },
+    {
+      "texto": "aquí.",
+      "inicio": 20.528,
+      "fin": 20.88
+    }
+  ]
+}

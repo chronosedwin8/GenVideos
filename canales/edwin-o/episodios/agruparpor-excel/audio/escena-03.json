@@ -1,0 +1,300 @@
+{
+  "num": "03",
+  "titulo": "El caso",
+  "texto": "Estas funciones están dando de qué hablar entre contadores y analistas. En junio de dos mil veinticinco, el Journal of Accountancy, la revista de los contadores públicos de Estados Unidos, publicó un artículo con un título muy directo: \"Dile adiós a las tablas dinámicas\". Exagerado, sí. Pero tiene una parte de razón, y hoy vas a ver cuál.",
+  "texto_tts": "Estas funciones están dando de qué hablar entre contadores y analistas. En junio de dos mil veinticinco, el Journal of Accountancy, la revista de los contadores públicos de Estados Unidos, publicó un artículo con un título muy directo: \"Dile adiós a las tablas dinámicas\". Exagerado, sí. Pero tiene una parte de razón, y hoy vas a ver cuál.",
+  "modelo": "eleven_v3",
+  "duracion": 23.68,
+  "palabras": [
+    {
+      "texto": "Estas",
+      "inicio": 0.0,
+      "fin": 0.24
+    },
+    {
+      "texto": "funciones",
+      "inicio": 0.304,
+      "fin": 0.88
+    },
+    {
+      "texto": "están",
+      "inicio": 0.96,
+      "fin": 1.36
+    },
+    {
+      "texto": "dando",
+      "inicio": 1.413,
+      "fin": 1.68
+    },
+    {
+      "texto": "de",
+      "inicio": 1.707,
+      "fin": 1.76
+    },
+    {
+      "texto": "qué",
+      "inicio": 1.8,
+      "fin": 1.92
+    },
+    {
+      "texto": "hablar",
+      "inicio": 1.977,
+      "fin": 2.32
+    },
+    {
+      "texto": "entre",
+      "inicio": 2.4,
+      "fin": 2.8
+    },
+    {
+      "texto": "contadores",
+      "inicio": 2.864,
+      "fin": 3.6
+    },
+    {
+      "texto": "y",
+      "inicio": 3.68,
+      "fin": 3.76
+    },
+    {
+      "texto": "analistas.",
+      "inicio": 3.824,
+      "fin": 4.56
+    },
+    {
+      "texto": "En",
+      "inicio": 4.907,
+      "fin": 5.6
+    },
+    {
+      "texto": "junio",
+      "inicio": 5.66,
+      "fin": 6.0
+    },
+    {
+      "texto": "de",
+      "inicio": 6.027,
+      "fin": 6.08
+    },
+    {
+      "texto": "dos",
+      "inicio": 6.12,
+      "fin": 6.24
+    },
+    {
+      "texto": "mil",
+      "inicio": 6.28,
+      "fin": 6.4
+    },
+    {
+      "texto": "veinticinco,",
+      "inicio": 6.453,
+      "fin": 7.52
+    },
+    {
+      "texto": "el",
+      "inicio": 7.547,
+      "fin": 7.6
+    },
+    {
+      "texto": "Journal",
+      "inicio": 7.66,
+      "fin": 8.08
+    },
+    {
+      "texto": "of",
+      "inicio": 8.107,
+      "fin": 8.16
+    },
+    {
+      "texto": "Accountancy,",
+      "inicio": 8.22,
+      "fin": 9.2
+    },
+    {
+      "texto": "la",
+      "inicio": 9.227,
+      "fin": 9.28
+    },
+    {
+      "texto": "revista",
+      "inicio": 9.34,
+      "fin": 9.84
+    },
+    {
+      "texto": "de",
+      "inicio": 9.867,
+      "fin": 9.92
+    },
+    {
+      "texto": "los",
+      "inicio": 9.94,
+      "fin": 10.0
+    },
+    {
+      "texto": "contadores",
+      "inicio": 10.064,
+      "fin": 10.56
+    },
+    {
+      "texto": "públicos",
+      "inicio": 10.64,
+      "fin": 11.12
+    },
+    {
+      "texto": "de",
+      "inicio": 11.147,
+      "fin": 11.2
+    },
+    {
+      "texto": "Estados",
+      "inicio": 11.25,
+      "fin": 11.6
+    },
+    {
+      "texto": "Unidos,",
+      "inicio": 11.657,
+      "fin": 12.16
+    },
+    {
+      "texto": "publicó",
+      "inicio": 12.297,
+      "fin": 13.2
+    },
+    {
+      "texto": "un",
+      "inicio": 13.227,
+      "fin": 13.28
+    },
+    {
+      "texto": "artículo",
+      "inicio": 13.342,
+      "fin": 13.84
+    },
+    {
+      "texto": "con",
+      "inicio": 13.88,
+      "fin": 14.0
+    },
+    {
+      "texto": "un",
+      "inicio": 14.053,
+      "fin": 14.16
+    },
+    {
+      "texto": "título",
+      "inicio": 14.217,
+      "fin": 14.56
+    },
+    {
+      "texto": "muy",
+      "inicio": 14.64,
+      "fin": 14.88
+    },
+    {
+      "texto": "directo:",
+      "inicio": 14.937,
+      "fin": 15.44
+    },
+    {
+      "texto": "\"Dile",
+      "inicio": 15.84,
+      "fin": 16.48
+    },
+    {
+      "texto": "adiós",
+      "inicio": 16.533,
+      "fin": 16.88
+    },
+    {
+      "texto": "a",
+      "inicio": 16.96,
+      "fin": 17.04
+    },
+    {
+      "texto": "las",
+      "inicio": 17.08,
+      "fin": 17.2
+    },
+    {
+      "texto": "tablas",
+      "inicio": 17.26,
+      "fin": 17.6
+    },
+    {
+      "texto": "dinámicas\".",
+      "inicio": 17.64,
+      "fin": 18.4
+    },
+    {
+      "texto": "Exagerado,",
+      "inicio": 18.667,
+      "fin": 19.92
+    },
+    {
+      "texto": "sí.",
+      "inicio": 20.0,
+      "fin": 20.24
+    },
+    {
+      "texto": "Pero",
+      "inicio": 20.4,
+      "fin": 21.04
+    },
+    {
+      "texto": "tiene",
+      "inicio": 21.08,
+      "fin": 21.28
+    },
+    {
+      "texto": "una",
+      "inicio": 21.32,
+      "fin": 21.44
+    },
+    {
+      "texto": "parte",
+      "inicio": 21.493,
+      "fin": 21.76
+    },
+    {
+      "texto": "de",
+      "inicio": 21.813,
+      "fin": 21.92
+    },
+    {
+      "texto": "razón,",
+      "inicio": 21.98,
+      "fin": 22.4
+    },
+    {
+      "texto": "y",
+      "inicio": 22.56,
+      "fin": 22.72
+    },
+    {
+      "texto": "hoy",
+      "inicio": 22.76,
+      "fin": 22.88
+    },
+    {
+      "texto": "vas",
+      "inicio": 22.92,
+      "fin": 23.04
+    },
+    {
+      "texto": "a",
+      "inicio": 23.08,
+      "fin": 23.12
+    },
+    {
+      "texto": "ver",
+      "inicio": 23.16,
+      "fin": 23.28
+    },
+    {
+      "texto": "cuál.",
+      "inicio": 23.333,
+      "fin": 23.68
+    }
+  ]
+}

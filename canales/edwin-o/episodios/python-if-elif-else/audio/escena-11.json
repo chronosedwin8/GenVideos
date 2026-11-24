@@ -1,0 +1,430 @@
+{
+  "num": "11",
+  "titulo": "El orden importa",
+  "texto": "Ahora, un error que cuesta dinero. ¿Qué pasa si pongo primero la condición de mil, y después la de cinco mil? Ejecuto con siete mil doscientos y… doscientos dieciséis. ¡Le pagué el tres por ciento en vez del cinco! Python revisa las condiciones de arriba hacia abajo, y se detiene en la primera que es verdadera. Siete mil doscientos es mayor que mil, así que nunca llega a preguntar por cinco mil. Regla de oro: de la condición más exigente a la menos exigente.",
+  "texto_tts": "Ahora, un error que cuesta dinero. ¿Qué pasa si pongo primero la condición de mil, y después la de cinco mil? Ejecuto con siete mil doscientos y… doscientos dieciséis. ¡Le pagué el tres por ciento en vez del cinco! Python revisa las condiciones de arriba hacia abajo, y se detiene en la primera que es verdadera. Siete mil doscientos es mayor que mil, así que nunca llega a preguntar por cinco mil. Regla de oro: de la condición más exigente a la menos exigente.",
+  "modelo": "eleven_v3",
+  "duracion": 35.04,
+  "palabras": [
+    {
+      "texto": "Ahora,",
+      "inicio": 0.0,
+      "fin": 0.4
+    },
+    {
+      "texto": "un",
+      "inicio": 0.427,
+      "fin": 0.48
+    },
+    {
+      "texto": "error",
+      "inicio": 0.533,
+      "fin": 0.8
+    },
+    {
+      "texto": "que",
+      "inicio": 0.84,
+      "fin": 0.96
+    },
+    {
+      "texto": "cuesta",
+      "inicio": 1.0,
+      "fin": 1.36
+    },
+    {
+      "texto": "dinero.",
+      "inicio": 1.429,
+      "fin": 1.92
+    },
+    {
+      "texto": "¿Qué",
+      "inicio": 2.32,
+      "fin": 2.8
+    },
+    {
+      "texto": "pasa",
+      "inicio": 2.848,
+      "fin": 3.04
+    },
+    {
+      "texto": "si",
+      "inicio": 3.093,
+      "fin": 3.2
+    },
+    {
+      "texto": "pongo",
+      "inicio": 3.28,
+      "fin": 3.6
+    },
+    {
+      "texto": "primero",
+      "inicio": 3.65,
+      "fin": 4.0
+    },
+    {
+      "texto": "la",
+      "inicio": 4.053,
+      "fin": 4.16
+    },
+    {
+      "texto": "condición",
+      "inicio": 4.208,
+      "fin": 4.72
+    },
+    {
+      "texto": "de",
+      "inicio": 4.747,
+      "fin": 4.8
+    },
+    {
+      "texto": "mil,",
+      "inicio": 4.9,
+      "fin": 5.36
+    },
+    {
+      "texto": "y",
+      "inicio": 5.76,
+      "fin": 6.16
+    },
+    {
+      "texto": "después",
+      "inicio": 6.21,
+      "fin": 6.56
+    },
+    {
+      "texto": "la",
+      "inicio": 6.587,
+      "fin": 6.64
+    },
+    {
+      "texto": "de",
+      "inicio": 6.693,
+      "fin": 6.8
+    },
+    {
+      "texto": "cinco",
+      "inicio": 6.84,
+      "fin": 7.04
+    },
+    {
+      "texto": "mil?",
+      "inicio": 7.14,
+      "fin": 7.6
+    },
+    {
+      "texto": "Ejecuto",
+      "inicio": 7.84,
+      "fin": 8.72
+    },
+    {
+      "texto": "con",
+      "inicio": 8.78,
+      "fin": 8.96
+    },
+    {
+      "texto": "siete",
+      "inicio": 9.04,
+      "fin": 9.28
+    },
+    {
+      "texto": "mil",
+      "inicio": 9.32,
+      "fin": 9.44
+    },
+    {
+      "texto": "doscientos",
+      "inicio": 9.52,
+      "fin": 10.48
+    },
+    {
+      "texto": "y…",
+      "inicio": 10.84,
+      "fin": 11.28
+    },
+    {
+      "texto": "doscientos",
+      "inicio": 11.56,
+      "fin": 12.76
+    },
+    {
+      "texto": "dieciséis.",
+      "inicio": 12.79,
+      "fin": 13.6
+    },
+    {
+      "texto": "¡Le",
+      "inicio": 13.92,
+      "fin": 14.32
+    },
+    {
+      "texto": "pagué",
+      "inicio": 14.36,
+      "fin": 14.56
+    },
+    {
+      "texto": "el",
+      "inicio": 14.587,
+      "fin": 14.64
+    },
+    {
+      "texto": "tres",
+      "inicio": 14.688,
+      "fin": 14.88
+    },
+    {
+      "texto": "por",
+      "inicio": 14.92,
+      "fin": 15.04
+    },
+    {
+      "texto": "ciento",
+      "inicio": 15.12,
+      "fin": 15.36
+    },
+    {
+      "texto": "en",
+      "inicio": 15.413,
+      "fin": 15.52
+    },
+    {
+      "texto": "vez",
+      "inicio": 15.56,
+      "fin": 15.68
+    },
+    {
+      "texto": "del",
+      "inicio": 15.72,
+      "fin": 15.84
+    },
+    {
+      "texto": "cinco!",
+      "inicio": 15.92,
+      "fin": 16.4
+    },
+    {
+      "texto": "Python",
+      "inicio": 16.617,
+      "fin": 17.92
+    },
+    {
+      "texto": "revisa",
+      "inicio": 17.987,
+      "fin": 18.4
+    },
+    {
+      "texto": "las",
+      "inicio": 18.48,
+      "fin": 18.72
+    },
+    {
+      "texto": "condiciones",
+      "inicio": 18.773,
+      "fin": 19.36
+    },
+    {
+      "texto": "de",
+      "inicio": 19.387,
+      "fin": 19.44
+    },
+    {
+      "texto": "arriba",
+      "inicio": 19.493,
+      "fin": 19.76
+    },
+    {
+      "texto": "hacia",
+      "inicio": 19.8,
+      "fin": 20.0
+    },
+    {
+      "texto": "abajo,",
+      "inicio": 20.027,
+      "fin": 20.48
+    },
+    {
+      "texto": "y",
+      "inicio": 20.8,
+      "fin": 21.12
+    },
+    {
+      "texto": "se",
+      "inicio": 21.173,
+      "fin": 21.28
+    },
+    {
+      "texto": "detiene",
+      "inicio": 21.32,
+      "fin": 21.6
+    },
+    {
+      "texto": "en",
+      "inicio": 21.627,
+      "fin": 21.68
+    },
+    {
+      "texto": "la",
+      "inicio": 21.707,
+      "fin": 21.76
+    },
+    {
+      "texto": "primera",
+      "inicio": 21.81,
+      "fin": 22.16
+    },
+    {
+      "texto": "que",
+      "inicio": 22.18,
+      "fin": 22.24
+    },
+    {
+      "texto": "es",
+      "inicio": 22.293,
+      "fin": 22.4
+    },
+    {
+      "texto": "verdadera.",
+      "inicio": 22.432,
+      "fin": 23.12
+    },
+    {
+      "texto": "Siete",
+      "inicio": 23.36,
+      "fin": 23.76
+    },
+    {
+      "texto": "mil",
+      "inicio": 23.8,
+      "fin": 23.92
+    },
+    {
+      "texto": "doscientos",
+      "inicio": 24.0,
+      "fin": 24.56
+    },
+    {
+      "texto": "es",
+      "inicio": 24.667,
+      "fin": 24.88
+    },
+    {
+      "texto": "mayor",
+      "inicio": 24.92,
+      "fin": 25.12
+    },
+    {
+      "texto": "que",
+      "inicio": 25.18,
+      "fin": 25.36
+    },
+    {
+      "texto": "mil,",
+      "inicio": 25.44,
+      "fin": 26.32
+    },
+    {
+      "texto": "así",
+      "inicio": 26.38,
+      "fin": 26.56
+    },
+    {
+      "texto": "que",
+      "inicio": 26.6,
+      "fin": 26.72
+    },
+    {
+      "texto": "nunca",
+      "inicio": 26.773,
+      "fin": 27.04
+    },
+    {
+      "texto": "llega",
+      "inicio": 27.088,
+      "fin": 27.32
+    },
+    {
+      "texto": "a",
+      "inicio": 27.34,
+      "fin": 27.36
+    },
+    {
+      "texto": "preguntar",
+      "inicio": 27.408,
+      "fin": 27.92
+    },
+    {
+      "texto": "por",
+      "inicio": 27.98,
+      "fin": 28.16
+    },
+    {
+      "texto": "cinco",
+      "inicio": 28.213,
+      "fin": 28.48
+    },
+    {
+      "texto": "mil.",
+      "inicio": 28.56,
+      "fin": 28.88
+    },
+    {
+      "texto": "Regla",
+      "inicio": 29.14,
+      "fin": 30.0
+    },
+    {
+      "texto": "de",
+      "inicio": 30.053,
+      "fin": 30.16
+    },
+    {
+      "texto": "oro:",
+      "inicio": 30.22,
+      "fin": 30.48
+    },
+    {
+      "texto": "de",
+      "inicio": 30.667,
+      "fin": 31.04
+    },
+    {
+      "texto": "la",
+      "inicio": 31.067,
+      "fin": 31.12
+    },
+    {
+      "texto": "condición",
+      "inicio": 31.184,
+      "fin": 31.76
+    },
+    {
+      "texto": "más",
+      "inicio": 31.86,
+      "fin": 32.16
+    },
+    {
+      "texto": "exigente",
+      "inicio": 32.256,
+      "fin": 33.04
+    },
+    {
+      "texto": "a",
+      "inicio": 33.32,
+      "fin": 33.6
+    },
+    {
+      "texto": "la",
+      "inicio": 33.653,
+      "fin": 33.76
+    },
+    {
+      "texto": "menos",
+      "inicio": 33.813,
+      "fin": 34.08
+    },
+    {
+      "texto": "exigente.",
+      "inicio": 34.176,
+      "fin": 35.04
+    }
+  ]
+}

@@ -1,0 +1,315 @@
+{
+  "num": "10",
+  "titulo": "Lo que NO cambió",
+  "texto": "Ahora, lo que no cambió: la IA se equivoca. En la encuesta de Stack Overflow de dos mil veinticinco, el cuarenta y seis por ciento de los desarrolladores dijo que desconfía de la precisión de la IA. Y la queja número uno fueron las respuestas casi correctas. Casi correctas. En una hoja de nómina, casi correcto significa que alguien cobra mal.",
+  "texto_tts": "Ahora, lo que no cambió: la IA se equivoca. En la encuesta de Stack Overflow de dos mil veinticinco, el cuarenta y seis por ciento de los desarrolladores dijo que desconfía de la precisión de la IA. Y la queja número uno fueron las respuestas casi correctas. Casi correctas. En una hoja de nómina, casi correcto significa que alguien cobra mal.",
+  "modelo": "eleven_v3",
+  "duracion": 28.72,
+  "palabras": [
+    {
+      "texto": "Ahora,",
+      "inicio": 0.0,
+      "fin": 0.4
+    },
+    {
+      "texto": "lo",
+      "inicio": 0.453,
+      "fin": 0.56
+    },
+    {
+      "texto": "que",
+      "inicio": 0.6,
+      "fin": 0.72
+    },
+    {
+      "texto": "no",
+      "inicio": 0.747,
+      "fin": 0.8
+    },
+    {
+      "texto": "cambió:",
+      "inicio": 0.848,
+      "fin": 1.36
+    },
+    {
+      "texto": "la",
+      "inicio": 1.707,
+      "fin": 2.4
+    },
+    {
+      "texto": "IA",
+      "inicio": 2.56,
+      "fin": 2.88
+    },
+    {
+      "texto": "se",
+      "inicio": 3.067,
+      "fin": 3.44
+    },
+    {
+      "texto": "equivoca.",
+      "inicio": 3.493,
+      "fin": 4.24
+    },
+    {
+      "texto": "En",
+      "inicio": 4.613,
+      "fin": 5.36
+    },
+    {
+      "texto": "la",
+      "inicio": 5.387,
+      "fin": 5.44
+    },
+    {
+      "texto": "encuesta",
+      "inicio": 5.5,
+      "fin": 6.0
+    },
+    {
+      "texto": "de",
+      "inicio": 6.053,
+      "fin": 6.16
+    },
+    {
+      "texto": "Stack",
+      "inicio": 6.24,
+      "fin": 6.64
+    },
+    {
+      "texto": "Overflow",
+      "inicio": 6.702,
+      "fin": 7.2
+    },
+    {
+      "texto": "de",
+      "inicio": 7.227,
+      "fin": 7.28
+    },
+    {
+      "texto": "dos",
+      "inicio": 7.32,
+      "fin": 7.44
+    },
+    {
+      "texto": "mil",
+      "inicio": 7.48,
+      "fin": 7.6
+    },
+    {
+      "texto": "veinticinco,",
+      "inicio": 7.627,
+      "fin": 8.72
+    },
+    {
+      "texto": "el",
+      "inicio": 8.827,
+      "fin": 9.04
+    },
+    {
+      "texto": "cuarenta",
+      "inicio": 9.093,
+      "fin": 9.56
+    },
+    {
+      "texto": "y",
+      "inicio": 9.58,
+      "fin": 9.6
+    },
+    {
+      "texto": "seis",
+      "inicio": 9.664,
+      "fin": 9.92
+    },
+    {
+      "texto": "por",
+      "inicio": 9.98,
+      "fin": 10.16
+    },
+    {
+      "texto": "ciento",
+      "inicio": 10.2,
+      "fin": 10.48
+    },
+    {
+      "texto": "de",
+      "inicio": 10.507,
+      "fin": 10.56
+    },
+    {
+      "texto": "los",
+      "inicio": 10.58,
+      "fin": 10.64
+    },
+    {
+      "texto": "desarrolladores",
+      "inicio": 10.696,
+      "fin": 11.76
+    },
+    {
+      "texto": "dijo",
+      "inicio": 11.856,
+      "fin": 12.24
+    },
+    {
+      "texto": "que",
+      "inicio": 12.3,
+      "fin": 12.48
+    },
+    {
+      "texto": "desconfía",
+      "inicio": 12.58,
+      "fin": 13.52
+    },
+    {
+      "texto": "de",
+      "inicio": 13.627,
+      "fin": 13.84
+    },
+    {
+      "texto": "la",
+      "inicio": 13.893,
+      "fin": 14.0
+    },
+    {
+      "texto": "precisión",
+      "inicio": 14.057,
+      "fin": 14.48
+    },
+    {
+      "texto": "de",
+      "inicio": 14.533,
+      "fin": 14.64
+    },
+    {
+      "texto": "la",
+      "inicio": 14.667,
+      "fin": 14.72
+    },
+    {
+      "texto": "IA.",
+      "inicio": 14.853,
+      "fin": 15.2
+    },
+    {
+      "texto": "Y",
+      "inicio": 15.56,
+      "fin": 15.92
+    },
+    {
+      "texto": "la",
+      "inicio": 15.973,
+      "fin": 16.08
+    },
+    {
+      "texto": "queja",
+      "inicio": 16.14,
+      "fin": 16.48
+    },
+    {
+      "texto": "número",
+      "inicio": 16.537,
+      "fin": 16.88
+    },
+    {
+      "texto": "uno",
+      "inicio": 16.96,
+      "fin": 17.2
+    },
+    {
+      "texto": "fueron",
+      "inicio": 17.303,
+      "fin": 17.92
+    },
+    {
+      "texto": "las",
+      "inicio": 17.94,
+      "fin": 18.0
+    },
+    {
+      "texto": "respuestas",
+      "inicio": 18.064,
+      "fin": 18.88
+    },
+    {
+      "texto": "casi",
+      "inicio": 19.024,
+      "fin": 19.6
+    },
+    {
+      "texto": "correctas.",
+      "inicio": 19.7,
+      "fin": 20.72
+    },
+    {
+      "texto": "Casi",
+      "inicio": 21.28,
+      "fin": 22.16
+    },
+    {
+      "texto": "correctas.",
+      "inicio": 22.24,
+      "fin": 23.04
+    },
+    {
+      "texto": "En",
+      "inicio": 23.227,
+      "fin": 23.6
+    },
+    {
+      "texto": "una",
+      "inicio": 23.64,
+      "fin": 23.76
+    },
+    {
+      "texto": "hoja",
+      "inicio": 23.813,
+      "fin": 24.0
+    },
+    {
+      "texto": "de",
+      "inicio": 24.027,
+      "fin": 24.08
+    },
+    {
+      "texto": "nómina,",
+      "inicio": 24.16,
+      "fin": 24.64
+    },
+    {
+      "texto": "casi",
+      "inicio": 24.8,
+      "fin": 25.44
+    },
+    {
+      "texto": "correcto",
+      "inicio": 25.5,
+      "fin": 26.0
+    },
+    {
+      "texto": "significa",
+      "inicio": 26.072,
+      "fin": 26.72
+    },
+    {
+      "texto": "que",
+      "inicio": 26.8,
+      "fin": 27.04
+    },
+    {
+      "texto": "alguien",
+      "inicio": 27.1,
+      "fin": 27.52
+    },
+    {
+      "texto": "cobra",
+      "inicio": 27.64,
+      "fin": 28.16
+    },
+    {
+      "texto": "mal.",
+      "inicio": 28.28,
+      "fin": 28.72
+    }
+  ]
+}

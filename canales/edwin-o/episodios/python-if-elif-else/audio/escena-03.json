@@ -1,0 +1,330 @@
+{
+  "num": "03",
+  "titulo": "El caso",
+  "texto": "Un dato antes de empezar. En octubre de dos mil veinticinco salió Python tres punto catorce, y una de sus novedades son mensajes de error mucho más claros. Uno de ellos es justo sobre el tema de hoy: si pones las partes de una condicional en el orden equivocado, ahora Python te lo dice con todas las letras. Lo vas a ver al final.",
+  "texto_tts": "Un dato antes de empezar. En octubre de dos mil veinticinco salió Python tres punto catorce, y una de sus novedades son mensajes de error mucho más claros. Uno de ellos es justo sobre el tema de hoy: si pones las partes de una condicional en el orden equivocado, ahora Python te lo dice con todas las letras. Lo vas a ver al final.",
+  "modelo": "eleven_v3",
+  "duracion": 27.76,
+  "palabras": [
+    {
+      "texto": "Un",
+      "inicio": 0.0,
+      "fin": 0.16
+    },
+    {
+      "texto": "dato",
+      "inicio": 0.24,
+      "fin": 0.56
+    },
+    {
+      "texto": "antes",
+      "inicio": 0.627,
+      "fin": 0.96
+    },
+    {
+      "texto": "de",
+      "inicio": 0.987,
+      "fin": 1.04
+    },
+    {
+      "texto": "empezar.",
+      "inicio": 1.107,
+      "fin": 1.84
+    },
+    {
+      "texto": "En",
+      "inicio": 2.16,
+      "fin": 2.8
+    },
+    {
+      "texto": "octubre",
+      "inicio": 2.9,
+      "fin": 3.36
+    },
+    {
+      "texto": "de",
+      "inicio": 3.413,
+      "fin": 3.52
+    },
+    {
+      "texto": "dos",
+      "inicio": 3.54,
+      "fin": 3.6
+    },
+    {
+      "texto": "mil",
+      "inicio": 3.66,
+      "fin": 3.84
+    },
+    {
+      "texto": "veinticinco",
+      "inicio": 3.893,
+      "fin": 4.72
+    },
+    {
+      "texto": "salió",
+      "inicio": 4.82,
+      "fin": 5.28
+    },
+    {
+      "texto": "Python",
+      "inicio": 5.383,
+      "fin": 6.0
+    },
+    {
+      "texto": "tres",
+      "inicio": 6.064,
+      "fin": 6.32
+    },
+    {
+      "texto": "punto",
+      "inicio": 6.387,
+      "fin": 6.72
+    },
+    {
+      "texto": "catorce,",
+      "inicio": 6.8,
+      "fin": 8.32
+    },
+    {
+      "texto": "y",
+      "inicio": 8.4,
+      "fin": 8.48
+    },
+    {
+      "texto": "una",
+      "inicio": 8.54,
+      "fin": 8.72
+    },
+    {
+      "texto": "de",
+      "inicio": 8.747,
+      "fin": 8.8
+    },
+    {
+      "texto": "sus",
+      "inicio": 8.86,
+      "fin": 9.04
+    },
+    {
+      "texto": "novedades",
+      "inicio": 9.08,
+      "fin": 9.92
+    },
+    {
+      "texto": "son",
+      "inicio": 10.02,
+      "fin": 10.32
+    },
+    {
+      "texto": "mensajes",
+      "inicio": 10.382,
+      "fin": 10.88
+    },
+    {
+      "texto": "de",
+      "inicio": 10.907,
+      "fin": 10.96
+    },
+    {
+      "texto": "error",
+      "inicio": 11.027,
+      "fin": 11.36
+    },
+    {
+      "texto": "mucho",
+      "inicio": 11.44,
+      "fin": 11.84
+    },
+    {
+      "texto": "más",
+      "inicio": 11.9,
+      "fin": 12.08
+    },
+    {
+      "texto": "claros.",
+      "inicio": 12.144,
+      "fin": 12.8
+    },
+    {
+      "texto": "Uno",
+      "inicio": 13.08,
+      "fin": 13.92
+    },
+    {
+      "texto": "de",
+      "inicio": 13.973,
+      "fin": 14.08
+    },
+    {
+      "texto": "ellos",
+      "inicio": 14.16,
+      "fin": 14.56
+    },
+    {
+      "texto": "es",
+      "inicio": 14.667,
+      "fin": 14.88
+    },
+    {
+      "texto": "justo",
+      "inicio": 14.96,
+      "fin": 15.36
+    },
+    {
+      "texto": "sobre",
+      "inicio": 15.4,
+      "fin": 15.6
+    },
+    {
+      "texto": "el",
+      "inicio": 15.653,
+      "fin": 15.76
+    },
+    {
+      "texto": "tema",
+      "inicio": 15.824,
+      "fin": 16.08
+    },
+    {
+      "texto": "de",
+      "inicio": 16.107,
+      "fin": 16.16
+    },
+    {
+      "texto": "hoy:",
+      "inicio": 16.24,
+      "fin": 17.36
+    },
+    {
+      "texto": "si",
+      "inicio": 17.413,
+      "fin": 17.52
+    },
+    {
+      "texto": "pones",
+      "inicio": 17.6,
+      "fin": 18.0
+    },
+    {
+      "texto": "las",
+      "inicio": 18.06,
+      "fin": 18.24
+    },
+    {
+      "texto": "partes",
+      "inicio": 18.32,
+      "fin": 18.8
+    },
+    {
+      "texto": "de",
+      "inicio": 18.827,
+      "fin": 18.88
+    },
+    {
+      "texto": "una",
+      "inicio": 18.94,
+      "fin": 19.12
+    },
+    {
+      "texto": "condicional",
+      "inicio": 19.184,
+      "fin": 20.08
+    },
+    {
+      "texto": "en",
+      "inicio": 20.187,
+      "fin": 20.4
+    },
+    {
+      "texto": "el",
+      "inicio": 20.427,
+      "fin": 20.48
+    },
+    {
+      "texto": "orden",
+      "inicio": 20.547,
+      "fin": 20.88
+    },
+    {
+      "texto": "equivocado,",
+      "inicio": 20.933,
+      "fin": 22.4
+    },
+    {
+      "texto": "ahora",
+      "inicio": 22.453,
+      "fin": 22.72
+    },
+    {
+      "texto": "Python",
+      "inicio": 22.811,
+      "fin": 23.36
+    },
+    {
+      "texto": "te",
+      "inicio": 23.413,
+      "fin": 23.52
+    },
+    {
+      "texto": "lo",
+      "inicio": 23.573,
+      "fin": 23.68
+    },
+    {
+      "texto": "dice",
+      "inicio": 23.76,
+      "fin": 24.08
+    },
+    {
+      "texto": "con",
+      "inicio": 24.14,
+      "fin": 24.32
+    },
+    {
+      "texto": "todas",
+      "inicio": 24.387,
+      "fin": 24.72
+    },
+    {
+      "texto": "las",
+      "inicio": 24.76,
+      "fin": 24.88
+    },
+    {
+      "texto": "letras.",
+      "inicio": 24.971,
+      "fin": 25.6
+    },
+    {
+      "texto": "Lo",
+      "inicio": 25.813,
+      "fin": 26.24
+    },
+    {
+      "texto": "vas",
+      "inicio": 26.3,
+      "fin": 26.48
+    },
+    {
+      "texto": "a",
+      "inicio": 26.52,
+      "fin": 26.56
+    },
+    {
+      "texto": "ver",
+      "inicio": 26.62,
+      "fin": 26.8
+    },
+    {
+      "texto": "al",
+      "inicio": 26.907,
+      "fin": 27.12
+    },
+    {
+      "texto": "final.",
+      "inicio": 27.213,
+      "fin": 27.76
+    }
+  ]
+}

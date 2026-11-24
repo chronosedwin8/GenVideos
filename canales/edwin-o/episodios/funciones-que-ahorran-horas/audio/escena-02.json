@@ -1,0 +1,325 @@
+{
+  "num": "02",
+  "titulo": "Presentación",
+  "texto": "¡Bienvenidos, amigos del canal! Vamos en busca del poder tecnológico. Hoy te traigo siete funciones de Excel que te van a ahorrar horas de trabajo cada semana. La mayoría de la gente no las usa, porque aprendió Excel hace años y nadie le contó que existen. Quédate hasta el final, porque la número siete hace que tus fórmulas largas por fin se entiendan.",
+  "texto_tts": "[excited] ¡Bienvenidos, amigos del canal! Vamos en busca del poder tecnológico. Hoy te traigo siete funciones de Excel que te van a ahorrar horas de trabajo cada semana. La mayoría de la gente no las usa, porque aprendió Excel hace años y nadie le contó que existen. Quédate hasta el final, porque la número siete hace que tus fórmulas largas por fin se entiendan.",
+  "modelo": "eleven_v3",
+  "duracion": 28.16,
+  "palabras": [
+    {
+      "texto": "¡Bienvenidos,",
+      "inicio": 0.072,
+      "fin": 0.88
+    },
+    {
+      "texto": "amigos",
+      "inicio": 0.926,
+      "fin": 1.2
+    },
+    {
+      "texto": "del",
+      "inicio": 1.24,
+      "fin": 1.36
+    },
+    {
+      "texto": "canal!",
+      "inicio": 1.427,
+      "fin": 2.08
+    },
+    {
+      "texto": "Vamos",
+      "inicio": 2.16,
+      "fin": 2.4
+    },
+    {
+      "texto": "en",
+      "inicio": 2.48,
+      "fin": 2.64
+    },
+    {
+      "texto": "busca",
+      "inicio": 2.707,
+      "fin": 3.04
+    },
+    {
+      "texto": "del",
+      "inicio": 3.1,
+      "fin": 3.28
+    },
+    {
+      "texto": "poder",
+      "inicio": 3.36,
+      "fin": 3.76
+    },
+    {
+      "texto": "tecnológico.",
+      "inicio": 3.856,
+      "fin": 4.96
+    },
+    {
+      "texto": "Hoy",
+      "inicio": 5.12,
+      "fin": 5.6
+    },
+    {
+      "texto": "te",
+      "inicio": 5.653,
+      "fin": 5.76
+    },
+    {
+      "texto": "traigo",
+      "inicio": 5.82,
+      "fin": 6.24
+    },
+    {
+      "texto": "siete",
+      "inicio": 6.48,
+      "fin": 7.04
+    },
+    {
+      "texto": "funciones",
+      "inicio": 7.112,
+      "fin": 7.76
+    },
+    {
+      "texto": "de",
+      "inicio": 7.787,
+      "fin": 7.84
+    },
+    {
+      "texto": "Excel",
+      "inicio": 7.987,
+      "fin": 8.72
+    },
+    {
+      "texto": "que",
+      "inicio": 8.8,
+      "fin": 9.04
+    },
+    {
+      "texto": "te",
+      "inicio": 9.093,
+      "fin": 9.2
+    },
+    {
+      "texto": "van",
+      "inicio": 9.24,
+      "fin": 9.36
+    },
+    {
+      "texto": "a",
+      "inicio": 9.4,
+      "fin": 9.44
+    },
+    {
+      "texto": "ahorrar",
+      "inicio": 9.467,
+      "fin": 9.84
+    },
+    {
+      "texto": "horas",
+      "inicio": 9.947,
+      "fin": 10.48
+    },
+    {
+      "texto": "de",
+      "inicio": 10.507,
+      "fin": 10.56
+    },
+    {
+      "texto": "trabajo",
+      "inicio": 10.64,
+      "fin": 11.2
+    },
+    {
+      "texto": "cada",
+      "inicio": 11.296,
+      "fin": 11.68
+    },
+    {
+      "texto": "semana.",
+      "inicio": 11.76,
+      "fin": 12.56
+    },
+    {
+      "texto": "La",
+      "inicio": 12.747,
+      "fin": 13.12
+    },
+    {
+      "texto": "mayoría",
+      "inicio": 13.19,
+      "fin": 13.68
+    },
+    {
+      "texto": "de",
+      "inicio": 13.707,
+      "fin": 13.76
+    },
+    {
+      "texto": "la",
+      "inicio": 13.787,
+      "fin": 13.84
+    },
+    {
+      "texto": "gente",
+      "inicio": 13.933,
+      "fin": 14.4
+    },
+    {
+      "texto": "no",
+      "inicio": 14.507,
+      "fin": 14.72
+    },
+    {
+      "texto": "las",
+      "inicio": 14.78,
+      "fin": 14.96
+    },
+    {
+      "texto": "usa,",
+      "inicio": 15.06,
+      "fin": 15.92
+    },
+    {
+      "texto": "porque",
+      "inicio": 15.954,
+      "fin": 16.16
+    },
+    {
+      "texto": "aprendió",
+      "inicio": 16.206,
+      "fin": 16.56
+    },
+    {
+      "texto": "Excel",
+      "inicio": 16.627,
+      "fin": 16.96
+    },
+    {
+      "texto": "hace",
+      "inicio": 17.024,
+      "fin": 17.28
+    },
+    {
+      "texto": "años",
+      "inicio": 17.392,
+      "fin": 17.84
+    },
+    {
+      "texto": "y",
+      "inicio": 18.04,
+      "fin": 18.24
+    },
+    {
+      "texto": "nadie",
+      "inicio": 18.34,
+      "fin": 18.72
+    },
+    {
+      "texto": "le",
+      "inicio": 18.773,
+      "fin": 18.88
+    },
+    {
+      "texto": "contó",
+      "inicio": 18.944,
+      "fin": 19.28
+    },
+    {
+      "texto": "que",
+      "inicio": 19.32,
+      "fin": 19.44
+    },
+    {
+      "texto": "existen.",
+      "inicio": 19.52,
+      "fin": 20.4
+    },
+    {
+      "texto": "Quédate",
+      "inicio": 20.54,
+      "fin": 21.2
+    },
+    {
+      "texto": "hasta",
+      "inicio": 21.227,
+      "fin": 21.36
+    },
+    {
+      "texto": "el",
+      "inicio": 21.387,
+      "fin": 21.44
+    },
+    {
+      "texto": "final,",
+      "inicio": 21.507,
+      "fin": 22.4
+    },
+    {
+      "texto": "porque",
+      "inicio": 22.446,
+      "fin": 22.72
+    },
+    {
+      "texto": "la",
+      "inicio": 22.773,
+      "fin": 22.88
+    },
+    {
+      "texto": "número",
+      "inicio": 22.937,
+      "fin": 23.28
+    },
+    {
+      "texto": "siete",
+      "inicio": 23.36,
+      "fin": 23.92
+    },
+    {
+      "texto": "hace",
+      "inicio": 24.0,
+      "fin": 24.32
+    },
+    {
+      "texto": "que",
+      "inicio": 24.38,
+      "fin": 24.56
+    },
+    {
+      "texto": "tus",
+      "inicio": 24.6,
+      "fin": 24.72
+    },
+    {
+      "texto": "fórmulas",
+      "inicio": 24.8,
+      "fin": 25.28
+    },
+    {
+      "texto": "largas",
+      "inicio": 25.36,
+      "fin": 25.92
+    },
+    {
+      "texto": "por",
+      "inicio": 26.04,
+      "fin": 26.4
+    },
+    {
+      "texto": "fin",
+      "inicio": 26.52,
+      "fin": 26.88
+    },
+    {
+      "texto": "se",
+      "inicio": 26.987,
+      "fin": 27.2
+    },
+    {
+      "texto": "entiendan.",
+      "inicio": 27.26,
+      "fin": 28.16
+    }
+  ]
+}

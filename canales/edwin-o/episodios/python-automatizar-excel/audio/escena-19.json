@@ -1,0 +1,300 @@
+{
+  "num": "19",
+  "titulo": "Por qué importa",
+  "texto": "Haz la cuenta: una hora a la semana son cincuenta y dos horas al año. Más de una semana laboral entera, copiando y pegando. Con Python, son segundos, y siempre sale igual, sin errores al copiar. Ese tiempo lo usas para analizar los números, no para moverlos. Y como siempre digo: si no lo aprendes ahora, te extingues.",
+  "texto_tts": "Haz la cuenta: una hora a la semana son cincuenta y dos horas al año. Más de una semana laboral entera, copiando y pegando. Con Python, son segundos, y siempre sale igual, sin errores al copiar. Ese tiempo lo usas para analizar los números, no para moverlos. [serious] Y como siempre digo: si no lo aprendes ahora, te extingues.",
+  "modelo": "eleven_v3",
+  "duracion": 22.24,
+  "palabras": [
+    {
+      "texto": "Haz",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "la",
+      "inicio": 0.133,
+      "fin": 0.24
+    },
+    {
+      "texto": "cuenta:",
+      "inicio": 0.297,
+      "fin": 0.8
+    },
+    {
+      "texto": "una",
+      "inicio": 0.86,
+      "fin": 1.04
+    },
+    {
+      "texto": "hora",
+      "inicio": 1.088,
+      "fin": 1.28
+    },
+    {
+      "texto": "a",
+      "inicio": 1.32,
+      "fin": 1.36
+    },
+    {
+      "texto": "la",
+      "inicio": 1.387,
+      "fin": 1.44
+    },
+    {
+      "texto": "semana",
+      "inicio": 1.509,
+      "fin": 1.92
+    },
+    {
+      "texto": "son",
+      "inicio": 2.04,
+      "fin": 2.4
+    },
+    {
+      "texto": "cincuenta",
+      "inicio": 2.48,
+      "fin": 2.96
+    },
+    {
+      "texto": "y",
+      "inicio": 3.04,
+      "fin": 3.12
+    },
+    {
+      "texto": "dos",
+      "inicio": 3.16,
+      "fin": 3.28
+    },
+    {
+      "texto": "horas",
+      "inicio": 3.32,
+      "fin": 3.52
+    },
+    {
+      "texto": "al",
+      "inicio": 3.573,
+      "fin": 3.68
+    },
+    {
+      "texto": "año.",
+      "inicio": 3.74,
+      "fin": 4.08
+    },
+    {
+      "texto": "Más",
+      "inicio": 4.28,
+      "fin": 4.88
+    },
+    {
+      "texto": "de",
+      "inicio": 4.933,
+      "fin": 5.04
+    },
+    {
+      "texto": "una",
+      "inicio": 5.08,
+      "fin": 5.2
+    },
+    {
+      "texto": "semana",
+      "inicio": 5.257,
+      "fin": 5.6
+    },
+    {
+      "texto": "laboral",
+      "inicio": 5.653,
+      "fin": 6.08
+    },
+    {
+      "texto": "entera,",
+      "inicio": 6.14,
+      "fin": 7.04
+    },
+    {
+      "texto": "copiando",
+      "inicio": 7.08,
+      "fin": 7.52
+    },
+    {
+      "texto": "y",
+      "inicio": 7.64,
+      "fin": 7.76
+    },
+    {
+      "texto": "pegando.",
+      "inicio": 7.8,
+      "fin": 8.48
+    },
+    {
+      "texto": "Con",
+      "inicio": 8.64,
+      "fin": 9.12
+    },
+    {
+      "texto": "Python,",
+      "inicio": 9.177,
+      "fin": 9.6
+    },
+    {
+      "texto": "son",
+      "inicio": 9.64,
+      "fin": 9.76
+    },
+    {
+      "texto": "segundos,",
+      "inicio": 9.831,
+      "fin": 10.56
+    },
+    {
+      "texto": "y",
+      "inicio": 10.6,
+      "fin": 10.64
+    },
+    {
+      "texto": "siempre",
+      "inicio": 10.68,
+      "fin": 10.96
+    },
+    {
+      "texto": "sale",
+      "inicio": 11.008,
+      "fin": 11.2
+    },
+    {
+      "texto": "igual,",
+      "inicio": 11.253,
+      "fin": 11.76
+    },
+    {
+      "texto": "sin",
+      "inicio": 11.82,
+      "fin": 12.0
+    },
+    {
+      "texto": "errores",
+      "inicio": 12.04,
+      "fin": 12.32
+    },
+    {
+      "texto": "al",
+      "inicio": 12.347,
+      "fin": 12.4
+    },
+    {
+      "texto": "copiar.",
+      "inicio": 12.46,
+      "fin": 13.04
+    },
+    {
+      "texto": "Ese",
+      "inicio": 13.24,
+      "fin": 13.52
+    },
+    {
+      "texto": "tiempo",
+      "inicio": 13.577,
+      "fin": 13.92
+    },
+    {
+      "texto": "lo",
+      "inicio": 13.947,
+      "fin": 14.0
+    },
+    {
+      "texto": "usas",
+      "inicio": 14.053,
+      "fin": 14.32
+    },
+    {
+      "texto": "para",
+      "inicio": 14.352,
+      "fin": 14.48
+    },
+    {
+      "texto": "analizar",
+      "inicio": 14.528,
+      "fin": 14.88
+    },
+    {
+      "texto": "los",
+      "inicio": 14.92,
+      "fin": 15.04
+    },
+    {
+      "texto": "números,",
+      "inicio": 15.1,
+      "fin": 15.84
+    },
+    {
+      "texto": "no",
+      "inicio": 15.893,
+      "fin": 16.0
+    },
+    {
+      "texto": "para",
+      "inicio": 16.048,
+      "fin": 16.24
+    },
+    {
+      "texto": "moverlos.",
+      "inicio": 16.293,
+      "fin": 17.12
+    },
+    {
+      "texto": "Y",
+      "inicio": 17.587,
+      "fin": 17.6
+    },
+    {
+      "texto": "como",
+      "inicio": 17.648,
+      "fin": 17.84
+    },
+    {
+      "texto": "siempre",
+      "inicio": 17.89,
+      "fin": 18.24
+    },
+    {
+      "texto": "digo:",
+      "inicio": 18.32,
+      "fin": 18.72
+    },
+    {
+      "texto": "si",
+      "inicio": 18.853,
+      "fin": 19.12
+    },
+    {
+      "texto": "no",
+      "inicio": 19.147,
+      "fin": 19.2
+    },
+    {
+      "texto": "lo",
+      "inicio": 19.253,
+      "fin": 19.36
+    },
+    {
+      "texto": "aprendes",
+      "inicio": 19.406,
+      "fin": 19.84
+    },
+    {
+      "texto": "ahora,",
+      "inicio": 19.907,
+      "fin": 20.32
+    },
+    {
+      "texto": "te",
+      "inicio": 20.56,
+      "fin": 21.04
+    },
+    {
+      "texto": "extingues.",
+      "inicio": 21.12,
+      "fin": 22.24
+    }
+  ]
+}

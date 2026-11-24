@@ -1,0 +1,330 @@
+{
+  "num": "11",
+  "titulo": "6. APILARV",
+  "texto": "Número seis: APILARV, la V es de vertical. ¿Tienes una hoja por mes y necesitas todo junto? APILARV, la tabla de enero, punto y coma, la tabla de febrero. Y Excel las pone una debajo de la otra, en una sola tabla. Puedes agregar marzo, abril, y todos los meses que quieras. Y combinada con FILTRAR u ORDENARPOR, tienes un reporte anual en minutos.",
+  "texto_tts": "Número seis: APILARV, la V es de vertical. ¿Tienes una hoja por mes y necesitas todo junto? APILARV, la tabla de enero, punto y coma, la tabla de febrero. Y Excel las pone una debajo de la otra, en una sola tabla. Puedes agregar marzo, abril, y todos los meses que quieras. Y combinada con FILTRAR u ORDENARPOR, tienes un reporte anual en minutos.",
+  "modelo": "eleven_v3",
+  "duracion": 30.96,
+  "palabras": [
+    {
+      "texto": "Número",
+      "inicio": 0.0,
+      "fin": 0.24
+    },
+    {
+      "texto": "seis:",
+      "inicio": 0.32,
+      "fin": 0.8
+    },
+    {
+      "texto": "APILARV,",
+      "inicio": 1.067,
+      "fin": 2.8
+    },
+    {
+      "texto": "la",
+      "inicio": 2.987,
+      "fin": 3.36
+    },
+    {
+      "texto": "V",
+      "inicio": 3.52,
+      "fin": 3.68
+    },
+    {
+      "texto": "es",
+      "inicio": 3.76,
+      "fin": 3.92
+    },
+    {
+      "texto": "de",
+      "inicio": 3.973,
+      "fin": 4.08
+    },
+    {
+      "texto": "vertical.",
+      "inicio": 4.169,
+      "fin": 4.96
+    },
+    {
+      "texto": "¿Tienes",
+      "inicio": 5.36,
+      "fin": 6.0
+    },
+    {
+      "texto": "una",
+      "inicio": 6.06,
+      "fin": 6.24
+    },
+    {
+      "texto": "hoja",
+      "inicio": 6.293,
+      "fin": 6.56
+    },
+    {
+      "texto": "por",
+      "inicio": 6.62,
+      "fin": 6.8
+    },
+    {
+      "texto": "mes",
+      "inicio": 6.88,
+      "fin": 7.12
+    },
+    {
+      "texto": "y",
+      "inicio": 7.2,
+      "fin": 7.28
+    },
+    {
+      "texto": "necesitas",
+      "inicio": 7.347,
+      "fin": 8.0
+    },
+    {
+      "texto": "todo",
+      "inicio": 8.048,
+      "fin": 8.24
+    },
+    {
+      "texto": "junto?",
+      "inicio": 8.333,
+      "fin": 9.12
+    },
+    {
+      "texto": "APILARV,",
+      "inicio": 9.36,
+      "fin": 10.8
+    },
+    {
+      "texto": "la",
+      "inicio": 10.907,
+      "fin": 11.12
+    },
+    {
+      "texto": "tabla",
+      "inicio": 11.187,
+      "fin": 11.52
+    },
+    {
+      "texto": "de",
+      "inicio": 11.573,
+      "fin": 11.68
+    },
+    {
+      "texto": "enero,",
+      "inicio": 11.733,
+      "fin": 12.16
+    },
+    {
+      "texto": "punto",
+      "inicio": 12.253,
+      "fin": 12.72
+    },
+    {
+      "texto": "y",
+      "inicio": 12.76,
+      "fin": 12.8
+    },
+    {
+      "texto": "coma,",
+      "inicio": 12.864,
+      "fin": 13.28
+    },
+    {
+      "texto": "la",
+      "inicio": 13.36,
+      "fin": 13.52
+    },
+    {
+      "texto": "tabla",
+      "inicio": 13.587,
+      "fin": 13.92
+    },
+    {
+      "texto": "de",
+      "inicio": 13.947,
+      "fin": 14.0
+    },
+    {
+      "texto": "febrero.",
+      "inicio": 14.08,
+      "fin": 14.88
+    },
+    {
+      "texto": "Y",
+      "inicio": 15.08,
+      "fin": 15.28
+    },
+    {
+      "texto": "Excel",
+      "inicio": 15.347,
+      "fin": 15.68
+    },
+    {
+      "texto": "las",
+      "inicio": 15.72,
+      "fin": 15.84
+    },
+    {
+      "texto": "pone",
+      "inicio": 15.92,
+      "fin": 16.24
+    },
+    {
+      "texto": "una",
+      "inicio": 16.34,
+      "fin": 16.64
+    },
+    {
+      "texto": "debajo",
+      "inicio": 16.7,
+      "fin": 17.12
+    },
+    {
+      "texto": "de",
+      "inicio": 17.147,
+      "fin": 17.2
+    },
+    {
+      "texto": "la",
+      "inicio": 17.253,
+      "fin": 17.36
+    },
+    {
+      "texto": "otra,",
+      "inicio": 17.44,
+      "fin": 17.92
+    },
+    {
+      "texto": "en",
+      "inicio": 17.973,
+      "fin": 18.08
+    },
+    {
+      "texto": "una",
+      "inicio": 18.16,
+      "fin": 18.4
+    },
+    {
+      "texto": "sola",
+      "inicio": 18.448,
+      "fin": 18.64
+    },
+    {
+      "texto": "tabla.",
+      "inicio": 18.72,
+      "fin": 19.28
+    },
+    {
+      "texto": "Puedes",
+      "inicio": 19.64,
+      "fin": 20.24
+    },
+    {
+      "texto": "agregar",
+      "inicio": 20.29,
+      "fin": 20.64
+    },
+    {
+      "texto": "marzo,",
+      "inicio": 20.72,
+      "fin": 21.36
+    },
+    {
+      "texto": "abril,",
+      "inicio": 21.44,
+      "fin": 21.92
+    },
+    {
+      "texto": "y",
+      "inicio": 22.0,
+      "fin": 22.08
+    },
+    {
+      "texto": "todos",
+      "inicio": 22.133,
+      "fin": 22.4
+    },
+    {
+      "texto": "los",
+      "inicio": 22.44,
+      "fin": 22.56
+    },
+    {
+      "texto": "meses",
+      "inicio": 22.613,
+      "fin": 22.88
+    },
+    {
+      "texto": "que",
+      "inicio": 22.92,
+      "fin": 23.04
+    },
+    {
+      "texto": "quieras.",
+      "inicio": 23.093,
+      "fin": 23.92
+    },
+    {
+      "texto": "Y",
+      "inicio": 24.12,
+      "fin": 24.32
+    },
+    {
+      "texto": "combinada",
+      "inicio": 24.389,
+      "fin": 25.12
+    },
+    {
+      "texto": "con",
+      "inicio": 25.22,
+      "fin": 25.52
+    },
+    {
+      "texto": "FILTRAR",
+      "inicio": 25.62,
+      "fin": 26.24
+    },
+    {
+      "texto": "u",
+      "inicio": 26.4,
+      "fin": 26.56
+    },
+    {
+      "texto": "ORDENARPOR,",
+      "inicio": 26.62,
+      "fin": 28.16
+    },
+    {
+      "texto": "tienes",
+      "inicio": 28.217,
+      "fin": 28.56
+    },
+    {
+      "texto": "un",
+      "inicio": 28.587,
+      "fin": 28.64
+    },
+    {
+      "texto": "reporte",
+      "inicio": 28.709,
+      "fin": 29.24
+    },
+    {
+      "texto": "anual",
+      "inicio": 29.28,
+      "fin": 29.6
+    },
+    {
+      "texto": "en",
+      "inicio": 29.707,
+      "fin": 29.92
+    },
+    {
+      "texto": "minutos.",
+      "inicio": 30.01,
+      "fin": 30.96
+    }
+  ]
+}

@@ -1,0 +1,380 @@
+{
+  "num": "03",
+  "titulo": "El caso: Excel cumplió 40 años",
+  "texto": "Un dato curioso: Excel cumplió cuarenta años el treinta de septiembre de dos mil veinticinco. Y aunque es un programa viejo, en los últimos años cambió más que nunca. Microsoft le agregó funciones que hacen en un segundo lo que antes te tomaba media hora. El problema es que casi todos seguimos trabajando como en dos mil diez. Seguimos usando BUSCARV, filtros manuales y fórmulas de tres renglones que nadie entiende. Hoy eso cambia.",
+  "texto_tts": "Un dato curioso: Excel cumplió cuarenta años el treinta de septiembre de dos mil veinticinco. Y aunque es un programa viejo, en los últimos años cambió más que nunca. Microsoft le agregó funciones que hacen en un segundo lo que antes te tomaba media hora. El problema es que casi todos seguimos trabajando como en dos mil diez. Seguimos usando BUSCARV, filtros manuales y fórmulas de tres renglones que nadie entiende. Hoy eso cambia.",
+  "modelo": "eleven_v3",
+  "duracion": 33.2,
+  "palabras": [
+    {
+      "texto": "Un",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "dato",
+      "inicio": 0.144,
+      "fin": 0.4
+    },
+    {
+      "texto": "curioso:",
+      "inicio": 0.46,
+      "fin": 1.12
+    },
+    {
+      "texto": "Excel",
+      "inicio": 1.24,
+      "fin": 1.84
+    },
+    {
+      "texto": "cumplió",
+      "inicio": 1.893,
+      "fin": 2.32
+    },
+    {
+      "texto": "cuarenta",
+      "inicio": 2.347,
+      "fin": 2.92
+    },
+    {
+      "texto": "años",
+      "inicio": 2.96,
+      "fin": 3.12
+    },
+    {
+      "texto": "el",
+      "inicio": 3.2,
+      "fin": 3.36
+    },
+    {
+      "texto": "treinta",
+      "inicio": 3.44,
+      "fin": 3.92
+    },
+    {
+      "texto": "de",
+      "inicio": 3.973,
+      "fin": 4.08
+    },
+    {
+      "texto": "septiembre",
+      "inicio": 4.144,
+      "fin": 4.8
+    },
+    {
+      "texto": "de",
+      "inicio": 4.827,
+      "fin": 4.88
+    },
+    {
+      "texto": "dos",
+      "inicio": 4.92,
+      "fin": 5.04
+    },
+    {
+      "texto": "mil",
+      "inicio": 5.1,
+      "fin": 5.28
+    },
+    {
+      "texto": "veinticinco.",
+      "inicio": 5.333,
+      "fin": 6.16
+    },
+    {
+      "texto": "Y",
+      "inicio": 6.72,
+      "fin": 7.28
+    },
+    {
+      "texto": "aunque",
+      "inicio": 7.314,
+      "fin": 7.52
+    },
+    {
+      "texto": "es",
+      "inicio": 7.573,
+      "fin": 7.68
+    },
+    {
+      "texto": "un",
+      "inicio": 7.707,
+      "fin": 7.76
+    },
+    {
+      "texto": "programa",
+      "inicio": 7.813,
+      "fin": 8.24
+    },
+    {
+      "texto": "viejo,",
+      "inicio": 8.32,
+      "fin": 9.04
+    },
+    {
+      "texto": "en",
+      "inicio": 9.067,
+      "fin": 9.12
+    },
+    {
+      "texto": "los",
+      "inicio": 9.16,
+      "fin": 9.28
+    },
+    {
+      "texto": "últimos",
+      "inicio": 9.35,
+      "fin": 9.84
+    },
+    {
+      "texto": "años",
+      "inicio": 9.92,
+      "fin": 10.24
+    },
+    {
+      "texto": "cambió",
+      "inicio": 10.304,
+      "fin": 10.64
+    },
+    {
+      "texto": "más",
+      "inicio": 10.68,
+      "fin": 10.8
+    },
+    {
+      "texto": "que",
+      "inicio": 10.84,
+      "fin": 10.96
+    },
+    {
+      "texto": "nunca.",
+      "inicio": 11.04,
+      "fin": 11.52
+    },
+    {
+      "texto": "Microsoft",
+      "inicio": 11.672,
+      "fin": 13.04
+    },
+    {
+      "texto": "le",
+      "inicio": 13.067,
+      "fin": 13.12
+    },
+    {
+      "texto": "agregó",
+      "inicio": 13.16,
+      "fin": 13.44
+    },
+    {
+      "texto": "funciones",
+      "inicio": 13.504,
+      "fin": 14.08
+    },
+    {
+      "texto": "que",
+      "inicio": 14.12,
+      "fin": 14.24
+    },
+    {
+      "texto": "hacen",
+      "inicio": 14.293,
+      "fin": 14.56
+    },
+    {
+      "texto": "en",
+      "inicio": 14.64,
+      "fin": 14.8
+    },
+    {
+      "texto": "un",
+      "inicio": 14.88,
+      "fin": 15.04
+    },
+    {
+      "texto": "segundo",
+      "inicio": 15.14,
+      "fin": 15.84
+    },
+    {
+      "texto": "lo",
+      "inicio": 15.947,
+      "fin": 16.16
+    },
+    {
+      "texto": "que",
+      "inicio": 16.2,
+      "fin": 16.32
+    },
+    {
+      "texto": "antes",
+      "inicio": 16.373,
+      "fin": 16.64
+    },
+    {
+      "texto": "te",
+      "inicio": 16.667,
+      "fin": 16.72
+    },
+    {
+      "texto": "tomaba",
+      "inicio": 16.78,
+      "fin": 17.28
+    },
+    {
+      "texto": "media",
+      "inicio": 17.36,
+      "fin": 17.76
+    },
+    {
+      "texto": "hora.",
+      "inicio": 17.84,
+      "fin": 18.72
+    },
+    {
+      "texto": "El",
+      "inicio": 18.907,
+      "fin": 19.28
+    },
+    {
+      "texto": "problema",
+      "inicio": 19.342,
+      "fin": 19.84
+    },
+    {
+      "texto": "es",
+      "inicio": 19.867,
+      "fin": 19.92
+    },
+    {
+      "texto": "que",
+      "inicio": 19.96,
+      "fin": 20.08
+    },
+    {
+      "texto": "casi",
+      "inicio": 20.144,
+      "fin": 20.4
+    },
+    {
+      "texto": "todos",
+      "inicio": 20.48,
+      "fin": 20.88
+    },
+    {
+      "texto": "seguimos",
+      "inicio": 20.928,
+      "fin": 21.36
+    },
+    {
+      "texto": "trabajando",
+      "inicio": 21.417,
+      "fin": 22.0
+    },
+    {
+      "texto": "como",
+      "inicio": 22.048,
+      "fin": 22.24
+    },
+    {
+      "texto": "en",
+      "inicio": 22.267,
+      "fin": 22.32
+    },
+    {
+      "texto": "dos",
+      "inicio": 22.36,
+      "fin": 22.48
+    },
+    {
+      "texto": "mil",
+      "inicio": 22.52,
+      "fin": 22.64
+    },
+    {
+      "texto": "diez.",
+      "inicio": 22.72,
+      "fin": 23.36
+    },
+    {
+      "texto": "Seguimos",
+      "inicio": 23.56,
+      "fin": 24.4
+    },
+    {
+      "texto": "usando",
+      "inicio": 24.48,
+      "fin": 24.96
+    },
+    {
+      "texto": "BUSCARV,",
+      "inicio": 25.04,
+      "fin": 25.92
+    },
+    {
+      "texto": "filtros",
+      "inicio": 26.08,
+      "fin": 26.8
+    },
+    {
+      "texto": "manuales",
+      "inicio": 26.86,
+      "fin": 27.6
+    },
+    {
+      "texto": "y",
+      "inicio": 27.8,
+      "fin": 28.0
+    },
+    {
+      "texto": "fórmulas",
+      "inicio": 28.08,
+      "fin": 28.64
+    },
+    {
+      "texto": "de",
+      "inicio": 28.667,
+      "fin": 28.72
+    },
+    {
+      "texto": "tres",
+      "inicio": 28.768,
+      "fin": 28.96
+    },
+    {
+      "texto": "renglones",
+      "inicio": 29.013,
+      "fin": 29.52
+    },
+    {
+      "texto": "que",
+      "inicio": 29.58,
+      "fin": 29.76
+    },
+    {
+      "texto": "nadie",
+      "inicio": 29.82,
+      "fin": 30.08
+    },
+    {
+      "texto": "entiende.",
+      "inicio": 30.16,
+      "fin": 31.32
+    },
+    {
+      "texto": "Hoy",
+      "inicio": 31.45,
+      "fin": 31.84
+    },
+    {
+      "texto": "eso",
+      "inicio": 32.04,
+      "fin": 32.64
+    },
+    {
+      "texto": "cambia.",
+      "inicio": 32.704,
+      "fin": 33.2
+    }
+  ]
+}

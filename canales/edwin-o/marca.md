@@ -46,3 +46,15 @@ Python `#3776AB` y `#FFD43B`.
   y una píldora oscura abajo a la derecha con "en Excel" o "en Python" en turquesa.
 - Ícono de la herramienta (Excel, Python, IA) o un número grande cuando es una lista.
 - Mientras no haya foto recortada, se usa una maqueta grande del resultado (hoja, gráfico o código) en lugar de la foto.
+
+## Estilo de las escenas (motor de Remotion, desde dic 2026)
+- **Fondos:** naranja (por defecto, pasos y explicaciones) · azul (caso actual, aporte de Edwin, datos con fuente) ·
+  oscuro (terminal, errores, frases fuertes). El fondo lleva el patrón de circuito animado.
+- **Títulos:** Anton con contorno negro grueso y leve rotación (-3°); colores por nombre: amarillo (idea clave), blanco
+  (contexto), turquesa/verde (positivo), rojo (error, "TE EXTINGUES"), magenta (aporte de Edwin).
+- **Tarjetas y listas:** fondo blanco, borde negro de 5–6 px, sombra negra sólida desplazada (10 px), esquinas redondeadas.
+- **Excel animado:** cinta y cuadrícula de Excel 365; resultado correcto en verde claro, error en rojo claro, dato cambiado en amarillo.
+- **Código:** editor oscuro (tipo VS Code) con JetBrains Mono **sin ligaduras**; terminal negra con salida real en verde.
+- **Etiqueta de paso:** "PASO N" magenta + texto blanco arriba a la izquierda; las píldoras van abajo si chocan con ella.
+- **Subtítulos:** Poppins 800 en mayúsculas con la palabra activa en amarillo (siempre visibles; el 31 % del público los usa).
+- **Cierre:** tarjeta "Mira este video" (espacio para la pantalla final de YouTube) + botón Suscríbete.

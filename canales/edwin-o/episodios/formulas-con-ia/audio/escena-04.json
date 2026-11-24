@@ -1,0 +1,265 @@
+{
+  "num": "04",
+  "titulo": "La lección",
+  "texto": "¿La lección? No dejes que tu hoja dependa de la IA. Usa la IA para que te escriba fórmulas normales de Excel, de esas que funcionan siempre, sin internet y sin sorpresas. La IA es tu asistente, no tu calculadora. Y como siempre digo: si no lo aprendes ahora, te extingues.",
+  "texto_tts": "¿La lección? No dejes que tu hoja dependa de la IA. Usa la IA para que te escriba fórmulas normales de Excel, de esas que funcionan siempre, sin internet y sin sorpresas. [confident] La IA es tu asistente, no tu calculadora. Y como siempre digo: [serious] si no lo aprendes ahora, te extingues.",
+  "modelo": "eleven_v3",
+  "duracion": 23.52,
+  "palabras": [
+    {
+      "texto": "¿La",
+      "inicio": 0.0,
+      "fin": 0.16
+    },
+    {
+      "texto": "lección?",
+      "inicio": 0.213,
+      "fin": 0.8
+    },
+    {
+      "texto": "No",
+      "inicio": 0.987,
+      "fin": 1.36
+    },
+    {
+      "texto": "dejes",
+      "inicio": 1.44,
+      "fin": 1.84
+    },
+    {
+      "texto": "que",
+      "inicio": 1.88,
+      "fin": 2.0
+    },
+    {
+      "texto": "tu",
+      "inicio": 2.053,
+      "fin": 2.16
+    },
+    {
+      "texto": "hoja",
+      "inicio": 2.24,
+      "fin": 2.56
+    },
+    {
+      "texto": "dependa",
+      "inicio": 2.651,
+      "fin": 3.28
+    },
+    {
+      "texto": "de",
+      "inicio": 3.333,
+      "fin": 3.44
+    },
+    {
+      "texto": "la",
+      "inicio": 3.467,
+      "fin": 3.52
+    },
+    {
+      "texto": "IA.",
+      "inicio": 3.627,
+      "fin": 3.92
+    },
+    {
+      "texto": "Usa",
+      "inicio": 4.26,
+      "fin": 5.28
+    },
+    {
+      "texto": "la",
+      "inicio": 5.333,
+      "fin": 5.44
+    },
+    {
+      "texto": "IA",
+      "inicio": 5.547,
+      "fin": 5.76
+    },
+    {
+      "texto": "para",
+      "inicio": 5.824,
+      "fin": 6.08
+    },
+    {
+      "texto": "que",
+      "inicio": 6.12,
+      "fin": 6.24
+    },
+    {
+      "texto": "te",
+      "inicio": 6.267,
+      "fin": 6.32
+    },
+    {
+      "texto": "escriba",
+      "inicio": 6.36,
+      "fin": 6.72
+    },
+    {
+      "texto": "fórmulas",
+      "inicio": 6.8,
+      "fin": 7.28
+    },
+    {
+      "texto": "normales",
+      "inicio": 7.344,
+      "fin": 7.84
+    },
+    {
+      "texto": "de",
+      "inicio": 7.867,
+      "fin": 7.92
+    },
+    {
+      "texto": "Excel,",
+      "inicio": 7.987,
+      "fin": 8.88
+    },
+    {
+      "texto": "de",
+      "inicio": 8.907,
+      "fin": 8.96
+    },
+    {
+      "texto": "esas",
+      "inicio": 9.008,
+      "fin": 9.2
+    },
+    {
+      "texto": "que",
+      "inicio": 9.22,
+      "fin": 9.28
+    },
+    {
+      "texto": "funcionan",
+      "inicio": 9.34,
+      "fin": 9.84
+    },
+    {
+      "texto": "siempre,",
+      "inicio": 9.92,
+      "fin": 10.72
+    },
+    {
+      "texto": "sin",
+      "inicio": 10.78,
+      "fin": 10.96
+    },
+    {
+      "texto": "internet",
+      "inicio": 11.04,
+      "fin": 11.68
+    },
+    {
+      "texto": "y",
+      "inicio": 11.84,
+      "fin": 12.0
+    },
+    {
+      "texto": "sin",
+      "inicio": 12.08,
+      "fin": 12.32
+    },
+    {
+      "texto": "sorpresas.",
+      "inicio": 12.38,
+      "fin": 13.56
+    },
+    {
+      "texto": "La",
+      "inicio": 14.067,
+      "fin": 14.08
+    },
+    {
+      "texto": "IA",
+      "inicio": 14.213,
+      "fin": 14.48
+    },
+    {
+      "texto": "es",
+      "inicio": 14.587,
+      "fin": 14.8
+    },
+    {
+      "texto": "tu",
+      "inicio": 14.853,
+      "fin": 14.96
+    },
+    {
+      "texto": "asistente,",
+      "inicio": 15.013,
+      "fin": 16.32
+    },
+    {
+      "texto": "no",
+      "inicio": 16.427,
+      "fin": 16.64
+    },
+    {
+      "texto": "tu",
+      "inicio": 16.693,
+      "fin": 16.8
+    },
+    {
+      "texto": "calculadora.",
+      "inicio": 16.857,
+      "fin": 17.68
+    },
+    {
+      "texto": "Y",
+      "inicio": 18.04,
+      "fin": 18.4
+    },
+    {
+      "texto": "como",
+      "inicio": 18.448,
+      "fin": 18.64
+    },
+    {
+      "texto": "siempre",
+      "inicio": 18.69,
+      "fin": 19.04
+    },
+    {
+      "texto": "digo:",
+      "inicio": 19.1,
+      "fin": 19.52
+    },
+    {
+      "texto": "si",
+      "inicio": 20.382,
+      "fin": 20.4
+    },
+    {
+      "texto": "no",
+      "inicio": 20.453,
+      "fin": 20.56
+    },
+    {
+      "texto": "lo",
+      "inicio": 20.587,
+      "fin": 20.64
+    },
+    {
+      "texto": "aprendes",
+      "inicio": 20.697,
+      "fin": 21.12
+    },
+    {
+      "texto": "ahora,",
+      "inicio": 21.2,
+      "fin": 21.68
+    },
+    {
+      "texto": "te",
+      "inicio": 21.947,
+      "fin": 22.48
+    },
+    {
+      "texto": "extingues.",
+      "inicio": 22.56,
+      "fin": 23.52
+    }
+  ]
+}

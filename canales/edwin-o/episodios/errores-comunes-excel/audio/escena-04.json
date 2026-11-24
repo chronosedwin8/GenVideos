@@ -1,0 +1,245 @@
+{
+  "num": "04",
+  "titulo": "El aporte de Edwin",
+  "texto": "Cuando reviso archivos de mis estudiantes, y también de empresas, hay un error que aparece más que todos los demás. Sobre todo en datos que vienen de otro sistema. Es el error número uno de hoy, y casi nadie lo nota hasta que el total no cuadra.",
+  "texto_tts": "Cuando reviso archivos de mis estudiantes, y también de empresas, hay un error que aparece más que todos los demás. Sobre todo en datos que vienen de otro sistema. Es el error número uno de hoy, y casi nadie lo nota hasta que el total no cuadra.",
+  "modelo": "eleven_v3",
+  "duracion": 18.8,
+  "palabras": [
+    {
+      "texto": "Cuando",
+      "inicio": 0.0,
+      "fin": 0.32
+    },
+    {
+      "texto": "reviso",
+      "inicio": 0.44,
+      "fin": 1.12
+    },
+    {
+      "texto": "archivos",
+      "inicio": 1.218,
+      "fin": 2.0
+    },
+    {
+      "texto": "de",
+      "inicio": 2.08,
+      "fin": 2.24
+    },
+    {
+      "texto": "mis",
+      "inicio": 2.3,
+      "fin": 2.48
+    },
+    {
+      "texto": "estudiantes,",
+      "inicio": 2.553,
+      "fin": 3.52
+    },
+    {
+      "texto": "y",
+      "inicio": 3.56,
+      "fin": 3.6
+    },
+    {
+      "texto": "también",
+      "inicio": 3.65,
+      "fin": 4.0
+    },
+    {
+      "texto": "de",
+      "inicio": 4.027,
+      "fin": 4.08
+    },
+    {
+      "texto": "empresas,",
+      "inicio": 4.142,
+      "fin": 5.44
+    },
+    {
+      "texto": "hay",
+      "inicio": 5.48,
+      "fin": 5.6
+    },
+    {
+      "texto": "un",
+      "inicio": 5.627,
+      "fin": 5.68
+    },
+    {
+      "texto": "error",
+      "inicio": 5.733,
+      "fin": 6.0
+    },
+    {
+      "texto": "que",
+      "inicio": 6.04,
+      "fin": 6.16
+    },
+    {
+      "texto": "aparece",
+      "inicio": 6.213,
+      "fin": 6.96
+    },
+    {
+      "texto": "más",
+      "inicio": 7.1,
+      "fin": 7.52
+    },
+    {
+      "texto": "que",
+      "inicio": 7.56,
+      "fin": 7.68
+    },
+    {
+      "texto": "todos",
+      "inicio": 7.72,
+      "fin": 7.92
+    },
+    {
+      "texto": "los",
+      "inicio": 7.96,
+      "fin": 8.08
+    },
+    {
+      "texto": "demás.",
+      "inicio": 8.12,
+      "fin": 8.64
+    },
+    {
+      "texto": "Sobre",
+      "inicio": 9.16,
+      "fin": 9.92
+    },
+    {
+      "texto": "todo",
+      "inicio": 9.968,
+      "fin": 10.16
+    },
+    {
+      "texto": "en",
+      "inicio": 10.213,
+      "fin": 10.32
+    },
+    {
+      "texto": "datos",
+      "inicio": 10.373,
+      "fin": 10.64
+    },
+    {
+      "texto": "que",
+      "inicio": 10.68,
+      "fin": 10.8
+    },
+    {
+      "texto": "vienen",
+      "inicio": 10.827,
+      "fin": 11.12
+    },
+    {
+      "texto": "de",
+      "inicio": 11.147,
+      "fin": 11.2
+    },
+    {
+      "texto": "otro",
+      "inicio": 11.264,
+      "fin": 11.52
+    },
+    {
+      "texto": "sistema.",
+      "inicio": 11.59,
+      "fin": 12.56
+    },
+    {
+      "texto": "Es",
+      "inicio": 12.72,
+      "fin": 13.04
+    },
+    {
+      "texto": "el",
+      "inicio": 13.067,
+      "fin": 13.12
+    },
+    {
+      "texto": "error",
+      "inicio": 13.173,
+      "fin": 13.44
+    },
+    {
+      "texto": "número",
+      "inicio": 13.531,
+      "fin": 14.08
+    },
+    {
+      "texto": "uno",
+      "inicio": 14.14,
+      "fin": 14.32
+    },
+    {
+      "texto": "de",
+      "inicio": 14.373,
+      "fin": 14.48
+    },
+    {
+      "texto": "hoy,",
+      "inicio": 14.54,
+      "fin": 15.44
+    },
+    {
+      "texto": "y",
+      "inicio": 15.48,
+      "fin": 15.52
+    },
+    {
+      "texto": "casi",
+      "inicio": 15.6,
+      "fin": 15.92
+    },
+    {
+      "texto": "nadie",
+      "inicio": 15.98,
+      "fin": 16.32
+    },
+    {
+      "texto": "lo",
+      "inicio": 16.347,
+      "fin": 16.4
+    },
+    {
+      "texto": "nota",
+      "inicio": 16.48,
+      "fin": 16.8
+    },
+    {
+      "texto": "hasta",
+      "inicio": 16.867,
+      "fin": 17.2
+    },
+    {
+      "texto": "que",
+      "inicio": 17.22,
+      "fin": 17.28
+    },
+    {
+      "texto": "el",
+      "inicio": 17.307,
+      "fin": 17.36
+    },
+    {
+      "texto": "total",
+      "inicio": 17.44,
+      "fin": 17.84
+    },
+    {
+      "texto": "no",
+      "inicio": 17.973,
+      "fin": 18.24
+    },
+    {
+      "texto": "cuadra.",
+      "inicio": 18.293,
+      "fin": 18.8
+    }
+  ]
+}

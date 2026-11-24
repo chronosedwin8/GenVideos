@@ -1,0 +1,240 @@
+{
+  "num": "04",
+  "titulo": "El aporte de Edwin",
+  "texto": "En el software que he desarrollado para empresas, la petición número uno siempre es la misma: \"Edwin, necesito un reporte por sede, cada semana\". Y casi siempre hay alguien que pierde una mañana entera haciéndolo a mano. Eso es justo lo que vamos a eliminar hoy.",
+  "texto_tts": "En el software que he desarrollado para empresas, la petición número uno siempre es la misma: \"Edwin, necesito un reporte por sede, cada semana\". Y casi siempre hay alguien que pierde una mañana entera haciéndolo a mano. Eso es justo lo que vamos a eliminar hoy.",
+  "modelo": "eleven_v3",
+  "duracion": 16.4,
+  "palabras": [
+    {
+      "texto": "En",
+      "inicio": 0.0,
+      "fin": 0.24
+    },
+    {
+      "texto": "el",
+      "inicio": 0.293,
+      "fin": 0.4
+    },
+    {
+      "texto": "software",
+      "inicio": 0.444,
+      "fin": 0.8
+    },
+    {
+      "texto": "que",
+      "inicio": 0.84,
+      "fin": 0.96
+    },
+    {
+      "texto": "he",
+      "inicio": 0.987,
+      "fin": 1.04
+    },
+    {
+      "texto": "desarrollado",
+      "inicio": 1.08,
+      "fin": 1.6
+    },
+    {
+      "texto": "para",
+      "inicio": 1.632,
+      "fin": 1.76
+    },
+    {
+      "texto": "empresas,",
+      "inicio": 1.831,
+      "fin": 2.64
+    },
+    {
+      "texto": "la",
+      "inicio": 2.693,
+      "fin": 2.8
+    },
+    {
+      "texto": "petición",
+      "inicio": 2.86,
+      "fin": 3.36
+    },
+    {
+      "texto": "número",
+      "inicio": 3.406,
+      "fin": 3.68
+    },
+    {
+      "texto": "uno",
+      "inicio": 3.74,
+      "fin": 3.92
+    },
+    {
+      "texto": "siempre",
+      "inicio": 3.97,
+      "fin": 4.32
+    },
+    {
+      "texto": "es",
+      "inicio": 4.347,
+      "fin": 4.4
+    },
+    {
+      "texto": "la",
+      "inicio": 4.427,
+      "fin": 4.48
+    },
+    {
+      "texto": "misma:",
+      "inicio": 4.547,
+      "fin": 4.96
+    },
+    {
+      "texto": "\"Edwin,",
+      "inicio": 5.0,
+      "fin": 5.44
+    },
+    {
+      "texto": "necesito",
+      "inicio": 5.493,
+      "fin": 6.08
+    },
+    {
+      "texto": "un",
+      "inicio": 6.187,
+      "fin": 6.4
+    },
+    {
+      "texto": "reporte",
+      "inicio": 6.469,
+      "fin": 6.96
+    },
+    {
+      "texto": "por",
+      "inicio": 7.02,
+      "fin": 7.2
+    },
+    {
+      "texto": "sede,",
+      "inicio": 7.296,
+      "fin": 7.76
+    },
+    {
+      "texto": "cada",
+      "inicio": 7.92,
+      "fin": 8.56
+    },
+    {
+      "texto": "semana\".",
+      "inicio": 8.64,
+      "fin": 9.2
+    },
+    {
+      "texto": "Y",
+      "inicio": 9.64,
+      "fin": 10.08
+    },
+    {
+      "texto": "casi",
+      "inicio": 10.176,
+      "fin": 10.56
+    },
+    {
+      "texto": "siempre",
+      "inicio": 10.61,
+      "fin": 10.96
+    },
+    {
+      "texto": "hay",
+      "inicio": 11.0,
+      "fin": 11.12
+    },
+    {
+      "texto": "alguien",
+      "inicio": 11.15,
+      "fin": 11.36
+    },
+    {
+      "texto": "que",
+      "inicio": 11.4,
+      "fin": 11.52
+    },
+    {
+      "texto": "pierde",
+      "inicio": 11.568,
+      "fin": 11.84
+    },
+    {
+      "texto": "una",
+      "inicio": 11.88,
+      "fin": 12.0
+    },
+    {
+      "texto": "mañana",
+      "inicio": 12.057,
+      "fin": 12.4
+    },
+    {
+      "texto": "entera",
+      "inicio": 12.46,
+      "fin": 12.88
+    },
+    {
+      "texto": "haciéndolo",
+      "inicio": 12.96,
+      "fin": 13.6
+    },
+    {
+      "texto": "a",
+      "inicio": 13.68,
+      "fin": 13.76
+    },
+    {
+      "texto": "mano.",
+      "inicio": 13.792,
+      "fin": 14.0
+    },
+    {
+      "texto": "Eso",
+      "inicio": 14.32,
+      "fin": 14.72
+    },
+    {
+      "texto": "es",
+      "inicio": 14.747,
+      "fin": 14.8
+    },
+    {
+      "texto": "justo",
+      "inicio": 14.853,
+      "fin": 15.12
+    },
+    {
+      "texto": "lo",
+      "inicio": 15.173,
+      "fin": 15.28
+    },
+    {
+      "texto": "que",
+      "inicio": 15.3,
+      "fin": 15.36
+    },
+    {
+      "texto": "vamos",
+      "inicio": 15.4,
+      "fin": 15.6
+    },
+    {
+      "texto": "a",
+      "inicio": 15.64,
+      "fin": 15.68
+    },
+    {
+      "texto": "eliminar",
+      "inicio": 15.733,
+      "fin": 16.16
+    },
+    {
+      "texto": "hoy.",
+      "inicio": 16.2,
+      "fin": 16.4
+    }
+  ]
+}

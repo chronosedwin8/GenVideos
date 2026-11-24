@@ -1,0 +1,290 @@
+{
+  "num": "12",
+  "titulo": "Paso 6: se actualiza sola",
+  "texto": "Paso seis: la prueba de fuego. Cambio una venta de Norte, de tres mil seiscientos a cuatro mil. Y mira el resumen: Norte sube a seis mil setecientos cuarenta y cinco, y el total a once mil trescientos veinte. Sin actualizar, sin clics. Eso es lo que hace que tus informes nunca salgan con datos viejos.",
+  "texto_tts": "Paso seis: la prueba de fuego. Cambio una venta de Norte, de tres mil seiscientos a cuatro mil. Y mira el resumen: Norte sube a seis mil setecientos cuarenta y cinco, y el total a once mil trescientos veinte. Sin actualizar, sin clics. Eso es lo que hace que tus informes nunca salgan con datos viejos.",
+  "modelo": "eleven_v3",
+  "duracion": 26.8,
+  "palabras": [
+    {
+      "texto": "Paso",
+      "inicio": 0.0,
+      "fin": 0.24
+    },
+    {
+      "texto": "seis:",
+      "inicio": 0.352,
+      "fin": 0.88
+    },
+    {
+      "texto": "la",
+      "inicio": 1.04,
+      "fin": 1.36
+    },
+    {
+      "texto": "prueba",
+      "inicio": 1.417,
+      "fin": 1.76
+    },
+    {
+      "texto": "de",
+      "inicio": 1.787,
+      "fin": 1.84
+    },
+    {
+      "texto": "fuego.",
+      "inicio": 1.92,
+      "fin": 2.4
+    },
+    {
+      "texto": "Cambio",
+      "inicio": 2.64,
+      "fin": 3.68
+    },
+    {
+      "texto": "una",
+      "inicio": 3.72,
+      "fin": 3.84
+    },
+    {
+      "texto": "venta",
+      "inicio": 3.907,
+      "fin": 4.24
+    },
+    {
+      "texto": "de",
+      "inicio": 4.267,
+      "fin": 4.32
+    },
+    {
+      "texto": "Norte,",
+      "inicio": 4.413,
+      "fin": 5.12
+    },
+    {
+      "texto": "de",
+      "inicio": 5.147,
+      "fin": 5.2
+    },
+    {
+      "texto": "tres",
+      "inicio": 5.232,
+      "fin": 5.36
+    },
+    {
+      "texto": "mil",
+      "inicio": 5.4,
+      "fin": 5.52
+    },
+    {
+      "texto": "seiscientos",
+      "inicio": 5.6,
+      "fin": 6.32
+    },
+    {
+      "texto": "a",
+      "inicio": 6.4,
+      "fin": 6.48
+    },
+    {
+      "texto": "cuatro",
+      "inicio": 6.514,
+      "fin": 6.72
+    },
+    {
+      "texto": "mil.",
+      "inicio": 6.8,
+      "fin": 7.12
+    },
+    {
+      "texto": "Y",
+      "inicio": 7.68,
+      "fin": 8.24
+    },
+    {
+      "texto": "mira",
+      "inicio": 8.3,
+      "fin": 8.52
+    },
+    {
+      "texto": "el",
+      "inicio": 8.533,
+      "fin": 8.56
+    },
+    {
+      "texto": "resumen:",
+      "inicio": 8.62,
+      "fin": 9.92
+    },
+    {
+      "texto": "Norte",
+      "inicio": 9.987,
+      "fin": 10.32
+    },
+    {
+      "texto": "sube",
+      "inicio": 10.4,
+      "fin": 10.72
+    },
+    {
+      "texto": "a",
+      "inicio": 10.84,
+      "fin": 10.96
+    },
+    {
+      "texto": "seis",
+      "inicio": 11.024,
+      "fin": 11.28
+    },
+    {
+      "texto": "mil",
+      "inicio": 11.34,
+      "fin": 11.52
+    },
+    {
+      "texto": "setecientos",
+      "inicio": 11.6,
+      "fin": 12.24
+    },
+    {
+      "texto": "cuarenta",
+      "inicio": 12.32,
+      "fin": 12.8
+    },
+    {
+      "texto": "y",
+      "inicio": 12.88,
+      "fin": 12.96
+    },
+    {
+      "texto": "cinco,",
+      "inicio": 13.027,
+      "fin": 13.6
+    },
+    {
+      "texto": "y",
+      "inicio": 13.88,
+      "fin": 14.16
+    },
+    {
+      "texto": "el",
+      "inicio": 14.213,
+      "fin": 14.32
+    },
+    {
+      "texto": "total",
+      "inicio": 14.4,
+      "fin": 14.8
+    },
+    {
+      "texto": "a",
+      "inicio": 15.08,
+      "fin": 15.36
+    },
+    {
+      "texto": "once",
+      "inicio": 15.44,
+      "fin": 15.76
+    },
+    {
+      "texto": "mil",
+      "inicio": 15.84,
+      "fin": 16.08
+    },
+    {
+      "texto": "trescientos",
+      "inicio": 16.176,
+      "fin": 16.88
+    },
+    {
+      "texto": "veinte.",
+      "inicio": 16.987,
+      "fin": 17.68
+    },
+    {
+      "texto": "Sin",
+      "inicio": 17.9,
+      "fin": 18.56
+    },
+    {
+      "texto": "actualizar,",
+      "inicio": 18.647,
+      "fin": 20.16
+    },
+    {
+      "texto": "sin",
+      "inicio": 20.26,
+      "fin": 20.56
+    },
+    {
+      "texto": "clics.",
+      "inicio": 20.72,
+      "fin": 21.6
+    },
+    {
+      "texto": "Eso",
+      "inicio": 22.08,
+      "fin": 22.64
+    },
+    {
+      "texto": "es",
+      "inicio": 22.667,
+      "fin": 22.72
+    },
+    {
+      "texto": "lo",
+      "inicio": 22.747,
+      "fin": 22.8
+    },
+    {
+      "texto": "que",
+      "inicio": 22.84,
+      "fin": 22.96
+    },
+    {
+      "texto": "hace",
+      "inicio": 23.008,
+      "fin": 23.2
+    },
+    {
+      "texto": "que",
+      "inicio": 23.22,
+      "fin": 23.28
+    },
+    {
+      "texto": "tus",
+      "inicio": 23.34,
+      "fin": 23.52
+    },
+    {
+      "texto": "informes",
+      "inicio": 23.589,
+      "fin": 24.16
+    },
+    {
+      "texto": "nunca",
+      "inicio": 24.293,
+      "fin": 24.96
+    },
+    {
+      "texto": "salgan",
+      "inicio": 25.04,
+      "fin": 25.44
+    },
+    {
+      "texto": "con",
+      "inicio": 25.5,
+      "fin": 25.68
+    },
+    {
+      "texto": "datos",
+      "inicio": 25.747,
+      "fin": 26.08
+    },
+    {
+      "texto": "viejos.",
+      "inicio": 26.14,
+      "fin": 26.8
+    }
+  ]
+}

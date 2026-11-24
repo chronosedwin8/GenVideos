@@ -1,0 +1,54 @@
+{
+  "titulo": "7 funciones de Excel que te ahorran horas (y casi nadie usa)",
+  "descripcion": "BUSCARX, FILTRAR, UNICOS, ORDENARPOR, DIVIDIRTEXTO, APILARV y LET: siete funciones de Excel que hacen en un segundo lo que antes te tomaba media hora. Con ejemplos reales, los errores más comunes y qué hacer si tienes Excel 2016 o 2019.\n\nEn este video aprenderás:\n✅ Qué es el desbordamiento (matrices dinámicas)\n✅ Las 7 funciones con ejemplos\n✅ Cómo combinarlas en una sola fórmula\n✅ El truco de la Tabla (Ctrl + T)\n✅ #¿NOMBRE?, #¡DESBORDAMIENTO! y #¡CALC!\n\nFórmulas del video:\n=BUSCARX(F2;A2:A6;C2:C6;\"No existe\")\n=FILTRAR(A2:D9;B2:B9=\"Norte\";\"Sin datos\")\n=UNICOS(A2:A9)\n=TOMAR(ORDENARPOR(A2:D9;D2:D9;-1);3)\n=DIVIDIRTEXTO(A2;\"-\")\n=APILARV(Enero!A2:D4;Febrero!A2:D4)\n=LET(precio;BUSCARX(F2;A2:A6;C2:C6);SI(precio>1000;precio*90%;precio))\nSi tu Excel usa coma como separador, cambia ; por ,\n\nCapítulos\n0:00 Deja de copiar y pegar\n0:42 Excel cumplió 40 años\n1:16 La clave: el desbordamiento\n2:00 1. BUSCARX\n2:42 2. FILTRAR\n3:15 3. UNICOS\n3:38 4. ORDENARPOR + TOMAR\n4:14 5. DIVIDIRTEXTO\n4:44 6. APILARV\n5:15 7. LET\n5:52 Bonus: combínalas\n6:29 Si no te funciona\n6:47 Truco: conviértelo en Tabla\n7:22 ¿Tienes Excel 2016 o 2019?\n8:07 Resumen\n\n📊 Guías de Excel en el blog: https://www.edwinortiz.net/excel/\n🌐 Plantillas y cursos: https://www.edwinortiz.net\n\nFuentes\nMicrosoft 365 Insider Blog, \"Microsoft Excel turns 40!\": https://techcommunity.microsoft.com/blog/microsoft365insiderblog/microsoft-excel-turns-40/4455409\nExcel Blog, nuevas funciones de texto y matrices: https://techcommunity.microsoft.com/blog/excelblog/announcing-new-text-and-array-functions/3186066\n\nLa voz de este video es la voz de Edwin, clonada con inteligencia artificial (ElevenLabs).\n\nVamos en busca del poder tecnológico. 🚀\n#Excel #TrucosDeExcel #FuncionesDeExcel",
+  "tags": [
+    "funciones de excel",
+    "funciones nuevas excel",
+    "buscarx",
+    "filtrar excel",
+    "unicos excel",
+    "ordenarpor",
+    "dividirtexto",
+    "apilarv",
+    "let excel",
+    "matrices dinamicas",
+    "trucos de excel",
+    "excel 365",
+    "edwin o"
+  ],
+  "categoria": 27,
+  "idioma": "es",
+  "creado_para_ninos": false,
+  "contenido_sintetico": true,
+  "privacidad": "public",
+  "programar": "2026-12-03 07:00",
+  "playlist": "Listas que enganchan",
+  "archivo": "render/funciones-que-ahorran-horas.mp4",
+  "miniatura": "miniatura.png",
+  "subtitulos": "audio/subtitulos.srt",
+  "shorts": [
+    {
+      "id": "short-1",
+      "titulo": "Deja de COPIAR Y PEGAR en Excel (FILTRAR) #shorts",
+      "descripcion": "=FILTRAR(A2:D9;B2:B9=\"Norte\";\"Sin datos\") y el reporte se actualiza solo. Video completo en el canal.",
+      "tags": [
+        "filtrar excel",
+        "shorts"
+      ],
+      "programar": "2026-12-04 12:00",
+      "archivo": "render/short-1.mp4"
+    },
+    {
+      "id": "short-2",
+      "titulo": "Tu TOP 3 automático en Excel #shorts",
+      "descripcion": "=TOMAR(ORDENARPOR(A2:D9;D2:D9;-1);3). Video completo en el canal.",
+      "tags": [
+        "ordenarpor excel",
+        "tomar excel",
+        "shorts"
+      ],
+      "programar": "2026-12-07 12:00",
+      "archivo": "render/short-2.mp4"
+    }
+  ]
+}

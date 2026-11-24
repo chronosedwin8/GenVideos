@@ -1,0 +1,335 @@
+{
+  "num": "08",
+  "titulo": "Paso 2: el else",
+  "texto": "Paso dos: el else, que significa \"si no\". Va al mismo nivel que el if, sin sangría, también con dos puntos. Lo que pongas debajo de else se ejecuta cuando la condición es falsa. Así tu programa siempre hace algo: o una cosa, o la otra. Nunca las dos. Y fíjate que el else no lleva condición: atrapa todo lo que no cumplió el if.",
+  "texto_tts": "Paso dos: el else, que significa \"si no\". Va al mismo nivel que el if, sin sangría, también con dos puntos. Lo que pongas debajo de else se ejecuta cuando la condición es falsa. Así tu programa siempre hace algo: o una cosa, o la otra. Nunca las dos. Y fíjate que el else no lleva condición: atrapa todo lo que no cumplió el if.",
+  "modelo": "eleven_v3",
+  "duracion": 28.64,
+  "palabras": [
+    {
+      "texto": "Paso",
+      "inicio": 0.0,
+      "fin": 0.32
+    },
+    {
+      "texto": "dos:",
+      "inicio": 0.42,
+      "fin": 0.8
+    },
+    {
+      "texto": "el",
+      "inicio": 1.147,
+      "fin": 1.84
+    },
+    {
+      "texto": "else,",
+      "inicio": 1.968,
+      "fin": 2.56
+    },
+    {
+      "texto": "que",
+      "inicio": 2.66,
+      "fin": 2.96
+    },
+    {
+      "texto": "significa",
+      "inicio": 3.016,
+      "fin": 3.52
+    },
+    {
+      "texto": "\"si",
+      "inicio": 3.72,
+      "fin": 4.08
+    },
+    {
+      "texto": "no\".",
+      "inicio": 4.16,
+      "fin": 4.4
+    },
+    {
+      "texto": "Va",
+      "inicio": 4.773,
+      "fin": 5.52
+    },
+    {
+      "texto": "al",
+      "inicio": 5.573,
+      "fin": 5.68
+    },
+    {
+      "texto": "mismo",
+      "inicio": 5.733,
+      "fin": 6.0
+    },
+    {
+      "texto": "nivel",
+      "inicio": 6.053,
+      "fin": 6.32
+    },
+    {
+      "texto": "que",
+      "inicio": 6.36,
+      "fin": 6.48
+    },
+    {
+      "texto": "el",
+      "inicio": 6.507,
+      "fin": 6.56
+    },
+    {
+      "texto": "if,",
+      "inicio": 6.667,
+      "fin": 6.96
+    },
+    {
+      "texto": "sin",
+      "inicio": 7.12,
+      "fin": 7.6
+    },
+    {
+      "texto": "sangría,",
+      "inicio": 7.664,
+      "fin": 8.32
+    },
+    {
+      "texto": "también",
+      "inicio": 8.42,
+      "fin": 9.12
+    },
+    {
+      "texto": "con",
+      "inicio": 9.18,
+      "fin": 9.36
+    },
+    {
+      "texto": "dos",
+      "inicio": 9.4,
+      "fin": 9.52
+    },
+    {
+      "texto": "puntos.",
+      "inicio": 9.6,
+      "fin": 10.24
+    },
+    {
+      "texto": "Lo",
+      "inicio": 10.453,
+      "fin": 10.88
+    },
+    {
+      "texto": "que",
+      "inicio": 10.92,
+      "fin": 11.04
+    },
+    {
+      "texto": "pongas",
+      "inicio": 11.104,
+      "fin": 11.44
+    },
+    {
+      "texto": "debajo",
+      "inicio": 11.5,
+      "fin": 11.92
+    },
+    {
+      "texto": "de",
+      "inicio": 11.973,
+      "fin": 12.08
+    },
+    {
+      "texto": "else",
+      "inicio": 12.208,
+      "fin": 12.72
+    },
+    {
+      "texto": "se",
+      "inicio": 12.853,
+      "fin": 13.12
+    },
+    {
+      "texto": "ejecuta",
+      "inicio": 13.184,
+      "fin": 13.68
+    },
+    {
+      "texto": "cuando",
+      "inicio": 13.726,
+      "fin": 14.0
+    },
+    {
+      "texto": "la",
+      "inicio": 14.027,
+      "fin": 14.08
+    },
+    {
+      "texto": "condición",
+      "inicio": 14.144,
+      "fin": 14.72
+    },
+    {
+      "texto": "es",
+      "inicio": 14.853,
+      "fin": 15.12
+    },
+    {
+      "texto": "falsa.",
+      "inicio": 15.216,
+      "fin": 15.76
+    },
+    {
+      "texto": "Así",
+      "inicio": 16.107,
+      "fin": 16.88
+    },
+    {
+      "texto": "tu",
+      "inicio": 16.933,
+      "fin": 17.04
+    },
+    {
+      "texto": "programa",
+      "inicio": 17.102,
+      "fin": 17.6
+    },
+    {
+      "texto": "siempre",
+      "inicio": 17.65,
+      "fin": 18.0
+    },
+    {
+      "texto": "hace",
+      "inicio": 18.048,
+      "fin": 18.24
+    },
+    {
+      "texto": "algo:",
+      "inicio": 18.32,
+      "fin": 18.88
+    },
+    {
+      "texto": "o",
+      "inicio": 18.92,
+      "fin": 18.96
+    },
+    {
+      "texto": "una",
+      "inicio": 19.04,
+      "fin": 19.28
+    },
+    {
+      "texto": "cosa,",
+      "inicio": 19.376,
+      "fin": 20.0
+    },
+    {
+      "texto": "o",
+      "inicio": 20.12,
+      "fin": 20.24
+    },
+    {
+      "texto": "la",
+      "inicio": 20.293,
+      "fin": 20.4
+    },
+    {
+      "texto": "otra.",
+      "inicio": 20.48,
+      "fin": 20.88
+    },
+    {
+      "texto": "Nunca",
+      "inicio": 21.12,
+      "fin": 21.92
+    },
+    {
+      "texto": "las",
+      "inicio": 21.96,
+      "fin": 22.08
+    },
+    {
+      "texto": "dos.",
+      "inicio": 22.18,
+      "fin": 22.56
+    },
+    {
+      "texto": "Y",
+      "inicio": 23.0,
+      "fin": 23.44
+    },
+    {
+      "texto": "fíjate",
+      "inicio": 23.52,
+      "fin": 23.84
+    },
+    {
+      "texto": "que",
+      "inicio": 23.88,
+      "fin": 24.0
+    },
+    {
+      "texto": "el",
+      "inicio": 24.027,
+      "fin": 24.08
+    },
+    {
+      "texto": "else",
+      "inicio": 24.224,
+      "fin": 24.8
+    },
+    {
+      "texto": "no",
+      "inicio": 24.88,
+      "fin": 25.04
+    },
+    {
+      "texto": "lleva",
+      "inicio": 25.088,
+      "fin": 25.36
+    },
+    {
+      "texto": "condición:",
+      "inicio": 25.408,
+      "fin": 26.56
+    },
+    {
+      "texto": "atrapa",
+      "inicio": 26.64,
+      "fin": 27.12
+    },
+    {
+      "texto": "todo",
+      "inicio": 27.184,
+      "fin": 27.44
+    },
+    {
+      "texto": "lo",
+      "inicio": 27.493,
+      "fin": 27.6
+    },
+    {
+      "texto": "que",
+      "inicio": 27.62,
+      "fin": 27.68
+    },
+    {
+      "texto": "no",
+      "inicio": 27.733,
+      "fin": 27.84
+    },
+    {
+      "texto": "cumplió",
+      "inicio": 27.893,
+      "fin": 28.24
+    },
+    {
+      "texto": "el",
+      "inicio": 28.267,
+      "fin": 28.32
+    },
+    {
+      "texto": "if.",
+      "inicio": 28.427,
+      "fin": 28.64
+    }
+  ]
+}

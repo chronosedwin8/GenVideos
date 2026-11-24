@@ -1,0 +1,330 @@
+{
+  "num": "16",
+  "titulo": "¿Y si tengo Excel 2016 o 2019?",
+  "texto": "¿Y si en tu trabajo tienes Excel dos mil dieciséis o dos mil diecinueve? Tienes dos caminos. El primero: Excel para la web, que es gratis con una cuenta de Microsoft, y ya trae estas funciones. Ábrelo desde el navegador y practica ahí. El segundo: muéstrale este video a tu jefe. Cuando vea cuántas horas se ahorra el equipo, la actualización se paga sola.",
+  "texto_tts": "¿Y si en tu trabajo tienes Excel dos mil dieciséis o dos mil diecinueve? Tienes dos caminos. El primero: Excel para la web, que es gratis con una cuenta de Microsoft, y ya trae estas funciones. Ábrelo desde el navegador y practica ahí. El segundo: muéstrale este video a tu jefe. Cuando vea cuántas horas se ahorra el equipo, la actualización se paga sola.",
+  "modelo": "eleven_v3",
+  "duracion": 24.56,
+  "palabras": [
+    {
+      "texto": "¿Y",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "si",
+      "inicio": 0.107,
+      "fin": 0.16
+    },
+    {
+      "texto": "en",
+      "inicio": 0.213,
+      "fin": 0.32
+    },
+    {
+      "texto": "tu",
+      "inicio": 0.347,
+      "fin": 0.4
+    },
+    {
+      "texto": "trabajo",
+      "inicio": 0.45,
+      "fin": 0.8
+    },
+    {
+      "texto": "tienes",
+      "inicio": 0.846,
+      "fin": 1.12
+    },
+    {
+      "texto": "Excel",
+      "inicio": 1.187,
+      "fin": 1.52
+    },
+    {
+      "texto": "dos",
+      "inicio": 1.54,
+      "fin": 1.6
+    },
+    {
+      "texto": "mil",
+      "inicio": 1.64,
+      "fin": 1.76
+    },
+    {
+      "texto": "dieciséis",
+      "inicio": 1.82,
+      "fin": 2.4
+    },
+    {
+      "texto": "o",
+      "inicio": 2.56,
+      "fin": 2.72
+    },
+    {
+      "texto": "dos",
+      "inicio": 2.76,
+      "fin": 2.88
+    },
+    {
+      "texto": "mil",
+      "inicio": 2.92,
+      "fin": 3.04
+    },
+    {
+      "texto": "diecinueve?",
+      "inicio": 3.1,
+      "fin": 3.6
+    },
+    {
+      "texto": "Tienes",
+      "inicio": 4.32,
+      "fin": 5.28
+    },
+    {
+      "texto": "dos",
+      "inicio": 5.32,
+      "fin": 5.44
+    },
+    {
+      "texto": "caminos.",
+      "inicio": 5.48,
+      "fin": 6.08
+    },
+    {
+      "texto": "El",
+      "inicio": 6.32,
+      "fin": 6.8
+    },
+    {
+      "texto": "primero:",
+      "inicio": 6.86,
+      "fin": 7.36
+    },
+    {
+      "texto": "Excel",
+      "inicio": 7.52,
+      "fin": 8.32
+    },
+    {
+      "texto": "para",
+      "inicio": 8.368,
+      "fin": 8.56
+    },
+    {
+      "texto": "la",
+      "inicio": 8.587,
+      "fin": 8.64
+    },
+    {
+      "texto": "web,",
+      "inicio": 8.72,
+      "fin": 9.2
+    },
+    {
+      "texto": "que",
+      "inicio": 9.22,
+      "fin": 9.28
+    },
+    {
+      "texto": "es",
+      "inicio": 9.307,
+      "fin": 9.36
+    },
+    {
+      "texto": "gratis",
+      "inicio": 9.417,
+      "fin": 9.76
+    },
+    {
+      "texto": "con",
+      "inicio": 9.8,
+      "fin": 9.92
+    },
+    {
+      "texto": "una",
+      "inicio": 9.94,
+      "fin": 10.0
+    },
+    {
+      "texto": "cuenta",
+      "inicio": 10.046,
+      "fin": 10.32
+    },
+    {
+      "texto": "de",
+      "inicio": 10.347,
+      "fin": 10.4
+    },
+    {
+      "texto": "Microsoft,",
+      "inicio": 10.456,
+      "fin": 11.12
+    },
+    {
+      "texto": "y",
+      "inicio": 11.16,
+      "fin": 11.2
+    },
+    {
+      "texto": "ya",
+      "inicio": 11.253,
+      "fin": 11.36
+    },
+    {
+      "texto": "trae",
+      "inicio": 11.413,
+      "fin": 11.6
+    },
+    {
+      "texto": "estas",
+      "inicio": 11.64,
+      "fin": 11.84
+    },
+    {
+      "texto": "funciones.",
+      "inicio": 11.896,
+      "fin": 12.56
+    },
+    {
+      "texto": "Ábrelo",
+      "inicio": 12.96,
+      "fin": 13.68
+    },
+    {
+      "texto": "desde",
+      "inicio": 13.707,
+      "fin": 13.84
+    },
+    {
+      "texto": "el",
+      "inicio": 13.867,
+      "fin": 13.92
+    },
+    {
+      "texto": "navegador",
+      "inicio": 13.984,
+      "fin": 14.56
+    },
+    {
+      "texto": "y",
+      "inicio": 14.68,
+      "fin": 14.8
+    },
+    {
+      "texto": "practica",
+      "inicio": 14.867,
+      "fin": 15.36
+    },
+    {
+      "texto": "ahí.",
+      "inicio": 15.387,
+      "fin": 15.68
+    },
+    {
+      "texto": "El",
+      "inicio": 16.053,
+      "fin": 16.8
+    },
+    {
+      "texto": "segundo:",
+      "inicio": 16.87,
+      "fin": 17.44
+    },
+    {
+      "texto": "muéstrale",
+      "inicio": 17.653,
+      "fin": 18.4
+    },
+    {
+      "texto": "este",
+      "inicio": 18.448,
+      "fin": 18.64
+    },
+    {
+      "texto": "video",
+      "inicio": 18.68,
+      "fin": 18.88
+    },
+    {
+      "texto": "a",
+      "inicio": 18.92,
+      "fin": 18.96
+    },
+    {
+      "texto": "tu",
+      "inicio": 18.987,
+      "fin": 19.04
+    },
+    {
+      "texto": "jefe.",
+      "inicio": 19.12,
+      "fin": 19.52
+    },
+    {
+      "texto": "Cuando",
+      "inicio": 19.669,
+      "fin": 20.56
+    },
+    {
+      "texto": "vea",
+      "inicio": 20.613,
+      "fin": 20.8
+    },
+    {
+      "texto": "cuántas",
+      "inicio": 20.88,
+      "fin": 21.44
+    },
+    {
+      "texto": "horas",
+      "inicio": 21.48,
+      "fin": 21.68
+    },
+    {
+      "texto": "se",
+      "inicio": 21.707,
+      "fin": 21.76
+    },
+    {
+      "texto": "ahorra",
+      "inicio": 21.8,
+      "fin": 22.0
+    },
+    {
+      "texto": "el",
+      "inicio": 22.027,
+      "fin": 22.08
+    },
+    {
+      "texto": "equipo,",
+      "inicio": 22.137,
+      "fin": 23.04
+    },
+    {
+      "texto": "la",
+      "inicio": 23.067,
+      "fin": 23.12
+    },
+    {
+      "texto": "actualización",
+      "inicio": 23.154,
+      "fin": 23.76
+    },
+    {
+      "texto": "se",
+      "inicio": 23.787,
+      "fin": 23.84
+    },
+    {
+      "texto": "paga",
+      "inicio": 23.88,
+      "fin": 24.08
+    },
+    {
+      "texto": "sola.",
+      "inicio": 24.144,
+      "fin": 24.56
+    }
+  ]
+}

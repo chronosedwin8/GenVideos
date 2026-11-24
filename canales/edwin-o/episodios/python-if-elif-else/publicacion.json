@@ -1,0 +1,50 @@
+{
+  "titulo": "Condicionales en Python: IF, ELIF y ELSE explicado fácil (con ejemplo real)",
+  "descripcion": "Aprende las condicionales de Python desde cero con un ejemplo real de trabajo: el cálculo de comisiones. Te explico if, elif y else, los comparadores, and y or, el if de una línea y los 5 errores de principiante con los mensajes reales de Python 3.14.\n\nEn este video aprenderás:\n✅ if, elif y else paso a paso\n✅ Los 6 comparadores\n✅ Por qué el orden importa\n✅ input devuelve texto: float()\n✅ and y or\n✅ El if de una línea\n✅ Los 5 errores de principiante\n\nCódigo del video (comisiones.py):\nventas = float(input(\"Ventas del mes: \"))\n\nif ventas >= 5000:\n    comision = ventas * 0.05\nelif ventas >= 1000:\n    comision = ventas * 0.03\nelse:\n    comision = 0\n\nprint(f\"Comisión: {comision:.2f}\")\n\nReto: pide una nota de 0 a 100 (90 o más: Excelente · 60 o más: Aprobado · si no: Reprobado). ¡Déjalo en los comentarios!\n\nCapítulos\n0:00 Tu programa toma decisiones\n0:40 Python 3.14 y sus mensajes de error\n1:30 ¿Qué es una condicional?\n1:58 Paso 1: el if\n2:26 Los comparadores\n2:50 Paso 2: el else\n3:19 Paso 3: el elif\n3:57 Pruébalo con los límites\n4:31 El orden importa\n5:07 input devuelve texto\n5:28 and y or\n6:06 Bonus: el if de una línea\n6:30 Los 5 errores de principiante\n7:14 Excel y Python, la misma lógica\n7:47 Tu reto\n\n🐍 Python: https://www.python.org\n🌐 Plantillas y cursos: https://www.edwinortiz.net\n\nFuentes\nWhat's new in Python 3.14: https://docs.python.org/3/whatsnew/3.14.html\nPython 3.14.0 final: https://blog.python.org/2025/10/python-3140-final-is-here/\n\nLa voz de este video es la voz de Edwin, clonada con inteligencia artificial (ElevenLabs).\n\nVamos en busca del poder tecnológico. 🚀\n#Python #Programacion #PythonParaPrincipiantes",
+  "tags": [
+    "if elif else python",
+    "condicionales python",
+    "python para principiantes",
+    "if en python",
+    "curso python",
+    "aprender python",
+    "python desde cero",
+    "errores python",
+    "python 3.14",
+    "edwin o"
+  ],
+  "categoria": 27,
+  "idioma": "es",
+  "creado_para_ninos": false,
+  "contenido_sintetico": true,
+  "privacidad": "public",
+  "programar": "2026-12-17 07:00",
+  "playlist": "Python práctico",
+  "archivo": "render/python-if-elif-else.mp4",
+  "miniatura": "miniatura.png",
+  "subtitulos": "audio/subtitulos.srt",
+  "shorts": [
+    {
+      "id": "short-1",
+      "titulo": "Este error de Python CUESTA DINERO (if/elif) #shorts",
+      "descripcion": "Python se detiene en la primera condición verdadera: el orden importa. Video completo en el canal.",
+      "tags": [
+        "if elif python",
+        "shorts"
+      ],
+      "programar": "2026-12-18 12:00",
+      "archivo": "render/short-1.mp4"
+    },
+    {
+      "id": "short-2",
+      "titulo": "5 errores de principiante en Python #shorts",
+      "descripcion": "Con los mensajes reales de Python 3.14. Video completo en el canal.",
+      "tags": [
+        "errores python",
+        "shorts"
+      ],
+      "programar": "2026-12-21 12:00",
+      "archivo": "render/short-2.mp4"
+    }
+  ]
+}

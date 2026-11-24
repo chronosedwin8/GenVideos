@@ -1,0 +1,275 @@
+{
+  "num": "08",
+  "titulo": "3. UNICOS",
+  "texto": "Número tres: UNICOS. ¿Necesitas la lista de vendedores sin repetir? Igual, UNICOS, y la columna de vendedores. Listo: Ana, Luis, Marta, Pedro y Sofía, cada uno una sola vez. Y si mañana llega un vendedor nuevo, aparece solo en la lista. Es perfecta para armar listas desplegables o la base de un resumen.",
+  "texto_tts": "Número tres: UNICOS. ¿Necesitas la lista de vendedores sin repetir? Igual, UNICOS, y la columna de vendedores. Listo: Ana, Luis, Marta, Pedro y Sofía, cada uno una sola vez. Y si mañana llega un vendedor nuevo, aparece solo en la lista. Es perfecta para armar listas desplegables o la base de un resumen.",
+  "modelo": "eleven_v3",
+  "duracion": 23.28,
+  "palabras": [
+    {
+      "texto": "Número",
+      "inicio": 0.0,
+      "fin": 0.32
+    },
+    {
+      "texto": "tres:",
+      "inicio": 0.4,
+      "fin": 0.8
+    },
+    {
+      "texto": "UNICOS.",
+      "inicio": 1.067,
+      "fin": 2.52
+    },
+    {
+      "texto": "¿Necesitas",
+      "inicio": 2.74,
+      "fin": 3.6
+    },
+    {
+      "texto": "la",
+      "inicio": 3.627,
+      "fin": 3.68
+    },
+    {
+      "texto": "lista",
+      "inicio": 3.733,
+      "fin": 4.0
+    },
+    {
+      "texto": "de",
+      "inicio": 4.027,
+      "fin": 4.08
+    },
+    {
+      "texto": "vendedores",
+      "inicio": 4.12,
+      "fin": 4.56
+    },
+    {
+      "texto": "sin",
+      "inicio": 4.62,
+      "fin": 4.8
+    },
+    {
+      "texto": "repetir?",
+      "inicio": 4.853,
+      "fin": 5.36
+    },
+    {
+      "texto": "Igual,",
+      "inicio": 5.493,
+      "fin": 6.16
+    },
+    {
+      "texto": "UNICOS,",
+      "inicio": 6.293,
+      "fin": 7.04
+    },
+    {
+      "texto": "y",
+      "inicio": 7.2,
+      "fin": 7.36
+    },
+    {
+      "texto": "la",
+      "inicio": 7.387,
+      "fin": 7.44
+    },
+    {
+      "texto": "columna",
+      "inicio": 7.5,
+      "fin": 7.92
+    },
+    {
+      "texto": "de",
+      "inicio": 7.947,
+      "fin": 8.0
+    },
+    {
+      "texto": "vendedores.",
+      "inicio": 8.04,
+      "fin": 8.8
+    },
+    {
+      "texto": "Listo:",
+      "inicio": 8.944,
+      "fin": 10.16
+    },
+    {
+      "texto": "Ana,",
+      "inicio": 10.24,
+      "fin": 10.64
+    },
+    {
+      "texto": "Luis,",
+      "inicio": 10.736,
+      "fin": 11.36
+    },
+    {
+      "texto": "Marta,",
+      "inicio": 11.44,
+      "fin": 12.0
+    },
+    {
+      "texto": "Pedro",
+      "inicio": 12.053,
+      "fin": 12.32
+    },
+    {
+      "texto": "y",
+      "inicio": 12.36,
+      "fin": 12.4
+    },
+    {
+      "texto": "Sofía,",
+      "inicio": 12.48,
+      "fin": 13.04
+    },
+    {
+      "texto": "cada",
+      "inicio": 13.12,
+      "fin": 13.44
+    },
+    {
+      "texto": "uno",
+      "inicio": 13.54,
+      "fin": 13.84
+    },
+    {
+      "texto": "una",
+      "inicio": 13.96,
+      "fin": 14.32
+    },
+    {
+      "texto": "sola",
+      "inicio": 14.384,
+      "fin": 14.64
+    },
+    {
+      "texto": "vez.",
+      "inicio": 14.74,
+      "fin": 15.12
+    },
+    {
+      "texto": "Y",
+      "inicio": 15.36,
+      "fin": 15.6
+    },
+    {
+      "texto": "si",
+      "inicio": 15.653,
+      "fin": 15.76
+    },
+    {
+      "texto": "mañana",
+      "inicio": 15.817,
+      "fin": 16.16
+    },
+    {
+      "texto": "llega",
+      "inicio": 16.192,
+      "fin": 16.4
+    },
+    {
+      "texto": "un",
+      "inicio": 16.427,
+      "fin": 16.48
+    },
+    {
+      "texto": "vendedor",
+      "inicio": 16.52,
+      "fin": 16.88
+    },
+    {
+      "texto": "nuevo,",
+      "inicio": 16.947,
+      "fin": 17.52
+    },
+    {
+      "texto": "aparece",
+      "inicio": 17.573,
+      "fin": 18.0
+    },
+    {
+      "texto": "solo",
+      "inicio": 18.08,
+      "fin": 18.4
+    },
+    {
+      "texto": "en",
+      "inicio": 18.427,
+      "fin": 18.48
+    },
+    {
+      "texto": "la",
+      "inicio": 18.533,
+      "fin": 18.64
+    },
+    {
+      "texto": "lista.",
+      "inicio": 18.707,
+      "fin": 19.12
+    },
+    {
+      "texto": "Es",
+      "inicio": 19.307,
+      "fin": 19.68
+    },
+    {
+      "texto": "perfecta",
+      "inicio": 19.74,
+      "fin": 20.24
+    },
+    {
+      "texto": "para",
+      "inicio": 20.272,
+      "fin": 20.4
+    },
+    {
+      "texto": "armar",
+      "inicio": 20.453,
+      "fin": 20.72
+    },
+    {
+      "texto": "listas",
+      "inicio": 20.768,
+      "fin": 21.04
+    },
+    {
+      "texto": "desplegables",
+      "inicio": 21.1,
+      "fin": 21.92
+    },
+    {
+      "texto": "o",
+      "inicio": 22.04,
+      "fin": 22.16
+    },
+    {
+      "texto": "la",
+      "inicio": 22.213,
+      "fin": 22.32
+    },
+    {
+      "texto": "base",
+      "inicio": 22.384,
+      "fin": 22.64
+    },
+    {
+      "texto": "de",
+      "inicio": 22.667,
+      "fin": 22.72
+    },
+    {
+      "texto": "un",
+      "inicio": 22.747,
+      "fin": 22.8
+    },
+    {
+      "texto": "resumen.",
+      "inicio": 22.86,
+      "fin": 23.28
+    }
+  ]
+}

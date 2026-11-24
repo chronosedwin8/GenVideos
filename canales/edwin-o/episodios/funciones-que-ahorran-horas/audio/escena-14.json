@@ -1,0 +1,275 @@
+{
+  "num": "14",
+  "titulo": "Si no te funciona",
+  "texto": "Si algo no te funciona, revisa esto. Si ves numeral nombre, tu versión de Excel no tiene esa función. Si ves desbordamiento, libera las celdas donde va el resultado. Y si FILTRAR te da numeral calc, es porque no encontró nada: por eso siempre conviene usar el tercer argumento, el de \"sin datos\".",
+  "texto_tts": "Si algo no te funciona, revisa esto. Si ves numeral nombre, tu versión de Excel no tiene esa función. Si ves desbordamiento, libera las celdas donde va el resultado. Y si FILTRAR te da numeral calc, es porque no encontró nada: por eso siempre conviene usar el tercer argumento, el de \"sin datos\".",
+  "modelo": "eleven_v3",
+  "duracion": 17.68,
+  "palabras": [
+    {
+      "texto": "Si",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "algo",
+      "inicio": 0.128,
+      "fin": 0.32
+    },
+    {
+      "texto": "no",
+      "inicio": 0.347,
+      "fin": 0.4
+    },
+    {
+      "texto": "te",
+      "inicio": 0.453,
+      "fin": 0.56
+    },
+    {
+      "texto": "funciona,",
+      "inicio": 0.613,
+      "fin": 1.12
+    },
+    {
+      "texto": "revisa",
+      "inicio": 1.173,
+      "fin": 1.52
+    },
+    {
+      "texto": "esto.",
+      "inicio": 1.584,
+      "fin": 2.0
+    },
+    {
+      "texto": "Si",
+      "inicio": 2.08,
+      "fin": 2.24
+    },
+    {
+      "texto": "ves",
+      "inicio": 2.28,
+      "fin": 2.4
+    },
+    {
+      "texto": "numeral",
+      "inicio": 2.45,
+      "fin": 2.8
+    },
+    {
+      "texto": "nombre,",
+      "inicio": 2.857,
+      "fin": 3.68
+    },
+    {
+      "texto": "tu",
+      "inicio": 3.733,
+      "fin": 3.84
+    },
+    {
+      "texto": "versión",
+      "inicio": 3.88,
+      "fin": 4.16
+    },
+    {
+      "texto": "de",
+      "inicio": 4.187,
+      "fin": 4.24
+    },
+    {
+      "texto": "Excel",
+      "inicio": 4.293,
+      "fin": 4.56
+    },
+    {
+      "texto": "no",
+      "inicio": 4.613,
+      "fin": 4.72
+    },
+    {
+      "texto": "tiene",
+      "inicio": 4.76,
+      "fin": 4.96
+    },
+    {
+      "texto": "esa",
+      "inicio": 5.0,
+      "fin": 5.12
+    },
+    {
+      "texto": "función.",
+      "inicio": 5.18,
+      "fin": 5.68
+    },
+    {
+      "texto": "Si",
+      "inicio": 5.867,
+      "fin": 6.24
+    },
+    {
+      "texto": "ves",
+      "inicio": 6.28,
+      "fin": 6.4
+    },
+    {
+      "texto": "desbordamiento,",
+      "inicio": 6.46,
+      "fin": 7.52
+    },
+    {
+      "texto": "libera",
+      "inicio": 7.58,
+      "fin": 7.92
+    },
+    {
+      "texto": "las",
+      "inicio": 7.96,
+      "fin": 8.08
+    },
+    {
+      "texto": "celdas",
+      "inicio": 8.12,
+      "fin": 8.4
+    },
+    {
+      "texto": "donde",
+      "inicio": 8.44,
+      "fin": 8.64
+    },
+    {
+      "texto": "va",
+      "inicio": 8.693,
+      "fin": 8.8
+    },
+    {
+      "texto": "el",
+      "inicio": 8.827,
+      "fin": 8.88
+    },
+    {
+      "texto": "resultado.",
+      "inicio": 8.944,
+      "fin": 9.88
+    },
+    {
+      "texto": "Y",
+      "inicio": 10.06,
+      "fin": 10.24
+    },
+    {
+      "texto": "si",
+      "inicio": 10.293,
+      "fin": 10.4
+    },
+    {
+      "texto": "FILTRAR",
+      "inicio": 10.48,
+      "fin": 10.96
+    },
+    {
+      "texto": "te",
+      "inicio": 11.013,
+      "fin": 11.12
+    },
+    {
+      "texto": "da",
+      "inicio": 11.147,
+      "fin": 11.2
+    },
+    {
+      "texto": "numeral",
+      "inicio": 11.25,
+      "fin": 11.6
+    },
+    {
+      "texto": "calc,",
+      "inicio": 11.696,
+      "fin": 12.32
+    },
+    {
+      "texto": "es",
+      "inicio": 12.373,
+      "fin": 12.48
+    },
+    {
+      "texto": "porque",
+      "inicio": 12.514,
+      "fin": 12.72
+    },
+    {
+      "texto": "no",
+      "inicio": 12.747,
+      "fin": 12.8
+    },
+    {
+      "texto": "encontró",
+      "inicio": 12.85,
+      "fin": 13.28
+    },
+    {
+      "texto": "nada:",
+      "inicio": 13.328,
+      "fin": 14.16
+    },
+    {
+      "texto": "por",
+      "inicio": 14.18,
+      "fin": 14.24
+    },
+    {
+      "texto": "eso",
+      "inicio": 14.3,
+      "fin": 14.48
+    },
+    {
+      "texto": "siempre",
+      "inicio": 14.52,
+      "fin": 14.8
+    },
+    {
+      "texto": "conviene",
+      "inicio": 14.848,
+      "fin": 15.12
+    },
+    {
+      "texto": "usar",
+      "inicio": 15.168,
+      "fin": 15.36
+    },
+    {
+      "texto": "el",
+      "inicio": 15.387,
+      "fin": 15.44
+    },
+    {
+      "texto": "tercer",
+      "inicio": 15.497,
+      "fin": 15.84
+    },
+    {
+      "texto": "argumento,",
+      "inicio": 15.893,
+      "fin": 16.56
+    },
+    {
+      "texto": "el",
+      "inicio": 16.613,
+      "fin": 16.72
+    },
+    {
+      "texto": "de",
+      "inicio": 16.747,
+      "fin": 16.8
+    },
+    {
+      "texto": "\"sin",
+      "inicio": 16.84,
+      "fin": 17.04
+    },
+    {
+      "texto": "datos\".",
+      "inicio": 17.12,
+      "fin": 17.68
+    }
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "num": "09",
+  "titulo": "Problema 2: los límites",
+  "texto": "Problema dos, y este es el peligroso. La traduzco, la pego, y la columna se llena sin errores. Pero mira: el que vendió exactamente mil, cobró cero. Y el que vendió exactamente cinco mil, cobró ciento cincuenta en lugar de doscientos cincuenta. ¿Por qué? Porque la IA usó \"mayor que\" en vez de \"mayor o igual que\".",
+  "texto_tts": "Problema dos, y este es el peligroso. La traduzco, la pego, y la columna se llena sin errores. Pero mira: el que vendió exactamente mil, cobró cero. Y el que vendió exactamente cinco mil, cobró ciento cincuenta en lugar de doscientos cincuenta. ¿Por qué? Porque la IA usó \"mayor que\" en vez de \"mayor o igual que\".",
+  "modelo": "eleven_v3",
+  "duracion": 30.24,
+  "palabras": [
+    {
+      "texto": "Problema",
+      "inicio": 0.0,
+      "fin": 0.4
+    },
+    {
+      "texto": "dos,",
+      "inicio": 0.52,
+      "fin": 1.04
+    },
+    {
+      "texto": "y",
+      "inicio": 1.12,
+      "fin": 1.2
+    },
+    {
+      "texto": "este",
+      "inicio": 1.232,
+      "fin": 1.36
+    },
+    {
+      "texto": "es",
+      "inicio": 1.413,
+      "fin": 1.52
+    },
+    {
+      "texto": "el",
+      "inicio": 1.573,
+      "fin": 1.68
+    },
+    {
+      "texto": "peligroso.",
+      "inicio": 1.72,
+      "fin": 2.48
+    },
+    {
+      "texto": "La",
+      "inicio": 2.667,
+      "fin": 3.04
+    },
+    {
+      "texto": "traduzco,",
+      "inicio": 3.12,
+      "fin": 4.56
+    },
+    {
+      "texto": "la",
+      "inicio": 4.64,
+      "fin": 4.8
+    },
+    {
+      "texto": "pego,",
+      "inicio": 4.92,
+      "fin": 5.6
+    },
+    {
+      "texto": "y",
+      "inicio": 5.92,
+      "fin": 6.24
+    },
+    {
+      "texto": "la",
+      "inicio": 6.293,
+      "fin": 6.4
+    },
+    {
+      "texto": "columna",
+      "inicio": 6.46,
+      "fin": 6.88
+    },
+    {
+      "texto": "se",
+      "inicio": 6.96,
+      "fin": 7.12
+    },
+    {
+      "texto": "llena",
+      "inicio": 7.16,
+      "fin": 7.52
+    },
+    {
+      "texto": "sin",
+      "inicio": 7.64,
+      "fin": 8.0
+    },
+    {
+      "texto": "errores.",
+      "inicio": 8.08,
+      "fin": 8.72
+    },
+    {
+      "texto": "Pero",
+      "inicio": 8.896,
+      "fin": 9.6
+    },
+    {
+      "texto": "mira:",
+      "inicio": 9.66,
+      "fin": 10.16
+    },
+    {
+      "texto": "el",
+      "inicio": 10.453,
+      "fin": 11.04
+    },
+    {
+      "texto": "que",
+      "inicio": 11.1,
+      "fin": 11.28
+    },
+    {
+      "texto": "vendió",
+      "inicio": 11.328,
+      "fin": 11.68
+    },
+    {
+      "texto": "exactamente",
+      "inicio": 11.76,
+      "fin": 12.56
+    },
+    {
+      "texto": "mil,",
+      "inicio": 12.68,
+      "fin": 13.12
+    },
+    {
+      "texto": "cobró",
+      "inicio": 13.26,
+      "fin": 13.84
+    },
+    {
+      "texto": "cero.",
+      "inicio": 13.96,
+      "fin": 15.0
+    },
+    {
+      "texto": "Y",
+      "inicio": 15.3,
+      "fin": 15.6
+    },
+    {
+      "texto": "el",
+      "inicio": 15.653,
+      "fin": 15.76
+    },
+    {
+      "texto": "que",
+      "inicio": 15.8,
+      "fin": 15.92
+    },
+    {
+      "texto": "vendió",
+      "inicio": 15.968,
+      "fin": 16.24
+    },
+    {
+      "texto": "exactamente",
+      "inicio": 16.32,
+      "fin": 17.12
+    },
+    {
+      "texto": "cinco",
+      "inicio": 17.2,
+      "fin": 17.6
+    },
+    {
+      "texto": "mil,",
+      "inicio": 17.68,
+      "fin": 18.08
+    },
+    {
+      "texto": "cobró",
+      "inicio": 18.16,
+      "fin": 18.64
+    },
+    {
+      "texto": "ciento",
+      "inicio": 18.72,
+      "fin": 19.12
+    },
+    {
+      "texto": "cincuenta",
+      "inicio": 19.2,
+      "fin": 19.84
+    },
+    {
+      "texto": "en",
+      "inicio": 19.973,
+      "fin": 20.24
+    },
+    {
+      "texto": "lugar",
+      "inicio": 20.293,
+      "fin": 20.56
+    },
+    {
+      "texto": "de",
+      "inicio": 20.587,
+      "fin": 20.64
+    },
+    {
+      "texto": "doscientos",
+      "inicio": 20.7,
+      "fin": 21.2
+    },
+    {
+      "texto": "cincuenta.",
+      "inicio": 21.24,
+      "fin": 22.4
+    },
+    {
+      "texto": "¿Por",
+      "inicio": 22.68,
+      "fin": 23.12
+    },
+    {
+      "texto": "qué?",
+      "inicio": 23.22,
+      "fin": 23.6
+    },
+    {
+      "texto": "Porque",
+      "inicio": 23.8,
+      "fin": 24.48
+    },
+    {
+      "texto": "la",
+      "inicio": 24.533,
+      "fin": 24.64
+    },
+    {
+      "texto": "IA",
+      "inicio": 24.827,
+      "fin": 25.2
+    },
+    {
+      "texto": "usó",
+      "inicio": 25.307,
+      "fin": 25.68
+    },
+    {
+      "texto": "\"mayor",
+      "inicio": 25.84,
+      "fin": 26.56
+    },
+    {
+      "texto": "que\"",
+      "inicio": 26.66,
+      "fin": 27.12
+    },
+    {
+      "texto": "en",
+      "inicio": 27.253,
+      "fin": 27.52
+    },
+    {
+      "texto": "vez",
+      "inicio": 27.58,
+      "fin": 27.76
+    },
+    {
+      "texto": "de",
+      "inicio": 27.84,
+      "fin": 28.0
+    },
+    {
+      "texto": "\"mayor",
+      "inicio": 28.12,
+      "fin": 28.8
+    },
+    {
+      "texto": "o",
+      "inicio": 28.96,
+      "fin": 29.12
+    },
+    {
+      "texto": "igual",
+      "inicio": 29.213,
+      "fin": 29.68
+    },
+    {
+      "texto": "que\".",
+      "inicio": 29.78,
+      "fin": 30.24
+    }
+  ]
+}

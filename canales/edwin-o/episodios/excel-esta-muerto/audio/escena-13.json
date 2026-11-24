@@ -1,0 +1,285 @@
+{
+  "num": "13",
+  "titulo": "El veredicto",
+  "texto": "Así que, mi veredicto: Excel no está muerto. Está más vivo que nunca. Lo que murió es la forma vieja de usarlo: memorizar, copiar y pegar, hacer todo a mano. Excel no va a desaparecer, pero sí va a cambiar quién gana con él. Y como siempre digo: si no lo aprendes ahora, te extingues.",
+  "texto_tts": "Así que, mi veredicto: Excel no está muerto. [excited] Está más vivo que nunca. Lo que murió es la forma vieja de usarlo: memorizar, copiar y pegar, hacer todo a mano. Excel no va a desaparecer, pero sí va a cambiar quién gana con él. Y como siempre digo: [serious] si no lo aprendes ahora, te extingues.",
+  "modelo": "eleven_v3",
+  "duracion": 21.525,
+  "palabras": [
+    {
+      "texto": "Así",
+      "inicio": 0.0,
+      "fin": 0.24
+    },
+    {
+      "texto": "que,",
+      "inicio": 0.28,
+      "fin": 0.48
+    },
+    {
+      "texto": "mi",
+      "inicio": 0.613,
+      "fin": 0.88
+    },
+    {
+      "texto": "veredicto:",
+      "inicio": 0.92,
+      "fin": 1.52
+    },
+    {
+      "texto": "Excel",
+      "inicio": 1.64,
+      "fin": 2.24
+    },
+    {
+      "texto": "no",
+      "inicio": 2.373,
+      "fin": 2.64
+    },
+    {
+      "texto": "está",
+      "inicio": 2.704,
+      "fin": 2.96
+    },
+    {
+      "texto": "muerto.",
+      "inicio": 2.987,
+      "fin": 3.52
+    },
+    {
+      "texto": "Está",
+      "inicio": 4.035,
+      "fin": 4.2
+    },
+    {
+      "texto": "más",
+      "inicio": 4.23,
+      "fin": 4.32
+    },
+    {
+      "texto": "vivo",
+      "inicio": 4.368,
+      "fin": 4.56
+    },
+    {
+      "texto": "que",
+      "inicio": 4.58,
+      "fin": 4.64
+    },
+    {
+      "texto": "nunca.",
+      "inicio": 4.72,
+      "fin": 5.2
+    },
+    {
+      "texto": "Lo",
+      "inicio": 5.44,
+      "fin": 5.92
+    },
+    {
+      "texto": "que",
+      "inicio": 5.94,
+      "fin": 6.0
+    },
+    {
+      "texto": "murió",
+      "inicio": 6.08,
+      "fin": 6.48
+    },
+    {
+      "texto": "es",
+      "inicio": 6.56,
+      "fin": 6.72
+    },
+    {
+      "texto": "la",
+      "inicio": 6.747,
+      "fin": 6.8
+    },
+    {
+      "texto": "forma",
+      "inicio": 6.853,
+      "fin": 7.12
+    },
+    {
+      "texto": "vieja",
+      "inicio": 7.18,
+      "fin": 7.44
+    },
+    {
+      "texto": "de",
+      "inicio": 7.467,
+      "fin": 7.52
+    },
+    {
+      "texto": "usarlo:",
+      "inicio": 7.584,
+      "fin": 8.32
+    },
+    {
+      "texto": "memorizar,",
+      "inicio": 8.373,
+      "fin": 9.12
+    },
+    {
+      "texto": "copiar",
+      "inicio": 9.16,
+      "fin": 9.44
+    },
+    {
+      "texto": "y",
+      "inicio": 9.48,
+      "fin": 9.52
+    },
+    {
+      "texto": "pegar,",
+      "inicio": 9.56,
+      "fin": 10.0
+    },
+    {
+      "texto": "hacer",
+      "inicio": 10.067,
+      "fin": 10.4
+    },
+    {
+      "texto": "todo",
+      "inicio": 10.448,
+      "fin": 10.64
+    },
+    {
+      "texto": "a",
+      "inicio": 10.68,
+      "fin": 10.72
+    },
+    {
+      "texto": "mano.",
+      "inicio": 10.784,
+      "fin": 11.12
+    },
+    {
+      "texto": "Excel",
+      "inicio": 11.307,
+      "fin": 12.24
+    },
+    {
+      "texto": "no",
+      "inicio": 12.347,
+      "fin": 12.56
+    },
+    {
+      "texto": "va",
+      "inicio": 12.613,
+      "fin": 12.72
+    },
+    {
+      "texto": "a",
+      "inicio": 12.76,
+      "fin": 12.8
+    },
+    {
+      "texto": "desaparecer,",
+      "inicio": 12.82,
+      "fin": 13.84
+    },
+    {
+      "texto": "pero",
+      "inicio": 13.888,
+      "fin": 14.08
+    },
+    {
+      "texto": "sí",
+      "inicio": 14.16,
+      "fin": 14.32
+    },
+    {
+      "texto": "va",
+      "inicio": 14.347,
+      "fin": 14.4
+    },
+    {
+      "texto": "a",
+      "inicio": 14.56,
+      "fin": 14.72
+    },
+    {
+      "texto": "cambiar",
+      "inicio": 14.76,
+      "fin": 15.04
+    },
+    {
+      "texto": "quién",
+      "inicio": 15.12,
+      "fin": 15.52
+    },
+    {
+      "texto": "gana",
+      "inicio": 15.6,
+      "fin": 15.84
+    },
+    {
+      "texto": "con",
+      "inicio": 15.9,
+      "fin": 16.08
+    },
+    {
+      "texto": "él.",
+      "inicio": 16.133,
+      "fin": 16.32
+    },
+    {
+      "texto": "Y",
+      "inicio": 16.72,
+      "fin": 17.12
+    },
+    {
+      "texto": "como",
+      "inicio": 17.168,
+      "fin": 17.36
+    },
+    {
+      "texto": "siempre",
+      "inicio": 17.4,
+      "fin": 17.68
+    },
+    {
+      "texto": "digo:",
+      "inicio": 17.74,
+      "fin": 18.16
+    },
+    {
+      "texto": "si",
+      "inicio": 18.618,
+      "fin": 18.645
+    },
+    {
+      "texto": "no",
+      "inicio": 18.698,
+      "fin": 18.805
+    },
+    {
+      "texto": "lo",
+      "inicio": 18.832,
+      "fin": 18.885
+    },
+    {
+      "texto": "aprendes",
+      "inicio": 18.931,
+      "fin": 19.365
+    },
+    {
+      "texto": "ahora,",
+      "inicio": 19.418,
+      "fin": 19.845
+    },
+    {
+      "texto": "te",
+      "inicio": 20.085,
+      "fin": 20.565
+    },
+    {
+      "texto": "extingues.",
+      "inicio": 20.625,
+      "fin": 21.525
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "num": "10",
+  "titulo": "Paso 4: pon encabezados",
+  "texto": "Paso cuatro: encabezados. Si quieres que el resumen muestre los títulos de las columnas, incluye la fila uno en los rangos, y en el cuarto argumento escribe un tres, que significa: sí tiene encabezados, y muéstralos. Así tu resumen queda listo para copiar a un informe.",
+  "texto_tts": "Paso cuatro: encabezados. Si quieres que el resumen muestre los títulos de las columnas, incluye la fila uno en los rangos, y en el cuarto argumento escribe un tres, que significa: sí tiene encabezados, y muéstralos. Así tu resumen queda listo para copiar a un informe.",
+  "modelo": "eleven_v3",
+  "duracion": 20.32,
+  "palabras": [
+    {
+      "texto": "Paso",
+      "inicio": 0.0,
+      "fin": 0.32
+    },
+    {
+      "texto": "cuatro:",
+      "inicio": 0.377,
+      "fin": 0.8
+    },
+    {
+      "texto": "encabezados.",
+      "inicio": 0.92,
+      "fin": 2.08
+    },
+    {
+      "texto": "Si",
+      "inicio": 2.32,
+      "fin": 2.8
+    },
+    {
+      "texto": "quieres",
+      "inicio": 2.84,
+      "fin": 3.12
+    },
+    {
+      "texto": "que",
+      "inicio": 3.14,
+      "fin": 3.2
+    },
+    {
+      "texto": "el",
+      "inicio": 3.227,
+      "fin": 3.28
+    },
+    {
+      "texto": "resumen",
+      "inicio": 3.36,
+      "fin": 3.92
+    },
+    {
+      "texto": "muestre",
+      "inicio": 4.0,
+      "fin": 4.4
+    },
+    {
+      "texto": "los",
+      "inicio": 4.44,
+      "fin": 4.56
+    },
+    {
+      "texto": "títulos",
+      "inicio": 4.64,
+      "fin": 5.04
+    },
+    {
+      "texto": "de",
+      "inicio": 5.067,
+      "fin": 5.12
+    },
+    {
+      "texto": "las",
+      "inicio": 5.16,
+      "fin": 5.28
+    },
+    {
+      "texto": "columnas,",
+      "inicio": 5.337,
+      "fin": 6.4
+    },
+    {
+      "texto": "incluye",
+      "inicio": 6.48,
+      "fin": 7.04
+    },
+    {
+      "texto": "la",
+      "inicio": 7.067,
+      "fin": 7.12
+    },
+    {
+      "texto": "fila",
+      "inicio": 7.2,
+      "fin": 7.52
+    },
+    {
+      "texto": "uno",
+      "inicio": 7.64,
+      "fin": 8.0
+    },
+    {
+      "texto": "en",
+      "inicio": 8.107,
+      "fin": 8.32
+    },
+    {
+      "texto": "los",
+      "inicio": 8.36,
+      "fin": 8.48
+    },
+    {
+      "texto": "rangos,",
+      "inicio": 8.56,
+      "fin": 9.28
+    },
+    {
+      "texto": "y",
+      "inicio": 9.32,
+      "fin": 9.36
+    },
+    {
+      "texto": "en",
+      "inicio": 9.387,
+      "fin": 9.44
+    },
+    {
+      "texto": "el",
+      "inicio": 9.467,
+      "fin": 9.52
+    },
+    {
+      "texto": "cuarto",
+      "inicio": 9.6,
+      "fin": 9.92
+    },
+    {
+      "texto": "argumento",
+      "inicio": 9.982,
+      "fin": 10.56
+    },
+    {
+      "texto": "escribe",
+      "inicio": 10.667,
+      "fin": 11.12
+    },
+    {
+      "texto": "un",
+      "inicio": 11.173,
+      "fin": 11.28
+    },
+    {
+      "texto": "tres,",
+      "inicio": 11.376,
+      "fin": 12.16
+    },
+    {
+      "texto": "que",
+      "inicio": 12.18,
+      "fin": 12.24
+    },
+    {
+      "texto": "significa:",
+      "inicio": 12.312,
+      "fin": 13.04
+    },
+    {
+      "texto": "sí",
+      "inicio": 13.2,
+      "fin": 13.52
+    },
+    {
+      "texto": "tiene",
+      "inicio": 13.587,
+      "fin": 13.92
+    },
+    {
+      "texto": "encabezados,",
+      "inicio": 13.96,
+      "fin": 14.88
+    },
+    {
+      "texto": "y",
+      "inicio": 15.12,
+      "fin": 15.36
+    },
+    {
+      "texto": "muéstralos.",
+      "inicio": 15.413,
+      "fin": 16.24
+    },
+    {
+      "texto": "Así",
+      "inicio": 16.507,
+      "fin": 17.12
+    },
+    {
+      "texto": "tu",
+      "inicio": 17.173,
+      "fin": 17.28
+    },
+    {
+      "texto": "resumen",
+      "inicio": 17.34,
+      "fin": 17.84
+    },
+    {
+      "texto": "queda",
+      "inicio": 17.907,
+      "fin": 18.24
+    },
+    {
+      "texto": "listo",
+      "inicio": 18.304,
+      "fin": 18.64
+    },
+    {
+      "texto": "para",
+      "inicio": 18.704,
+      "fin": 18.96
+    },
+    {
+      "texto": "copiar",
+      "inicio": 19.02,
+      "fin": 19.36
+    },
+    {
+      "texto": "a",
+      "inicio": 19.4,
+      "fin": 19.44
+    },
+    {
+      "texto": "un",
+      "inicio": 19.467,
+      "fin": 19.52
+    },
+    {
+      "texto": "informe.",
+      "inicio": 19.589,
+      "fin": 20.32
+    }
+  ]
+}

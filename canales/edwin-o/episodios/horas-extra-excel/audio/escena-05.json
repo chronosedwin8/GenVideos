@@ -4,7 +4,7 @@
   "texto": "Paso dos. En la celda de horas escribe igual, C dos, menos, B dos. Es decir, salida menos entrada. Enter, y aparecen diez horas y media. ¡Perfecto! Arrastra hacia abajo para los demás días y… un momento. ¿Qué pasó con el sábado? Salen puros numerales.",
   "texto_tts": "Paso dos. En la celda de horas escribe igual, C dos, menos, B dos. Es decir, salida menos entrada. Enter, y aparecen diez horas y media. [excited] ¡Perfecto! Arrastra hacia abajo para los demás días y… [surprised] un momento. ¿Qué pasó con el sábado? Salen puros numerales.",
   "modelo": "eleven_v3",
-  "duracion": 22.0,
+  "duracion": 25.92,
   "palabras": [
     {
       "texto": "Paso",
@@ -13,223 +13,223 @@
     },
     {
       "texto": "dos.",
-      "inicio": 0.32,
+      "inicio": 0.34,
       "fin": 0.72
     },
     {
       "texto": "En",
-      "inicio": 0.907,
-      "fin": 1.28
+      "inicio": 1.013,
+      "fin": 1.6
     },
     {
       "texto": "la",
-      "inicio": 1.307,
-      "fin": 1.36
-    },
-    {
-      "texto": "celda",
-      "inicio": 1.44,
+      "inicio": 1.653,
       "fin": 1.76
     },
     {
-      "texto": "de",
-      "inicio": 1.813,
-      "fin": 1.92
+      "texto": "celda",
+      "inicio": 1.84,
+      "fin": 2.16
     },
     {
-      "texto": "horas",
-      "inicio": 1.987,
+      "texto": "de",
+      "inicio": 2.213,
       "fin": 2.32
     },
     {
-      "texto": "escribe",
-      "inicio": 2.453,
+      "texto": "horas",
+      "inicio": 2.427,
       "fin": 2.96
     },
     {
+      "texto": "escribe",
+      "inicio": 3.227,
+      "fin": 4.16
+    },
+    {
       "texto": "igual,",
-      "inicio": 3.013,
-      "fin": 3.68
+      "inicio": 4.293,
+      "fin": 5.04
     },
     {
       "texto": "C",
-      "inicio": 3.84,
-      "fin": 4.0
+      "inicio": 5.24,
+      "fin": 5.44
     },
     {
       "texto": "dos,",
-      "inicio": 4.12,
-      "fin": 4.88
-    },
-    {
-      "texto": "menos,",
-      "inicio": 4.947,
-      "fin": 5.6
-    },
-    {
-      "texto": "B",
-      "inicio": 5.76,
+      "inicio": 5.52,
       "fin": 5.92
     },
     {
+      "texto": "menos,",
+      "inicio": 6.107,
+      "fin": 7.32
+    },
+    {
+      "texto": "B",
+      "inicio": 7.46,
+      "fin": 7.6
+    },
+    {
       "texto": "dos.",
-      "inicio": 5.98,
-      "fin": 6.32
-    },
-    {
-      "texto": "Es",
-      "inicio": 6.48,
-      "fin": 6.8
-    },
-    {
-      "texto": "decir,",
-      "inicio": 6.853,
-      "fin": 7.28
-    },
-    {
-      "texto": "salida",
-      "inicio": 7.383,
+      "inicio": 7.68,
       "fin": 8.0
     },
     {
+      "texto": "Es",
+      "inicio": 8.08,
+      "fin": 8.24
+    },
+    {
+      "texto": "decir,",
+      "inicio": 8.293,
+      "fin": 8.72
+    },
+    {
+      "texto": "salida",
+      "inicio": 8.8,
+      "fin": 9.28
+    },
+    {
       "texto": "menos",
-      "inicio": 8.093,
-      "fin": 8.56
+      "inicio": 9.373,
+      "fin": 9.84
     },
     {
       "texto": "entrada.",
-      "inicio": 8.62,
-      "fin": 9.2
+      "inicio": 9.92,
+      "fin": 11.24
     },
     {
       "texto": "Enter,",
-      "inicio": 9.347,
-      "fin": 10.24
-    },
-    {
-      "texto": "y",
-      "inicio": 10.4,
-      "fin": 10.56
-    },
-    {
-      "texto": "aparecen",
-      "inicio": 10.613,
-      "fin": 11.2
-    },
-    {
-      "texto": "diez",
-      "inicio": 11.3,
-      "fin": 11.68
-    },
-    {
-      "texto": "horas",
-      "inicio": 11.733,
-      "fin": 12.0
-    },
-    {
-      "texto": "y",
-      "inicio": 12.04,
+      "inicio": 11.367,
       "fin": 12.08
     },
     {
+      "texto": "y",
+      "inicio": 12.4,
+      "fin": 12.72
+    },
+    {
+      "texto": "aparecen",
+      "inicio": 12.813,
+      "fin": 13.52
+    },
+    {
+      "texto": "diez",
+      "inicio": 13.64,
+      "fin": 14.08
+    },
+    {
+      "texto": "horas",
+      "inicio": 14.147,
+      "fin": 14.48
+    },
+    {
+      "texto": "y",
+      "inicio": 14.56,
+      "fin": 14.64
+    },
+    {
       "texto": "media.",
-      "inicio": 12.133,
-      "fin": 12.8
+      "inicio": 14.707,
+      "fin": 15.12
     },
     {
       "texto": "¡Perfecto!",
-      "inicio": 13.16,
-      "fin": 13.6
+      "inicio": 15.752,
+      "fin": 16.16
     },
     {
       "texto": "Arrastra",
-      "inicio": 13.74,
-      "fin": 14.4
+      "inicio": 16.36,
+      "fin": 17.2
     },
     {
       "texto": "hacia",
-      "inicio": 14.427,
-      "fin": 14.56
-    },
-    {
-      "texto": "abajo",
-      "inicio": 14.613,
-      "fin": 14.96
-    },
-    {
-      "texto": "para",
-      "inicio": 15.008,
-      "fin": 15.2
-    },
-    {
-      "texto": "los",
-      "inicio": 15.24,
-      "fin": 15.36
-    },
-    {
-      "texto": "demás",
-      "inicio": 15.42,
-      "fin": 15.68
-    },
-    {
-      "texto": "días",
-      "inicio": 15.792,
-      "fin": 16.24
-    },
-    {
-      "texto": "y…",
-      "inicio": 16.48,
-      "fin": 17.28
-    },
-    {
-      "texto": "un",
-      "inicio": 17.351,
+      "inicio": 17.227,
       "fin": 17.36
     },
     {
+      "texto": "abajo",
+      "inicio": 17.413,
+      "fin": 17.76
+    },
+    {
+      "texto": "para",
+      "inicio": 17.808,
+      "fin": 18.0
+    },
+    {
+      "texto": "los",
+      "inicio": 18.04,
+      "fin": 18.16
+    },
+    {
+      "texto": "demás",
+      "inicio": 18.2,
+      "fin": 18.48
+    },
+    {
+      "texto": "días",
+      "inicio": 18.624,
+      "fin": 19.2
+    },
+    {
+      "texto": "y…",
+      "inicio": 19.32,
+      "fin": 19.6
+    },
+    {
+      "texto": "un",
+      "inicio": 20.724,
+      "fin": 20.787
+    },
+    {
       "texto": "momento.",
-      "inicio": 17.44,
-      "fin": 18.24
+      "inicio": 20.798,
+      "fin": 20.96
     },
     {
       "texto": "¿Qué",
-      "inicio": 18.44,
-      "fin": 18.72
+      "inicio": 21.48,
+      "fin": 22.08
     },
     {
       "texto": "pasó",
-      "inicio": 18.78,
-      "fin": 19.04
+      "inicio": 22.12,
+      "fin": 22.32
     },
     {
       "texto": "con",
-      "inicio": 19.06,
-      "fin": 19.12
+      "inicio": 22.36,
+      "fin": 22.48
     },
     {
       "texto": "el",
-      "inicio": 19.173,
-      "fin": 19.28
+      "inicio": 22.507,
+      "fin": 22.56
     },
     {
       "texto": "sábado?",
-      "inicio": 19.337,
-      "fin": 19.76
+      "inicio": 22.629,
+      "fin": 23.12
     },
     {
       "texto": "Salen",
-      "inicio": 19.94,
-      "fin": 20.64
+      "inicio": 23.38,
+      "fin": 24.24
     },
     {
       "texto": "puros",
-      "inicio": 20.72,
-      "fin": 21.04
+      "inicio": 24.4,
+      "fin": 24.88
     },
     {
       "texto": "numerales.",
-      "inicio": 21.08,
-      "fin": 22.0
+      "inicio": 24.96,
+      "fin": 25.92
     }
   ]
 }

@@ -7,33 +7,61 @@ description: Construye el video en Remotion sincronizado con el manifest de audi
 
 Entrada: `canales/<canal>/episodios/<slug>/guion.md` + `audio/manifest.json` (+ `grabaciones/paso-NN.mp4` en tutoriales).
 
-## Primera vez (o primer video de un canal nuevo)
-- Si no existe `video/`: `npx create-video@latest video` (blank, TypeScript).
-- Componentes comunes en `video/src/comun/`: `EscenaConAudio`, `Subtitulos` (palabra activa resaltada), `TarjetaCita`,
-  `Diagrama` (nodos que entran en orden), `Comparacion` (✗/✓), `LineaTiempo`, `ListaPasos`, `Resumen3`, `CierreSiguiente`,
-  `PantallaTutorial` (clip sobre fondo de marca, zoom animado, círculo de clic, etiqueta "Paso N"), `Miniatura`.
-- Tema del canal en `video/src/<canal>/tema.ts` (colores y fuentes de `canales/<canal>/marca.md`) + su `Cortinilla`
-  con el logo de `canales/<canal>/assets/`. Los componentes reciben el tema; nunca colores fijos.
+## Forma recomendada: el motor declarativo (desde dic 2026)
+Cada episodio es **un archivo de datos**, `video/src/<canal>/episodios/<slug>.ts`, que exporta `episodio: EspecEpisodio`
+(tipos en `video/src/comun/motor-tipos.ts`). No se escriben componentes a mano: cada escena es una lista de **bloques**
+que aparecen en la palabra exacta en que la voz la dice.
 
-## Componentes ya construidos (`video/src/comun/`)
-- `Episodio` + `duracionEpisodio(manifest)`: una `<Sequence>` por escena con audio, fondo, visual y subtítulos.
-  Cada escena se define como `{fondo, Visual}` y recibe `t('palabra')` → segundo exacto en que la voz dice esa palabra.
-- `Basicos.tsx`: `Fondo` (naranja/azul/claro/oscuro), `TituloContorno`, `Pildora`, `EtiquetaPaso`, `Subtitulos`,
-  `Tarjeta`, `ListaErrores` (✗/✓), `Resumen3`, `NumeroGigante`, `LogoEO`, `Cortinilla`, `CierreSiguiente`.
-- `HojaExcel.tsx`: Excel 100 % animado — celdas, `escritura` (fórmula que se escribe sola en la celda y en la barra fx),
-  `resaltes` de rangos, `seleccion`, `zoom` a celda/botón, `cursor` con clic, `menu` desplegable, `globos`, `pestanaActiva`.
-- `Codigo.tsx`: `CodigoAnimado` (Python con resaltado de sintaxis, se escribe solo) y `Terminal`.
-- `Miniatura.tsx`: miniatura 1280×720 con el estilo del canal + `MiniHoja` como apoyo visual.
-- Demo de referencia: composición `EdwinO-Demo` (`video/src/edwin-o/Demo.tsx`).
+```ts
+'07': {
+  paso: {n: 1, texto: 'La fórmula básica'},          // etiqueta "PASO 1" arriba a la izquierda (opcional)
+  fondo: 'naranja',                                  // naranja | azul | claro | oscuro
+  bloques: [
+    {en: 0, tipo: 'titulo', lineas: [{texto: 'AGRUPARPOR', color: 'amarillo', tamano: 220}]},
+    {en: 'escribe', tipo: 'hoja', hoja: {...}},      // aparece cuando la voz dice "escribe"
+    {en: 'listo', capa: true, tipo: 'pildora', texto: '✓ Listo'},  // capa: se superpone sin cortar el bloque anterior
+  ],
+},
+```
 
-## Por video
-1. Copia `audio/` (y `grabaciones/`) a `video/public/<canal>/<slug>/`.
-2. `video/src/<canal>/episodios/<Slug>.tsx`: una `<Sequence>` por escena del manifest
-   (`from = inicio*fps`, `durationInFrames = duracion*fps`) con su `<Audio>`.
-3. Visual según [VISUAL]/[PANTALLA]; sincroniza las entradas con `palabras[].inicio`. Un cambio visual cada 4–8 s.
-4. Tutoriales: clip `paso-NN.mp4` en la escena NN; si es más largo que la voz, `playbackRate` hasta 2× y recorta;
-   si es más corto, congela el último fotograma. Zoom a la zona de `[ZOOM]`.
-5. Registra la composición en `Root.tsx`: 1920×1080, 30 fps.
-6. Vista previa con `npx remotion studio` para que el usuario revise. Con su aprobación, render:
-   `npx remotion render <Id> ../canales/<canal>/episodios/<slug>/render/<slug>.mp4`.
+**Cues (momentos):** `'palabra'` (primera vez que la dice) · `'palabra#2'` (segunda vez) · `'palabra+0.5'` / `'palabra#2-0.3'`
+(desplazamiento en segundos) · `3.2` (segundo exacto). Sin tildes ni signos; coincide primero exacto y luego por prefijo.
+Un bloque normal dura hasta que empieza el siguiente bloque normal; `hasta` lo corta antes; `capa: true` se superpone.
+Todos los tiempos internos (`desde`, `hasta`, `enter`, `fondoDesde`…) aceptan cues.
+
+**Tipos de bloque** (`Motor.tsx` + `Bloques.tsx`): `titulo` · `tarjeta` · `tarjetas` (2–3) · `lista` · `cuadricula` (hasta 12)
+· `numero` (n/total, para listas) · `cifra` (dato grande con conteo y fuente) · `hoja` (HojaExcel completa) · `codigo`
+(con `previo` = código ya escrito, `resaltar` líneas y `salida` = terminal al lado) · `terminal` · `chat` (asistente de IA
+genérico; `panel: true` = panel lateral tipo Copilot) · `comparar` (A vs B) · `formula` (fórmula grande con partes
+explicadas) · `cronologia` · `teclas` · `barras` (gráfico estilo matplotlib) · `cortinilla` · `cierre` · `resumen` ·
+`errores` (✗/✓) · `logo` · `pildora`. Texto entre `comillas invertidas` se muestra como código.
+
+**HojaExcel:** `celdas` (con `desde`/`hasta` para reemplazar valores), `escritura` (fórmula que se escribe sola; `enter` =
+cuándo aparece el resultado), `resaltes`, `seleccion`, `zoom`, `cursor` ('C5', 'tab:Fórmulas', 'btn:Insertar Python'),
+`menu`, `globos` (lado derecha/abajo/izquierda), `botones` y `pestanaActiva` (**cinta**), `hojas` y `hojaActiva`
+(**pestañas de hoja abajo**), `filas` (por defecto 14).
+
+## Pasos por video
+1. Voz lista (`/generar-voz`). Copia de `audio/` a `video/public/<canal>/<slug>/` (el script de render lo hace solo).
+2. Crea `video/src/<canal>/episodios/<slug>.ts` siguiendo el `[VISUAL]` de cada escena; un cambio visual cada 4–8 s.
+   Datos, fórmulas y salidas de código **verificados** (Python/pandas o ejecución real) antes de ponerlos en pantalla.
+3. Agrégalo a `video/src/<canal>/episodios/index.ts`. Se registran solos en Remotion: `<Id>`, `<Id>-short-N` y `<Id>-Miniatura`.
+4. `cd video && npm run validar` → avisa si una palabra clave no existe en el audio o si los bloques están desordenados.
+5. Revisión visual: `python scripts/render_episodio.py <canal> <slug> <Id> --muestras 12.5 40 95` (PNG en `muestras/`).
+   Revisa solapamientos (etiqueta de paso vs. píldoras, globos vecinos) y que el texto quepa.
+6. Render final: `python scripts/render_episodio.py <canal> <slug> <Id>` → `render/<slug>.mp4`, `render/short-N.mp4`
+   y `miniatura.png`. (`--solo video|shorts|miniatura` para rehacer una parte.)
 7. Marca `video` en el backlog.
+
+## Componentes base (`video/src/comun/`)
+- `Episodio` + `duracionEpisodio(manifest)`; `Short.tsx` (`ShortEscena`: 9:16 a partir de una escena, con `recorte`).
+- `Basicos.tsx`: `Fondo`, `TituloContorno`, `Pildora`, `EtiquetaPaso`, `Subtitulos`, `Tarjeta`, `ListaErrores`, `Resumen3`,
+  `NumeroGigante`, `LogoEO`, `Cortinilla`, `CierreSiguiente`.
+- `HojaExcel.tsx`, `Codigo.tsx` (`CodigoAnimado`, `Terminal`), `Bloques.tsx`, `Extras.tsx` (`Ventana`, `DialogoOffice`),
+  `Miniatura.tsx` (`Miniatura`, `MiniHoja`) y `MiniCodigo` (en `Bloques.tsx`).
+- La fuente de código no usa ligaduras: `>=` se ve como en Excel/Python, no como `≥`.
+- Episodio hecho a mano (referencia antigua): `video/src/edwin-o/episodios/HorasExtraExcel.tsx`.
+
+## Tutoriales con grabaciones (si el canal no es 100 % animado)
+Clip `paso-NN.mp4` en la escena NN; si es más largo que la voz, `playbackRate` hasta 2× y recorta; si es más corto,
+congela el último fotograma.

@@ -1,0 +1,50 @@
+{
+  "titulo": "Automatiza Excel con Python: 12 reportes en segundos (pandas, paso a paso)",
+  "descripcion": "Un reporte de Excel por cada sucursal, con sus ventas y su resumen por vendedor, en unos segundos y con un programa de 12 líneas. Te explico cada línea con pandas y openpyxl, aunque nunca hayas programado, y los errores de la primera vez.\n\nEn este video aprenderás:\n✅ Instalar Python y las bibliotecas (pandas y openpyxl)\n✅ Leer un Excel con pandas\n✅ Separar por sucursal con groupby\n✅ Escribir un libro con varias hojas\n✅ Adaptarlo a tus datos cambiando una palabra\n✅ Agregar totales con openpyxl\n✅ Los errores más comunes\n\nCódigo del video (reportes.py):\nimport pandas as pd\nfrom pathlib import Path\n\nventas = pd.read_excel(\"ventas.xlsx\")\ncarpeta = Path(\"reportes\")\ncarpeta.mkdir(exist_ok=True)\n\nfor sucursal, datos in ventas.groupby(\"Sucursal\"):\n    archivo = carpeta / f\"Reporte {sucursal}.xlsx\"\n    resumen = datos.groupby(\"Vendedor\")[\"Monto\"].sum()\n    with pd.ExcelWriter(archivo) as excel:\n        datos.to_excel(excel, sheet_name=\"Ventas\", index=False)\n        resumen.to_excel(excel, sheet_name=\"Resumen\")\n    print(f\"Listo: {archivo.name} ({len(datos)} ventas)\")\n\nInstalación: pip install pandas openpyxl\n\nCapítulos\n0:00 12 reportes en segundos\n0:38 Por qué Python, y por qué ahora\n1:17 El problema\n1:43 Paso 1: instala Python\n2:15 Paso 2: la carpeta\n2:36 Paso 3: lee el Excel\n3:03 Paso 4: la carpeta de reportes\n3:24 Paso 5: el ciclo con groupby\n3:56 Paso 6: nombre y resumen\n4:27 Paso 7: escribe el libro\n4:55 Paso 8: ejecuta\n5:19 El resultado\n5:41 Adáptalo a tus datos\n6:17 Nivel pro: total y ancho\n6:46 Errores de la primera vez\n7:21 Que trabaje solo\n\n🐍 Python: https://www.python.org\n🌐 Plantillas y cursos: https://www.edwinortiz.net\n\nFuentes\nStack Overflow Developer Survey 2025: https://survey.stackoverflow.co/2025/\npandas, read_excel y to_excel: https://pandas.pydata.org/docs/\n\nLa voz de este video es la voz de Edwin, clonada con inteligencia artificial (ElevenLabs).\n\nVamos en busca del poder tecnológico. 🚀\n#Python #Excel #Automatizacion",
+  "tags": [
+    "automatizar excel con python",
+    "python excel",
+    "pandas excel",
+    "openpyxl",
+    "reportes excel python",
+    "python para principiantes",
+    "automatizacion excel",
+    "groupby pandas",
+    "python para oficina",
+    "edwin o"
+  ],
+  "categoria": 27,
+  "idioma": "es",
+  "creado_para_ninos": false,
+  "contenido_sintetico": true,
+  "privacidad": "public",
+  "programar": "2026-12-08 07:00",
+  "playlist": "Python práctico",
+  "archivo": "render/python-automatizar-excel.mp4",
+  "miniatura": "miniatura.png",
+  "subtitulos": "audio/subtitulos.srt",
+  "shorts": [
+    {
+      "id": "short-1",
+      "titulo": "12 reportes de Excel en 8 segundos con Python #shorts",
+      "descripcion": "Un ciclo for con groupby y to_excel. Video completo en el canal.",
+      "tags": [
+        "python excel",
+        "shorts"
+      ],
+      "programar": "2026-12-09 12:00",
+      "archivo": "render/short-1.mp4"
+    },
+    {
+      "id": "short-2",
+      "titulo": "Cambia UNA palabra y salen 48 reportes (Python) #shorts",
+      "descripcion": "groupby(\"Vendedor\") en vez de groupby(\"Sucursal\"). Video completo en el canal.",
+      "tags": [
+        "pandas groupby",
+        "shorts"
+      ],
+      "programar": "2026-12-12 12:00",
+      "archivo": "render/short-2.mp4"
+    }
+  ]
+}

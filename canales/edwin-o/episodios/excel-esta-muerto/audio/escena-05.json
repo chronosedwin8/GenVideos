@@ -1,0 +1,365 @@
+{
+  "num": "05",
+  "titulo": "Cambio 2: la IA salió de las celdas",
+  "texto": "Cambio número dos, y este casi nadie lo notó. Microsoft había puesto la IA dentro de las celdas, con una función llamada COPILOT. Y el catorce de septiembre la retiró. ¿Qué nos dice eso? Que la IA te ayuda desde afuera, en un panel, pero lo que queda en la celda tiene que ser una fórmula normal, predecible, que dé siempre el mismo resultado. Tu hoja sigue necesitando fórmulas de verdad.",
+  "texto_tts": "Cambio número dos, y este casi nadie lo notó. Microsoft había puesto la IA dentro de las celdas, con una función llamada COPILOT. Y el catorce de septiembre la retiró. ¿Qué nos dice eso? Que la IA te ayuda desde afuera, en un panel, pero lo que queda en la celda tiene que ser una fórmula normal, predecible, que dé siempre el mismo resultado. Tu hoja sigue necesitando fórmulas de verdad.",
+  "modelo": "eleven_v3",
+  "duracion": 34.24,
+  "palabras": [
+    {
+      "texto": "Cambio",
+      "inicio": 0.0,
+      "fin": 0.32
+    },
+    {
+      "texto": "número",
+      "inicio": 0.366,
+      "fin": 0.64
+    },
+    {
+      "texto": "dos,",
+      "inicio": 0.7,
+      "fin": 1.04
+    },
+    {
+      "texto": "y",
+      "inicio": 1.08,
+      "fin": 1.12
+    },
+    {
+      "texto": "este",
+      "inicio": 1.168,
+      "fin": 1.36
+    },
+    {
+      "texto": "casi",
+      "inicio": 1.408,
+      "fin": 1.6
+    },
+    {
+      "texto": "nadie",
+      "inicio": 1.64,
+      "fin": 1.84
+    },
+    {
+      "texto": "lo",
+      "inicio": 1.893,
+      "fin": 2.0
+    },
+    {
+      "texto": "notó.",
+      "inicio": 2.04,
+      "fin": 2.48
+    },
+    {
+      "texto": "Microsoft",
+      "inicio": 2.616,
+      "fin": 3.84
+    },
+    {
+      "texto": "había",
+      "inicio": 3.893,
+      "fin": 4.16
+    },
+    {
+      "texto": "puesto",
+      "inicio": 4.24,
+      "fin": 4.72
+    },
+    {
+      "texto": "la",
+      "inicio": 4.853,
+      "fin": 5.12
+    },
+    {
+      "texto": "IA",
+      "inicio": 5.28,
+      "fin": 5.6
+    },
+    {
+      "texto": "dentro",
+      "inicio": 5.691,
+      "fin": 6.24
+    },
+    {
+      "texto": "de",
+      "inicio": 6.293,
+      "fin": 6.4
+    },
+    {
+      "texto": "las",
+      "inicio": 6.42,
+      "fin": 6.48
+    },
+    {
+      "texto": "celdas,",
+      "inicio": 6.56,
+      "fin": 7.12
+    },
+    {
+      "texto": "con",
+      "inicio": 7.3,
+      "fin": 7.84
+    },
+    {
+      "texto": "una",
+      "inicio": 7.88,
+      "fin": 8.0
+    },
+    {
+      "texto": "función",
+      "inicio": 8.05,
+      "fin": 8.4
+    },
+    {
+      "texto": "llamada",
+      "inicio": 8.432,
+      "fin": 8.96
+    },
+    {
+      "texto": "COPILOT.",
+      "inicio": 9.12,
+      "fin": 10.08
+    },
+    {
+      "texto": "Y",
+      "inicio": 10.64,
+      "fin": 11.2
+    },
+    {
+      "texto": "el",
+      "inicio": 11.253,
+      "fin": 11.36
+    },
+    {
+      "texto": "catorce",
+      "inicio": 11.4,
+      "fin": 11.76
+    },
+    {
+      "texto": "de",
+      "inicio": 11.787,
+      "fin": 11.84
+    },
+    {
+      "texto": "septiembre",
+      "inicio": 11.904,
+      "fin": 12.72
+    },
+    {
+      "texto": "la",
+      "inicio": 12.88,
+      "fin": 13.2
+    },
+    {
+      "texto": "retiró.",
+      "inicio": 13.267,
+      "fin": 13.76
+    },
+    {
+      "texto": "¿Qué",
+      "inicio": 14.48,
+      "fin": 15.28
+    },
+    {
+      "texto": "nos",
+      "inicio": 15.32,
+      "fin": 15.44
+    },
+    {
+      "texto": "dice",
+      "inicio": 15.504,
+      "fin": 15.76
+    },
+    {
+      "texto": "eso?",
+      "inicio": 15.84,
+      "fin": 16.24
+    },
+    {
+      "texto": "Que",
+      "inicio": 16.44,
+      "fin": 17.04
+    },
+    {
+      "texto": "la",
+      "inicio": 17.067,
+      "fin": 17.12
+    },
+    {
+      "texto": "IA",
+      "inicio": 17.253,
+      "fin": 17.52
+    },
+    {
+      "texto": "te",
+      "inicio": 17.627,
+      "fin": 17.84
+    },
+    {
+      "texto": "ayuda",
+      "inicio": 17.933,
+      "fin": 18.4
+    },
+    {
+      "texto": "desde",
+      "inicio": 18.493,
+      "fin": 18.96
+    },
+    {
+      "texto": "afuera,",
+      "inicio": 19.013,
+      "fin": 19.92
+    },
+    {
+      "texto": "en",
+      "inicio": 19.973,
+      "fin": 20.08
+    },
+    {
+      "texto": "un",
+      "inicio": 20.133,
+      "fin": 20.24
+    },
+    {
+      "texto": "panel,",
+      "inicio": 20.307,
+      "fin": 21.44
+    },
+    {
+      "texto": "pero",
+      "inicio": 21.488,
+      "fin": 21.68
+    },
+    {
+      "texto": "lo",
+      "inicio": 21.707,
+      "fin": 21.76
+    },
+    {
+      "texto": "que",
+      "inicio": 21.8,
+      "fin": 21.92
+    },
+    {
+      "texto": "queda",
+      "inicio": 21.96,
+      "fin": 22.16
+    },
+    {
+      "texto": "en",
+      "inicio": 22.187,
+      "fin": 22.24
+    },
+    {
+      "texto": "la",
+      "inicio": 22.293,
+      "fin": 22.4
+    },
+    {
+      "texto": "celda",
+      "inicio": 22.44,
+      "fin": 23.04
+    },
+    {
+      "texto": "tiene",
+      "inicio": 23.12,
+      "fin": 23.52
+    },
+    {
+      "texto": "que",
+      "inicio": 23.54,
+      "fin": 23.6
+    },
+    {
+      "texto": "ser",
+      "inicio": 23.68,
+      "fin": 23.92
+    },
+    {
+      "texto": "una",
+      "inicio": 24.02,
+      "fin": 24.32
+    },
+    {
+      "texto": "fórmula",
+      "inicio": 24.4,
+      "fin": 24.88
+    },
+    {
+      "texto": "normal,",
+      "inicio": 25.006,
+      "fin": 26.32
+    },
+    {
+      "texto": "predecible,",
+      "inicio": 26.38,
+      "fin": 27.52
+    },
+    {
+      "texto": "que",
+      "inicio": 27.56,
+      "fin": 27.68
+    },
+    {
+      "texto": "dé",
+      "inicio": 27.733,
+      "fin": 27.84
+    },
+    {
+      "texto": "siempre",
+      "inicio": 27.89,
+      "fin": 28.24
+    },
+    {
+      "texto": "el",
+      "inicio": 28.267,
+      "fin": 28.32
+    },
+    {
+      "texto": "mismo",
+      "inicio": 28.373,
+      "fin": 28.64
+    },
+    {
+      "texto": "resultado.",
+      "inicio": 28.712,
+      "fin": 29.44
+    },
+    {
+      "texto": "Tu",
+      "inicio": 29.787,
+      "fin": 30.48
+    },
+    {
+      "texto": "hoja",
+      "inicio": 30.56,
+      "fin": 30.88
+    },
+    {
+      "texto": "sigue",
+      "inicio": 31.013,
+      "fin": 31.68
+    },
+    {
+      "texto": "necesitando",
+      "inicio": 31.733,
+      "fin": 32.48
+    },
+    {
+      "texto": "fórmulas",
+      "inicio": 32.6,
+      "fin": 33.44
+    },
+    {
+      "texto": "de",
+      "inicio": 33.52,
+      "fin": 33.68
+    },
+    {
+      "texto": "verdad.",
+      "inicio": 33.749,
+      "fin": 34.24
+    }
+  ]
+}

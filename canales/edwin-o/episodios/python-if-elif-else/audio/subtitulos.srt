@@ -1,0 +1,995 @@
+1
+00:00:00,139 --> 00:00:02,000
+Escribes cinco mil, y el programa te
+
+2
+00:00:02,064 --> 00:00:02,400
+dice:
+
+3
+00:00:02,520 --> 00:00:04,640
+comisión de doscientos cincuenta.
+
+4
+00:00:04,827 --> 00:00:07,680
+Escribes novecientos noventa y nueve, y te
+
+5
+00:00:07,744 --> 00:00:08,080
+dice:
+
+6
+00:00:08,280 --> 00:00:08,960
+cero.
+
+7
+00:00:10,672 --> 00:00:11,680
+¿Cómo sabe qué hacer?
+
+8
+00:00:11,860 --> 00:00:13,440
+Porque tomó una decisión.
+
+9
+00:00:13,720 --> 00:00:15,600
+Y hoy vas a aprender a programar
+
+10
+00:00:15,653 --> 00:00:16,960
+decisiones en Python.
+
+11
+00:00:17,432 --> 00:00:19,600
+¡Bienvenidos, amigos del canal!
+
+12
+00:00:19,640 --> 00:00:22,400
+Vamos en busca del poder tecnológico.
+
+13
+00:00:22,600 --> 00:00:25,280
+Hoy te explico las condicionales de
+
+14
+00:00:25,349 --> 00:00:26,000
+Python:
+
+15
+00:00:26,107 --> 00:00:28,880
+if, elif y else, desde cero
+
+16
+00:00:29,120 --> 00:00:31,840
+y con un ejemplo real de trabajo.
+
+17
+00:00:31,920 --> 00:00:33,760
+Y al final te enseño los cinco
+
+18
+00:00:33,820 --> 00:00:36,720
+errores que todo principiante comete, con
+
+19
+00:00:36,760 --> 00:00:39,200
+los mensajes exactos que te muestra
+
+20
+00:00:39,280 --> 00:00:40,000
+Python.
+
+21
+00:00:40,400 --> 00:00:42,240
+Un dato antes de empezar.
+
+22
+00:00:42,560 --> 00:00:45,120
+En octubre de dos mil veinticinco
+
+23
+00:00:45,220 --> 00:00:47,120
+salió Python tres punto
+
+24
+00:00:47,200 --> 00:00:49,440
+catorce, y una de sus
+
+25
+00:00:49,480 --> 00:00:52,480
+novedades son mensajes de error mucho más
+
+26
+00:00:52,544 --> 00:00:53,200
+claros.
+
+27
+00:00:53,480 --> 00:00:56,160
+Uno de ellos es justo sobre el
+
+28
+00:00:56,224 --> 00:00:57,760
+tema de hoy:
+
+29
+00:00:57,813 --> 00:01:00,480
+si pones las partes de una condicional
+
+30
+00:01:00,587 --> 00:01:03,120
+en el orden equivocado, ahora
+
+31
+00:01:03,211 --> 00:01:05,280
+Python te lo dice con todas las
+
+32
+00:01:05,371 --> 00:01:06,000
+letras.
+
+33
+00:01:06,213 --> 00:01:08,160
+Lo vas a ver al final.
+
+34
+00:01:08,560 --> 00:01:10,000
+Y te cuento algo:
+
+35
+00:01:10,080 --> 00:01:12,240
+el Short de if es el video
+
+36
+00:01:12,300 --> 00:01:14,320
+más visto de este canal, con más
+
+37
+00:01:14,373 --> 00:01:15,840
+de veintidós mil vistas.
+
+38
+00:01:16,160 --> 00:01:18,800
+En un minuto no cabe todo, así
+
+39
+00:01:18,840 --> 00:01:20,800
+que hoy va la versión completa.
+
+40
+00:01:20,937 --> 00:01:23,520
+Además, en mis clases de tecnología siempre
+
+41
+00:01:23,573 --> 00:01:24,480
+lo noto:
+
+42
+00:01:24,533 --> 00:01:26,480
+el if es el momento en que
+
+43
+00:01:26,520 --> 00:01:29,040
+los estudiantes sienten que su programa empieza
+
+44
+00:01:29,180 --> 00:01:29,680
+a pensar.
+
+45
+00:01:30,080 --> 00:01:31,360
+¿Qué es una condicional?
+
+46
+00:01:31,733 --> 00:01:34,720
+Es una pregunta que tu programa se
+
+47
+00:01:34,800 --> 00:01:35,200
+hace:
+
+48
+00:01:35,600 --> 00:01:36,880
+¿esto es verdad?
+
+49
+00:01:37,253 --> 00:01:40,240
+Si es verdad, hace una cosa, y
+
+50
+00:01:40,293 --> 00:01:41,760
+si no, hace otra.
+
+51
+00:01:42,133 --> 00:01:44,800
+Si usas Excel, ya la conoces:
+
+52
+00:01:44,827 --> 00:01:47,000
+es la función SI.
+
+53
+00:01:47,200 --> 00:01:49,360
+La diferencia es que en Python no
+
+54
+00:01:49,413 --> 00:01:52,160
+la escribes en una celda, sino en
+
+55
+00:01:52,240 --> 00:01:54,960
+líneas de código, y puede hacer
+
+56
+00:01:55,067 --> 00:01:57,760
+mucho más que devolver un valor.
+
+57
+00:01:58,160 --> 00:01:58,960
+Paso uno:
+
+58
+00:01:59,120 --> 00:02:00,000
+el if.
+
+59
+00:02:00,213 --> 00:02:03,040
+Escribes la palabra if, luego la
+
+60
+00:02:03,104 --> 00:02:05,920
+condición, por ejemplo ventas
+
+61
+00:02:06,013 --> 00:02:08,800
+mayor o igual que cinco mil, y
+
+62
+00:02:08,857 --> 00:02:10,800
+terminas con dos puntos.
+
+63
+00:02:11,120 --> 00:02:13,280
+Y aquí está lo más importante de
+
+64
+00:02:13,360 --> 00:02:14,480
+Python:
+
+65
+00:02:14,533 --> 00:02:17,520
+la línea de abajo va con sangría,
+
+66
+00:02:17,577 --> 00:02:19,920
+cuatro espacios hacia adentro.
+
+67
+00:02:20,120 --> 00:02:22,080
+Esa sangría le dice a Python:
+
+68
+00:02:22,256 --> 00:02:25,200
+esto solo se ejecuta si la condición
+
+69
+00:02:25,307 --> 00:02:26,240
+es verdadera.
+
+70
+00:02:26,640 --> 00:02:29,200
+Para escribir condiciones usas comparadores.
+
+71
+00:02:29,333 --> 00:02:31,920
+Mayor que, menor que, mayor o
+
+72
+00:02:31,987 --> 00:02:33,840
+igual, y menor o igual.
+
+73
+00:02:34,048 --> 00:02:36,880
+Para preguntar si dos cosas son iguales,
+
+74
+00:02:36,960 --> 00:02:39,280
+se usan dos signos de igual, no
+
+75
+00:02:39,380 --> 00:02:40,120
+uno.
+
+76
+00:02:40,340 --> 00:02:42,960
+Y para preguntar si son diferentes, signo
+
+77
+00:02:42,987 --> 00:02:44,800
+de admiración e igual.
+
+78
+00:02:45,060 --> 00:02:47,440
+Apréndete esos seis, y puedes
+
+79
+00:02:47,493 --> 00:02:49,920
+escribir casi cualquier condición.
+
+80
+00:02:50,320 --> 00:02:51,120
+Paso dos:
+
+81
+00:02:51,467 --> 00:02:54,400
+el else, que significa "si
+
+82
+00:02:54,480 --> 00:02:54,720
+no".
+
+83
+00:02:55,093 --> 00:02:57,280
+Va al mismo nivel que el if,
+
+84
+00:02:57,440 --> 00:02:59,840
+sin sangría, también con dos
+
+85
+00:02:59,920 --> 00:03:00,560
+puntos.
+
+86
+00:03:00,773 --> 00:03:03,440
+Lo que pongas debajo de else se
+
+87
+00:03:03,504 --> 00:03:06,080
+ejecuta cuando la condición es falsa.
+
+88
+00:03:06,427 --> 00:03:09,200
+Así tu programa siempre hace algo:
+
+89
+00:03:09,240 --> 00:03:11,200
+o una cosa, o la otra.
+
+90
+00:03:11,440 --> 00:03:12,880
+Nunca las dos.
+
+91
+00:03:13,320 --> 00:03:15,680
+Y fíjate que el else no lleva
+
+92
+00:03:15,728 --> 00:03:16,880
+condición:
+
+93
+00:03:16,960 --> 00:03:18,640
+atrapa todo lo que no cumplió el
+
+94
+00:03:18,747 --> 00:03:18,960
+if.
+
+95
+00:03:19,360 --> 00:03:20,240
+Paso tres:
+
+96
+00:03:20,448 --> 00:03:23,120
+elif, que es la abreviatura de "else
+
+97
+00:03:23,280 --> 00:03:23,840
+if":
+
+98
+00:03:23,893 --> 00:03:25,760
+si no, pregunta esto otro.
+
+99
+00:03:26,040 --> 00:03:28,960
+Sirve cuando tienes más de dos opciones.
+
+100
+00:03:29,280 --> 00:03:31,680
+¿Recuerdas la regla de comisiones del video
+
+101
+00:03:31,707 --> 00:03:33,120
+de fórmulas con IA?
+
+102
+00:03:33,307 --> 00:03:35,840
+Desde cinco mil, el cinco por
+
+103
+00:03:35,880 --> 00:03:36,480
+ciento.
+
+104
+00:03:36,600 --> 00:03:39,120
+Desde mil, el tres por ciento.
+
+105
+00:03:39,200 --> 00:03:41,200
+Si no, cero.
+
+106
+00:03:41,360 --> 00:03:43,120
+En Python queda así:
+
+107
+00:03:43,520 --> 00:03:46,400
+if ventas mayor o igual
+
+108
+00:03:46,440 --> 00:03:49,120
+que cinco mil, elif
+
+109
+00:03:49,291 --> 00:03:52,000
+ventas mayor o igual que mil,
+
+110
+00:03:52,360 --> 00:03:53,880
+y else.
+
+111
+00:03:54,100 --> 00:03:56,800
+Tres caminos, uno solo se cumple.
+
+112
+00:03:57,200 --> 00:04:00,000
+La primera línea usa input para preguntar
+
+113
+00:04:00,040 --> 00:04:02,960
+las ventas, y float para convertirlas en
+
+114
+00:04:03,029 --> 00:04:03,520
+número.
+
+115
+00:04:03,867 --> 00:04:06,480
+Ejecutamos y probamos los casos del
+
+116
+00:04:06,560 --> 00:04:08,640
+límite, igual que en Excel.
+
+117
+00:04:08,840 --> 00:04:10,760
+Novecientos noventa y nueve:
+
+118
+00:04:10,940 --> 00:04:11,520
+cero.
+
+119
+00:04:11,820 --> 00:04:13,120
+Mil:
+
+120
+00:04:13,220 --> 00:04:14,000
+treinta.
+
+121
+00:04:14,280 --> 00:04:16,000
+Cinco mil:
+
+122
+00:04:16,060 --> 00:04:17,760
+doscientos cincuenta.
+
+123
+00:04:18,040 --> 00:04:19,920
+Y siete mil doscientos:
+
+124
+00:04:19,984 --> 00:04:21,280
+trescientos sesenta.
+
+125
+00:04:22,328 --> 00:04:23,120
+¡Todo correcto!
+
+126
+00:04:23,480 --> 00:04:25,040
+Y si alguno no hubiera dado lo
+
+127
+00:04:25,093 --> 00:04:28,000
+esperado, ya sabrías dónde buscar:
+
+128
+00:04:28,053 --> 00:04:30,640
+en la condición, no en el resto
+
+129
+00:04:30,660 --> 00:04:31,360
+del programa.
+
+130
+00:04:31,760 --> 00:04:33,680
+Ahora, un error que cuesta dinero.
+
+131
+00:04:34,080 --> 00:04:36,480
+¿Qué pasa si pongo primero la condición
+
+132
+00:04:36,507 --> 00:04:38,800
+de mil, y después la de cinco
+
+133
+00:04:38,900 --> 00:04:39,360
+mil?
+
+134
+00:04:39,600 --> 00:04:42,240
+Ejecuto con siete mil doscientos
+
+135
+00:04:42,600 --> 00:04:45,360
+y… doscientos dieciséis.
+
+136
+00:04:45,680 --> 00:04:47,280
+¡Le pagué el tres por ciento en
+
+137
+00:04:47,320 --> 00:04:48,160
+vez del cinco!
+
+138
+00:04:48,377 --> 00:04:51,200
+Python revisa las condiciones de
+
+139
+00:04:51,253 --> 00:04:53,440
+arriba hacia abajo, y se detiene en
+
+140
+00:04:53,467 --> 00:04:54,880
+la primera que es verdadera.
+
+141
+00:04:55,120 --> 00:04:58,080
+Siete mil doscientos es mayor que mil,
+
+142
+00:04:58,140 --> 00:04:59,920
+así que nunca llega a preguntar por
+
+143
+00:04:59,973 --> 00:05:00,640
+cinco mil.
+
+144
+00:05:00,900 --> 00:05:02,240
+Regla de oro:
+
+145
+00:05:02,427 --> 00:05:05,360
+de la condición más exigente a
+
+146
+00:05:05,413 --> 00:05:06,800
+la menos exigente.
+
+147
+00:05:07,200 --> 00:05:08,000
+Otro detalle.
+
+148
+00:05:08,133 --> 00:05:11,120
+Input siempre devuelve texto, aunque escribas
+
+149
+00:05:11,147 --> 00:05:11,760
+un número.
+
+150
+00:05:11,867 --> 00:05:14,400
+Si comparas ese texto con cinco mil,
+
+151
+00:05:14,457 --> 00:05:15,520
+Python se queja:
+
+152
+00:05:15,600 --> 00:05:17,600
+type error, no se puede comparar un
+
+153
+00:05:17,667 --> 00:05:18,720
+texto con un número.
+
+154
+00:05:18,800 --> 00:05:20,880
+La solución es la que ya viste:
+
+155
+00:05:20,940 --> 00:05:23,840
+envolver el input en float, para convertirlo
+
+156
+00:05:23,920 --> 00:05:25,440
+en número con decimales.
+
+157
+00:05:25,520 --> 00:05:27,920
+O en int, si solo necesitas enteros.
+
+158
+00:05:28,320 --> 00:05:30,560
+¿Y si necesitas dos condiciones a la
+
+159
+00:05:30,620 --> 00:05:30,960
+vez?
+
+160
+00:05:31,072 --> 00:05:33,600
+Para eso están and y or.
+
+161
+00:05:33,740 --> 00:05:35,440
+And significa "y":
+
+162
+00:05:35,480 --> 00:05:37,120
+las dos tienen que cumplirse.
+
+163
+00:05:37,240 --> 00:05:40,160
+Por ejemplo, el estudiante aprueba si su
+
+164
+00:05:40,224 --> 00:05:42,240
+nota es de sesenta o más, y
+
+165
+00:05:42,293 --> 00:05:44,800
+su asistencia es de ochenta o más.
+
+166
+00:05:45,147 --> 00:05:47,600
+Or significa "o":
+
+167
+00:05:47,640 --> 00:05:49,840
+basta con que una se cumpla.
+
+168
+00:05:49,920 --> 00:05:52,560
+Por ejemplo, el envío es gratis
+
+169
+00:05:52,720 --> 00:05:55,280
+si la compra pasa de cien dólares,
+
+170
+00:05:55,480 --> 00:05:57,600
+o si el cliente es premium.
+
+171
+00:05:57,780 --> 00:06:00,240
+Con una sola que se cumpla, no
+
+172
+00:06:00,280 --> 00:06:01,280
+paga envío.
+
+173
+00:06:01,400 --> 00:06:04,160
+Con estas dos palabras, tus condiciones se
+
+174
+00:06:04,224 --> 00:06:06,480
+vuelven mucho más poderosas.
+
+175
+00:06:06,880 --> 00:06:08,320
+Un bonus que te va a gustar
+
+176
+00:06:08,400 --> 00:06:10,080
+si vienes de Excel.
+
+177
+00:06:10,114 --> 00:06:13,040
+Cuando solo necesitas elegir entre dos valores,
+
+178
+00:06:13,097 --> 00:06:15,360
+Python tiene un if de una línea:
+
+179
+00:06:15,440 --> 00:06:17,920
+estado igual a "Aprobado" if
+
+180
+00:06:18,048 --> 00:06:20,480
+nota mayor o igual que sesenta,
+
+181
+00:06:20,608 --> 00:06:22,080
+else "Reprobado".
+
+182
+00:06:22,347 --> 00:06:24,720
+Es casi idéntico a la función SI
+
+183
+00:06:24,747 --> 00:06:25,280
+de Excel.
+
+184
+00:06:25,640 --> 00:06:27,920
+Úsalo para cosas cortas, y el if
+
+185
+00:06:27,989 --> 00:06:29,840
+normal para todo lo demás.
+
+186
+00:06:30,240 --> 00:06:32,560
+Y los cinco errores de principiante, con
+
+187
+00:06:32,587 --> 00:06:34,000
+lo que te dice Python.
+
+188
+00:06:34,280 --> 00:06:35,840
+Uno:
+
+189
+00:06:35,893 --> 00:06:37,760
+olvidar los dos puntos, y Python te
+
+190
+00:06:37,824 --> 00:06:39,680
+dice "expected dos puntos".
+
+191
+00:06:39,960 --> 00:06:40,960
+Dos:
+
+192
+00:06:41,173 --> 00:06:43,680
+olvidar la sangría, y te dice que
+
+193
+00:06:43,720 --> 00:06:45,680
+esperaba un bloque con sangría después del
+
+194
+00:06:45,787 --> 00:06:46,080
+if.
+
+195
+00:06:46,720 --> 00:06:47,760
+Tres:
+
+196
+00:06:47,952 --> 00:06:50,800
+usar un solo igual para comparar, y
+
+197
+00:06:50,827 --> 00:06:53,360
+te pregunta si quisiste decir doble igual.
+
+198
+00:06:53,760 --> 00:06:55,520
+Cuatro:
+
+199
+00:06:55,573 --> 00:06:58,080
+poner un elif después del else, y
+
+200
+00:06:58,133 --> 00:07:00,640
+te dice exactamente eso, que el elif
+
+201
+00:07:00,720 --> 00:07:02,160
+va después de un else.
+
+202
+00:07:02,600 --> 00:07:03,680
+Y cinco:
+
+203
+00:07:03,800 --> 00:07:06,240
+escribir mal la palabra if, y te
+
+204
+00:07:06,302 --> 00:07:06,880
+pregunta:
+
+205
+00:07:07,000 --> 00:07:08,720
+¿quisiste decir if?
+
+206
+00:07:09,240 --> 00:07:11,760
+Lee siempre el mensaje de
+
+207
+00:07:11,813 --> 00:07:12,720
+error:
+
+208
+00:07:12,784 --> 00:07:14,560
+casi siempre te dice la solución.
+
+209
+00:07:14,960 --> 00:07:16,880
+Fíjate en algo bonito.
+
+210
+00:07:17,467 --> 00:07:20,000
+La fórmula de comisiones que
+
+211
+00:07:20,040 --> 00:07:22,720
+hicimos en Excel con SI punto
+
+212
+00:07:22,800 --> 00:07:25,360
+CONJUNTO, y este programa en
+
+213
+00:07:25,440 --> 00:07:28,320
+Python, tienen exactamente la
+
+214
+00:07:28,373 --> 00:07:29,840
+misma lógica:
+
+215
+00:07:29,900 --> 00:07:32,640
+primero la condición más exigente,
+
+216
+00:07:32,707 --> 00:07:34,880
+luego la siguiente, y al final el
+
+217
+00:07:34,944 --> 00:07:36,000
+caso por defecto.
+
+218
+00:07:36,160 --> 00:07:38,800
+Si entiendes una, entiendes la otra.
+
+219
+00:07:38,920 --> 00:07:41,120
+Por eso digo que aprender Excel y
+
+220
+00:07:41,200 --> 00:07:43,360
+Python juntos es un
+
+221
+00:07:43,440 --> 00:07:44,320
+superpoder.
+
+222
+00:07:44,942 --> 00:07:47,520
+Si no lo aprendes ahora, te extingues.
+
+223
+00:07:47,920 --> 00:07:48,880
+Ahora te toca a ti.
+
+224
+00:07:49,173 --> 00:07:50,400
+El reto:
+
+225
+00:07:50,480 --> 00:07:52,320
+escribe un programa que pida una nota
+
+226
+00:07:52,373 --> 00:07:53,440
+de cero a cien.
+
+227
+00:07:53,547 --> 00:07:55,200
+Si es noventa o más, que diga
+
+228
+00:07:55,320 --> 00:07:56,320
+"Excelente".
+
+229
+00:07:56,480 --> 00:07:58,720
+Si es sesenta o más, "Aprobado".
+
+230
+00:07:58,840 --> 00:08:00,560
+Y si no, "Reprobado".
+
+231
+00:08:00,880 --> 00:08:01,760
+Pista:
+
+232
+00:08:01,893 --> 00:08:03,520
+el orden importa.
+
+233
+00:08:03,867 --> 00:08:06,480
+Déjame tu código en los comentarios, y
+
+234
+00:08:06,547 --> 00:08:07,840
+reviso los primeros.
+
+235
+00:08:08,240 --> 00:08:09,120
+En resumen:
+
+236
+00:08:09,360 --> 00:08:12,240
+if pregunta, elif pregunta
+
+237
+00:08:12,336 --> 00:08:15,040
+otra cosa si la primera fue falsa,
+
+238
+00:08:15,360 --> 00:08:17,520
+y else atrapa todo lo
+
+239
+00:08:17,580 --> 00:08:18,400
+demás.
+
+240
+00:08:18,480 --> 00:08:21,440
+Dos puntos, sangría, y de la
+
+241
+00:08:21,488 --> 00:08:24,080
+condición más exigente a la menos
+
+242
+00:08:24,160 --> 00:08:24,880
+exigente.
+
+243
+00:08:25,227 --> 00:08:28,000
+En el próximo video juntamos los dos
+
+244
+00:08:28,080 --> 00:08:29,120
+mundos:
+
+245
+00:08:29,180 --> 00:08:31,520
+vas a usar Python dentro de Excel,
+
+246
+00:08:31,620 --> 00:08:34,240
+con la función P Y.
+
+247
+00:08:34,420 --> 00:08:36,720
+Suscríbete para no perdértelo.
+
+248
+00:08:37,393 --> 00:08:39,366
+El poder de la tecnología te va
+
+249
+00:08:39,406 --> 00:08:40,806
+a cambiar el mundo.

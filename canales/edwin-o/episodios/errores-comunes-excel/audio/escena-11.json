@@ -1,0 +1,365 @@
+{
+  "num": "11",
+  "titulo": "Error 4: el formato que engaña",
+  "texto": "Error número cuatro: el formato que engaña. Volvamos al ejemplo del principio. Cada celda vale en realidad diez coma cuatro, pero el formato está configurado para no mostrar decimales, así que vemos diez. La suma real es treinta y uno coma dos, que se muestra como treinta y uno. Excel calculó bien. El problema es que el formato solo cambia lo que ves, no el valor que hay en la celda.",
+  "texto_tts": "Error número cuatro: el formato que engaña. Volvamos al ejemplo del principio. Cada celda vale en realidad diez coma cuatro, pero el formato está configurado para no mostrar decimales, así que vemos diez. La suma real es treinta y uno coma dos, que se muestra como treinta y uno. Excel calculó bien. El problema es que el formato solo cambia lo que ves, no el valor que hay en la celda.",
+  "modelo": "eleven_v3",
+  "duracion": 29.521,
+  "palabras": [
+    {
+      "texto": "Error",
+      "inicio": 0.0,
+      "fin": 0.32
+    },
+    {
+      "texto": "número",
+      "inicio": 0.366,
+      "fin": 0.64
+    },
+    {
+      "texto": "cuatro:",
+      "inicio": 0.709,
+      "fin": 1.2
+    },
+    {
+      "texto": "el",
+      "inicio": 1.413,
+      "fin": 1.84
+    },
+    {
+      "texto": "formato",
+      "inicio": 1.92,
+      "fin": 2.48
+    },
+    {
+      "texto": "que",
+      "inicio": 2.5,
+      "fin": 2.56
+    },
+    {
+      "texto": "engaña.",
+      "inicio": 2.62,
+      "fin": 3.201
+    },
+    {
+      "texto": "Volvamos",
+      "inicio": 3.521,
+      "fin": 4.721
+    },
+    {
+      "texto": "al",
+      "inicio": 4.774,
+      "fin": 4.881
+    },
+    {
+      "texto": "ejemplo",
+      "inicio": 4.931,
+      "fin": 5.281
+    },
+    {
+      "texto": "del",
+      "inicio": 5.321,
+      "fin": 5.441
+    },
+    {
+      "texto": "principio.",
+      "inicio": 5.497,
+      "fin": 6.081
+    },
+    {
+      "texto": "Cada",
+      "inicio": 6.441,
+      "fin": 7.041
+    },
+    {
+      "texto": "celda",
+      "inicio": 7.121,
+      "fin": 7.521
+    },
+    {
+      "texto": "vale",
+      "inicio": 7.585,
+      "fin": 7.841
+    },
+    {
+      "texto": "en",
+      "inicio": 7.894,
+      "fin": 8.001
+    },
+    {
+      "texto": "realidad",
+      "inicio": 8.063,
+      "fin": 8.561
+    },
+    {
+      "texto": "diez",
+      "inicio": 8.661,
+      "fin": 9.121
+    },
+    {
+      "texto": "coma",
+      "inicio": 9.153,
+      "fin": 9.281
+    },
+    {
+      "texto": "cuatro,",
+      "inicio": 9.338,
+      "fin": 10.321
+    },
+    {
+      "texto": "pero",
+      "inicio": 10.353,
+      "fin": 10.481
+    },
+    {
+      "texto": "el",
+      "inicio": 10.534,
+      "fin": 10.641
+    },
+    {
+      "texto": "formato",
+      "inicio": 10.701,
+      "fin": 11.121
+    },
+    {
+      "texto": "está",
+      "inicio": 11.153,
+      "fin": 11.281
+    },
+    {
+      "texto": "configurado",
+      "inicio": 11.334,
+      "fin": 12.001
+    },
+    {
+      "texto": "para",
+      "inicio": 12.065,
+      "fin": 12.321
+    },
+    {
+      "texto": "no",
+      "inicio": 12.401,
+      "fin": 12.561
+    },
+    {
+      "texto": "mostrar",
+      "inicio": 12.611,
+      "fin": 12.961
+    },
+    {
+      "texto": "decimales,",
+      "inicio": 13.001,
+      "fin": 13.841
+    },
+    {
+      "texto": "así",
+      "inicio": 13.901,
+      "fin": 14.081
+    },
+    {
+      "texto": "que",
+      "inicio": 14.121,
+      "fin": 14.241
+    },
+    {
+      "texto": "vemos",
+      "inicio": 14.281,
+      "fin": 14.641
+    },
+    {
+      "texto": "diez.",
+      "inicio": 14.741,
+      "fin": 15.361
+    },
+    {
+      "texto": "La",
+      "inicio": 15.734,
+      "fin": 16.481
+    },
+    {
+      "texto": "suma",
+      "inicio": 16.545,
+      "fin": 16.801
+    },
+    {
+      "texto": "real",
+      "inicio": 16.881,
+      "fin": 17.201
+    },
+    {
+      "texto": "es",
+      "inicio": 17.281,
+      "fin": 17.441
+    },
+    {
+      "texto": "treinta",
+      "inicio": 17.501,
+      "fin": 17.841
+    },
+    {
+      "texto": "y",
+      "inicio": 17.921,
+      "fin": 18.001
+    },
+    {
+      "texto": "uno",
+      "inicio": 18.021,
+      "fin": 18.081
+    },
+    {
+      "texto": "coma",
+      "inicio": 18.161,
+      "fin": 18.481
+    },
+    {
+      "texto": "dos,",
+      "inicio": 18.521,
+      "fin": 18.961
+    },
+    {
+      "texto": "que",
+      "inicio": 19.061,
+      "fin": 19.361
+    },
+    {
+      "texto": "se",
+      "inicio": 19.388,
+      "fin": 19.441
+    },
+    {
+      "texto": "muestra",
+      "inicio": 19.491,
+      "fin": 19.841
+    },
+    {
+      "texto": "como",
+      "inicio": 19.889,
+      "fin": 20.081
+    },
+    {
+      "texto": "treinta",
+      "inicio": 20.121,
+      "fin": 20.481
+    },
+    {
+      "texto": "y",
+      "inicio": 20.561,
+      "fin": 20.641
+    },
+    {
+      "texto": "uno.",
+      "inicio": 20.661,
+      "fin": 20.961
+    },
+    {
+      "texto": "Excel",
+      "inicio": 21.174,
+      "fin": 22.241
+    },
+    {
+      "texto": "calculó",
+      "inicio": 22.298,
+      "fin": 22.721
+    },
+    {
+      "texto": "bien.",
+      "inicio": 22.801,
+      "fin": 23.201
+    },
+    {
+      "texto": "El",
+      "inicio": 23.468,
+      "fin": 24.001
+    },
+    {
+      "texto": "problema",
+      "inicio": 24.063,
+      "fin": 24.561
+    },
+    {
+      "texto": "es",
+      "inicio": 24.668,
+      "fin": 24.881
+    },
+    {
+      "texto": "que",
+      "inicio": 24.901,
+      "fin": 24.961
+    },
+    {
+      "texto": "el",
+      "inicio": 24.988,
+      "fin": 25.041
+    },
+    {
+      "texto": "formato",
+      "inicio": 25.101,
+      "fin": 25.521
+    },
+    {
+      "texto": "solo",
+      "inicio": 25.569,
+      "fin": 25.761
+    },
+    {
+      "texto": "cambia",
+      "inicio": 25.825,
+      "fin": 26.241
+    },
+    {
+      "texto": "lo",
+      "inicio": 26.348,
+      "fin": 26.561
+    },
+    {
+      "texto": "que",
+      "inicio": 26.601,
+      "fin": 26.721
+    },
+    {
+      "texto": "ves,",
+      "inicio": 26.821,
+      "fin": 27.681
+    },
+    {
+      "texto": "no",
+      "inicio": 27.761,
+      "fin": 27.921
+    },
+    {
+      "texto": "el",
+      "inicio": 27.974,
+      "fin": 28.081
+    },
+    {
+      "texto": "valor",
+      "inicio": 28.134,
+      "fin": 28.401
+    },
+    {
+      "texto": "que",
+      "inicio": 28.441,
+      "fin": 28.561
+    },
+    {
+      "texto": "hay",
+      "inicio": 28.601,
+      "fin": 28.721
+    },
+    {
+      "texto": "en",
+      "inicio": 28.748,
+      "fin": 28.801
+    },
+    {
+      "texto": "la",
+      "inicio": 28.854,
+      "fin": 28.961
+    },
+    {
+      "texto": "celda.",
+      "inicio": 29.001,
+      "fin": 29.521
+    }
+  ]
+}

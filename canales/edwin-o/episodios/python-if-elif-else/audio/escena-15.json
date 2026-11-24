@@ -1,0 +1,510 @@
+{
+  "num": "15",
+  "titulo": "Los 5 errores de principiante",
+  "texto": "Y los cinco errores de principiante, con lo que te dice Python. Uno: olvidar los dos puntos, y Python te dice \"expected dos puntos\". Dos: olvidar la sangría, y te dice que esperaba un bloque con sangría después del if. Tres: usar un solo igual para comparar, y te pregunta si quisiste decir doble igual. Cuatro: poner un elif después del else, y te dice exactamente eso, que el elif va después de un else. Y cinco: escribir mal la palabra if, y te pregunta: ¿quisiste decir if? Lee siempre el mensaje de error: casi siempre te dice la solución.",
+  "texto_tts": "Y los cinco errores de principiante, con lo que te dice Python. Uno: olvidar los dos puntos, y Python te dice \"expected dos puntos\". Dos: olvidar la sangría, y te dice que esperaba un bloque con sangría después del if. Tres: usar un solo igual para comparar, y te pregunta si quisiste decir doble igual. Cuatro: poner un elif después del else, y te dice exactamente eso, que el elif va después de un else. Y cinco: escribir mal la palabra if, y te pregunta: ¿quisiste decir if? Lee siempre el mensaje de error: casi siempre te dice la solución.",
+  "modelo": "eleven_v3",
+  "duracion": 44.32,
+  "palabras": [
+    {
+      "texto": "Y",
+      "inicio": 0.0,
+      "fin": 0.16
+    },
+    {
+      "texto": "los",
+      "inicio": 0.24,
+      "fin": 0.48
+    },
+    {
+      "texto": "cinco",
+      "inicio": 0.533,
+      "fin": 0.8
+    },
+    {
+      "texto": "errores",
+      "inicio": 0.84,
+      "fin": 1.12
+    },
+    {
+      "texto": "de",
+      "inicio": 1.173,
+      "fin": 1.28
+    },
+    {
+      "texto": "principiante,",
+      "inicio": 1.32,
+      "fin": 2.16
+    },
+    {
+      "texto": "con",
+      "inicio": 2.2,
+      "fin": 2.32
+    },
+    {
+      "texto": "lo",
+      "inicio": 2.347,
+      "fin": 2.4
+    },
+    {
+      "texto": "que",
+      "inicio": 2.42,
+      "fin": 2.48
+    },
+    {
+      "texto": "te",
+      "inicio": 2.533,
+      "fin": 2.64
+    },
+    {
+      "texto": "dice",
+      "inicio": 2.72,
+      "fin": 3.04
+    },
+    {
+      "texto": "Python.",
+      "inicio": 3.131,
+      "fin": 3.76
+    },
+    {
+      "texto": "Uno:",
+      "inicio": 4.04,
+      "fin": 5.6
+    },
+    {
+      "texto": "olvidar",
+      "inicio": 5.653,
+      "fin": 6.0
+    },
+    {
+      "texto": "los",
+      "inicio": 6.04,
+      "fin": 6.16
+    },
+    {
+      "texto": "dos",
+      "inicio": 6.18,
+      "fin": 6.24
+    },
+    {
+      "texto": "puntos,",
+      "inicio": 6.309,
+      "fin": 6.88
+    },
+    {
+      "texto": "y",
+      "inicio": 6.96,
+      "fin": 7.04
+    },
+    {
+      "texto": "Python",
+      "inicio": 7.097,
+      "fin": 7.44
+    },
+    {
+      "texto": "te",
+      "inicio": 7.467,
+      "fin": 7.52
+    },
+    {
+      "texto": "dice",
+      "inicio": 7.584,
+      "fin": 7.84
+    },
+    {
+      "texto": "\"expected",
+      "inicio": 7.92,
+      "fin": 8.64
+    },
+    {
+      "texto": "dos",
+      "inicio": 8.68,
+      "fin": 8.8
+    },
+    {
+      "texto": "puntos\".",
+      "inicio": 8.869,
+      "fin": 9.44
+    },
+    {
+      "texto": "Dos:",
+      "inicio": 9.72,
+      "fin": 10.72
+    },
+    {
+      "texto": "olvidar",
+      "inicio": 10.933,
+      "fin": 11.6
+    },
+    {
+      "texto": "la",
+      "inicio": 11.627,
+      "fin": 11.68
+    },
+    {
+      "texto": "sangría,",
+      "inicio": 11.744,
+      "fin": 12.4
+    },
+    {
+      "texto": "y",
+      "inicio": 12.52,
+      "fin": 12.64
+    },
+    {
+      "texto": "te",
+      "inicio": 12.693,
+      "fin": 12.8
+    },
+    {
+      "texto": "dice",
+      "inicio": 12.864,
+      "fin": 13.12
+    },
+    {
+      "texto": "que",
+      "inicio": 13.2,
+      "fin": 13.44
+    },
+    {
+      "texto": "esperaba",
+      "inicio": 13.48,
+      "fin": 13.84
+    },
+    {
+      "texto": "un",
+      "inicio": 13.867,
+      "fin": 13.92
+    },
+    {
+      "texto": "bloque",
+      "inicio": 13.966,
+      "fin": 14.24
+    },
+    {
+      "texto": "con",
+      "inicio": 14.28,
+      "fin": 14.4
+    },
+    {
+      "texto": "sangría",
+      "inicio": 14.464,
+      "fin": 14.96
+    },
+    {
+      "texto": "después",
+      "inicio": 15.0,
+      "fin": 15.28
+    },
+    {
+      "texto": "del",
+      "inicio": 15.32,
+      "fin": 15.44
+    },
+    {
+      "texto": "if.",
+      "inicio": 15.547,
+      "fin": 15.84
+    },
+    {
+      "texto": "Tres:",
+      "inicio": 16.48,
+      "fin": 17.52
+    },
+    {
+      "texto": "usar",
+      "inicio": 17.712,
+      "fin": 18.48
+    },
+    {
+      "texto": "un",
+      "inicio": 18.56,
+      "fin": 18.72
+    },
+    {
+      "texto": "solo",
+      "inicio": 18.784,
+      "fin": 19.04
+    },
+    {
+      "texto": "igual",
+      "inicio": 19.08,
+      "fin": 19.28
+    },
+    {
+      "texto": "para",
+      "inicio": 19.328,
+      "fin": 19.52
+    },
+    {
+      "texto": "comparar,",
+      "inicio": 19.577,
+      "fin": 20.16
+    },
+    {
+      "texto": "y",
+      "inicio": 20.36,
+      "fin": 20.56
+    },
+    {
+      "texto": "te",
+      "inicio": 20.587,
+      "fin": 20.64
+    },
+    {
+      "texto": "pregunta",
+      "inicio": 20.693,
+      "fin": 21.12
+    },
+    {
+      "texto": "si",
+      "inicio": 21.173,
+      "fin": 21.28
+    },
+    {
+      "texto": "quisiste",
+      "inicio": 21.328,
+      "fin": 21.76
+    },
+    {
+      "texto": "decir",
+      "inicio": 21.827,
+      "fin": 22.16
+    },
+    {
+      "texto": "doble",
+      "inicio": 22.267,
+      "fin": 22.64
+    },
+    {
+      "texto": "igual.",
+      "inicio": 22.693,
+      "fin": 23.12
+    },
+    {
+      "texto": "Cuatro:",
+      "inicio": 23.52,
+      "fin": 25.28
+    },
+    {
+      "texto": "poner",
+      "inicio": 25.333,
+      "fin": 25.6
+    },
+    {
+      "texto": "un",
+      "inicio": 25.68,
+      "fin": 25.84
+    },
+    {
+      "texto": "elif",
+      "inicio": 25.968,
+      "fin": 26.48
+    },
+    {
+      "texto": "después",
+      "inicio": 26.54,
+      "fin": 26.96
+    },
+    {
+      "texto": "del",
+      "inicio": 27.0,
+      "fin": 27.12
+    },
+    {
+      "texto": "else,",
+      "inicio": 27.216,
+      "fin": 27.72
+    },
+    {
+      "texto": "y",
+      "inicio": 27.78,
+      "fin": 27.84
+    },
+    {
+      "texto": "te",
+      "inicio": 27.893,
+      "fin": 28.0
+    },
+    {
+      "texto": "dice",
+      "inicio": 28.048,
+      "fin": 28.24
+    },
+    {
+      "texto": "exactamente",
+      "inicio": 28.293,
+      "fin": 28.96
+    },
+    {
+      "texto": "eso,",
+      "inicio": 29.04,
+      "fin": 29.52
+    },
+    {
+      "texto": "que",
+      "inicio": 29.54,
+      "fin": 29.6
+    },
+    {
+      "texto": "el",
+      "inicio": 29.653,
+      "fin": 29.76
+    },
+    {
+      "texto": "elif",
+      "inicio": 29.888,
+      "fin": 30.4
+    },
+    {
+      "texto": "va",
+      "inicio": 30.48,
+      "fin": 30.64
+    },
+    {
+      "texto": "después",
+      "inicio": 30.68,
+      "fin": 30.96
+    },
+    {
+      "texto": "de",
+      "inicio": 30.987,
+      "fin": 31.04
+    },
+    {
+      "texto": "un",
+      "inicio": 31.093,
+      "fin": 31.2
+    },
+    {
+      "texto": "else.",
+      "inicio": 31.312,
+      "fin": 31.92
+    },
+    {
+      "texto": "Y",
+      "inicio": 32.36,
+      "fin": 32.8
+    },
+    {
+      "texto": "cinco:",
+      "inicio": 32.893,
+      "fin": 33.44
+    },
+    {
+      "texto": "escribir",
+      "inicio": 33.56,
+      "fin": 34.32
+    },
+    {
+      "texto": "mal",
+      "inicio": 34.38,
+      "fin": 34.56
+    },
+    {
+      "texto": "la",
+      "inicio": 34.587,
+      "fin": 34.64
+    },
+    {
+      "texto": "palabra",
+      "inicio": 34.7,
+      "fin": 35.12
+    },
+    {
+      "texto": "if,",
+      "inicio": 35.253,
+      "fin": 35.6
+    },
+    {
+      "texto": "y",
+      "inicio": 35.72,
+      "fin": 35.84
+    },
+    {
+      "texto": "te",
+      "inicio": 35.893,
+      "fin": 36.0
+    },
+    {
+      "texto": "pregunta:",
+      "inicio": 36.062,
+      "fin": 36.64
+    },
+    {
+      "texto": "¿quisiste",
+      "inicio": 36.76,
+      "fin": 37.28
+    },
+    {
+      "texto": "decir",
+      "inicio": 37.36,
+      "fin": 37.76
+    },
+    {
+      "texto": "if?",
+      "inicio": 37.947,
+      "fin": 38.48
+    },
+    {
+      "texto": "Lee",
+      "inicio": 39.0,
+      "fin": 40.56
+    },
+    {
+      "texto": "siempre",
+      "inicio": 40.61,
+      "fin": 40.96
+    },
+    {
+      "texto": "el",
+      "inicio": 40.987,
+      "fin": 41.04
+    },
+    {
+      "texto": "mensaje",
+      "inicio": 41.09,
+      "fin": 41.44
+    },
+    {
+      "texto": "de",
+      "inicio": 41.467,
+      "fin": 41.52
+    },
+    {
+      "texto": "error:",
+      "inicio": 41.573,
+      "fin": 42.48
+    },
+    {
+      "texto": "casi",
+      "inicio": 42.544,
+      "fin": 42.8
+    },
+    {
+      "texto": "siempre",
+      "inicio": 42.85,
+      "fin": 43.2
+    },
+    {
+      "texto": "te",
+      "inicio": 43.253,
+      "fin": 43.36
+    },
+    {
+      "texto": "dice",
+      "inicio": 43.408,
+      "fin": 43.6
+    },
+    {
+      "texto": "la",
+      "inicio": 43.627,
+      "fin": 43.68
+    },
+    {
+      "texto": "solución.",
+      "inicio": 43.72,
+      "fin": 44.32
+    }
+  ]
+}

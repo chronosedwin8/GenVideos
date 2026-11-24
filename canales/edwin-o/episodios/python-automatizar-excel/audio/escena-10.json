@@ -1,0 +1,290 @@
+{
+  "num": "10",
+  "titulo": "Paso 5: el ciclo mágico",
+  "texto": "Paso cinco, el corazón del programa. For sucursal coma datos in ventas punto groupby, sucursal. Groupby agrupa la tabla por sucursal, como una tabla dinámica, y el for recorre cada grupo, uno por uno. En cada vuelta, sucursal tiene el nombre, por ejemplo Bogotá, y datos tiene solo las ventas de Bogotá. Doce sucursales, doce vueltas.",
+  "texto_tts": "Paso cinco, el corazón del programa. For sucursal coma datos in ventas punto groupby, sucursal. Groupby agrupa la tabla por sucursal, como una tabla dinámica, y el for recorre cada grupo, uno por uno. En cada vuelta, sucursal tiene el nombre, por ejemplo Bogotá, y datos tiene solo las ventas de Bogotá. Doce sucursales, doce vueltas.",
+  "modelo": "eleven_v3",
+  "duracion": 31.44,
+  "palabras": [
+    {
+      "texto": "Paso",
+      "inicio": 0.0,
+      "fin": 0.24
+    },
+    {
+      "texto": "cinco,",
+      "inicio": 0.333,
+      "fin": 1.28
+    },
+    {
+      "texto": "el",
+      "inicio": 1.333,
+      "fin": 1.44
+    },
+    {
+      "texto": "corazón",
+      "inicio": 1.507,
+      "fin": 1.92
+    },
+    {
+      "texto": "del",
+      "inicio": 1.96,
+      "fin": 2.08
+    },
+    {
+      "texto": "programa.",
+      "inicio": 2.142,
+      "fin": 2.72
+    },
+    {
+      "texto": "For",
+      "inicio": 2.98,
+      "fin": 3.76
+    },
+    {
+      "texto": "sucursal",
+      "inicio": 3.9,
+      "fin": 4.8
+    },
+    {
+      "texto": "coma",
+      "inicio": 4.896,
+      "fin": 5.28
+    },
+    {
+      "texto": "datos",
+      "inicio": 5.387,
+      "fin": 5.92
+    },
+    {
+      "texto": "in",
+      "inicio": 5.947,
+      "fin": 6.0
+    },
+    {
+      "texto": "ventas",
+      "inicio": 6.069,
+      "fin": 6.48
+    },
+    {
+      "texto": "punto",
+      "inicio": 6.547,
+      "fin": 6.88
+    },
+    {
+      "texto": "groupby,",
+      "inicio": 6.973,
+      "fin": 8.24
+    },
+    {
+      "texto": "sucursal.",
+      "inicio": 8.3,
+      "fin": 9.04
+    },
+    {
+      "texto": "Groupby",
+      "inicio": 9.24,
+      "fin": 10.48
+    },
+    {
+      "texto": "agrupa",
+      "inicio": 10.58,
+      "fin": 11.04
+    },
+    {
+      "texto": "la",
+      "inicio": 11.093,
+      "fin": 11.2
+    },
+    {
+      "texto": "tabla",
+      "inicio": 11.267,
+      "fin": 11.6
+    },
+    {
+      "texto": "por",
+      "inicio": 11.64,
+      "fin": 11.76
+    },
+    {
+      "texto": "sucursal,",
+      "inicio": 11.82,
+      "fin": 12.56
+    },
+    {
+      "texto": "como",
+      "inicio": 12.72,
+      "fin": 13.36
+    },
+    {
+      "texto": "una",
+      "inicio": 13.42,
+      "fin": 13.6
+    },
+    {
+      "texto": "tabla",
+      "inicio": 13.667,
+      "fin": 14.0
+    },
+    {
+      "texto": "dinámica,",
+      "inicio": 14.06,
+      "fin": 15.28
+    },
+    {
+      "texto": "y",
+      "inicio": 15.32,
+      "fin": 15.36
+    },
+    {
+      "texto": "el",
+      "inicio": 15.413,
+      "fin": 15.52
+    },
+    {
+      "texto": "for",
+      "inicio": 15.64,
+      "fin": 16.0
+    },
+    {
+      "texto": "recorre",
+      "inicio": 16.12,
+      "fin": 16.72
+    },
+    {
+      "texto": "cada",
+      "inicio": 16.8,
+      "fin": 17.12
+    },
+    {
+      "texto": "grupo,",
+      "inicio": 17.2,
+      "fin": 17.84
+    },
+    {
+      "texto": "uno",
+      "inicio": 17.9,
+      "fin": 18.08
+    },
+    {
+      "texto": "por",
+      "inicio": 18.14,
+      "fin": 18.32
+    },
+    {
+      "texto": "uno.",
+      "inicio": 18.38,
+      "fin": 18.64
+    },
+    {
+      "texto": "En",
+      "inicio": 18.933,
+      "fin": 19.52
+    },
+    {
+      "texto": "cada",
+      "inicio": 19.584,
+      "fin": 19.84
+    },
+    {
+      "texto": "vuelta,",
+      "inicio": 19.904,
+      "fin": 20.64
+    },
+    {
+      "texto": "sucursal",
+      "inicio": 20.7,
+      "fin": 21.2
+    },
+    {
+      "texto": "tiene",
+      "inicio": 21.24,
+      "fin": 21.44
+    },
+    {
+      "texto": "el",
+      "inicio": 21.493,
+      "fin": 21.6
+    },
+    {
+      "texto": "nombre,",
+      "inicio": 21.669,
+      "fin": 22.24
+    },
+    {
+      "texto": "por",
+      "inicio": 22.28,
+      "fin": 22.4
+    },
+    {
+      "texto": "ejemplo",
+      "inicio": 22.47,
+      "fin": 22.96
+    },
+    {
+      "texto": "Bogotá,",
+      "inicio": 23.06,
+      "fin": 23.76
+    },
+    {
+      "texto": "y",
+      "inicio": 24.2,
+      "fin": 24.64
+    },
+    {
+      "texto": "datos",
+      "inicio": 24.733,
+      "fin": 25.2
+    },
+    {
+      "texto": "tiene",
+      "inicio": 25.28,
+      "fin": 25.68
+    },
+    {
+      "texto": "solo",
+      "inicio": 25.76,
+      "fin": 26.08
+    },
+    {
+      "texto": "las",
+      "inicio": 26.12,
+      "fin": 26.24
+    },
+    {
+      "texto": "ventas",
+      "inicio": 26.297,
+      "fin": 26.64
+    },
+    {
+      "texto": "de",
+      "inicio": 26.667,
+      "fin": 26.72
+    },
+    {
+      "texto": "Bogotá.",
+      "inicio": 26.78,
+      "fin": 27.36
+    },
+    {
+      "texto": "Doce",
+      "inicio": 27.787,
+      "fin": 28.72
+    },
+    {
+      "texto": "sucursales,",
+      "inicio": 28.78,
+      "fin": 30.08
+    },
+    {
+      "texto": "doce",
+      "inicio": 30.213,
+      "fin": 30.56
+    },
+    {
+      "texto": "vueltas.",
+      "inicio": 30.64,
+      "fin": 31.44
+    }
+  ]
+}

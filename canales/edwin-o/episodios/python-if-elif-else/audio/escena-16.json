@@ -1,0 +1,340 @@
+{
+  "num": "16",
+  "titulo": "Excel y Python, la misma lógica",
+  "texto": "Fíjate en algo bonito. La fórmula de comisiones que hicimos en Excel con SI punto CONJUNTO, y este programa en Python, tienen exactamente la misma lógica: primero la condición más exigente, luego la siguiente, y al final el caso por defecto. Si entiendes una, entiendes la otra. Por eso digo que aprender Excel y Python juntos es un superpoder. Si no lo aprendes ahora, te extingues.",
+  "texto_tts": "Fíjate en algo bonito. La fórmula de comisiones que hicimos en Excel con SI punto CONJUNTO, y este programa en Python, tienen exactamente la misma lógica: primero la condición más exigente, luego la siguiente, y al final el caso por defecto. Si entiendes una, entiendes la otra. Por eso digo que aprender Excel y Python juntos es un superpoder. [serious] Si no lo aprendes ahora, te extingues.",
+  "modelo": "eleven_v3",
+  "duracion": 32.56,
+  "palabras": [
+    {
+      "texto": "Fíjate",
+      "inicio": 0.0,
+      "fin": 0.4
+    },
+    {
+      "texto": "en",
+      "inicio": 0.48,
+      "fin": 0.64
+    },
+    {
+      "texto": "algo",
+      "inicio": 0.72,
+      "fin": 1.04
+    },
+    {
+      "texto": "bonito.",
+      "inicio": 1.16,
+      "fin": 1.92
+    },
+    {
+      "texto": "La",
+      "inicio": 2.507,
+      "fin": 3.68
+    },
+    {
+      "texto": "fórmula",
+      "inicio": 3.76,
+      "fin": 4.24
+    },
+    {
+      "texto": "de",
+      "inicio": 4.267,
+      "fin": 4.32
+    },
+    {
+      "texto": "comisiones",
+      "inicio": 4.38,
+      "fin": 4.96
+    },
+    {
+      "texto": "que",
+      "inicio": 4.98,
+      "fin": 5.04
+    },
+    {
+      "texto": "hicimos",
+      "inicio": 5.08,
+      "fin": 5.52
+    },
+    {
+      "texto": "en",
+      "inicio": 5.547,
+      "fin": 5.6
+    },
+    {
+      "texto": "Excel",
+      "inicio": 5.693,
+      "fin": 6.16
+    },
+    {
+      "texto": "con",
+      "inicio": 6.28,
+      "fin": 6.64
+    },
+    {
+      "texto": "SI",
+      "inicio": 6.907,
+      "fin": 7.44
+    },
+    {
+      "texto": "punto",
+      "inicio": 7.493,
+      "fin": 7.76
+    },
+    {
+      "texto": "CONJUNTO,",
+      "inicio": 7.84,
+      "fin": 9.08
+    },
+    {
+      "texto": "y",
+      "inicio": 9.3,
+      "fin": 9.52
+    },
+    {
+      "texto": "este",
+      "inicio": 9.584,
+      "fin": 9.84
+    },
+    {
+      "texto": "programa",
+      "inicio": 9.893,
+      "fin": 10.32
+    },
+    {
+      "texto": "en",
+      "inicio": 10.347,
+      "fin": 10.4
+    },
+    {
+      "texto": "Python,",
+      "inicio": 10.48,
+      "fin": 11.12
+    },
+    {
+      "texto": "tienen",
+      "inicio": 11.326,
+      "fin": 12.56
+    },
+    {
+      "texto": "exactamente",
+      "inicio": 12.627,
+      "fin": 13.28
+    },
+    {
+      "texto": "la",
+      "inicio": 13.307,
+      "fin": 13.36
+    },
+    {
+      "texto": "misma",
+      "inicio": 13.413,
+      "fin": 13.68
+    },
+    {
+      "texto": "lógica:",
+      "inicio": 13.72,
+      "fin": 14.88
+    },
+    {
+      "texto": "primero",
+      "inicio": 14.94,
+      "fin": 15.36
+    },
+    {
+      "texto": "la",
+      "inicio": 15.44,
+      "fin": 15.6
+    },
+    {
+      "texto": "condición",
+      "inicio": 15.648,
+      "fin": 16.08
+    },
+    {
+      "texto": "más",
+      "inicio": 16.14,
+      "fin": 16.32
+    },
+    {
+      "texto": "exigente,",
+      "inicio": 16.384,
+      "fin": 17.68
+    },
+    {
+      "texto": "luego",
+      "inicio": 17.747,
+      "fin": 18.08
+    },
+    {
+      "texto": "la",
+      "inicio": 18.107,
+      "fin": 18.16
+    },
+    {
+      "texto": "siguiente,",
+      "inicio": 18.224,
+      "fin": 19.04
+    },
+    {
+      "texto": "y",
+      "inicio": 19.08,
+      "fin": 19.12
+    },
+    {
+      "texto": "al",
+      "inicio": 19.173,
+      "fin": 19.28
+    },
+    {
+      "texto": "final",
+      "inicio": 19.347,
+      "fin": 19.68
+    },
+    {
+      "texto": "el",
+      "inicio": 19.76,
+      "fin": 19.92
+    },
+    {
+      "texto": "caso",
+      "inicio": 19.984,
+      "fin": 20.24
+    },
+    {
+      "texto": "por",
+      "inicio": 20.28,
+      "fin": 20.4
+    },
+    {
+      "texto": "defecto.",
+      "inicio": 20.469,
+      "fin": 21.04
+    },
+    {
+      "texto": "Si",
+      "inicio": 21.2,
+      "fin": 21.52
+    },
+    {
+      "texto": "entiendes",
+      "inicio": 21.58,
+      "fin": 22.16
+    },
+    {
+      "texto": "una,",
+      "inicio": 22.22,
+      "fin": 22.72
+    },
+    {
+      "texto": "entiendes",
+      "inicio": 22.78,
+      "fin": 23.2
+    },
+    {
+      "texto": "la",
+      "inicio": 23.253,
+      "fin": 23.36
+    },
+    {
+      "texto": "otra.",
+      "inicio": 23.44,
+      "fin": 23.84
+    },
+    {
+      "texto": "Por",
+      "inicio": 23.96,
+      "fin": 24.32
+    },
+    {
+      "texto": "eso",
+      "inicio": 24.38,
+      "fin": 24.56
+    },
+    {
+      "texto": "digo",
+      "inicio": 24.6,
+      "fin": 24.8
+    },
+    {
+      "texto": "que",
+      "inicio": 24.82,
+      "fin": 24.88
+    },
+    {
+      "texto": "aprender",
+      "inicio": 24.933,
+      "fin": 25.36
+    },
+    {
+      "texto": "Excel",
+      "inicio": 25.453,
+      "fin": 25.92
+    },
+    {
+      "texto": "y",
+      "inicio": 26.04,
+      "fin": 26.16
+    },
+    {
+      "texto": "Python",
+      "inicio": 26.24,
+      "fin": 26.72
+    },
+    {
+      "texto": "juntos",
+      "inicio": 26.8,
+      "fin": 27.68
+    },
+    {
+      "texto": "es",
+      "inicio": 27.893,
+      "fin": 28.32
+    },
+    {
+      "texto": "un",
+      "inicio": 28.347,
+      "fin": 28.4
+    },
+    {
+      "texto": "superpoder.",
+      "inicio": 28.48,
+      "fin": 29.36
+    },
+    {
+      "texto": "Si",
+      "inicio": 29.982,
+      "fin": 30.0
+    },
+    {
+      "texto": "no",
+      "inicio": 30.053,
+      "fin": 30.16
+    },
+    {
+      "texto": "lo",
+      "inicio": 30.187,
+      "fin": 30.24
+    },
+    {
+      "texto": "aprendes",
+      "inicio": 30.286,
+      "fin": 30.72
+    },
+    {
+      "texto": "ahora,",
+      "inicio": 30.787,
+      "fin": 31.6
+    },
+    {
+      "texto": "te",
+      "inicio": 31.627,
+      "fin": 31.68
+    },
+    {
+      "texto": "extingues.",
+      "inicio": 31.74,
+      "fin": 32.56
+    }
+  ]
+}

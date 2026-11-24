@@ -1,0 +1,295 @@
+{
+  "num": "13",
+  "titulo": "Paso 7: dos niveles",
+  "texto": "Paso siete: dos niveles. Si en el primer argumento seleccionas dos columnas, región y producto, AGRUPARPOR agrupa primero por región, y dentro de cada región, por producto. Por ejemplo, en Norte verías que las laptops suman seis mil, los monitores trescientos diez, y los mouse treinta y cinco. Y con el quinto argumento decides si quieres subtotales.",
+  "texto_tts": "Paso siete: dos niveles. Si en el primer argumento seleccionas dos columnas, región y producto, AGRUPARPOR agrupa primero por región, y dentro de cada región, por producto. Por ejemplo, en Norte verías que las laptops suman seis mil, los monitores trescientos diez, y los mouse treinta y cinco. Y con el quinto argumento decides si quieres subtotales.",
+  "modelo": "eleven_v3",
+  "duracion": 26.8,
+  "palabras": [
+    {
+      "texto": "Paso",
+      "inicio": 0.0,
+      "fin": 0.24
+    },
+    {
+      "texto": "siete:",
+      "inicio": 0.28,
+      "fin": 0.8
+    },
+    {
+      "texto": "dos",
+      "inicio": 0.9,
+      "fin": 1.2
+    },
+    {
+      "texto": "niveles.",
+      "inicio": 1.264,
+      "fin": 1.92
+    },
+    {
+      "texto": "Si",
+      "inicio": 2.187,
+      "fin": 2.72
+    },
+    {
+      "texto": "en",
+      "inicio": 2.747,
+      "fin": 2.8
+    },
+    {
+      "texto": "el",
+      "inicio": 2.853,
+      "fin": 2.96
+    },
+    {
+      "texto": "primer",
+      "inicio": 3.006,
+      "fin": 3.28
+    },
+    {
+      "texto": "argumento",
+      "inicio": 3.351,
+      "fin": 4.0
+    },
+    {
+      "texto": "seleccionas",
+      "inicio": 4.048,
+      "fin": 4.56
+    },
+    {
+      "texto": "dos",
+      "inicio": 4.6,
+      "fin": 4.72
+    },
+    {
+      "texto": "columnas,",
+      "inicio": 4.789,
+      "fin": 5.52
+    },
+    {
+      "texto": "región",
+      "inicio": 5.6,
+      "fin": 6.08
+    },
+    {
+      "texto": "y",
+      "inicio": 6.16,
+      "fin": 6.24
+    },
+    {
+      "texto": "producto,",
+      "inicio": 6.302,
+      "fin": 7.36
+    },
+    {
+      "texto": "AGRUPARPOR",
+      "inicio": 7.44,
+      "fin": 8.32
+    },
+    {
+      "texto": "agrupa",
+      "inicio": 8.42,
+      "fin": 8.96
+    },
+    {
+      "texto": "primero",
+      "inicio": 9.01,
+      "fin": 9.36
+    },
+    {
+      "texto": "por",
+      "inicio": 9.42,
+      "fin": 9.6
+    },
+    {
+      "texto": "región,",
+      "inicio": 9.66,
+      "fin": 10.24
+    },
+    {
+      "texto": "y",
+      "inicio": 10.44,
+      "fin": 10.64
+    },
+    {
+      "texto": "dentro",
+      "inicio": 10.686,
+      "fin": 10.96
+    },
+    {
+      "texto": "de",
+      "inicio": 10.987,
+      "fin": 11.04
+    },
+    {
+      "texto": "cada",
+      "inicio": 11.088,
+      "fin": 11.28
+    },
+    {
+      "texto": "región,",
+      "inicio": 11.34,
+      "fin": 11.84
+    },
+    {
+      "texto": "por",
+      "inicio": 11.88,
+      "fin": 12.0
+    },
+    {
+      "texto": "producto.",
+      "inicio": 12.062,
+      "fin": 12.64
+    },
+    {
+      "texto": "Por",
+      "inicio": 12.84,
+      "fin": 13.44
+    },
+    {
+      "texto": "ejemplo,",
+      "inicio": 13.49,
+      "fin": 14.0
+    },
+    {
+      "texto": "en",
+      "inicio": 14.053,
+      "fin": 14.16
+    },
+    {
+      "texto": "Norte",
+      "inicio": 14.253,
+      "fin": 14.72
+    },
+    {
+      "texto": "verías",
+      "inicio": 14.8,
+      "fin": 15.28
+    },
+    {
+      "texto": "que",
+      "inicio": 15.3,
+      "fin": 15.36
+    },
+    {
+      "texto": "las",
+      "inicio": 15.4,
+      "fin": 15.52
+    },
+    {
+      "texto": "laptops",
+      "inicio": 15.6,
+      "fin": 16.16
+    },
+    {
+      "texto": "suman",
+      "inicio": 16.26,
+      "fin": 16.72
+    },
+    {
+      "texto": "seis",
+      "inicio": 16.784,
+      "fin": 17.04
+    },
+    {
+      "texto": "mil,",
+      "inicio": 17.12,
+      "fin": 18.0
+    },
+    {
+      "texto": "los",
+      "inicio": 18.04,
+      "fin": 18.16
+    },
+    {
+      "texto": "monitores",
+      "inicio": 18.2,
+      "fin": 18.8
+    },
+    {
+      "texto": "trescientos",
+      "inicio": 18.88,
+      "fin": 19.52
+    },
+    {
+      "texto": "diez,",
+      "inicio": 19.58,
+      "fin": 20.16
+    },
+    {
+      "texto": "y",
+      "inicio": 20.28,
+      "fin": 20.4
+    },
+    {
+      "texto": "los",
+      "inicio": 20.44,
+      "fin": 20.56
+    },
+    {
+      "texto": "mouse",
+      "inicio": 20.627,
+      "fin": 20.96
+    },
+    {
+      "texto": "treinta",
+      "inicio": 21.04,
+      "fin": 21.44
+    },
+    {
+      "texto": "y",
+      "inicio": 21.52,
+      "fin": 21.6
+    },
+    {
+      "texto": "cinco.",
+      "inicio": 21.667,
+      "fin": 22.08
+    },
+    {
+      "texto": "Y",
+      "inicio": 22.52,
+      "fin": 22.96
+    },
+    {
+      "texto": "con",
+      "inicio": 23.0,
+      "fin": 23.12
+    },
+    {
+      "texto": "el",
+      "inicio": 23.173,
+      "fin": 23.28
+    },
+    {
+      "texto": "quinto",
+      "inicio": 23.333,
+      "fin": 23.6
+    },
+    {
+      "texto": "argumento",
+      "inicio": 23.662,
+      "fin": 24.24
+    },
+    {
+      "texto": "decides",
+      "inicio": 24.33,
+      "fin": 24.96
+    },
+    {
+      "texto": "si",
+      "inicio": 25.04,
+      "fin": 25.2
+    },
+    {
+      "texto": "quieres",
+      "inicio": 25.25,
+      "fin": 25.6
+    },
+    {
+      "texto": "subtotales.",
+      "inicio": 25.68,
+      "fin": 26.8
+    }
+  ]
+}

@@ -1,0 +1,310 @@
+{
+  "num": "14",
+  "titulo": "PIVOTARPOR: filas y columnas",
+  "texto": "Y ahora, su hermana: PIVOTARPOR. Funciona igual, pero además de filas, tiene columnas. Las regiones van en las filas, los meses en las columnas, y los montos en el centro. Igual, PIVOTARPOR, las regiones, los meses, los montos y SUMA. Y tienes una matriz completa: cada región, cada mes, con sus totales. Exactamente lo que harías con una tabla dinámica.",
+  "texto_tts": "Y ahora, su hermana: PIVOTARPOR. Funciona igual, pero además de filas, tiene columnas. Las regiones van en las filas, los meses en las columnas, y los montos en el centro. Igual, PIVOTARPOR, las regiones, los meses, los montos y SUMA. Y tienes una matriz completa: cada región, cada mes, con sus totales. Exactamente lo que harías con una tabla dinámica.",
+  "modelo": "eleven_v3",
+  "duracion": 34.24,
+  "palabras": [
+    {
+      "texto": "Y",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "ahora,",
+      "inicio": 0.147,
+      "fin": 0.56
+    },
+    {
+      "texto": "su",
+      "inicio": 0.667,
+      "fin": 0.88
+    },
+    {
+      "texto": "hermana:",
+      "inicio": 0.92,
+      "fin": 1.52
+    },
+    {
+      "texto": "PIVOTARPOR.",
+      "inicio": 1.88,
+      "fin": 3.2
+    },
+    {
+      "texto": "Funciona",
+      "inicio": 3.424,
+      "fin": 4.48
+    },
+    {
+      "texto": "igual,",
+      "inicio": 4.547,
+      "fin": 5.52
+    },
+    {
+      "texto": "pero",
+      "inicio": 5.568,
+      "fin": 5.76
+    },
+    {
+      "texto": "además",
+      "inicio": 5.817,
+      "fin": 6.16
+    },
+    {
+      "texto": "de",
+      "inicio": 6.213,
+      "fin": 6.32
+    },
+    {
+      "texto": "filas,",
+      "inicio": 6.4,
+      "fin": 7.04
+    },
+    {
+      "texto": "tiene",
+      "inicio": 7.12,
+      "fin": 7.52
+    },
+    {
+      "texto": "columnas.",
+      "inicio": 7.611,
+      "fin": 8.48
+    },
+    {
+      "texto": "Las",
+      "inicio": 8.7,
+      "fin": 9.36
+    },
+    {
+      "texto": "regiones",
+      "inicio": 9.429,
+      "fin": 10.16
+    },
+    {
+      "texto": "van",
+      "inicio": 10.26,
+      "fin": 10.56
+    },
+    {
+      "texto": "en",
+      "inicio": 10.587,
+      "fin": 10.64
+    },
+    {
+      "texto": "las",
+      "inicio": 10.68,
+      "fin": 10.8
+    },
+    {
+      "texto": "filas,",
+      "inicio": 10.86,
+      "fin": 11.36
+    },
+    {
+      "texto": "los",
+      "inicio": 11.56,
+      "fin": 12.16
+    },
+    {
+      "texto": "meses",
+      "inicio": 12.253,
+      "fin": 12.72
+    },
+    {
+      "texto": "en",
+      "inicio": 12.827,
+      "fin": 13.04
+    },
+    {
+      "texto": "las",
+      "inicio": 13.06,
+      "fin": 13.12
+    },
+    {
+      "texto": "columnas,",
+      "inicio": 13.189,
+      "fin": 14.0
+    },
+    {
+      "texto": "y",
+      "inicio": 14.24,
+      "fin": 14.48
+    },
+    {
+      "texto": "los",
+      "inicio": 14.54,
+      "fin": 14.72
+    },
+    {
+      "texto": "montos",
+      "inicio": 14.784,
+      "fin": 15.28
+    },
+    {
+      "texto": "en",
+      "inicio": 15.387,
+      "fin": 15.6
+    },
+    {
+      "texto": "el",
+      "inicio": 15.627,
+      "fin": 15.68
+    },
+    {
+      "texto": "centro.",
+      "inicio": 15.749,
+      "fin": 16.24
+    },
+    {
+      "texto": "Igual,",
+      "inicio": 16.587,
+      "fin": 17.68
+    },
+    {
+      "texto": "PIVOTARPOR,",
+      "inicio": 18.04,
+      "fin": 19.2
+    },
+    {
+      "texto": "las",
+      "inicio": 19.36,
+      "fin": 19.84
+    },
+    {
+      "texto": "regiones,",
+      "inicio": 19.92,
+      "fin": 20.64
+    },
+    {
+      "texto": "los",
+      "inicio": 20.74,
+      "fin": 21.04
+    },
+    {
+      "texto": "meses,",
+      "inicio": 21.133,
+      "fin": 21.68
+    },
+    {
+      "texto": "los",
+      "inicio": 21.78,
+      "fin": 22.08
+    },
+    {
+      "texto": "montos",
+      "inicio": 22.16,
+      "fin": 22.88
+    },
+    {
+      "texto": "y",
+      "inicio": 23.04,
+      "fin": 23.2
+    },
+    {
+      "texto": "SUMA.",
+      "inicio": 23.3,
+      "fin": 23.76
+    },
+    {
+      "texto": "Y",
+      "inicio": 24.24,
+      "fin": 24.72
+    },
+    {
+      "texto": "tienes",
+      "inicio": 24.777,
+      "fin": 25.12
+    },
+    {
+      "texto": "una",
+      "inicio": 25.2,
+      "fin": 25.44
+    },
+    {
+      "texto": "matriz",
+      "inicio": 25.497,
+      "fin": 25.84
+    },
+    {
+      "texto": "completa:",
+      "inicio": 25.902,
+      "fin": 27.12
+    },
+    {
+      "texto": "cada",
+      "inicio": 27.168,
+      "fin": 27.36
+    },
+    {
+      "texto": "región,",
+      "inicio": 27.44,
+      "fin": 28.48
+    },
+    {
+      "texto": "cada",
+      "inicio": 28.528,
+      "fin": 28.72
+    },
+    {
+      "texto": "mes,",
+      "inicio": 28.82,
+      "fin": 29.28
+    },
+    {
+      "texto": "con",
+      "inicio": 29.38,
+      "fin": 29.68
+    },
+    {
+      "texto": "sus",
+      "inicio": 29.72,
+      "fin": 29.84
+    },
+    {
+      "texto": "totales.",
+      "inicio": 29.9,
+      "fin": 30.56
+    },
+    {
+      "texto": "Exactamente",
+      "inicio": 30.76,
+      "fin": 32.16
+    },
+    {
+      "texto": "lo",
+      "inicio": 32.187,
+      "fin": 32.24
+    },
+    {
+      "texto": "que",
+      "inicio": 32.26,
+      "fin": 32.32
+    },
+    {
+      "texto": "harías",
+      "inicio": 32.36,
+      "fin": 32.72
+    },
+    {
+      "texto": "con",
+      "inicio": 32.8,
+      "fin": 33.04
+    },
+    {
+      "texto": "una",
+      "inicio": 33.08,
+      "fin": 33.2
+    },
+    {
+      "texto": "tabla",
+      "inicio": 33.253,
+      "fin": 33.52
+    },
+    {
+      "texto": "dinámica.",
+      "inicio": 33.58,
+      "fin": 34.24
+    }
+  ]
+}

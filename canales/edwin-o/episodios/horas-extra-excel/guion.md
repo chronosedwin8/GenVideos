@@ -6,7 +6,7 @@ slug: horas-extra-excel
 programa: Excel para Microsoft 365 en español · Windows
 duracion_objetivo: 7 min
 estado: aprobado   # borrador | aprobado (Edwin, 24 nov 2026)
-siguiente_video: BUSCARX en Excel (buscarx-excel)
+siguiente_video: Fórmulas de Excel con IA (formulas-con-ia)
 ---
 
 <!--
@@ -96,7 +96,7 @@ En resumen: RESIDUO para los turnos de noche. La jornada y el valor de la hora s
 ## ESCENA 13 · Cierre
 [VISUAL] CierreSiguiente: "BUSCARX en Excel" + botón Suscríbete. Enlace a la plantilla en la descripción.
 [VOZ]
-Si esta hoja te ahorró tiempo, suscríbete: cada martes y jueves te traigo una herramienta nueva para tu trabajo. Y en el próximo video vas a conocer BUSCARX, la función que reemplaza a BUSCARV. Y recuerda: el poder de la tecnología te va a cambiar el mundo. [cheerfully] ¡Nos vemos en el próximo video!
+Si esta hoja te ahorró tiempo, suscríbete: cada martes y jueves te traigo una herramienta nueva para tu trabajo. Y en el próximo video te enseño a pedirle a la inteligencia artificial fórmulas de Excel que sí funcionan. Y recuerda: el poder de la tecnología te va a cambiar el mundo. [cheerfully] ¡Nos vemos en el próximo video!
 
 ---
 

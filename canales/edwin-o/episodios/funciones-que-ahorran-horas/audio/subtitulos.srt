@@ -1,0 +1,951 @@
+1
+00:00:00,056 --> 00:00:02,960
+¿Cada lunes filtras, copias y pegas el
+
+2
+00:00:03,000 --> 00:00:03,920
+mismo reporte?
+
+3
+00:00:04,805 --> 00:00:05,365
+Mira esto:
+
+4
+00:00:05,525 --> 00:00:08,005
+una sola fórmula, y Excel te trae
+
+5
+00:00:08,101 --> 00:00:10,165
+solo las ventas de la región Norte.
+
+6
+00:00:10,405 --> 00:00:12,405
+Y si mañana cambian los datos, el
+
+7
+00:00:12,451 --> 00:00:13,845
+reporte se actualiza solo.
+
+8
+00:00:14,317 --> 00:00:16,325
+¡Bienvenidos, amigos del canal!
+
+9
+00:00:16,405 --> 00:00:19,205
+Vamos en busca del poder tecnológico.
+
+10
+00:00:19,365 --> 00:00:22,085
+Hoy te traigo siete funciones de
+
+11
+00:00:22,232 --> 00:00:24,725
+Excel que te van a ahorrar horas
+
+12
+00:00:24,752 --> 00:00:26,805
+de trabajo cada semana.
+
+13
+00:00:26,992 --> 00:00:29,205
+La mayoría de la gente no las
+
+14
+00:00:29,305 --> 00:00:32,085
+usa, porque aprendió Excel hace años
+
+15
+00:00:32,285 --> 00:00:34,645
+y nadie le contó que existen.
+
+16
+00:00:34,785 --> 00:00:37,525
+Quédate hasta el final, porque la número
+
+17
+00:00:37,605 --> 00:00:40,165
+siete hace que tus fórmulas largas
+
+18
+00:00:40,285 --> 00:00:42,405
+por fin se entiendan.
+
+19
+00:00:42,805 --> 00:00:43,925
+Un dato curioso:
+
+20
+00:00:44,045 --> 00:00:46,885
+Excel cumplió cuarenta años el treinta de
+
+21
+00:00:46,949 --> 00:00:48,965
+septiembre de dos mil veinticinco.
+
+22
+00:00:49,525 --> 00:00:51,925
+Y aunque es un programa viejo, en
+
+23
+00:00:51,965 --> 00:00:54,325
+los últimos años cambió más que nunca.
+
+24
+00:00:54,477 --> 00:00:57,365
+Microsoft le agregó funciones que hacen
+
+25
+00:00:57,445 --> 00:00:59,525
+en un segundo lo que antes te
+
+26
+00:00:59,585 --> 00:01:01,525
+tomaba media hora.
+
+27
+00:01:01,712 --> 00:01:04,165
+El problema es que casi todos seguimos
+
+28
+00:01:04,222 --> 00:01:06,165
+trabajando como en dos mil diez.
+
+29
+00:01:06,365 --> 00:01:08,725
+Seguimos usando BUSCARV,
+
+30
+00:01:08,885 --> 00:01:11,765
+filtros manuales y fórmulas de tres
+
+31
+00:01:11,818 --> 00:01:14,125
+renglones que nadie entiende.
+
+32
+00:01:14,255 --> 00:01:16,005
+Hoy eso cambia.
+
+33
+00:01:16,405 --> 00:01:18,805
+Antes de empezar, una idea clave.
+
+34
+00:01:18,965 --> 00:01:21,765
+Estas funciones escriben la fórmula en
+
+35
+00:01:21,825 --> 00:01:24,485
+una sola celda, y el resultado se
+
+36
+00:01:24,565 --> 00:01:26,645
+desborda hacia abajo o hacia los
+
+37
+00:01:26,725 --> 00:01:28,885
+lados, ocupando las celdas que
+
+38
+00:01:28,952 --> 00:01:29,845
+necesite.
+
+39
+00:01:30,112 --> 00:01:32,965
+Si ves el error desbordamiento, es
+
+40
+00:01:32,999 --> 00:01:35,685
+porque hay algo estorbando en esas celdas:
+
+41
+00:01:35,725 --> 00:01:37,125
+bórralo y listo.
+
+42
+00:01:37,445 --> 00:01:40,085
+Eso sí, necesitas Excel dos mil
+
+43
+00:01:40,138 --> 00:01:43,045
+veintiuno, dos mil veinticuatro, o Microsoft
+
+44
+00:01:43,093 --> 00:01:44,645
+trescientos sesenta y cinco.
+
+45
+00:01:45,045 --> 00:01:47,365
+En mis talleres con docentes y personal
+
+46
+00:01:47,405 --> 00:01:49,525
+administrativo, siempre pasa lo
+
+47
+00:01:49,592 --> 00:01:50,645
+mismo:
+
+48
+00:01:50,668 --> 00:01:53,445
+cuando muestro estas funciones, alguien dice "¿y
+
+49
+00:01:53,465 --> 00:01:56,245
+por qué nadie me enseñó esto antes?".
+
+50
+00:01:56,272 --> 00:01:58,805
+La que más los sorprende es FILTRAR.
+
+51
+00:01:59,098 --> 00:02:00,565
+Ya vas a ver por qué.
+
+52
+00:02:00,965 --> 00:02:01,765
+Número uno:
+
+53
+00:02:01,905 --> 00:02:04,885
+BUSCARX, la heredera de
+
+54
+00:02:04,965 --> 00:02:06,085
+BUSCARV.
+
+55
+00:02:06,432 --> 00:02:09,285
+Le dices qué buscar, dónde
+
+56
+00:02:09,365 --> 00:02:11,925
+buscarlo y qué columna devolver.
+
+57
+00:02:12,298 --> 00:02:15,205
+Igual, BUSCARX,
+
+58
+00:02:15,445 --> 00:02:18,405
+F dos, la columna de códigos, la
+
+59
+00:02:18,475 --> 00:02:21,205
+columna de precios, y entre comillas:
+
+60
+00:02:21,338 --> 00:02:22,405
+no existe.
+
+61
+00:02:22,752 --> 00:02:25,285
+El código P ciento tres
+
+62
+00:02:25,374 --> 00:02:27,445
+devuelve trescientos diez.
+
+63
+00:02:27,885 --> 00:02:30,405
+Y si el código no existe, en
+
+64
+00:02:30,485 --> 00:02:33,365
+vez del feo error, te dice "no
+
+65
+00:02:33,468 --> 00:02:34,165
+existe".
+
+66
+00:02:34,405 --> 00:02:37,365
+Además, puede buscar hacia la
+
+67
+00:02:37,445 --> 00:02:40,245
+izquierda, algo que BUSCARV
+
+68
+00:02:40,338 --> 00:02:41,765
+nunca pudo hacer.
+
+69
+00:02:42,165 --> 00:02:42,885
+Número dos:
+
+70
+00:02:43,025 --> 00:02:45,045
+FILTRAR, la que viste al
+
+71
+00:02:45,117 --> 00:02:46,325
+principio.
+
+72
+00:02:46,437 --> 00:02:49,205
+Primero le das la tabla, luego la
+
+73
+00:02:49,253 --> 00:02:52,245
+condición, y al final qué mostrar
+
+74
+00:02:52,352 --> 00:02:53,925
+si no hay resultados.
+
+75
+00:02:54,145 --> 00:02:56,805
+FILTRAR, A dos a D nueve, punto
+
+76
+00:02:56,885 --> 00:02:59,845
+y coma, la columna región igual a
+
+77
+00:02:59,938 --> 00:03:00,485
+Norte.
+
+78
+00:03:00,805 --> 00:03:03,285
+Y aparecen las tres ventas del Norte.
+
+79
+00:03:03,525 --> 00:03:05,205
+Lo mejor es que no es una
+
+80
+00:03:05,305 --> 00:03:06,325
+copia:
+
+81
+00:03:06,378 --> 00:03:08,165
+si alguien cambia una región en la
+
+82
+00:03:08,218 --> 00:03:11,045
+tabla original, el reporte se actualiza al
+
+83
+00:03:11,125 --> 00:03:11,925
+instante.
+
+84
+00:03:12,112 --> 00:03:14,805
+Se acabó el filtrar, copiar y pegar.
+
+85
+00:03:15,205 --> 00:03:16,005
+Número tres:
+
+86
+00:03:16,272 --> 00:03:17,725
+UNICOS.
+
+87
+00:03:17,945 --> 00:03:20,565
+¿Necesitas la lista de vendedores sin repetir?
+
+88
+00:03:20,698 --> 00:03:23,205
+Igual, UNICOS, y la columna de
+
+89
+00:03:23,245 --> 00:03:24,005
+vendedores.
+
+90
+00:03:24,149 --> 00:03:25,365
+Listo:
+
+91
+00:03:25,445 --> 00:03:28,245
+Ana, Luis, Marta, Pedro y Sofía,
+
+92
+00:03:28,325 --> 00:03:30,325
+cada uno una sola vez.
+
+93
+00:03:30,565 --> 00:03:32,725
+Y si mañana llega un vendedor nuevo,
+
+94
+00:03:32,778 --> 00:03:34,325
+aparece solo en la lista.
+
+95
+00:03:34,512 --> 00:03:37,365
+Es perfecta para armar listas desplegables o
+
+96
+00:03:37,418 --> 00:03:38,485
+la base de un resumen.
+
+97
+00:03:38,885 --> 00:03:39,685
+Número cuatro:
+
+98
+00:03:39,805 --> 00:03:41,765
+ORDENARPOR.
+
+99
+00:03:41,872 --> 00:03:44,485
+Ordena una tabla por la columna que
+
+100
+00:03:44,538 --> 00:03:47,045
+tú quieras, sin tocar los datos
+
+101
+00:03:47,093 --> 00:03:48,005
+originales.
+
+102
+00:03:48,165 --> 00:03:50,805
+ORDENARPOR, la tabla, la
+
+103
+00:03:50,855 --> 00:03:53,365
+columna de montos, y menos uno para
+
+104
+00:03:53,405 --> 00:03:55,285
+que vaya de mayor a menor.
+
+105
+00:03:55,685 --> 00:03:57,365
+Y ahora el truco:
+
+106
+00:03:57,425 --> 00:04:00,325
+envuélvela en TOMAR, con un tres, y
+
+107
+00:04:00,385 --> 00:04:03,125
+obtienes tu top tres de ventas.
+
+108
+00:04:03,349 --> 00:04:06,325
+Luis con mil doscientos cincuenta,
+
+109
+00:04:06,485 --> 00:04:09,365
+Ana con mil doscientos, y Pedro con
+
+110
+00:04:09,425 --> 00:04:10,885
+mil ciento cincuenta.
+
+111
+00:04:11,125 --> 00:04:13,925
+Un ranking automático en una sola
+
+112
+00:04:13,992 --> 00:04:14,485
+línea.
+
+113
+00:04:14,885 --> 00:04:15,685
+Número cinco:
+
+114
+00:04:15,825 --> 00:04:17,445
+DIVIDIRTEXTO.
+
+115
+00:04:17,885 --> 00:04:20,885
+¿Te llegan códigos o nombres todos pegados
+
+116
+00:04:20,938 --> 00:04:22,245
+en una sola celda?
+
+117
+00:04:22,458 --> 00:04:25,445
+Igual, DIVIDIRTEXTO, la
+
+118
+00:04:25,525 --> 00:04:28,405
+celda, y entre comillas el separador, en
+
+119
+00:04:28,453 --> 00:04:29,925
+este caso un guion.
+
+120
+00:04:30,245 --> 00:04:32,005
+Y el código se reparte en tres
+
+121
+00:04:32,074 --> 00:04:32,885
+columnas:
+
+122
+00:04:32,938 --> 00:04:35,285
+el año, el país y el número.
+
+123
+00:04:35,545 --> 00:04:38,005
+Antes esto se hacía con Texto en
+
+124
+00:04:38,074 --> 00:04:40,485
+columnas, y había que repetirlo cada
+
+125
+00:04:40,565 --> 00:04:41,125
+vez.
+
+126
+00:04:41,312 --> 00:04:43,445
+Ahora es una fórmula que se actualiza
+
+127
+00:04:43,541 --> 00:04:44,085
+sola.
+
+128
+00:04:44,485 --> 00:04:45,285
+Número seis:
+
+129
+00:04:45,552 --> 00:04:48,405
+APILARV, la V es
+
+130
+00:04:48,458 --> 00:04:49,445
+de vertical.
+
+131
+00:04:49,845 --> 00:04:52,485
+¿Tienes una hoja por mes y necesitas
+
+132
+00:04:52,533 --> 00:04:53,605
+todo junto?
+
+133
+00:04:53,845 --> 00:04:56,645
+APILARV, la tabla de enero,
+
+134
+00:04:56,738 --> 00:04:59,365
+punto y coma, la tabla de febrero.
+
+135
+00:04:59,565 --> 00:05:01,685
+Y Excel las pone una debajo de
+
+136
+00:05:01,738 --> 00:05:03,765
+la otra, en una sola tabla.
+
+137
+00:05:04,125 --> 00:05:07,045
+Puedes agregar marzo, abril, y todos los
+
+138
+00:05:07,098 --> 00:05:08,405
+meses que quieras.
+
+139
+00:05:08,605 --> 00:05:11,045
+Y combinada con FILTRAR u
+
+140
+00:05:11,105 --> 00:05:14,085
+ORDENARPOR, tienes un reporte anual
+
+141
+00:05:14,192 --> 00:05:15,445
+en minutos.
+
+142
+00:05:15,845 --> 00:05:16,885
+Y número siete:
+
+143
+00:05:17,085 --> 00:05:19,205
+LET, la que te prometí.
+
+144
+00:05:19,405 --> 00:05:21,525
+Con LET le pones nombre a una
+
+145
+00:05:21,578 --> 00:05:22,805
+parte de la fórmula.
+
+146
+00:05:23,005 --> 00:05:23,445
+Mira:
+
+147
+00:05:23,669 --> 00:05:26,645
+aquí busco el precio y, si pasa
+
+148
+00:05:26,698 --> 00:05:28,565
+de mil, le aplico un diez por
+
+149
+00:05:28,645 --> 00:05:29,845
+ciento de descuento.
+
+150
+00:05:30,105 --> 00:05:32,405
+Sin LET, tendría que escribir el
+
+151
+00:05:32,485 --> 00:05:34,405
+BUSCARX dos veces.
+
+152
+00:05:34,505 --> 00:05:36,965
+Con LET, lo calculo una vez, lo
+
+153
+00:05:37,018 --> 00:05:39,685
+llamo "precio", y lo uso donde quiera.
+
+154
+00:05:39,898 --> 00:05:41,125
+El resultado:
+
+155
+00:05:41,265 --> 00:05:42,725
+mil ochenta.
+
+156
+00:05:42,885 --> 00:05:45,525
+La fórmula es más corta, más rápida,
+
+157
+00:05:45,565 --> 00:05:47,125
+y cualquiera la entiende.
+
+158
+00:05:47,445 --> 00:05:49,045
+Y si dentro de un mes tienes
+
+159
+00:05:49,065 --> 00:05:51,285
+que cambiar algo, lo cambias en un
+
+160
+00:05:51,365 --> 00:05:52,245
+solo lugar.
+
+161
+00:05:52,645 --> 00:05:53,125
+Bonus:
+
+162
+00:05:53,205 --> 00:05:55,685
+el verdadero poder aparece cuando las
+
+163
+00:05:55,733 --> 00:05:56,485
+combinas.
+
+164
+00:05:56,685 --> 00:05:57,925
+Por ejemplo:
+
+165
+00:05:58,205 --> 00:06:00,725
+FILTRAR los vendedores del Norte,
+
+166
+00:06:00,912 --> 00:06:03,845
+quitar los repetidos con UNICOS, y
+
+167
+00:06:03,912 --> 00:06:06,245
+ordenarlos alfabéticamente con
+
+168
+00:06:06,405 --> 00:06:07,445
+ORDENAR.
+
+169
+00:06:07,685 --> 00:06:10,325
+Una sola fórmula, y tienes una lista
+
+170
+00:06:10,405 --> 00:06:12,485
+limpia y ordenada:
+
+171
+00:06:12,585 --> 00:06:14,405
+Ana, Luis y Marta.
+
+172
+00:06:14,672 --> 00:06:16,885
+Es como armar con piezas de lego:
+
+173
+00:06:17,045 --> 00:06:19,765
+cada función hace una cosa, y
+
+174
+00:06:19,845 --> 00:06:22,565
+juntas construyen un reporte completo.
+
+175
+00:06:22,965 --> 00:06:25,285
+Y si cambias Norte por Sur en
+
+176
+00:06:25,325 --> 00:06:28,165
+una celda, la lista se recalcula en
+
+177
+00:06:28,218 --> 00:06:28,725
+el acto.
+
+178
+00:06:29,125 --> 00:06:31,125
+Si algo no te funciona, revisa esto.
+
+179
+00:06:31,205 --> 00:06:33,365
+Si ves numeral nombre, tu versión de
+
+180
+00:06:33,418 --> 00:06:34,805
+Excel no tiene esa función.
+
+181
+00:06:34,992 --> 00:06:37,765
+Si ves desbordamiento, libera las celdas donde
+
+182
+00:06:37,818 --> 00:06:39,005
+va el resultado.
+
+183
+00:06:39,185 --> 00:06:41,445
+Y si FILTRAR te da numeral calc,
+
+184
+00:06:41,498 --> 00:06:43,285
+es porque no encontró nada:
+
+185
+00:06:43,305 --> 00:06:44,965
+por eso siempre conviene usar el tercer
+
+186
+00:06:45,018 --> 00:06:46,805
+argumento, el de "sin datos".
+
+187
+00:06:47,205 --> 00:06:49,445
+Un truco que multiplica todo lo anterior.
+
+188
+00:06:49,578 --> 00:06:52,485
+Selecciona tus datos y presiona Control
+
+189
+00:06:52,605 --> 00:06:55,045
+más T, para convertirlos en una
+
+190
+00:06:55,125 --> 00:06:55,685
+Tabla.
+
+191
+00:06:55,861 --> 00:06:58,005
+Dale un nombre, por ejemplo,
+
+192
+00:06:58,117 --> 00:06:59,125
+Ventas.
+
+193
+00:06:59,392 --> 00:07:01,605
+Ahora tus fórmulas pueden decir
+
+194
+00:07:01,745 --> 00:07:04,405
+FILTRAR Ventas, donde la región
+
+195
+00:07:04,505 --> 00:07:05,765
+sea Norte.
+
+196
+00:07:06,165 --> 00:07:07,605
+¿Y la ventaja?
+
+197
+00:07:07,696 --> 00:07:10,485
+Cuando agregas una venta nueva al final,
+
+198
+00:07:10,512 --> 00:07:12,805
+la Tabla crece sola, y todas tus
+
+199
+00:07:12,885 --> 00:07:15,445
+fórmulas la incluyen automáticamente.
+
+200
+00:07:15,665 --> 00:07:17,925
+Nunca más vas a tener que cambiar
+
+201
+00:07:18,205 --> 00:07:20,805
+A dos a D nueve por A
+
+202
+00:07:20,885 --> 00:07:22,325
+dos a D diez.
+
+203
+00:07:22,725 --> 00:07:24,245
+¿Y si en tu trabajo tienes Excel
+
+204
+00:07:24,265 --> 00:07:26,325
+dos mil dieciséis o dos mil diecinueve?
+
+205
+00:07:27,045 --> 00:07:28,805
+Tienes dos caminos.
+
+206
+00:07:29,045 --> 00:07:30,085
+El primero:
+
+207
+00:07:30,245 --> 00:07:32,485
+Excel para la web, que es gratis
+
+208
+00:07:32,525 --> 00:07:34,085
+con una cuenta de Microsoft, y ya
+
+209
+00:07:34,138 --> 00:07:35,285
+trae estas funciones.
+
+210
+00:07:35,685 --> 00:07:38,405
+Ábrelo desde el navegador y practica ahí.
+
+211
+00:07:38,778 --> 00:07:40,165
+El segundo:
+
+212
+00:07:40,378 --> 00:07:42,245
+muéstrale este video a tu jefe.
+
+213
+00:07:42,394 --> 00:07:44,805
+Cuando vea cuántas horas se ahorra el
+
+214
+00:07:44,862 --> 00:07:47,285
+equipo, la actualización se paga sola.
+
+215
+00:07:47,685 --> 00:07:49,205
+¿Por qué importa todo esto?
+
+216
+00:07:49,425 --> 00:07:51,845
+Porque el trabajo que haces cada semana
+
+217
+00:07:51,885 --> 00:07:54,805
+a mano, copiando, pegando y
+
+218
+00:07:54,872 --> 00:07:57,605
+ordenando, se puede hacer con una fórmula
+
+219
+00:07:57,645 --> 00:07:58,725
+que trabaja por ti.
+
+220
+00:07:59,165 --> 00:08:01,365
+Y en un mundo donde la inteligencia
+
+221
+00:08:01,430 --> 00:08:04,331
+artificial ya hace hojas de cálculo, si
+
+222
+00:08:04,384 --> 00:08:06,811
+no lo aprendes ahora, te extingues.
+
+223
+00:08:07,211 --> 00:08:07,931
+En resumen:
+
+224
+00:08:08,031 --> 00:08:10,611
+BUSCARX, FILTRAR,
+
+225
+00:08:10,758 --> 00:08:12,811
+UNICOS, ORDENARPOR,
+
+226
+00:08:12,951 --> 00:08:15,771
+DIVIDIRTEXTO, APILARV
+
+227
+00:08:15,891 --> 00:08:16,491
+y LET.
+
+228
+00:08:16,851 --> 00:08:19,371
+Siete funciones, horas de trabajo
+
+229
+00:08:19,398 --> 00:08:20,371
+ahorradas.
+
+230
+00:08:20,511 --> 00:08:22,171
+Dime en los comentarios cuál vas a
+
+231
+00:08:22,219 --> 00:08:23,131
+usar primero.
+
+232
+00:08:23,291 --> 00:08:24,971
+Y en el próximo video vamos un
+
+233
+00:08:25,051 --> 00:08:26,331
+paso más allá:
+
+234
+00:08:26,371 --> 00:08:28,491
+vas a ver cómo Python crea decenas
+
+235
+00:08:28,518 --> 00:08:30,571
+de reportes de Excel en segundos.
+
+236
+00:08:30,731 --> 00:08:33,051
+Suscríbete para no perdértelo.
+
+237
+00:08:33,429 --> 00:08:35,056
+El poder de la tecnología te va
+
+238
+00:08:35,096 --> 00:08:36,176
+a cambiar el mundo.

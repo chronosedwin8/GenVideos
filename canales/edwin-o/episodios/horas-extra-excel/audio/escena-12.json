@@ -4,167 +4,167 @@
   "texto": "En resumen: RESIDUO para los turnos de noche. La jornada y el valor de la hora siempre en su propia celda. Y para los totales, hora entre corchetes y multiplicar por veinticuatro.",
   "texto_tts": "En resumen: RESIDUO para los turnos de noche. La jornada y el valor de la hora siempre en su propia celda. Y para los totales, hora entre corchetes y multiplicar por veinticuatro.",
   "modelo": "eleven_v3",
-  "duracion": 14.0,
+  "duracion": 12.88,
   "palabras": [
     {
       "texto": "En",
       "inicio": 0.0,
-      "fin": 0.08
+      "fin": 0.16
     },
     {
       "texto": "resumen:",
-      "inicio": 0.14,
-      "fin": 1.16
+      "inicio": 0.22,
+      "fin": 0.96
     },
     {
       "texto": "RESIDUO",
-      "inicio": 1.27,
-      "fin": 1.92
+      "inicio": 1.04,
+      "fin": 1.68
     },
     {
       "texto": "para",
-      "inicio": 2.0,
-      "fin": 2.32
+      "inicio": 1.76,
+      "fin": 2.08
     },
     {
       "texto": "los",
-      "inicio": 2.36,
-      "fin": 2.48
+      "inicio": 2.12,
+      "fin": 2.24
     },
     {
       "texto": "turnos",
-      "inicio": 2.56,
-      "fin": 2.96
+      "inicio": 2.288,
+      "fin": 2.56
     },
     {
       "texto": "de",
-      "inicio": 3.013,
-      "fin": 3.12
+      "inicio": 2.587,
+      "fin": 2.64
     },
     {
       "texto": "noche.",
-      "inicio": 3.187,
-      "fin": 3.6
+      "inicio": 2.72,
+      "fin": 3.2
     },
     {
       "texto": "La",
-      "inicio": 3.973,
-      "fin": 4.72
+      "inicio": 3.44,
+      "fin": 3.92
     },
     {
       "texto": "jornada",
-      "inicio": 4.8,
-      "fin": 5.28
+      "inicio": 3.984,
+      "fin": 4.4
     },
     {
       "texto": "y",
-      "inicio": 5.32,
-      "fin": 5.36
+      "inicio": 4.44,
+      "fin": 4.48
     },
     {
       "texto": "el",
-      "inicio": 5.387,
-      "fin": 5.44
+      "inicio": 4.533,
+      "fin": 4.64
     },
     {
       "texto": "valor",
-      "inicio": 5.507,
-      "fin": 5.84
+      "inicio": 4.693,
+      "fin": 4.96
     },
     {
       "texto": "de",
-      "inicio": 5.867,
-      "fin": 5.92
+      "inicio": 4.987,
+      "fin": 5.04
     },
     {
       "texto": "la",
-      "inicio": 5.973,
-      "fin": 6.08
+      "inicio": 5.093,
+      "fin": 5.2
     },
     {
       "texto": "hora",
-      "inicio": 6.144,
-      "fin": 6.4
+      "inicio": 5.264,
+      "fin": 5.52
     },
     {
       "texto": "siempre",
-      "inicio": 6.49,
-      "fin": 7.12
+      "inicio": 5.59,
+      "fin": 6.08
     },
     {
       "texto": "en",
-      "inicio": 7.2,
-      "fin": 7.36
+      "inicio": 6.133,
+      "fin": 6.24
     },
     {
       "texto": "su",
-      "inicio": 7.413,
-      "fin": 7.52
+      "inicio": 6.267,
+      "fin": 6.32
     },
     {
       "texto": "propia",
-      "inicio": 7.577,
-      "fin": 7.92
+      "inicio": 6.377,
+      "fin": 6.72
     },
     {
       "texto": "celda.",
-      "inicio": 7.96,
-      "fin": 8.88
+      "inicio": 6.76,
+      "fin": 7.68
     },
     {
       "texto": "Y",
-      "inicio": 9.16,
-      "fin": 9.44
+      "inicio": 7.88,
+      "fin": 8.08
     },
     {
       "texto": "para",
-      "inicio": 9.472,
-      "fin": 9.6
+      "inicio": 8.128,
+      "fin": 8.32
     },
     {
       "texto": "los",
-      "inicio": 9.66,
-      "fin": 9.84
+      "inicio": 8.36,
+      "fin": 8.48
     },
     {
       "texto": "totales,",
-      "inicio": 9.9,
-      "fin": 10.76
+      "inicio": 8.54,
+      "fin": 9.2
     },
     {
       "texto": "hora",
-      "inicio": 10.816,
-      "fin": 11.04
+      "inicio": 9.36,
+      "fin": 10.0
     },
     {
       "texto": "entre",
-      "inicio": 11.08,
-      "fin": 11.28
+      "inicio": 10.04,
+      "fin": 10.24
     },
     {
       "texto": "corchetes",
-      "inicio": 11.34,
-      "fin": 12.0
+      "inicio": 10.32,
+      "fin": 10.96
     },
     {
       "texto": "y",
-      "inicio": 12.12,
-      "fin": 12.24
+      "inicio": 11.04,
+      "fin": 11.12
     },
     {
       "texto": "multiplicar",
-      "inicio": 12.296,
-      "fin": 12.96
+      "inicio": 11.176,
+      "fin": 11.76
     },
     {
       "texto": "por",
-      "inicio": 13.02,
-      "fin": 13.2
+      "inicio": 11.82,
+      "fin": 12.0
     },
     {
       "texto": "veinticuatro.",
-      "inicio": 13.253,
-      "fin": 14.0
+      "inicio": 12.053,
+      "fin": 12.88
     }
   ]
 }

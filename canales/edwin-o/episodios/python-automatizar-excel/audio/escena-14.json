@@ -1,0 +1,275 @@
+{
+  "num": "14",
+  "titulo": "El resultado",
+  "texto": "Abramos el de Bogotá. En la hoja Ventas están sus ciento noventa y tres ventas, y en la hoja Resumen, el total de cada vendedor. Nadie filtró, nadie copió, nadie pegó. Y lo mejor: el próximo lunes cambias el archivo de ventas, ejecutas el programa, y en unos segundos tienes los reportes nuevos.",
+  "texto_tts": "Abramos el de Bogotá. En la hoja Ventas están sus ciento noventa y tres ventas, y en la hoja Resumen, el total de cada vendedor. Nadie filtró, nadie copió, nadie pegó. Y lo mejor: el próximo lunes cambias el archivo de ventas, ejecutas el programa, y en unos segundos tienes los reportes nuevos.",
+  "modelo": "eleven_v3",
+  "duracion": 21.84,
+  "palabras": [
+    {
+      "texto": "Abramos",
+      "inicio": 0.0,
+      "fin": 0.4
+    },
+    {
+      "texto": "el",
+      "inicio": 0.453,
+      "fin": 0.56
+    },
+    {
+      "texto": "de",
+      "inicio": 0.587,
+      "fin": 0.64
+    },
+    {
+      "texto": "Bogotá.",
+      "inicio": 0.7,
+      "fin": 1.28
+    },
+    {
+      "texto": "En",
+      "inicio": 1.627,
+      "fin": 2.32
+    },
+    {
+      "texto": "la",
+      "inicio": 2.347,
+      "fin": 2.4
+    },
+    {
+      "texto": "hoja",
+      "inicio": 2.453,
+      "fin": 2.64
+    },
+    {
+      "texto": "Ventas",
+      "inicio": 2.704,
+      "fin": 3.12
+    },
+    {
+      "texto": "están",
+      "inicio": 3.173,
+      "fin": 3.44
+    },
+    {
+      "texto": "sus",
+      "inicio": 3.5,
+      "fin": 3.68
+    },
+    {
+      "texto": "ciento",
+      "inicio": 3.72,
+      "fin": 4.0
+    },
+    {
+      "texto": "noventa",
+      "inicio": 4.053,
+      "fin": 4.4
+    },
+    {
+      "texto": "y",
+      "inicio": 4.48,
+      "fin": 4.56
+    },
+    {
+      "texto": "tres",
+      "inicio": 4.592,
+      "fin": 4.72
+    },
+    {
+      "texto": "ventas,",
+      "inicio": 4.811,
+      "fin": 5.52
+    },
+    {
+      "texto": "y",
+      "inicio": 5.56,
+      "fin": 5.6
+    },
+    {
+      "texto": "en",
+      "inicio": 5.627,
+      "fin": 5.68
+    },
+    {
+      "texto": "la",
+      "inicio": 5.733,
+      "fin": 5.84
+    },
+    {
+      "texto": "hoja",
+      "inicio": 5.893,
+      "fin": 6.08
+    },
+    {
+      "texto": "Resumen,",
+      "inicio": 6.14,
+      "fin": 6.72
+    },
+    {
+      "texto": "el",
+      "inicio": 6.773,
+      "fin": 6.88
+    },
+    {
+      "texto": "total",
+      "inicio": 6.947,
+      "fin": 7.28
+    },
+    {
+      "texto": "de",
+      "inicio": 7.307,
+      "fin": 7.36
+    },
+    {
+      "texto": "cada",
+      "inicio": 7.424,
+      "fin": 7.68
+    },
+    {
+      "texto": "vendedor.",
+      "inicio": 7.72,
+      "fin": 8.4
+    },
+    {
+      "texto": "Nadie",
+      "inicio": 8.66,
+      "fin": 9.6
+    },
+    {
+      "texto": "filtró,",
+      "inicio": 9.667,
+      "fin": 10.64
+    },
+    {
+      "texto": "nadie",
+      "inicio": 10.7,
+      "fin": 11.04
+    },
+    {
+      "texto": "copió,",
+      "inicio": 11.12,
+      "fin": 11.92
+    },
+    {
+      "texto": "nadie",
+      "inicio": 11.98,
+      "fin": 12.32
+    },
+    {
+      "texto": "pegó.",
+      "inicio": 12.4,
+      "fin": 12.88
+    },
+    {
+      "texto": "Y",
+      "inicio": 13.16,
+      "fin": 13.44
+    },
+    {
+      "texto": "lo",
+      "inicio": 13.467,
+      "fin": 13.52
+    },
+    {
+      "texto": "mejor:",
+      "inicio": 13.6,
+      "fin": 14.08
+    },
+    {
+      "texto": "el",
+      "inicio": 14.24,
+      "fin": 14.56
+    },
+    {
+      "texto": "próximo",
+      "inicio": 14.62,
+      "fin": 15.04
+    },
+    {
+      "texto": "lunes",
+      "inicio": 15.08,
+      "fin": 15.68
+    },
+    {
+      "texto": "cambias",
+      "inicio": 15.744,
+      "fin": 16.16
+    },
+    {
+      "texto": "el",
+      "inicio": 16.213,
+      "fin": 16.32
+    },
+    {
+      "texto": "archivo",
+      "inicio": 16.37,
+      "fin": 16.72
+    },
+    {
+      "texto": "de",
+      "inicio": 16.747,
+      "fin": 16.8
+    },
+    {
+      "texto": "ventas,",
+      "inicio": 16.88,
+      "fin": 17.52
+    },
+    {
+      "texto": "ejecutas",
+      "inicio": 17.584,
+      "fin": 18.16
+    },
+    {
+      "texto": "el",
+      "inicio": 18.187,
+      "fin": 18.24
+    },
+    {
+      "texto": "programa,",
+      "inicio": 18.302,
+      "fin": 18.88
+    },
+    {
+      "texto": "y",
+      "inicio": 19.04,
+      "fin": 19.2
+    },
+    {
+      "texto": "en",
+      "inicio": 19.253,
+      "fin": 19.36
+    },
+    {
+      "texto": "unos",
+      "inicio": 19.392,
+      "fin": 19.52
+    },
+    {
+      "texto": "segundos",
+      "inicio": 19.591,
+      "fin": 20.16
+    },
+    {
+      "texto": "tienes",
+      "inicio": 20.217,
+      "fin": 20.56
+    },
+    {
+      "texto": "los",
+      "inicio": 20.58,
+      "fin": 20.64
+    },
+    {
+      "texto": "reportes",
+      "inicio": 20.697,
+      "fin": 21.2
+    },
+    {
+      "texto": "nuevos.",
+      "inicio": 21.269,
+      "fin": 21.84
+    }
+  ]
+}

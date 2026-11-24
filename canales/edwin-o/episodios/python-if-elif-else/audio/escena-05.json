@@ -1,0 +1,320 @@
+{
+  "num": "05",
+  "titulo": "¿Qué es una condicional?",
+  "texto": "¿Qué es una condicional? Es una pregunta que tu programa se hace: ¿esto es verdad? Si es verdad, hace una cosa, y si no, hace otra. Si usas Excel, ya la conoces: es la función SI. La diferencia es que en Python no la escribes en una celda, sino en líneas de código, y puede hacer mucho más que devolver un valor.",
+  "texto_tts": "¿Qué es una condicional? Es una pregunta que tu programa se hace: ¿esto es verdad? Si es verdad, hace una cosa, y si no, hace otra. Si usas Excel, ya la conoces: es la función SI. La diferencia es que en Python no la escribes en una celda, sino en líneas de código, y puede hacer mucho más que devolver un valor.",
+  "modelo": "eleven_v3",
+  "duracion": 27.68,
+  "palabras": [
+    {
+      "texto": "¿Qué",
+      "inicio": 0.0,
+      "fin": 0.16
+    },
+    {
+      "texto": "es",
+      "inicio": 0.187,
+      "fin": 0.24
+    },
+    {
+      "texto": "una",
+      "inicio": 0.28,
+      "fin": 0.4
+    },
+    {
+      "texto": "condicional?",
+      "inicio": 0.464,
+      "fin": 1.28
+    },
+    {
+      "texto": "Es",
+      "inicio": 1.653,
+      "fin": 2.4
+    },
+    {
+      "texto": "una",
+      "inicio": 2.46,
+      "fin": 2.64
+    },
+    {
+      "texto": "pregunta",
+      "inicio": 2.738,
+      "fin": 3.52
+    },
+    {
+      "texto": "que",
+      "inicio": 3.58,
+      "fin": 3.76
+    },
+    {
+      "texto": "tu",
+      "inicio": 3.813,
+      "fin": 3.92
+    },
+    {
+      "texto": "programa",
+      "inicio": 3.973,
+      "fin": 4.4
+    },
+    {
+      "texto": "se",
+      "inicio": 4.48,
+      "fin": 4.64
+    },
+    {
+      "texto": "hace:",
+      "inicio": 4.72,
+      "fin": 5.12
+    },
+    {
+      "texto": "¿esto",
+      "inicio": 5.52,
+      "fin": 6.16
+    },
+    {
+      "texto": "es",
+      "inicio": 6.187,
+      "fin": 6.24
+    },
+    {
+      "texto": "verdad?",
+      "inicio": 6.297,
+      "fin": 6.8
+    },
+    {
+      "texto": "Si",
+      "inicio": 7.173,
+      "fin": 7.92
+    },
+    {
+      "texto": "es",
+      "inicio": 7.947,
+      "fin": 8.0
+    },
+    {
+      "texto": "verdad,",
+      "inicio": 8.057,
+      "fin": 8.56
+    },
+    {
+      "texto": "hace",
+      "inicio": 8.64,
+      "fin": 8.96
+    },
+    {
+      "texto": "una",
+      "inicio": 9.02,
+      "fin": 9.2
+    },
+    {
+      "texto": "cosa,",
+      "inicio": 9.28,
+      "fin": 9.68
+    },
+    {
+      "texto": "y",
+      "inicio": 9.92,
+      "fin": 10.16
+    },
+    {
+      "texto": "si",
+      "inicio": 10.213,
+      "fin": 10.32
+    },
+    {
+      "texto": "no,",
+      "inicio": 10.4,
+      "fin": 10.72
+    },
+    {
+      "texto": "hace",
+      "inicio": 10.832,
+      "fin": 11.28
+    },
+    {
+      "texto": "otra.",
+      "inicio": 11.344,
+      "fin": 11.68
+    },
+    {
+      "texto": "Si",
+      "inicio": 12.053,
+      "fin": 12.8
+    },
+    {
+      "texto": "usas",
+      "inicio": 12.853,
+      "fin": 13.12
+    },
+    {
+      "texto": "Excel,",
+      "inicio": 13.187,
+      "fin": 13.76
+    },
+    {
+      "texto": "ya",
+      "inicio": 13.813,
+      "fin": 13.92
+    },
+    {
+      "texto": "la",
+      "inicio": 13.947,
+      "fin": 14.0
+    },
+    {
+      "texto": "conoces:",
+      "inicio": 14.067,
+      "fin": 14.72
+    },
+    {
+      "texto": "es",
+      "inicio": 14.747,
+      "fin": 14.8
+    },
+    {
+      "texto": "la",
+      "inicio": 14.853,
+      "fin": 14.96
+    },
+    {
+      "texto": "función",
+      "inicio": 15.02,
+      "fin": 15.44
+    },
+    {
+      "texto": "SI.",
+      "inicio": 15.733,
+      "fin": 16.92
+    },
+    {
+      "texto": "La",
+      "inicio": 17.12,
+      "fin": 17.52
+    },
+    {
+      "texto": "diferencia",
+      "inicio": 17.564,
+      "fin": 18.0
+    },
+    {
+      "texto": "es",
+      "inicio": 18.027,
+      "fin": 18.08
+    },
+    {
+      "texto": "que",
+      "inicio": 18.1,
+      "fin": 18.16
+    },
+    {
+      "texto": "en",
+      "inicio": 18.213,
+      "fin": 18.32
+    },
+    {
+      "texto": "Python",
+      "inicio": 18.411,
+      "fin": 18.96
+    },
+    {
+      "texto": "no",
+      "inicio": 19.067,
+      "fin": 19.28
+    },
+    {
+      "texto": "la",
+      "inicio": 19.333,
+      "fin": 19.44
+    },
+    {
+      "texto": "escribes",
+      "inicio": 19.493,
+      "fin": 20.0
+    },
+    {
+      "texto": "en",
+      "inicio": 20.027,
+      "fin": 20.08
+    },
+    {
+      "texto": "una",
+      "inicio": 20.14,
+      "fin": 20.32
+    },
+    {
+      "texto": "celda,",
+      "inicio": 20.36,
+      "fin": 21.28
+    },
+    {
+      "texto": "sino",
+      "inicio": 21.36,
+      "fin": 21.68
+    },
+    {
+      "texto": "en",
+      "inicio": 21.813,
+      "fin": 22.08
+    },
+    {
+      "texto": "líneas",
+      "inicio": 22.16,
+      "fin": 22.48
+    },
+    {
+      "texto": "de",
+      "inicio": 22.507,
+      "fin": 22.56
+    },
+    {
+      "texto": "código,",
+      "inicio": 22.64,
+      "fin": 23.92
+    },
+    {
+      "texto": "y",
+      "inicio": 23.96,
+      "fin": 24.0
+    },
+    {
+      "texto": "puede",
+      "inicio": 24.053,
+      "fin": 24.32
+    },
+    {
+      "texto": "hacer",
+      "inicio": 24.413,
+      "fin": 24.88
+    },
+    {
+      "texto": "mucho",
+      "inicio": 24.987,
+      "fin": 25.52
+    },
+    {
+      "texto": "más",
+      "inicio": 25.62,
+      "fin": 25.92
+    },
+    {
+      "texto": "que",
+      "inicio": 26.0,
+      "fin": 26.24
+    },
+    {
+      "texto": "devolver",
+      "inicio": 26.3,
+      "fin": 26.8
+    },
+    {
+      "texto": "un",
+      "inicio": 26.933,
+      "fin": 27.2
+    },
+    {
+      "texto": "valor.",
+      "inicio": 27.267,
+      "fin": 27.68
+    }
+  ]
+}

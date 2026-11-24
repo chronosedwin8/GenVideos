@@ -1,0 +1,315 @@
+{
+  "num": "17",
+  "titulo": "¿Fórmula o tabla dinámica?",
+  "texto": "Entonces, ¿se acabaron las tablas dinámicas? No. La tabla dinámica sigue siendo mejor para explorar: arrastras campos, pruebas, y le das formato en segundos. Pero cuando ya sabes qué resumen necesitas, y quieres que se actualice solo, que se pueda filtrar y combinar con otras fórmulas, AGRUPARPOR gana. Usa las dos. Esa es la parte de razón que tenía el artículo.",
+  "texto_tts": "Entonces, ¿se acabaron las tablas dinámicas? No. La tabla dinámica sigue siendo mejor para explorar: arrastras campos, pruebas, y le das formato en segundos. Pero cuando ya sabes qué resumen necesitas, y quieres que se actualice solo, que se pueda filtrar y combinar con otras fórmulas, AGRUPARPOR gana. Usa las dos. Esa es la parte de razón que tenía el artículo.",
+  "modelo": "eleven_v3",
+  "duracion": 25.76,
+  "palabras": [
+    {
+      "texto": "Entonces,",
+      "inicio": 0.0,
+      "fin": 0.72
+    },
+    {
+      "texto": "¿se",
+      "inicio": 0.84,
+      "fin": 1.04
+    },
+    {
+      "texto": "acabaron",
+      "inicio": 1.088,
+      "fin": 1.36
+    },
+    {
+      "texto": "las",
+      "inicio": 1.4,
+      "fin": 1.52
+    },
+    {
+      "texto": "tablas",
+      "inicio": 1.56,
+      "fin": 1.76
+    },
+    {
+      "texto": "dinámicas?",
+      "inicio": 1.8,
+      "fin": 2.48
+    },
+    {
+      "texto": "No.",
+      "inicio": 2.64,
+      "fin": 3.04
+    },
+    {
+      "texto": "La",
+      "inicio": 3.28,
+      "fin": 3.76
+    },
+    {
+      "texto": "tabla",
+      "inicio": 3.813,
+      "fin": 4.08
+    },
+    {
+      "texto": "dinámica",
+      "inicio": 4.14,
+      "fin": 4.72
+    },
+    {
+      "texto": "sigue",
+      "inicio": 4.787,
+      "fin": 5.12
+    },
+    {
+      "texto": "siendo",
+      "inicio": 5.166,
+      "fin": 5.44
+    },
+    {
+      "texto": "mejor",
+      "inicio": 5.493,
+      "fin": 5.76
+    },
+    {
+      "texto": "para",
+      "inicio": 5.824,
+      "fin": 6.08
+    },
+    {
+      "texto": "explorar:",
+      "inicio": 6.137,
+      "fin": 6.88
+    },
+    {
+      "texto": "arrastras",
+      "inicio": 6.92,
+      "fin": 7.36
+    },
+    {
+      "texto": "campos,",
+      "inicio": 7.463,
+      "fin": 8.56
+    },
+    {
+      "texto": "pruebas,",
+      "inicio": 8.613,
+      "fin": 9.36
+    },
+    {
+      "texto": "y",
+      "inicio": 9.48,
+      "fin": 9.6
+    },
+    {
+      "texto": "le",
+      "inicio": 9.653,
+      "fin": 9.76
+    },
+    {
+      "texto": "das",
+      "inicio": 9.78,
+      "fin": 9.84
+    },
+    {
+      "texto": "formato",
+      "inicio": 9.9,
+      "fin": 10.32
+    },
+    {
+      "texto": "en",
+      "inicio": 10.347,
+      "fin": 10.4
+    },
+    {
+      "texto": "segundos.",
+      "inicio": 10.462,
+      "fin": 11.12
+    },
+    {
+      "texto": "Pero",
+      "inicio": 11.264,
+      "fin": 11.84
+    },
+    {
+      "texto": "cuando",
+      "inicio": 11.886,
+      "fin": 12.16
+    },
+    {
+      "texto": "ya",
+      "inicio": 12.24,
+      "fin": 12.4
+    },
+    {
+      "texto": "sabes",
+      "inicio": 12.46,
+      "fin": 12.72
+    },
+    {
+      "texto": "qué",
+      "inicio": 12.76,
+      "fin": 12.88
+    },
+    {
+      "texto": "resumen",
+      "inicio": 12.94,
+      "fin": 13.36
+    },
+    {
+      "texto": "necesitas,",
+      "inicio": 13.427,
+      "fin": 14.24
+    },
+    {
+      "texto": "y",
+      "inicio": 14.48,
+      "fin": 14.72
+    },
+    {
+      "texto": "quieres",
+      "inicio": 14.75,
+      "fin": 14.96
+    },
+    {
+      "texto": "que",
+      "inicio": 14.98,
+      "fin": 15.04
+    },
+    {
+      "texto": "se",
+      "inicio": 15.067,
+      "fin": 15.12
+    },
+    {
+      "texto": "actualice",
+      "inicio": 15.166,
+      "fin": 15.68
+    },
+    {
+      "texto": "solo,",
+      "inicio": 15.76,
+      "fin": 16.56
+    },
+    {
+      "texto": "que",
+      "inicio": 16.58,
+      "fin": 16.64
+    },
+    {
+      "texto": "se",
+      "inicio": 16.693,
+      "fin": 16.8
+    },
+    {
+      "texto": "pueda",
+      "inicio": 16.853,
+      "fin": 17.12
+    },
+    {
+      "texto": "filtrar",
+      "inicio": 17.173,
+      "fin": 17.52
+    },
+    {
+      "texto": "y",
+      "inicio": 17.56,
+      "fin": 17.6
+    },
+    {
+      "texto": "combinar",
+      "inicio": 17.648,
+      "fin": 18.08
+    },
+    {
+      "texto": "con",
+      "inicio": 18.12,
+      "fin": 18.24
+    },
+    {
+      "texto": "otras",
+      "inicio": 18.28,
+      "fin": 18.48
+    },
+    {
+      "texto": "fórmulas,",
+      "inicio": 18.52,
+      "fin": 19.44
+    },
+    {
+      "texto": "AGRUPARPOR",
+      "inicio": 19.52,
+      "fin": 20.48
+    },
+    {
+      "texto": "gana.",
+      "inicio": 20.64,
+      "fin": 21.12
+    },
+    {
+      "texto": "Usa",
+      "inicio": 21.3,
+      "fin": 21.84
+    },
+    {
+      "texto": "las",
+      "inicio": 21.88,
+      "fin": 22.0
+    },
+    {
+      "texto": "dos.",
+      "inicio": 22.08,
+      "fin": 22.48
+    },
+    {
+      "texto": "Esa",
+      "inicio": 22.76,
+      "fin": 23.12
+    },
+    {
+      "texto": "es",
+      "inicio": 23.147,
+      "fin": 23.2
+    },
+    {
+      "texto": "la",
+      "inicio": 23.227,
+      "fin": 23.28
+    },
+    {
+      "texto": "parte",
+      "inicio": 23.347,
+      "fin": 23.68
+    },
+    {
+      "texto": "de",
+      "inicio": 23.84,
+      "fin": 24.16
+    },
+    {
+      "texto": "razón",
+      "inicio": 24.24,
+      "fin": 24.56
+    },
+    {
+      "texto": "que",
+      "inicio": 24.6,
+      "fin": 24.72
+    },
+    {
+      "texto": "tenía",
+      "inicio": 24.773,
+      "fin": 25.04
+    },
+    {
+      "texto": "el",
+      "inicio": 25.067,
+      "fin": 25.12
+    },
+    {
+      "texto": "artículo.",
+      "inicio": 25.182,
+      "fin": 25.76
+    }
+  ]
+}

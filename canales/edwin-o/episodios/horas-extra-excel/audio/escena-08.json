@@ -4,397 +4,397 @@
   "texto": "Paso cinco, y aquí viene el error que te prometí. Suma la semana con igual, SUMA, de D dos a D siete. ¿Siete horas con cuarenta y cinco? ¡Imposible! Lo que pasa es que Excel cuenta las horas como un reloj: al llegar a veinticuatro vuelve a cero. La solución: clic derecho, formato de celdas, personalizada, y escribe hora entre corchetes, dos puntos, eme eme. Aceptar… ¡y ahora sí! Cincuenta y cinco horas con cuarenta y cinco minutos.",
   "texto_tts": "Paso cinco, y aquí viene el error que te prometí. Suma la semana con igual, SUMA, de D dos a D siete. [surprised] ¿Siete horas con cuarenta y cinco? ¡Imposible! Lo que pasa es que Excel cuenta las horas como un reloj: al llegar a veinticuatro vuelve a cero. La solución: clic derecho, formato de celdas, personalizada, y escribe hora entre corchetes, dos puntos, eme eme. Aceptar… [excited] ¡y ahora sí! Cincuenta y cinco horas con cuarenta y cinco minutos.",
   "modelo": "eleven_v3",
-  "duracion": 40.488,
+  "duracion": 36.571,
   "palabras": [
     {
       "texto": "Paso",
       "inicio": 0.0,
-      "fin": 0.32
+      "fin": 0.24
     },
     {
       "texto": "cinco,",
-      "inicio": 0.4,
-      "fin": 1.12
+      "inicio": 0.307,
+      "fin": 0.8
     },
     {
       "texto": "y",
-      "inicio": 1.16,
-      "fin": 1.2
+      "inicio": 0.84,
+      "fin": 0.88
     },
     {
       "texto": "aquí",
-      "inicio": 1.264,
-      "fin": 1.52
+      "inicio": 0.912,
+      "fin": 1.04
     },
     {
       "texto": "viene",
-      "inicio": 1.573,
-      "fin": 1.84
+      "inicio": 1.08,
+      "fin": 1.28
     },
     {
       "texto": "el",
-      "inicio": 1.893,
-      "fin": 2.0
+      "inicio": 1.307,
+      "fin": 1.36
     },
     {
       "texto": "error",
-      "inicio": 2.067,
-      "fin": 2.4
+      "inicio": 1.4,
+      "fin": 1.6
     },
     {
       "texto": "que",
-      "inicio": 2.44,
-      "fin": 2.56
+      "inicio": 1.62,
+      "fin": 1.68
     },
     {
       "texto": "te",
-      "inicio": 2.587,
-      "fin": 2.64
+      "inicio": 1.733,
+      "fin": 1.84
     },
     {
       "texto": "prometí.",
-      "inicio": 2.688,
-      "fin": 3.28
+      "inicio": 1.888,
+      "fin": 3.0
     },
     {
       "texto": "Suma",
-      "inicio": 3.54,
-      "fin": 4.4
+      "inicio": 3.15,
+      "fin": 3.68
     },
     {
       "texto": "la",
-      "inicio": 4.453,
-      "fin": 4.56
+      "inicio": 3.707,
+      "fin": 3.76
     },
     {
       "texto": "semana",
-      "inicio": 4.64,
-      "fin": 5.12
+      "inicio": 3.817,
+      "fin": 4.16
     },
     {
       "texto": "con",
-      "inicio": 5.18,
-      "fin": 5.36
+      "inicio": 4.22,
+      "fin": 4.4
     },
     {
       "texto": "igual,",
-      "inicio": 5.427,
-      "fin": 5.84
+      "inicio": 4.467,
+      "fin": 4.96
     },
     {
       "texto": "SUMA,",
-      "inicio": 6.02,
+      "inicio": 5.02,
+      "fin": 5.92
+    },
+    {
+      "texto": "de",
+      "inicio": 5.947,
+      "fin": 6.0
+    },
+    {
+      "texto": "D",
+      "inicio": 6.12,
+      "fin": 6.24
+    },
+    {
+      "texto": "dos",
+      "inicio": 6.38,
       "fin": 6.8
     },
     {
-      "texto": "de",
-      "inicio": 7.04,
-      "fin": 7.52
-    },
-    {
-      "texto": "D",
-      "inicio": 7.64,
-      "fin": 7.76
-    },
-    {
-      "texto": "dos",
-      "inicio": 7.9,
-      "fin": 8.32
-    },
-    {
       "texto": "a",
-      "inicio": 8.52,
-      "fin": 8.72
+      "inicio": 6.96,
+      "fin": 7.12
     },
     {
       "texto": "D",
-      "inicio": 8.92,
-      "fin": 9.12
+      "inicio": 7.24,
+      "fin": 7.36
     },
     {
       "texto": "siete.",
-      "inicio": 9.24,
-      "fin": 9.76
+      "inicio": 7.44,
+      "fin": 8.0
     },
     {
       "texto": "¿Siete",
-      "inicio": 11.007,
-      "fin": 11.207
+      "inicio": 9.057,
+      "fin": 9.207
     },
     {
       "texto": "horas",
-      "inicio": 11.274,
-      "fin": 11.607
+      "inicio": 9.26,
+      "fin": 9.527
     },
     {
       "texto": "con",
-      "inicio": 11.667,
-      "fin": 11.847
+      "inicio": 9.567,
+      "fin": 9.687
     },
     {
       "texto": "cuarenta",
-      "inicio": 11.9,
-      "fin": 12.407
+      "inicio": 9.74,
+      "fin": 10.247
     },
     {
       "texto": "y",
-      "inicio": 12.447,
-      "fin": 12.487
+      "inicio": 10.287,
+      "fin": 10.327
     },
     {
       "texto": "cinco?",
-      "inicio": 12.567,
-      "fin": 13.127
+      "inicio": 10.394,
+      "fin": 10.967
     },
     {
       "texto": "¡Imposible!",
-      "inicio": 13.367,
-      "fin": 14.807
+      "inicio": 11.087,
+      "fin": 12.407
     },
     {
       "texto": "Lo",
-      "inicio": 15.1,
-      "fin": 15.687
+      "inicio": 12.674,
+      "fin": 13.207
     },
     {
       "texto": "que",
-      "inicio": 15.727,
-      "fin": 15.847
+      "inicio": 13.227,
+      "fin": 13.287
     },
     {
       "texto": "pasa",
-      "inicio": 15.927,
-      "fin": 16.247
+      "inicio": 13.335,
+      "fin": 13.527
     },
     {
       "texto": "es",
-      "inicio": 16.354,
-      "fin": 16.567
+      "inicio": 13.554,
+      "fin": 13.607
     },
     {
       "texto": "que",
-      "inicio": 16.587,
-      "fin": 16.647
+      "inicio": 13.627,
+      "fin": 13.687
     },
     {
       "texto": "Excel",
-      "inicio": 16.714,
-      "fin": 17.047
+      "inicio": 13.754,
+      "fin": 14.087
     },
     {
       "texto": "cuenta",
-      "inicio": 17.104,
-      "fin": 17.447
+      "inicio": 14.144,
+      "fin": 14.487
     },
     {
       "texto": "las",
-      "inicio": 17.507,
-      "fin": 17.687
+      "inicio": 14.527,
+      "fin": 14.647
     },
     {
       "texto": "horas",
-      "inicio": 17.754,
-      "fin": 18.087
+      "inicio": 14.7,
+      "fin": 14.967
     },
     {
       "texto": "como",
-      "inicio": 18.151,
-      "fin": 18.407
+      "inicio": 14.999,
+      "fin": 15.127
     },
     {
       "texto": "un",
-      "inicio": 18.46,
-      "fin": 18.567
+      "inicio": 15.18,
+      "fin": 15.287
     },
     {
       "texto": "reloj:",
-      "inicio": 18.647,
-      "fin": 19.607
+      "inicio": 15.367,
+      "fin": 16.407
     },
     {
       "texto": "al",
-      "inicio": 19.66,
-      "fin": 19.767
+      "inicio": 16.434,
+      "fin": 16.487
     },
     {
       "texto": "llegar",
-      "inicio": 19.824,
-      "fin": 20.167
+      "inicio": 16.533,
+      "fin": 16.807
     },
     {
       "texto": "a",
-      "inicio": 20.207,
-      "fin": 20.247
+      "inicio": 16.847,
+      "fin": 16.887
     },
     {
       "texto": "veinticuatro",
-      "inicio": 20.274,
-      "fin": 21.207
+      "inicio": 16.914,
+      "fin": 17.847
     },
     {
       "texto": "vuelve",
-      "inicio": 21.327,
-      "fin": 21.767
+      "inicio": 18.047,
+      "fin": 18.487
     },
     {
       "texto": "a",
-      "inicio": 21.807,
-      "fin": 21.847
+      "inicio": 18.527,
+      "fin": 18.567
     },
     {
       "texto": "cero.",
-      "inicio": 21.927,
-      "fin": 22.327
+      "inicio": 18.607,
+      "fin": 18.967
     },
     {
       "texto": "La",
-      "inicio": 22.567,
-      "fin": 23.047
+      "inicio": 19.287,
+      "fin": 19.927
     },
     {
       "texto": "solución:",
-      "inicio": 23.107,
-      "fin": 23.767
+      "inicio": 19.967,
+      "fin": 20.967
     },
     {
       "texto": "clic",
-      "inicio": 23.863,
-      "fin": 24.247
+      "inicio": 21.015,
+      "fin": 21.207
     },
     {
       "texto": "derecho,",
-      "inicio": 24.317,
-      "fin": 24.887
+      "inicio": 21.267,
+      "fin": 21.767
     },
     {
       "texto": "formato",
-      "inicio": 24.977,
-      "fin": 25.607
+      "inicio": 21.857,
+      "fin": 22.487
     },
     {
       "texto": "de",
-      "inicio": 25.66,
-      "fin": 25.767
+      "inicio": 22.514,
+      "fin": 22.567
     },
     {
       "texto": "celdas,",
-      "inicio": 25.847,
-      "fin": 26.487
+      "inicio": 22.647,
+      "fin": 23.367
     },
     {
       "texto": "personalizada,",
-      "inicio": 26.567,
-      "fin": 28.167
+      "inicio": 23.5,
+      "fin": 25.127
     },
     {
       "texto": "y",
-      "inicio": 28.207,
-      "fin": 28.247
+      "inicio": 25.447,
+      "fin": 25.767
     },
     {
       "texto": "escribe",
-      "inicio": 28.327,
-      "fin": 28.807
+      "inicio": 25.82,
+      "fin": 26.247
     },
     {
       "texto": "hora",
-      "inicio": 28.919,
-      "fin": 29.367
+      "inicio": 26.343,
+      "fin": 26.727
     },
     {
       "texto": "entre",
-      "inicio": 29.474,
-      "fin": 30.007
+      "inicio": 26.767,
+      "fin": 26.967
     },
     {
       "texto": "corchetes,",
-      "inicio": 30.067,
-      "fin": 30.887
+      "inicio": 27.027,
+      "fin": 27.767
     },
     {
       "texto": "dos",
-      "inicio": 31.027,
-      "fin": 31.447
+      "inicio": 27.827,
+      "fin": 28.007
     },
     {
       "texto": "puntos,",
-      "inicio": 31.538,
-      "fin": 32.247
+      "inicio": 28.11,
+      "fin": 29.047
     },
     {
       "texto": "eme",
-      "inicio": 32.407,
-      "fin": 33.007
+      "inicio": 29.127,
+      "fin": 29.447
     },
     {
       "texto": "eme.",
-      "inicio": 33.1,
-      "fin": 33.447
+      "inicio": 29.5,
+      "fin": 30.247
     },
     {
       "texto": "Aceptar…",
-      "inicio": 33.727,
-      "fin": 34.567
+      "inicio": 30.487,
+      "fin": 32.007
     },
     {
       "texto": "¡y",
-      "inicio": 35.408,
-      "fin": 35.576
+      "inicio": 32.171,
+      "fin": 32.267
     },
     {
       "texto": "ahora",
-      "inicio": 35.595,
-      "fin": 35.688
+      "inicio": 32.278,
+      "fin": 32.331
     },
     {
       "texto": "sí!",
-      "inicio": 35.768,
-      "fin": 36.088
+      "inicio": 32.438,
+      "fin": 32.811
     },
     {
       "texto": "Cincuenta",
-      "inicio": 36.448,
-      "fin": 37.288
+      "inicio": 33.051,
+      "fin": 33.691
     },
     {
       "texto": "y",
-      "inicio": 37.328,
-      "fin": 37.368
+      "inicio": 33.731,
+      "fin": 33.771
     },
     {
       "texto": "cinco",
-      "inicio": 37.435,
-      "fin": 37.768
+      "inicio": 33.851,
+      "fin": 34.251
     },
     {
       "texto": "horas",
-      "inicio": 37.875,
-      "fin": 38.408
+      "inicio": 34.331,
+      "fin": 34.731
     },
     {
       "texto": "con",
-      "inicio": 38.468,
-      "fin": 38.648
+      "inicio": 34.771,
+      "fin": 34.891
     },
     {
       "texto": "cuarenta",
-      "inicio": 38.675,
-      "fin": 39.208
+      "inicio": 34.944,
+      "fin": 35.331
     },
     {
       "texto": "y",
-      "inicio": 39.248,
-      "fin": 39.288
+      "inicio": 35.351,
+      "fin": 35.371
     },
     {
       "texto": "cinco",
-      "inicio": 39.341,
-      "fin": 39.608
+      "inicio": 35.438,
+      "fin": 35.771
     },
     {
       "texto": "minutos.",
-      "inicio": 39.708,
-      "fin": 40.488
+      "inicio": 35.851,
+      "fin": 36.571
     }
   ]
 }

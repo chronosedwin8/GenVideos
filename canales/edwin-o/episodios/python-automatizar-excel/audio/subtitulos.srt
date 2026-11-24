@@ -1,0 +1,959 @@
+1
+00:00:00,213 --> 00:00:02,560
+Doce reportes de Excel, uno por cada
+
+2
+00:00:02,620 --> 00:00:05,600
+sucursal, con sus ventas y su resumen
+
+3
+00:00:05,660 --> 00:00:08,080
+por vendedor… en unos ocho
+
+4
+00:00:08,151 --> 00:00:08,800
+segundos.
+
+5
+00:00:09,976 --> 00:00:11,600
+¿Cuánto te tomaría hacerlo a mano?
+
+6
+00:00:11,880 --> 00:00:13,680
+Hoy lo vas a hacer con un
+
+7
+00:00:13,733 --> 00:00:15,680
+programa de doce líneas en Python.
+
+8
+00:00:16,260 --> 00:00:17,840
+¡Bienvenidos, amigos del canal!
+
+9
+00:00:17,960 --> 00:00:20,960
+Vamos en busca del poder tecnológico.
+
+10
+00:00:21,120 --> 00:00:23,920
+Hoy vamos a automatizar Excel con
+
+11
+00:00:24,000 --> 00:00:26,880
+Python, paso a paso, aunque nunca
+
+12
+00:00:26,960 --> 00:00:28,320
+hayas programado.
+
+13
+00:00:28,400 --> 00:00:30,640
+Te explico cada línea, te doy el
+
+14
+00:00:30,709 --> 00:00:33,520
+código completo, y al final te enseño
+
+15
+00:00:33,560 --> 00:00:35,680
+los errores que casi todo el mundo
+
+16
+00:00:35,760 --> 00:00:37,920
+comete la primera vez.
+
+17
+00:00:38,320 --> 00:00:40,081
+¿Por qué Python, y por qué ahora?
+
+18
+00:00:40,428 --> 00:00:42,481
+En la encuesta de Stack Overflow de
+
+19
+00:00:42,521 --> 00:00:44,641
+dos mil veinticinco, el uso de Python
+
+20
+00:00:44,681 --> 00:00:47,441
+subió siete puntos en un solo año,
+
+21
+00:00:47,468 --> 00:00:49,681
+el mayor salto de todos los lenguajes.
+
+22
+00:00:49,948 --> 00:00:51,681
+Ya lo usa más de la mitad
+
+23
+00:00:51,708 --> 00:00:52,881
+de los desarrolladores.
+
+24
+00:00:53,201 --> 00:00:55,441
+Y no es solo para programadores:
+
+25
+00:00:55,473 --> 00:00:57,281
+cada vez más gente de oficina lo
+
+26
+00:00:57,361 --> 00:00:59,681
+usa para no repetir el mismo trabajo
+
+27
+00:00:59,761 --> 00:01:00,561
+cada semana.
+
+28
+00:01:00,961 --> 00:01:02,721
+En el software que he desarrollado para
+
+29
+00:01:02,792 --> 00:01:05,361
+empresas, la petición número uno siempre es
+
+30
+00:01:05,388 --> 00:01:05,921
+la misma:
+
+31
+00:01:05,961 --> 00:01:08,721
+"Edwin, necesito un reporte por sede,
+
+32
+00:01:08,881 --> 00:01:10,161
+cada semana".
+
+33
+00:01:10,601 --> 00:01:12,801
+Y casi siempre hay alguien que pierde
+
+34
+00:01:12,841 --> 00:01:14,961
+una mañana entera haciéndolo a mano.
+
+35
+00:01:15,281 --> 00:01:16,641
+Eso es justo lo que vamos a
+
+36
+00:01:16,694 --> 00:01:17,361
+eliminar hoy.
+
+37
+00:01:17,761 --> 00:01:18,561
+Este es el archivo:
+
+38
+00:01:18,581 --> 00:01:21,201
+dos mil cuatrocientas ventas de noviembre, de
+
+39
+00:01:21,254 --> 00:01:22,481
+doce sucursales.
+
+40
+00:01:22,841 --> 00:01:25,201
+A mano, tendrías que filtrar una
+
+41
+00:01:25,261 --> 00:01:28,241
+sucursal, copiar, crear un libro nuevo, pegar,
+
+42
+00:01:28,281 --> 00:01:30,961
+hacer el resumen, guardar… y repetirlo
+
+43
+00:01:31,121 --> 00:01:32,161
+doce veces.
+
+44
+00:01:32,521 --> 00:01:33,921
+Fácilmente una hora.
+
+45
+00:01:34,201 --> 00:01:36,241
+Y la semana siguiente, otra vez.
+
+46
+00:01:36,601 --> 00:01:38,801
+Y entre tanto copiar y pegar, tarde
+
+47
+00:01:38,841 --> 00:01:40,801
+o temprano se te escapa una fila,
+
+48
+00:01:40,841 --> 00:01:42,401
+o pegas los datos en el archivo
+
+49
+00:01:42,454 --> 00:01:43,121
+equivocado.
+
+50
+00:01:43,521 --> 00:01:44,241
+Paso uno:
+
+51
+00:01:44,401 --> 00:01:46,961
+instala Python desde python punto
+
+52
+00:01:47,161 --> 00:01:47,841
+org.
+
+53
+00:01:48,321 --> 00:01:50,881
+Y aquí va el detalle más importante
+
+54
+00:01:50,908 --> 00:01:52,241
+de todo el video:
+
+55
+00:01:52,268 --> 00:01:54,801
+en la primera pantalla, marca la casilla
+
+56
+00:01:54,841 --> 00:01:57,841
+que dice "Add python punto exe to
+
+57
+00:01:57,937 --> 00:01:58,561
+PATH".
+
+58
+00:01:58,921 --> 00:02:01,441
+Después abre la terminal
+
+59
+00:02:01,761 --> 00:02:03,041
+y escribe:
+
+60
+00:02:03,121 --> 00:02:05,201
+pip install pandas
+
+61
+00:02:05,329 --> 00:02:06,801
+openpyxl.
+
+62
+00:02:07,137 --> 00:02:09,681
+Pandas lee y
+
+63
+00:02:09,734 --> 00:02:11,441
+organiza los datos, y
+
+64
+00:02:11,537 --> 00:02:14,481
+openpyxl escribe los archivos
+
+65
+00:02:14,508 --> 00:02:15,041
+de Excel.
+
+66
+00:02:15,441 --> 00:02:16,161
+Paso dos:
+
+67
+00:02:16,449 --> 00:02:19,441
+crea una carpeta y pon
+
+68
+00:02:19,494 --> 00:02:21,441
+ahí tu archivo de ventas.
+
+69
+00:02:21,814 --> 00:02:24,721
+Al lado, crea un archivo de texto
+
+70
+00:02:24,753 --> 00:02:27,281
+llamado reportes punto py.
+
+71
+00:02:27,881 --> 00:02:30,481
+Puedes escribirlo en Visual Studio Code, o
+
+72
+00:02:30,551 --> 00:02:32,161
+incluso en el bloc de notas.
+
+73
+00:02:32,428 --> 00:02:34,961
+Lo importante es que los dos archivos
+
+74
+00:02:35,021 --> 00:02:36,401
+estén en la misma carpeta.
+
+75
+00:02:36,801 --> 00:02:37,521
+Paso tres:
+
+76
+00:02:37,665 --> 00:02:38,881
+leer el Excel.
+
+77
+00:02:39,201 --> 00:02:42,081
+La primera línea trae pandas, y le
+
+78
+00:02:42,121 --> 00:02:43,681
+pone un apodo corto:
+
+79
+00:02:43,881 --> 00:02:44,721
+p d.
+
+80
+00:02:45,068 --> 00:02:48,001
+La segunda trae Path, que sirve
+
+81
+00:02:48,033 --> 00:02:49,281
+para manejar carpetas.
+
+82
+00:02:49,601 --> 00:02:51,681
+Y la tercera es la magia:
+
+83
+00:02:51,761 --> 00:02:54,481
+ventas igual a p d punto
+
+84
+00:02:54,593 --> 00:02:57,201
+read excel, y el nombre del archivo.
+
+85
+00:02:57,441 --> 00:03:00,241
+Con eso, las dos mil cuatrocientas filas
+
+86
+00:03:00,321 --> 00:03:02,321
+ya están en la memoria de Python,
+
+87
+00:03:02,369 --> 00:03:03,441
+listas para trabajar.
+
+88
+00:03:03,841 --> 00:03:04,561
+Paso cuatro:
+
+89
+00:03:04,721 --> 00:03:07,041
+le decimos dónde guardar los
+
+90
+00:03:07,106 --> 00:03:07,841
+resultados.
+
+91
+00:03:07,953 --> 00:03:10,081
+Carpeta igual a Path,
+
+92
+00:03:10,252 --> 00:03:11,681
+reportes.
+
+93
+00:03:12,001 --> 00:03:14,641
+Y en la siguiente línea, carpeta punto
+
+94
+00:03:14,828 --> 00:03:17,761
+mkdir, que significa "crea la carpeta".
+
+95
+00:03:18,241 --> 00:03:21,201
+El exist ok igual a True le
+
+96
+00:03:21,281 --> 00:03:21,681
+dice:
+
+97
+00:03:21,761 --> 00:03:23,761
+si ya existe, no pasa nada, sigue
+
+98
+00:03:23,809 --> 00:03:24,401
+adelante.
+
+99
+00:03:24,801 --> 00:03:27,521
+Paso cinco, el corazón del programa.
+
+100
+00:03:27,781 --> 00:03:30,721
+For sucursal coma datos
+
+101
+00:03:30,748 --> 00:03:33,041
+in ventas punto groupby,
+
+102
+00:03:33,101 --> 00:03:33,841
+sucursal.
+
+103
+00:03:34,041 --> 00:03:36,561
+Groupby agrupa la tabla por
+
+104
+00:03:36,621 --> 00:03:38,801
+sucursal, como una tabla
+
+105
+00:03:38,861 --> 00:03:41,521
+dinámica, y el for recorre
+
+106
+00:03:41,601 --> 00:03:43,441
+cada grupo, uno por uno.
+
+107
+00:03:43,734 --> 00:03:46,401
+En cada vuelta, sucursal tiene el
+
+108
+00:03:46,470 --> 00:03:49,441
+nombre, por ejemplo Bogotá, y
+
+109
+00:03:49,534 --> 00:03:52,161
+datos tiene solo las ventas de Bogotá.
+
+110
+00:03:52,588 --> 00:03:55,361
+Doce sucursales, doce
+
+111
+00:03:55,441 --> 00:03:56,241
+vueltas.
+
+112
+00:03:56,641 --> 00:03:57,441
+Paso seis.
+
+113
+00:03:57,617 --> 00:04:00,401
+Primero, armamos el nombre del
+
+114
+00:04:00,461 --> 00:04:00,961
+archivo.
+
+115
+00:04:01,254 --> 00:04:03,521
+La f antes de las comillas
+
+116
+00:04:03,621 --> 00:04:06,481
+permite meter variables entre llaves,
+
+117
+00:04:06,561 --> 00:04:08,081
+así que en la vuelta de Bogotá
+
+118
+00:04:08,214 --> 00:04:11,201
+se llama "Reporte Bogotá punto
+
+119
+00:04:11,601 --> 00:04:13,361
+xlsx".
+
+120
+00:04:13,881 --> 00:04:16,481
+Y luego el resumen:
+
+121
+00:04:16,541 --> 00:04:19,521
+agrupamos los datos por vendedor, tomamos
+
+122
+00:04:19,548 --> 00:04:21,841
+la columna monto y la sumamos.
+
+123
+00:04:22,134 --> 00:04:24,481
+Es exactamente lo que harías con una
+
+124
+00:04:24,534 --> 00:04:26,641
+tabla dinámica, pero en una línea.
+
+125
+00:04:27,041 --> 00:04:27,921
+Paso siete:
+
+126
+00:04:27,974 --> 00:04:29,921
+escribimos el libro de Excel.
+
+127
+00:04:30,193 --> 00:04:32,161
+With p d punto
+
+128
+00:04:32,281 --> 00:04:34,961
+ExcelWriter abre un archivo nuevo.
+
+129
+00:04:35,073 --> 00:04:37,681
+Dentro, datos punto to
+
+130
+00:04:37,828 --> 00:04:40,721
+excel pone las ventas en una
+
+131
+00:04:40,774 --> 00:04:43,761
+hoja llamada Ventas, y resumen
+
+132
+00:04:43,854 --> 00:04:46,641
+punto to excel pone el resumen
+
+133
+00:04:46,721 --> 00:04:48,961
+en otra hoja llamada Resumen.
+
+134
+00:04:49,361 --> 00:04:52,321
+El index igual a False evita
+
+135
+00:04:52,341 --> 00:04:54,881
+una columna de números que no necesitas.
+
+136
+00:04:55,281 --> 00:04:57,921
+Y la última línea imprime un mensaje
+
+137
+00:04:57,953 --> 00:04:59,441
+para saber que todo va bien.
+
+138
+00:04:59,708 --> 00:05:02,401
+Guarda el archivo,
+
+139
+00:05:02,465 --> 00:05:04,321
+abre la terminal en esa carpeta y
+
+140
+00:05:04,374 --> 00:05:05,121
+escribe:
+
+141
+00:05:05,247 --> 00:05:07,681
+python reportes punto py.
+
+142
+00:05:08,951 --> 00:05:10,561
+Mira cómo van saliendo:
+
+143
+00:05:10,641 --> 00:05:12,401
+Arequipa, Barranquilla,
+
+144
+00:05:12,481 --> 00:05:14,801
+Bogotá… doce reportes.
+
+145
+00:05:15,121 --> 00:05:17,601
+Y en la carpeta, doce archivos de
+
+146
+00:05:17,668 --> 00:05:18,881
+Excel nuevos.
+
+147
+00:05:19,281 --> 00:05:20,561
+Abramos el de Bogotá.
+
+148
+00:05:20,908 --> 00:05:23,281
+En la hoja Ventas están sus ciento
+
+149
+00:05:23,334 --> 00:05:25,121
+noventa y tres ventas, y en la
+
+150
+00:05:25,174 --> 00:05:27,681
+hoja Resumen, el total de cada vendedor.
+
+151
+00:05:27,941 --> 00:05:30,321
+Nadie filtró, nadie
+
+152
+00:05:30,401 --> 00:05:32,161
+copió, nadie pegó.
+
+153
+00:05:32,441 --> 00:05:33,361
+Y lo mejor:
+
+154
+00:05:33,521 --> 00:05:36,081
+el próximo lunes cambias el archivo de
+
+155
+00:05:36,161 --> 00:05:38,801
+ventas, ejecutas el programa, y en unos
+
+156
+00:05:38,872 --> 00:05:41,121
+segundos tienes los reportes nuevos.
+
+157
+00:05:41,521 --> 00:05:43,441
+¿Y si tus datos son diferentes?
+
+158
+00:05:43,729 --> 00:05:46,561
+Esta es la mejor parte:
+
+159
+00:05:46,614 --> 00:05:49,201
+el programa se adapta cambiando una sola
+
+160
+00:05:49,271 --> 00:05:49,841
+palabra.
+
+161
+00:05:50,188 --> 00:05:51,921
+Si en vez de un reporte por
+
+162
+00:05:51,981 --> 00:05:53,841
+sucursal necesitas uno por
+
+163
+00:05:53,921 --> 00:05:56,401
+vendedor, cambia Sucursal por
+
+164
+00:05:56,481 --> 00:05:58,241
+Vendedor en la línea del for.
+
+165
+00:05:58,681 --> 00:06:01,601
+Y ahora salen cuarenta y ocho reportes,
+
+166
+00:06:01,661 --> 00:06:03,521
+uno por cada vendedor.
+
+167
+00:06:03,761 --> 00:06:04,881
+¿Por producto?
+
+168
+00:06:05,121 --> 00:06:06,321
+¿Por cliente?
+
+169
+00:06:06,481 --> 00:06:07,281
+¿Por mes?
+
+170
+00:06:07,521 --> 00:06:09,041
+Es el mismo programa.
+
+171
+00:06:09,249 --> 00:06:11,761
+Solo asegúrate de escribir el nombre de
+
+172
+00:06:11,788 --> 00:06:14,081
+la columna exactamente como está en tu
+
+173
+00:06:14,148 --> 00:06:17,041
+Excel, con mayúsculas y tildes.
+
+174
+00:06:17,441 --> 00:06:18,241
+Nivel pro.
+
+175
+00:06:18,521 --> 00:06:21,361
+Con openpyxl puedes retocar
+
+176
+00:06:21,441 --> 00:06:23,361
+cada libro antes de terminar.
+
+177
+00:06:23,681 --> 00:06:25,841
+Abres el archivo con load
+
+178
+00:06:25,912 --> 00:06:28,721
+workbook, ensanchas la columna A
+
+179
+00:06:28,785 --> 00:06:31,041
+para que se lean los nombres, y
+
+180
+00:06:31,101 --> 00:06:33,841
+con append agregas una fila de total
+
+181
+00:06:33,948 --> 00:06:34,641
+al final.
+
+182
+00:06:35,041 --> 00:06:38,001
+En Bogotá da ciento sesenta y nueve
+
+183
+00:06:38,081 --> 00:06:39,841
+mil cuarenta.
+
+184
+00:06:40,081 --> 00:06:42,481
+El código completo de esta versión te
+
+185
+00:06:42,508 --> 00:06:42,882
+lo dejo en la
+
+186
+00:06:42,928 --> 00:06:45,602
+descripción.
+
+187
+00:06:46,002 --> 00:06:47,922
+Ahora, los errores que casi todo el
+
+188
+00:06:47,962 --> 00:06:48,802
+mundo comete.
+
+189
+00:06:49,175 --> 00:06:52,082
+Si la terminal dice que pip no
+
+190
+00:06:52,135 --> 00:06:54,482
+se reconoce, Python no quedó en el
+
+191
+00:06:54,562 --> 00:06:55,602
+PATH:
+
+192
+00:06:55,659 --> 00:06:58,242
+reinstálalo marcando la casilla, o
+
+193
+00:06:58,349 --> 00:07:00,722
+escribe p y guion m
+
+194
+00:07:00,882 --> 00:07:01,442
+pip.
+
+195
+00:07:01,735 --> 00:07:04,562
+Si sale permission error, es
+
+196
+00:07:04,608 --> 00:07:06,562
+porque tienes el reporte abierto en
+
+197
+00:07:06,629 --> 00:07:07,682
+Excel:
+
+198
+00:07:07,762 --> 00:07:09,602
+ciérralo y vuelve a ejecutar.
+
+199
+00:07:10,042 --> 00:07:12,082
+Y un error que nos pasó preparando
+
+200
+00:07:12,130 --> 00:07:13,362
+este video:
+
+201
+00:07:13,402 --> 00:07:15,362
+pusimos un símbolo de check en el
+
+202
+00:07:15,432 --> 00:07:17,762
+mensaje, y la consola de Windows no
+
+203
+00:07:17,789 --> 00:07:18,722
+lo pudo mostrar.
+
+204
+00:07:18,902 --> 00:07:20,962
+Usa texto normal y listo.
+
+205
+00:07:21,362 --> 00:07:23,362
+¿Y si quieres que se ejecute solo?
+
+206
+00:07:23,492 --> 00:07:25,842
+Windows tiene el Programador de
+
+207
+00:07:25,922 --> 00:07:26,562
+tareas.
+
+208
+00:07:26,749 --> 00:07:27,962
+Le dices:
+
+209
+00:07:28,018 --> 00:07:29,602
+cada lunes a las siete de la
+
+210
+00:07:29,659 --> 00:07:32,162
+mañana, ejecuta este programa.
+
+211
+00:07:32,562 --> 00:07:34,882
+Y cuando llegues a la oficina, los
+
+212
+00:07:34,951 --> 00:07:36,962
+reportes ya están listos.
+
+213
+00:07:37,322 --> 00:07:38,882
+Eso sí:
+
+214
+00:07:38,932 --> 00:07:41,602
+primero pruébalo varias veces a mano, y
+
+215
+00:07:41,682 --> 00:07:43,522
+después lo programas.
+
+216
+00:07:43,922 --> 00:07:44,722
+Haz la cuenta:
+
+217
+00:07:44,782 --> 00:07:46,882
+una hora a la semana son cincuenta
+
+218
+00:07:46,962 --> 00:07:48,002
+y dos horas al año.
+
+219
+00:07:48,202 --> 00:07:50,962
+Más de una semana laboral entera,
+
+220
+00:07:51,002 --> 00:07:52,402
+copiando y pegando.
+
+221
+00:07:52,562 --> 00:07:55,122
+Con Python, son segundos, y siempre sale
+
+222
+00:07:55,175 --> 00:07:56,962
+igual, sin errores al copiar.
+
+223
+00:07:57,162 --> 00:07:58,962
+Ese tiempo lo usas para analizar los
+
+224
+00:07:59,022 --> 00:08:01,042
+números, no para moverlos.
+
+225
+00:08:01,509 --> 00:08:02,642
+Y como siempre digo:
+
+226
+00:08:02,775 --> 00:08:04,962
+si no lo aprendes ahora, te
+
+227
+00:08:05,042 --> 00:08:06,162
+extingues.
+
+228
+00:08:06,562 --> 00:08:07,282
+En resumen:
+
+229
+00:08:07,385 --> 00:08:10,242
+pandas lee el Excel, groupby lo
+
+230
+00:08:10,309 --> 00:08:12,962
+separa por sucursal, y to excel escribe
+
+231
+00:08:13,026 --> 00:08:13,922
+cada reporte.
+
+232
+00:08:14,295 --> 00:08:16,642
+Doce líneas que te devuelven
+
+233
+00:08:16,762 --> 00:08:17,602
+horas.
+
+234
+00:08:17,975 --> 00:08:20,802
+En el próximo video respondemos la pregunta
+
+235
+00:08:20,842 --> 00:08:22,322
+que todos se hacen:
+
+236
+00:08:22,342 --> 00:08:25,202
+con la inteligencia artificial, ¿Excel está muerto?
+
+237
+00:08:25,442 --> 00:08:27,362
+Te va a sorprender la respuesta.
+
+238
+00:08:27,522 --> 00:08:29,682
+Suscríbete para no perdértelo.
+
+239
+00:08:30,375 --> 00:08:32,162
+El poder de la tecnología te va
+
+240
+00:08:32,282 --> 00:08:33,362
+a cambiar el mundo.

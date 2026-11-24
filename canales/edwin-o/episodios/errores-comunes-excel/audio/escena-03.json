@@ -1,0 +1,360 @@
+{
+  "num": "03",
+  "titulo": "El caso",
+  "texto": "¿Cuánto cuesta un error en Excel? Una encuesta de la empresa de software DOSS, con más de mil profesionales de operaciones en Estados Unidos, calculó que un error significativo en una hoja de cálculo cuesta en promedio cuatro mil trescientos quince dólares. Además, esas personas pierden casi cuatro horas a la semana corrigiendo hojas. Y lo más preocupante: dos de cada cinco errores se corrigen sin que nadie se entere.",
+  "texto_tts": "¿Cuánto cuesta un error en Excel? Una encuesta de la empresa de software DOSS, con más de mil profesionales de operaciones en Estados Unidos, calculó que un error significativo en una hoja de cálculo cuesta en promedio cuatro mil trescientos quince dólares. Además, esas personas pierden casi cuatro horas a la semana corrigiendo hojas. Y lo más preocupante: dos de cada cinco errores se corrigen sin que nadie se entere.",
+  "modelo": "eleven_v3",
+  "duracion": 26.0,
+  "palabras": [
+    {
+      "texto": "¿Cuánto",
+      "inicio": 0.0,
+      "fin": 0.4
+    },
+    {
+      "texto": "cuesta",
+      "inicio": 0.44,
+      "fin": 0.88
+    },
+    {
+      "texto": "un",
+      "inicio": 0.987,
+      "fin": 1.2
+    },
+    {
+      "texto": "error",
+      "inicio": 1.267,
+      "fin": 1.6
+    },
+    {
+      "texto": "en",
+      "inicio": 1.653,
+      "fin": 1.76
+    },
+    {
+      "texto": "Excel?",
+      "inicio": 1.827,
+      "fin": 3.04
+    },
+    {
+      "texto": "Una",
+      "inicio": 3.08,
+      "fin": 3.2
+    },
+    {
+      "texto": "encuesta",
+      "inicio": 3.24,
+      "fin": 3.68
+    },
+    {
+      "texto": "de",
+      "inicio": 3.707,
+      "fin": 3.76
+    },
+    {
+      "texto": "la",
+      "inicio": 3.787,
+      "fin": 3.84
+    },
+    {
+      "texto": "empresa",
+      "inicio": 3.89,
+      "fin": 4.24
+    },
+    {
+      "texto": "de",
+      "inicio": 4.267,
+      "fin": 4.32
+    },
+    {
+      "texto": "software",
+      "inicio": 4.373,
+      "fin": 4.8
+    },
+    {
+      "texto": "DOSS,",
+      "inicio": 4.853,
+      "fin": 5.36
+    },
+    {
+      "texto": "con",
+      "inicio": 5.4,
+      "fin": 5.52
+    },
+    {
+      "texto": "más",
+      "inicio": 5.56,
+      "fin": 5.68
+    },
+    {
+      "texto": "de",
+      "inicio": 5.707,
+      "fin": 5.76
+    },
+    {
+      "texto": "mil",
+      "inicio": 5.8,
+      "fin": 5.92
+    },
+    {
+      "texto": "profesionales",
+      "inicio": 5.977,
+      "fin": 6.64
+    },
+    {
+      "texto": "de",
+      "inicio": 6.667,
+      "fin": 6.72
+    },
+    {
+      "texto": "operaciones",
+      "inicio": 6.752,
+      "fin": 7.28
+    },
+    {
+      "texto": "en",
+      "inicio": 7.307,
+      "fin": 7.36
+    },
+    {
+      "texto": "Estados",
+      "inicio": 7.41,
+      "fin": 7.76
+    },
+    {
+      "texto": "Unidos,",
+      "inicio": 7.817,
+      "fin": 8.32
+    },
+    {
+      "texto": "calculó",
+      "inicio": 8.434,
+      "fin": 9.2
+    },
+    {
+      "texto": "que",
+      "inicio": 9.22,
+      "fin": 9.28
+    },
+    {
+      "texto": "un",
+      "inicio": 9.307,
+      "fin": 9.36
+    },
+    {
+      "texto": "error",
+      "inicio": 9.413,
+      "fin": 9.68
+    },
+    {
+      "texto": "significativo",
+      "inicio": 9.733,
+      "fin": 10.48
+    },
+    {
+      "texto": "en",
+      "inicio": 10.533,
+      "fin": 10.64
+    },
+    {
+      "texto": "una",
+      "inicio": 10.68,
+      "fin": 10.8
+    },
+    {
+      "texto": "hoja",
+      "inicio": 10.853,
+      "fin": 11.04
+    },
+    {
+      "texto": "de",
+      "inicio": 11.067,
+      "fin": 11.12
+    },
+    {
+      "texto": "cálculo",
+      "inicio": 11.16,
+      "fin": 11.76
+    },
+    {
+      "texto": "cuesta",
+      "inicio": 11.88,
+      "fin": 12.24
+    },
+    {
+      "texto": "en",
+      "inicio": 12.267,
+      "fin": 12.32
+    },
+    {
+      "texto": "promedio",
+      "inicio": 12.368,
+      "fin": 12.8
+    },
+    {
+      "texto": "cuatro",
+      "inicio": 12.857,
+      "fin": 13.2
+    },
+    {
+      "texto": "mil",
+      "inicio": 13.26,
+      "fin": 13.44
+    },
+    {
+      "texto": "trescientos",
+      "inicio": 13.52,
+      "fin": 14.08
+    },
+    {
+      "texto": "quince",
+      "inicio": 14.16,
+      "fin": 14.56
+    },
+    {
+      "texto": "dólares.",
+      "inicio": 14.64,
+      "fin": 15.76
+    },
+    {
+      "texto": "Además,",
+      "inicio": 15.817,
+      "fin": 16.48
+    },
+    {
+      "texto": "esas",
+      "inicio": 16.528,
+      "fin": 16.72
+    },
+    {
+      "texto": "personas",
+      "inicio": 16.764,
+      "fin": 17.12
+    },
+    {
+      "texto": "pierden",
+      "inicio": 17.152,
+      "fin": 17.44
+    },
+    {
+      "texto": "casi",
+      "inicio": 17.488,
+      "fin": 17.68
+    },
+    {
+      "texto": "cuatro",
+      "inicio": 17.737,
+      "fin": 18.08
+    },
+    {
+      "texto": "horas",
+      "inicio": 18.133,
+      "fin": 18.4
+    },
+    {
+      "texto": "a",
+      "inicio": 18.44,
+      "fin": 18.48
+    },
+    {
+      "texto": "la",
+      "inicio": 18.507,
+      "fin": 18.56
+    },
+    {
+      "texto": "semana",
+      "inicio": 18.629,
+      "fin": 19.04
+    },
+    {
+      "texto": "corrigiendo",
+      "inicio": 19.1,
+      "fin": 19.68
+    },
+    {
+      "texto": "hojas.",
+      "inicio": 19.707,
+      "fin": 20.16
+    },
+    {
+      "texto": "Y",
+      "inicio": 20.44,
+      "fin": 20.72
+    },
+    {
+      "texto": "lo",
+      "inicio": 20.747,
+      "fin": 20.8
+    },
+    {
+      "texto": "más",
+      "inicio": 20.84,
+      "fin": 20.96
+    },
+    {
+      "texto": "preocupante:",
+      "inicio": 21.0,
+      "fin": 21.68
+    },
+    {
+      "texto": "dos",
+      "inicio": 21.88,
+      "fin": 22.48
+    },
+    {
+      "texto": "de",
+      "inicio": 22.533,
+      "fin": 22.64
+    },
+    {
+      "texto": "cada",
+      "inicio": 22.688,
+      "fin": 22.88
+    },
+    {
+      "texto": "cinco",
+      "inicio": 22.947,
+      "fin": 23.28
+    },
+    {
+      "texto": "errores",
+      "inicio": 23.33,
+      "fin": 23.68
+    },
+    {
+      "texto": "se",
+      "inicio": 23.813,
+      "fin": 24.08
+    },
+    {
+      "texto": "corrigen",
+      "inicio": 24.128,
+      "fin": 24.56
+    },
+    {
+      "texto": "sin",
+      "inicio": 24.62,
+      "fin": 24.8
+    },
+    {
+      "texto": "que",
+      "inicio": 24.84,
+      "fin": 24.96
+    },
+    {
+      "texto": "nadie",
+      "inicio": 25.02,
+      "fin": 25.36
+    },
+    {
+      "texto": "se",
+      "inicio": 25.413,
+      "fin": 25.52
+    },
+    {
+      "texto": "entere.",
+      "inicio": 25.56,
+      "fin": 26.0
+    }
+  ]
+}

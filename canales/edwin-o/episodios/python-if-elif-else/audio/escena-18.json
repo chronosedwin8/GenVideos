@@ -1,0 +1,345 @@
+{
+  "num": "18",
+  "titulo": "Resumen y siguiente video",
+  "texto": "En resumen: if pregunta, elif pregunta otra cosa si la primera fue falsa, y else atrapa todo lo demás. Dos puntos, sangría, y de la condición más exigente a la menos exigente. En el próximo video juntamos los dos mundos: vas a usar Python dentro de Excel, con la función P Y. Suscríbete para no perdértelo. El poder de la tecnología te va a cambiar el mundo.",
+  "texto_tts": "En resumen: if pregunta, elif pregunta otra cosa si la primera fue falsa, y else atrapa todo lo demás. Dos puntos, sangría, y de la condición más exigente a la menos exigente. En el próximo video juntamos los dos mundos: vas a usar Python dentro de Excel, con la función P Y. Suscríbete para no perdértelo. [excited] El poder de la tecnología te va a cambiar el mundo.",
+  "modelo": "eleven_v3",
+  "duracion": 32.566,
+  "palabras": [
+    {
+      "texto": "En",
+      "inicio": 0.0,
+      "fin": 0.16
+    },
+    {
+      "texto": "resumen:",
+      "inicio": 0.22,
+      "fin": 0.88
+    },
+    {
+      "texto": "if",
+      "inicio": 1.12,
+      "fin": 1.6
+    },
+    {
+      "texto": "pregunta,",
+      "inicio": 1.689,
+      "fin": 2.48
+    },
+    {
+      "texto": "elif",
+      "inicio": 2.656,
+      "fin": 3.36
+    },
+    {
+      "texto": "pregunta",
+      "inicio": 3.431,
+      "fin": 4.0
+    },
+    {
+      "texto": "otra",
+      "inicio": 4.096,
+      "fin": 4.48
+    },
+    {
+      "texto": "cosa",
+      "inicio": 4.576,
+      "fin": 4.96
+    },
+    {
+      "texto": "si",
+      "inicio": 5.12,
+      "fin": 5.44
+    },
+    {
+      "texto": "la",
+      "inicio": 5.467,
+      "fin": 5.52
+    },
+    {
+      "texto": "primera",
+      "inicio": 5.58,
+      "fin": 6.0
+    },
+    {
+      "texto": "fue",
+      "inicio": 6.06,
+      "fin": 6.24
+    },
+    {
+      "texto": "falsa,",
+      "inicio": 6.32,
+      "fin": 6.8
+    },
+    {
+      "texto": "y",
+      "inicio": 7.12,
+      "fin": 7.44
+    },
+    {
+      "texto": "else",
+      "inicio": 7.536,
+      "fin": 7.92
+    },
+    {
+      "texto": "atrapa",
+      "inicio": 8.06,
+      "fin": 8.72
+    },
+    {
+      "texto": "todo",
+      "inicio": 8.8,
+      "fin": 9.12
+    },
+    {
+      "texto": "lo",
+      "inicio": 9.173,
+      "fin": 9.28
+    },
+    {
+      "texto": "demás.",
+      "inicio": 9.34,
+      "fin": 10.16
+    },
+    {
+      "texto": "Dos",
+      "inicio": 10.24,
+      "fin": 10.48
+    },
+    {
+      "texto": "puntos,",
+      "inicio": 10.571,
+      "fin": 11.52
+    },
+    {
+      "texto": "sangría,",
+      "inicio": 11.6,
+      "fin": 12.32
+    },
+    {
+      "texto": "y",
+      "inicio": 12.64,
+      "fin": 12.96
+    },
+    {
+      "texto": "de",
+      "inicio": 13.013,
+      "fin": 13.12
+    },
+    {
+      "texto": "la",
+      "inicio": 13.147,
+      "fin": 13.2
+    },
+    {
+      "texto": "condición",
+      "inicio": 13.248,
+      "fin": 13.84
+    },
+    {
+      "texto": "más",
+      "inicio": 13.94,
+      "fin": 14.24
+    },
+    {
+      "texto": "exigente",
+      "inicio": 14.304,
+      "fin": 14.96
+    },
+    {
+      "texto": "a",
+      "inicio": 15.16,
+      "fin": 15.36
+    },
+    {
+      "texto": "la",
+      "inicio": 15.387,
+      "fin": 15.44
+    },
+    {
+      "texto": "menos",
+      "inicio": 15.507,
+      "fin": 15.84
+    },
+    {
+      "texto": "exigente.",
+      "inicio": 15.92,
+      "fin": 16.64
+    },
+    {
+      "texto": "En",
+      "inicio": 16.987,
+      "fin": 17.68
+    },
+    {
+      "texto": "el",
+      "inicio": 17.707,
+      "fin": 17.76
+    },
+    {
+      "texto": "próximo",
+      "inicio": 17.82,
+      "fin": 18.24
+    },
+    {
+      "texto": "video",
+      "inicio": 18.32,
+      "fin": 18.72
+    },
+    {
+      "texto": "juntamos",
+      "inicio": 18.84,
+      "fin": 19.44
+    },
+    {
+      "texto": "los",
+      "inicio": 19.48,
+      "fin": 19.6
+    },
+    {
+      "texto": "dos",
+      "inicio": 19.64,
+      "fin": 19.76
+    },
+    {
+      "texto": "mundos:",
+      "inicio": 19.84,
+      "fin": 20.88
+    },
+    {
+      "texto": "vas",
+      "inicio": 20.94,
+      "fin": 21.12
+    },
+    {
+      "texto": "a",
+      "inicio": 21.16,
+      "fin": 21.2
+    },
+    {
+      "texto": "usar",
+      "inicio": 21.248,
+      "fin": 21.44
+    },
+    {
+      "texto": "Python",
+      "inicio": 21.531,
+      "fin": 22.08
+    },
+    {
+      "texto": "dentro",
+      "inicio": 22.16,
+      "fin": 22.64
+    },
+    {
+      "texto": "de",
+      "inicio": 22.667,
+      "fin": 22.72
+    },
+    {
+      "texto": "Excel,",
+      "inicio": 22.8,
+      "fin": 23.28
+    },
+    {
+      "texto": "con",
+      "inicio": 23.38,
+      "fin": 23.68
+    },
+    {
+      "texto": "la",
+      "inicio": 23.707,
+      "fin": 23.76
+    },
+    {
+      "texto": "función",
+      "inicio": 23.83,
+      "fin": 24.32
+    },
+    {
+      "texto": "P",
+      "inicio": 24.6,
+      "fin": 24.88
+    },
+    {
+      "texto": "Y.",
+      "inicio": 25.16,
+      "fin": 26.0
+    },
+    {
+      "texto": "Suscríbete",
+      "inicio": 26.18,
+      "fin": 27.2
+    },
+    {
+      "texto": "para",
+      "inicio": 27.28,
+      "fin": 27.6
+    },
+    {
+      "texto": "no",
+      "inicio": 27.653,
+      "fin": 27.76
+    },
+    {
+      "texto": "perdértelo.",
+      "inicio": 27.808,
+      "fin": 28.48
+    },
+    {
+      "texto": "El",
+      "inicio": 29.153,
+      "fin": 29.206
+    },
+    {
+      "texto": "poder",
+      "inicio": 29.273,
+      "fin": 29.606
+    },
+    {
+      "texto": "de",
+      "inicio": 29.659,
+      "fin": 29.766
+    },
+    {
+      "texto": "la",
+      "inicio": 29.793,
+      "fin": 29.846
+    },
+    {
+      "texto": "tecnología",
+      "inicio": 29.894,
+      "fin": 30.646
+    },
+    {
+      "texto": "te",
+      "inicio": 30.779,
+      "fin": 31.046
+    },
+    {
+      "texto": "va",
+      "inicio": 31.073,
+      "fin": 31.126
+    },
+    {
+      "texto": "a",
+      "inicio": 31.166,
+      "fin": 31.206
+    },
+    {
+      "texto": "cambiar",
+      "inicio": 31.256,
+      "fin": 31.606
+    },
+    {
+      "texto": "el",
+      "inicio": 31.659,
+      "fin": 31.766
+    },
+    {
+      "texto": "mundo.",
+      "inicio": 31.846,
+      "fin": 32.566
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "num": "01",
+  "titulo": "Gancho",
+  "texto": "¿Cada lunes filtras, copias y pegas el mismo reporte? Mira esto: una sola fórmula, y Excel te trae solo las ventas de la región Norte. Y si mañana cambian los datos, el reporte se actualiza solo.",
+  "texto_tts": "[curious] ¿Cada lunes filtras, copias y pegas el mismo reporte? [excited] Mira esto: una sola fórmula, y Excel te trae solo las ventas de la región Norte. Y si mañana cambian los datos, el reporte se actualiza solo.",
+  "modelo": "eleven_v3",
+  "duracion": 13.845,
+  "palabras": [
+    {
+      "texto": "¿Cada",
+      "inicio": 0.056,
+      "fin": 0.16
+    },
+    {
+      "texto": "lunes",
+      "inicio": 0.24,
+      "fin": 0.72
+    },
+    {
+      "texto": "filtras,",
+      "inicio": 0.86,
+      "fin": 1.76
+    },
+    {
+      "texto": "copias",
+      "inicio": 1.82,
+      "fin": 2.24
+    },
+    {
+      "texto": "y",
+      "inicio": 2.32,
+      "fin": 2.4
+    },
+    {
+      "texto": "pegas",
+      "inicio": 2.48,
+      "fin": 2.88
+    },
+    {
+      "texto": "el",
+      "inicio": 2.907,
+      "fin": 2.96
+    },
+    {
+      "texto": "mismo",
+      "inicio": 3.0,
+      "fin": 3.2
+    },
+    {
+      "texto": "reporte?",
+      "inicio": 3.28,
+      "fin": 3.92
+    },
+    {
+      "texto": "Mira",
+      "inicio": 4.805,
+      "fin": 4.885
+    },
+    {
+      "texto": "esto:",
+      "inicio": 4.949,
+      "fin": 5.365
+    },
+    {
+      "texto": "una",
+      "inicio": 5.525,
+      "fin": 6.005
+    },
+    {
+      "texto": "sola",
+      "inicio": 6.053,
+      "fin": 6.245
+    },
+    {
+      "texto": "fórmula,",
+      "inicio": 6.325,
+      "fin": 7.045
+    },
+    {
+      "texto": "y",
+      "inicio": 7.085,
+      "fin": 7.125
+    },
+    {
+      "texto": "Excel",
+      "inicio": 7.192,
+      "fin": 7.525
+    },
+    {
+      "texto": "te",
+      "inicio": 7.578,
+      "fin": 7.685
+    },
+    {
+      "texto": "trae",
+      "inicio": 7.738,
+      "fin": 8.005
+    },
+    {
+      "texto": "solo",
+      "inicio": 8.101,
+      "fin": 8.485
+    },
+    {
+      "texto": "las",
+      "inicio": 8.525,
+      "fin": 8.645
+    },
+    {
+      "texto": "ventas",
+      "inicio": 8.702,
+      "fin": 9.045
+    },
+    {
+      "texto": "de",
+      "inicio": 9.072,
+      "fin": 9.125
+    },
+    {
+      "texto": "la",
+      "inicio": 9.152,
+      "fin": 9.205
+    },
+    {
+      "texto": "región",
+      "inicio": 9.265,
+      "fin": 9.525
+    },
+    {
+      "texto": "Norte.",
+      "inicio": 9.605,
+      "fin": 10.165
+    },
+    {
+      "texto": "Y",
+      "inicio": 10.405,
+      "fin": 10.645
+    },
+    {
+      "texto": "si",
+      "inicio": 10.672,
+      "fin": 10.725
+    },
+    {
+      "texto": "mañana",
+      "inicio": 10.782,
+      "fin": 11.125
+    },
+    {
+      "texto": "cambian",
+      "inicio": 11.173,
+      "fin": 11.445
+    },
+    {
+      "texto": "los",
+      "inicio": 11.485,
+      "fin": 11.605
+    },
+    {
+      "texto": "datos,",
+      "inicio": 11.685,
+      "fin": 12.245
+    },
+    {
+      "texto": "el",
+      "inicio": 12.298,
+      "fin": 12.405
+    },
+    {
+      "texto": "reporte",
+      "inicio": 12.451,
+      "fin": 12.805
+    },
+    {
+      "texto": "se",
+      "inicio": 12.832,
+      "fin": 12.885
+    },
+    {
+      "texto": "actualiza",
+      "inicio": 12.931,
+      "fin": 13.445
+    },
+    {
+      "texto": "solo.",
+      "inicio": 13.509,
+      "fin": 13.845
+    }
+  ]
+}

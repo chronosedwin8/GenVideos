@@ -1,0 +1,320 @@
+{
+  "num": "22",
+  "titulo": "Resumen y siguiente video",
+  "texto": "En resumen: la IA escribe, tú verificas. Usa el prompt de cinco partes, y prueba siempre los límites. En el próximo video te muestro siete funciones de Excel que te ahorran horas de trabajo, y que muchas veces son justo lo que la IA te debería sugerir. Suscríbete para no perdértelo. El poder de la tecnología te va a cambiar el mundo.",
+  "texto_tts": "En resumen: la IA escribe, tú verificas. Usa el prompt de cinco partes, y prueba siempre los límites. En el próximo video te muestro siete funciones de Excel que te ahorran horas de trabajo, y que muchas veces son justo lo que la IA te debería sugerir. Suscríbete para no perdértelo. [excited] El poder de la tecnología te va a cambiar el mundo.",
+  "modelo": "eleven_v3",
+  "duracion": 26.005,
+  "palabras": [
+    {
+      "texto": "En",
+      "inicio": 0.0,
+      "fin": 0.16
+    },
+    {
+      "texto": "resumen:",
+      "inicio": 0.22,
+      "fin": 1.2
+    },
+    {
+      "texto": "la",
+      "inicio": 1.333,
+      "fin": 1.6
+    },
+    {
+      "texto": "IA",
+      "inicio": 1.68,
+      "fin": 1.84
+    },
+    {
+      "texto": "escribe,",
+      "inicio": 1.893,
+      "fin": 2.48
+    },
+    {
+      "texto": "tú",
+      "inicio": 2.667,
+      "fin": 3.04
+    },
+    {
+      "texto": "verificas.",
+      "inicio": 3.08,
+      "fin": 3.84
+    },
+    {
+      "texto": "Usa",
+      "inicio": 4.08,
+      "fin": 4.8
+    },
+    {
+      "texto": "el",
+      "inicio": 4.827,
+      "fin": 4.88
+    },
+    {
+      "texto": "prompt",
+      "inicio": 4.926,
+      "fin": 5.2
+    },
+    {
+      "texto": "de",
+      "inicio": 5.253,
+      "fin": 5.36
+    },
+    {
+      "texto": "cinco",
+      "inicio": 5.427,
+      "fin": 5.76
+    },
+    {
+      "texto": "partes,",
+      "inicio": 5.84,
+      "fin": 6.48
+    },
+    {
+      "texto": "y",
+      "inicio": 6.68,
+      "fin": 6.88
+    },
+    {
+      "texto": "prueba",
+      "inicio": 6.937,
+      "fin": 7.28
+    },
+    {
+      "texto": "siempre",
+      "inicio": 7.33,
+      "fin": 7.68
+    },
+    {
+      "texto": "los",
+      "inicio": 7.74,
+      "fin": 7.92
+    },
+    {
+      "texto": "límites.",
+      "inicio": 8.0,
+      "fin": 9.0
+    },
+    {
+      "texto": "En",
+      "inicio": 9.147,
+      "fin": 9.44
+    },
+    {
+      "texto": "el",
+      "inicio": 9.493,
+      "fin": 9.6
+    },
+    {
+      "texto": "próximo",
+      "inicio": 9.65,
+      "fin": 10.0
+    },
+    {
+      "texto": "video",
+      "inicio": 10.067,
+      "fin": 10.4
+    },
+    {
+      "texto": "te",
+      "inicio": 10.48,
+      "fin": 10.64
+    },
+    {
+      "texto": "muestro",
+      "inicio": 10.72,
+      "fin": 11.12
+    },
+    {
+      "texto": "siete",
+      "inicio": 11.2,
+      "fin": 11.44
+    },
+    {
+      "texto": "funciones",
+      "inicio": 11.496,
+      "fin": 12.0
+    },
+    {
+      "texto": "de",
+      "inicio": 12.027,
+      "fin": 12.08
+    },
+    {
+      "texto": "Excel",
+      "inicio": 12.147,
+      "fin": 12.48
+    },
+    {
+      "texto": "que",
+      "inicio": 12.62,
+      "fin": 13.04
+    },
+    {
+      "texto": "te",
+      "inicio": 13.067,
+      "fin": 13.12
+    },
+    {
+      "texto": "ahorran",
+      "inicio": 13.16,
+      "fin": 13.52
+    },
+    {
+      "texto": "horas",
+      "inicio": 13.587,
+      "fin": 13.92
+    },
+    {
+      "texto": "de",
+      "inicio": 13.947,
+      "fin": 14.0
+    },
+    {
+      "texto": "trabajo,",
+      "inicio": 14.07,
+      "fin": 14.64
+    },
+    {
+      "texto": "y",
+      "inicio": 14.8,
+      "fin": 14.96
+    },
+    {
+      "texto": "que",
+      "inicio": 15.0,
+      "fin": 15.12
+    },
+    {
+      "texto": "muchas",
+      "inicio": 15.177,
+      "fin": 15.52
+    },
+    {
+      "texto": "veces",
+      "inicio": 15.6,
+      "fin": 16.0
+    },
+    {
+      "texto": "son",
+      "inicio": 16.14,
+      "fin": 16.56
+    },
+    {
+      "texto": "justo",
+      "inicio": 16.64,
+      "fin": 17.04
+    },
+    {
+      "texto": "lo",
+      "inicio": 17.067,
+      "fin": 17.12
+    },
+    {
+      "texto": "que",
+      "inicio": 17.16,
+      "fin": 17.28
+    },
+    {
+      "texto": "la",
+      "inicio": 17.333,
+      "fin": 17.44
+    },
+    {
+      "texto": "IA",
+      "inicio": 17.547,
+      "fin": 17.76
+    },
+    {
+      "texto": "te",
+      "inicio": 17.813,
+      "fin": 17.92
+    },
+    {
+      "texto": "debería",
+      "inicio": 17.973,
+      "fin": 18.32
+    },
+    {
+      "texto": "sugerir.",
+      "inicio": 18.373,
+      "fin": 18.96
+    },
+    {
+      "texto": "Suscríbete",
+      "inicio": 19.16,
+      "fin": 20.16
+    },
+    {
+      "texto": "para",
+      "inicio": 20.208,
+      "fin": 20.4
+    },
+    {
+      "texto": "no",
+      "inicio": 20.453,
+      "fin": 20.56
+    },
+    {
+      "texto": "perdértelo.",
+      "inicio": 20.608,
+      "fin": 21.36
+    },
+    {
+      "texto": "El",
+      "inicio": 22.138,
+      "fin": 22.165
+    },
+    {
+      "texto": "poder",
+      "inicio": 22.232,
+      "fin": 22.565
+    },
+    {
+      "texto": "de",
+      "inicio": 22.592,
+      "fin": 22.645
+    },
+    {
+      "texto": "la",
+      "inicio": 22.698,
+      "fin": 22.805
+    },
+    {
+      "texto": "tecnología",
+      "inicio": 22.853,
+      "fin": 23.765
+    },
+    {
+      "texto": "te",
+      "inicio": 23.845,
+      "fin": 24.005
+    },
+    {
+      "texto": "va",
+      "inicio": 24.058,
+      "fin": 24.165
+    },
+    {
+      "texto": "a",
+      "inicio": 24.325,
+      "fin": 24.485
+    },
+    {
+      "texto": "cambiar",
+      "inicio": 24.545,
+      "fin": 24.965
+    },
+    {
+      "texto": "el",
+      "inicio": 25.098,
+      "fin": 25.365
+    },
+    {
+      "texto": "mundo.",
+      "inicio": 25.445,
+      "fin": 26.005
+    }
+  ]
+}

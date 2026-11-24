@@ -1,0 +1,345 @@
+{
+  "num": "15",
+  "titulo": "Bonus: los números escondidos en las fórmulas",
+  "texto": "Y un bonus, porque este error lo cometen hasta los que se creen expertos: escribir números fijos dentro de las fórmulas. Por ejemplo, B dos por uno coma diecinueve. Funciona… hasta que cambia el IVA, y tienes que buscar y corregir cien fórmulas. Pon siempre esos valores en una celda aparte, con su título, y haz referencia a ella. Así cambias un dato, y todo se actualiza.",
+  "texto_tts": "Y un bonus, porque este error lo cometen hasta los que se creen expertos: escribir números fijos dentro de las fórmulas. Por ejemplo, B dos por uno coma diecinueve. Funciona… hasta que cambia el IVA, y tienes que buscar y corregir cien fórmulas. Pon siempre esos valores en una celda aparte, con su título, y haz referencia a ella. Así cambias un dato, y todo se actualiza.",
+  "modelo": "eleven_v3",
+  "duracion": 32.16,
+  "palabras": [
+    {
+      "texto": "Y",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "un",
+      "inicio": 0.133,
+      "fin": 0.24
+    },
+    {
+      "texto": "bonus,",
+      "inicio": 0.32,
+      "fin": 1.0
+    },
+    {
+      "texto": "porque",
+      "inicio": 1.04,
+      "fin": 1.28
+    },
+    {
+      "texto": "este",
+      "inicio": 1.328,
+      "fin": 1.52
+    },
+    {
+      "texto": "error",
+      "inicio": 1.587,
+      "fin": 1.92
+    },
+    {
+      "texto": "lo",
+      "inicio": 2.08,
+      "fin": 2.4
+    },
+    {
+      "texto": "cometen",
+      "inicio": 2.44,
+      "fin": 2.96
+    },
+    {
+      "texto": "hasta",
+      "inicio": 3.027,
+      "fin": 3.36
+    },
+    {
+      "texto": "los",
+      "inicio": 3.4,
+      "fin": 3.52
+    },
+    {
+      "texto": "que",
+      "inicio": 3.54,
+      "fin": 3.6
+    },
+    {
+      "texto": "se",
+      "inicio": 3.653,
+      "fin": 3.76
+    },
+    {
+      "texto": "creen",
+      "inicio": 3.82,
+      "fin": 4.08
+    },
+    {
+      "texto": "expertos:",
+      "inicio": 4.16,
+      "fin": 5.68
+    },
+    {
+      "texto": "escribir",
+      "inicio": 5.747,
+      "fin": 6.32
+    },
+    {
+      "texto": "números",
+      "inicio": 6.4,
+      "fin": 6.96
+    },
+    {
+      "texto": "fijos",
+      "inicio": 7.04,
+      "fin": 7.52
+    },
+    {
+      "texto": "dentro",
+      "inicio": 7.611,
+      "fin": 8.16
+    },
+    {
+      "texto": "de",
+      "inicio": 8.213,
+      "fin": 8.32
+    },
+    {
+      "texto": "las",
+      "inicio": 8.34,
+      "fin": 8.4
+    },
+    {
+      "texto": "fórmulas.",
+      "inicio": 8.48,
+      "fin": 9.44
+    },
+    {
+      "texto": "Por",
+      "inicio": 9.58,
+      "fin": 10.0
+    },
+    {
+      "texto": "ejemplo,",
+      "inicio": 10.07,
+      "fin": 10.64
+    },
+    {
+      "texto": "B",
+      "inicio": 10.92,
+      "fin": 11.2
+    },
+    {
+      "texto": "dos",
+      "inicio": 11.3,
+      "fin": 11.6
+    },
+    {
+      "texto": "por",
+      "inicio": 11.76,
+      "fin": 12.24
+    },
+    {
+      "texto": "uno",
+      "inicio": 12.34,
+      "fin": 12.64
+    },
+    {
+      "texto": "coma",
+      "inicio": 12.704,
+      "fin": 12.96
+    },
+    {
+      "texto": "diecinueve.",
+      "inicio": 13.02,
+      "fin": 14.0
+    },
+    {
+      "texto": "Funciona…",
+      "inicio": 14.208,
+      "fin": 15.44
+    },
+    {
+      "texto": "hasta",
+      "inicio": 15.627,
+      "fin": 16.56
+    },
+    {
+      "texto": "que",
+      "inicio": 16.58,
+      "fin": 16.64
+    },
+    {
+      "texto": "cambia",
+      "inicio": 16.704,
+      "fin": 17.04
+    },
+    {
+      "texto": "el",
+      "inicio": 17.067,
+      "fin": 17.12
+    },
+    {
+      "texto": "IVA,",
+      "inicio": 17.2,
+      "fin": 18.08
+    },
+    {
+      "texto": "y",
+      "inicio": 18.16,
+      "fin": 18.24
+    },
+    {
+      "texto": "tienes",
+      "inicio": 18.263,
+      "fin": 18.4
+    },
+    {
+      "texto": "que",
+      "inicio": 18.44,
+      "fin": 18.56
+    },
+    {
+      "texto": "buscar",
+      "inicio": 18.617,
+      "fin": 18.96
+    },
+    {
+      "texto": "y",
+      "inicio": 19.02,
+      "fin": 19.08
+    },
+    {
+      "texto": "corregir",
+      "inicio": 19.11,
+      "fin": 19.52
+    },
+    {
+      "texto": "cien",
+      "inicio": 19.76,
+      "fin": 20.16
+    },
+    {
+      "texto": "fórmulas.",
+      "inicio": 20.24,
+      "fin": 20.96
+    },
+    {
+      "texto": "Pon",
+      "inicio": 21.26,
+      "fin": 22.16
+    },
+    {
+      "texto": "siempre",
+      "inicio": 22.22,
+      "fin": 22.64
+    },
+    {
+      "texto": "esos",
+      "inicio": 22.72,
+      "fin": 23.04
+    },
+    {
+      "texto": "valores",
+      "inicio": 23.11,
+      "fin": 23.6
+    },
+    {
+      "texto": "en",
+      "inicio": 23.68,
+      "fin": 23.84
+    },
+    {
+      "texto": "una",
+      "inicio": 23.9,
+      "fin": 24.08
+    },
+    {
+      "texto": "celda",
+      "inicio": 24.12,
+      "fin": 24.48
+    },
+    {
+      "texto": "aparte,",
+      "inicio": 24.547,
+      "fin": 25.36
+    },
+    {
+      "texto": "con",
+      "inicio": 25.4,
+      "fin": 25.52
+    },
+    {
+      "texto": "su",
+      "inicio": 25.6,
+      "fin": 25.76
+    },
+    {
+      "texto": "título,",
+      "inicio": 25.829,
+      "fin": 26.64
+    },
+    {
+      "texto": "y",
+      "inicio": 26.72,
+      "fin": 26.8
+    },
+    {
+      "texto": "haz",
+      "inicio": 26.82,
+      "fin": 26.88
+    },
+    {
+      "texto": "referencia",
+      "inicio": 26.945,
+      "fin": 27.6
+    },
+    {
+      "texto": "a",
+      "inicio": 27.7,
+      "fin": 27.8
+    },
+    {
+      "texto": "ella.",
+      "inicio": 27.84,
+      "fin": 28.24
+    },
+    {
+      "texto": "Así",
+      "inicio": 28.48,
+      "fin": 29.04
+    },
+    {
+      "texto": "cambias",
+      "inicio": 29.104,
+      "fin": 29.6
+    },
+    {
+      "texto": "un",
+      "inicio": 29.68,
+      "fin": 29.84
+    },
+    {
+      "texto": "dato,",
+      "inicio": 29.936,
+      "fin": 30.4
+    },
+    {
+      "texto": "y",
+      "inicio": 30.6,
+      "fin": 30.8
+    },
+    {
+      "texto": "todo",
+      "inicio": 30.88,
+      "fin": 31.2
+    },
+    {
+      "texto": "se",
+      "inicio": 31.227,
+      "fin": 31.28
+    },
+    {
+      "texto": "actualiza.",
+      "inicio": 31.326,
+      "fin": 32.16
+    }
+  ]
+}

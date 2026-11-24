@@ -1,0 +1,355 @@
+{
+  "num": "15",
+  "titulo": "Un mini tablero en tres fórmulas",
+  "texto": "Ahora junta todo. En una hoja nueva llamada Tablero, pon tres fórmulas: el resumen por región, la matriz por mes con PIVOTARPOR, y el resumen filtrado de febrero. Tres fórmulas, tres bloques de información. Y cuando alguien cambia un dato en la hoja de ventas, los tres bloques se actualizan al mismo tiempo. Acabas de construir un mini tablero de control, sin una sola tabla dinámica y sin macros.",
+  "texto_tts": "Ahora junta todo. En una hoja nueva llamada Tablero, pon tres fórmulas: el resumen por región, la matriz por mes con PIVOTARPOR, y el resumen filtrado de febrero. Tres fórmulas, tres bloques de información. Y cuando alguien cambia un dato en la hoja de ventas, los tres bloques se actualizan al mismo tiempo. Acabas de construir un mini tablero de control, sin una sola tabla dinámica y sin macros.",
+  "modelo": "eleven_v3",
+  "duracion": 29.12,
+  "palabras": [
+    {
+      "texto": "Ahora",
+      "inicio": 0.0,
+      "fin": 0.24
+    },
+    {
+      "texto": "junta",
+      "inicio": 0.3,
+      "fin": 0.64
+    },
+    {
+      "texto": "todo.",
+      "inicio": 0.704,
+      "fin": 1.04
+    },
+    {
+      "texto": "En",
+      "inicio": 1.147,
+      "fin": 1.36
+    },
+    {
+      "texto": "una",
+      "inicio": 1.42,
+      "fin": 1.6
+    },
+    {
+      "texto": "hoja",
+      "inicio": 1.653,
+      "fin": 1.84
+    },
+    {
+      "texto": "nueva",
+      "inicio": 1.933,
+      "fin": 2.4
+    },
+    {
+      "texto": "llamada",
+      "inicio": 2.512,
+      "fin": 3.2
+    },
+    {
+      "texto": "Tablero,",
+      "inicio": 3.28,
+      "fin": 4.72
+    },
+    {
+      "texto": "pon",
+      "inicio": 4.78,
+      "fin": 4.96
+    },
+    {
+      "texto": "tres",
+      "inicio": 5.008,
+      "fin": 5.2
+    },
+    {
+      "texto": "fórmulas:",
+      "inicio": 5.28,
+      "fin": 6.32
+    },
+    {
+      "texto": "el",
+      "inicio": 6.347,
+      "fin": 6.4
+    },
+    {
+      "texto": "resumen",
+      "inicio": 6.48,
+      "fin": 6.88
+    },
+    {
+      "texto": "por",
+      "inicio": 6.92,
+      "fin": 7.04
+    },
+    {
+      "texto": "región,",
+      "inicio": 7.12,
+      "fin": 7.76
+    },
+    {
+      "texto": "la",
+      "inicio": 7.92,
+      "fin": 8.24
+    },
+    {
+      "texto": "matriz",
+      "inicio": 8.297,
+      "fin": 8.64
+    },
+    {
+      "texto": "por",
+      "inicio": 8.68,
+      "fin": 8.8
+    },
+    {
+      "texto": "mes",
+      "inicio": 8.9,
+      "fin": 9.2
+    },
+    {
+      "texto": "con",
+      "inicio": 9.26,
+      "fin": 9.44
+    },
+    {
+      "texto": "PIVOTARPOR,",
+      "inicio": 9.52,
+      "fin": 10.56
+    },
+    {
+      "texto": "y",
+      "inicio": 10.84,
+      "fin": 11.12
+    },
+    {
+      "texto": "el",
+      "inicio": 11.147,
+      "fin": 11.2
+    },
+    {
+      "texto": "resumen",
+      "inicio": 11.24,
+      "fin": 11.6
+    },
+    {
+      "texto": "filtrado",
+      "inicio": 11.667,
+      "fin": 12.16
+    },
+    {
+      "texto": "de",
+      "inicio": 12.187,
+      "fin": 12.24
+    },
+    {
+      "texto": "febrero.",
+      "inicio": 12.32,
+      "fin": 12.88
+    },
+    {
+      "texto": "Tres",
+      "inicio": 13.28,
+      "fin": 13.84
+    },
+    {
+      "texto": "fórmulas,",
+      "inicio": 13.88,
+      "fin": 14.88
+    },
+    {
+      "texto": "tres",
+      "inicio": 14.928,
+      "fin": 15.12
+    },
+    {
+      "texto": "bloques",
+      "inicio": 15.18,
+      "fin": 15.52
+    },
+    {
+      "texto": "de",
+      "inicio": 15.547,
+      "fin": 15.6
+    },
+    {
+      "texto": "información.",
+      "inicio": 15.66,
+      "fin": 16.4
+    },
+    {
+      "texto": "Y",
+      "inicio": 16.8,
+      "fin": 17.2
+    },
+    {
+      "texto": "cuando",
+      "inicio": 17.234,
+      "fin": 17.44
+    },
+    {
+      "texto": "alguien",
+      "inicio": 17.49,
+      "fin": 17.84
+    },
+    {
+      "texto": "cambia",
+      "inicio": 17.888,
+      "fin": 18.16
+    },
+    {
+      "texto": "un",
+      "inicio": 18.213,
+      "fin": 18.32
+    },
+    {
+      "texto": "dato",
+      "inicio": 18.384,
+      "fin": 18.64
+    },
+    {
+      "texto": "en",
+      "inicio": 18.667,
+      "fin": 18.72
+    },
+    {
+      "texto": "la",
+      "inicio": 18.747,
+      "fin": 18.8
+    },
+    {
+      "texto": "hoja",
+      "inicio": 18.853,
+      "fin": 19.04
+    },
+    {
+      "texto": "de",
+      "inicio": 19.067,
+      "fin": 19.12
+    },
+    {
+      "texto": "ventas,",
+      "inicio": 19.2,
+      "fin": 20.08
+    },
+    {
+      "texto": "los",
+      "inicio": 20.12,
+      "fin": 20.24
+    },
+    {
+      "texto": "tres",
+      "inicio": 20.304,
+      "fin": 20.56
+    },
+    {
+      "texto": "bloques",
+      "inicio": 20.6,
+      "fin": 20.96
+    },
+    {
+      "texto": "se",
+      "inicio": 20.987,
+      "fin": 21.04
+    },
+    {
+      "texto": "actualizan",
+      "inicio": 21.086,
+      "fin": 21.52
+    },
+    {
+      "texto": "al",
+      "inicio": 21.573,
+      "fin": 21.68
+    },
+    {
+      "texto": "mismo",
+      "inicio": 21.72,
+      "fin": 21.92
+    },
+    {
+      "texto": "tiempo.",
+      "inicio": 21.989,
+      "fin": 22.84
+    },
+    {
+      "texto": "Acabas",
+      "inicio": 22.987,
+      "fin": 23.44
+    },
+    {
+      "texto": "de",
+      "inicio": 23.467,
+      "fin": 23.52
+    },
+    {
+      "texto": "construir",
+      "inicio": 23.566,
+      "fin": 24.08
+    },
+    {
+      "texto": "un",
+      "inicio": 24.187,
+      "fin": 24.4
+    },
+    {
+      "texto": "mini",
+      "inicio": 24.464,
+      "fin": 24.72
+    },
+    {
+      "texto": "tablero",
+      "inicio": 24.78,
+      "fin": 25.2
+    },
+    {
+      "texto": "de",
+      "inicio": 25.227,
+      "fin": 25.28
+    },
+    {
+      "texto": "control,",
+      "inicio": 25.34,
+      "fin": 26.24
+    },
+    {
+      "texto": "sin",
+      "inicio": 26.3,
+      "fin": 26.48
+    },
+    {
+      "texto": "una",
+      "inicio": 26.54,
+      "fin": 26.72
+    },
+    {
+      "texto": "sola",
+      "inicio": 26.784,
+      "fin": 27.04
+    },
+    {
+      "texto": "tabla",
+      "inicio": 27.093,
+      "fin": 27.36
+    },
+    {
+      "texto": "dinámica",
+      "inicio": 27.42,
+      "fin": 27.92
+    },
+    {
+      "texto": "y",
+      "inicio": 28.04,
+      "fin": 28.16
+    },
+    {
+      "texto": "sin",
+      "inicio": 28.22,
+      "fin": 28.4
+    },
+    {
+      "texto": "macros.",
+      "inicio": 28.48,
+      "fin": 29.12
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "num": "12",
+  "titulo": "Paso 7: escribe el libro",
+  "texto": "Paso siete: escribimos el libro de Excel. With p d punto ExcelWriter abre un archivo nuevo. Dentro, datos punto to excel pone las ventas en una hoja llamada Ventas, y resumen punto to excel pone el resumen en otra hoja llamada Resumen. El index igual a False evita una columna de números que no necesitas.",
+  "texto_tts": "Paso siete: escribimos el libro de Excel. With p d punto ExcelWriter abre un archivo nuevo. Dentro, datos punto to excel pone las ventas en una hoja llamada Ventas, y resumen punto to excel pone el resumen en otra hoja llamada Resumen. El index igual a False evita una columna de números que no necesitas.",
+  "modelo": "eleven_v3",
+  "duracion": 27.84,
+  "palabras": [
+    {
+      "texto": "Paso",
+      "inicio": 0.0,
+      "fin": 0.24
+    },
+    {
+      "texto": "siete:",
+      "inicio": 0.32,
+      "fin": 0.88
+    },
+    {
+      "texto": "escribimos",
+      "inicio": 0.933,
+      "fin": 1.6
+    },
+    {
+      "texto": "el",
+      "inicio": 1.68,
+      "fin": 1.84
+    },
+    {
+      "texto": "libro",
+      "inicio": 1.893,
+      "fin": 2.16
+    },
+    {
+      "texto": "de",
+      "inicio": 2.213,
+      "fin": 2.32
+    },
+    {
+      "texto": "Excel.",
+      "inicio": 2.4,
+      "fin": 2.88
+    },
+    {
+      "texto": "With",
+      "inicio": 3.152,
+      "fin": 4.24
+    },
+    {
+      "texto": "p",
+      "inicio": 4.32,
+      "fin": 4.4
+    },
+    {
+      "texto": "d",
+      "inicio": 4.52,
+      "fin": 4.64
+    },
+    {
+      "texto": "punto",
+      "inicio": 4.72,
+      "fin": 5.12
+    },
+    {
+      "texto": "ExcelWriter",
+      "inicio": 5.24,
+      "fin": 6.32
+    },
+    {
+      "texto": "abre",
+      "inicio": 6.416,
+      "fin": 6.8
+    },
+    {
+      "texto": "un",
+      "inicio": 6.827,
+      "fin": 6.88
+    },
+    {
+      "texto": "archivo",
+      "inicio": 6.93,
+      "fin": 7.28
+    },
+    {
+      "texto": "nuevo.",
+      "inicio": 7.347,
+      "fin": 7.92
+    },
+    {
+      "texto": "Dentro,",
+      "inicio": 8.032,
+      "fin": 8.72
+    },
+    {
+      "texto": "datos",
+      "inicio": 8.853,
+      "fin": 9.52
+    },
+    {
+      "texto": "punto",
+      "inicio": 9.64,
+      "fin": 10.24
+    },
+    {
+      "texto": "to",
+      "inicio": 10.373,
+      "fin": 10.64
+    },
+    {
+      "texto": "excel",
+      "inicio": 10.787,
+      "fin": 11.52
+    },
+    {
+      "texto": "pone",
+      "inicio": 11.96,
+      "fin": 12.56
+    },
+    {
+      "texto": "las",
+      "inicio": 12.6,
+      "fin": 12.72
+    },
+    {
+      "texto": "ventas",
+      "inicio": 12.8,
+      "fin": 13.28
+    },
+    {
+      "texto": "en",
+      "inicio": 13.36,
+      "fin": 13.52
+    },
+    {
+      "texto": "una",
+      "inicio": 13.56,
+      "fin": 13.68
+    },
+    {
+      "texto": "hoja",
+      "inicio": 13.733,
+      "fin": 14.0
+    },
+    {
+      "texto": "llamada",
+      "inicio": 14.048,
+      "fin": 14.48
+    },
+    {
+      "texto": "Ventas,",
+      "inicio": 14.608,
+      "fin": 15.68
+    },
+    {
+      "texto": "y",
+      "inicio": 15.92,
+      "fin": 16.16
+    },
+    {
+      "texto": "resumen",
+      "inicio": 16.22,
+      "fin": 16.72
+    },
+    {
+      "texto": "punto",
+      "inicio": 16.813,
+      "fin": 17.28
+    },
+    {
+      "texto": "to",
+      "inicio": 17.387,
+      "fin": 17.6
+    },
+    {
+      "texto": "excel",
+      "inicio": 17.747,
+      "fin": 18.48
+    },
+    {
+      "texto": "pone",
+      "inicio": 18.64,
+      "fin": 18.96
+    },
+    {
+      "texto": "el",
+      "inicio": 18.987,
+      "fin": 19.04
+    },
+    {
+      "texto": "resumen",
+      "inicio": 19.1,
+      "fin": 19.6
+    },
+    {
+      "texto": "en",
+      "inicio": 19.68,
+      "fin": 19.84
+    },
+    {
+      "texto": "otra",
+      "inicio": 19.904,
+      "fin": 20.16
+    },
+    {
+      "texto": "hoja",
+      "inicio": 20.213,
+      "fin": 20.48
+    },
+    {
+      "texto": "llamada",
+      "inicio": 20.528,
+      "fin": 20.96
+    },
+    {
+      "texto": "Resumen.",
+      "inicio": 21.06,
+      "fin": 21.92
+    },
+    {
+      "texto": "El",
+      "inicio": 22.32,
+      "fin": 23.12
+    },
+    {
+      "texto": "index",
+      "inicio": 23.227,
+      "fin": 23.76
+    },
+    {
+      "texto": "igual",
+      "inicio": 23.813,
+      "fin": 24.08
+    },
+    {
+      "texto": "a",
+      "inicio": 24.12,
+      "fin": 24.16
+    },
+    {
+      "texto": "False",
+      "inicio": 24.253,
+      "fin": 24.72
+    },
+    {
+      "texto": "evita",
+      "inicio": 24.853,
+      "fin": 25.28
+    },
+    {
+      "texto": "una",
+      "inicio": 25.3,
+      "fin": 25.36
+    },
+    {
+      "texto": "columna",
+      "inicio": 25.43,
+      "fin": 25.92
+    },
+    {
+      "texto": "de",
+      "inicio": 25.947,
+      "fin": 26.0
+    },
+    {
+      "texto": "números",
+      "inicio": 26.06,
+      "fin": 26.48
+    },
+    {
+      "texto": "que",
+      "inicio": 26.54,
+      "fin": 26.72
+    },
+    {
+      "texto": "no",
+      "inicio": 26.747,
+      "fin": 26.8
+    },
+    {
+      "texto": "necesitas.",
+      "inicio": 26.867,
+      "fin": 27.84
+    }
+  ]
+}

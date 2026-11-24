@@ -1,0 +1,220 @@
+{
+  "num": "09",
+  "titulo": "Paso 4: la carpeta de reportes",
+  "texto": "Paso cuatro: le decimos dónde guardar los resultados. Carpeta igual a Path, reportes. Y en la siguiente línea, carpeta punto mkdir, que significa \"crea la carpeta\". El exist ok igual a True le dice: si ya existe, no pasa nada, sigue adelante.",
+  "texto_tts": "Paso cuatro: le decimos dónde guardar los resultados. Carpeta igual a Path, reportes. Y en la siguiente línea, carpeta punto mkdir, que significa \"crea la carpeta\". El exist ok igual a True le dice: si ya existe, no pasa nada, sigue adelante.",
+  "modelo": "eleven_v3",
+  "duracion": 20.56,
+  "palabras": [
+    {
+      "texto": "Paso",
+      "inicio": 0.0,
+      "fin": 0.24
+    },
+    {
+      "texto": "cuatro:",
+      "inicio": 0.297,
+      "fin": 0.72
+    },
+    {
+      "texto": "le",
+      "inicio": 0.88,
+      "fin": 1.2
+    },
+    {
+      "texto": "decimos",
+      "inicio": 1.24,
+      "fin": 1.76
+    },
+    {
+      "texto": "dónde",
+      "inicio": 2.027,
+      "fin": 2.64
+    },
+    {
+      "texto": "guardar",
+      "inicio": 2.69,
+      "fin": 3.04
+    },
+    {
+      "texto": "los",
+      "inicio": 3.08,
+      "fin": 3.2
+    },
+    {
+      "texto": "resultados.",
+      "inicio": 3.265,
+      "fin": 4.0
+    },
+    {
+      "texto": "Carpeta",
+      "inicio": 4.112,
+      "fin": 4.8
+    },
+    {
+      "texto": "igual",
+      "inicio": 4.867,
+      "fin": 5.2
+    },
+    {
+      "texto": "a",
+      "inicio": 5.32,
+      "fin": 5.44
+    },
+    {
+      "texto": "Path,",
+      "inicio": 5.584,
+      "fin": 6.24
+    },
+    {
+      "texto": "reportes.",
+      "inicio": 6.411,
+      "fin": 7.84
+    },
+    {
+      "texto": "Y",
+      "inicio": 8.16,
+      "fin": 8.48
+    },
+    {
+      "texto": "en",
+      "inicio": 8.507,
+      "fin": 8.56
+    },
+    {
+      "texto": "la",
+      "inicio": 8.587,
+      "fin": 8.64
+    },
+    {
+      "texto": "siguiente",
+      "inicio": 8.688,
+      "fin": 9.12
+    },
+    {
+      "texto": "línea,",
+      "inicio": 9.173,
+      "fin": 9.52
+    },
+    {
+      "texto": "carpeta",
+      "inicio": 9.584,
+      "fin": 10.16
+    },
+    {
+      "texto": "punto",
+      "inicio": 10.267,
+      "fin": 10.8
+    },
+    {
+      "texto": "mkdir,",
+      "inicio": 10.987,
+      "fin": 12.08
+    },
+    {
+      "texto": "que",
+      "inicio": 12.1,
+      "fin": 12.16
+    },
+    {
+      "texto": "significa",
+      "inicio": 12.224,
+      "fin": 12.8
+    },
+    {
+      "texto": "\"crea",
+      "inicio": 12.88,
+      "fin": 13.2
+    },
+    {
+      "texto": "la",
+      "inicio": 13.227,
+      "fin": 13.28
+    },
+    {
+      "texto": "carpeta\".",
+      "inicio": 13.344,
+      "fin": 13.92
+    },
+    {
+      "texto": "El",
+      "inicio": 14.4,
+      "fin": 15.36
+    },
+    {
+      "texto": "exist",
+      "inicio": 15.44,
+      "fin": 15.84
+    },
+    {
+      "texto": "ok",
+      "inicio": 15.973,
+      "fin": 16.24
+    },
+    {
+      "texto": "igual",
+      "inicio": 16.307,
+      "fin": 16.64
+    },
+    {
+      "texto": "a",
+      "inicio": 16.68,
+      "fin": 16.72
+    },
+    {
+      "texto": "True",
+      "inicio": 16.784,
+      "fin": 17.04
+    },
+    {
+      "texto": "le",
+      "inicio": 17.147,
+      "fin": 17.36
+    },
+    {
+      "texto": "dice:",
+      "inicio": 17.44,
+      "fin": 17.84
+    },
+    {
+      "texto": "si",
+      "inicio": 17.92,
+      "fin": 18.08
+    },
+    {
+      "texto": "ya",
+      "inicio": 18.107,
+      "fin": 18.16
+    },
+    {
+      "texto": "existe,",
+      "inicio": 18.24,
+      "fin": 18.8
+    },
+    {
+      "texto": "no",
+      "inicio": 18.88,
+      "fin": 19.04
+    },
+    {
+      "texto": "pasa",
+      "inicio": 19.088,
+      "fin": 19.28
+    },
+    {
+      "texto": "nada,",
+      "inicio": 19.344,
+      "fin": 19.68
+    },
+    {
+      "texto": "sigue",
+      "inicio": 19.72,
+      "fin": 19.92
+    },
+    {
+      "texto": "adelante.",
+      "inicio": 19.968,
+      "fin": 20.56
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "num": "07",
+  "titulo": "El prompt vago",
+  "texto": "Primero hagamos lo que hace casi todo el mundo. Le escribo a la IA: dame una fórmula para calcular comisiones en Excel. Y me responde esto. Se ve muy profesional, ¿verdad? Pero tiene dos problemas escondidos.",
+  "texto_tts": "Primero hagamos lo que hace casi todo el mundo. Le escribo a la IA: dame una fórmula para calcular comisiones en Excel. Y me responde esto. Se ve muy profesional, ¿verdad? [curious] Pero tiene dos problemas escondidos.",
+  "modelo": "eleven_v3",
+  "duracion": 12.4,
+  "palabras": [
+    {
+      "texto": "Primero",
+      "inicio": 0.0,
+      "fin": 0.32
+    },
+    {
+      "texto": "hagamos",
+      "inicio": 0.36,
+      "fin": 0.64
+    },
+    {
+      "texto": "lo",
+      "inicio": 0.693,
+      "fin": 0.8
+    },
+    {
+      "texto": "que",
+      "inicio": 0.82,
+      "fin": 0.88
+    },
+    {
+      "texto": "hace",
+      "inicio": 0.928,
+      "fin": 1.12
+    },
+    {
+      "texto": "casi",
+      "inicio": 1.168,
+      "fin": 1.36
+    },
+    {
+      "texto": "todo",
+      "inicio": 1.408,
+      "fin": 1.6
+    },
+    {
+      "texto": "el",
+      "inicio": 1.627,
+      "fin": 1.68
+    },
+    {
+      "texto": "mundo.",
+      "inicio": 1.747,
+      "fin": 2.16
+    },
+    {
+      "texto": "Le",
+      "inicio": 2.267,
+      "fin": 2.48
+    },
+    {
+      "texto": "escribo",
+      "inicio": 2.52,
+      "fin": 2.8
+    },
+    {
+      "texto": "a",
+      "inicio": 2.84,
+      "fin": 2.88
+    },
+    {
+      "texto": "la",
+      "inicio": 2.907,
+      "fin": 2.96
+    },
+    {
+      "texto": "IA:",
+      "inicio": 3.067,
+      "fin": 3.36
+    },
+    {
+      "texto": "dame",
+      "inicio": 3.424,
+      "fin": 3.68
+    },
+    {
+      "texto": "una",
+      "inicio": 3.7,
+      "fin": 3.76
+    },
+    {
+      "texto": "fórmula",
+      "inicio": 3.84,
+      "fin": 4.24
+    },
+    {
+      "texto": "para",
+      "inicio": 4.272,
+      "fin": 4.4
+    },
+    {
+      "texto": "calcular",
+      "inicio": 4.444,
+      "fin": 4.8
+    },
+    {
+      "texto": "comisiones",
+      "inicio": 4.86,
+      "fin": 5.44
+    },
+    {
+      "texto": "en",
+      "inicio": 5.493,
+      "fin": 5.6
+    },
+    {
+      "texto": "Excel.",
+      "inicio": 5.667,
+      "fin": 6.32
+    },
+    {
+      "texto": "Y",
+      "inicio": 6.44,
+      "fin": 6.56
+    },
+    {
+      "texto": "me",
+      "inicio": 6.613,
+      "fin": 6.72
+    },
+    {
+      "texto": "responde",
+      "inicio": 6.76,
+      "fin": 7.12
+    },
+    {
+      "texto": "esto.",
+      "inicio": 7.184,
+      "fin": 7.52
+    },
+    {
+      "texto": "Se",
+      "inicio": 7.707,
+      "fin": 8.08
+    },
+    {
+      "texto": "ve",
+      "inicio": 8.133,
+      "fin": 8.24
+    },
+    {
+      "texto": "muy",
+      "inicio": 8.28,
+      "fin": 8.4
+    },
+    {
+      "texto": "profesional,",
+      "inicio": 8.453,
+      "fin": 9.08
+    },
+    {
+      "texto": "¿verdad?",
+      "inicio": 9.1,
+      "fin": 9.68
+    },
+    {
+      "texto": "Pero",
+      "inicio": 10.384,
+      "fin": 10.4
+    },
+    {
+      "texto": "tiene",
+      "inicio": 10.453,
+      "fin": 10.72
+    },
+    {
+      "texto": "dos",
+      "inicio": 10.78,
+      "fin": 10.96
+    },
+    {
+      "texto": "problemas",
+      "inicio": 11.016,
+      "fin": 11.52
+    },
+    {
+      "texto": "escondidos.",
+      "inicio": 11.573,
+      "fin": 12.4
+    }
+  ]
+}

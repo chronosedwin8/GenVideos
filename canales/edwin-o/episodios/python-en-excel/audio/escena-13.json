@@ -1,0 +1,370 @@
+{
+  "num": "13",
+  "titulo": "Bonus: filtra antes de agrupar",
+  "texto": "Un bonus. ¿Y si solo quieres febrero? En pandas, filtras poniendo la condición entre corchetes: d f, y entre corchetes, la columna mes igual a Feb. Con doble signo igual, como vimos en el video de condicionales. Después agrupas igual que antes. Resultado: en febrero, Norte vendió tres mil seiscientos treinta y cinco, Centro mil quinientos diez, y Sur mil setenta. Es el mismo filtro que hicimos con AGRUPARPOR, escrito en Python.",
+  "texto_tts": "Un bonus. ¿Y si solo quieres febrero? En pandas, filtras poniendo la condición entre corchetes: d f, y entre corchetes, la columna mes igual a Feb. Con doble signo igual, como vimos en el video de condicionales. Después agrupas igual que antes. Resultado: en febrero, Norte vendió tres mil seiscientos treinta y cinco, Centro mil quinientos diez, y Sur mil setenta. Es el mismo filtro que hicimos con AGRUPARPOR, escrito en Python.",
+  "modelo": "eleven_v3",
+  "duracion": 34.48,
+  "palabras": [
+    {
+      "texto": "Un",
+      "inicio": 0.0,
+      "fin": 0.16
+    },
+    {
+      "texto": "bonus.",
+      "inicio": 0.24,
+      "fin": 0.72
+    },
+    {
+      "texto": "¿Y",
+      "inicio": 0.96,
+      "fin": 1.28
+    },
+    {
+      "texto": "si",
+      "inicio": 1.307,
+      "fin": 1.36
+    },
+    {
+      "texto": "solo",
+      "inicio": 1.424,
+      "fin": 1.68
+    },
+    {
+      "texto": "quieres",
+      "inicio": 1.72,
+      "fin": 2.0
+    },
+    {
+      "texto": "febrero?",
+      "inicio": 2.053,
+      "fin": 2.64
+    },
+    {
+      "texto": "En",
+      "inicio": 2.8,
+      "fin": 3.12
+    },
+    {
+      "texto": "pandas,",
+      "inicio": 3.2,
+      "fin": 3.76
+    },
+    {
+      "texto": "filtras",
+      "inicio": 3.82,
+      "fin": 4.16
+    },
+    {
+      "texto": "poniendo",
+      "inicio": 4.24,
+      "fin": 4.64
+    },
+    {
+      "texto": "la",
+      "inicio": 4.667,
+      "fin": 4.72
+    },
+    {
+      "texto": "condición",
+      "inicio": 4.768,
+      "fin": 5.36
+    },
+    {
+      "texto": "entre",
+      "inicio": 5.427,
+      "fin": 5.76
+    },
+    {
+      "texto": "corchetes:",
+      "inicio": 5.82,
+      "fin": 6.64
+    },
+    {
+      "texto": "d",
+      "inicio": 6.92,
+      "fin": 7.2
+    },
+    {
+      "texto": "f,",
+      "inicio": 7.44,
+      "fin": 7.76
+    },
+    {
+      "texto": "y",
+      "inicio": 8.04,
+      "fin": 8.32
+    },
+    {
+      "texto": "entre",
+      "inicio": 8.373,
+      "fin": 8.64
+    },
+    {
+      "texto": "corchetes,",
+      "inicio": 8.7,
+      "fin": 9.28
+    },
+    {
+      "texto": "la",
+      "inicio": 9.307,
+      "fin": 9.36
+    },
+    {
+      "texto": "columna",
+      "inicio": 9.42,
+      "fin": 9.84
+    },
+    {
+      "texto": "mes",
+      "inicio": 10.0,
+      "fin": 10.48
+    },
+    {
+      "texto": "igual",
+      "inicio": 10.6,
+      "fin": 11.2
+    },
+    {
+      "texto": "a",
+      "inicio": 11.32,
+      "fin": 11.44
+    },
+    {
+      "texto": "Feb.",
+      "inicio": 11.64,
+      "fin": 12.32
+    },
+    {
+      "texto": "Con",
+      "inicio": 12.58,
+      "fin": 13.36
+    },
+    {
+      "texto": "doble",
+      "inicio": 13.413,
+      "fin": 13.68
+    },
+    {
+      "texto": "signo",
+      "inicio": 13.728,
+      "fin": 14.12
+    },
+    {
+      "texto": "igual,",
+      "inicio": 14.153,
+      "fin": 14.4
+    },
+    {
+      "texto": "como",
+      "inicio": 14.448,
+      "fin": 14.64
+    },
+    {
+      "texto": "vimos",
+      "inicio": 14.68,
+      "fin": 14.96
+    },
+    {
+      "texto": "en",
+      "inicio": 14.987,
+      "fin": 15.04
+    },
+    {
+      "texto": "el",
+      "inicio": 15.067,
+      "fin": 15.12
+    },
+    {
+      "texto": "video",
+      "inicio": 15.173,
+      "fin": 15.44
+    },
+    {
+      "texto": "de",
+      "inicio": 15.467,
+      "fin": 15.52
+    },
+    {
+      "texto": "condicionales.",
+      "inicio": 15.568,
+      "fin": 16.48
+    },
+    {
+      "texto": "Después",
+      "inicio": 16.66,
+      "fin": 17.36
+    },
+    {
+      "texto": "agrupas",
+      "inicio": 17.42,
+      "fin": 17.92
+    },
+    {
+      "texto": "igual",
+      "inicio": 17.987,
+      "fin": 18.32
+    },
+    {
+      "texto": "que",
+      "inicio": 18.36,
+      "fin": 18.48
+    },
+    {
+      "texto": "antes.",
+      "inicio": 18.56,
+      "fin": 19.04
+    },
+    {
+      "texto": "Resultado:",
+      "inicio": 19.2,
+      "fin": 20.56
+    },
+    {
+      "texto": "en",
+      "inicio": 20.72,
+      "fin": 21.04
+    },
+    {
+      "texto": "febrero,",
+      "inicio": 21.12,
+      "fin": 21.76
+    },
+    {
+      "texto": "Norte",
+      "inicio": 21.84,
+      "fin": 22.24
+    },
+    {
+      "texto": "vendió",
+      "inicio": 22.288,
+      "fin": 22.64
+    },
+    {
+      "texto": "tres",
+      "inicio": 22.688,
+      "fin": 22.88
+    },
+    {
+      "texto": "mil",
+      "inicio": 22.92,
+      "fin": 23.04
+    },
+    {
+      "texto": "seiscientos",
+      "inicio": 23.12,
+      "fin": 23.68
+    },
+    {
+      "texto": "treinta",
+      "inicio": 23.72,
+      "fin": 24.0
+    },
+    {
+      "texto": "y",
+      "inicio": 24.04,
+      "fin": 24.08
+    },
+    {
+      "texto": "cinco,",
+      "inicio": 24.16,
+      "fin": 24.72
+    },
+    {
+      "texto": "Centro",
+      "inicio": 24.846,
+      "fin": 25.6
+    },
+    {
+      "texto": "mil",
+      "inicio": 25.68,
+      "fin": 25.92
+    },
+    {
+      "texto": "quinientos",
+      "inicio": 25.973,
+      "fin": 26.64
+    },
+    {
+      "texto": "diez,",
+      "inicio": 26.7,
+      "fin": 27.253
+    },
+    {
+      "texto": "y",
+      "inicio": 27.347,
+      "fin": 27.44
+    },
+    {
+      "texto": "Sur",
+      "inicio": 27.58,
+      "fin": 28.0
+    },
+    {
+      "texto": "mil",
+      "inicio": 28.08,
+      "fin": 28.32
+    },
+    {
+      "texto": "setenta.",
+      "inicio": 28.4,
+      "fin": 29.12
+    },
+    {
+      "texto": "Es",
+      "inicio": 29.413,
+      "fin": 30.0
+    },
+    {
+      "texto": "el",
+      "inicio": 30.053,
+      "fin": 30.16
+    },
+    {
+      "texto": "mismo",
+      "inicio": 30.213,
+      "fin": 30.48
+    },
+    {
+      "texto": "filtro",
+      "inicio": 30.537,
+      "fin": 30.88
+    },
+    {
+      "texto": "que",
+      "inicio": 30.9,
+      "fin": 30.96
+    },
+    {
+      "texto": "hicimos",
+      "inicio": 31.0,
+      "fin": 31.44
+    },
+    {
+      "texto": "con",
+      "inicio": 31.48,
+      "fin": 31.6
+    },
+    {
+      "texto": "AGRUPARPOR,",
+      "inicio": 31.76,
+      "fin": 33.36
+    },
+    {
+      "texto": "escrito",
+      "inicio": 33.42,
+      "fin": 33.76
+    },
+    {
+      "texto": "en",
+      "inicio": 33.813,
+      "fin": 33.92
+    },
+    {
+      "texto": "Python.",
+      "inicio": 33.989,
+      "fin": 34.48
+    }
+  ]
+}

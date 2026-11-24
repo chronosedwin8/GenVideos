@@ -1,0 +1,410 @@
+{
+  "num": "15",
+  "titulo": "Adáptalo a tus datos",
+  "texto": "¿Y si tus datos son diferentes? Esta es la mejor parte: el programa se adapta cambiando una sola palabra. Si en vez de un reporte por sucursal necesitas uno por vendedor, cambia Sucursal por Vendedor en la línea del for. Y ahora salen cuarenta y ocho reportes, uno por cada vendedor. ¿Por producto? ¿Por cliente? ¿Por mes? Es el mismo programa. Solo asegúrate de escribir el nombre de la columna exactamente como está en tu Excel, con mayúsculas y tildes.",
+  "texto_tts": "¿Y si tus datos son diferentes? Esta es la mejor parte: el programa se adapta cambiando una sola palabra. Si en vez de un reporte por sucursal necesitas uno por vendedor, cambia Sucursal por Vendedor en la línea del for. Y ahora salen cuarenta y ocho reportes, uno por cada vendedor. ¿Por producto? ¿Por cliente? ¿Por mes? Es el mismo programa. Solo asegúrate de escribir el nombre de la columna exactamente como está en tu Excel, con mayúsculas y tildes.",
+  "modelo": "eleven_v3",
+  "duracion": 35.52,
+  "palabras": [
+    {
+      "texto": "¿Y",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "si",
+      "inicio": 0.133,
+      "fin": 0.24
+    },
+    {
+      "texto": "tus",
+      "inicio": 0.28,
+      "fin": 0.4
+    },
+    {
+      "texto": "datos",
+      "inicio": 0.467,
+      "fin": 0.8
+    },
+    {
+      "texto": "son",
+      "inicio": 0.84,
+      "fin": 0.96
+    },
+    {
+      "texto": "diferentes?",
+      "inicio": 1.04,
+      "fin": 1.92
+    },
+    {
+      "texto": "Esta",
+      "inicio": 2.208,
+      "fin": 3.36
+    },
+    {
+      "texto": "es",
+      "inicio": 3.387,
+      "fin": 3.44
+    },
+    {
+      "texto": "la",
+      "inicio": 3.467,
+      "fin": 3.52
+    },
+    {
+      "texto": "mejor",
+      "inicio": 3.573,
+      "fin": 3.84
+    },
+    {
+      "texto": "parte:",
+      "inicio": 3.92,
+      "fin": 5.04
+    },
+    {
+      "texto": "el",
+      "inicio": 5.093,
+      "fin": 5.2
+    },
+    {
+      "texto": "programa",
+      "inicio": 5.262,
+      "fin": 5.76
+    },
+    {
+      "texto": "se",
+      "inicio": 5.813,
+      "fin": 5.92
+    },
+    {
+      "texto": "adapta",
+      "inicio": 5.984,
+      "fin": 6.32
+    },
+    {
+      "texto": "cambiando",
+      "inicio": 6.387,
+      "fin": 6.96
+    },
+    {
+      "texto": "una",
+      "inicio": 7.06,
+      "fin": 7.36
+    },
+    {
+      "texto": "sola",
+      "inicio": 7.424,
+      "fin": 7.68
+    },
+    {
+      "texto": "palabra.",
+      "inicio": 7.75,
+      "fin": 8.32
+    },
+    {
+      "texto": "Si",
+      "inicio": 8.667,
+      "fin": 9.36
+    },
+    {
+      "texto": "en",
+      "inicio": 9.387,
+      "fin": 9.44
+    },
+    {
+      "texto": "vez",
+      "inicio": 9.48,
+      "fin": 9.6
+    },
+    {
+      "texto": "de",
+      "inicio": 9.627,
+      "fin": 9.68
+    },
+    {
+      "texto": "un",
+      "inicio": 9.707,
+      "fin": 9.76
+    },
+    {
+      "texto": "reporte",
+      "inicio": 9.817,
+      "fin": 10.24
+    },
+    {
+      "texto": "por",
+      "inicio": 10.28,
+      "fin": 10.4
+    },
+    {
+      "texto": "sucursal",
+      "inicio": 10.46,
+      "fin": 11.04
+    },
+    {
+      "texto": "necesitas",
+      "inicio": 11.12,
+      "fin": 11.84
+    },
+    {
+      "texto": "uno",
+      "inicio": 11.9,
+      "fin": 12.08
+    },
+    {
+      "texto": "por",
+      "inicio": 12.14,
+      "fin": 12.32
+    },
+    {
+      "texto": "vendedor,",
+      "inicio": 12.4,
+      "fin": 13.68
+    },
+    {
+      "texto": "cambia",
+      "inicio": 13.728,
+      "fin": 14.0
+    },
+    {
+      "texto": "Sucursal",
+      "inicio": 14.08,
+      "fin": 14.72
+    },
+    {
+      "texto": "por",
+      "inicio": 14.76,
+      "fin": 14.88
+    },
+    {
+      "texto": "Vendedor",
+      "inicio": 14.96,
+      "fin": 15.52
+    },
+    {
+      "texto": "en",
+      "inicio": 15.627,
+      "fin": 15.84
+    },
+    {
+      "texto": "la",
+      "inicio": 15.867,
+      "fin": 15.92
+    },
+    {
+      "texto": "línea",
+      "inicio": 15.973,
+      "fin": 16.24
+    },
+    {
+      "texto": "del",
+      "inicio": 16.26,
+      "fin": 16.32
+    },
+    {
+      "texto": "for.",
+      "inicio": 16.4,
+      "fin": 16.72
+    },
+    {
+      "texto": "Y",
+      "inicio": 17.16,
+      "fin": 17.6
+    },
+    {
+      "texto": "ahora",
+      "inicio": 17.653,
+      "fin": 17.92
+    },
+    {
+      "texto": "salen",
+      "inicio": 17.98,
+      "fin": 18.24
+    },
+    {
+      "texto": "cuarenta",
+      "inicio": 18.32,
+      "fin": 18.8
+    },
+    {
+      "texto": "y",
+      "inicio": 18.84,
+      "fin": 18.88
+    },
+    {
+      "texto": "ocho",
+      "inicio": 18.96,
+      "fin": 19.12
+    },
+    {
+      "texto": "reportes,",
+      "inicio": 19.2,
+      "fin": 20.08
+    },
+    {
+      "texto": "uno",
+      "inicio": 20.14,
+      "fin": 20.32
+    },
+    {
+      "texto": "por",
+      "inicio": 20.4,
+      "fin": 20.64
+    },
+    {
+      "texto": "cada",
+      "inicio": 20.704,
+      "fin": 20.96
+    },
+    {
+      "texto": "vendedor.",
+      "inicio": 21.0,
+      "fin": 22.0
+    },
+    {
+      "texto": "¿Por",
+      "inicio": 22.24,
+      "fin": 22.56
+    },
+    {
+      "texto": "producto?",
+      "inicio": 22.631,
+      "fin": 23.36
+    },
+    {
+      "texto": "¿Por",
+      "inicio": 23.6,
+      "fin": 23.92
+    },
+    {
+      "texto": "cliente?",
+      "inicio": 24.01,
+      "fin": 24.8
+    },
+    {
+      "texto": "¿Por",
+      "inicio": 24.96,
+      "fin": 25.2
+    },
+    {
+      "texto": "mes?",
+      "inicio": 25.32,
+      "fin": 25.76
+    },
+    {
+      "texto": "Es",
+      "inicio": 26.0,
+      "fin": 26.48
+    },
+    {
+      "texto": "el",
+      "inicio": 26.533,
+      "fin": 26.64
+    },
+    {
+      "texto": "mismo",
+      "inicio": 26.68,
+      "fin": 26.88
+    },
+    {
+      "texto": "programa.",
+      "inicio": 26.942,
+      "fin": 27.52
+    },
+    {
+      "texto": "Solo",
+      "inicio": 27.728,
+      "fin": 28.56
+    },
+    {
+      "texto": "asegúrate",
+      "inicio": 28.608,
+      "fin": 29.12
+    },
+    {
+      "texto": "de",
+      "inicio": 29.147,
+      "fin": 29.2
+    },
+    {
+      "texto": "escribir",
+      "inicio": 29.24,
+      "fin": 29.68
+    },
+    {
+      "texto": "el",
+      "inicio": 29.707,
+      "fin": 29.76
+    },
+    {
+      "texto": "nombre",
+      "inicio": 29.817,
+      "fin": 30.16
+    },
+    {
+      "texto": "de",
+      "inicio": 30.187,
+      "fin": 30.24
+    },
+    {
+      "texto": "la",
+      "inicio": 30.267,
+      "fin": 30.32
+    },
+    {
+      "texto": "columna",
+      "inicio": 30.38,
+      "fin": 30.8
+    },
+    {
+      "texto": "exactamente",
+      "inicio": 30.92,
+      "fin": 31.92
+    },
+    {
+      "texto": "como",
+      "inicio": 31.952,
+      "fin": 32.08
+    },
+    {
+      "texto": "está",
+      "inicio": 32.128,
+      "fin": 32.32
+    },
+    {
+      "texto": "en",
+      "inicio": 32.373,
+      "fin": 32.48
+    },
+    {
+      "texto": "tu",
+      "inicio": 32.507,
+      "fin": 32.56
+    },
+    {
+      "texto": "Excel,",
+      "inicio": 32.627,
+      "fin": 33.6
+    },
+    {
+      "texto": "con",
+      "inicio": 33.64,
+      "fin": 33.76
+    },
+    {
+      "texto": "mayúsculas",
+      "inicio": 33.82,
+      "fin": 34.56
+    },
+    {
+      "texto": "y",
+      "inicio": 34.68,
+      "fin": 34.8
+    },
+    {
+      "texto": "tildes.",
+      "inicio": 34.84,
+      "fin": 35.52
+    }
+  ]
+}

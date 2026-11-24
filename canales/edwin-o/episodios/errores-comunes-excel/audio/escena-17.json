@@ -1,0 +1,345 @@
+{
+  "num": "17",
+  "titulo": "Por qué importa",
+  "texto": "Recuerda el dato del principio: dos de cada cinco errores se corrigen sin que nadie se entere. Eso significa que muchos otros nunca se descubren, y terminan en una decisión equivocada, un pago mal hecho o un informe que no cuadra. Y en un mundo donde la inteligencia artificial también genera hojas de cálculo, saber revisarlas vale más que nunca. Si no lo aprendes ahora, te extingues.",
+  "texto_tts": "Recuerda el dato del principio: dos de cada cinco errores se corrigen sin que nadie se entere. Eso significa que muchos otros nunca se descubren, y terminan en una decisión equivocada, un pago mal hecho o un informe que no cuadra. Y en un mundo donde la inteligencia artificial también genera hojas de cálculo, saber revisarlas vale más que nunca. [serious] Si no lo aprendes ahora, te extingues.",
+  "modelo": "eleven_v3",
+  "duracion": 28.725,
+  "palabras": [
+    {
+      "texto": "Recuerda",
+      "inicio": 0.0,
+      "fin": 0.4
+    },
+    {
+      "texto": "el",
+      "inicio": 0.427,
+      "fin": 0.48
+    },
+    {
+      "texto": "dato",
+      "inicio": 0.528,
+      "fin": 0.72
+    },
+    {
+      "texto": "del",
+      "inicio": 0.76,
+      "fin": 0.88
+    },
+    {
+      "texto": "principio:",
+      "inicio": 0.944,
+      "fin": 1.68
+    },
+    {
+      "texto": "dos",
+      "inicio": 1.88,
+      "fin": 2.48
+    },
+    {
+      "texto": "de",
+      "inicio": 2.56,
+      "fin": 2.72
+    },
+    {
+      "texto": "cada",
+      "inicio": 2.784,
+      "fin": 3.04
+    },
+    {
+      "texto": "cinco",
+      "inicio": 3.107,
+      "fin": 3.44
+    },
+    {
+      "texto": "errores",
+      "inicio": 3.5,
+      "fin": 3.92
+    },
+    {
+      "texto": "se",
+      "inicio": 4.0,
+      "fin": 4.16
+    },
+    {
+      "texto": "corrigen",
+      "inicio": 4.208,
+      "fin": 4.72
+    },
+    {
+      "texto": "sin",
+      "inicio": 4.8,
+      "fin": 5.04
+    },
+    {
+      "texto": "que",
+      "inicio": 5.1,
+      "fin": 5.28
+    },
+    {
+      "texto": "nadie",
+      "inicio": 5.32,
+      "fin": 5.6
+    },
+    {
+      "texto": "se",
+      "inicio": 5.627,
+      "fin": 5.68
+    },
+    {
+      "texto": "entere.",
+      "inicio": 5.74,
+      "fin": 6.32
+    },
+    {
+      "texto": "Eso",
+      "inicio": 6.8,
+      "fin": 7.36
+    },
+    {
+      "texto": "significa",
+      "inicio": 7.416,
+      "fin": 7.92
+    },
+    {
+      "texto": "que",
+      "inicio": 7.96,
+      "fin": 8.08
+    },
+    {
+      "texto": "muchos",
+      "inicio": 8.137,
+      "fin": 8.48
+    },
+    {
+      "texto": "otros",
+      "inicio": 8.547,
+      "fin": 8.88
+    },
+    {
+      "texto": "nunca",
+      "inicio": 8.96,
+      "fin": 9.36
+    },
+    {
+      "texto": "se",
+      "inicio": 9.413,
+      "fin": 9.52
+    },
+    {
+      "texto": "descubren,",
+      "inicio": 9.584,
+      "fin": 10.72
+    },
+    {
+      "texto": "y",
+      "inicio": 10.76,
+      "fin": 10.8
+    },
+    {
+      "texto": "terminan",
+      "inicio": 10.857,
+      "fin": 11.36
+    },
+    {
+      "texto": "en",
+      "inicio": 11.44,
+      "fin": 11.6
+    },
+    {
+      "texto": "una",
+      "inicio": 11.66,
+      "fin": 11.84
+    },
+    {
+      "texto": "decisión",
+      "inicio": 11.893,
+      "fin": 12.24
+    },
+    {
+      "texto": "equivocada,",
+      "inicio": 12.293,
+      "fin": 13.44
+    },
+    {
+      "texto": "un",
+      "inicio": 13.493,
+      "fin": 13.6
+    },
+    {
+      "texto": "pago",
+      "inicio": 13.664,
+      "fin": 13.92
+    },
+    {
+      "texto": "mal",
+      "inicio": 13.98,
+      "fin": 14.16
+    },
+    {
+      "texto": "hecho",
+      "inicio": 14.213,
+      "fin": 14.48
+    },
+    {
+      "texto": "o",
+      "inicio": 14.64,
+      "fin": 14.8
+    },
+    {
+      "texto": "un",
+      "inicio": 14.853,
+      "fin": 14.96
+    },
+    {
+      "texto": "informe",
+      "inicio": 15.017,
+      "fin": 15.44
+    },
+    {
+      "texto": "que",
+      "inicio": 15.48,
+      "fin": 15.6
+    },
+    {
+      "texto": "no",
+      "inicio": 15.627,
+      "fin": 15.68
+    },
+    {
+      "texto": "cuadra.",
+      "inicio": 15.76,
+      "fin": 16.72
+    },
+    {
+      "texto": "Y",
+      "inicio": 16.96,
+      "fin": 17.2
+    },
+    {
+      "texto": "en",
+      "inicio": 17.227,
+      "fin": 17.28
+    },
+    {
+      "texto": "un",
+      "inicio": 17.307,
+      "fin": 17.36
+    },
+    {
+      "texto": "mundo",
+      "inicio": 17.427,
+      "fin": 17.76
+    },
+    {
+      "texto": "donde",
+      "inicio": 17.84,
+      "fin": 18.24
+    },
+    {
+      "texto": "la",
+      "inicio": 18.267,
+      "fin": 18.32
+    },
+    {
+      "texto": "inteligencia",
+      "inicio": 18.37,
+      "fin": 18.96
+    },
+    {
+      "texto": "artificial",
+      "inicio": 19.018,
+      "fin": 19.6
+    },
+    {
+      "texto": "también",
+      "inicio": 19.66,
+      "fin": 20.08
+    },
+    {
+      "texto": "genera",
+      "inicio": 20.149,
+      "fin": 20.56
+    },
+    {
+      "texto": "hojas",
+      "inicio": 20.64,
+      "fin": 20.96
+    },
+    {
+      "texto": "de",
+      "inicio": 20.987,
+      "fin": 21.04
+    },
+    {
+      "texto": "cálculo,",
+      "inicio": 21.12,
+      "fin": 22.16
+    },
+    {
+      "texto": "saber",
+      "inicio": 22.227,
+      "fin": 22.56
+    },
+    {
+      "texto": "revisarlas",
+      "inicio": 22.613,
+      "fin": 23.36
+    },
+    {
+      "texto": "vale",
+      "inicio": 23.456,
+      "fin": 23.84
+    },
+    {
+      "texto": "más",
+      "inicio": 23.9,
+      "fin": 24.08
+    },
+    {
+      "texto": "que",
+      "inicio": 24.12,
+      "fin": 24.24
+    },
+    {
+      "texto": "nunca.",
+      "inicio": 24.307,
+      "fin": 24.72
+    },
+    {
+      "texto": "Si",
+      "inicio": 25.818,
+      "fin": 25.845
+    },
+    {
+      "texto": "no",
+      "inicio": 25.898,
+      "fin": 26.005
+    },
+    {
+      "texto": "lo",
+      "inicio": 26.032,
+      "fin": 26.085
+    },
+    {
+      "texto": "aprendes",
+      "inicio": 26.131,
+      "fin": 26.565
+    },
+    {
+      "texto": "ahora,",
+      "inicio": 26.632,
+      "fin": 27.045
+    },
+    {
+      "texto": "te",
+      "inicio": 27.232,
+      "fin": 27.605
+    },
+    {
+      "texto": "extingues.",
+      "inicio": 27.685,
+      "fin": 28.725
+    }
+  ]
+}

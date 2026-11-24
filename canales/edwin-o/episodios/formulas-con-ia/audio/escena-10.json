@@ -1,0 +1,245 @@
+{
+  "num": "10",
+  "titulo": "Por qué pasa",
+  "texto": "Esto pasa porque la IA no ve tu hoja. No sabe tu idioma, ni dónde están tus datos, ni qué significa \"desde mil\" para tu empresa. Si no le das ese contexto, lo inventa. Así que la solución no es otra IA. Es darle un mejor prompt.",
+  "texto_tts": "Esto pasa porque la IA no ve tu hoja. No sabe tu idioma, ni dónde están tus datos, ni qué significa \"desde mil\" para tu empresa. Si no le das ese contexto, lo inventa. Así que la solución no es otra IA. Es darle un mejor prompt.",
+  "modelo": "eleven_v3",
+  "duracion": 19.04,
+  "palabras": [
+    {
+      "texto": "Esto",
+      "inicio": 0.0,
+      "fin": 0.48
+    },
+    {
+      "texto": "pasa",
+      "inicio": 0.528,
+      "fin": 0.72
+    },
+    {
+      "texto": "porque",
+      "inicio": 0.766,
+      "fin": 1.04
+    },
+    {
+      "texto": "la",
+      "inicio": 1.12,
+      "fin": 1.28
+    },
+    {
+      "texto": "IA",
+      "inicio": 1.387,
+      "fin": 1.6
+    },
+    {
+      "texto": "no",
+      "inicio": 1.707,
+      "fin": 1.92
+    },
+    {
+      "texto": "ve",
+      "inicio": 2.0,
+      "fin": 2.16
+    },
+    {
+      "texto": "tu",
+      "inicio": 2.24,
+      "fin": 2.4
+    },
+    {
+      "texto": "hoja.",
+      "inicio": 2.48,
+      "fin": 2.88
+    },
+    {
+      "texto": "No",
+      "inicio": 3.307,
+      "fin": 4.16
+    },
+    {
+      "texto": "sabe",
+      "inicio": 4.224,
+      "fin": 4.48
+    },
+    {
+      "texto": "tu",
+      "inicio": 4.533,
+      "fin": 4.64
+    },
+    {
+      "texto": "idioma,",
+      "inicio": 4.7,
+      "fin": 5.6
+    },
+    {
+      "texto": "ni",
+      "inicio": 5.653,
+      "fin": 5.76
+    },
+    {
+      "texto": "dónde",
+      "inicio": 5.813,
+      "fin": 6.0
+    },
+    {
+      "texto": "están",
+      "inicio": 6.04,
+      "fin": 6.24
+    },
+    {
+      "texto": "tus",
+      "inicio": 6.3,
+      "fin": 6.48
+    },
+    {
+      "texto": "datos,",
+      "inicio": 6.56,
+      "fin": 7.36
+    },
+    {
+      "texto": "ni",
+      "inicio": 7.387,
+      "fin": 7.44
+    },
+    {
+      "texto": "qué",
+      "inicio": 7.5,
+      "fin": 7.68
+    },
+    {
+      "texto": "significa",
+      "inicio": 7.752,
+      "fin": 8.4
+    },
+    {
+      "texto": "\"desde",
+      "inicio": 8.52,
+      "fin": 8.96
+    },
+    {
+      "texto": "mil\"",
+      "inicio": 9.06,
+      "fin": 9.6
+    },
+    {
+      "texto": "para",
+      "inicio": 9.664,
+      "fin": 9.92
+    },
+    {
+      "texto": "tu",
+      "inicio": 9.947,
+      "fin": 10.0
+    },
+    {
+      "texto": "empresa.",
+      "inicio": 10.07,
+      "fin": 10.64
+    },
+    {
+      "texto": "Si",
+      "inicio": 10.907,
+      "fin": 11.44
+    },
+    {
+      "texto": "no",
+      "inicio": 11.493,
+      "fin": 11.6
+    },
+    {
+      "texto": "le",
+      "inicio": 11.627,
+      "fin": 11.68
+    },
+    {
+      "texto": "das",
+      "inicio": 11.74,
+      "fin": 11.92
+    },
+    {
+      "texto": "ese",
+      "inicio": 11.96,
+      "fin": 12.08
+    },
+    {
+      "texto": "contexto,",
+      "inicio": 12.142,
+      "fin": 12.88
+    },
+    {
+      "texto": "lo",
+      "inicio": 12.907,
+      "fin": 12.96
+    },
+    {
+      "texto": "inventa.",
+      "inicio": 13.029,
+      "fin": 13.6
+    },
+    {
+      "texto": "Así",
+      "inicio": 13.973,
+      "fin": 14.8
+    },
+    {
+      "texto": "que",
+      "inicio": 14.82,
+      "fin": 14.88
+    },
+    {
+      "texto": "la",
+      "inicio": 14.907,
+      "fin": 14.96
+    },
+    {
+      "texto": "solución",
+      "inicio": 15.02,
+      "fin": 15.52
+    },
+    {
+      "texto": "no",
+      "inicio": 15.6,
+      "fin": 15.76
+    },
+    {
+      "texto": "es",
+      "inicio": 15.813,
+      "fin": 15.92
+    },
+    {
+      "texto": "otra",
+      "inicio": 15.984,
+      "fin": 16.24
+    },
+    {
+      "texto": "IA.",
+      "inicio": 16.347,
+      "fin": 16.72
+    },
+    {
+      "texto": "Es",
+      "inicio": 16.907,
+      "fin": 17.28
+    },
+    {
+      "texto": "darle",
+      "inicio": 17.32,
+      "fin": 17.52
+    },
+    {
+      "texto": "un",
+      "inicio": 17.573,
+      "fin": 17.68
+    },
+    {
+      "texto": "mejor",
+      "inicio": 17.747,
+      "fin": 18.08
+    },
+    {
+      "texto": "prompt.",
+      "inicio": 18.194,
+      "fin": 19.04
+    }
+  ]
+}

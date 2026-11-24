@@ -1,0 +1,320 @@
+{
+  "num": "16",
+  "titulo": "Lista de revisión antes de enviar",
+  "texto": "Y aquí está la lista de revisión que te prometí. Antes de enviar un archivo, revisa cinco cosas. ¿Hay números pegados a la izquierda? ¿Las celdas de tasas y porcentajes tienen dólares? ¿Todos tus BUSCARV terminan en FALSO? ¿Los totales cuadran cuando muestras los decimales? ¿Y hay celdas combinadas dentro de tus tablas? Dos minutos de revisión te pueden ahorrar mucha vergüenza.",
+  "texto_tts": "Y aquí está la lista de revisión que te prometí. Antes de enviar un archivo, revisa cinco cosas. ¿Hay números pegados a la izquierda? ¿Las celdas de tasas y porcentajes tienen dólares? ¿Todos tus BUSCARV terminan en FALSO? ¿Los totales cuadran cuando muestras los decimales? ¿Y hay celdas combinadas dentro de tus tablas? Dos minutos de revisión te pueden ahorrar mucha vergüenza.",
+  "modelo": "eleven_v3",
+  "duracion": 31.44,
+  "palabras": [
+    {
+      "texto": "Y",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "aquí",
+      "inicio": 0.128,
+      "fin": 0.32
+    },
+    {
+      "texto": "está",
+      "inicio": 0.4,
+      "fin": 0.72
+    },
+    {
+      "texto": "la",
+      "inicio": 0.853,
+      "fin": 1.12
+    },
+    {
+      "texto": "lista",
+      "inicio": 1.173,
+      "fin": 1.44
+    },
+    {
+      "texto": "de",
+      "inicio": 1.467,
+      "fin": 1.52
+    },
+    {
+      "texto": "revisión",
+      "inicio": 1.587,
+      "fin": 2.0
+    },
+    {
+      "texto": "que",
+      "inicio": 2.04,
+      "fin": 2.16
+    },
+    {
+      "texto": "te",
+      "inicio": 2.213,
+      "fin": 2.32
+    },
+    {
+      "texto": "prometí.",
+      "inicio": 2.368,
+      "fin": 2.96
+    },
+    {
+      "texto": "Antes",
+      "inicio": 3.28,
+      "fin": 4.32
+    },
+    {
+      "texto": "de",
+      "inicio": 4.347,
+      "fin": 4.4
+    },
+    {
+      "texto": "enviar",
+      "inicio": 4.446,
+      "fin": 4.72
+    },
+    {
+      "texto": "un",
+      "inicio": 4.747,
+      "fin": 4.8
+    },
+    {
+      "texto": "archivo,",
+      "inicio": 4.86,
+      "fin": 5.36
+    },
+    {
+      "texto": "revisa",
+      "inicio": 5.427,
+      "fin": 5.84
+    },
+    {
+      "texto": "cinco",
+      "inicio": 5.907,
+      "fin": 6.24
+    },
+    {
+      "texto": "cosas.",
+      "inicio": 6.333,
+      "fin": 6.96
+    },
+    {
+      "texto": "¿Hay",
+      "inicio": 7.4,
+      "fin": 8.0
+    },
+    {
+      "texto": "números",
+      "inicio": 8.05,
+      "fin": 8.4
+    },
+    {
+      "texto": "pegados",
+      "inicio": 8.48,
+      "fin": 8.96
+    },
+    {
+      "texto": "a",
+      "inicio": 9.0,
+      "fin": 9.04
+    },
+    {
+      "texto": "la",
+      "inicio": 9.067,
+      "fin": 9.12
+    },
+    {
+      "texto": "izquierda?",
+      "inicio": 9.173,
+      "fin": 9.84
+    },
+    {
+      "texto": "¿Las",
+      "inicio": 10.4,
+      "fin": 11.12
+    },
+    {
+      "texto": "celdas",
+      "inicio": 11.2,
+      "fin": 11.52
+    },
+    {
+      "texto": "de",
+      "inicio": 11.573,
+      "fin": 11.68
+    },
+    {
+      "texto": "tasas",
+      "inicio": 11.74,
+      "fin": 12.08
+    },
+    {
+      "texto": "y",
+      "inicio": 12.12,
+      "fin": 12.16
+    },
+    {
+      "texto": "porcentajes",
+      "inicio": 12.22,
+      "fin": 12.96
+    },
+    {
+      "texto": "tienen",
+      "inicio": 13.017,
+      "fin": 13.36
+    },
+    {
+      "texto": "dólares?",
+      "inicio": 13.44,
+      "fin": 14.08
+    },
+    {
+      "texto": "¿Todos",
+      "inicio": 14.8,
+      "fin": 15.76
+    },
+    {
+      "texto": "tus",
+      "inicio": 15.82,
+      "fin": 16.0
+    },
+    {
+      "texto": "BUSCARV",
+      "inicio": 16.08,
+      "fin": 17.2
+    },
+    {
+      "texto": "terminan",
+      "inicio": 17.257,
+      "fin": 17.68
+    },
+    {
+      "texto": "en",
+      "inicio": 17.733,
+      "fin": 17.84
+    },
+    {
+      "texto": "FALSO?",
+      "inicio": 17.92,
+      "fin": 18.48
+    },
+    {
+      "texto": "¿Los",
+      "inicio": 19.16,
+      "fin": 19.92
+    },
+    {
+      "texto": "totales",
+      "inicio": 20.0,
+      "fin": 20.48
+    },
+    {
+      "texto": "cuadran",
+      "inicio": 20.56,
+      "fin": 21.12
+    },
+    {
+      "texto": "cuando",
+      "inicio": 21.166,
+      "fin": 21.44
+    },
+    {
+      "texto": "muestras",
+      "inicio": 21.5,
+      "fin": 21.92
+    },
+    {
+      "texto": "los",
+      "inicio": 21.94,
+      "fin": 22.0
+    },
+    {
+      "texto": "decimales?",
+      "inicio": 22.06,
+      "fin": 22.96
+    },
+    {
+      "texto": "¿Y",
+      "inicio": 23.48,
+      "fin": 24.08
+    },
+    {
+      "texto": "hay",
+      "inicio": 24.1,
+      "fin": 24.16
+    },
+    {
+      "texto": "celdas",
+      "inicio": 24.24,
+      "fin": 24.64
+    },
+    {
+      "texto": "combinadas",
+      "inicio": 24.697,
+      "fin": 25.36
+    },
+    {
+      "texto": "dentro",
+      "inicio": 25.406,
+      "fin": 25.68
+    },
+    {
+      "texto": "de",
+      "inicio": 25.707,
+      "fin": 25.76
+    },
+    {
+      "texto": "tus",
+      "inicio": 25.8,
+      "fin": 25.92
+    },
+    {
+      "texto": "tablas?",
+      "inicio": 26.0,
+      "fin": 26.64
+    },
+    {
+      "texto": "Dos",
+      "inicio": 26.98,
+      "fin": 28.0
+    },
+    {
+      "texto": "minutos",
+      "inicio": 28.05,
+      "fin": 28.4
+    },
+    {
+      "texto": "de",
+      "inicio": 28.453,
+      "fin": 28.56
+    },
+    {
+      "texto": "revisión",
+      "inicio": 28.627,
+      "fin": 29.12
+    },
+    {
+      "texto": "te",
+      "inicio": 29.227,
+      "fin": 29.44
+    },
+    {
+      "texto": "pueden",
+      "inicio": 29.486,
+      "fin": 29.76
+    },
+    {
+      "texto": "ahorrar",
+      "inicio": 29.787,
+      "fin": 30.16
+    },
+    {
+      "texto": "mucha",
+      "inicio": 30.256,
+      "fin": 30.8
+    },
+    {
+      "texto": "vergüenza.",
+      "inicio": 30.832,
+      "fin": 31.44
+    }
+  ]
+}

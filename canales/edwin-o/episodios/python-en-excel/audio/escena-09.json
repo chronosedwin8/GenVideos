@@ -1,0 +1,295 @@
+{
+  "num": "09",
+  "titulo": "Paso 4: objeto de Python o valores de Excel",
+  "texto": "Paso cuatro, un concepto clave: cada celda de Python puede devolver dos cosas. Un objeto de Python, que se ve como una tarjeta y sirve para seguir trabajando en Python. O valores de Excel, que se desbordan en la hoja, como cualquier resultado normal. Lo cambias en el menú de salida, junto a la barra de fórmulas.",
+  "texto_tts": "Paso cuatro, un concepto clave: cada celda de Python puede devolver dos cosas. Un objeto de Python, que se ve como una tarjeta y sirve para seguir trabajando en Python. O valores de Excel, que se desbordan en la hoja, como cualquier resultado normal. Lo cambias en el menú de salida, junto a la barra de fórmulas.",
+  "modelo": "eleven_v3",
+  "duracion": 22.8,
+  "palabras": [
+    {
+      "texto": "Paso",
+      "inicio": 0.0,
+      "fin": 0.24
+    },
+    {
+      "texto": "cuatro,",
+      "inicio": 0.309,
+      "fin": 0.96
+    },
+    {
+      "texto": "un",
+      "inicio": 0.987,
+      "fin": 1.04
+    },
+    {
+      "texto": "concepto",
+      "inicio": 1.12,
+      "fin": 1.76
+    },
+    {
+      "texto": "clave:",
+      "inicio": 1.84,
+      "fin": 3.12
+    },
+    {
+      "texto": "cada",
+      "inicio": 3.184,
+      "fin": 3.44
+    },
+    {
+      "texto": "celda",
+      "inicio": 3.52,
+      "fin": 3.84
+    },
+    {
+      "texto": "de",
+      "inicio": 3.867,
+      "fin": 3.92
+    },
+    {
+      "texto": "Python",
+      "inicio": 3.989,
+      "fin": 4.4
+    },
+    {
+      "texto": "puede",
+      "inicio": 4.467,
+      "fin": 4.8
+    },
+    {
+      "texto": "devolver",
+      "inicio": 4.84,
+      "fin": 5.28
+    },
+    {
+      "texto": "dos",
+      "inicio": 5.38,
+      "fin": 5.68
+    },
+    {
+      "texto": "cosas.",
+      "inicio": 5.787,
+      "fin": 6.48
+    },
+    {
+      "texto": "Un",
+      "inicio": 6.773,
+      "fin": 7.36
+    },
+    {
+      "texto": "objeto",
+      "inicio": 7.429,
+      "fin": 7.84
+    },
+    {
+      "texto": "de",
+      "inicio": 7.867,
+      "fin": 7.92
+    },
+    {
+      "texto": "Python,",
+      "inicio": 7.989,
+      "fin": 8.64
+    },
+    {
+      "texto": "que",
+      "inicio": 8.66,
+      "fin": 8.72
+    },
+    {
+      "texto": "se",
+      "inicio": 8.773,
+      "fin": 8.88
+    },
+    {
+      "texto": "ve",
+      "inicio": 8.933,
+      "fin": 9.04
+    },
+    {
+      "texto": "como",
+      "inicio": 9.088,
+      "fin": 9.28
+    },
+    {
+      "texto": "una",
+      "inicio": 9.32,
+      "fin": 9.44
+    },
+    {
+      "texto": "tarjeta",
+      "inicio": 9.52,
+      "fin": 10.08
+    },
+    {
+      "texto": "y",
+      "inicio": 10.2,
+      "fin": 10.32
+    },
+    {
+      "texto": "sirve",
+      "inicio": 10.38,
+      "fin": 10.64
+    },
+    {
+      "texto": "para",
+      "inicio": 10.688,
+      "fin": 10.88
+    },
+    {
+      "texto": "seguir",
+      "inicio": 10.937,
+      "fin": 11.28
+    },
+    {
+      "texto": "trabajando",
+      "inicio": 11.337,
+      "fin": 11.76
+    },
+    {
+      "texto": "en",
+      "inicio": 11.813,
+      "fin": 11.92
+    },
+    {
+      "texto": "Python.",
+      "inicio": 11.989,
+      "fin": 12.56
+    },
+    {
+      "texto": "O",
+      "inicio": 12.92,
+      "fin": 13.28
+    },
+    {
+      "texto": "valores",
+      "inicio": 13.36,
+      "fin": 13.92
+    },
+    {
+      "texto": "de",
+      "inicio": 13.947,
+      "fin": 14.0
+    },
+    {
+      "texto": "Excel,",
+      "inicio": 14.08,
+      "fin": 14.96
+    },
+    {
+      "texto": "que",
+      "inicio": 14.98,
+      "fin": 15.04
+    },
+    {
+      "texto": "se",
+      "inicio": 15.12,
+      "fin": 15.28
+    },
+    {
+      "texto": "desbordan",
+      "inicio": 15.34,
+      "fin": 15.84
+    },
+    {
+      "texto": "en",
+      "inicio": 15.893,
+      "fin": 16.0
+    },
+    {
+      "texto": "la",
+      "inicio": 16.027,
+      "fin": 16.08
+    },
+    {
+      "texto": "hoja,",
+      "inicio": 16.16,
+      "fin": 16.64
+    },
+    {
+      "texto": "como",
+      "inicio": 16.672,
+      "fin": 16.8
+    },
+    {
+      "texto": "cualquier",
+      "inicio": 16.856,
+      "fin": 17.36
+    },
+    {
+      "texto": "resultado",
+      "inicio": 17.408,
+      "fin": 17.84
+    },
+    {
+      "texto": "normal.",
+      "inicio": 17.909,
+      "fin": 18.4
+    },
+    {
+      "texto": "Lo",
+      "inicio": 18.693,
+      "fin": 19.28
+    },
+    {
+      "texto": "cambias",
+      "inicio": 19.344,
+      "fin": 19.76
+    },
+    {
+      "texto": "en",
+      "inicio": 19.813,
+      "fin": 19.92
+    },
+    {
+      "texto": "el",
+      "inicio": 19.947,
+      "fin": 20.0
+    },
+    {
+      "texto": "menú",
+      "inicio": 20.06,
+      "fin": 20.32
+    },
+    {
+      "texto": "de",
+      "inicio": 20.347,
+      "fin": 20.4
+    },
+    {
+      "texto": "salida,",
+      "inicio": 20.469,
+      "fin": 21.12
+    },
+    {
+      "texto": "junto",
+      "inicio": 21.187,
+      "fin": 21.52
+    },
+    {
+      "texto": "a",
+      "inicio": 21.56,
+      "fin": 21.6
+    },
+    {
+      "texto": "la",
+      "inicio": 21.627,
+      "fin": 21.68
+    },
+    {
+      "texto": "barra",
+      "inicio": 21.72,
+      "fin": 21.92
+    },
+    {
+      "texto": "de",
+      "inicio": 21.973,
+      "fin": 22.08
+    },
+    {
+      "texto": "fórmulas.",
+      "inicio": 22.12,
+      "fin": 22.8
+    }
+  ]
+}

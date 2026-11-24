@@ -1,0 +1,325 @@
+{
+  "num": "04",
+  "titulo": "Lo que tienen en común: el desbordamiento",
+  "texto": "Antes de empezar, una idea clave. Estas funciones escriben la fórmula en una sola celda, y el resultado se desborda hacia abajo o hacia los lados, ocupando las celdas que necesite. Si ves el error desbordamiento, es porque hay algo estorbando en esas celdas: bórralo y listo. Eso sí, necesitas Excel dos mil veintiuno, dos mil veinticuatro, o Microsoft trescientos sesenta y cinco.",
+  "texto_tts": "Antes de empezar, una idea clave. Estas funciones escriben la fórmula en una sola celda, y el resultado se desborda hacia abajo o hacia los lados, ocupando las celdas que necesite. Si ves el error desbordamiento, es porque hay algo estorbando en esas celdas: bórralo y listo. Eso sí, necesitas Excel dos mil veintiuno, dos mil veinticuatro, o Microsoft trescientos sesenta y cinco.",
+  "modelo": "eleven_v3",
+  "duracion": 28.24,
+  "palabras": [
+    {
+      "texto": "Antes",
+      "inicio": 0.0,
+      "fin": 0.32
+    },
+    {
+      "texto": "de",
+      "inicio": 0.347,
+      "fin": 0.4
+    },
+    {
+      "texto": "empezar,",
+      "inicio": 0.453,
+      "fin": 1.2
+    },
+    {
+      "texto": "una",
+      "inicio": 1.24,
+      "fin": 1.36
+    },
+    {
+      "texto": "idea",
+      "inicio": 1.408,
+      "fin": 1.6
+    },
+    {
+      "texto": "clave.",
+      "inicio": 1.68,
+      "fin": 2.4
+    },
+    {
+      "texto": "Estas",
+      "inicio": 2.56,
+      "fin": 3.12
+    },
+    {
+      "texto": "funciones",
+      "inicio": 3.192,
+      "fin": 3.84
+    },
+    {
+      "texto": "escriben",
+      "inicio": 3.907,
+      "fin": 4.4
+    },
+    {
+      "texto": "la",
+      "inicio": 4.453,
+      "fin": 4.56
+    },
+    {
+      "texto": "fórmula",
+      "inicio": 4.64,
+      "fin": 5.12
+    },
+    {
+      "texto": "en",
+      "inicio": 5.2,
+      "fin": 5.36
+    },
+    {
+      "texto": "una",
+      "inicio": 5.42,
+      "fin": 5.6
+    },
+    {
+      "texto": "sola",
+      "inicio": 5.664,
+      "fin": 5.92
+    },
+    {
+      "texto": "celda,",
+      "inicio": 6.0,
+      "fin": 6.64
+    },
+    {
+      "texto": "y",
+      "inicio": 6.88,
+      "fin": 7.12
+    },
+    {
+      "texto": "el",
+      "inicio": 7.173,
+      "fin": 7.28
+    },
+    {
+      "texto": "resultado",
+      "inicio": 7.344,
+      "fin": 7.92
+    },
+    {
+      "texto": "se",
+      "inicio": 7.973,
+      "fin": 8.08
+    },
+    {
+      "texto": "desborda",
+      "inicio": 8.16,
+      "fin": 8.72
+    },
+    {
+      "texto": "hacia",
+      "inicio": 8.787,
+      "fin": 9.12
+    },
+    {
+      "texto": "abajo",
+      "inicio": 9.173,
+      "fin": 9.52
+    },
+    {
+      "texto": "o",
+      "inicio": 9.68,
+      "fin": 9.84
+    },
+    {
+      "texto": "hacia",
+      "inicio": 9.88,
+      "fin": 10.08
+    },
+    {
+      "texto": "los",
+      "inicio": 10.12,
+      "fin": 10.24
+    },
+    {
+      "texto": "lados,",
+      "inicio": 10.32,
+      "fin": 11.36
+    },
+    {
+      "texto": "ocupando",
+      "inicio": 11.424,
+      "fin": 11.84
+    },
+    {
+      "texto": "las",
+      "inicio": 11.88,
+      "fin": 12.0
+    },
+    {
+      "texto": "celdas",
+      "inicio": 12.08,
+      "fin": 12.4
+    },
+    {
+      "texto": "que",
+      "inicio": 12.42,
+      "fin": 12.48
+    },
+    {
+      "texto": "necesite.",
+      "inicio": 12.547,
+      "fin": 13.44
+    },
+    {
+      "texto": "Si",
+      "inicio": 13.707,
+      "fin": 14.24
+    },
+    {
+      "texto": "ves",
+      "inicio": 14.3,
+      "fin": 14.48
+    },
+    {
+      "texto": "el",
+      "inicio": 14.533,
+      "fin": 14.64
+    },
+    {
+      "texto": "error",
+      "inicio": 14.693,
+      "fin": 14.96
+    },
+    {
+      "texto": "desbordamiento,",
+      "inicio": 15.02,
+      "fin": 16.4
+    },
+    {
+      "texto": "es",
+      "inicio": 16.453,
+      "fin": 16.56
+    },
+    {
+      "texto": "porque",
+      "inicio": 16.594,
+      "fin": 16.8
+    },
+    {
+      "texto": "hay",
+      "inicio": 16.84,
+      "fin": 16.96
+    },
+    {
+      "texto": "algo",
+      "inicio": 17.008,
+      "fin": 17.2
+    },
+    {
+      "texto": "estorbando",
+      "inicio": 17.24,
+      "fin": 17.76
+    },
+    {
+      "texto": "en",
+      "inicio": 17.787,
+      "fin": 17.84
+    },
+    {
+      "texto": "esas",
+      "inicio": 17.888,
+      "fin": 18.08
+    },
+    {
+      "texto": "celdas:",
+      "inicio": 18.16,
+      "fin": 19.28
+    },
+    {
+      "texto": "bórralo",
+      "inicio": 19.32,
+      "fin": 19.76
+    },
+    {
+      "texto": "y",
+      "inicio": 19.88,
+      "fin": 20.0
+    },
+    {
+      "texto": "listo.",
+      "inicio": 20.08,
+      "fin": 20.72
+    },
+    {
+      "texto": "Eso",
+      "inicio": 21.04,
+      "fin": 21.52
+    },
+    {
+      "texto": "sí,",
+      "inicio": 21.6,
+      "fin": 21.84
+    },
+    {
+      "texto": "necesitas",
+      "inicio": 21.973,
+      "fin": 22.88
+    },
+    {
+      "texto": "Excel",
+      "inicio": 22.96,
+      "fin": 23.36
+    },
+    {
+      "texto": "dos",
+      "inicio": 23.4,
+      "fin": 23.52
+    },
+    {
+      "texto": "mil",
+      "inicio": 23.56,
+      "fin": 23.68
+    },
+    {
+      "texto": "veintiuno,",
+      "inicio": 23.733,
+      "fin": 24.241
+    },
+    {
+      "texto": "dos",
+      "inicio": 24.3,
+      "fin": 24.48
+    },
+    {
+      "texto": "mil",
+      "inicio": 24.52,
+      "fin": 24.64
+    },
+    {
+      "texto": "veinticuatro,",
+      "inicio": 24.693,
+      "fin": 25.76
+    },
+    {
+      "texto": "o",
+      "inicio": 25.88,
+      "fin": 26.0
+    },
+    {
+      "texto": "Microsoft",
+      "inicio": 26.064,
+      "fin": 26.64
+    },
+    {
+      "texto": "trescientos",
+      "inicio": 26.688,
+      "fin": 27.12
+    },
+    {
+      "texto": "sesenta",
+      "inicio": 27.18,
+      "fin": 27.52
+    },
+    {
+      "texto": "y",
+      "inicio": 27.6,
+      "fin": 27.68
+    },
+    {
+      "texto": "cinco.",
+      "inicio": 27.747,
+      "fin": 28.24
+    }
+  ]
+}

@@ -556,7 +556,7 @@ const E13: React.FC<EscenaProps> = ({t}) => {
         </AbsoluteFill>
       </Ventana>
       <Ventana de={sig} a={fin}>
-        <CierreSiguiente tema={tema} siguiente="BUSCARX en Excel" desde={0.1} suscribirDesde={2} />
+        <CierreSiguiente tema={tema} siguiente="Fórmulas con IA que SÍ funcionan" desde={0.1} suscribirDesde={2} />
       </Ventana>
       <Ventana de={fin}>
         <AbsoluteFill style={{alignItems: 'center', justifyContent: 'center', gap: 50}}>

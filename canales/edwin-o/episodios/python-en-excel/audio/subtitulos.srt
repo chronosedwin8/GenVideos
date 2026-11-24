@@ -1,0 +1,983 @@
+1
+00:00:00,202 --> 00:00:02,480
+Esto es una celda de Excel… y
+
+2
+00:00:02,560 --> 00:00:04,400
+adentro estoy escribiendo
+
+3
+00:00:04,503 --> 00:00:05,640
+Python.
+
+4
+00:00:05,770 --> 00:00:08,720
+Una línea, Control más Entrar, y
+
+5
+00:00:08,787 --> 00:00:11,360
+aparece un gráfico de ventas por región.
+
+6
+00:00:12,210 --> 00:00:14,960
+Sin instalar nada, sin salir de Excel.
+
+7
+00:00:15,120 --> 00:00:17,120
+Hoy te enseño a hacer tu primer
+
+8
+00:00:17,168 --> 00:00:19,600
+análisis con Python dentro de
+
+9
+00:00:19,667 --> 00:00:20,240
+Excel.
+
+10
+00:00:20,712 --> 00:00:22,960
+¡Bienvenidos, amigos del canal!
+
+11
+00:00:23,040 --> 00:00:25,120
+Vamos en busca del poder
+
+12
+00:00:25,200 --> 00:00:26,160
+tecnológico.
+
+13
+00:00:26,220 --> 00:00:28,400
+Hoy juntamos los dos mundos de este
+
+14
+00:00:28,467 --> 00:00:29,200
+canal:
+
+15
+00:00:29,280 --> 00:00:31,200
+Excel y Python.
+
+16
+00:00:31,227 --> 00:00:33,920
+Te muestro cómo activarlo, cómo traer tus
+
+17
+00:00:34,000 --> 00:00:36,320
+datos, cómo sacar estadísticas y
+
+18
+00:00:36,400 --> 00:00:39,280
+gráficos, y también sus límites, para que
+
+19
+00:00:39,307 --> 00:00:40,720
+no te lleves sorpresas.
+
+20
+00:00:41,120 --> 00:00:42,640
+Primero, el estado actual.
+
+21
+00:00:42,811 --> 00:00:44,880
+Python en Excel ya no es un
+
+22
+00:00:44,938 --> 00:00:46,080
+experimento:
+
+23
+00:00:46,112 --> 00:00:48,240
+para cuentas de empresa ya está disponible
+
+24
+00:00:48,320 --> 00:00:50,640
+en Windows, en la web, y desde
+
+25
+00:00:50,660 --> 00:00:52,480
+dos mil veinticinco también en Mac.
+
+26
+00:00:52,624 --> 00:00:55,120
+Para los planes Personal y Familia sigue
+
+27
+00:00:55,147 --> 00:00:56,000
+en vista previa.
+
+28
+00:00:56,120 --> 00:00:58,320
+Y por ahora no funciona en iPad,
+
+29
+00:00:58,389 --> 00:00:59,520
+iPhone ni Android.
+
+30
+00:00:59,920 --> 00:01:00,800
+Te doy mi opinión:
+
+31
+00:01:00,992 --> 00:01:03,840
+para quien ya sabe Excel,
+
+32
+00:01:03,888 --> 00:01:05,440
+esta es la mejor puerta de entrada
+
+33
+00:01:05,480 --> 00:01:06,080
+a Python.
+
+34
+00:01:06,453 --> 00:01:09,200
+No tienes que instalar nada, ni configurar
+
+35
+00:01:09,280 --> 00:01:11,200
+nada, ni pelear con la terminal.
+
+36
+00:01:11,300 --> 00:01:13,280
+Tus datos ya están ahí, en la
+
+37
+00:01:13,360 --> 00:01:13,760
+hoja.
+
+38
+00:01:13,904 --> 00:01:16,560
+Solo escribes, y ves el resultado.
+
+39
+00:01:16,907 --> 00:01:19,840
+Si alguna vez te dio miedo programar,
+
+40
+00:01:19,900 --> 00:01:20,800
+empieza por aquí.
+
+41
+00:01:21,200 --> 00:01:22,080
+¿Cómo funciona?
+
+42
+00:01:22,373 --> 00:01:24,960
+Tu código no se ejecuta en tu
+
+43
+00:01:25,017 --> 00:01:27,040
+computador, sino en la nube de
+
+44
+00:01:27,104 --> 00:01:30,080
+Microsoft, con las bibliotecas de Anaconda,
+
+45
+00:01:30,120 --> 00:01:31,920
+las mismas que usan los científicos de
+
+46
+00:01:32,000 --> 00:01:32,480
+datos.
+
+47
+00:01:32,680 --> 00:01:35,120
+Excel envía el código y los
+
+48
+00:01:35,200 --> 00:01:37,760
+datos, la nube los procesa, y el
+
+49
+00:01:37,824 --> 00:01:39,600
+resultado vuelve a tu celda.
+
+50
+00:01:39,820 --> 00:01:42,560
+Por eso necesitas conexión a internet, y
+
+51
+00:01:42,600 --> 00:01:44,480
+por eso no tienes que instalar nada.
+
+52
+00:01:44,720 --> 00:01:46,880
+Tu hoja sigue siendo un archivo de
+
+53
+00:01:46,920 --> 00:01:49,760
+Excel normal, que puedes compartir como siempre.
+
+54
+00:01:50,160 --> 00:01:50,800
+Paso uno:
+
+55
+00:01:50,880 --> 00:01:52,320
+prepara tus datos.
+
+56
+00:01:52,760 --> 00:01:55,360
+Tengo doce ventas con mes,
+
+57
+00:01:55,420 --> 00:01:57,680
+región, producto y monto.
+
+58
+00:01:57,888 --> 00:02:00,240
+Selecciónalas y presiona
+
+59
+00:02:00,330 --> 00:02:03,200
+Control más T para convertirlas en
+
+60
+00:02:03,280 --> 00:02:04,360
+Tabla.
+
+61
+00:02:04,660 --> 00:02:07,040
+Luego, en la pestaña Diseño de
+
+62
+00:02:07,133 --> 00:02:09,680
+tabla, ponle un nombre fácil, por
+
+63
+00:02:09,760 --> 00:02:10,560
+ejemplo:
+
+64
+00:02:10,640 --> 00:02:11,440
+Ventas.
+
+65
+00:02:11,627 --> 00:02:14,240
+Así Python puede encontrarla por su nombre.
+
+66
+00:02:14,640 --> 00:02:15,280
+Paso dos:
+
+67
+00:02:15,336 --> 00:02:18,160
+selecciona una celda vacía, ve a la
+
+68
+00:02:18,240 --> 00:02:20,720
+pestaña Fórmulas, y haz clic en Insertar
+
+69
+00:02:20,800 --> 00:02:21,360
+Python.
+
+70
+00:02:21,720 --> 00:02:22,920
+O más rápido:
+
+71
+00:02:22,987 --> 00:02:25,840
+escribe igual, P Y, y abre
+
+72
+00:02:25,880 --> 00:02:26,720
+paréntesis.
+
+73
+00:02:26,960 --> 00:02:29,040
+La celda se marca con una insignia
+
+74
+00:02:29,080 --> 00:02:30,800
+que dice P Y.
+
+75
+00:02:31,160 --> 00:02:33,280
+Eso significa que todo lo que escribas
+
+76
+00:02:33,333 --> 00:02:36,160
+ahí es Python, no una fórmula normal.
+
+77
+00:02:36,560 --> 00:02:37,360
+Paso tres:
+
+78
+00:02:37,600 --> 00:02:39,040
+trae los datos.
+
+79
+00:02:39,280 --> 00:02:40,880
+Escribe:
+
+80
+00:02:41,000 --> 00:02:42,960
+d f, igual,
+
+81
+00:02:43,560 --> 00:02:45,920
+x l, y entre
+
+82
+00:02:45,980 --> 00:02:48,960
+paréntesis y comillas, Ventas,
+
+83
+00:02:49,140 --> 00:02:51,920
+corchete, numeral, all.
+
+84
+00:02:52,220 --> 00:02:55,200
+Coma, headers igual
+
+85
+00:02:55,320 --> 00:02:57,520
+a True, para decir que la primera
+
+86
+00:02:57,600 --> 00:02:59,520
+fila son encabezados.
+
+87
+00:02:59,880 --> 00:03:00,880
+Y ojo:
+
+88
+00:03:01,008 --> 00:03:03,760
+aquí Enter no confirma,
+
+89
+00:03:03,856 --> 00:03:06,080
+solo crea una línea nueva.
+
+90
+00:03:06,208 --> 00:03:08,560
+Para confirmar, presiona
+
+91
+00:03:08,700 --> 00:03:11,200
+Control más Entrar.
+
+92
+00:03:11,600 --> 00:03:14,400
+La celda muestra una tarjeta
+
+93
+00:03:14,460 --> 00:03:17,360
+que dice DataFrame:
+
+94
+00:03:17,413 --> 00:03:20,000
+tu tabla ya vive en Python.
+
+95
+00:03:20,400 --> 00:03:22,160
+Paso cuatro, un concepto
+
+96
+00:03:22,240 --> 00:03:23,520
+clave:
+
+97
+00:03:23,584 --> 00:03:26,080
+cada celda de Python puede devolver dos
+
+98
+00:03:26,187 --> 00:03:26,880
+cosas.
+
+99
+00:03:27,173 --> 00:03:29,440
+Un objeto de Python, que se ve
+
+100
+00:03:29,488 --> 00:03:31,680
+como una tarjeta y sirve para seguir
+
+101
+00:03:31,737 --> 00:03:32,960
+trabajando en Python.
+
+102
+00:03:33,320 --> 00:03:36,240
+O valores de Excel, que se desbordan
+
+103
+00:03:36,293 --> 00:03:38,800
+en la hoja, como cualquier resultado normal.
+
+104
+00:03:39,093 --> 00:03:41,520
+Lo cambias en el menú de salida,
+
+105
+00:03:41,587 --> 00:03:43,200
+junto a la barra de fórmulas.
+
+106
+00:03:43,600 --> 00:03:44,560
+Paso cinco:
+
+107
+00:03:44,707 --> 00:03:46,160
+estadísticas.
+
+108
+00:03:46,507 --> 00:03:48,800
+En otra celda escribe:
+
+109
+00:03:49,120 --> 00:03:51,680
+d f punto describe,
+
+110
+00:03:51,808 --> 00:03:53,600
+abre y cierra paréntesis.
+
+111
+00:03:53,730 --> 00:03:56,640
+Control más Entrar, y cámbialo
+
+112
+00:03:56,800 --> 00:03:58,320
+a valores de Excel.
+
+113
+00:03:58,880 --> 00:04:01,680
+Mira todo lo que te da:
+
+114
+00:04:01,733 --> 00:04:04,560
+doce ventas, un promedio de novecientos
+
+115
+00:04:04,600 --> 00:04:07,200
+diez, la desviación estándar,
+
+116
+00:04:07,387 --> 00:04:09,920
+la venta mínima de treinta y cinco,
+
+117
+00:04:10,080 --> 00:04:12,880
+la máxima de tres mil seiscientos, y
+
+118
+00:04:12,920 --> 00:04:14,520
+los cuartiles.
+
+119
+00:04:14,640 --> 00:04:16,880
+Todo eso, con una palabra.
+
+120
+00:04:17,280 --> 00:04:18,000
+Paso seis:
+
+121
+00:04:18,120 --> 00:04:18,960
+agrupar.
+
+122
+00:04:19,320 --> 00:04:20,800
+¿Te suena groupby?
+
+123
+00:04:21,013 --> 00:04:22,560
+Es lo mismo que usamos en el
+
+124
+00:04:22,613 --> 00:04:24,240
+video de los doce reportes.
+
+125
+00:04:24,400 --> 00:04:25,360
+Escribe:
+
+126
+00:04:25,520 --> 00:04:28,320
+d f punto groupby
+
+127
+00:04:28,500 --> 00:04:31,440
+región, corchetes monto,
+
+128
+00:04:31,587 --> 00:04:33,120
+punto sum.
+
+129
+00:04:33,480 --> 00:04:36,000
+Y tienes el total por región:
+
+130
+00:04:36,080 --> 00:04:38,560
+Centro, dos mil doscientos treinta y cinco.
+
+131
+00:04:38,707 --> 00:04:41,040
+Norte, seis mil trescientos cuarenta y
+
+132
+00:04:41,133 --> 00:04:41,760
+cinco.
+
+133
+00:04:41,920 --> 00:04:44,480
+Y Sur, dos mil trescientos cuarenta.
+
+134
+00:04:44,640 --> 00:04:46,400
+Los mismos resultados que con
+
+135
+00:04:46,560 --> 00:04:49,280
+AGRUPARPOR, pero ahora en Python.
+
+136
+00:04:49,680 --> 00:04:51,760
+Paso siete, el que viste al principio.
+
+137
+00:04:51,947 --> 00:04:54,000
+Al final de esa misma línea agrega:
+
+138
+00:04:54,080 --> 00:04:56,800
+punto plot, kind igual a bar.
+
+139
+00:04:57,093 --> 00:04:59,440
+La celda muestra una imagen pequeña.
+
+140
+00:04:59,520 --> 00:05:01,920
+Para verla en grande, haz clic derecho
+
+141
+00:05:01,960 --> 00:05:04,320
+sobre la celda y elige mostrar el
+
+142
+00:05:04,373 --> 00:05:07,040
+gráfico sobre las celdas, o usa
+
+143
+00:05:07,120 --> 00:05:10,000
+Control, Alt, Mayúscula y C.
+
+144
+00:05:10,320 --> 00:05:12,240
+Y ahí está tu gráfico de barras,
+
+145
+00:05:12,260 --> 00:05:13,840
+que puedes mover y agrandar.
+
+146
+00:05:14,240 --> 00:05:14,960
+Un bonus.
+
+147
+00:05:15,200 --> 00:05:16,880
+¿Y si solo quieres febrero?
+
+148
+00:05:17,040 --> 00:05:20,000
+En pandas, filtras poniendo la condición entre
+
+149
+00:05:20,060 --> 00:05:20,880
+corchetes:
+
+150
+00:05:21,160 --> 00:05:24,080
+d f, y entre corchetes, la columna
+
+151
+00:05:24,240 --> 00:05:26,560
+mes igual a Feb.
+
+152
+00:05:26,820 --> 00:05:29,280
+Con doble signo igual, como vimos en
+
+153
+00:05:29,307 --> 00:05:30,720
+el video de condicionales.
+
+154
+00:05:30,900 --> 00:05:33,280
+Después agrupas igual que antes.
+
+155
+00:05:33,440 --> 00:05:34,800
+Resultado:
+
+156
+00:05:34,960 --> 00:05:37,920
+en febrero, Norte vendió tres mil seiscientos
+
+157
+00:05:37,960 --> 00:05:40,880
+treinta y cinco, Centro mil quinientos
+
+158
+00:05:40,940 --> 00:05:43,360
+diez, y Sur mil setenta.
+
+159
+00:05:43,653 --> 00:05:45,840
+Es el mismo filtro que hicimos con
+
+160
+00:05:46,000 --> 00:05:48,720
+AGRUPARPOR, escrito en Python.
+
+161
+00:05:49,120 --> 00:05:50,560
+¿Y qué más puedes hacer?
+
+162
+00:05:50,686 --> 00:05:53,520
+Python en Excel trae ya importadas
+
+163
+00:05:53,573 --> 00:05:55,200
+cinco bibliotecas:
+
+164
+00:05:55,269 --> 00:05:57,680
+pandas para los datos, NumPy para los
+
+165
+00:05:57,720 --> 00:06:00,640
+cálculos, Matplotlib y seaborn para los
+
+166
+00:06:00,667 --> 00:06:03,600
+gráficos, y statsmodels para estadística
+
+167
+00:06:03,667 --> 00:06:04,240
+avanzada.
+
+168
+00:06:04,640 --> 00:06:06,640
+Y hay unas treinta más que puedes
+
+169
+00:06:06,709 --> 00:06:09,520
+importar, como scikit-learn, para aprendizaje
+
+170
+00:06:09,573 --> 00:06:10,640
+automático.
+
+171
+00:06:10,773 --> 00:06:13,360
+Es un laboratorio de ciencia de datos
+
+172
+00:06:13,440 --> 00:06:15,200
+completo, dentro de tu hoja.
+
+173
+00:06:15,600 --> 00:06:17,600
+Un detalle que confunde a muchos:
+
+174
+00:06:17,640 --> 00:06:19,600
+las celdas de Python se calculan en
+
+175
+00:06:19,667 --> 00:06:22,080
+orden, fila por fila, de izquierda a
+
+176
+00:06:22,112 --> 00:06:24,160
+derecha y de arriba hacia abajo.
+
+177
+00:06:24,280 --> 00:06:26,480
+Por eso, la celda donde creas d
+
+178
+00:06:26,720 --> 00:06:28,560
+f tiene que estar antes que las
+
+179
+00:06:28,640 --> 00:06:29,960
+celdas que la usan.
+
+180
+00:06:30,107 --> 00:06:31,520
+Mi consejo:
+
+181
+00:06:31,560 --> 00:06:33,119
+pon la celda de los datos arriba
+
+182
+00:06:33,120 --> 00:06:35,440
+a la izquierda, y tus análisis debajo
+
+183
+00:06:35,560 --> 00:06:36,320
+o a la derecha.
+
+184
+00:06:36,720 --> 00:06:39,360
+Y ahora, los límites, para que no
+
+185
+00:06:39,387 --> 00:06:40,720
+te lleves sorpresas.
+
+186
+00:06:40,800 --> 00:06:42,320
+Uno:
+
+187
+00:06:42,377 --> 00:06:44,880
+Python en Excel no puede leer archivos
+
+188
+00:06:44,907 --> 00:06:47,760
+de tu computador ni conectarse a páginas
+
+189
+00:06:47,860 --> 00:06:48,240
+web.
+
+190
+00:06:48,420 --> 00:06:50,720
+Los datos tienen que estar en la
+
+191
+00:06:50,773 --> 00:06:53,120
+hoja o venir de Power Query.
+
+192
+00:06:53,440 --> 00:06:54,560
+Dos:
+
+193
+00:06:54,760 --> 00:06:57,600
+sin internet no calcula, porque
+
+194
+00:06:57,680 --> 00:06:59,040
+todo pasa en la nube.
+
+195
+00:06:59,440 --> 00:07:00,400
+Y tres:
+
+196
+00:07:00,640 --> 00:07:03,360
+no funciona en las aplicaciones del celular.
+
+197
+00:07:03,733 --> 00:07:06,560
+Si conoces estos límites, no vas a
+
+198
+00:07:06,617 --> 00:07:07,440
+perder tiempo.
+
+199
+00:07:07,840 --> 00:07:09,840
+Entonces, ¿cuándo usar cada cosa?
+
+200
+00:07:10,032 --> 00:07:12,240
+Para los cálculos del día a día,
+
+201
+00:07:12,280 --> 00:07:14,240
+las fórmulas de Excel siguen siendo lo
+
+202
+00:07:14,280 --> 00:07:14,880
+más rápido.
+
+203
+00:07:15,072 --> 00:07:17,280
+Para estadística y gráficos
+
+204
+00:07:17,347 --> 00:07:20,000
+avanzados sin salir de tu hoja,
+
+205
+00:07:20,069 --> 00:07:21,200
+Python en Excel.
+
+206
+00:07:21,680 --> 00:07:24,400
+Y para automatizar archivos y carpetas, como
+
+207
+00:07:24,440 --> 00:07:27,120
+los doce reportes del otro video, Python
+
+208
+00:07:27,200 --> 00:07:28,240
+en tu computador.
+
+209
+00:07:28,613 --> 00:07:30,400
+No compiten:
+
+210
+00:07:30,427 --> 00:07:31,440
+se complementan.
+
+211
+00:07:31,800 --> 00:07:33,360
+Y lo mejor es que todo lo
+
+212
+00:07:33,380 --> 00:07:34,960
+que aprendes en uno, te sirve en
+
+213
+00:07:35,000 --> 00:07:36,000
+los otros:
+
+214
+00:07:36,053 --> 00:07:37,520
+la lógica es la misma.
+
+215
+00:07:37,920 --> 00:07:38,800
+Y piensa en esto:
+
+216
+00:07:39,024 --> 00:07:41,920
+hace unos años, para hacer
+
+217
+00:07:41,952 --> 00:07:44,480
+este análisis necesitabas instalar
+
+218
+00:07:44,568 --> 00:07:46,960
+programas, aprender a usar la
+
+219
+00:07:47,031 --> 00:07:49,280
+terminal, y saber programar
+
+220
+00:07:49,360 --> 00:07:50,080
+bastante.
+
+221
+00:07:50,400 --> 00:07:53,200
+Hoy lo haces en una celda.
+
+222
+00:07:53,440 --> 00:07:55,840
+Las herramientas se volvieron
+
+223
+00:07:55,920 --> 00:07:56,720
+fáciles.
+
+224
+00:07:57,013 --> 00:08:00,000
+Lo que marca la diferencia ahora es
+
+225
+00:08:00,060 --> 00:08:01,840
+quién se anima a usarlas.
+
+226
+00:08:02,400 --> 00:08:04,800
+Y quien domine Excel y
+
+227
+00:08:04,903 --> 00:08:07,760
+Python juntos va a resolver en
+
+228
+00:08:07,850 --> 00:08:09,840
+minutos lo que a otros les toma
+
+229
+00:08:09,952 --> 00:08:10,560
+días.
+
+230
+00:08:11,080 --> 00:08:13,760
+Esa persona puedes ser tú.
+
+231
+00:08:15,262 --> 00:08:17,520
+Si no lo aprendes ahora, te
+
+232
+00:08:17,600 --> 00:08:18,560
+extingues.
+
+233
+00:08:18,960 --> 00:08:20,160
+En resumen:
+
+234
+00:08:20,217 --> 00:08:22,080
+inserta una celda de Python desde la
+
+235
+00:08:22,120 --> 00:08:24,720
+pestaña Fórmulas, trae tus datos con
+
+236
+00:08:24,960 --> 00:08:27,520
+x l y confirma con Control más
+
+237
+00:08:27,584 --> 00:08:28,080
+Entrar.
+
+238
+00:08:28,520 --> 00:08:31,360
+Y con describe, groupby y plot
+
+239
+00:08:31,451 --> 00:08:34,400
+tienes estadísticas, resúmenes y gráficos
+
+240
+00:08:34,453 --> 00:08:35,200
+en minutos.
+
+241
+00:08:35,573 --> 00:08:38,160
+En el próximo video, el último del
+
+242
+00:08:38,240 --> 00:08:40,561
+año, te muestro cinco errores de Excel
+
+243
+00:08:40,621 --> 00:08:42,641
+que cometen hasta los expertos.
+
+244
+00:08:42,841 --> 00:08:45,321
+Suscríbete para no perdértelo.
+
+245
+00:08:45,744 --> 00:08:47,361
+El poder de la tecnología te va
+
+246
+00:08:47,362 --> 00:08:48,322
+a cambiar el mundo.

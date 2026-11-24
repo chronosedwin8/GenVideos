@@ -44,6 +44,9 @@ export type HojaExcelProps = {
   cursor?: {a: string; desde: number; clic?: boolean}[];
   pestanas?: string[];
   pestanaActiva?: {nombre: string; desde: number}[];
+  /** Pestañas de hoja (abajo) y cuál está activa en cada momento. */
+  hojas?: string[];
+  hojaActiva?: {nombre: string; desde: number}[];
   botones?: string[];
   menu?: {ancla: string; items: string[]; desde: number; hasta: number; elegido?: string}[];
   /** Notas flotantes tipo globo junto a una celda. */
@@ -285,7 +288,7 @@ export const HojaExcel: React.FC<HojaExcelProps> = (p) => {
           <div style={{height: BARRA_FX, display: 'flex', alignItems: 'center', borderBottom: '1px solid #DDD', fontSize: 26}}>
             <div style={{width: 150, borderRight: '1px solid #DDD', textAlign: 'center', color: '#333'}}>{celdaActiva ?? 'A1'}</div>
             <div style={{width: 70, textAlign: 'center', color: '#666', fontStyle: 'italic', fontFamily: 'serif', fontSize: 28}}>fx</div>
-            <div style={{flex: 1, fontFamily: 'Consolas, JetBrains Mono, monospace', fontSize: 28, color: '#111', whiteSpace: 'nowrap', overflow: 'hidden'}}>
+            <div style={{flex: 1, fontFamily: 'Consolas, JetBrains Mono, monospace', fontVariantLigatures: 'none', fontSize: 28, color: '#111', whiteSpace: 'nowrap', overflow: 'hidden'}}>
               {textoFx}
               {escrActiva && !textoEscrito(escrActiva).terminado && Math.floor(s * 2.5) % 2 === 0 ? '|' : ''}
             </div>
@@ -349,7 +352,7 @@ export const HojaExcel: React.FC<HojaExcelProps> = (p) => {
                   background: enEdicion ? 'white' : fondoActivo ?? (destello > 0 ? `rgba(255,229,0,${0.7 * destello})` : 'transparent'),
                   whiteSpace: 'nowrap',
                   overflow: enEdicion ? 'visible' : 'hidden',
-                  fontFamily: enEdicion ? 'Consolas, JetBrains Mono, monospace' : undefined,
+                  fontFamily: enEdicion ? 'Consolas, JetBrains Mono, monospace' : undefined, fontVariantLigatures: 'none',
                   zIndex: enEdicion ? 5 : 1,
                   boxSizing: 'border-box',
                 }}
@@ -381,7 +384,14 @@ export const HojaExcel: React.FC<HojaExcelProps> = (p) => {
           ) : null}
           {/* Pestaña de hoja */}
           <div style={{position: 'absolute', bottom: 0, left: 0, right: 0, height: 40, background: '#F3F3F3', borderTop: '1px solid #CCC', display: 'flex', alignItems: 'center', paddingLeft: 70, fontSize: 20}}>
-            <div style={{background: 'white', padding: '6px 22px', color: verde, fontWeight: 700, borderBottom: `3px solid ${verde}`}}>{p.hoja ?? 'Hoja1'}</div>
+            {(p.hojas ?? [p.hoja ?? 'Hoja1']).map((h) => {
+              const activa = ([...(p.hojaActiva ?? [])].filter((x) => x.desde <= s).pop()?.nombre ?? p.hoja ?? (p.hojas ?? ['Hoja1'])[0]) === h;
+              return (
+                <div key={h} style={activa ? {background: 'white', padding: '6px 22px', color: verde, fontWeight: 700, borderBottom: `3px solid ${verde}`} : {padding: '6px 22px', color: '#555'}}>
+                  {h}
+                </div>
+              );
+            })}
           </div>
         </div>
         {/* Menús desplegables */}

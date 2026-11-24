@@ -1,0 +1,395 @@
+{
+  "num": "15",
+  "titulo": "Truco: conviértelo en Tabla",
+  "texto": "Un truco que multiplica todo lo anterior. Selecciona tus datos y presiona Control más T, para convertirlos en una Tabla. Dale un nombre, por ejemplo, Ventas. Ahora tus fórmulas pueden decir FILTRAR Ventas, donde la región sea Norte. ¿Y la ventaja? Cuando agregas una venta nueva al final, la Tabla crece sola, y todas tus fórmulas la incluyen automáticamente. Nunca más vas a tener que cambiar A dos a D nueve por A dos a D diez.",
+  "texto_tts": "Un truco que multiplica todo lo anterior. Selecciona tus datos y presiona Control más T, para convertirlos en una Tabla. Dale un nombre, por ejemplo, Ventas. Ahora tus fórmulas pueden decir FILTRAR Ventas, donde la región sea Norte. ¿Y la ventaja? Cuando agregas una venta nueva al final, la Tabla crece sola, y todas tus fórmulas la incluyen automáticamente. Nunca más vas a tener que cambiar A dos a D nueve por A dos a D diez.",
+  "modelo": "eleven_v3",
+  "duracion": 35.12,
+  "palabras": [
+    {
+      "texto": "Un",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "truco",
+      "inicio": 0.16,
+      "fin": 0.48
+    },
+    {
+      "texto": "que",
+      "inicio": 0.52,
+      "fin": 0.64
+    },
+    {
+      "texto": "multiplica",
+      "inicio": 0.697,
+      "fin": 1.28
+    },
+    {
+      "texto": "todo",
+      "inicio": 1.328,
+      "fin": 1.52
+    },
+    {
+      "texto": "lo",
+      "inicio": 1.547,
+      "fin": 1.6
+    },
+    {
+      "texto": "anterior.",
+      "inicio": 1.662,
+      "fin": 2.24
+    },
+    {
+      "texto": "Selecciona",
+      "inicio": 2.373,
+      "fin": 3.12
+    },
+    {
+      "texto": "tus",
+      "inicio": 3.16,
+      "fin": 3.28
+    },
+    {
+      "texto": "datos",
+      "inicio": 3.373,
+      "fin": 3.84
+    },
+    {
+      "texto": "y",
+      "inicio": 3.92,
+      "fin": 4.0
+    },
+    {
+      "texto": "presiona",
+      "inicio": 4.048,
+      "fin": 4.48
+    },
+    {
+      "texto": "Control",
+      "inicio": 4.58,
+      "fin": 5.28
+    },
+    {
+      "texto": "más",
+      "inicio": 5.4,
+      "fin": 5.76
+    },
+    {
+      "texto": "T,",
+      "inicio": 5.96,
+      "fin": 6.24
+    },
+    {
+      "texto": "para",
+      "inicio": 6.352,
+      "fin": 6.8
+    },
+    {
+      "texto": "convertirlos",
+      "inicio": 6.85,
+      "fin": 7.52
+    },
+    {
+      "texto": "en",
+      "inicio": 7.547,
+      "fin": 7.6
+    },
+    {
+      "texto": "una",
+      "inicio": 7.66,
+      "fin": 7.84
+    },
+    {
+      "texto": "Tabla.",
+      "inicio": 7.92,
+      "fin": 8.48
+    },
+    {
+      "texto": "Dale",
+      "inicio": 8.656,
+      "fin": 9.36
+    },
+    {
+      "texto": "un",
+      "inicio": 9.387,
+      "fin": 9.44
+    },
+    {
+      "texto": "nombre,",
+      "inicio": 9.509,
+      "fin": 10.08
+    },
+    {
+      "texto": "por",
+      "inicio": 10.1,
+      "fin": 10.16
+    },
+    {
+      "texto": "ejemplo,",
+      "inicio": 10.23,
+      "fin": 10.8
+    },
+    {
+      "texto": "Ventas.",
+      "inicio": 10.912,
+      "fin": 11.92
+    },
+    {
+      "texto": "Ahora",
+      "inicio": 12.187,
+      "fin": 12.88
+    },
+    {
+      "texto": "tus",
+      "inicio": 12.92,
+      "fin": 13.04
+    },
+    {
+      "texto": "fórmulas",
+      "inicio": 13.08,
+      "fin": 13.68
+    },
+    {
+      "texto": "pueden",
+      "inicio": 13.726,
+      "fin": 14.0
+    },
+    {
+      "texto": "decir",
+      "inicio": 14.067,
+      "fin": 14.4
+    },
+    {
+      "texto": "FILTRAR",
+      "inicio": 14.54,
+      "fin": 15.2
+    },
+    {
+      "texto": "Ventas,",
+      "inicio": 15.296,
+      "fin": 16.32
+    },
+    {
+      "texto": "donde",
+      "inicio": 16.36,
+      "fin": 16.56
+    },
+    {
+      "texto": "la",
+      "inicio": 16.613,
+      "fin": 16.72
+    },
+    {
+      "texto": "región",
+      "inicio": 16.78,
+      "fin": 17.2
+    },
+    {
+      "texto": "sea",
+      "inicio": 17.3,
+      "fin": 17.6
+    },
+    {
+      "texto": "Norte.",
+      "inicio": 17.733,
+      "fin": 18.56
+    },
+    {
+      "texto": "¿Y",
+      "inicio": 18.96,
+      "fin": 19.44
+    },
+    {
+      "texto": "la",
+      "inicio": 19.467,
+      "fin": 19.52
+    },
+    {
+      "texto": "ventaja?",
+      "inicio": 19.584,
+      "fin": 20.4
+    },
+    {
+      "texto": "Cuando",
+      "inicio": 20.491,
+      "fin": 21.04
+    },
+    {
+      "texto": "agregas",
+      "inicio": 21.093,
+      "fin": 21.52
+    },
+    {
+      "texto": "una",
+      "inicio": 21.56,
+      "fin": 21.68
+    },
+    {
+      "texto": "venta",
+      "inicio": 21.747,
+      "fin": 22.08
+    },
+    {
+      "texto": "nueva",
+      "inicio": 22.133,
+      "fin": 22.4
+    },
+    {
+      "texto": "al",
+      "inicio": 22.453,
+      "fin": 22.56
+    },
+    {
+      "texto": "final,",
+      "inicio": 22.627,
+      "fin": 23.28
+    },
+    {
+      "texto": "la",
+      "inicio": 23.307,
+      "fin": 23.36
+    },
+    {
+      "texto": "Tabla",
+      "inicio": 23.42,
+      "fin": 23.76
+    },
+    {
+      "texto": "crece",
+      "inicio": 23.82,
+      "fin": 24.16
+    },
+    {
+      "texto": "sola,",
+      "inicio": 24.24,
+      "fin": 24.88
+    },
+    {
+      "texto": "y",
+      "inicio": 25.0,
+      "fin": 25.12
+    },
+    {
+      "texto": "todas",
+      "inicio": 25.187,
+      "fin": 25.52
+    },
+    {
+      "texto": "tus",
+      "inicio": 25.54,
+      "fin": 25.6
+    },
+    {
+      "texto": "fórmulas",
+      "inicio": 25.68,
+      "fin": 26.24
+    },
+    {
+      "texto": "la",
+      "inicio": 26.293,
+      "fin": 26.4
+    },
+    {
+      "texto": "incluyen",
+      "inicio": 26.448,
+      "fin": 26.88
+    },
+    {
+      "texto": "automáticamente.",
+      "inicio": 26.955,
+      "fin": 28.24
+    },
+    {
+      "texto": "Nunca",
+      "inicio": 28.46,
+      "fin": 29.2
+    },
+    {
+      "texto": "más",
+      "inicio": 29.28,
+      "fin": 29.52
+    },
+    {
+      "texto": "vas",
+      "inicio": 29.58,
+      "fin": 29.76
+    },
+    {
+      "texto": "a",
+      "inicio": 29.82,
+      "fin": 29.88
+    },
+    {
+      "texto": "tener",
+      "inicio": 29.9,
+      "fin": 30.0
+    },
+    {
+      "texto": "que",
+      "inicio": 30.04,
+      "fin": 30.16
+    },
+    {
+      "texto": "cambiar",
+      "inicio": 30.23,
+      "fin": 30.72
+    },
+    {
+      "texto": "A",
+      "inicio": 31.0,
+      "fin": 31.28
+    },
+    {
+      "texto": "dos",
+      "inicio": 31.38,
+      "fin": 31.68
+    },
+    {
+      "texto": "a",
+      "inicio": 31.8,
+      "fin": 31.92
+    },
+    {
+      "texto": "D",
+      "inicio": 32.08,
+      "fin": 32.24
+    },
+    {
+      "texto": "nueve",
+      "inicio": 32.3,
+      "fin": 32.56
+    },
+    {
+      "texto": "por",
+      "inicio": 32.72,
+      "fin": 33.2
+    },
+    {
+      "texto": "A",
+      "inicio": 33.4,
+      "fin": 33.6
+    },
+    {
+      "texto": "dos",
+      "inicio": 33.68,
+      "fin": 33.92
+    },
+    {
+      "texto": "a",
+      "inicio": 34.08,
+      "fin": 34.24
+    },
+    {
+      "texto": "D",
+      "inicio": 34.32,
+      "fin": 34.4
+    },
+    {
+      "texto": "diez.",
+      "inicio": 34.46,
+      "fin": 35.12
+    }
+  ]
+}

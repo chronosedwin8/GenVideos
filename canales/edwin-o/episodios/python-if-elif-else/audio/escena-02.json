@@ -1,0 +1,260 @@
+{
+  "num": "02",
+  "titulo": "Presentación",
+  "texto": "¡Bienvenidos, amigos del canal! Vamos en busca del poder tecnológico. Hoy te explico las condicionales de Python: if, elif y else, desde cero y con un ejemplo real de trabajo. Y al final te enseño los cinco errores que todo principiante comete, con los mensajes exactos que te muestra Python.",
+  "texto_tts": "[excited] ¡Bienvenidos, amigos del canal! Vamos en busca del poder tecnológico. Hoy te explico las condicionales de Python: if, elif y else, desde cero y con un ejemplo real de trabajo. Y al final te enseño los cinco errores que todo principiante comete, con los mensajes exactos que te muestra Python.",
+  "modelo": "eleven_v3",
+  "duracion": 22.64,
+  "palabras": [
+    {
+      "texto": "¡Bienvenidos,",
+      "inicio": 0.072,
+      "fin": 1.04
+    },
+    {
+      "texto": "amigos",
+      "inicio": 1.097,
+      "fin": 1.44
+    },
+    {
+      "texto": "del",
+      "inicio": 1.48,
+      "fin": 1.6
+    },
+    {
+      "texto": "canal!",
+      "inicio": 1.667,
+      "fin": 2.24
+    },
+    {
+      "texto": "Vamos",
+      "inicio": 2.28,
+      "fin": 2.64
+    },
+    {
+      "texto": "en",
+      "inicio": 2.72,
+      "fin": 2.88
+    },
+    {
+      "texto": "busca",
+      "inicio": 2.96,
+      "fin": 3.36
+    },
+    {
+      "texto": "del",
+      "inicio": 3.42,
+      "fin": 3.6
+    },
+    {
+      "texto": "poder",
+      "inicio": 3.667,
+      "fin": 4.0
+    },
+    {
+      "texto": "tecnológico.",
+      "inicio": 4.08,
+      "fin": 5.04
+    },
+    {
+      "texto": "Hoy",
+      "inicio": 5.24,
+      "fin": 5.84
+    },
+    {
+      "texto": "te",
+      "inicio": 5.947,
+      "fin": 6.16
+    },
+    {
+      "texto": "explico",
+      "inicio": 6.22,
+      "fin": 6.64
+    },
+    {
+      "texto": "las",
+      "inicio": 6.7,
+      "fin": 6.88
+    },
+    {
+      "texto": "condicionales",
+      "inicio": 6.944,
+      "fin": 7.76
+    },
+    {
+      "texto": "de",
+      "inicio": 7.813,
+      "fin": 7.92
+    },
+    {
+      "texto": "Python:",
+      "inicio": 7.989,
+      "fin": 8.64
+    },
+    {
+      "texto": "if,",
+      "inicio": 8.747,
+      "fin": 9.2
+    },
+    {
+      "texto": "elif",
+      "inicio": 9.312,
+      "fin": 9.76
+    },
+    {
+      "texto": "y",
+      "inicio": 9.92,
+      "fin": 10.08
+    },
+    {
+      "texto": "else,",
+      "inicio": 10.176,
+      "fin": 10.8
+    },
+    {
+      "texto": "desde",
+      "inicio": 10.853,
+      "fin": 11.12
+    },
+    {
+      "texto": "cero",
+      "inicio": 11.2,
+      "fin": 11.52
+    },
+    {
+      "texto": "y",
+      "inicio": 11.76,
+      "fin": 12.0
+    },
+    {
+      "texto": "con",
+      "inicio": 12.06,
+      "fin": 12.24
+    },
+    {
+      "texto": "un",
+      "inicio": 12.267,
+      "fin": 12.32
+    },
+    {
+      "texto": "ejemplo",
+      "inicio": 12.4,
+      "fin": 12.96
+    },
+    {
+      "texto": "real",
+      "inicio": 13.056,
+      "fin": 13.44
+    },
+    {
+      "texto": "de",
+      "inicio": 13.493,
+      "fin": 13.6
+    },
+    {
+      "texto": "trabajo.",
+      "inicio": 13.66,
+      "fin": 14.48
+    },
+    {
+      "texto": "Y",
+      "inicio": 14.56,
+      "fin": 14.64
+    },
+    {
+      "texto": "al",
+      "inicio": 14.667,
+      "fin": 14.72
+    },
+    {
+      "texto": "final",
+      "inicio": 14.787,
+      "fin": 15.12
+    },
+    {
+      "texto": "te",
+      "inicio": 15.2,
+      "fin": 15.36
+    },
+    {
+      "texto": "enseño",
+      "inicio": 15.424,
+      "fin": 15.84
+    },
+    {
+      "texto": "los",
+      "inicio": 15.9,
+      "fin": 16.08
+    },
+    {
+      "texto": "cinco",
+      "inicio": 16.133,
+      "fin": 16.4
+    },
+    {
+      "texto": "errores",
+      "inicio": 16.46,
+      "fin": 16.88
+    },
+    {
+      "texto": "que",
+      "inicio": 16.92,
+      "fin": 17.04
+    },
+    {
+      "texto": "todo",
+      "inicio": 17.136,
+      "fin": 17.52
+    },
+    {
+      "texto": "principiante",
+      "inicio": 17.58,
+      "fin": 18.32
+    },
+    {
+      "texto": "comete,",
+      "inicio": 18.38,
+      "fin": 19.28
+    },
+    {
+      "texto": "con",
+      "inicio": 19.3,
+      "fin": 19.36
+    },
+    {
+      "texto": "los",
+      "inicio": 19.4,
+      "fin": 19.52
+    },
+    {
+      "texto": "mensajes",
+      "inicio": 19.6,
+      "fin": 20.24
+    },
+    {
+      "texto": "exactos",
+      "inicio": 20.36,
+      "fin": 21.12
+    },
+    {
+      "texto": "que",
+      "inicio": 21.18,
+      "fin": 21.36
+    },
+    {
+      "texto": "te",
+      "inicio": 21.387,
+      "fin": 21.44
+    },
+    {
+      "texto": "muestra",
+      "inicio": 21.49,
+      "fin": 21.84
+    },
+    {
+      "texto": "Python.",
+      "inicio": 21.92,
+      "fin": 22.64
+    }
+  ]
+}

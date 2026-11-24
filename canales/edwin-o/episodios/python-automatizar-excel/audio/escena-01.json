@@ -1,0 +1,205 @@
+{
+  "num": "01",
+  "titulo": "Gancho",
+  "texto": "Doce reportes de Excel, uno por cada sucursal, con sus ventas y su resumen por vendedor… en unos ocho segundos. ¿Cuánto te tomaría hacerlo a mano? Hoy lo vas a hacer con un programa de doce líneas en Python.",
+  "texto_tts": "[excited] Doce reportes de Excel, uno por cada sucursal, con sus ventas y su resumen por vendedor… en unos ocho segundos. [curious] ¿Cuánto te tomaría hacerlo a mano? Hoy lo vas a hacer con un programa de doce líneas en Python.",
+  "modelo": "eleven_v3",
+  "duracion": 15.68,
+  "palabras": [
+    {
+      "texto": "Doce",
+      "inicio": 0.213,
+      "fin": 0.32
+    },
+    {
+      "texto": "reportes",
+      "inicio": 0.4,
+      "fin": 0.96
+    },
+    {
+      "texto": "de",
+      "inicio": 0.987,
+      "fin": 1.04
+    },
+    {
+      "texto": "Excel,",
+      "inicio": 1.107,
+      "fin": 1.76
+    },
+    {
+      "texto": "uno",
+      "inicio": 1.82,
+      "fin": 2.0
+    },
+    {
+      "texto": "por",
+      "inicio": 2.06,
+      "fin": 2.24
+    },
+    {
+      "texto": "cada",
+      "inicio": 2.304,
+      "fin": 2.56
+    },
+    {
+      "texto": "sucursal,",
+      "inicio": 2.62,
+      "fin": 3.28
+    },
+    {
+      "texto": "con",
+      "inicio": 3.44,
+      "fin": 3.92
+    },
+    {
+      "texto": "sus",
+      "inicio": 3.98,
+      "fin": 4.16
+    },
+    {
+      "texto": "ventas",
+      "inicio": 4.251,
+      "fin": 4.8
+    },
+    {
+      "texto": "y",
+      "inicio": 4.84,
+      "fin": 4.88
+    },
+    {
+      "texto": "su",
+      "inicio": 4.96,
+      "fin": 5.12
+    },
+    {
+      "texto": "resumen",
+      "inicio": 5.2,
+      "fin": 5.6
+    },
+    {
+      "texto": "por",
+      "inicio": 5.66,
+      "fin": 5.84
+    },
+    {
+      "texto": "vendedor…",
+      "inicio": 5.88,
+      "fin": 6.48
+    },
+    {
+      "texto": "en",
+      "inicio": 6.747,
+      "fin": 7.28
+    },
+    {
+      "texto": "unos",
+      "inicio": 7.344,
+      "fin": 7.6
+    },
+    {
+      "texto": "ocho",
+      "inicio": 7.8,
+      "fin": 8.08
+    },
+    {
+      "texto": "segundos.",
+      "inicio": 8.151,
+      "fin": 8.8
+    },
+    {
+      "texto": "¿Cuánto",
+      "inicio": 9.976,
+      "fin": 10.24
+    },
+    {
+      "texto": "te",
+      "inicio": 10.267,
+      "fin": 10.32
+    },
+    {
+      "texto": "tomaría",
+      "inicio": 10.373,
+      "fin": 10.72
+    },
+    {
+      "texto": "hacerlo",
+      "inicio": 10.773,
+      "fin": 11.12
+    },
+    {
+      "texto": "a",
+      "inicio": 11.16,
+      "fin": 11.2
+    },
+    {
+      "texto": "mano?",
+      "inicio": 11.264,
+      "fin": 11.6
+    },
+    {
+      "texto": "Hoy",
+      "inicio": 11.88,
+      "fin": 12.72
+    },
+    {
+      "texto": "lo",
+      "inicio": 12.747,
+      "fin": 12.8
+    },
+    {
+      "texto": "vas",
+      "inicio": 12.84,
+      "fin": 12.96
+    },
+    {
+      "texto": "a",
+      "inicio": 13.0,
+      "fin": 13.04
+    },
+    {
+      "texto": "hacer",
+      "inicio": 13.093,
+      "fin": 13.36
+    },
+    {
+      "texto": "con",
+      "inicio": 13.42,
+      "fin": 13.6
+    },
+    {
+      "texto": "un",
+      "inicio": 13.627,
+      "fin": 13.68
+    },
+    {
+      "texto": "programa",
+      "inicio": 13.733,
+      "fin": 14.16
+    },
+    {
+      "texto": "de",
+      "inicio": 14.187,
+      "fin": 14.24
+    },
+    {
+      "texto": "doce",
+      "inicio": 14.347,
+      "fin": 14.64
+    },
+    {
+      "texto": "líneas",
+      "inicio": 14.693,
+      "fin": 15.04
+    },
+    {
+      "texto": "en",
+      "inicio": 15.093,
+      "fin": 15.2
+    },
+    {
+      "texto": "Python.",
+      "inicio": 15.257,
+      "fin": 15.68
+    }
+  ]
+}

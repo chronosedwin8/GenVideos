@@ -1,0 +1,425 @@
+{
+  "num": "17",
+  "titulo": "Errores comunes",
+  "texto": "Ahora, los errores que casi todo el mundo comete. Si la terminal dice que pip no se reconoce, Python no quedó en el PATH: reinstálalo marcando la casilla, o escribe p y guion m pip. Si sale permission error, es porque tienes el reporte abierto en Excel: ciérralo y vuelve a ejecutar. Y un error que nos pasó preparando este video: pusimos un símbolo de check en el mensaje, y la consola de Windows no lo pudo mostrar. Usa texto normal y listo.",
+  "texto_tts": "Ahora, los errores que casi todo el mundo comete. Si la terminal dice que pip no se reconoce, Python no quedó en el PATH: reinstálalo marcando la casilla, o escribe p y guion m pip. Si sale permission error, es porque tienes el reporte abierto en Excel: ciérralo y vuelve a ejecutar. Y un error que nos pasó preparando este video: pusimos un símbolo de check en el mensaje, y la consola de Windows no lo pudo mostrar. Usa texto normal y listo.",
+  "modelo": "eleven_v3",
+  "duracion": 34.96,
+  "palabras": [
+    {
+      "texto": "Ahora,",
+      "inicio": 0.0,
+      "fin": 0.4
+    },
+    {
+      "texto": "los",
+      "inicio": 0.44,
+      "fin": 0.56
+    },
+    {
+      "texto": "errores",
+      "inicio": 0.62,
+      "fin": 1.04
+    },
+    {
+      "texto": "que",
+      "inicio": 1.08,
+      "fin": 1.2
+    },
+    {
+      "texto": "casi",
+      "inicio": 1.28,
+      "fin": 1.6
+    },
+    {
+      "texto": "todo",
+      "inicio": 1.648,
+      "fin": 1.84
+    },
+    {
+      "texto": "el",
+      "inicio": 1.867,
+      "fin": 1.92
+    },
+    {
+      "texto": "mundo",
+      "inicio": 1.96,
+      "fin": 2.16
+    },
+    {
+      "texto": "comete.",
+      "inicio": 2.22,
+      "fin": 2.8
+    },
+    {
+      "texto": "Si",
+      "inicio": 3.173,
+      "fin": 3.92
+    },
+    {
+      "texto": "la",
+      "inicio": 3.947,
+      "fin": 4.0
+    },
+    {
+      "texto": "terminal",
+      "inicio": 4.071,
+      "fin": 4.64
+    },
+    {
+      "texto": "dice",
+      "inicio": 4.72,
+      "fin": 5.04
+    },
+    {
+      "texto": "que",
+      "inicio": 5.1,
+      "fin": 5.28
+    },
+    {
+      "texto": "pip",
+      "inicio": 5.4,
+      "fin": 5.76
+    },
+    {
+      "texto": "no",
+      "inicio": 5.867,
+      "fin": 6.08
+    },
+    {
+      "texto": "se",
+      "inicio": 6.133,
+      "fin": 6.24
+    },
+    {
+      "texto": "reconoce,",
+      "inicio": 6.293,
+      "fin": 7.36
+    },
+    {
+      "texto": "Python",
+      "inicio": 7.429,
+      "fin": 7.84
+    },
+    {
+      "texto": "no",
+      "inicio": 7.893,
+      "fin": 8.0
+    },
+    {
+      "texto": "quedó",
+      "inicio": 8.048,
+      "fin": 8.28
+    },
+    {
+      "texto": "en",
+      "inicio": 8.293,
+      "fin": 8.32
+    },
+    {
+      "texto": "el",
+      "inicio": 8.373,
+      "fin": 8.48
+    },
+    {
+      "texto": "PATH:",
+      "inicio": 8.56,
+      "fin": 9.6
+    },
+    {
+      "texto": "reinstálalo",
+      "inicio": 9.657,
+      "fin": 10.4
+    },
+    {
+      "texto": "marcando",
+      "inicio": 10.464,
+      "fin": 10.88
+    },
+    {
+      "texto": "la",
+      "inicio": 10.933,
+      "fin": 11.04
+    },
+    {
+      "texto": "casilla,",
+      "inicio": 11.1,
+      "fin": 12.0
+    },
+    {
+      "texto": "o",
+      "inicio": 12.12,
+      "fin": 12.24
+    },
+    {
+      "texto": "escribe",
+      "inicio": 12.347,
+      "fin": 13.12
+    },
+    {
+      "texto": "p",
+      "inicio": 13.32,
+      "fin": 13.52
+    },
+    {
+      "texto": "y",
+      "inicio": 13.76,
+      "fin": 14.0
+    },
+    {
+      "texto": "guion",
+      "inicio": 14.053,
+      "fin": 14.32
+    },
+    {
+      "texto": "m",
+      "inicio": 14.52,
+      "fin": 14.72
+    },
+    {
+      "texto": "pip.",
+      "inicio": 14.88,
+      "fin": 15.44
+    },
+    {
+      "texto": "Si",
+      "inicio": 15.733,
+      "fin": 16.32
+    },
+    {
+      "texto": "sale",
+      "inicio": 16.384,
+      "fin": 16.64
+    },
+    {
+      "texto": "permission",
+      "inicio": 16.698,
+      "fin": 17.28
+    },
+    {
+      "texto": "error,",
+      "inicio": 17.373,
+      "fin": 17.92
+    },
+    {
+      "texto": "es",
+      "inicio": 18.133,
+      "fin": 18.56
+    },
+    {
+      "texto": "porque",
+      "inicio": 18.606,
+      "fin": 18.88
+    },
+    {
+      "texto": "tienes",
+      "inicio": 18.926,
+      "fin": 19.2
+    },
+    {
+      "texto": "el",
+      "inicio": 19.227,
+      "fin": 19.28
+    },
+    {
+      "texto": "reporte",
+      "inicio": 19.36,
+      "fin": 19.92
+    },
+    {
+      "texto": "abierto",
+      "inicio": 20.0,
+      "fin": 20.48
+    },
+    {
+      "texto": "en",
+      "inicio": 20.507,
+      "fin": 20.56
+    },
+    {
+      "texto": "Excel:",
+      "inicio": 20.627,
+      "fin": 21.68
+    },
+    {
+      "texto": "ciérralo",
+      "inicio": 21.76,
+      "fin": 22.32
+    },
+    {
+      "texto": "y",
+      "inicio": 22.44,
+      "fin": 22.56
+    },
+    {
+      "texto": "vuelve",
+      "inicio": 22.64,
+      "fin": 22.88
+    },
+    {
+      "texto": "a",
+      "inicio": 22.94,
+      "fin": 23.0
+    },
+    {
+      "texto": "ejecutar.",
+      "inicio": 23.024,
+      "fin": 23.6
+    },
+    {
+      "texto": "Y",
+      "inicio": 24.04,
+      "fin": 24.48
+    },
+    {
+      "texto": "un",
+      "inicio": 24.587,
+      "fin": 24.8
+    },
+    {
+      "texto": "error",
+      "inicio": 24.84,
+      "fin": 25.04
+    },
+    {
+      "texto": "que",
+      "inicio": 25.06,
+      "fin": 25.12
+    },
+    {
+      "texto": "nos",
+      "inicio": 25.16,
+      "fin": 25.28
+    },
+    {
+      "texto": "pasó",
+      "inicio": 25.34,
+      "fin": 25.68
+    },
+    {
+      "texto": "preparando",
+      "inicio": 25.714,
+      "fin": 26.08
+    },
+    {
+      "texto": "este",
+      "inicio": 26.128,
+      "fin": 26.32
+    },
+    {
+      "texto": "video:",
+      "inicio": 26.387,
+      "fin": 27.36
+    },
+    {
+      "texto": "pusimos",
+      "inicio": 27.4,
+      "fin": 27.84
+    },
+    {
+      "texto": "un",
+      "inicio": 27.867,
+      "fin": 27.92
+    },
+    {
+      "texto": "símbolo",
+      "inicio": 28.0,
+      "fin": 28.4
+    },
+    {
+      "texto": "de",
+      "inicio": 28.453,
+      "fin": 28.56
+    },
+    {
+      "texto": "check",
+      "inicio": 28.627,
+      "fin": 28.96
+    },
+    {
+      "texto": "en",
+      "inicio": 29.067,
+      "fin": 29.28
+    },
+    {
+      "texto": "el",
+      "inicio": 29.307,
+      "fin": 29.36
+    },
+    {
+      "texto": "mensaje,",
+      "inicio": 29.43,
+      "fin": 30.08
+    },
+    {
+      "texto": "y",
+      "inicio": 30.28,
+      "fin": 30.48
+    },
+    {
+      "texto": "la",
+      "inicio": 30.507,
+      "fin": 30.56
+    },
+    {
+      "texto": "consola",
+      "inicio": 30.624,
+      "fin": 31.04
+    },
+    {
+      "texto": "de",
+      "inicio": 31.067,
+      "fin": 31.12
+    },
+    {
+      "texto": "Windows",
+      "inicio": 31.18,
+      "fin": 31.6
+    },
+    {
+      "texto": "no",
+      "inicio": 31.653,
+      "fin": 31.76
+    },
+    {
+      "texto": "lo",
+      "inicio": 31.787,
+      "fin": 31.84
+    },
+    {
+      "texto": "pudo",
+      "inicio": 31.904,
+      "fin": 32.16
+    },
+    {
+      "texto": "mostrar.",
+      "inicio": 32.22,
+      "fin": 32.72
+    },
+    {
+      "texto": "Usa",
+      "inicio": 32.9,
+      "fin": 33.44
+    },
+    {
+      "texto": "texto",
+      "inicio": 33.493,
+      "fin": 33.76
+    },
+    {
+      "texto": "normal",
+      "inicio": 33.817,
+      "fin": 34.16
+    },
+    {
+      "texto": "y",
+      "inicio": 34.32,
+      "fin": 34.48
+    },
+    {
+      "texto": "listo.",
+      "inicio": 34.544,
+      "fin": 34.96
+    }
+  ]
+}

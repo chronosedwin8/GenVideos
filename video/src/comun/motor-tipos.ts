@@ -35,6 +35,8 @@ export type Bloque = Base &
     | {
         tipo: 'codigo';
         codigo: string;
+        /** Código que ya está escrito cuando aparece el bloque (el resto se escribe con la voz). */
+        previo?: string;
         archivo?: string;
         velocidad?: number;
         tamano?: number;
@@ -56,6 +58,7 @@ export type Bloque = Base &
     | {tipo: 'formula'; formula: string; titulo?: string; escribir?: boolean; partes?: {texto: string; nota: string; desde: Cue; ocurrencia?: number}[]}
     | {tipo: 'cronologia'; titulo?: string; items: {fecha: string; texto: string; desde: Cue; icono?: string; color?: string}[]}
     | {tipo: 'teclas'; teclas: string[]; texto?: string}
+    | {tipo: 'barras'; titulo?: string; items: {etiqueta: string; valor: number}[]; ancho?: number; alto?: number; x?: number; y?: number}
     | {tipo: 'cortinilla'; titulo?: string}
     | {tipo: 'cierre'; siguiente: string; suscribir?: Cue}
     | {tipo: 'resumen'; titulo?: string; ideas: {texto: string; desde: Cue}[]}

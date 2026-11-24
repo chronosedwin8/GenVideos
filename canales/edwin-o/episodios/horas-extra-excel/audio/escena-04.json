@@ -4,247 +4,247 @@
   "texto": "Paso uno. Arma cinco columnas: día, entrada, salida, horas y horas extra. Ahora escribe las horas de cada día. Ojo aquí: escribe siete, dos puntos, cero cero. Con dos puntos, no con punto. Si escribes siete punto treinta, Excel cree que es un número cualquiera, no una hora.",
   "texto_tts": "Paso uno. Arma cinco columnas: día, entrada, salida, horas y horas extra. Ahora escribe las horas de cada día. Ojo aquí: escribe siete, dos puntos, cero cero. Con dos puntos, no con punto. Si escribes siete punto treinta, Excel cree que es un número cualquiera, no una hora.",
   "modelo": "eleven_v3",
-  "duracion": 25.84,
+  "duracion": 28.48,
   "palabras": [
     {
       "texto": "Paso",
       "inicio": 0.0,
-      "fin": 0.4
+      "fin": 0.32
     },
     {
       "texto": "uno.",
-      "inicio": 0.52,
-      "fin": 0.96
+      "inicio": 0.44,
+      "fin": 0.88
     },
     {
       "texto": "Arma",
-      "inicio": 1.227,
-      "fin": 1.92
+      "inicio": 1.28,
+      "fin": 2.24
     },
     {
       "texto": "cinco",
-      "inicio": 2.0,
-      "fin": 2.4
+      "inicio": 2.333,
+      "fin": 2.8
     },
     {
       "texto": "columnas:",
-      "inicio": 2.457,
-      "fin": 3.68
+      "inicio": 2.869,
+      "fin": 4.16
     },
     {
       "texto": "día,",
-      "inicio": 3.76,
-      "fin": 4.72
+      "inicio": 4.28,
+      "fin": 5.2
     },
     {
       "texto": "entrada,",
-      "inicio": 4.79,
-      "fin": 5.76
+      "inicio": 5.28,
+      "fin": 6.08
     },
     {
       "texto": "salida,",
-      "inicio": 5.829,
-      "fin": 6.88
+      "inicio": 6.16,
+      "fin": 7.12
     },
     {
       "texto": "horas",
-      "inicio": 6.96,
-      "fin": 7.36
-    },
-    {
-      "texto": "y",
-      "inicio": 7.48,
+      "inicio": 7.2,
       "fin": 7.6
     },
     {
+      "texto": "y",
+      "inicio": 7.72,
+      "fin": 7.84
+    },
+    {
       "texto": "horas",
-      "inicio": 7.667,
-      "fin": 8.0
+      "inicio": 7.907,
+      "fin": 8.24
     },
     {
       "texto": "extra.",
-      "inicio": 8.067,
-      "fin": 8.48
+      "inicio": 8.333,
+      "fin": 8.88
     },
     {
       "texto": "Ahora",
-      "inicio": 8.8,
-      "fin": 9.52
+      "inicio": 9.253,
+      "fin": 10.08
     },
     {
       "texto": "escribe",
-      "inicio": 9.573,
-      "fin": 10.0
+      "inicio": 10.133,
+      "fin": 10.56
     },
     {
       "texto": "las",
-      "inicio": 10.1,
-      "fin": 10.4
+      "inicio": 10.62,
+      "fin": 10.8
     },
     {
       "texto": "horas",
-      "inicio": 10.453,
-      "fin": 10.72
-    },
-    {
-      "texto": "de",
-      "inicio": 10.773,
-      "fin": 10.88
-    },
-    {
-      "texto": "cada",
-      "inicio": 10.928,
+      "inicio": 10.853,
       "fin": 11.12
     },
     {
+      "texto": "de",
+      "inicio": 11.147,
+      "fin": 11.2
+    },
+    {
+      "texto": "cada",
+      "inicio": 11.264,
+      "fin": 11.52
+    },
+    {
       "texto": "día.",
-      "inicio": 11.18,
-      "fin": 11.44
+      "inicio": 11.62,
+      "fin": 12.0
     },
     {
       "texto": "Ojo",
-      "inicio": 11.76,
-      "fin": 12.16
+      "inicio": 12.52,
+      "fin": 13.12
     },
     {
       "texto": "aquí:",
-      "inicio": 12.208,
-      "fin": 12.56
+      "inicio": 13.184,
+      "fin": 13.52
     },
     {
       "texto": "escribe",
-      "inicio": 12.747,
-      "fin": 13.44
+      "inicio": 13.813,
+      "fin": 14.88
     },
     {
       "texto": "siete,",
-      "inicio": 13.6,
-      "fin": 14.64
+      "inicio": 15.12,
+      "fin": 16.24
     },
     {
       "texto": "dos",
-      "inicio": 14.68,
-      "fin": 14.8
+      "inicio": 16.28,
+      "fin": 16.4
     },
     {
       "texto": "puntos,",
-      "inicio": 14.891,
-      "fin": 15.84
+      "inicio": 16.503,
+      "fin": 17.44
     },
     {
       "texto": "cero",
-      "inicio": 15.88,
-      "fin": 16.08
-    },
-    {
-      "texto": "cero.",
-      "inicio": 16.16,
-      "fin": 16.48
-    },
-    {
-      "texto": "Con",
-      "inicio": 16.7,
-      "fin": 17.36
-    },
-    {
-      "texto": "dos",
-      "inicio": 17.44,
+      "inicio": 17.48,
       "fin": 17.68
     },
     {
+      "texto": "cero.",
+      "inicio": 17.8,
+      "fin": 18.24
+    },
+    {
+      "texto": "Con",
+      "inicio": 18.46,
+      "fin": 19.12
+    },
+    {
+      "texto": "dos",
+      "inicio": 19.18,
+      "fin": 19.36
+    },
+    {
       "texto": "puntos,",
-      "inicio": 17.771,
-      "fin": 18.48
+      "inicio": 19.451,
+      "fin": 20.24
     },
     {
       "texto": "no",
-      "inicio": 18.587,
-      "fin": 18.8
+      "inicio": 20.32,
+      "fin": 20.48
     },
     {
       "texto": "con",
-      "inicio": 18.86,
-      "fin": 19.04
+      "inicio": 20.52,
+      "fin": 20.64
     },
     {
       "texto": "punto.",
-      "inicio": 19.107,
-      "fin": 19.8
-    },
-    {
-      "texto": "Si",
-      "inicio": 19.92,
-      "fin": 20.16
-    },
-    {
-      "texto": "escribes",
-      "inicio": 20.213,
-      "fin": 20.8
-    },
-    {
-      "texto": "siete",
-      "inicio": 20.92,
+      "inicio": 20.733,
       "fin": 21.28
     },
     {
+      "texto": "Si",
+      "inicio": 21.547,
+      "fin": 22.08
+    },
+    {
+      "texto": "escribes",
+      "inicio": 22.16,
+      "fin": 22.72
+    },
+    {
+      "texto": "siete",
+      "inicio": 22.88,
+      "fin": 23.28
+    },
+    {
       "texto": "punto",
-      "inicio": 21.347,
-      "fin": 21.68
+      "inicio": 23.347,
+      "fin": 23.68
     },
     {
       "texto": "treinta,",
-      "inicio": 21.74,
-      "fin": 22.64
+      "inicio": 23.76,
+      "fin": 24.56
     },
     {
       "texto": "Excel",
-      "inicio": 22.707,
-      "fin": 23.04
+      "inicio": 24.693,
+      "fin": 25.36
     },
     {
       "texto": "cree",
-      "inicio": 23.104,
-      "fin": 23.36
+      "inicio": 25.44,
+      "fin": 25.76
     },
     {
       "texto": "que",
-      "inicio": 23.4,
-      "fin": 23.52
+      "inicio": 25.78,
+      "fin": 25.84
     },
     {
       "texto": "es",
-      "inicio": 23.6,
-      "fin": 23.76
+      "inicio": 25.893,
+      "fin": 26.0
     },
     {
       "texto": "un",
-      "inicio": 23.787,
-      "fin": 23.84
+      "inicio": 26.053,
+      "fin": 26.16
     },
     {
       "texto": "número",
-      "inicio": 23.897,
-      "fin": 24.24
+      "inicio": 26.217,
+      "fin": 26.56
     },
     {
       "texto": "cualquiera,",
-      "inicio": 24.288,
-      "fin": 25.12
+      "inicio": 26.624,
+      "fin": 27.52
     },
     {
       "texto": "no",
-      "inicio": 25.173,
-      "fin": 25.28
+      "inicio": 27.6,
+      "fin": 27.76
     },
     {
       "texto": "una",
-      "inicio": 25.34,
-      "fin": 25.52
+      "inicio": 27.84,
+      "fin": 28.08
     },
     {
       "texto": "hora.",
-      "inicio": 25.584,
-      "fin": 25.84
+      "inicio": 28.16,
+      "fin": 28.48
     }
   ]
 }

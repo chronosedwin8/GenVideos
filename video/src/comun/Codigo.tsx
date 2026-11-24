@@ -67,12 +67,12 @@ export const CodigoAnimado: React.FC<{
           {['#FF5F57', '#FEBC2E', '#28C840'].map((c) => (
             <div key={c} style={{width: 18, height: 18, borderRadius: 9, background: c}} />
           ))}
-          <div style={{marginLeft: 20, color: '#CCC', fontFamily: tema.fuentes.codigo, fontSize: 22, display: 'flex', alignItems: 'center', gap: 10}}>
+          <div style={{marginLeft: 20, color: '#CCC', fontFamily: tema.fuentes.codigo, fontVariantLigatures: 'none', fontFeatureSettings: '"calt" 0, "liga" 0', fontSize: 22, display: 'flex', alignItems: 'center', gap: 10}}>
             <span style={{color: '#FFD43B'}}>●</span>
             {archivo}
           </div>
         </div>
-        <div style={{padding: '26px 0', fontFamily: tema.fuentes.codigo, fontSize: tamano, lineHeight: 1.55}}>
+        <div style={{padding: '26px 0', fontFamily: tema.fuentes.codigo, fontVariantLigatures: 'none', fontFeatureSettings: '"calt" 0, "liga" 0', fontSize: tamano, lineHeight: 1.55}}>
           {lineas.map((l, i) => {
             const n = Math.max(0, Math.min(l.length, restante));
             restante -= l.length + 1;
@@ -126,8 +126,8 @@ export const Terminal: React.FC<{
           overflow: 'hidden',
         }}
       >
-        <div style={{height: 48, background: '#333', color: '#DDD', fontFamily: tema.fuentes.codigo, fontSize: 22, display: 'flex', alignItems: 'center', padding: '0 20px'}}>▶ {titulo}</div>
-        <div style={{padding: 26, fontFamily: tema.fuentes.codigo, fontSize: 36, lineHeight: 1.5}}>
+        <div style={{height: 48, background: '#333', color: '#DDD', fontFamily: tema.fuentes.codigo, fontVariantLigatures: 'none', fontFeatureSettings: '"calt" 0, "liga" 0', fontSize: 22, display: 'flex', alignItems: 'center', padding: '0 20px'}}>▶ {titulo}</div>
+        <div style={{padding: 26, fontFamily: tema.fuentes.codigo, fontVariantLigatures: 'none', fontFeatureSettings: '"calt" 0, "liga" 0', fontSize: 36, lineHeight: 1.5}}>
           {lineas.map((l, i) =>
             s >= l.desde ? (
               <div key={i} style={{color: l.color ?? '#E6E6E6', whiteSpace: 'pre'}}>

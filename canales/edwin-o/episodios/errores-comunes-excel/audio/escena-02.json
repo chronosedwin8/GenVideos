@@ -1,0 +1,310 @@
+{
+  "num": "02",
+  "titulo": "Presentación",
+  "texto": "¡Bienvenidos, amigos del canal! Vamos en busca del poder tecnológico. Este es el último video del año, y quise cerrarlo con algo que te va a ahorrar dolores de cabeza en dos mil veintisiete. Cinco errores silenciosos: no muestran ningún mensaje, pero dan resultados equivocados. Y al final te dejo una lista de revisión para antes de enviar cualquier archivo.",
+  "texto_tts": "[excited] ¡Bienvenidos, amigos del canal! Vamos en busca del poder tecnológico. Este es el último video del año, y quise cerrarlo con algo que te va a ahorrar dolores de cabeza en dos mil veintisiete. Cinco errores silenciosos: no muestran ningún mensaje, pero dan resultados equivocados. Y al final te dejo una lista de revisión para antes de enviar cualquier archivo.",
+  "modelo": "eleven_v3",
+  "duracion": 24.32,
+  "palabras": [
+    {
+      "texto": "¡Bienvenidos,",
+      "inicio": 0.18,
+      "fin": 0.88
+    },
+    {
+      "texto": "amigos",
+      "inicio": 0.926,
+      "fin": 1.2
+    },
+    {
+      "texto": "del",
+      "inicio": 1.24,
+      "fin": 1.36
+    },
+    {
+      "texto": "canal!",
+      "inicio": 1.427,
+      "fin": 1.84
+    },
+    {
+      "texto": "Vamos",
+      "inicio": 2.08,
+      "fin": 2.72
+    },
+    {
+      "texto": "en",
+      "inicio": 2.8,
+      "fin": 2.96
+    },
+    {
+      "texto": "busca",
+      "inicio": 3.027,
+      "fin": 3.36
+    },
+    {
+      "texto": "del",
+      "inicio": 3.42,
+      "fin": 3.6
+    },
+    {
+      "texto": "poder",
+      "inicio": 3.68,
+      "fin": 4.08
+    },
+    {
+      "texto": "tecnológico.",
+      "inicio": 4.144,
+      "fin": 5.04
+    },
+    {
+      "texto": "Este",
+      "inicio": 5.088,
+      "fin": 5.28
+    },
+    {
+      "texto": "es",
+      "inicio": 5.307,
+      "fin": 5.36
+    },
+    {
+      "texto": "el",
+      "inicio": 5.44,
+      "fin": 5.6
+    },
+    {
+      "texto": "último",
+      "inicio": 5.669,
+      "fin": 6.08
+    },
+    {
+      "texto": "video",
+      "inicio": 6.147,
+      "fin": 6.48
+    },
+    {
+      "texto": "del",
+      "inicio": 6.54,
+      "fin": 6.72
+    },
+    {
+      "texto": "año,",
+      "inicio": 6.78,
+      "fin": 7.44
+    },
+    {
+      "texto": "y",
+      "inicio": 7.48,
+      "fin": 7.52
+    },
+    {
+      "texto": "quise",
+      "inicio": 7.573,
+      "fin": 7.84
+    },
+    {
+      "texto": "cerrarlo",
+      "inicio": 7.888,
+      "fin": 8.4
+    },
+    {
+      "texto": "con",
+      "inicio": 8.46,
+      "fin": 8.64
+    },
+    {
+      "texto": "algo",
+      "inicio": 8.704,
+      "fin": 8.96
+    },
+    {
+      "texto": "que",
+      "inicio": 9.0,
+      "fin": 9.12
+    },
+    {
+      "texto": "te",
+      "inicio": 9.147,
+      "fin": 9.2
+    },
+    {
+      "texto": "va",
+      "inicio": 9.227,
+      "fin": 9.28
+    },
+    {
+      "texto": "a",
+      "inicio": 9.32,
+      "fin": 9.36
+    },
+    {
+      "texto": "ahorrar",
+      "inicio": 9.387,
+      "fin": 9.68
+    },
+    {
+      "texto": "dolores",
+      "inicio": 9.76,
+      "fin": 10.16
+    },
+    {
+      "texto": "de",
+      "inicio": 10.187,
+      "fin": 10.24
+    },
+    {
+      "texto": "cabeza",
+      "inicio": 10.309,
+      "fin": 10.72
+    },
+    {
+      "texto": "en",
+      "inicio": 10.827,
+      "fin": 11.04
+    },
+    {
+      "texto": "dos",
+      "inicio": 11.08,
+      "fin": 11.2
+    },
+    {
+      "texto": "mil",
+      "inicio": 11.24,
+      "fin": 11.36
+    },
+    {
+      "texto": "veintisiete.",
+      "inicio": 11.413,
+      "fin": 12.8
+    },
+    {
+      "texto": "Cinco",
+      "inicio": 12.86,
+      "fin": 13.2
+    },
+    {
+      "texto": "errores",
+      "inicio": 13.3,
+      "fin": 14.0
+    },
+    {
+      "texto": "silenciosos:",
+      "inicio": 14.06,
+      "fin": 15.36
+    },
+    {
+      "texto": "no",
+      "inicio": 15.413,
+      "fin": 15.52
+    },
+    {
+      "texto": "muestran",
+      "inicio": 15.56,
+      "fin": 15.92
+    },
+    {
+      "texto": "ningún",
+      "inicio": 15.966,
+      "fin": 16.24
+    },
+    {
+      "texto": "mensaje,",
+      "inicio": 16.32,
+      "fin": 17.28
+    },
+    {
+      "texto": "pero",
+      "inicio": 17.328,
+      "fin": 17.52
+    },
+    {
+      "texto": "dan",
+      "inicio": 17.56,
+      "fin": 17.68
+    },
+    {
+      "texto": "resultados",
+      "inicio": 17.745,
+      "fin": 18.4
+    },
+    {
+      "texto": "equivocados.",
+      "inicio": 18.453,
+      "fin": 19.28
+    },
+    {
+      "texto": "Y",
+      "inicio": 19.48,
+      "fin": 19.68
+    },
+    {
+      "texto": "al",
+      "inicio": 19.733,
+      "fin": 19.84
+    },
+    {
+      "texto": "final",
+      "inicio": 19.893,
+      "fin": 20.16
+    },
+    {
+      "texto": "te",
+      "inicio": 20.24,
+      "fin": 20.4
+    },
+    {
+      "texto": "dejo",
+      "inicio": 20.453,
+      "fin": 20.64
+    },
+    {
+      "texto": "una",
+      "inicio": 20.68,
+      "fin": 20.8
+    },
+    {
+      "texto": "lista",
+      "inicio": 20.853,
+      "fin": 21.12
+    },
+    {
+      "texto": "de",
+      "inicio": 21.173,
+      "fin": 21.28
+    },
+    {
+      "texto": "revisión",
+      "inicio": 21.333,
+      "fin": 21.84
+    },
+    {
+      "texto": "para",
+      "inicio": 21.92,
+      "fin": 22.24
+    },
+    {
+      "texto": "antes",
+      "inicio": 22.293,
+      "fin": 22.56
+    },
+    {
+      "texto": "de",
+      "inicio": 22.587,
+      "fin": 22.64
+    },
+    {
+      "texto": "enviar",
+      "inicio": 22.697,
+      "fin": 23.04
+    },
+    {
+      "texto": "cualquier",
+      "inicio": 23.088,
+      "fin": 23.52
+    },
+    {
+      "texto": "archivo.",
+      "inicio": 23.59,
+      "fin": 24.32
+    }
+  ]
+}

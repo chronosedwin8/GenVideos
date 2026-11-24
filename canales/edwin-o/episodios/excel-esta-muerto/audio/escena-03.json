@@ -1,0 +1,285 @@
+{
+  "num": "03",
+  "titulo": "El contexto",
+  "texto": "Primero, el contexto. Excel cumplió cuarenta años en septiembre de dos mil veinticinco. Pocos programas sobreviven tanto tiempo. Sobrevivió a internet, a los celulares y a la nube. Y ahora le toca enfrentar a la inteligencia artificial. Y en sus últimos dos años, cambió más que en los veinte anteriores. Vamos con los cinco cambios.",
+  "texto_tts": "Primero, el contexto. Excel cumplió cuarenta años en septiembre de dos mil veinticinco. Pocos programas sobreviven tanto tiempo. Sobrevivió a internet, a los celulares y a la nube. Y ahora le toca enfrentar a la inteligencia artificial. Y en sus últimos dos años, cambió más que en los veinte anteriores. Vamos con los cinco cambios.",
+  "modelo": "eleven_v3",
+  "duracion": 21.52,
+  "palabras": [
+    {
+      "texto": "Primero,",
+      "inicio": 0.0,
+      "fin": 0.4
+    },
+    {
+      "texto": "el",
+      "inicio": 0.427,
+      "fin": 0.48
+    },
+    {
+      "texto": "contexto.",
+      "inicio": 0.542,
+      "fin": 1.2
+    },
+    {
+      "texto": "Excel",
+      "inicio": 1.253,
+      "fin": 1.52
+    },
+    {
+      "texto": "cumplió",
+      "inicio": 1.56,
+      "fin": 1.92
+    },
+    {
+      "texto": "cuarenta",
+      "inicio": 1.973,
+      "fin": 2.48
+    },
+    {
+      "texto": "años",
+      "inicio": 2.512,
+      "fin": 2.64
+    },
+    {
+      "texto": "en",
+      "inicio": 2.667,
+      "fin": 2.72
+    },
+    {
+      "texto": "septiembre",
+      "inicio": 2.784,
+      "fin": 3.28
+    },
+    {
+      "texto": "de",
+      "inicio": 3.307,
+      "fin": 3.36
+    },
+    {
+      "texto": "dos",
+      "inicio": 3.4,
+      "fin": 3.52
+    },
+    {
+      "texto": "mil",
+      "inicio": 3.56,
+      "fin": 3.68
+    },
+    {
+      "texto": "veinticinco.",
+      "inicio": 3.707,
+      "fin": 4.4
+    },
+    {
+      "texto": "Pocos",
+      "inicio": 4.96,
+      "fin": 5.76
+    },
+    {
+      "texto": "programas",
+      "inicio": 5.808,
+      "fin": 6.24
+    },
+    {
+      "texto": "sobreviven",
+      "inicio": 6.28,
+      "fin": 6.8
+    },
+    {
+      "texto": "tanto",
+      "inicio": 6.853,
+      "fin": 7.12
+    },
+    {
+      "texto": "tiempo.",
+      "inicio": 7.189,
+      "fin": 8.0
+    },
+    {
+      "texto": "Sobrevivió",
+      "inicio": 8.1,
+      "fin": 8.8
+    },
+    {
+      "texto": "a",
+      "inicio": 8.96,
+      "fin": 9.12
+    },
+    {
+      "texto": "internet,",
+      "inicio": 9.156,
+      "fin": 9.84
+    },
+    {
+      "texto": "a",
+      "inicio": 9.88,
+      "fin": 9.92
+    },
+    {
+      "texto": "los",
+      "inicio": 9.94,
+      "fin": 10.0
+    },
+    {
+      "texto": "celulares",
+      "inicio": 10.06,
+      "fin": 10.88
+    },
+    {
+      "texto": "y",
+      "inicio": 11.0,
+      "fin": 11.12
+    },
+    {
+      "texto": "a",
+      "inicio": 11.16,
+      "fin": 11.2
+    },
+    {
+      "texto": "la",
+      "inicio": 11.227,
+      "fin": 11.28
+    },
+    {
+      "texto": "nube.",
+      "inicio": 11.36,
+      "fin": 11.76
+    },
+    {
+      "texto": "Y",
+      "inicio": 12.16,
+      "fin": 12.56
+    },
+    {
+      "texto": "ahora",
+      "inicio": 12.613,
+      "fin": 12.88
+    },
+    {
+      "texto": "le",
+      "inicio": 12.907,
+      "fin": 12.96
+    },
+    {
+      "texto": "toca",
+      "inicio": 13.013,
+      "fin": 13.2
+    },
+    {
+      "texto": "enfrentar",
+      "inicio": 13.24,
+      "fin": 13.6
+    },
+    {
+      "texto": "a",
+      "inicio": 13.64,
+      "fin": 13.68
+    },
+    {
+      "texto": "la",
+      "inicio": 13.707,
+      "fin": 13.76
+    },
+    {
+      "texto": "inteligencia",
+      "inicio": 13.81,
+      "fin": 14.32
+    },
+    {
+      "texto": "artificial.",
+      "inicio": 14.378,
+      "fin": 15.04
+    },
+    {
+      "texto": "Y",
+      "inicio": 15.44,
+      "fin": 15.84
+    },
+    {
+      "texto": "en",
+      "inicio": 15.867,
+      "fin": 15.92
+    },
+    {
+      "texto": "sus",
+      "inicio": 15.96,
+      "fin": 16.08
+    },
+    {
+      "texto": "últimos",
+      "inicio": 16.14,
+      "fin": 16.56
+    },
+    {
+      "texto": "dos",
+      "inicio": 16.6,
+      "fin": 16.72
+    },
+    {
+      "texto": "años,",
+      "inicio": 16.816,
+      "fin": 17.76
+    },
+    {
+      "texto": "cambió",
+      "inicio": 17.808,
+      "fin": 18.16
+    },
+    {
+      "texto": "más",
+      "inicio": 18.24,
+      "fin": 18.48
+    },
+    {
+      "texto": "que",
+      "inicio": 18.54,
+      "fin": 18.72
+    },
+    {
+      "texto": "en",
+      "inicio": 18.747,
+      "fin": 18.8
+    },
+    {
+      "texto": "los",
+      "inicio": 18.84,
+      "fin": 18.96
+    },
+    {
+      "texto": "veinte",
+      "inicio": 18.987,
+      "fin": 19.2
+    },
+    {
+      "texto": "anteriores.",
+      "inicio": 19.24,
+      "fin": 19.92
+    },
+    {
+      "texto": "Vamos",
+      "inicio": 20.08,
+      "fin": 20.4
+    },
+    {
+      "texto": "con",
+      "inicio": 20.44,
+      "fin": 20.56
+    },
+    {
+      "texto": "los",
+      "inicio": 20.58,
+      "fin": 20.64
+    },
+    {
+      "texto": "cinco",
+      "inicio": 20.68,
+      "fin": 20.88
+    },
+    {
+      "texto": "cambios.",
+      "inicio": 20.94,
+      "fin": 21.52
+    }
+  ]
+}

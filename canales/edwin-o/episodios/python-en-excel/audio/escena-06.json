@@ -1,0 +1,235 @@
+{
+  "num": "06",
+  "titulo": "Paso 1: convierte tus datos en Tabla",
+  "texto": "Paso uno: prepara tus datos. Tengo doce ventas con mes, región, producto y monto. Selecciónalas y presiona Control más T para convertirlas en Tabla. Luego, en la pestaña Diseño de tabla, ponle un nombre fácil, por ejemplo: Ventas. Así Python puede encontrarla por su nombre.",
+  "texto_tts": "Paso uno: prepara tus datos. Tengo doce ventas con mes, región, producto y monto. Selecciónalas y presiona Control más T para convertirlas en Tabla. Luego, en la pestaña Diseño de tabla, ponle un nombre fácil, por ejemplo: Ventas. Así Python puede encontrarla por su nombre.",
+  "modelo": "eleven_v3",
+  "duracion": 24.08,
+  "palabras": [
+    {
+      "texto": "Paso",
+      "inicio": 0.0,
+      "fin": 0.24
+    },
+    {
+      "texto": "uno:",
+      "inicio": 0.32,
+      "fin": 0.64
+    },
+    {
+      "texto": "prepara",
+      "inicio": 0.72,
+      "fin": 1.28
+    },
+    {
+      "texto": "tus",
+      "inicio": 1.32,
+      "fin": 1.44
+    },
+    {
+      "texto": "datos.",
+      "inicio": 1.547,
+      "fin": 2.16
+    },
+    {
+      "texto": "Tengo",
+      "inicio": 2.6,
+      "fin": 3.36
+    },
+    {
+      "texto": "doce",
+      "inicio": 3.44,
+      "fin": 3.76
+    },
+    {
+      "texto": "ventas",
+      "inicio": 3.84,
+      "fin": 4.32
+    },
+    {
+      "texto": "con",
+      "inicio": 4.38,
+      "fin": 4.56
+    },
+    {
+      "texto": "mes,",
+      "inicio": 4.66,
+      "fin": 5.2
+    },
+    {
+      "texto": "región,",
+      "inicio": 5.26,
+      "fin": 6.0
+    },
+    {
+      "texto": "producto",
+      "inicio": 6.071,
+      "fin": 6.64
+    },
+    {
+      "texto": "y",
+      "inicio": 6.76,
+      "fin": 6.88
+    },
+    {
+      "texto": "monto.",
+      "inicio": 6.96,
+      "fin": 7.52
+    },
+    {
+      "texto": "Selecciónalas",
+      "inicio": 7.728,
+      "fin": 9.2
+    },
+    {
+      "texto": "y",
+      "inicio": 9.32,
+      "fin": 9.44
+    },
+    {
+      "texto": "presiona",
+      "inicio": 9.504,
+      "fin": 10.08
+    },
+    {
+      "texto": "Control",
+      "inicio": 10.17,
+      "fin": 10.8
+    },
+    {
+      "texto": "más",
+      "inicio": 10.88,
+      "fin": 11.12
+    },
+    {
+      "texto": "T",
+      "inicio": 11.4,
+      "fin": 11.68
+    },
+    {
+      "texto": "para",
+      "inicio": 11.744,
+      "fin": 12.0
+    },
+    {
+      "texto": "convertirlas",
+      "inicio": 12.05,
+      "fin": 12.8
+    },
+    {
+      "texto": "en",
+      "inicio": 12.88,
+      "fin": 13.04
+    },
+    {
+      "texto": "Tabla.",
+      "inicio": 13.12,
+      "fin": 14.2
+    },
+    {
+      "texto": "Luego,",
+      "inicio": 14.5,
+      "fin": 15.28
+    },
+    {
+      "texto": "en",
+      "inicio": 15.333,
+      "fin": 15.44
+    },
+    {
+      "texto": "la",
+      "inicio": 15.467,
+      "fin": 15.52
+    },
+    {
+      "texto": "pestaña",
+      "inicio": 15.56,
+      "fin": 16.16
+    },
+    {
+      "texto": "Diseño",
+      "inicio": 16.256,
+      "fin": 16.8
+    },
+    {
+      "texto": "de",
+      "inicio": 16.827,
+      "fin": 16.88
+    },
+    {
+      "texto": "tabla,",
+      "inicio": 16.973,
+      "fin": 17.92
+    },
+    {
+      "texto": "ponle",
+      "inicio": 17.98,
+      "fin": 18.24
+    },
+    {
+      "texto": "un",
+      "inicio": 18.267,
+      "fin": 18.32
+    },
+    {
+      "texto": "nombre",
+      "inicio": 18.377,
+      "fin": 18.72
+    },
+    {
+      "texto": "fácil,",
+      "inicio": 18.8,
+      "fin": 19.44
+    },
+    {
+      "texto": "por",
+      "inicio": 19.46,
+      "fin": 19.52
+    },
+    {
+      "texto": "ejemplo:",
+      "inicio": 19.6,
+      "fin": 20.4
+    },
+    {
+      "texto": "Ventas.",
+      "inicio": 20.48,
+      "fin": 21.28
+    },
+    {
+      "texto": "Así",
+      "inicio": 21.467,
+      "fin": 21.92
+    },
+    {
+      "texto": "Python",
+      "inicio": 21.989,
+      "fin": 22.4
+    },
+    {
+      "texto": "puede",
+      "inicio": 22.44,
+      "fin": 22.64
+    },
+    {
+      "texto": "encontrarla",
+      "inicio": 22.688,
+      "fin": 23.2
+    },
+    {
+      "texto": "por",
+      "inicio": 23.24,
+      "fin": 23.36
+    },
+    {
+      "texto": "su",
+      "inicio": 23.413,
+      "fin": 23.52
+    },
+    {
+      "texto": "nombre.",
+      "inicio": 23.577,
+      "fin": 24.08
+    }
+  ]
+}

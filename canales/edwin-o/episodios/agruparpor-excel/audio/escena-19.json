@@ -1,0 +1,315 @@
+{
+  "num": "19",
+  "titulo": "Truco: combínala con una Tabla",
+  "texto": "Un truco para terminar. Convierte tus datos en Tabla con Control más T, y escribe la fórmula con los nombres de las columnas: Ventas, región, y Ventas, monto. Ahora, cada venta nueva que agregues al final entra sola en el resumen. Datos que crecen, resumen que se actualiza, y tú sin mover un dedo. Si no lo aprendes ahora, te extingues.",
+  "texto_tts": "Un truco para terminar. Convierte tus datos en Tabla con Control más T, y escribe la fórmula con los nombres de las columnas: Ventas, región, y Ventas, monto. Ahora, cada venta nueva que agregues al final entra sola en el resumen. Datos que crecen, resumen que se actualiza, y tú sin mover un dedo. [serious] Si no lo aprendes ahora, te extingues.",
+  "modelo": "eleven_v3",
+  "duracion": 28.08,
+  "palabras": [
+    {
+      "texto": "Un",
+      "inicio": 0.0,
+      "fin": 0.16
+    },
+    {
+      "texto": "truco",
+      "inicio": 0.213,
+      "fin": 0.48
+    },
+    {
+      "texto": "para",
+      "inicio": 0.512,
+      "fin": 0.64
+    },
+    {
+      "texto": "terminar.",
+      "inicio": 0.697,
+      "fin": 1.36
+    },
+    {
+      "texto": "Convierte",
+      "inicio": 1.5,
+      "fin": 2.24
+    },
+    {
+      "texto": "tus",
+      "inicio": 2.3,
+      "fin": 2.48
+    },
+    {
+      "texto": "datos",
+      "inicio": 2.547,
+      "fin": 2.88
+    },
+    {
+      "texto": "en",
+      "inicio": 2.933,
+      "fin": 3.04
+    },
+    {
+      "texto": "Tabla",
+      "inicio": 3.12,
+      "fin": 3.52
+    },
+    {
+      "texto": "con",
+      "inicio": 3.6,
+      "fin": 3.84
+    },
+    {
+      "texto": "Control",
+      "inicio": 3.9,
+      "fin": 4.32
+    },
+    {
+      "texto": "más",
+      "inicio": 4.36,
+      "fin": 4.48
+    },
+    {
+      "texto": "T,",
+      "inicio": 4.68,
+      "fin": 5.28
+    },
+    {
+      "texto": "y",
+      "inicio": 5.48,
+      "fin": 5.68
+    },
+    {
+      "texto": "escribe",
+      "inicio": 5.733,
+      "fin": 6.08
+    },
+    {
+      "texto": "la",
+      "inicio": 6.107,
+      "fin": 6.16
+    },
+    {
+      "texto": "fórmula",
+      "inicio": 6.24,
+      "fin": 6.72
+    },
+    {
+      "texto": "con",
+      "inicio": 6.78,
+      "fin": 6.96
+    },
+    {
+      "texto": "los",
+      "inicio": 6.98,
+      "fin": 7.04
+    },
+    {
+      "texto": "nombres",
+      "inicio": 7.09,
+      "fin": 7.44
+    },
+    {
+      "texto": "de",
+      "inicio": 7.467,
+      "fin": 7.52
+    },
+    {
+      "texto": "las",
+      "inicio": 7.54,
+      "fin": 7.6
+    },
+    {
+      "texto": "columnas:",
+      "inicio": 7.669,
+      "fin": 8.8
+    },
+    {
+      "texto": "Ventas,",
+      "inicio": 8.896,
+      "fin": 9.6
+    },
+    {
+      "texto": "región,",
+      "inicio": 9.74,
+      "fin": 10.48
+    },
+    {
+      "texto": "y",
+      "inicio": 10.76,
+      "fin": 11.04
+    },
+    {
+      "texto": "Ventas,",
+      "inicio": 11.12,
+      "fin": 11.88
+    },
+    {
+      "texto": "monto.",
+      "inicio": 11.98,
+      "fin": 12.56
+    },
+    {
+      "texto": "Ahora,",
+      "inicio": 12.907,
+      "fin": 13.84
+    },
+    {
+      "texto": "cada",
+      "inicio": 13.984,
+      "fin": 14.56
+    },
+    {
+      "texto": "venta",
+      "inicio": 14.613,
+      "fin": 14.88
+    },
+    {
+      "texto": "nueva",
+      "inicio": 14.947,
+      "fin": 15.28
+    },
+    {
+      "texto": "que",
+      "inicio": 15.32,
+      "fin": 15.44
+    },
+    {
+      "texto": "agregues",
+      "inicio": 15.493,
+      "fin": 15.92
+    },
+    {
+      "texto": "al",
+      "inicio": 15.947,
+      "fin": 16.0
+    },
+    {
+      "texto": "final",
+      "inicio": 16.093,
+      "fin": 16.56
+    },
+    {
+      "texto": "entra",
+      "inicio": 16.68,
+      "fin": 17.28
+    },
+    {
+      "texto": "sola",
+      "inicio": 17.344,
+      "fin": 17.6
+    },
+    {
+      "texto": "en",
+      "inicio": 17.627,
+      "fin": 17.68
+    },
+    {
+      "texto": "el",
+      "inicio": 17.707,
+      "fin": 17.76
+    },
+    {
+      "texto": "resumen.",
+      "inicio": 17.82,
+      "fin": 18.4
+    },
+    {
+      "texto": "Datos",
+      "inicio": 18.6,
+      "fin": 19.6
+    },
+    {
+      "texto": "que",
+      "inicio": 19.62,
+      "fin": 19.68
+    },
+    {
+      "texto": "crecen,",
+      "inicio": 19.74,
+      "fin": 20.4
+    },
+    {
+      "texto": "resumen",
+      "inicio": 20.52,
+      "fin": 21.12
+    },
+    {
+      "texto": "que",
+      "inicio": 21.14,
+      "fin": 21.2
+    },
+    {
+      "texto": "se",
+      "inicio": 21.227,
+      "fin": 21.28
+    },
+    {
+      "texto": "actualiza,",
+      "inicio": 21.326,
+      "fin": 22.0
+    },
+    {
+      "texto": "y",
+      "inicio": 22.24,
+      "fin": 22.48
+    },
+    {
+      "texto": "tú",
+      "inicio": 22.64,
+      "fin": 22.96
+    },
+    {
+      "texto": "sin",
+      "inicio": 23.06,
+      "fin": 23.36
+    },
+    {
+      "texto": "mover",
+      "inicio": 23.413,
+      "fin": 23.68
+    },
+    {
+      "texto": "un",
+      "inicio": 23.707,
+      "fin": 23.76
+    },
+    {
+      "texto": "dedo.",
+      "inicio": 23.84,
+      "fin": 24.24
+    },
+    {
+      "texto": "Si",
+      "inicio": 25.342,
+      "fin": 25.36
+    },
+    {
+      "texto": "no",
+      "inicio": 25.413,
+      "fin": 25.52
+    },
+    {
+      "texto": "lo",
+      "inicio": 25.547,
+      "fin": 25.6
+    },
+    {
+      "texto": "aprendes",
+      "inicio": 25.646,
+      "fin": 26.0
+    },
+    {
+      "texto": "ahora,",
+      "inicio": 26.08,
+      "fin": 26.84
+    },
+    {
+      "texto": "te",
+      "inicio": 26.96,
+      "fin": 27.2
+    },
+    {
+      "texto": "extingues.",
+      "inicio": 27.26,
+      "fin": 28.08
+    }
+  ]
+}

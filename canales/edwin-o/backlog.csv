@@ -1,5 +1,5 @@
 id,temporada,tipo,tema,slug,titulo_youtube,prioridad,estado,notas
-1,1 · Excel para la oficina,tutorial,Calcular horas trabajadas y horas extra,horas-extra-excel,Cómo calcular horas trabajadas y horas extra en Excel (automático),alta,video,"PILOTO. Rehace 'Restar horas' (CPM $8,56). Turnos nocturnos, horas negativas, formato [h]:mm"
+1,1 · Excel para la oficina,tutorial,Calcular horas trabajadas y horas extra,horas-extra-excel,Cómo calcular horas trabajadas y horas extra en Excel (automático),alta,video,"PILOTO. Rehace 'Restar horas' (CPM $8,56). Turnos nocturnos, horas negativas, formato [h]:mm | Lote dic 2026 · se publica jue 26 nov 2026 7:00 · voz clonada de Edwin"
 2,1 · Excel para la oficina,tutorial,BUSCARX desde cero,buscarx-excel,BUSCARX en Excel: la función que reemplaza a BUSCARV (fácil),alta,pendiente,Evolución del video 'Factura con BUSCARV'
 3,1 · Excel para la oficina,tutorial,Formato condicional según valor y fórmula,formato-condicional-excel,Cómo cambiar el color de una celda según su valor en Excel,alta,pendiente,Short top (10.436 vistas) → versión larga
 4,1 · Excel para la oficina,tutorial,Listas desplegables dependientes,listas-desplegables-dependientes,Listas desplegables dependientes en Excel (paso a paso),alta,pendiente,Blog + video con buena duración media (5:34)
@@ -7,9 +7,9 @@ id,temporada,tipo,tema,slug,titulo_youtube,prioridad,estado,notas
 6,1 · Excel para la oficina,tutorial,Numeración consecutiva automática,numeracion-consecutiva-excel,Cómo hacer números consecutivos automáticos en Excel,media,pendiente,"Short 3.144 vistas; SECUENCIA, FILA"
 7,1 · Excel para la oficina,tutorial,Convertir números a letras sin macros,numeros-a-letras-excel,Convertir números a letras en Excel SIN macros (con LAMBDA),alta,pendiente,Remaster del short; versión moderna con LAMBDA + macro clásica
 8,1 · Excel para la oficina,tutorial,Calcular porcentajes,porcentajes-excel,Cómo calcular porcentajes en Excel (descuentos e IVA),media,pendiente,Tabla de porcentajes (blog 2022)
-9,1 · Excel para la oficina,tutorial,FILTRO y ORDENAR dinámicos,filtro-excel,Función FILTRO en Excel: reportes que se actualizan solos,media,pendiente,Matrices dinámicas
+9,1 · Excel para la oficina,tutorial,FILTRAR y ORDENAR dinámicos,filtro-excel,Función FILTRAR en Excel: reportes que se actualizan solos,media,pendiente,Matrices dinámicas
 10,1 · Excel para la oficina,tutorial,Quitar duplicados y limpiar datos,limpiar-datos-excel,Cómo limpiar datos en Excel (duplicados y espacios),media,pendiente,"UNICOS, ESPACIOS, Quitar duplicados"
-11,2 · Automatiza tu trabajo,tutorial,Correos masivos con adjuntos desde Excel y Outlook,correos-masivos-adjuntos,Enviar correos masivos con adjuntos desde Excel y Outlook,alta,pendiente,"Top watch time + CPM $8. Producto en tienda. Mostrar macro animada"
+11,2 · Automatiza tu trabajo,tutorial,Correos masivos con adjuntos desde Excel y Outlook,correos-masivos-adjuntos,Enviar correos masivos con adjuntos desde Excel y Outlook,alta,pendiente,Top watch time + CPM $8. Producto en tienda. Mostrar macro animada
 12,2 · Automatiza tu trabajo,tutorial,Combinar correspondencia y generar PDF individuales,combinar-correspondencia-pdf,Combinar correspondencia y generar un PDF por persona,alta,pendiente,Video antiguo con buen rendimiento + producto en tienda
 13,2 · Automatiza tu trabajo,tutorial,Factura con numeración automática,factura-numeracion-automatica,Cómo hacer una factura en Excel con numeración automática,alta,pendiente,"CPM $8,35; remaster"
 14,2 · Automatiza tu trabajo,tutorial,Tu primera macro con la grabadora,primera-macro-excel,Tu primera macro en Excel en 5 minutos (sin saber programar),alta,pendiente,Puerta de entrada a macros
@@ -24,15 +24,15 @@ id,temporada,tipo,tema,slug,titulo_youtube,prioridad,estado,notas
 23,3 · Gráficos y análisis,lista,Gráficas que mienten,graficas-que-mienten,5 errores que hacen que tus gráficas de Excel mientan,media,pendiente,Blog 05/11/2026
 24,3 · Gráficos y análisis,tutorial,Tabla de frecuencias,tabla-frecuencias-excel,Tabla de frecuencias en Excel (datos no agrupados y agrupados),media,pendiente,Visto ahora mismo: 68 vistas en 48 h
 25,3 · Gráficos y análisis,tutorial,Pronósticos en Excel,pronosticos-excel,Cómo hacer un pronóstico de ventas en Excel,media,pendiente,Blog 19/11/2026
-26,3 · Gráficos y análisis,tutorial,AGRUPARPOR y PIVOTARPOR,agruparpor-excel,AGRUPARPOR en Excel: resúmenes sin tablas dinámicas,media,pendiente,Funciones nuevas de Microsoft 365
+26,3 · Gráficos y análisis,tutorial,AGRUPARPOR y PIVOTARPOR,agruparpor-excel,AGRUPARPOR en Excel: resúmenes sin tablas dinámicas,media,video,Lote dic 2026 · se publica mar 15 dic 2026 7:00 · voz clonada de Edwin | Funciones nuevas de Microsoft 365
 27,4 · Excel con IA,tutorial,Copilot en Excel,copilot-excel,Copilot en Excel: cómo usar la IA para analizar tus datos,alta,pendiente,Blog 08/10/2026; verificar disponibilidad y precio actual
-28,4 · Excel con IA,tutorial,Fórmulas con ChatGPT o Claude,formulas-con-ia,Cómo pedirle a la IA fórmulas de Excel que sí funcionan,alta,pendiente,Prompts concretos
-29,4 · Excel con IA,tutorial,Python en Excel,python-en-excel,Python en Excel: tu primer análisis con =PY(),alta,pendiente,Une las dos audiencias del canal
-30,4 · Excel con IA,lista,¿Excel está muerto en la era de la IA?,excel-esta-muerto,¿Excel está muerto con la IA? Lo que de verdad cambió,media,pendiente,Blog 09/10/2026; opinión de Edwin
+28,4 · Excel con IA,tutorial,Fórmulas con ChatGPT o Claude,formulas-con-ia,Cómo pedirle a la IA fórmulas de Excel que sí funcionan,alta,video,Lote dic 2026 · se publica mar 1 dic 2026 7:00 · voz clonada de Edwin | Prompts concretos
+29,4 · Excel con IA,tutorial,Python en Excel,python-en-excel,Python en Excel: tu primer análisis con =PY(),alta,video,Lote dic 2026 · se publica mar 22 dic 2026 7:00 · voz clonada de Edwin | Une las dos audiencias del canal
+30,4 · Excel con IA,lista,¿Excel está muerto en la era de la IA?,excel-esta-muerto,¿Excel está muerto con la IA? Lo que de verdad cambió,media,video,Lote dic 2026 · se publica jue 10 dic 2026 7:00 · voz clonada de Edwin | Blog 09/10/2026; opinión de Edwin
 31,4 · Excel con IA,lista,Usos de la IA en Excel para empresas,ia-excel-empresas,7 formas de usar IA con Excel en tu empresa,media,pendiente,Blog 07/10/2026
 32,4 · Excel con IA,lista,Señales de que necesitas una base de datos,excel-vs-base-de-datos,7 señales de que Excel ya no es suficiente para tu empresa,baja,pendiente,Blog 12/11/2026
-33,5 · Python práctico,tutorial,Condicionales IF ELIF ELSE,python-if-elif-else,Condicionales en Python: IF ELIF ELSE explicado fácil,alta,pendiente,Short #1 del canal (22.756 vistas) → versión larga
-34,5 · Python práctico,tutorial,Automatizar Excel con Python (openpyxl),python-automatizar-excel,Automatiza Excel con Python: crea reportes en segundos,alta,pendiente,Puente Excel-Python
+33,5 · Python práctico,tutorial,Condicionales IF ELIF ELSE,python-if-elif-else,Condicionales en Python: IF ELIF ELSE explicado fácil,alta,video,Lote dic 2026 · se publica jue 17 dic 2026 7:00 · voz clonada de Edwin | Short #1 del canal (22.756 vistas) → versión larga
+34,5 · Python práctico,tutorial,Automatizar Excel con Python (openpyxl),python-automatizar-excel,Automatiza Excel con Python: crea reportes en segundos,alta,video,Lote dic 2026 · se publica mar 8 dic 2026 7:00 · voz clonada de Edwin | Puente Excel-Python
 35,5 · Python práctico,tutorial,Pandas para usuarios de Excel,pandas-para-excel,Pandas para quienes ya saben Excel (tablas dinámicas en Python),alta,pendiente,
 36,5 · Python práctico,tutorial,Enviar correos masivos con Python,correos-masivos-python,Enviar correos masivos con Python y Excel,media,pendiente,Versión Python del tema estrella
 37,5 · Python práctico,tutorial,Generar códigos QR masivos con Python,qr-masivos-python,Genera cientos de códigos QR desde Excel con Python,media,pendiente,Producto QR de la tienda
@@ -46,8 +46,8 @@ id,temporada,tipo,tema,slug,titulo_youtube,prioridad,estado,notas
 45,6 · Herramientas y trucos,lista,Herramientas de IA gratis para docentes,ia-para-docentes,7 herramientas de IA gratis para docentes,media,pendiente,Sección del blog 'IA para docentes'
 46,6 · Herramientas y trucos,tutorial,Editor de ecuaciones en Word,ecuaciones-word,Cómo escribir ecuaciones en Word rápido (con atajos),media,pendiente,Remaster 'Editor de Ecuaciones Word 2016'
 47,6 · Herramientas y trucos,tutorial,Importar CSV sin dañar los datos,importar-csv-excel,Cómo abrir un CSV en Excel sin dañar fechas ni cédulas,media,pendiente,Blog 15/10/2026
-48,7 · Listas que enganchan,lista,Funciones de Excel que ahorran horas,funciones-que-ahorran-horas,7 funciones de Excel que te ahorran horas de trabajo,alta,pendiente,Lista de descubrimiento
-49,7 · Listas que enganchan,lista,Errores comunes en Excel,errores-comunes-excel,5 errores de Excel que cometen hasta los expertos,alta,pendiente,
+48,7 · Listas que enganchan,lista,Funciones de Excel que ahorran horas,funciones-que-ahorran-horas,7 funciones de Excel que te ahorran horas de trabajo,alta,video,Lote dic 2026 · se publica jue 3 dic 2026 7:00 · voz clonada de Edwin | Lista de descubrimiento
+49,7 · Listas que enganchan,lista,Errores comunes en Excel,errores-comunes-excel,5 errores de Excel que cometen hasta los expertos,alta,video,Lote dic 2026 · se publica jue 24 dic 2026 7:00 · voz clonada de Edwin
 50,7 · Listas que enganchan,lista,Atajos de teclado de Excel,atajos-excel,15 atajos de Excel que deberías usar todos los días,alta,pendiente,Muy buscado; ideal para Shorts
 51,7 · Listas que enganchan,lista,Trucos de Python para principiantes,trucos-python,7 trucos de Python que debiste aprender antes,media,pendiente,
 52,7 · Listas que enganchan,lista,Riesgos de Excel en empresas,riesgos-excel-empresas,El riesgo oculto de Excel en tu empresa (y cómo evitarlo),baja,pendiente,Blog 22/10/2026

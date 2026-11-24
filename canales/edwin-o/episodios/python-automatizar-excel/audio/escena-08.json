@@ -1,0 +1,325 @@
+{
+  "num": "08",
+  "titulo": "Paso 3: lee el Excel",
+  "texto": "Paso tres: leer el Excel. La primera línea trae pandas, y le pone un apodo corto: p d. La segunda trae Path, que sirve para manejar carpetas. Y la tercera es la magia: ventas igual a p d punto read excel, y el nombre del archivo. Con eso, las dos mil cuatrocientas filas ya están en la memoria de Python, listas para trabajar.",
+  "texto_tts": "Paso tres: leer el Excel. La primera línea trae pandas, y le pone un apodo corto: p d. La segunda trae Path, que sirve para manejar carpetas. Y la tercera es la magia: ventas igual a p d punto read excel, y el nombre del archivo. Con eso, las dos mil cuatrocientas filas ya están en la memoria de Python, listas para trabajar.",
+  "modelo": "eleven_v3",
+  "duracion": 26.64,
+  "palabras": [
+    {
+      "texto": "Paso",
+      "inicio": 0.0,
+      "fin": 0.24
+    },
+    {
+      "texto": "tres:",
+      "inicio": 0.32,
+      "fin": 0.72
+    },
+    {
+      "texto": "leer",
+      "inicio": 0.864,
+      "fin": 1.44
+    },
+    {
+      "texto": "el",
+      "inicio": 1.467,
+      "fin": 1.52
+    },
+    {
+      "texto": "Excel.",
+      "inicio": 1.6,
+      "fin": 2.08
+    },
+    {
+      "texto": "La",
+      "inicio": 2.4,
+      "fin": 3.04
+    },
+    {
+      "texto": "primera",
+      "inicio": 3.09,
+      "fin": 3.44
+    },
+    {
+      "texto": "línea",
+      "inicio": 3.493,
+      "fin": 3.76
+    },
+    {
+      "texto": "trae",
+      "inicio": 3.813,
+      "fin": 4.08
+    },
+    {
+      "texto": "pandas,",
+      "inicio": 4.183,
+      "fin": 4.88
+    },
+    {
+      "texto": "y",
+      "inicio": 5.04,
+      "fin": 5.2
+    },
+    {
+      "texto": "le",
+      "inicio": 5.227,
+      "fin": 5.28
+    },
+    {
+      "texto": "pone",
+      "inicio": 5.32,
+      "fin": 5.52
+    },
+    {
+      "texto": "un",
+      "inicio": 5.547,
+      "fin": 5.6
+    },
+    {
+      "texto": "apodo",
+      "inicio": 5.653,
+      "fin": 5.92
+    },
+    {
+      "texto": "corto:",
+      "inicio": 6.0,
+      "fin": 6.88
+    },
+    {
+      "texto": "p",
+      "inicio": 7.08,
+      "fin": 7.28
+    },
+    {
+      "texto": "d.",
+      "inicio": 7.56,
+      "fin": 7.92
+    },
+    {
+      "texto": "La",
+      "inicio": 8.267,
+      "fin": 8.96
+    },
+    {
+      "texto": "segunda",
+      "inicio": 9.02,
+      "fin": 9.44
+    },
+    {
+      "texto": "trae",
+      "inicio": 9.493,
+      "fin": 9.84
+    },
+    {
+      "texto": "Path,",
+      "inicio": 9.952,
+      "fin": 10.72
+    },
+    {
+      "texto": "que",
+      "inicio": 10.74,
+      "fin": 10.8
+    },
+    {
+      "texto": "sirve",
+      "inicio": 10.86,
+      "fin": 11.2
+    },
+    {
+      "texto": "para",
+      "inicio": 11.232,
+      "fin": 11.36
+    },
+    {
+      "texto": "manejar",
+      "inicio": 11.392,
+      "fin": 11.68
+    },
+    {
+      "texto": "carpetas.",
+      "inicio": 11.749,
+      "fin": 12.48
+    },
+    {
+      "texto": "Y",
+      "inicio": 12.8,
+      "fin": 13.12
+    },
+    {
+      "texto": "la",
+      "inicio": 13.147,
+      "fin": 13.2
+    },
+    {
+      "texto": "tercera",
+      "inicio": 13.26,
+      "fin": 13.6
+    },
+    {
+      "texto": "es",
+      "inicio": 13.627,
+      "fin": 13.68
+    },
+    {
+      "texto": "la",
+      "inicio": 13.707,
+      "fin": 13.76
+    },
+    {
+      "texto": "magia:",
+      "inicio": 13.84,
+      "fin": 14.88
+    },
+    {
+      "texto": "ventas",
+      "inicio": 14.96,
+      "fin": 15.44
+    },
+    {
+      "texto": "igual",
+      "inicio": 15.52,
+      "fin": 15.92
+    },
+    {
+      "texto": "a",
+      "inicio": 16.16,
+      "fin": 16.4
+    },
+    {
+      "texto": "p",
+      "inicio": 16.56,
+      "fin": 16.72
+    },
+    {
+      "texto": "d",
+      "inicio": 16.88,
+      "fin": 17.04
+    },
+    {
+      "texto": "punto",
+      "inicio": 17.147,
+      "fin": 17.68
+    },
+    {
+      "texto": "read",
+      "inicio": 17.792,
+      "fin": 18.24
+    },
+    {
+      "texto": "excel,",
+      "inicio": 18.333,
+      "fin": 18.88
+    },
+    {
+      "texto": "y",
+      "inicio": 19.12,
+      "fin": 19.36
+    },
+    {
+      "texto": "el",
+      "inicio": 19.387,
+      "fin": 19.44
+    },
+    {
+      "texto": "nombre",
+      "inicio": 19.474,
+      "fin": 19.68
+    },
+    {
+      "texto": "del",
+      "inicio": 19.72,
+      "fin": 19.84
+    },
+    {
+      "texto": "archivo.",
+      "inicio": 19.9,
+      "fin": 20.4
+    },
+    {
+      "texto": "Con",
+      "inicio": 20.64,
+      "fin": 21.36
+    },
+    {
+      "texto": "eso,",
+      "inicio": 21.44,
+      "fin": 21.84
+    },
+    {
+      "texto": "las",
+      "inicio": 21.88,
+      "fin": 22.0
+    },
+    {
+      "texto": "dos",
+      "inicio": 22.04,
+      "fin": 22.16
+    },
+    {
+      "texto": "mil",
+      "inicio": 22.2,
+      "fin": 22.32
+    },
+    {
+      "texto": "cuatrocientas",
+      "inicio": 22.377,
+      "fin": 22.96
+    },
+    {
+      "texto": "filas",
+      "inicio": 23.04,
+      "fin": 23.44
+    },
+    {
+      "texto": "ya",
+      "inicio": 23.52,
+      "fin": 23.68
+    },
+    {
+      "texto": "están",
+      "inicio": 23.72,
+      "fin": 23.92
+    },
+    {
+      "texto": "en",
+      "inicio": 23.947,
+      "fin": 24.0
+    },
+    {
+      "texto": "la",
+      "inicio": 24.053,
+      "fin": 24.16
+    },
+    {
+      "texto": "memoria",
+      "inicio": 24.2,
+      "fin": 24.48
+    },
+    {
+      "texto": "de",
+      "inicio": 24.507,
+      "fin": 24.56
+    },
+    {
+      "texto": "Python,",
+      "inicio": 24.629,
+      "fin": 25.52
+    },
+    {
+      "texto": "listas",
+      "inicio": 25.568,
+      "fin": 25.84
+    },
+    {
+      "texto": "para",
+      "inicio": 25.888,
+      "fin": 26.08
+    },
+    {
+      "texto": "trabajar.",
+      "inicio": 26.133,
+      "fin": 26.64
+    }
+  ]
+}

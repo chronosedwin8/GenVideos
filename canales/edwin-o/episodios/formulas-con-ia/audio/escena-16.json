@@ -1,0 +1,235 @@
+{
+  "num": "16",
+  "titulo": "Entiende la fórmula",
+  "texto": "Y entiéndela, no la copies a ciegas. SI punto CONJUNTO revisa las condiciones en orden. ¿Vendió cinco mil o más? Entonces, cinco por ciento. Si no, ¿vendió mil o más? Entonces, tres por ciento. Y ese VERDADERO del final significa: en cualquier otro caso, cero.",
+  "texto_tts": "Y entiéndela, no la copies a ciegas. SI punto CONJUNTO revisa las condiciones en orden. ¿Vendió cinco mil o más? Entonces, cinco por ciento. Si no, ¿vendió mil o más? Entonces, tres por ciento. Y ese VERDADERO del final significa: en cualquier otro caso, cero.",
+  "modelo": "eleven_v3",
+  "duracion": 22.48,
+  "palabras": [
+    {
+      "texto": "Y",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "entiéndela,",
+      "inicio": 0.12,
+      "fin": 0.88
+    },
+    {
+      "texto": "no",
+      "inicio": 0.933,
+      "fin": 1.04
+    },
+    {
+      "texto": "la",
+      "inicio": 1.067,
+      "fin": 1.12
+    },
+    {
+      "texto": "copies",
+      "inicio": 1.177,
+      "fin": 1.52
+    },
+    {
+      "texto": "a",
+      "inicio": 1.56,
+      "fin": 1.6
+    },
+    {
+      "texto": "ciegas.",
+      "inicio": 1.68,
+      "fin": 2.24
+    },
+    {
+      "texto": "SI",
+      "inicio": 2.533,
+      "fin": 3.12
+    },
+    {
+      "texto": "punto",
+      "inicio": 3.173,
+      "fin": 3.44
+    },
+    {
+      "texto": "CONJUNTO",
+      "inicio": 3.52,
+      "fin": 4.24
+    },
+    {
+      "texto": "revisa",
+      "inicio": 4.387,
+      "fin": 5.24
+    },
+    {
+      "texto": "las",
+      "inicio": 5.27,
+      "fin": 5.36
+    },
+    {
+      "texto": "condiciones",
+      "inicio": 5.447,
+      "fin": 6.4
+    },
+    {
+      "texto": "en",
+      "inicio": 6.507,
+      "fin": 6.72
+    },
+    {
+      "texto": "orden.",
+      "inicio": 6.787,
+      "fin": 7.2
+    },
+    {
+      "texto": "¿Vendió",
+      "inicio": 7.52,
+      "fin": 8.16
+    },
+    {
+      "texto": "cinco",
+      "inicio": 8.213,
+      "fin": 8.48
+    },
+    {
+      "texto": "mil",
+      "inicio": 8.54,
+      "fin": 8.72
+    },
+    {
+      "texto": "o",
+      "inicio": 8.76,
+      "fin": 8.8
+    },
+    {
+      "texto": "más?",
+      "inicio": 8.88,
+      "fin": 9.28
+    },
+    {
+      "texto": "Entonces,",
+      "inicio": 9.4,
+      "fin": 10.16
+    },
+    {
+      "texto": "cinco",
+      "inicio": 10.253,
+      "fin": 10.72
+    },
+    {
+      "texto": "por",
+      "inicio": 10.76,
+      "fin": 10.88
+    },
+    {
+      "texto": "ciento.",
+      "inicio": 10.96,
+      "fin": 11.76
+    },
+    {
+      "texto": "Si",
+      "inicio": 11.867,
+      "fin": 12.08
+    },
+    {
+      "texto": "no,",
+      "inicio": 12.16,
+      "fin": 12.48
+    },
+    {
+      "texto": "¿vendió",
+      "inicio": 12.72,
+      "fin": 13.36
+    },
+    {
+      "texto": "mil",
+      "inicio": 13.48,
+      "fin": 13.84
+    },
+    {
+      "texto": "o",
+      "inicio": 13.92,
+      "fin": 14.0
+    },
+    {
+      "texto": "más?",
+      "inicio": 14.1,
+      "fin": 14.48
+    },
+    {
+      "texto": "Entonces,",
+      "inicio": 14.62,
+      "fin": 15.68
+    },
+    {
+      "texto": "tres",
+      "inicio": 15.712,
+      "fin": 15.84
+    },
+    {
+      "texto": "por",
+      "inicio": 15.9,
+      "fin": 16.08
+    },
+    {
+      "texto": "ciento.",
+      "inicio": 16.16,
+      "fin": 16.64
+    },
+    {
+      "texto": "Y",
+      "inicio": 17.0,
+      "fin": 17.36
+    },
+    {
+      "texto": "ese",
+      "inicio": 17.42,
+      "fin": 17.6
+    },
+    {
+      "texto": "VERDADERO",
+      "inicio": 17.66,
+      "fin": 18.16
+    },
+    {
+      "texto": "del",
+      "inicio": 18.2,
+      "fin": 18.32
+    },
+    {
+      "texto": "final",
+      "inicio": 18.4,
+      "fin": 18.8
+    },
+    {
+      "texto": "significa:",
+      "inicio": 18.896,
+      "fin": 19.84
+    },
+    {
+      "texto": "en",
+      "inicio": 19.973,
+      "fin": 20.24
+    },
+    {
+      "texto": "cualquier",
+      "inicio": 20.288,
+      "fin": 20.72
+    },
+    {
+      "texto": "otro",
+      "inicio": 20.768,
+      "fin": 20.96
+    },
+    {
+      "texto": "caso,",
+      "inicio": 21.04,
+      "fin": 21.44
+    },
+    {
+      "texto": "cero.",
+      "inicio": 21.76,
+      "fin": 22.48
+    }
+  ]
+}

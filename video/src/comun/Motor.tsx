@@ -13,7 +13,7 @@ import {
   TituloContorno,
   type VarianteFondo,
 } from './Basicos';
-import {ChatIA, Cifra, Comparar, Cronologia, Cuadricula, FormulaGrande, ListaCheck, Teclas, TextoRico} from './Bloques';
+import {Barras, ChatIA, Cifra, Comparar, Cronologia, Cuadricula, FormulaGrande, ListaCheck, Teclas, TextoRico} from './Bloques';
 import {CodigoAnimado, Terminal} from './Codigo';
 import {Episodio, type DefEscena} from './Episodio';
 import {HojaExcel} from './HojaExcel';
@@ -21,98 +21,10 @@ import {ShortEscena} from './Short';
 import {crearT, progreso, useSegundos} from './tiempo';
 import type {EscenaProps, Manifest, Tema} from './tipos';
 import type {Bloque, Cue, EspecEpisodio, EspecEscena} from './motor-tipos';
+import {planificar, resolverCue, type BloqueResuelto} from './motor-plan';
 
 export * from './motor-tipos';
-
-/* ───────── Resolución de "cues" (palabra → segundo) ───────── */
-
-const TIEMPOS = new Set(['en', 'hasta', 'desde', 'fondoDesde', 'enter', 'aparece', 'elegidoDesde', 'suscribir']);
-const CUE_RE = /^(.+?)(?:#(\d+))?([+-]\d+(?:\.\d+)?)?$/;
-
-/** Convierte 'palabra', 'palabra#2', 'palabra+0.5', 'palabra#2-0.3' o un número en segundos de la escena. */
-export const resolverCue = (t: EscenaProps['t'], cue: Cue, faltantes?: string[]): number => {
-  if (typeof cue === 'number') return cue;
-  const m = CUE_RE.exec(cue.trim());
-  if (!m) return 0;
-  const base = t(m[1], m[2] ? parseInt(m[2], 10) : 1);
-  if (base === undefined || Number.isNaN(base)) {
-    faltantes?.push(cue);
-    return 0;
-  }
-  return base + (m[3] ? parseFloat(m[3]) : 0);
-};
-
-/** Recorre el objeto y convierte a segundos todas las claves de tiempo. */
-export const resolverProfundo = <T,>(obj: T, r: (c: Cue) => number): T => {
-  if (Array.isArray(obj)) return obj.map((x) => resolverProfundo(x, r)) as unknown as T;
-  if (obj && typeof obj === 'object') {
-    const out: Record<string, unknown> = {};
-    for (const [k, v] of Object.entries(obj as Record<string, unknown>)) {
-      out[k] = TIEMPOS.has(k) && (typeof v === 'string' || typeof v === 'number') ? r(v as Cue) : resolverProfundo(v, r);
-    }
-    return out as T;
-  }
-  return obj;
-};
-
-/** Versión estricta de t(): devuelve undefined si la palabra no está (para validar). */
-const crearTEstricto = (palabras: EscenaProps['palabras']) => {
-  const t = crearT(palabras);
-  const normal = (s: string) => s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[^a-z0-9ñ%$]/g, '');
-  return (p: string, n = 1) => {
-    const o = normal(p);
-    const coinciden = palabras.filter((w) => normal(w.texto).startsWith(o)).length;
-    return coinciden >= n ? t(p, n) : (undefined as unknown as number);
-  };
-};
-
-/** Anticipación: los bloques aparecen un poco antes de que se diga la palabra. */
-const ANTICIPO = 0.25;
-
-type BloqueResuelto = Bloque & {de: number; a: number};
-
-export const planificar = (esp: EspecEscena, palabras: EscenaProps['palabras'], duracion: number, faltantes?: string[]): BloqueResuelto[] => {
-  const t = crearTEstricto(palabras);
-  const r = (c: Cue) => resolverCue(t, c, faltantes);
-  const resueltos = esp.bloques.map((b) => {
-    const de = typeof b.en === 'number' ? b.en : Math.max(0, r(b.en) - ANTICIPO);
-    const res = resolverProfundo({...b, en: 0}, r) as unknown as Bloque;
-    return {...res, en: de, de, a: Infinity} as BloqueResuelto;
-  });
-  // Un bloque normal termina cuando empieza el siguiente bloque normal; las capas duran hasta `hasta` o el final.
-  const normales = resueltos.filter((b) => !b.capa);
-  normales.forEach((b, i) => {
-    b.a = normales[i + 1]?.de ?? duracion + 5;
-  });
-  resueltos.forEach((b) => {
-    if (b.hasta !== undefined) b.a = b.hasta as unknown as number;
-    if (b.capa && b.hasta === undefined) b.a = duracion + 5;
-  });
-  return resueltos;
-};
-
-/** Lista las palabras clave (cues) que no existen en el audio de cada escena. */
-export const validarEpisodio = (esp: EspecEpisodio): string[] => {
-  const errores: string[] = [];
-  for (const e of esp.manifest.escenas) {
-    const def = esp.escenas[e.num];
-    if (!def) {
-      errores.push(`${e.num}: sin escena visual`);
-      continue;
-    }
-    const faltan: string[] = [];
-    const plan = planificar(def, e.palabras, e.duracion, faltan);
-    faltan.forEach((f) => errores.push(`${e.num}: no se dice "${f}"`));
-    const normales = plan.filter((b) => !b.capa);
-    normales.forEach((b, i) => {
-      if (i > 0 && b.de < normales[i - 1].de) errores.push(`${e.num}: bloque ${i + 1} (${b.tipo}) empieza antes que el anterior`);
-    });
-  }
-  Object.keys(esp.escenas).forEach((n) => {
-    if (!esp.manifest.escenas.some((e) => e.num === n)) errores.push(`${n}: escena visual sin audio`);
-  });
-  return errores;
-};
+export * from './motor-plan';
 
 /* ───────── Colores por nombre ───────── */
 
@@ -158,7 +70,7 @@ const RenderBloque: React.FC<{tema: Tema; b: BloqueResuelto}> = ({tema, b}) => {
     case 'tarjeta':
       return (
         <Centro>
-          <Tarjeta tema={tema} desde={d} icono={b.icono} titulo={b.titulo} texto={b.texto} fuente={b.fuente} color={color(tema, b.color)} ancho={b.ancho} />
+          <Tarjeta tema={tema} desde={d} icono={b.icono} titulo={b.titulo} texto={<TextoRico tema={tema} texto={b.texto} />} fuente={b.fuente} color={color(tema, b.color)} ancho={b.ancho} />
         </Centro>
       );
     case 'tarjetas':
@@ -167,7 +79,7 @@ const RenderBloque: React.FC<{tema: Tema; b: BloqueResuelto}> = ({tema, b}) => {
           {b.titulo ? <TituloContorno tema={tema} desde={d} tamano={96} rotacion={0} lineas={[{texto: b.titulo, color: 'white'}]} /> : null}
           <div style={{display: 'flex', gap: 40, alignItems: 'stretch'}}>
             {b.items.map((it, i) => (
-              <Tarjeta key={i} tema={tema} desde={(it.desde as number | undefined) ?? d + i * 0.3} icono={it.icono} titulo={it.titulo} texto={it.texto} fuente={it.fuente} color={color(tema, it.color)} ancho={b.items.length >= 3 ? 540 : 800} />
+              <Tarjeta key={i} tema={tema} desde={(it.desde as number | undefined) ?? d + i * 0.3} icono={it.icono} titulo={it.titulo} texto={<TextoRico tema={tema} texto={it.texto} />} fuente={it.fuente} color={color(tema, it.color)} ancho={b.items.length >= 3 ? 540 : 800} />
             ))}
           </div>
         </Centro>
@@ -187,14 +99,14 @@ const RenderBloque: React.FC<{tema: Tema; b: BloqueResuelto}> = ({tema, b}) => {
         <>
           <CodigoAnimado
             tema={tema}
-            codigo={b.codigo}
-            desde={d + 0.2}
+            codigo={(b.previo ?? '') + b.codigo}
+            desde={d + 0.2 - (b.previo ?? '').length / (b.velocidad ?? 40)}
             velocidad={b.velocidad ?? 40}
             archivo={b.archivo}
             tamano={b.tamano ?? (b.salida ? 30 : 36)}
             ancho={b.salida ? 1080 : b.ancho ?? 1500}
             x={b.salida ? 50 : undefined}
-            y={b.salida ? 70 : undefined}
+            y={b.salida ? 150 : undefined}
             resaltar={(b.resaltar ?? []) as {lineas: number[]; desde: number; hasta?: number}[]}
           />
           {b.salida ? <Terminal tema={tema} lineas={b.salida as {texto: string; desde: number; color?: string}[]} ancho={700} x={1170} y={b.salidaY ?? 470} titulo={b.tituloSalida ?? 'Terminal'} /> : null}
@@ -210,6 +122,8 @@ const RenderBloque: React.FC<{tema: Tema; b: BloqueResuelto}> = ({tema, b}) => {
       return <FormulaGrande tema={tema} formula={b.formula} partes={b.partes as never} titulo={b.titulo} desde={d} escribir={b.escribir ?? true} />;
     case 'cronologia':
       return <Cronologia tema={tema} titulo={b.titulo} desde={d} items={b.items.map((it) => ({...it, color: color(tema, it.color)})) as never} />;
+    case 'barras':
+      return <Barras tema={tema} titulo={b.titulo} items={b.items} desde={d} ancho={b.ancho} alto={b.alto} x={b.x} y={b.y} />;
     case 'teclas':
       return <Teclas tema={tema} teclas={b.teclas} texto={b.texto} desde={d} />;
     case 'cortinilla':
