@@ -1,0 +1,230 @@
+{
+  "num": "15",
+  "titulo": "El marcador final",
+  "texto": "El marcador final: Claude, dos puntos. ChatGPT, uno. Y tres empates. Claude ganó por precisión: revisó más problemas y su código funcionó a la primera. ChatGPT ganó en rapidez y presentación. Y en lo más importante, las fórmulas y los totales, las dos acertaron.",
+  "texto_tts": "[excited] El marcador final: Claude, dos puntos. ChatGPT, uno. Y tres empates. Claude ganó por precisión: revisó más problemas y su código funcionó a la primera. ChatGPT ganó en rapidez y presentación. Y en lo más importante, las fórmulas y los totales, las dos acertaron.",
+  "modelo": "eleven_v3",
+  "duracion": 22.32,
+  "palabras": [
+    {
+      "texto": "El",
+      "inicio": 0.139,
+      "fin": 0.16
+    },
+    {
+      "texto": "marcador",
+      "inicio": 0.208,
+      "fin": 0.64
+    },
+    {
+      "texto": "final:",
+      "inicio": 0.707,
+      "fin": 1.28
+    },
+    {
+      "texto": "Claude,",
+      "inicio": 1.383,
+      "fin": 2.08
+    },
+    {
+      "texto": "dos",
+      "inicio": 2.16,
+      "fin": 2.4
+    },
+    {
+      "texto": "puntos.",
+      "inicio": 2.491,
+      "fin": 3.12
+    },
+    {
+      "texto": "ChatGPT,",
+      "inicio": 3.2,
+      "fin": 4.24
+    },
+    {
+      "texto": "uno.",
+      "inicio": 4.32,
+      "fin": 4.72
+    },
+    {
+      "texto": "Y",
+      "inicio": 4.96,
+      "fin": 5.2
+    },
+    {
+      "texto": "tres",
+      "inicio": 5.248,
+      "fin": 5.44
+    },
+    {
+      "texto": "empates.",
+      "inicio": 5.5,
+      "fin": 6.24
+    },
+    {
+      "texto": "Claude",
+      "inicio": 6.389,
+      "fin": 7.28
+    },
+    {
+      "texto": "ganó",
+      "inicio": 7.34,
+      "fin": 7.6
+    },
+    {
+      "texto": "por",
+      "inicio": 7.68,
+      "fin": 7.92
+    },
+    {
+      "texto": "precisión:",
+      "inicio": 8.0,
+      "fin": 8.8
+    },
+    {
+      "texto": "revisó",
+      "inicio": 8.893,
+      "fin": 9.44
+    },
+    {
+      "texto": "más",
+      "inicio": 9.52,
+      "fin": 9.76
+    },
+    {
+      "texto": "problemas",
+      "inicio": 9.816,
+      "fin": 10.32
+    },
+    {
+      "texto": "y",
+      "inicio": 10.44,
+      "fin": 10.56
+    },
+    {
+      "texto": "su",
+      "inicio": 10.613,
+      "fin": 10.72
+    },
+    {
+      "texto": "código",
+      "inicio": 10.789,
+      "fin": 11.2
+    },
+    {
+      "texto": "funcionó",
+      "inicio": 11.25,
+      "fin": 11.68
+    },
+    {
+      "texto": "a",
+      "inicio": 11.72,
+      "fin": 11.76
+    },
+    {
+      "texto": "la",
+      "inicio": 11.787,
+      "fin": 11.84
+    },
+    {
+      "texto": "primera.",
+      "inicio": 11.9,
+      "fin": 12.64
+    },
+    {
+      "texto": "ChatGPT",
+      "inicio": 12.784,
+      "fin": 13.76
+    },
+    {
+      "texto": "ganó",
+      "inicio": 13.82,
+      "fin": 14.08
+    },
+    {
+      "texto": "en",
+      "inicio": 14.16,
+      "fin": 14.32
+    },
+    {
+      "texto": "rapidez",
+      "inicio": 14.4,
+      "fin": 15.04
+    },
+    {
+      "texto": "y",
+      "inicio": 15.16,
+      "fin": 15.28
+    },
+    {
+      "texto": "presentación.",
+      "inicio": 15.34,
+      "fin": 16.56
+    },
+    {
+      "texto": "Y",
+      "inicio": 16.84,
+      "fin": 17.12
+    },
+    {
+      "texto": "en",
+      "inicio": 17.147,
+      "fin": 17.2
+    },
+    {
+      "texto": "lo",
+      "inicio": 17.227,
+      "fin": 17.28
+    },
+    {
+      "texto": "más",
+      "inicio": 17.34,
+      "fin": 17.52
+    },
+    {
+      "texto": "importante,",
+      "inicio": 17.585,
+      "fin": 18.32
+    },
+    {
+      "texto": "las",
+      "inicio": 18.48,
+      "fin": 18.96
+    },
+    {
+      "texto": "fórmulas",
+      "inicio": 19.0,
+      "fin": 19.6
+    },
+    {
+      "texto": "y",
+      "inicio": 19.64,
+      "fin": 19.68
+    },
+    {
+      "texto": "los",
+      "inicio": 19.72,
+      "fin": 19.84
+    },
+    {
+      "texto": "totales,",
+      "inicio": 19.92,
+      "fin": 20.8
+    },
+    {
+      "texto": "las",
+      "inicio": 20.86,
+      "fin": 21.04
+    },
+    {
+      "texto": "dos",
+      "inicio": 21.12,
+      "fin": 21.36
+    },
+    {
+      "texto": "acertaron.",
+      "inicio": 21.44,
+      "fin": 22.32
+    }
+  ]
+}

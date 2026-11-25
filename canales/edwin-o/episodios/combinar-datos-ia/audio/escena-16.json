@@ -1,0 +1,255 @@
+{
+  "num": "16",
+  "titulo": "Varita 3: Power Query",
+  "texto": "Tercera varita, para cuando esto se repite cada mes: Power Query. Con Anexar consultas apilas los meses, y con Combinar consultas traes el nombre y la ciudad desde Clientes. Es lo mismo que hizo la fórmula, pero con una receta que actualizas con un clic, aunque lleguen doce archivos.",
+  "texto_tts": "Tercera varita, para cuando esto se repite cada mes: Power Query. Con Anexar consultas apilas los meses, y con Combinar consultas traes el nombre y la ciudad desde Clientes. Es lo mismo que hizo la fórmula, pero con una receta que actualizas con un clic, aunque lleguen doce archivos.",
+  "modelo": "eleven_v3",
+  "duracion": 17.92,
+  "palabras": [
+    {
+      "texto": "Tercera",
+      "inicio": 0.0,
+      "fin": 0.32
+    },
+    {
+      "texto": "varita,",
+      "inicio": 0.38,
+      "fin": 1.04
+    },
+    {
+      "texto": "para",
+      "inicio": 1.072,
+      "fin": 1.2
+    },
+    {
+      "texto": "cuando",
+      "inicio": 1.234,
+      "fin": 1.44
+    },
+    {
+      "texto": "esto",
+      "inicio": 1.472,
+      "fin": 1.6
+    },
+    {
+      "texto": "se",
+      "inicio": 1.653,
+      "fin": 1.76
+    },
+    {
+      "texto": "repite",
+      "inicio": 1.8,
+      "fin": 2.16
+    },
+    {
+      "texto": "cada",
+      "inicio": 2.208,
+      "fin": 2.4
+    },
+    {
+      "texto": "mes:",
+      "inicio": 2.5,
+      "fin": 3.36
+    },
+    {
+      "texto": "Power",
+      "inicio": 3.413,
+      "fin": 3.68
+    },
+    {
+      "texto": "Query.",
+      "inicio": 3.747,
+      "fin": 4.16
+    },
+    {
+      "texto": "Con",
+      "inicio": 4.3,
+      "fin": 4.72
+    },
+    {
+      "texto": "Anexar",
+      "inicio": 4.773,
+      "fin": 5.12
+    },
+    {
+      "texto": "consultas",
+      "inicio": 5.19,
+      "fin": 5.92
+    },
+    {
+      "texto": "apilas",
+      "inicio": 6.027,
+      "fin": 6.48
+    },
+    {
+      "texto": "los",
+      "inicio": 6.52,
+      "fin": 6.64
+    },
+    {
+      "texto": "meses,",
+      "inicio": 6.72,
+      "fin": 7.2
+    },
+    {
+      "texto": "y",
+      "inicio": 7.44,
+      "fin": 7.68
+    },
+    {
+      "texto": "con",
+      "inicio": 7.72,
+      "fin": 7.84
+    },
+    {
+      "texto": "Combinar",
+      "inicio": 7.9,
+      "fin": 8.32
+    },
+    {
+      "texto": "consultas",
+      "inicio": 8.38,
+      "fin": 9.04
+    },
+    {
+      "texto": "traes",
+      "inicio": 9.1,
+      "fin": 9.44
+    },
+    {
+      "texto": "el",
+      "inicio": 9.467,
+      "fin": 9.52
+    },
+    {
+      "texto": "nombre",
+      "inicio": 9.577,
+      "fin": 9.92
+    },
+    {
+      "texto": "y",
+      "inicio": 9.96,
+      "fin": 10.0
+    },
+    {
+      "texto": "la",
+      "inicio": 10.027,
+      "fin": 10.08
+    },
+    {
+      "texto": "ciudad",
+      "inicio": 10.114,
+      "fin": 10.32
+    },
+    {
+      "texto": "desde",
+      "inicio": 10.36,
+      "fin": 10.56
+    },
+    {
+      "texto": "Clientes.",
+      "inicio": 10.629,
+      "fin": 11.36
+    },
+    {
+      "texto": "Es",
+      "inicio": 11.6,
+      "fin": 12.08
+    },
+    {
+      "texto": "lo",
+      "inicio": 12.133,
+      "fin": 12.24
+    },
+    {
+      "texto": "mismo",
+      "inicio": 12.28,
+      "fin": 12.48
+    },
+    {
+      "texto": "que",
+      "inicio": 12.5,
+      "fin": 12.56
+    },
+    {
+      "texto": "hizo",
+      "inicio": 12.592,
+      "fin": 12.72
+    },
+    {
+      "texto": "la",
+      "inicio": 12.773,
+      "fin": 12.88
+    },
+    {
+      "texto": "fórmula,",
+      "inicio": 12.92,
+      "fin": 13.76
+    },
+    {
+      "texto": "pero",
+      "inicio": 13.792,
+      "fin": 13.92
+    },
+    {
+      "texto": "con",
+      "inicio": 13.96,
+      "fin": 14.08
+    },
+    {
+      "texto": "una",
+      "inicio": 14.12,
+      "fin": 14.24
+    },
+    {
+      "texto": "receta",
+      "inicio": 14.3,
+      "fin": 14.64
+    },
+    {
+      "texto": "que",
+      "inicio": 14.66,
+      "fin": 14.72
+    },
+    {
+      "texto": "actualizas",
+      "inicio": 14.754,
+      "fin": 15.2
+    },
+    {
+      "texto": "con",
+      "inicio": 15.24,
+      "fin": 15.36
+    },
+    {
+      "texto": "un",
+      "inicio": 15.387,
+      "fin": 15.44
+    },
+    {
+      "texto": "clic,",
+      "inicio": 15.52,
+      "fin": 16.24
+    },
+    {
+      "texto": "aunque",
+      "inicio": 16.286,
+      "fin": 16.56
+    },
+    {
+      "texto": "lleguen",
+      "inicio": 16.592,
+      "fin": 16.88
+    },
+    {
+      "texto": "doce",
+      "inicio": 16.96,
+      "fin": 17.121
+    },
+    {
+      "texto": "archivos.",
+      "inicio": 17.191,
+      "fin": 17.92
+    }
+  ]
+}

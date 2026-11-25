@@ -1,0 +1,230 @@
+{
+  "num": "01",
+  "titulo": "Gancho",
+  "texto": "Una tabla con los meses en columnas, regiones vacías y nombres pegados. En diez movimientos de Power Query la conviertes en un reporte de cumplimiento de metas por región, que se actualiza con un clic. Diez movimientos que vas a usar toda tu vida.",
+  "texto_tts": "[excited] Una tabla con los meses en columnas, regiones vacías y nombres pegados. En diez movimientos de Power Query la conviertes en un reporte de cumplimiento de metas por región, que se actualiza con un clic. Diez movimientos que vas a usar toda tu vida.",
+  "modelo": "eleven_v3",
+  "duracion": 17.6,
+  "palabras": [
+    {
+      "texto": "Una",
+      "inicio": 0.204,
+      "fin": 0.24
+    },
+    {
+      "texto": "tabla",
+      "inicio": 0.32,
+      "fin": 0.72
+    },
+    {
+      "texto": "con",
+      "inicio": 0.78,
+      "fin": 0.96
+    },
+    {
+      "texto": "los",
+      "inicio": 1.02,
+      "fin": 1.2
+    },
+    {
+      "texto": "meses",
+      "inicio": 1.267,
+      "fin": 1.6
+    },
+    {
+      "texto": "en",
+      "inicio": 1.653,
+      "fin": 1.76
+    },
+    {
+      "texto": "columnas,",
+      "inicio": 1.829,
+      "fin": 2.8
+    },
+    {
+      "texto": "regiones",
+      "inicio": 2.869,
+      "fin": 3.44
+    },
+    {
+      "texto": "vacías",
+      "inicio": 3.48,
+      "fin": 4.0
+    },
+    {
+      "texto": "y",
+      "inicio": 4.12,
+      "fin": 4.24
+    },
+    {
+      "texto": "nombres",
+      "inicio": 4.29,
+      "fin": 4.64
+    },
+    {
+      "texto": "pegados.",
+      "inicio": 4.7,
+      "fin": 5.36
+    },
+    {
+      "texto": "En",
+      "inicio": 5.573,
+      "fin": 6.0
+    },
+    {
+      "texto": "diez",
+      "inicio": 6.06,
+      "fin": 6.32
+    },
+    {
+      "texto": "movimientos",
+      "inicio": 6.36,
+      "fin": 6.96
+    },
+    {
+      "texto": "de",
+      "inicio": 6.987,
+      "fin": 7.04
+    },
+    {
+      "texto": "Power",
+      "inicio": 7.107,
+      "fin": 7.44
+    },
+    {
+      "texto": "Query",
+      "inicio": 7.52,
+      "fin": 7.92
+    },
+    {
+      "texto": "la",
+      "inicio": 8.053,
+      "fin": 8.32
+    },
+    {
+      "texto": "conviertes",
+      "inicio": 8.368,
+      "fin": 8.88
+    },
+    {
+      "texto": "en",
+      "inicio": 8.907,
+      "fin": 8.96
+    },
+    {
+      "texto": "un",
+      "inicio": 9.013,
+      "fin": 9.12
+    },
+    {
+      "texto": "reporte",
+      "inicio": 9.189,
+      "fin": 9.64
+    },
+    {
+      "texto": "de",
+      "inicio": 9.653,
+      "fin": 9.68
+    },
+    {
+      "texto": "cumplimiento",
+      "inicio": 9.747,
+      "fin": 10.48
+    },
+    {
+      "texto": "de",
+      "inicio": 10.533,
+      "fin": 10.64
+    },
+    {
+      "texto": "metas",
+      "inicio": 10.7,
+      "fin": 10.96
+    },
+    {
+      "texto": "por",
+      "inicio": 11.0,
+      "fin": 11.12
+    },
+    {
+      "texto": "región,",
+      "inicio": 11.18,
+      "fin": 12.0
+    },
+    {
+      "texto": "que",
+      "inicio": 12.02,
+      "fin": 12.08
+    },
+    {
+      "texto": "se",
+      "inicio": 12.133,
+      "fin": 12.24
+    },
+    {
+      "texto": "actualiza",
+      "inicio": 12.286,
+      "fin": 12.8
+    },
+    {
+      "texto": "con",
+      "inicio": 12.84,
+      "fin": 12.96
+    },
+    {
+      "texto": "un",
+      "inicio": 13.013,
+      "fin": 13.12
+    },
+    {
+      "texto": "clic.",
+      "inicio": 13.216,
+      "fin": 13.68
+    },
+    {
+      "texto": "Diez",
+      "inicio": 13.9,
+      "fin": 14.68
+    },
+    {
+      "texto": "movimientos",
+      "inicio": 14.71,
+      "fin": 15.36
+    },
+    {
+      "texto": "que",
+      "inicio": 15.46,
+      "fin": 15.76
+    },
+    {
+      "texto": "vas",
+      "inicio": 15.82,
+      "fin": 16.0
+    },
+    {
+      "texto": "a",
+      "inicio": 16.04,
+      "fin": 16.08
+    },
+    {
+      "texto": "usar",
+      "inicio": 16.144,
+      "fin": 16.4
+    },
+    {
+      "texto": "toda",
+      "inicio": 16.528,
+      "fin": 17.04
+    },
+    {
+      "texto": "tu",
+      "inicio": 17.093,
+      "fin": 17.2
+    },
+    {
+      "texto": "vida.",
+      "inicio": 17.28,
+      "fin": 17.6
+    }
+  ]
+}

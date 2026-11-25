@@ -1,0 +1,275 @@
+{
+  "num": "06",
+  "titulo": "La función mágica",
+  "texto": "La función es DISTR punto BINOM punto N, y tiene cuatro argumentos. El número de éxitos que te interesa. El número de intentos. La probabilidad de éxito de cada intento. Y el último, el más importante: FALSO, si quieres la probabilidad de exactamente ese número, y VERDADERO, si quieres \"como máximo\" ese número.",
+  "texto_tts": "La función es DISTR punto BINOM punto N, y tiene cuatro argumentos. El número de éxitos que te interesa. El número de intentos. La probabilidad de éxito de cada intento. Y el último, el más importante: FALSO, si quieres la probabilidad de exactamente ese número, y VERDADERO, si quieres \"como máximo\" ese número.",
+  "modelo": "eleven_v3",
+  "duracion": 28.64,
+  "palabras": [
+    {
+      "texto": "La",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "función",
+      "inicio": 0.16,
+      "fin": 0.72
+    },
+    {
+      "texto": "es",
+      "inicio": 0.88,
+      "fin": 1.2
+    },
+    {
+      "texto": "DISTR",
+      "inicio": 1.44,
+      "fin": 3.12
+    },
+    {
+      "texto": "punto",
+      "inicio": 3.227,
+      "fin": 3.76
+    },
+    {
+      "texto": "BINOM",
+      "inicio": 3.88,
+      "fin": 4.48
+    },
+    {
+      "texto": "punto",
+      "inicio": 4.587,
+      "fin": 5.12
+    },
+    {
+      "texto": "N,",
+      "inicio": 5.4,
+      "fin": 5.76
+    },
+    {
+      "texto": "y",
+      "inicio": 6.2,
+      "fin": 6.64
+    },
+    {
+      "texto": "tiene",
+      "inicio": 6.707,
+      "fin": 7.04
+    },
+    {
+      "texto": "cuatro",
+      "inicio": 7.12,
+      "fin": 7.6
+    },
+    {
+      "texto": "argumentos.",
+      "inicio": 7.68,
+      "fin": 8.72
+    },
+    {
+      "texto": "El",
+      "inicio": 8.933,
+      "fin": 9.36
+    },
+    {
+      "texto": "número",
+      "inicio": 9.417,
+      "fin": 9.76
+    },
+    {
+      "texto": "de",
+      "inicio": 9.787,
+      "fin": 9.84
+    },
+    {
+      "texto": "éxitos",
+      "inicio": 9.92,
+      "fin": 10.4
+    },
+    {
+      "texto": "que",
+      "inicio": 10.44,
+      "fin": 10.56
+    },
+    {
+      "texto": "te",
+      "inicio": 10.587,
+      "fin": 10.64
+    },
+    {
+      "texto": "interesa.",
+      "inicio": 10.693,
+      "fin": 11.92
+    },
+    {
+      "texto": "El",
+      "inicio": 12.107,
+      "fin": 12.48
+    },
+    {
+      "texto": "número",
+      "inicio": 12.537,
+      "fin": 12.88
+    },
+    {
+      "texto": "de",
+      "inicio": 12.907,
+      "fin": 12.96
+    },
+    {
+      "texto": "intentos.",
+      "inicio": 13.04,
+      "fin": 13.92
+    },
+    {
+      "texto": "La",
+      "inicio": 14.293,
+      "fin": 15.04
+    },
+    {
+      "texto": "probabilidad",
+      "inicio": 15.12,
+      "fin": 15.84
+    },
+    {
+      "texto": "de",
+      "inicio": 15.893,
+      "fin": 16.0
+    },
+    {
+      "texto": "éxito",
+      "inicio": 16.093,
+      "fin": 16.56
+    },
+    {
+      "texto": "de",
+      "inicio": 16.587,
+      "fin": 16.64
+    },
+    {
+      "texto": "cada",
+      "inicio": 16.704,
+      "fin": 16.96
+    },
+    {
+      "texto": "intento.",
+      "inicio": 17.029,
+      "fin": 17.68
+    },
+    {
+      "texto": "Y",
+      "inicio": 17.96,
+      "fin": 18.24
+    },
+    {
+      "texto": "el",
+      "inicio": 18.293,
+      "fin": 18.4
+    },
+    {
+      "texto": "último,",
+      "inicio": 18.446,
+      "fin": 18.8
+    },
+    {
+      "texto": "el",
+      "inicio": 18.827,
+      "fin": 18.88
+    },
+    {
+      "texto": "más",
+      "inicio": 18.92,
+      "fin": 19.04
+    },
+    {
+      "texto": "importante:",
+      "inicio": 19.113,
+      "fin": 19.92
+    },
+    {
+      "texto": "FALSO,",
+      "inicio": 20.12,
+      "fin": 21.28
+    },
+    {
+      "texto": "si",
+      "inicio": 21.333,
+      "fin": 21.44
+    },
+    {
+      "texto": "quieres",
+      "inicio": 21.48,
+      "fin": 21.76
+    },
+    {
+      "texto": "la",
+      "inicio": 21.813,
+      "fin": 21.92
+    },
+    {
+      "texto": "probabilidad",
+      "inicio": 21.968,
+      "fin": 22.64
+    },
+    {
+      "texto": "de",
+      "inicio": 22.667,
+      "fin": 22.72
+    },
+    {
+      "texto": "exactamente",
+      "inicio": 22.827,
+      "fin": 23.76
+    },
+    {
+      "texto": "ese",
+      "inicio": 23.8,
+      "fin": 23.92
+    },
+    {
+      "texto": "número,",
+      "inicio": 23.977,
+      "fin": 25.04
+    },
+    {
+      "texto": "y",
+      "inicio": 25.08,
+      "fin": 25.12
+    },
+    {
+      "texto": "VERDADERO,",
+      "inicio": 25.2,
+      "fin": 26.16
+    },
+    {
+      "texto": "si",
+      "inicio": 26.213,
+      "fin": 26.32
+    },
+    {
+      "texto": "quieres",
+      "inicio": 26.4,
+      "fin": 26.96
+    },
+    {
+      "texto": "\"como",
+      "inicio": 27.0,
+      "fin": 27.2
+    },
+    {
+      "texto": "máximo\"",
+      "inicio": 27.291,
+      "fin": 28.0
+    },
+    {
+      "texto": "ese",
+      "inicio": 28.06,
+      "fin": 28.24
+    },
+    {
+      "texto": "número.",
+      "inicio": 28.297,
+      "fin": 28.64
+    }
+  ]
+}

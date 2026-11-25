@@ -1,0 +1,250 @@
+{
+  "num": "10",
+  "titulo": "Movimiento 4: nombres y tipos",
+  "texto": "Movimiento cuatro: ponles nombre y tipo. Haz doble clic en Atributo y llámala Mes. Valor se llama Monto. Y en el ícono del encabezado, elige Número entero. Un consejo de profesional: haz esto siempre, porque si el monto queda como texto, más adelante no vas a poder sumar.",
+  "texto_tts": "Movimiento cuatro: ponles nombre y tipo. Haz doble clic en Atributo y llámala Mes. Valor se llama Monto. Y en el ícono del encabezado, elige Número entero. Un consejo de profesional: haz esto siempre, porque si el monto queda como texto, más adelante no vas a poder sumar.",
+  "modelo": "eleven_v3",
+  "duracion": 26.08,
+  "palabras": [
+    {
+      "texto": "Movimiento",
+      "inicio": 0.0,
+      "fin": 0.56
+    },
+    {
+      "texto": "cuatro:",
+      "inicio": 0.617,
+      "fin": 1.36
+    },
+    {
+      "texto": "ponles",
+      "inicio": 1.4,
+      "fin": 1.76
+    },
+    {
+      "texto": "nombre",
+      "inicio": 1.829,
+      "fin": 2.24
+    },
+    {
+      "texto": "y",
+      "inicio": 2.36,
+      "fin": 2.48
+    },
+    {
+      "texto": "tipo.",
+      "inicio": 2.576,
+      "fin": 3.04
+    },
+    {
+      "texto": "Haz",
+      "inicio": 3.32,
+      "fin": 4.16
+    },
+    {
+      "texto": "doble",
+      "inicio": 4.213,
+      "fin": 4.48
+    },
+    {
+      "texto": "clic",
+      "inicio": 4.544,
+      "fin": 4.8
+    },
+    {
+      "texto": "en",
+      "inicio": 4.853,
+      "fin": 4.96
+    },
+    {
+      "texto": "Atributo",
+      "inicio": 5.0,
+      "fin": 5.68
+    },
+    {
+      "texto": "y",
+      "inicio": 5.8,
+      "fin": 5.92
+    },
+    {
+      "texto": "llámala",
+      "inicio": 5.973,
+      "fin": 6.48
+    },
+    {
+      "texto": "Mes.",
+      "inicio": 6.66,
+      "fin": 7.52
+    },
+    {
+      "texto": "Valor",
+      "inicio": 7.773,
+      "fin": 9.04
+    },
+    {
+      "texto": "se",
+      "inicio": 9.2,
+      "fin": 9.52
+    },
+    {
+      "texto": "llama",
+      "inicio": 9.587,
+      "fin": 9.92
+    },
+    {
+      "texto": "Monto.",
+      "inicio": 10.096,
+      "fin": 11.2
+    },
+    {
+      "texto": "Y",
+      "inicio": 11.76,
+      "fin": 12.32
+    },
+    {
+      "texto": "en",
+      "inicio": 12.347,
+      "fin": 12.4
+    },
+    {
+      "texto": "el",
+      "inicio": 12.453,
+      "fin": 12.56
+    },
+    {
+      "texto": "ícono",
+      "inicio": 12.64,
+      "fin": 12.96
+    },
+    {
+      "texto": "del",
+      "inicio": 13.0,
+      "fin": 13.12
+    },
+    {
+      "texto": "encabezado,",
+      "inicio": 13.18,
+      "fin": 14.4
+    },
+    {
+      "texto": "elige",
+      "inicio": 14.453,
+      "fin": 14.96
+    },
+    {
+      "texto": "Número",
+      "inicio": 15.16,
+      "fin": 15.6
+    },
+    {
+      "texto": "entero.",
+      "inicio": 15.66,
+      "fin": 16.24
+    },
+    {
+      "texto": "Un",
+      "inicio": 16.747,
+      "fin": 17.76
+    },
+    {
+      "texto": "consejo",
+      "inicio": 17.827,
+      "fin": 18.32
+    },
+    {
+      "texto": "de",
+      "inicio": 18.347,
+      "fin": 18.4
+    },
+    {
+      "texto": "profesional:",
+      "inicio": 18.46,
+      "fin": 19.44
+    },
+    {
+      "texto": "haz",
+      "inicio": 19.54,
+      "fin": 19.84
+    },
+    {
+      "texto": "esto",
+      "inicio": 19.904,
+      "fin": 20.16
+    },
+    {
+      "texto": "siempre,",
+      "inicio": 20.23,
+      "fin": 21.28
+    },
+    {
+      "texto": "porque",
+      "inicio": 21.314,
+      "fin": 21.52
+    },
+    {
+      "texto": "si",
+      "inicio": 21.573,
+      "fin": 21.68
+    },
+    {
+      "texto": "el",
+      "inicio": 21.707,
+      "fin": 21.76
+    },
+    {
+      "texto": "monto",
+      "inicio": 21.84,
+      "fin": 22.24
+    },
+    {
+      "texto": "queda",
+      "inicio": 22.28,
+      "fin": 22.48
+    },
+    {
+      "texto": "como",
+      "inicio": 22.544,
+      "fin": 22.8
+    },
+    {
+      "texto": "texto,",
+      "inicio": 22.88,
+      "fin": 23.6
+    },
+    {
+      "texto": "más",
+      "inicio": 23.66,
+      "fin": 23.84
+    },
+    {
+      "texto": "adelante",
+      "inicio": 23.888,
+      "fin": 24.48
+    },
+    {
+      "texto": "no",
+      "inicio": 24.587,
+      "fin": 24.8
+    },
+    {
+      "texto": "vas",
+      "inicio": 24.86,
+      "fin": 25.04
+    },
+    {
+      "texto": "a",
+      "inicio": 25.08,
+      "fin": 25.12
+    },
+    {
+      "texto": "poder",
+      "inicio": 25.173,
+      "fin": 25.44
+    },
+    {
+      "texto": "sumar.",
+      "inicio": 25.5,
+      "fin": 26.08
+    }
+  ]
+}

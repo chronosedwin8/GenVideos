@@ -1,0 +1,255 @@
+{
+  "num": "12",
+  "titulo": "Movimiento 6: columna personalizada",
+  "texto": "Movimiento seis: tus propias columnas. En Agregar columna, elige Columna personalizada. Nómbrala Comisión, y escribe la fórmula: corchete Monto, por cero punto cero cinco. Ojo: aquí el decimal va con punto. Y ya tienes la comisión del cinco por ciento: sesenta, sesenta y siete con cincuenta, setenta y cinco…",
+  "texto_tts": "Movimiento seis: tus propias columnas. En Agregar columna, elige Columna personalizada. Nómbrala Comisión, y escribe la fórmula: corchete Monto, por cero punto cero cinco. Ojo: aquí el decimal va con punto. Y ya tienes la comisión del cinco por ciento: sesenta, sesenta y siete con cincuenta, setenta y cinco…",
+  "modelo": "eleven_v3",
+  "duracion": 26.8,
+  "palabras": [
+    {
+      "texto": "Movimiento",
+      "inicio": 0.0,
+      "fin": 0.64
+    },
+    {
+      "texto": "seis:",
+      "inicio": 0.736,
+      "fin": 1.2
+    },
+    {
+      "texto": "tus",
+      "inicio": 1.34,
+      "fin": 1.76
+    },
+    {
+      "texto": "propias",
+      "inicio": 1.824,
+      "fin": 2.24
+    },
+    {
+      "texto": "columnas.",
+      "inicio": 2.297,
+      "fin": 2.96
+    },
+    {
+      "texto": "En",
+      "inicio": 3.2,
+      "fin": 3.68
+    },
+    {
+      "texto": "Agregar",
+      "inicio": 3.733,
+      "fin": 4.08
+    },
+    {
+      "texto": "columna,",
+      "inicio": 4.16,
+      "fin": 4.88
+    },
+    {
+      "texto": "elige",
+      "inicio": 4.96,
+      "fin": 5.28
+    },
+    {
+      "texto": "Columna",
+      "inicio": 5.337,
+      "fin": 5.76
+    },
+    {
+      "texto": "personalizada.",
+      "inicio": 5.813,
+      "fin": 6.88
+    },
+    {
+      "texto": "Nómbrala",
+      "inicio": 7.08,
+      "fin": 7.68
+    },
+    {
+      "texto": "Comisión,",
+      "inicio": 7.8,
+      "fin": 9.2
+    },
+    {
+      "texto": "y",
+      "inicio": 9.24,
+      "fin": 9.28
+    },
+    {
+      "texto": "escribe",
+      "inicio": 9.333,
+      "fin": 9.68
+    },
+    {
+      "texto": "la",
+      "inicio": 9.733,
+      "fin": 9.84
+    },
+    {
+      "texto": "fórmula:",
+      "inicio": 9.88,
+      "fin": 10.48
+    },
+    {
+      "texto": "corchete",
+      "inicio": 10.62,
+      "fin": 11.44
+    },
+    {
+      "texto": "Monto,",
+      "inicio": 11.6,
+      "fin": 12.4
+    },
+    {
+      "texto": "por",
+      "inicio": 12.58,
+      "fin": 13.12
+    },
+    {
+      "texto": "cero",
+      "inicio": 13.36,
+      "fin": 13.68
+    },
+    {
+      "texto": "punto",
+      "inicio": 13.773,
+      "fin": 14.24
+    },
+    {
+      "texto": "cero",
+      "inicio": 14.44,
+      "fin": 14.8
+    },
+    {
+      "texto": "cinco.",
+      "inicio": 14.907,
+      "fin": 15.88
+    },
+    {
+      "texto": "Ojo:",
+      "inicio": 16.1,
+      "fin": 16.56
+    },
+    {
+      "texto": "aquí",
+      "inicio": 16.688,
+      "fin": 17.2
+    },
+    {
+      "texto": "el",
+      "inicio": 17.227,
+      "fin": 17.28
+    },
+    {
+      "texto": "decimal",
+      "inicio": 17.35,
+      "fin": 17.84
+    },
+    {
+      "texto": "va",
+      "inicio": 17.947,
+      "fin": 18.16
+    },
+    {
+      "texto": "con",
+      "inicio": 18.2,
+      "fin": 18.32
+    },
+    {
+      "texto": "punto.",
+      "inicio": 18.44,
+      "fin": 19.32
+    },
+    {
+      "texto": "Y",
+      "inicio": 19.46,
+      "fin": 19.6
+    },
+    {
+      "texto": "ya",
+      "inicio": 19.68,
+      "fin": 19.84
+    },
+    {
+      "texto": "tienes",
+      "inicio": 19.886,
+      "fin": 20.16
+    },
+    {
+      "texto": "la",
+      "inicio": 20.187,
+      "fin": 20.24
+    },
+    {
+      "texto": "comisión",
+      "inicio": 20.3,
+      "fin": 20.72
+    },
+    {
+      "texto": "del",
+      "inicio": 20.76,
+      "fin": 20.88
+    },
+    {
+      "texto": "cinco",
+      "inicio": 20.947,
+      "fin": 21.28
+    },
+    {
+      "texto": "por",
+      "inicio": 21.32,
+      "fin": 21.44
+    },
+    {
+      "texto": "ciento:",
+      "inicio": 21.52,
+      "fin": 22.48
+    },
+    {
+      "texto": "sesenta,",
+      "inicio": 22.56,
+      "fin": 23.52
+    },
+    {
+      "texto": "sesenta",
+      "inicio": 23.56,
+      "fin": 23.92
+    },
+    {
+      "texto": "y",
+      "inicio": 24.0,
+      "fin": 24.08
+    },
+    {
+      "texto": "siete",
+      "inicio": 24.12,
+      "fin": 24.32
+    },
+    {
+      "texto": "con",
+      "inicio": 24.38,
+      "fin": 24.56
+    },
+    {
+      "texto": "cincuenta,",
+      "inicio": 24.6,
+      "fin": 25.68
+    },
+    {
+      "texto": "setenta",
+      "inicio": 25.72,
+      "fin": 26.08
+    },
+    {
+      "texto": "y",
+      "inicio": 26.16,
+      "fin": 26.24
+    },
+    {
+      "texto": "cinco…",
+      "inicio": 26.307,
+      "fin": 26.8
+    }
+  ]
+}

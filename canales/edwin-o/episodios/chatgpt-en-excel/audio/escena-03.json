@@ -1,0 +1,270 @@
+{
+  "num": "03",
+  "titulo": "El caso",
+  "texto": "Repasemos la historia. El cinco de marzo de dos mil veintiséis, OpenAI lanzó en versión beta ChatGPT para Excel. En abril llegó a Google Sheets. Y el cinco de mayo quedó disponible para todos los planes, incluido el gratuito, aunque en el plan gratuito el uso es limitado. Hoy cualquiera puede tenerlo.",
+  "texto_tts": "Repasemos la historia. El cinco de marzo de dos mil veintiséis, OpenAI lanzó en versión beta ChatGPT para Excel. En abril llegó a Google Sheets. Y el cinco de mayo quedó disponible para todos los planes, incluido el gratuito, aunque en el plan gratuito el uso es limitado. Hoy cualquiera puede tenerlo.",
+  "modelo": "eleven_v3",
+  "duracion": 25.76,
+  "palabras": [
+    {
+      "texto": "Repasemos",
+      "inicio": 0.0,
+      "fin": 0.48
+    },
+    {
+      "texto": "la",
+      "inicio": 0.507,
+      "fin": 0.56
+    },
+    {
+      "texto": "historia.",
+      "inicio": 0.622,
+      "fin": 1.2
+    },
+    {
+      "texto": "El",
+      "inicio": 1.573,
+      "fin": 2.32
+    },
+    {
+      "texto": "cinco",
+      "inicio": 2.387,
+      "fin": 2.72
+    },
+    {
+      "texto": "de",
+      "inicio": 2.773,
+      "fin": 2.88
+    },
+    {
+      "texto": "marzo",
+      "inicio": 2.947,
+      "fin": 3.28
+    },
+    {
+      "texto": "de",
+      "inicio": 3.307,
+      "fin": 3.36
+    },
+    {
+      "texto": "dos",
+      "inicio": 3.38,
+      "fin": 3.44
+    },
+    {
+      "texto": "mil",
+      "inicio": 3.48,
+      "fin": 3.6
+    },
+    {
+      "texto": "veintiséis,",
+      "inicio": 3.627,
+      "fin": 4.64
+    },
+    {
+      "texto": "OpenAI",
+      "inicio": 4.752,
+      "fin": 5.52
+    },
+    {
+      "texto": "lanzó",
+      "inicio": 5.664,
+      "fin": 6.4
+    },
+    {
+      "texto": "en",
+      "inicio": 6.533,
+      "fin": 6.8
+    },
+    {
+      "texto": "versión",
+      "inicio": 6.85,
+      "fin": 7.2
+    },
+    {
+      "texto": "beta",
+      "inicio": 7.312,
+      "fin": 7.76
+    },
+    {
+      "texto": "ChatGPT",
+      "inicio": 7.952,
+      "fin": 9.12
+    },
+    {
+      "texto": "para",
+      "inicio": 9.2,
+      "fin": 9.52
+    },
+    {
+      "texto": "Excel.",
+      "inicio": 9.587,
+      "fin": 10.0
+    },
+    {
+      "texto": "En",
+      "inicio": 10.4,
+      "fin": 11.2
+    },
+    {
+      "texto": "abril",
+      "inicio": 11.267,
+      "fin": 11.6
+    },
+    {
+      "texto": "llegó",
+      "inicio": 11.712,
+      "fin": 12.2
+    },
+    {
+      "texto": "a",
+      "inicio": 12.22,
+      "fin": 12.24
+    },
+    {
+      "texto": "Google",
+      "inicio": 12.297,
+      "fin": 12.64
+    },
+    {
+      "texto": "Sheets.",
+      "inicio": 12.709,
+      "fin": 13.2
+    },
+    {
+      "texto": "Y",
+      "inicio": 13.68,
+      "fin": 14.16
+    },
+    {
+      "texto": "el",
+      "inicio": 14.213,
+      "fin": 14.32
+    },
+    {
+      "texto": "cinco",
+      "inicio": 14.387,
+      "fin": 14.72
+    },
+    {
+      "texto": "de",
+      "inicio": 14.747,
+      "fin": 14.8
+    },
+    {
+      "texto": "mayo",
+      "inicio": 14.912,
+      "fin": 15.36
+    },
+    {
+      "texto": "quedó",
+      "inicio": 15.456,
+      "fin": 16.2
+    },
+    {
+      "texto": "disponible",
+      "inicio": 16.233,
+      "fin": 16.56
+    },
+    {
+      "texto": "para",
+      "inicio": 16.64,
+      "fin": 16.96
+    },
+    {
+      "texto": "todos",
+      "inicio": 17.0,
+      "fin": 17.2
+    },
+    {
+      "texto": "los",
+      "inicio": 17.22,
+      "fin": 17.28
+    },
+    {
+      "texto": "planes,",
+      "inicio": 17.36,
+      "fin": 18.08
+    },
+    {
+      "texto": "incluido",
+      "inicio": 18.16,
+      "fin": 18.72
+    },
+    {
+      "texto": "el",
+      "inicio": 18.747,
+      "fin": 18.8
+    },
+    {
+      "texto": "gratuito,",
+      "inicio": 18.862,
+      "fin": 20.08
+    },
+    {
+      "texto": "aunque",
+      "inicio": 20.114,
+      "fin": 20.32
+    },
+    {
+      "texto": "en",
+      "inicio": 20.347,
+      "fin": 20.4
+    },
+    {
+      "texto": "el",
+      "inicio": 20.453,
+      "fin": 20.56
+    },
+    {
+      "texto": "plan",
+      "inicio": 20.608,
+      "fin": 20.8
+    },
+    {
+      "texto": "gratuito",
+      "inicio": 20.862,
+      "fin": 21.36
+    },
+    {
+      "texto": "el",
+      "inicio": 21.493,
+      "fin": 21.76
+    },
+    {
+      "texto": "uso",
+      "inicio": 21.82,
+      "fin": 22.0
+    },
+    {
+      "texto": "es",
+      "inicio": 22.027,
+      "fin": 22.08
+    },
+    {
+      "texto": "limitado.",
+      "inicio": 22.133,
+      "fin": 23.4
+    },
+    {
+      "texto": "Hoy",
+      "inicio": 23.59,
+      "fin": 24.16
+    },
+    {
+      "texto": "cualquiera",
+      "inicio": 24.288,
+      "fin": 24.96
+    },
+    {
+      "texto": "puede",
+      "inicio": 25.0,
+      "fin": 25.2
+    },
+    {
+      "texto": "tenerlo.",
+      "inicio": 25.267,
+      "fin": 25.76
+    }
+  ]
+}

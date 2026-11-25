@@ -1,0 +1,265 @@
+{
+  "num": "15",
+  "titulo": "Actívalo para siempre",
+  "texto": "Si no quieres escribir barra r c cada vez, en barra config busca la opción para activar Remote Control en todas las sesiones. Y si quieres dejar tu computador como un servidor esperando tareas, abre la terminal y escribe claude remote control, así, separado. Con la barra espaciadora muestras el QR.",
+  "texto_tts": "Si no quieres escribir barra r c cada vez, en barra config busca la opción para activar Remote Control en todas las sesiones. Y si quieres dejar tu computador como un servidor esperando tareas, abre la terminal y escribe claude remote control, así, separado. Con la barra espaciadora muestras el QR.",
+  "modelo": "eleven_v3",
+  "duracion": 21.68,
+  "palabras": [
+    {
+      "texto": "Si",
+      "inicio": 0.0,
+      "fin": 0.16
+    },
+    {
+      "texto": "no",
+      "inicio": 0.213,
+      "fin": 0.32
+    },
+    {
+      "texto": "quieres",
+      "inicio": 0.37,
+      "fin": 0.72
+    },
+    {
+      "texto": "escribir",
+      "inicio": 0.787,
+      "fin": 1.36
+    },
+    {
+      "texto": "barra",
+      "inicio": 1.46,
+      "fin": 1.92
+    },
+    {
+      "texto": "r",
+      "inicio": 2.16,
+      "fin": 2.4
+    },
+    {
+      "texto": "c",
+      "inicio": 2.52,
+      "fin": 2.64
+    },
+    {
+      "texto": "cada",
+      "inicio": 2.72,
+      "fin": 3.04
+    },
+    {
+      "texto": "vez,",
+      "inicio": 3.12,
+      "fin": 3.52
+    },
+    {
+      "texto": "en",
+      "inicio": 3.573,
+      "fin": 3.68
+    },
+    {
+      "texto": "barra",
+      "inicio": 3.72,
+      "fin": 3.92
+    },
+    {
+      "texto": "config",
+      "inicio": 4.011,
+      "fin": 4.56
+    },
+    {
+      "texto": "busca",
+      "inicio": 4.613,
+      "fin": 4.88
+    },
+    {
+      "texto": "la",
+      "inicio": 4.907,
+      "fin": 4.96
+    },
+    {
+      "texto": "opción",
+      "inicio": 5.017,
+      "fin": 5.36
+    },
+    {
+      "texto": "para",
+      "inicio": 5.408,
+      "fin": 5.6
+    },
+    {
+      "texto": "activar",
+      "inicio": 5.653,
+      "fin": 6.08
+    },
+    {
+      "texto": "Remote",
+      "inicio": 6.16,
+      "fin": 6.64
+    },
+    {
+      "texto": "Control",
+      "inicio": 6.71,
+      "fin": 7.2
+    },
+    {
+      "texto": "en",
+      "inicio": 7.253,
+      "fin": 7.36
+    },
+    {
+      "texto": "todas",
+      "inicio": 7.413,
+      "fin": 7.68
+    },
+    {
+      "texto": "las",
+      "inicio": 7.7,
+      "fin": 7.76
+    },
+    {
+      "texto": "sesiones.",
+      "inicio": 7.82,
+      "fin": 8.48
+    },
+    {
+      "texto": "Y",
+      "inicio": 8.88,
+      "fin": 9.28
+    },
+    {
+      "texto": "si",
+      "inicio": 9.333,
+      "fin": 9.44
+    },
+    {
+      "texto": "quieres",
+      "inicio": 9.48,
+      "fin": 9.76
+    },
+    {
+      "texto": "dejar",
+      "inicio": 9.8,
+      "fin": 10.0
+    },
+    {
+      "texto": "tu",
+      "inicio": 10.053,
+      "fin": 10.16
+    },
+    {
+      "texto": "computador",
+      "inicio": 10.217,
+      "fin": 10.72
+    },
+    {
+      "texto": "como",
+      "inicio": 10.768,
+      "fin": 10.96
+    },
+    {
+      "texto": "un",
+      "inicio": 10.987,
+      "fin": 11.04
+    },
+    {
+      "texto": "servidor",
+      "inicio": 11.111,
+      "fin": 11.68
+    },
+    {
+      "texto": "esperando",
+      "inicio": 11.76,
+      "fin": 12.32
+    },
+    {
+      "texto": "tareas,",
+      "inicio": 12.36,
+      "fin": 13.36
+    },
+    {
+      "texto": "abre",
+      "inicio": 13.424,
+      "fin": 13.68
+    },
+    {
+      "texto": "la",
+      "inicio": 13.707,
+      "fin": 13.76
+    },
+    {
+      "texto": "terminal",
+      "inicio": 13.822,
+      "fin": 14.32
+    },
+    {
+      "texto": "y",
+      "inicio": 14.4,
+      "fin": 14.48
+    },
+    {
+      "texto": "escribe",
+      "inicio": 14.533,
+      "fin": 15.12
+    },
+    {
+      "texto": "claude",
+      "inicio": 15.22,
+      "fin": 15.76
+    },
+    {
+      "texto": "remote",
+      "inicio": 15.851,
+      "fin": 16.4
+    },
+    {
+      "texto": "control,",
+      "inicio": 16.46,
+      "fin": 17.12
+    },
+    {
+      "texto": "así,",
+      "inicio": 17.2,
+      "fin": 17.52
+    },
+    {
+      "texto": "separado.",
+      "inicio": 17.587,
+      "fin": 18.16
+    },
+    {
+      "texto": "Con",
+      "inicio": 18.44,
+      "fin": 19.28
+    },
+    {
+      "texto": "la",
+      "inicio": 19.307,
+      "fin": 19.36
+    },
+    {
+      "texto": "barra",
+      "inicio": 19.4,
+      "fin": 19.6
+    },
+    {
+      "texto": "espaciadora",
+      "inicio": 19.64,
+      "fin": 20.24
+    },
+    {
+      "texto": "muestras",
+      "inicio": 20.32,
+      "fin": 20.88
+    },
+    {
+      "texto": "el",
+      "inicio": 20.933,
+      "fin": 21.04
+    },
+    {
+      "texto": "QR.",
+      "inicio": 21.227,
+      "fin": 21.68
+    }
+  ]
+}

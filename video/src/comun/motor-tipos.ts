@@ -60,7 +60,28 @@ export type Bloque = Base &
     | {tipo: 'teclas'; teclas: string[]; texto?: string}
     | {tipo: 'barras'; titulo?: string; items: {etiqueta: string; valor: number}[]; ancho?: number; alto?: number; x?: number; y?: number}
     | {tipo: 'cortinilla'; titulo?: string}
-    | {tipo: 'cierre'; siguiente: string; suscribir?: Cue}
+    | {tipo: 'cierre'; siguiente: string; suscribir?: Cue; /** Cuándo aparece la píldora "edwinortiz.net/tienda". */ web?: Cue}
+    | {tipo: 'imagenes'; titulo?: string; items: {src: string; pie?: string; desde: Cue; ancho?: number; alto?: number}[]}
+    | {tipo: 'etiquetas'; titulo?: string; columnas?: number; items: {codigo: string; producto: string; ubicacion: string; qr: string; barras: string; desde: Cue}[]}
+    | {
+        tipo: 'movil';
+        app?: string;
+        pestana?: string;
+        items?: {texto: string; sub?: string; desde: Cue; online?: boolean; icono?: string}[];
+        mensajes?: {rol: 'yo' | 'ia'; texto: string; desde: Cue}[];
+        notas?: {texto: string; desde: Cue; icono?: string}[];
+        qr?: {src: string; desde: Cue; pie?: string};
+      }
+    | {
+        tipo: 'editorpq';
+        consulta?: string;
+        consultas?: string[];
+        estados: {desde: Cue; columnas: string[]; filas: (string | number | null)[][]; resaltarCol?: number[]; resaltarFila?: number[]}[];
+        pasos: {texto: string; desde: Cue}[];
+        botones?: {pestana: string; texto: string; desde: Cue; hasta?: Cue}[];
+        anchos?: number[];
+      }
+    | {tipo: 'tienda'; texto?: string}
     | {tipo: 'resumen'; titulo?: string; ideas: {texto: string; desde: Cue}[]}
     | {tipo: 'errores'; titulo?: string; items: {mal: string; bien: string; desde: Cue}[]}
     | {tipo: 'logo'; texto?: string}

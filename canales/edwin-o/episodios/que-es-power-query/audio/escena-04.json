@@ -1,0 +1,290 @@
+{
+  "num": "04",
+  "titulo": "El aporte de Edwin",
+  "texto": "En mis capacitaciones veo esto todo el tiempo: secretarias y auxiliares que cada lunes reciben el mismo reporte del sistema, y lo limpian a mano, celda por celda. Una hora, cada semana, haciendo exactamente lo mismo. Cuando les muestro Power Query, la reacción siempre es la misma: ¿y por qué nadie me había enseñado esto antes?",
+  "texto_tts": "En mis capacitaciones veo esto todo el tiempo: secretarias y auxiliares que cada lunes reciben el mismo reporte del sistema, y lo limpian a mano, celda por celda. Una hora, cada semana, haciendo exactamente lo mismo. Cuando les muestro Power Query, la reacción siempre es la misma: ¿y por qué nadie me había enseñado esto antes?",
+  "modelo": "eleven_v3",
+  "duracion": 24.64,
+  "palabras": [
+    {
+      "texto": "En",
+      "inicio": 0.0,
+      "fin": 0.16
+    },
+    {
+      "texto": "mis",
+      "inicio": 0.2,
+      "fin": 0.32
+    },
+    {
+      "texto": "capacitaciones",
+      "inicio": 0.38,
+      "fin": 1.2
+    },
+    {
+      "texto": "veo",
+      "inicio": 1.28,
+      "fin": 1.52
+    },
+    {
+      "texto": "esto",
+      "inicio": 1.584,
+      "fin": 1.84
+    },
+    {
+      "texto": "todo",
+      "inicio": 1.888,
+      "fin": 2.08
+    },
+    {
+      "texto": "el",
+      "inicio": 2.107,
+      "fin": 2.16
+    },
+    {
+      "texto": "tiempo:",
+      "inicio": 2.229,
+      "fin": 3.2
+    },
+    {
+      "texto": "secretarias",
+      "inicio": 3.269,
+      "fin": 3.92
+    },
+    {
+      "texto": "y",
+      "inicio": 3.96,
+      "fin": 4.0
+    },
+    {
+      "texto": "auxiliares",
+      "inicio": 4.08,
+      "fin": 4.8
+    },
+    {
+      "texto": "que",
+      "inicio": 4.88,
+      "fin": 5.12
+    },
+    {
+      "texto": "cada",
+      "inicio": 5.184,
+      "fin": 5.44
+    },
+    {
+      "texto": "lunes",
+      "inicio": 5.52,
+      "fin": 5.92
+    },
+    {
+      "texto": "reciben",
+      "inicio": 6.0,
+      "fin": 6.56
+    },
+    {
+      "texto": "el",
+      "inicio": 6.587,
+      "fin": 6.64
+    },
+    {
+      "texto": "mismo",
+      "inicio": 6.72,
+      "fin": 7.12
+    },
+    {
+      "texto": "reporte",
+      "inicio": 7.189,
+      "fin": 7.68
+    },
+    {
+      "texto": "del",
+      "inicio": 7.7,
+      "fin": 7.76
+    },
+    {
+      "texto": "sistema,",
+      "inicio": 7.83,
+      "fin": 8.88
+    },
+    {
+      "texto": "y",
+      "inicio": 8.92,
+      "fin": 8.96
+    },
+    {
+      "texto": "lo",
+      "inicio": 9.013,
+      "fin": 9.12
+    },
+    {
+      "texto": "limpian",
+      "inicio": 9.168,
+      "fin": 9.52
+    },
+    {
+      "texto": "a",
+      "inicio": 9.56,
+      "fin": 9.6
+    },
+    {
+      "texto": "mano,",
+      "inicio": 9.664,
+      "fin": 10.32
+    },
+    {
+      "texto": "celda",
+      "inicio": 10.4,
+      "fin": 10.8
+    },
+    {
+      "texto": "por",
+      "inicio": 10.88,
+      "fin": 11.12
+    },
+    {
+      "texto": "celda.",
+      "inicio": 11.24,
+      "fin": 11.76
+    },
+    {
+      "texto": "Una",
+      "inicio": 11.96,
+      "fin": 12.56
+    },
+    {
+      "texto": "hora,",
+      "inicio": 12.624,
+      "fin": 13.28
+    },
+    {
+      "texto": "cada",
+      "inicio": 13.344,
+      "fin": 13.6
+    },
+    {
+      "texto": "semana,",
+      "inicio": 13.669,
+      "fin": 14.16
+    },
+    {
+      "texto": "haciendo",
+      "inicio": 14.267,
+      "fin": 15.12
+    },
+    {
+      "texto": "exactamente",
+      "inicio": 15.227,
+      "fin": 16.16
+    },
+    {
+      "texto": "lo",
+      "inicio": 16.213,
+      "fin": 16.32
+    },
+    {
+      "texto": "mismo.",
+      "inicio": 16.387,
+      "fin": 17.2
+    },
+    {
+      "texto": "Cuando",
+      "inicio": 17.269,
+      "fin": 17.68
+    },
+    {
+      "texto": "les",
+      "inicio": 17.74,
+      "fin": 17.92
+    },
+    {
+      "texto": "muestro",
+      "inicio": 17.96,
+      "fin": 18.24
+    },
+    {
+      "texto": "Power",
+      "inicio": 18.307,
+      "fin": 18.64
+    },
+    {
+      "texto": "Query,",
+      "inicio": 18.707,
+      "fin": 19.44
+    },
+    {
+      "texto": "la",
+      "inicio": 19.467,
+      "fin": 19.52
+    },
+    {
+      "texto": "reacción",
+      "inicio": 19.6,
+      "fin": 20.08
+    },
+    {
+      "texto": "siempre",
+      "inicio": 20.13,
+      "fin": 20.48
+    },
+    {
+      "texto": "es",
+      "inicio": 20.533,
+      "fin": 20.64
+    },
+    {
+      "texto": "la",
+      "inicio": 20.667,
+      "fin": 20.72
+    },
+    {
+      "texto": "misma:",
+      "inicio": 20.787,
+      "fin": 21.2
+    },
+    {
+      "texto": "¿y",
+      "inicio": 21.52,
+      "fin": 21.96
+    },
+    {
+      "texto": "por",
+      "inicio": 21.99,
+      "fin": 22.08
+    },
+    {
+      "texto": "qué",
+      "inicio": 22.14,
+      "fin": 22.32
+    },
+    {
+      "texto": "nadie",
+      "inicio": 22.38,
+      "fin": 22.64
+    },
+    {
+      "texto": "me",
+      "inicio": 22.693,
+      "fin": 22.8
+    },
+    {
+      "texto": "había",
+      "inicio": 22.84,
+      "fin": 23.04
+    },
+    {
+      "texto": "enseñado",
+      "inicio": 23.104,
+      "fin": 23.6
+    },
+    {
+      "texto": "esto",
+      "inicio": 23.664,
+      "fin": 23.92
+    },
+    {
+      "texto": "antes?",
+      "inicio": 24.013,
+      "fin": 24.64
+    }
+  ]
+}

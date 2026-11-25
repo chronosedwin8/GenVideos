@@ -1,0 +1,315 @@
+{
+  "num": "21",
+  "titulo": "Cierre y siguiente video",
+  "texto": "Si quieres plantillas de Excel listas para usar, visita mi página edwinortiz punto net y entra a la tienda; te dejo el enlace abajo. En el próximo video volvemos a Excel: vas a crear etiquetas de inventario con código QR y código de barras, en segundos. Suscríbete para no perdértelo. El poder de la tecnología te va a cambiar el mundo.",
+  "texto_tts": "Si quieres plantillas de Excel listas para usar, visita mi página edwinortiz punto net y entra a la tienda; te dejo el enlace abajo. En el próximo video volvemos a Excel: vas a crear etiquetas de inventario con código QR y código de barras, en segundos. Suscríbete para no perdértelo. [excited] El poder de la tecnología te va a cambiar el mundo.",
+  "modelo": "eleven_v3",
+  "duracion": 28.005,
+  "palabras": [
+    {
+      "texto": "Si",
+      "inicio": 0.0,
+      "fin": 0.16
+    },
+    {
+      "texto": "quieres",
+      "inicio": 0.21,
+      "fin": 0.56
+    },
+    {
+      "texto": "plantillas",
+      "inicio": 0.613,
+      "fin": 1.2
+    },
+    {
+      "texto": "de",
+      "inicio": 1.227,
+      "fin": 1.28
+    },
+    {
+      "texto": "Excel",
+      "inicio": 1.347,
+      "fin": 1.68
+    },
+    {
+      "texto": "listas",
+      "inicio": 1.792,
+      "fin": 2.32
+    },
+    {
+      "texto": "para",
+      "inicio": 2.368,
+      "fin": 2.56
+    },
+    {
+      "texto": "usar,",
+      "inicio": 2.64,
+      "fin": 3.36
+    },
+    {
+      "texto": "visita",
+      "inicio": 3.429,
+      "fin": 3.84
+    },
+    {
+      "texto": "mi",
+      "inicio": 3.92,
+      "fin": 4.08
+    },
+    {
+      "texto": "página",
+      "inicio": 4.171,
+      "fin": 4.72
+    },
+    {
+      "texto": "edwinortiz",
+      "inicio": 4.8,
+      "fin": 5.6
+    },
+    {
+      "texto": "punto",
+      "inicio": 5.653,
+      "fin": 5.92
+    },
+    {
+      "texto": "net",
+      "inicio": 6.04,
+      "fin": 6.4
+    },
+    {
+      "texto": "y",
+      "inicio": 6.6,
+      "fin": 6.8
+    },
+    {
+      "texto": "entra",
+      "inicio": 6.853,
+      "fin": 7.12
+    },
+    {
+      "texto": "a",
+      "inicio": 7.16,
+      "fin": 7.2
+    },
+    {
+      "texto": "la",
+      "inicio": 7.253,
+      "fin": 7.36
+    },
+    {
+      "texto": "tienda;",
+      "inicio": 7.387,
+      "fin": 7.84
+    },
+    {
+      "texto": "te",
+      "inicio": 8.027,
+      "fin": 8.4
+    },
+    {
+      "texto": "dejo",
+      "inicio": 8.453,
+      "fin": 8.64
+    },
+    {
+      "texto": "el",
+      "inicio": 8.667,
+      "fin": 8.72
+    },
+    {
+      "texto": "enlace",
+      "inicio": 8.773,
+      "fin": 9.2
+    },
+    {
+      "texto": "abajo.",
+      "inicio": 9.227,
+      "fin": 9.84
+    },
+    {
+      "texto": "En",
+      "inicio": 10.187,
+      "fin": 10.88
+    },
+    {
+      "texto": "el",
+      "inicio": 10.933,
+      "fin": 11.04
+    },
+    {
+      "texto": "próximo",
+      "inicio": 11.09,
+      "fin": 11.44
+    },
+    {
+      "texto": "video",
+      "inicio": 11.533,
+      "fin": 12.0
+    },
+    {
+      "texto": "volvemos",
+      "inicio": 12.1,
+      "fin": 12.72
+    },
+    {
+      "texto": "a",
+      "inicio": 12.76,
+      "fin": 12.8
+    },
+    {
+      "texto": "Excel:",
+      "inicio": 12.867,
+      "fin": 13.92
+    },
+    {
+      "texto": "vas",
+      "inicio": 13.98,
+      "fin": 14.16
+    },
+    {
+      "texto": "a",
+      "inicio": 14.2,
+      "fin": 14.24
+    },
+    {
+      "texto": "crear",
+      "inicio": 14.307,
+      "fin": 14.64
+    },
+    {
+      "texto": "etiquetas",
+      "inicio": 14.707,
+      "fin": 15.28
+    },
+    {
+      "texto": "de",
+      "inicio": 15.307,
+      "fin": 15.36
+    },
+    {
+      "texto": "inventario",
+      "inicio": 15.417,
+      "fin": 16.08
+    },
+    {
+      "texto": "con",
+      "inicio": 16.2,
+      "fin": 16.56
+    },
+    {
+      "texto": "código",
+      "inicio": 16.64,
+      "fin": 17.12
+    },
+    {
+      "texto": "QR",
+      "inicio": 17.333,
+      "fin": 17.76
+    },
+    {
+      "texto": "y",
+      "inicio": 17.92,
+      "fin": 18.08
+    },
+    {
+      "texto": "código",
+      "inicio": 18.16,
+      "fin": 18.64
+    },
+    {
+      "texto": "de",
+      "inicio": 18.667,
+      "fin": 18.72
+    },
+    {
+      "texto": "barras,",
+      "inicio": 18.784,
+      "fin": 19.76
+    },
+    {
+      "texto": "en",
+      "inicio": 19.813,
+      "fin": 19.92
+    },
+    {
+      "texto": "segundos.",
+      "inicio": 20.0,
+      "fin": 20.88
+    },
+    {
+      "texto": "Suscríbete",
+      "inicio": 21.1,
+      "fin": 22.24
+    },
+    {
+      "texto": "para",
+      "inicio": 22.32,
+      "fin": 22.64
+    },
+    {
+      "texto": "no",
+      "inicio": 22.693,
+      "fin": 22.8
+    },
+    {
+      "texto": "perdértelo.",
+      "inicio": 22.864,
+      "fin": 23.76
+    },
+    {
+      "texto": "El",
+      "inicio": 24.432,
+      "fin": 24.485
+    },
+    {
+      "texto": "poder",
+      "inicio": 24.565,
+      "fin": 24.965
+    },
+    {
+      "texto": "de",
+      "inicio": 24.992,
+      "fin": 25.045
+    },
+    {
+      "texto": "la",
+      "inicio": 25.072,
+      "fin": 25.125
+    },
+    {
+      "texto": "tecnología",
+      "inicio": 25.189,
+      "fin": 25.925
+    },
+    {
+      "texto": "te",
+      "inicio": 26.138,
+      "fin": 26.565
+    },
+    {
+      "texto": "va",
+      "inicio": 26.618,
+      "fin": 26.725
+    },
+    {
+      "texto": "a",
+      "inicio": 26.765,
+      "fin": 26.805
+    },
+    {
+      "texto": "cambiar",
+      "inicio": 26.865,
+      "fin": 27.285
+    },
+    {
+      "texto": "el",
+      "inicio": 27.312,
+      "fin": 27.365
+    },
+    {
+      "texto": "mundo.",
+      "inicio": 27.445,
+      "fin": 28.005
+    }
+  ]
+}

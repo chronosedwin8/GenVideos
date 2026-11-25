@@ -1,0 +1,943 @@
+1
+00:00:00,204 --> 00:00:02,000
+Estás en la calle, lejos de tu
+
+2
+00:00:02,057 --> 00:00:05,040
+computador, y te piden doce reportes de
+
+3
+00:00:05,107 --> 00:00:06,240
+Excel para ya.
+
+4
+00:00:06,500 --> 00:00:09,440
+Sacas el celular, escribes una frase…
+
+5
+00:00:09,720 --> 00:00:12,080
+y tu computador de la oficina hace
+
+6
+00:00:12,176 --> 00:00:13,640
+todo el trabajo.
+
+7
+00:00:13,770 --> 00:00:16,160
+Sin escritorio remoto, sin abrir
+
+8
+00:00:16,240 --> 00:00:18,240
+puertos, sin magia negra.
+
+9
+00:00:18,820 --> 00:00:20,320
+¡Bienvenidos, amigos del canal!
+
+10
+00:00:20,360 --> 00:00:23,200
+Vamos en busca del poder tecnológico.
+
+11
+00:00:23,260 --> 00:00:25,440
+Hoy te enseño a controlar Claude Code
+
+12
+00:00:25,520 --> 00:00:28,000
+desde tu celular con una función que
+
+13
+00:00:28,053 --> 00:00:30,240
+se llama Remote Control.
+
+14
+00:00:30,320 --> 00:00:32,640
+Vas a ver cómo instalarlo, cómo conectar
+
+15
+00:00:32,667 --> 00:00:35,600
+el teléfono, cómo mandarle tareas reales
+
+16
+00:00:35,720 --> 00:00:37,600
+y qué cuidar en seguridad.
+
+17
+00:00:38,000 --> 00:00:38,720
+Esto es nuevo.
+
+18
+00:00:39,093 --> 00:00:42,000
+El veinticuatro de febrero de dos mil
+
+19
+00:00:42,053 --> 00:00:44,880
+veintiséis, Anthropic anunció
+
+20
+00:00:45,006 --> 00:00:47,520
+Remote Control como vista
+
+21
+00:00:47,600 --> 00:00:50,000
+previa, primero para los planes
+
+22
+00:00:50,160 --> 00:00:52,080
+Max y después para Pro.
+
+23
+00:00:52,440 --> 00:00:55,280
+Hoy, según la documentación
+
+24
+00:00:55,350 --> 00:00:58,240
+oficial, funciona en los planes
+
+25
+00:00:58,380 --> 00:01:01,360
+Pro, Max, Ultra,
+
+26
+00:01:01,504 --> 00:01:03,440
+Team y Enterprise.
+
+27
+00:01:03,840 --> 00:01:06,640
+Y cambia la forma de trabajar:
+
+28
+00:01:06,667 --> 00:01:09,360
+tu asistente de programación ya no
+
+29
+00:01:09,417 --> 00:01:11,440
+depende de que estés sentado frente a
+
+30
+00:01:11,467 --> 00:01:12,240
+la pantalla.
+
+31
+00:01:12,640 --> 00:01:13,520
+Te cuento algo:
+
+32
+00:01:13,616 --> 00:01:16,560
+este mismo canal lo produzco con Claude
+
+33
+00:01:16,672 --> 00:01:17,200
+Code.
+
+34
+00:01:17,440 --> 00:01:20,400
+Los guiones, la voz y la
+
+35
+00:01:20,448 --> 00:01:22,480
+animación salen de un proyecto en mi
+
+36
+00:01:22,537 --> 00:01:23,680
+computador.
+
+37
+00:01:23,920 --> 00:01:26,080
+Y muchas veces reviso cómo va un
+
+38
+00:01:26,147 --> 00:01:28,880
+video desde el celular, mientras hago otra
+
+39
+00:01:28,960 --> 00:01:29,360
+cosa.
+
+40
+00:01:29,580 --> 00:01:32,000
+Por eso te lo quiero enseñar:
+
+41
+00:01:32,053 --> 00:01:34,400
+es de esas herramientas que te devuelven
+
+42
+00:01:34,533 --> 00:01:35,280
+horas.
+
+43
+00:01:35,680 --> 00:01:37,600
+Primero, entiende la idea.
+
+44
+00:01:37,780 --> 00:01:40,320
+Con Remote Control, Claude Code sigue
+
+45
+00:01:40,360 --> 00:01:42,560
+corriendo en tu computador, con tus
+
+46
+00:01:42,631 --> 00:01:44,960
+archivos, tus programas y tus
+
+47
+00:01:45,018 --> 00:01:45,840
+herramientas.
+
+48
+00:01:46,053 --> 00:01:48,160
+El celular solo es el control
+
+49
+00:01:48,200 --> 00:01:49,360
+remoto:
+
+50
+00:01:49,400 --> 00:01:51,680
+ves la conversación y le das órdenes.
+
+51
+00:01:51,947 --> 00:01:53,920
+Es distinto de Claude Code en la
+
+52
+00:01:54,000 --> 00:01:56,320
+nube, que trabaja en servidores de Anthropic
+
+53
+00:01:56,440 --> 00:01:58,320
+y no necesita que tu computador esté
+
+54
+00:01:58,340 --> 00:01:58,880
+encendido.
+
+55
+00:01:59,280 --> 00:02:00,720
+Necesitas tres cosas.
+
+56
+00:02:01,093 --> 00:02:04,000
+Un plan de pago de Claude:
+
+57
+00:02:04,080 --> 00:02:06,320
+Pro, Max, Ultra, Team o
+
+58
+00:02:06,385 --> 00:02:09,040
+Enterprise; el plan gratuito no
+
+59
+00:02:09,088 --> 00:02:10,480
+incluye Claude Code.
+
+60
+00:02:10,663 --> 00:02:12,880
+Claude Code instalado en tu
+
+61
+00:02:12,937 --> 00:02:13,840
+computador.
+
+62
+00:02:14,280 --> 00:02:16,320
+Y la aplicación de Claude en tu
+
+63
+00:02:16,390 --> 00:02:19,200
+celular, Android o iPhone, con la
+
+64
+00:02:19,267 --> 00:02:20,400
+misma cuenta.
+
+65
+00:02:20,600 --> 00:02:21,120
+Ojo:
+
+66
+00:02:21,387 --> 00:02:24,160
+no funciona si inicias sesión con una
+
+67
+00:02:24,240 --> 00:02:25,440
+clave de API.
+
+68
+00:02:25,840 --> 00:02:26,480
+Paso uno:
+
+69
+00:02:26,592 --> 00:02:28,080
+instala Claude Code.
+
+70
+00:02:28,267 --> 00:02:30,720
+En Windows abre PowerShell y pega el
+
+71
+00:02:30,770 --> 00:02:32,720
+comando de instalación oficial que te dejo
+
+72
+00:02:32,747 --> 00:02:35,360
+en la descripción; en Mac o Linux
+
+73
+00:02:35,493 --> 00:02:37,840
+es otro comando, también abajo.
+
+74
+00:02:37,947 --> 00:02:40,240
+No necesitas ser administrador.
+
+75
+00:02:40,320 --> 00:02:43,280
+Cuando termine, escribe claude, guion
+
+76
+00:02:43,333 --> 00:02:45,920
+guion version, y si te responde con
+
+77
+00:02:45,947 --> 00:02:48,000
+un número de versión, quedó listo.
+
+78
+00:02:48,400 --> 00:02:49,120
+Paso dos:
+
+79
+00:02:49,213 --> 00:02:51,440
+entra a la carpeta donde están tus
+
+80
+00:02:51,502 --> 00:02:53,680
+archivos, por ejemplo, la carpeta de
+
+81
+00:02:53,749 --> 00:02:56,400
+reportes, y escribe claude.
+
+82
+00:02:56,693 --> 00:02:59,520
+La primera vez te pide iniciar sesión
+
+83
+00:02:59,580 --> 00:03:00,960
+con tu cuenta de Claude.
+
+84
+00:03:01,400 --> 00:03:02,960
+Fíjate en este detalle:
+
+85
+00:03:03,086 --> 00:03:06,000
+Claude Code trabaja en la carpeta donde
+
+86
+00:03:06,027 --> 00:03:06,800
+lo abres.
+
+87
+00:03:06,987 --> 00:03:09,440
+Así que ábrelo justo donde está tu
+
+88
+00:03:09,500 --> 00:03:10,080
+trabajo.
+
+89
+00:03:10,480 --> 00:03:12,400
+Paso tres, el importante.
+
+90
+00:03:12,624 --> 00:03:15,520
+Dentro de Claude Code escribe barra
+
+91
+00:03:15,634 --> 00:03:18,480
+remote control, o la versión corta,
+
+92
+00:03:18,540 --> 00:03:19,840
+barra r c.
+
+93
+00:03:20,187 --> 00:03:22,560
+La primera vez te pregunta si quieres
+
+94
+00:03:22,613 --> 00:03:23,680
+activarlo:
+
+95
+00:03:23,728 --> 00:03:24,480
+dile que sí.
+
+96
+00:03:24,773 --> 00:03:27,200
+Te aparece un enlace y un código
+
+97
+00:03:27,387 --> 00:03:27,840
+QR.
+
+98
+00:03:28,240 --> 00:03:30,480
+Y abajo verás el indicador de que
+
+99
+00:03:30,533 --> 00:03:32,320
+el control remoto está activo.
+
+100
+00:03:32,533 --> 00:03:35,040
+Tu sesión ya se puede manejar desde
+
+101
+00:03:35,104 --> 00:03:36,320
+otro dispositivo.
+
+102
+00:03:36,720 --> 00:03:37,680
+Paso cuatro:
+
+103
+00:03:38,000 --> 00:03:39,520
+toma tu celular.
+
+104
+00:03:40,040 --> 00:03:41,840
+Tienes dos caminos.
+
+105
+00:03:42,140 --> 00:03:44,720
+Escanea el código QR con la
+
+106
+00:03:44,760 --> 00:03:46,960
+cámara, o abre la app de
+
+107
+00:03:47,040 --> 00:03:49,920
+Claude, toca Code, y
+
+108
+00:03:49,987 --> 00:03:51,120
+busca tu sesión:
+
+109
+00:03:51,267 --> 00:03:53,600
+tiene un ícono de computador con un
+
+110
+00:03:53,667 --> 00:03:56,000
+punto verde, que significa que está en
+
+111
+00:03:56,067 --> 00:03:56,560
+línea.
+
+112
+00:03:57,000 --> 00:03:59,520
+Tócala, y verás la misma
+
+113
+00:03:59,570 --> 00:04:01,680
+conversación que tienes en la pantalla del
+
+114
+00:04:01,737 --> 00:04:02,400
+computador.
+
+115
+00:04:02,800 --> 00:04:03,600
+Paso cinco:
+
+116
+00:04:03,707 --> 00:04:05,520
+mándale una tarea de verdad.
+
+117
+00:04:05,627 --> 00:04:06,560
+Yo le escribo:
+
+118
+00:04:06,624 --> 00:04:08,560
+ejecuta reportes punto p
+
+119
+00:04:09,040 --> 00:04:11,480
+y, y dime cuántos reportes salieron.
+
+120
+00:04:11,520 --> 00:04:13,440
+Es el programa de Python del video
+
+121
+00:04:13,493 --> 00:04:15,120
+donde automatizamos Excel.
+
+122
+00:04:15,269 --> 00:04:18,240
+Claude lee la carpeta, entiende qué hace
+
+123
+00:04:18,267 --> 00:04:20,240
+el script, y lo ejecuta en mi
+
+124
+00:04:20,286 --> 00:04:22,000
+computador, no en el celular.
+
+125
+00:04:22,536 --> 00:04:23,120
+¡Y mira!
+
+126
+00:04:23,227 --> 00:04:25,760
+En el computador se ejecuta el programa:
+
+127
+00:04:25,840 --> 00:04:28,560
+Arequipa, Barranquilla, Bogotá…
+
+128
+00:04:28,653 --> 00:04:29,920
+hasta Santiago.
+
+129
+00:04:30,133 --> 00:04:33,120
+Doce reportes de Excel, uno por ciudad.
+
+130
+00:04:33,440 --> 00:04:34,880
+Y en el celular me llega el
+
+131
+00:04:34,920 --> 00:04:35,440
+resumen.
+
+132
+00:04:35,620 --> 00:04:38,160
+Los archivos quedan en mi computador,
+
+133
+00:04:38,272 --> 00:04:40,240
+listos para cuando llegue a la oficina,
+
+134
+00:04:40,440 --> 00:04:41,600
+o para que se los envíe a
+
+135
+00:04:41,627 --> 00:04:42,160
+mi jefe.
+
+136
+00:04:42,560 --> 00:04:43,920
+Ahora, la parte de control.
+
+137
+00:04:44,107 --> 00:04:46,480
+Desde la app eliges el modo de
+
+138
+00:04:46,544 --> 00:04:47,760
+permisos:
+
+139
+00:04:47,829 --> 00:04:49,840
+manual, donde te pregunta antes de cada
+
+140
+00:04:49,897 --> 00:04:52,400
+acción; aceptar ediciones;
+
+141
+00:04:52,624 --> 00:04:55,600
+modo plan, donde primero te propone
+
+142
+00:04:55,640 --> 00:04:58,400
+qué va a hacer; o automático.
+
+143
+00:04:58,840 --> 00:05:00,320
+Y algo que me gusta:
+
+144
+00:05:00,360 --> 00:05:02,320
+desde el celular no se puede activar
+
+145
+00:05:02,427 --> 00:05:04,000
+el modo que se salta todos los
+
+146
+00:05:04,048 --> 00:05:04,880
+permisos.
+
+147
+00:05:04,928 --> 00:05:05,680
+Bien pensado.
+
+148
+00:05:06,080 --> 00:05:06,720
+Un truco:
+
+149
+00:05:06,827 --> 00:05:09,440
+en el computador escribe barra config
+
+150
+00:05:09,640 --> 00:05:11,520
+y activa las notificaciones.
+
+151
+00:05:11,733 --> 00:05:14,720
+Así, cuando Claude necesite tu aprobación o
+
+152
+00:05:14,768 --> 00:05:16,880
+termine una tarea larga, te llega un
+
+153
+00:05:16,907 --> 00:05:17,840
+aviso al celular.
+
+154
+00:05:18,107 --> 00:05:20,960
+Le dejas un trabajo pesado, sigues con
+
+155
+00:05:21,013 --> 00:05:23,120
+tu día, y cuando suena el teléfono,
+
+156
+00:05:23,187 --> 00:05:24,640
+revisas y apruebas.
+
+157
+00:05:25,040 --> 00:05:27,680
+Si no quieres escribir barra r c
+
+158
+00:05:27,760 --> 00:05:30,000
+cada vez, en barra config busca la
+
+159
+00:05:30,057 --> 00:05:32,720
+opción para activar Remote Control en todas
+
+160
+00:05:32,740 --> 00:05:33,520
+las sesiones.
+
+161
+00:05:33,920 --> 00:05:36,000
+Y si quieres dejar tu computador como
+
+162
+00:05:36,027 --> 00:05:38,800
+un servidor esperando tareas, abre la
+
+163
+00:05:38,862 --> 00:05:41,440
+terminal y escribe claude remote
+
+164
+00:05:41,500 --> 00:05:43,200
+control, así, separado.
+
+165
+00:05:43,480 --> 00:05:46,080
+Con la barra espaciadora muestras el
+
+166
+00:05:46,267 --> 00:05:46,720
+QR.
+
+167
+00:05:47,120 --> 00:05:48,480
+Y no solo es el celular.
+
+168
+00:05:48,640 --> 00:05:50,720
+Si estás en otro computador, en la
+
+169
+00:05:50,816 --> 00:05:53,120
+casa o en una tablet, abre el
+
+170
+00:05:53,184 --> 00:05:55,680
+navegador, entra a claude
+
+171
+00:05:55,813 --> 00:05:58,720
+punto ai barra code,
+
+172
+00:05:59,200 --> 00:06:01,520
+y busca tu sesión por el nombre.
+
+173
+00:06:01,733 --> 00:06:04,480
+Es la misma conversación, con el mismo
+
+174
+00:06:04,526 --> 00:06:05,200
+historial.
+
+175
+00:06:05,360 --> 00:06:07,600
+Por eso te recomiendo ponerle un nombre
+
+176
+00:06:07,693 --> 00:06:10,640
+claro a cada sesión, como "reportes
+
+177
+00:06:10,667 --> 00:06:13,520
+de ventas", para encontrarla rápido entre todas.
+
+178
+00:06:13,920 --> 00:06:14,800
+¿Y la seguridad?
+
+179
+00:06:15,000 --> 00:06:17,680
+Según la documentación, tu computador
+
+180
+00:06:17,760 --> 00:06:19,840
+solo hace conexiones de salida por
+
+181
+00:06:20,080 --> 00:06:22,800
+HTTPS y nunca abre puertos de
+
+182
+00:06:22,860 --> 00:06:23,360
+entrada.
+
+183
+00:06:23,560 --> 00:06:26,160
+Tus archivos y la ejecución se quedan
+
+184
+00:06:26,187 --> 00:06:29,120
+en tu máquina, aunque la conversación sí
+
+185
+00:06:29,200 --> 00:06:31,040
+se guarda en los servidores de Anthropic
+
+186
+00:06:31,084 --> 00:06:32,480
+mientras está conectada.
+
+187
+00:06:32,800 --> 00:06:35,360
+Y si quieres más protección, puedes
+
+188
+00:06:35,424 --> 00:06:37,840
+exigir que solo se conecten dispositivos de
+
+189
+00:06:37,904 --> 00:06:38,640
+confianza.
+
+190
+00:06:39,040 --> 00:06:41,200
+Si no te funcionó, revisa esto.
+
+191
+00:06:41,280 --> 00:06:43,040
+Si cierras la terminal, la sesión se
+
+192
+00:06:43,120 --> 00:06:43,760
+acaba:
+
+193
+00:06:43,787 --> 00:06:44,560
+déjala abierta.
+
+194
+00:06:44,747 --> 00:06:47,040
+Si el portátil se suspende o se
+
+195
+00:06:47,093 --> 00:06:49,760
+cae el internet, tranquilo, se reconecta solo
+
+196
+00:06:49,794 --> 00:06:50,480
+cuando vuelve.
+
+197
+00:06:50,747 --> 00:06:52,960
+Si iniciaste sesión con una clave de
+
+198
+00:06:53,040 --> 00:06:55,040
+API, cámbiala por tu cuenta con barra
+
+199
+00:06:55,107 --> 00:06:55,520
+login.
+
+200
+00:06:55,840 --> 00:06:56,960
+Y recuerda:
+
+201
+00:06:57,020 --> 00:06:59,360
+con el plan gratuito no hay Claude
+
+202
+00:06:59,440 --> 00:06:59,920
+Code.
+
+203
+00:07:00,320 --> 00:07:01,600
+¿Para qué te sirve en la oficina?
+
+204
+00:07:01,632 --> 00:07:04,240
+Para generar reportes, correr tus programas de
+
+205
+00:07:04,343 --> 00:07:07,280
+Python, limpiar un archivo que te llegó
+
+206
+00:07:07,380 --> 00:07:10,000
+desordenado, resumir un documento
+
+207
+00:07:10,080 --> 00:07:12,240
+largo, o revisar por qué una hoja
+
+208
+00:07:12,267 --> 00:07:14,800
+de Excel da resultados raros.
+
+209
+00:07:14,880 --> 00:07:16,880
+Imagina que estás en una reunión y
+
+210
+00:07:16,933 --> 00:07:18,400
+te piden un dato:
+
+211
+00:07:18,427 --> 00:07:20,080
+le pides a Claude que lo calcule
+
+212
+00:07:20,100 --> 00:07:22,160
+con tus archivos, y en un minuto
+
+213
+00:07:22,267 --> 00:07:23,600
+lo tienes en el celular.
+
+214
+00:07:24,218 --> 00:07:26,965
+Si no lo aprendes ahora, te extingues:
+
+215
+00:07:26,985 --> 00:07:28,885
+los que trabajan con agentes van a
+
+216
+00:07:28,933 --> 00:07:29,925
+rendir el doble.
+
+217
+00:07:30,325 --> 00:07:30,965
+En resumen:
+
+218
+00:07:31,056 --> 00:07:33,765
+Claude Code sigue corriendo en tu computador,
+
+219
+00:07:33,845 --> 00:07:35,045
+con tus archivos.
+
+220
+00:07:35,258 --> 00:07:38,085
+Escribes barra r c, escaneas el
+
+221
+00:07:38,352 --> 00:07:40,245
+QR o entras a Code en la
+
+222
+00:07:40,325 --> 00:07:41,845
+app, y listo.
+
+223
+00:07:41,965 --> 00:07:44,565
+Y tú decides qué puede hacer, con
+
+224
+00:07:44,585 --> 00:07:47,445
+los modos de permisos y las notificaciones.
+
+225
+00:07:47,845 --> 00:07:50,405
+Si quieres plantillas de Excel listas para
+
+226
+00:07:50,485 --> 00:07:53,445
+usar, visita mi página edwinortiz
+
+227
+00:07:53,498 --> 00:07:55,685
+punto net y entra a la tienda;
+
+228
+00:07:55,872 --> 00:07:57,685
+te dejo el enlace abajo.
+
+229
+00:07:58,032 --> 00:08:00,645
+En el próximo video volvemos a
+
+230
+00:08:00,712 --> 00:08:01,765
+Excel:
+
+231
+00:08:01,825 --> 00:08:04,405
+vas a crear etiquetas de inventario con
+
+232
+00:08:04,485 --> 00:08:06,565
+código QR y código de
+
+233
+00:08:06,629 --> 00:08:08,725
+barras, en segundos.
+
+234
+00:08:08,945 --> 00:08:11,605
+Suscríbete para no perdértelo.
+
+235
+00:08:12,277 --> 00:08:14,570
+El poder de la tecnología te va
+
+236
+00:08:14,610 --> 00:08:15,850
+a cambiar el mundo.

@@ -1,0 +1,280 @@
+{
+  "num": "05",
+  "titulo": "¿Qué es Power Query?",
+  "texto": "Entonces, ¿qué es? Piensa en Power Query como una grabadora de pasos. Primero obtiene los datos, de un archivo, una carpeta o una página web. Después los transforma: limpia, divide y une. Y al final los carga en una hoja. Lo mejor es que recuerda cada paso que hiciste, para repetirlo cuantas veces quieras.",
+  "texto_tts": "Entonces, ¿qué es? Piensa en Power Query como una grabadora de pasos. Primero obtiene los datos, de un archivo, una carpeta o una página web. Después los transforma: limpia, divide y une. Y al final los carga en una hoja. Lo mejor es que recuerda cada paso que hiciste, para repetirlo cuantas veces quieras.",
+  "modelo": "eleven_v3",
+  "duracion": 26.16,
+  "palabras": [
+    {
+      "texto": "Entonces,",
+      "inicio": 0.0,
+      "fin": 0.48
+    },
+    {
+      "texto": "¿qué",
+      "inicio": 0.52,
+      "fin": 0.64
+    },
+    {
+      "texto": "es?",
+      "inicio": 0.773,
+      "fin": 1.32
+    },
+    {
+      "texto": "Piensa",
+      "inicio": 1.413,
+      "fin": 2.0
+    },
+    {
+      "texto": "en",
+      "inicio": 2.08,
+      "fin": 2.24
+    },
+    {
+      "texto": "Power",
+      "inicio": 2.307,
+      "fin": 2.64
+    },
+    {
+      "texto": "Query",
+      "inicio": 2.72,
+      "fin": 3.12
+    },
+    {
+      "texto": "como",
+      "inicio": 3.168,
+      "fin": 3.36
+    },
+    {
+      "texto": "una",
+      "inicio": 3.4,
+      "fin": 3.52
+    },
+    {
+      "texto": "grabadora",
+      "inicio": 3.584,
+      "fin": 4.24
+    },
+    {
+      "texto": "de",
+      "inicio": 4.267,
+      "fin": 4.32
+    },
+    {
+      "texto": "pasos.",
+      "inicio": 4.42,
+      "fin": 5.12
+    },
+    {
+      "texto": "Primero",
+      "inicio": 5.408,
+      "fin": 6.72
+    },
+    {
+      "texto": "obtiene",
+      "inicio": 6.86,
+      "fin": 7.44
+    },
+    {
+      "texto": "los",
+      "inicio": 7.5,
+      "fin": 7.68
+    },
+    {
+      "texto": "datos,",
+      "inicio": 7.747,
+      "fin": 8.24
+    },
+    {
+      "texto": "de",
+      "inicio": 8.267,
+      "fin": 8.32
+    },
+    {
+      "texto": "un",
+      "inicio": 8.347,
+      "fin": 8.4
+    },
+    {
+      "texto": "archivo,",
+      "inicio": 8.46,
+      "fin": 8.96
+    },
+    {
+      "texto": "una",
+      "inicio": 9.0,
+      "fin": 9.12
+    },
+    {
+      "texto": "carpeta",
+      "inicio": 9.184,
+      "fin": 9.76
+    },
+    {
+      "texto": "o",
+      "inicio": 9.88,
+      "fin": 10.0
+    },
+    {
+      "texto": "una",
+      "inicio": 10.04,
+      "fin": 10.16
+    },
+    {
+      "texto": "página",
+      "inicio": 10.217,
+      "fin": 10.56
+    },
+    {
+      "texto": "web.",
+      "inicio": 10.62,
+      "fin": 11.4
+    },
+    {
+      "texto": "Después",
+      "inicio": 11.55,
+      "fin": 12.32
+    },
+    {
+      "texto": "los",
+      "inicio": 12.38,
+      "fin": 12.56
+    },
+    {
+      "texto": "transforma:",
+      "inicio": 12.624,
+      "fin": 13.36
+    },
+    {
+      "texto": "limpia,",
+      "inicio": 13.584,
+      "fin": 14.8
+    },
+    {
+      "texto": "divide",
+      "inicio": 14.891,
+      "fin": 15.44
+    },
+    {
+      "texto": "y",
+      "inicio": 15.56,
+      "fin": 15.68
+    },
+    {
+      "texto": "une.",
+      "inicio": 15.78,
+      "fin": 16.16
+    },
+    {
+      "texto": "Y",
+      "inicio": 16.44,
+      "fin": 16.72
+    },
+    {
+      "texto": "al",
+      "inicio": 16.773,
+      "fin": 16.88
+    },
+    {
+      "texto": "final",
+      "inicio": 16.96,
+      "fin": 17.36
+    },
+    {
+      "texto": "los",
+      "inicio": 17.48,
+      "fin": 17.84
+    },
+    {
+      "texto": "carga",
+      "inicio": 17.92,
+      "fin": 18.32
+    },
+    {
+      "texto": "en",
+      "inicio": 18.347,
+      "fin": 18.4
+    },
+    {
+      "texto": "una",
+      "inicio": 18.44,
+      "fin": 18.56
+    },
+    {
+      "texto": "hoja.",
+      "inicio": 18.613,
+      "fin": 18.96
+    },
+    {
+      "texto": "Lo",
+      "inicio": 19.36,
+      "fin": 20.16
+    },
+    {
+      "texto": "mejor",
+      "inicio": 20.24,
+      "fin": 20.64
+    },
+    {
+      "texto": "es",
+      "inicio": 20.747,
+      "fin": 20.96
+    },
+    {
+      "texto": "que",
+      "inicio": 21.0,
+      "fin": 21.12
+    },
+    {
+      "texto": "recuerda",
+      "inicio": 21.18,
+      "fin": 21.68
+    },
+    {
+      "texto": "cada",
+      "inicio": 21.76,
+      "fin": 22.08
+    },
+    {
+      "texto": "paso",
+      "inicio": 22.144,
+      "fin": 22.4
+    },
+    {
+      "texto": "que",
+      "inicio": 22.44,
+      "fin": 22.56
+    },
+    {
+      "texto": "hiciste,",
+      "inicio": 22.6,
+      "fin": 23.68
+    },
+    {
+      "texto": "para",
+      "inicio": 23.728,
+      "fin": 23.92
+    },
+    {
+      "texto": "repetirlo",
+      "inicio": 23.973,
+      "fin": 24.56
+    },
+    {
+      "texto": "cuantas",
+      "inicio": 24.667,
+      "fin": 25.2
+    },
+    {
+      "texto": "veces",
+      "inicio": 25.253,
+      "fin": 25.52
+    },
+    {
+      "texto": "quieras.",
+      "inicio": 25.573,
+      "fin": 26.16
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "num": "08",
+  "titulo": "El resultado",
+  "texto": "Permito, y listo: siete gastos, con formato de moneda. El total bajó a setecientos veinticinco mil. Y aquí va mi consejo de siempre: compruébalo. Setecientos setenta mil, menos el taxi repetido de cuarenta y cinco mil, da setecientos veinticinco mil. Cuadra.",
+  "texto_tts": "Permito, y listo: siete gastos, con formato de moneda. El total bajó a setecientos veinticinco mil. Y aquí va mi consejo de siempre: compruébalo. Setecientos setenta mil, menos el taxi repetido de cuarenta y cinco mil, da setecientos veinticinco mil. Cuadra.",
+  "modelo": "eleven_v3",
+  "duracion": 26.4,
+  "palabras": [
+    {
+      "texto": "Permito,",
+      "inicio": 0.0,
+      "fin": 0.68
+    },
+    {
+      "texto": "y",
+      "inicio": 0.74,
+      "fin": 0.8
+    },
+    {
+      "texto": "listo:",
+      "inicio": 0.864,
+      "fin": 1.28
+    },
+    {
+      "texto": "siete",
+      "inicio": 1.32,
+      "fin": 1.6
+    },
+    {
+      "texto": "gastos,",
+      "inicio": 1.64,
+      "fin": 2.16
+    },
+    {
+      "texto": "con",
+      "inicio": 2.2,
+      "fin": 2.32
+    },
+    {
+      "texto": "formato",
+      "inicio": 2.39,
+      "fin": 2.88
+    },
+    {
+      "texto": "de",
+      "inicio": 2.907,
+      "fin": 2.96
+    },
+    {
+      "texto": "moneda.",
+      "inicio": 3.02,
+      "fin": 3.52
+    },
+    {
+      "texto": "El",
+      "inicio": 3.867,
+      "fin": 4.56
+    },
+    {
+      "texto": "total",
+      "inicio": 4.64,
+      "fin": 5.04
+    },
+    {
+      "texto": "bajó",
+      "inicio": 5.24,
+      "fin": 6.0
+    },
+    {
+      "texto": "a",
+      "inicio": 6.28,
+      "fin": 6.56
+    },
+    {
+      "texto": "setecientos",
+      "inicio": 6.68,
+      "fin": 7.76
+    },
+    {
+      "texto": "veinticinco",
+      "inicio": 7.893,
+      "fin": 8.88
+    },
+    {
+      "texto": "mil.",
+      "inicio": 8.98,
+      "fin": 9.36
+    },
+    {
+      "texto": "Y",
+      "inicio": 9.92,
+      "fin": 10.48
+    },
+    {
+      "texto": "aquí",
+      "inicio": 10.528,
+      "fin": 10.72
+    },
+    {
+      "texto": "va",
+      "inicio": 10.773,
+      "fin": 10.88
+    },
+    {
+      "texto": "mi",
+      "inicio": 10.987,
+      "fin": 11.2
+    },
+    {
+      "texto": "consejo",
+      "inicio": 11.267,
+      "fin": 11.76
+    },
+    {
+      "texto": "de",
+      "inicio": 11.787,
+      "fin": 11.84
+    },
+    {
+      "texto": "siempre:",
+      "inicio": 11.92,
+      "fin": 13.04
+    },
+    {
+      "texto": "compruébalo.",
+      "inicio": 13.107,
+      "fin": 13.92
+    },
+    {
+      "texto": "Setecientos",
+      "inicio": 14.26,
+      "fin": 15.84
+    },
+    {
+      "texto": "setenta",
+      "inicio": 15.88,
+      "fin": 16.32
+    },
+    {
+      "texto": "mil,",
+      "inicio": 16.38,
+      "fin": 16.72
+    },
+    {
+      "texto": "menos",
+      "inicio": 16.893,
+      "fin": 17.76
+    },
+    {
+      "texto": "el",
+      "inicio": 17.84,
+      "fin": 18.0
+    },
+    {
+      "texto": "taxi",
+      "inicio": 18.08,
+      "fin": 18.4
+    },
+    {
+      "texto": "repetido",
+      "inicio": 18.467,
+      "fin": 18.96
+    },
+    {
+      "texto": "de",
+      "inicio": 18.987,
+      "fin": 19.04
+    },
+    {
+      "texto": "cuarenta",
+      "inicio": 19.093,
+      "fin": 19.56
+    },
+    {
+      "texto": "y",
+      "inicio": 19.62,
+      "fin": 19.68
+    },
+    {
+      "texto": "cinco",
+      "inicio": 19.733,
+      "fin": 20.0
+    },
+    {
+      "texto": "mil,",
+      "inicio": 20.06,
+      "fin": 20.48
+    },
+    {
+      "texto": "da",
+      "inicio": 20.773,
+      "fin": 21.36
+    },
+    {
+      "texto": "setecientos",
+      "inicio": 21.46,
+      "fin": 22.32
+    },
+    {
+      "texto": "veinticinco",
+      "inicio": 22.427,
+      "fin": 23.28
+    },
+    {
+      "texto": "mil.",
+      "inicio": 23.38,
+      "fin": 24.28
+    },
+    {
+      "texto": "Cuadra.",
+      "inicio": 24.48,
+      "fin": 26.4
+    }
+  ]
+}

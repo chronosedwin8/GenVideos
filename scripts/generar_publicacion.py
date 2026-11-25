@@ -46,6 +46,10 @@ def main():
         partes.append("Fuentes\n" + "\n".join(d["fuentes"]))
     partes.append("La voz de este video es la voz de Edwin, clonada con inteligencia artificial (ElevenLabs).")
     partes.append(d.get("cierre", "Vamos en busca del poder tecnológico. 🚀") + "\n" + " ".join(d.get("hashtags", [])))
+    # Texto fijo del canal (enlaces a web, tienda, aula y redes) si existe: plantillas/pie-descripcion-<canal>.txt
+    pie = RAIZ / "plantillas" / f"pie-descripcion-{canal}.txt"
+    if pie.exists():
+        partes.append(pie.read_text(encoding="utf-8").strip())
     descripcion = "\n\n".join(partes)
     if len(descripcion) > 5000:
         sys.exit(f"La descripción tiene {len(descripcion)} caracteres (máximo 5000).")

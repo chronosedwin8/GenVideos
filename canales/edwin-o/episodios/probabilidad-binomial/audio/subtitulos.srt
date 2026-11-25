@@ -1,0 +1,967 @@
+1
+00:00:00,067 --> 00:00:02,080
+En el Mundial dos mil veintiséis se
+
+2
+00:00:02,144 --> 00:00:04,400
+falló uno de cada tres penales.
+
+3
+00:00:04,780 --> 00:00:07,440
+Entonces, ¿qué probabilidad tiene un
+
+4
+00:00:07,497 --> 00:00:09,360
+equipo de meter los cinco penales de
+
+5
+00:00:09,400 --> 00:00:10,000
+una tanda?
+
+6
+00:00:10,384 --> 00:00:13,120
+Mucha gente dice "sesenta y
+
+7
+00:00:13,173 --> 00:00:14,239
+cinco por ciento".
+
+8
+00:00:14,481 --> 00:00:14,808
+Error.
+
+9
+00:00:15,048 --> 00:00:17,848
+Es once coma seis por ciento.
+
+10
+00:00:18,408 --> 00:00:20,568
+Y te voy a mostrar cómo calcularlo
+
+11
+00:00:20,595 --> 00:00:21,368
+en un segundo.
+
+12
+00:00:21,948 --> 00:00:23,768
+¡Bienvenidos, amigos del canal!
+
+13
+00:00:24,008 --> 00:00:26,168
+Vamos en busca del poder
+
+14
+00:00:26,216 --> 00:00:27,528
+tecnológico.
+
+15
+00:00:27,668 --> 00:00:30,328
+Hoy aprendes a calcular la
+
+16
+00:00:30,392 --> 00:00:32,568
+probabilidad binomial al
+
+17
+00:00:32,616 --> 00:00:33,768
+instante.
+
+18
+00:00:33,908 --> 00:00:36,408
+Vas a saber cuándo se usa,
+
+19
+00:00:36,616 --> 00:00:39,448
+cómo calcularla en Excel con una sola
+
+20
+00:00:39,518 --> 00:00:42,168
+función, cómo resolver el
+
+21
+00:00:42,208 --> 00:00:44,888
+misterio de un proveedor sospechoso,
+
+22
+00:00:45,128 --> 00:00:47,528
+y cómo hacerlo en Python.
+
+23
+00:00:47,928 --> 00:00:49,208
+El dato es real.
+
+24
+00:00:49,288 --> 00:00:52,008
+Según Prensa Latina, a mitad del Mundial
+
+25
+00:00:52,048 --> 00:00:54,488
+dos mil veintiséis, se habían cobrado
+
+26
+00:00:54,608 --> 00:00:57,528
+sesenta penales, entre los del partido y
+
+27
+00:00:57,568 --> 00:00:59,448
+los de las tandas, y se habían
+
+28
+00:00:59,480 --> 00:01:00,728
+fallado veintiuno.
+
+29
+00:01:00,915 --> 00:01:02,968
+Un treinta y cinco por ciento.
+
+30
+00:01:03,288 --> 00:01:06,248
+O sea, en ese momento, la probabilidad
+
+31
+00:01:06,275 --> 00:01:08,248
+de meter un penal era del sesenta
+
+32
+00:01:08,328 --> 00:01:09,448
+y cinco por ciento.
+
+33
+00:01:09,848 --> 00:01:11,928
+Yo soy licenciado en Matemáticas y
+
+34
+00:01:11,968 --> 00:01:14,568
+Física, y te confieso algo:
+
+35
+00:01:14,861 --> 00:01:17,208
+en el aula, la distribución
+
+36
+00:01:17,268 --> 00:01:19,528
+binomial es el tema que más
+
+37
+00:01:19,635 --> 00:01:20,328
+asusta.
+
+38
+00:01:20,552 --> 00:01:23,528
+Muchas fórmulas, factoriales,
+
+39
+00:01:23,574 --> 00:01:24,648
+combinaciones.
+
+40
+00:01:24,872 --> 00:01:27,208
+Pero es de lo que más sirve
+
+41
+00:01:27,261 --> 00:01:28,648
+en el trabajo.
+
+42
+00:01:28,928 --> 00:01:30,888
+Y la buena noticia es que con
+
+43
+00:01:30,995 --> 00:01:33,368
+Excel no tienes que hacer ni una
+
+44
+00:01:33,471 --> 00:01:34,728
+cuenta a mano.
+
+45
+00:01:35,128 --> 00:01:36,728
+Primero, ¿cuándo se usa?
+
+46
+00:01:36,877 --> 00:01:38,968
+Cuando se cumplen cuatro
+
+47
+00:01:39,041 --> 00:01:40,008
+condiciones.
+
+48
+00:01:40,328 --> 00:01:43,048
+Un número fijo de intentos:
+
+49
+00:01:43,168 --> 00:01:44,408
+cinco penales.
+
+50
+00:01:44,712 --> 00:01:47,048
+Solo dos resultados
+
+51
+00:01:47,128 --> 00:01:48,008
+posibles:
+
+52
+00:01:48,168 --> 00:01:49,689
+gol o no gol.
+
+53
+00:01:50,168 --> 00:01:52,888
+La misma probabilidad en cada
+
+54
+00:01:52,979 --> 00:01:54,008
+intento:
+
+55
+00:01:54,048 --> 00:01:55,608
+sesenta y cinco por ciento.
+
+56
+00:01:56,088 --> 00:01:58,648
+Y que un intento no afecte al
+
+57
+00:01:58,712 --> 00:01:59,048
+otro.
+
+58
+00:01:59,448 --> 00:02:02,248
+Si se cumplen las cuatro, es
+
+59
+00:02:02,288 --> 00:02:02,888
+binomial.
+
+60
+00:02:03,288 --> 00:02:04,488
+La función es
+
+61
+00:02:04,728 --> 00:02:07,048
+DISTR punto
+
+62
+00:02:07,168 --> 00:02:09,928
+BINOM punto N, y
+
+63
+00:02:09,995 --> 00:02:12,008
+tiene cuatro argumentos.
+
+64
+00:02:12,221 --> 00:02:15,208
+El número de éxitos que te interesa.
+
+65
+00:02:15,395 --> 00:02:17,208
+El número de intentos.
+
+66
+00:02:17,581 --> 00:02:20,248
+La probabilidad de éxito de cada
+
+67
+00:02:20,317 --> 00:02:20,968
+intento.
+
+68
+00:02:21,248 --> 00:02:23,208
+Y el último, el más importante:
+
+69
+00:02:23,408 --> 00:02:26,008
+FALSO, si quieres la probabilidad de
+
+70
+00:02:26,115 --> 00:02:28,408
+exactamente ese número, y
+
+71
+00:02:28,488 --> 00:02:31,288
+VERDADERO, si quieres "como máximo"
+
+72
+00:02:31,348 --> 00:02:31,928
+ese número.
+
+73
+00:02:32,328 --> 00:02:33,128
+Paso uno:
+
+74
+00:02:33,328 --> 00:02:35,688
+los cinco penales.
+
+75
+00:02:35,928 --> 00:02:38,488
+En una celda escribe igual,
+
+76
+00:02:38,728 --> 00:02:41,048
+DISTR punto
+
+77
+00:02:41,248 --> 00:02:43,688
+BINOM punto N.
+
+78
+00:02:44,048 --> 00:02:46,648
+Cinco éxitos, punto y
+
+79
+00:02:46,728 --> 00:02:49,488
+coma, cinco intentos,
+
+80
+00:02:49,535 --> 00:02:51,928
+punto y coma, cero coma
+
+81
+00:02:52,048 --> 00:02:54,569
+sesenta y cinco, punto y coma,
+
+82
+00:02:54,888 --> 00:02:55,928
+FALSO.
+
+83
+00:02:56,141 --> 00:02:58,968
+Enter, y dale formato de
+
+84
+00:02:59,028 --> 00:03:00,408
+porcentaje:
+
+85
+00:03:00,504 --> 00:03:02,488
+once coma seis por ciento.
+
+86
+00:03:02,768 --> 00:03:05,768
+Meter los cinco es mucho
+
+87
+00:03:05,808 --> 00:03:07,448
+más difícil de lo que parece.
+
+88
+00:03:07,848 --> 00:03:08,808
+¿Por qué tan bajo?
+
+89
+00:03:08,868 --> 00:03:11,128
+Porque cada penal tiene que entrar, uno
+
+90
+00:03:11,192 --> 00:03:12,328
+tras otro:
+
+91
+00:03:12,368 --> 00:03:14,328
+cero coma sesenta y cinco, por cero
+
+92
+00:03:14,392 --> 00:03:17,368
+coma sesenta y cinco, cinco veces.
+
+93
+00:03:17,648 --> 00:03:19,928
+Y aunque el acierto fuera del setenta
+
+94
+00:03:20,008 --> 00:03:22,568
+y cinco por ciento, la probabilidad de
+
+95
+00:03:22,621 --> 00:03:25,368
+meter los cinco apenas llegaría al veintitrés
+
+96
+00:03:25,432 --> 00:03:27,368
+coma siete por ciento.
+
+97
+00:03:27,388 --> 00:03:29,608
+Por eso las tandas son tan dramáticas.
+
+98
+00:03:30,008 --> 00:03:30,808
+Paso dos:
+
+99
+00:03:31,088 --> 00:03:33,128
+¿y si me basta con meter al
+
+100
+00:03:33,181 --> 00:03:34,008
+menos cuatro?
+
+101
+00:03:34,184 --> 00:03:36,808
+Para un rango de éxitos usa
+
+102
+00:03:37,168 --> 00:03:40,088
+DISTR punto BINOM
+
+103
+00:03:40,168 --> 00:03:41,448
+punto SERIE.
+
+104
+00:03:41,728 --> 00:03:43,928
+Ojo, que el orden cambia:
+
+105
+00:03:43,998 --> 00:03:46,408
+primero los intentos, cinco;
+
+106
+00:03:46,555 --> 00:03:49,448
+luego la probabilidad; y al final el
+
+107
+00:03:49,528 --> 00:03:51,848
+rango, de cuatro a cinco.
+
+108
+00:03:51,985 --> 00:03:53,208
+Resultado:
+
+109
+00:03:53,395 --> 00:03:56,008
+cuarenta y dos coma ocho por ciento.
+
+110
+00:03:56,408 --> 00:03:57,128
+Paso tres:
+
+111
+00:03:57,315 --> 00:03:59,848
+la tabla completa, con una sola
+
+112
+00:03:59,888 --> 00:04:00,808
+fórmula.
+
+113
+00:04:00,908 --> 00:04:03,448
+Con SECUENCIA genero los números de cero
+
+114
+00:04:03,488 --> 00:04:05,528
+a cinco, y se los paso a
+
+115
+00:04:05,608 --> 00:04:08,008
+DISTR punto BINOM punto N.
+
+116
+00:04:08,208 --> 00:04:11,128
+Excel calcula todas las probabilidades de
+
+117
+00:04:11,188 --> 00:04:11,768
+golpe.
+
+118
+00:04:11,908 --> 00:04:14,328
+Haz un gráfico de columnas, y verás
+
+119
+00:04:14,388 --> 00:04:16,328
+que lo más probable es meter tres
+
+120
+00:04:16,408 --> 00:04:17,528
+goles:
+
+121
+00:04:17,548 --> 00:04:19,448
+treinta y tres coma seis por ciento.
+
+122
+00:04:19,848 --> 00:04:20,808
+Ahora, un misterio.
+
+123
+00:04:21,021 --> 00:04:23,848
+Tu proveedor jura que solo el cinco
+
+124
+00:04:23,888 --> 00:04:26,448
+por ciento de sus piezas sale defectuoso.
+
+125
+00:04:26,708 --> 00:04:29,688
+Llega un lote de veinte piezas… y
+
+126
+00:04:29,755 --> 00:04:31,048
+cinco están dañadas.
+
+127
+00:04:31,395 --> 00:04:33,128
+El proveedor dice:
+
+128
+00:04:33,208 --> 00:04:34,248
+"fue mala suerte".
+
+129
+00:04:34,528 --> 00:04:36,208
+¿Le crees?
+
+130
+00:04:36,344 --> 00:04:38,648
+Como buen analista de datos, no
+
+131
+00:04:38,744 --> 00:04:39,848
+opinas:
+
+132
+00:04:39,905 --> 00:04:40,568
+calculas.
+
+133
+00:04:40,968 --> 00:04:41,928
+La pregunta es:
+
+134
+00:04:42,035 --> 00:04:44,408
+si fuera cierto el cinco por ciento,
+
+135
+00:04:44,808 --> 00:04:47,448
+¿qué probabilidad hay de encontrar cinco o
+
+136
+00:04:47,508 --> 00:04:48,728
+más defectuosas?
+
+137
+00:04:48,911 --> 00:04:51,888
+Calculamos "como máximo cuatro"
+
+138
+00:04:51,918 --> 00:04:54,168
+con VERDADERO, y se lo restamos a
+
+139
+00:04:54,248 --> 00:04:54,568
+uno.
+
+140
+00:04:54,717 --> 00:04:56,088
+Resultado:
+
+141
+00:04:56,368 --> 00:04:58,728
+cero coma veintiséis por ciento.
+
+142
+00:04:59,008 --> 00:05:02,008
+Más o menos una vez cada trescientos
+
+143
+00:05:02,068 --> 00:05:03,448
+ochenta y nueve lotes.
+
+144
+00:05:03,808 --> 00:05:06,168
+O sea, tendrías que recibir
+
+145
+00:05:06,368 --> 00:05:08,888
+cientos de lotes para que te pasara
+
+146
+00:05:09,028 --> 00:05:10,328
+una sola vez.
+
+147
+00:05:11,510 --> 00:05:13,288
+No es mala suerte:
+
+148
+00:05:13,368 --> 00:05:15,288
+es casi imposible.
+
+149
+00:05:15,488 --> 00:05:16,968
+Hay que reclamar.
+
+150
+00:05:17,368 --> 00:05:18,968
+Apréndete este truco, que es el que
+
+151
+00:05:19,008 --> 00:05:20,488
+más se usa:
+
+152
+00:05:20,528 --> 00:05:22,808
+"al menos cinco" es igual a uno,
+
+153
+00:05:22,915 --> 00:05:25,128
+menos "como máximo cuatro".
+
+154
+00:05:25,208 --> 00:05:27,448
+Por eso pusimos cuatro y no cinco.
+
+155
+00:05:27,728 --> 00:05:29,368
+Y si prefieres no restar,
+
+156
+00:05:29,728 --> 00:05:32,088
+DISTR punto
+
+157
+00:05:32,208 --> 00:05:35,208
+BINOM punto SERIE de cinco a veinte
+
+158
+00:05:35,395 --> 00:05:38,008
+da exactamente lo mismo:
+
+159
+00:05:38,048 --> 00:05:40,248
+cero coma veintiséis por ciento.
+
+160
+00:05:40,648 --> 00:05:42,488
+Para comparar, ¿qué sería lo normal?
+
+161
+00:05:42,688 --> 00:05:45,128
+Con un cinco por ciento real, lo
+
+162
+00:05:45,188 --> 00:05:46,888
+más probable es encontrar cero
+
+163
+00:05:46,945 --> 00:05:49,768
+defectuosas, treinta y cinco coma
+
+164
+00:05:49,848 --> 00:05:52,648
+ocho por ciento, o una, treinta y
+
+165
+00:05:52,688 --> 00:05:53,768
+siete coma siete.
+
+166
+00:05:54,288 --> 00:05:57,048
+Y dos o menos pasa el noventa
+
+167
+00:05:57,128 --> 00:05:58,488
+y dos coma cinco por ciento de
+
+168
+00:05:58,508 --> 00:05:59,128
+las veces.
+
+169
+00:05:59,328 --> 00:06:02,008
+Cinco está muy, muy lejos de lo
+
+170
+00:06:02,077 --> 00:06:02,568
+normal.
+
+171
+00:06:02,968 --> 00:06:05,928
+Y esto conecta con el video del
+
+172
+00:06:06,008 --> 00:06:08,648
+duelo entre ChatGPT y Claude.
+
+173
+00:06:08,948 --> 00:06:11,848
+Supón que una inteligencia artificial
+
+174
+00:06:11,955 --> 00:06:13,928
+acierta el noventa por ciento de las
+
+175
+00:06:14,008 --> 00:06:15,448
+fórmulas que le pides.
+
+176
+00:06:15,928 --> 00:06:18,408
+¿Qué probabilidad hay de que te dé
+
+177
+00:06:18,468 --> 00:06:21,048
+diez fórmulas seguidas todas buenas?
+
+178
+00:06:21,336 --> 00:06:24,168
+Solo treinta y cuatro coma nueve
+
+179
+00:06:24,228 --> 00:06:25,448
+por ciento.
+
+180
+00:06:25,568 --> 00:06:28,408
+Por eso siempre hay que verificar.
+
+181
+00:06:28,808 --> 00:06:30,408
+¿Dónde la usa un analista de datos
+
+182
+00:06:30,461 --> 00:06:31,288
+en la vida real?
+
+183
+00:06:31,421 --> 00:06:33,288
+En control de calidad, como el caso
+
+184
+00:06:33,328 --> 00:06:34,088
+del proveedor.
+
+185
+00:06:34,301 --> 00:06:35,608
+En campañas:
+
+186
+00:06:35,795 --> 00:06:38,568
+si mandas doscientos correos y cada uno
+
+187
+00:06:38,608 --> 00:06:41,528
+tiene cierta probabilidad de respuesta, la binomial
+
+188
+00:06:41,581 --> 00:06:43,928
+te dice qué resultado es normal y
+
+189
+00:06:43,981 --> 00:06:45,528
+cuál es una señal de alarma.
+
+190
+00:06:45,795 --> 00:06:48,328
+En ventas por llamadas, en pruebas A
+
+191
+00:06:48,488 --> 00:06:51,368
+B, en ausentismo… En todos los
+
+192
+00:06:51,421 --> 00:06:52,968
+casos, la pregunta es la misma:
+
+193
+00:06:53,128 --> 00:06:55,528
+¿esto es normal, o está pasando algo?
+
+194
+00:06:55,928 --> 00:06:56,648
+¿Y en Python?
+
+195
+00:06:56,755 --> 00:06:58,648
+Ni siquiera necesitas instalar nada.
+
+196
+00:06:58,748 --> 00:07:01,368
+Con comb, de la biblioteca math,
+
+197
+00:07:01,421 --> 00:07:03,288
+escribes la fórmula de la binomial en
+
+198
+00:07:03,328 --> 00:07:04,328
+una línea:
+
+199
+00:07:04,368 --> 00:07:06,808
+las combinaciones, por la probabilidad elevada a
+
+200
+00:07:06,848 --> 00:07:09,448
+los éxitos, por la probabilidad contraria elevada
+
+201
+00:07:09,488 --> 00:07:10,328
+a los fracasos.
+
+202
+00:07:10,595 --> 00:07:13,448
+Lo ejecuto… y salen los mismos
+
+203
+00:07:13,512 --> 00:07:14,968
+tres resultados que en Excel.
+
+204
+00:07:15,368 --> 00:07:18,088
+Si te da curiosidad qué hay detrás:
+
+205
+00:07:18,128 --> 00:07:20,728
+COMBINAT de cinco en tres da diez.
+
+206
+00:07:20,928 --> 00:07:23,768
+Son las diez formas distintas de meter
+
+207
+00:07:23,816 --> 00:07:25,128
+tres penales de cinco.
+
+208
+00:07:25,608 --> 00:07:27,208
+Cada forma tiene su
+
+209
+00:07:27,272 --> 00:07:30,248
+probabilidad, y la binomial las suma
+
+210
+00:07:30,328 --> 00:07:31,248
+todas.
+
+211
+00:07:31,508 --> 00:07:33,208
+Eso es lo que hace la función
+
+212
+00:07:33,268 --> 00:07:35,288
+por ti, en un instante.
+
+213
+00:07:35,688 --> 00:07:36,808
+Si no te funcionó:
+
+214
+00:07:36,888 --> 00:07:39,448
+numeral NUM casi siempre es porque
+
+215
+00:07:39,488 --> 00:07:41,928
+escribiste sesenta y cinco en lugar de
+
+216
+00:07:42,128 --> 00:07:44,648
+cero coma sesenta y cinco; la
+
+217
+00:07:44,696 --> 00:07:47,448
+probabilidad va entre cero y uno.
+
+218
+00:07:47,808 --> 00:07:50,408
+Numeral valor, hay un
+
+219
+00:07:50,501 --> 00:07:53,288
+texto donde debería ir un número.
+
+220
+00:07:53,568 --> 00:07:55,768
+Y si el resultado te parece raro,
+
+221
+00:07:55,835 --> 00:07:58,568
+revisa si pusiste FALSO o VERDADERO.
+
+222
+00:07:58,968 --> 00:07:59,688
+En resumen:
+
+223
+00:07:59,741 --> 00:08:02,488
+si hay intentos fijos, dos resultados, la
+
+224
+00:08:02,541 --> 00:08:04,568
+misma probabilidad y no se afectan entre
+
+225
+00:08:04,648 --> 00:08:05,768
+sí, es binomial.
+
+226
+00:08:06,168 --> 00:08:08,568
+FALSO es "exactamente",
+
+227
+00:08:08,708 --> 00:08:10,808
+VERDADERO es "como máximo".
+
+228
+00:08:11,048 --> 00:08:13,128
+Y "al menos" es uno menos el
+
+229
+00:08:13,192 --> 00:08:13,848
+acumulado.
+
+230
+00:08:14,790 --> 00:08:17,288
+Si no lo aprendes ahora, te extingues.
+
+231
+00:08:17,688 --> 00:08:19,368
+Si quieres plantillas de Excel y más
+
+232
+00:08:19,439 --> 00:08:22,328
+recursos, visita mi página, edwinortiz
+
+233
+00:08:22,381 --> 00:08:24,328
+punto net, y entra a la tienda;
+
+234
+00:08:24,381 --> 00:08:25,528
+el enlace está abajo.
+
+235
+00:08:25,901 --> 00:08:28,648
+En el próximo video volvemos a Power
+
+236
+00:08:28,715 --> 00:08:30,168
+Query, pero en serio:
+
+237
+00:08:30,328 --> 00:08:33,208
+lo dominas en diez minutos, con
+
+238
+00:08:33,268 --> 00:08:35,368
+diez movimientos que vas a usar toda
+
+239
+00:08:35,421 --> 00:08:35,928
+la vida.
+
+240
+00:08:36,088 --> 00:08:38,248
+Suscríbete para no perdértelo.
+
+241
+00:08:38,715 --> 00:08:40,568
+El poder de la tecnología te va
+
+242
+00:08:40,608 --> 00:08:41,608
+a cambiar el mundo.

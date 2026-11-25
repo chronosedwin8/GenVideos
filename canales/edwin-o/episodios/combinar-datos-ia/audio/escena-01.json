@@ -1,0 +1,280 @@
+{
+  "num": "01",
+  "titulo": "Gancho",
+  "texto": "Dos meses de ventas en hojas separadas, una lista de clientes aparte… y tu jefe quiere todo en una sola tabla, con el nombre y la ciudad de cada cliente. Con una frase bien escrita, la inteligencia artificial te da una fórmula que lo hace todo. Y de paso, descubre a un cliente fantasma.",
+  "texto_tts": "[curious] Dos meses de ventas en hojas separadas, una lista de clientes aparte… y tu jefe quiere todo en una sola tabla, con el nombre y la ciudad de cada cliente. Con una frase bien escrita, la inteligencia artificial te da una fórmula que lo hace todo. [excited] Y de paso, descubre a un cliente fantasma.",
+  "modelo": "eleven_v3",
+  "duracion": 22.88,
+  "palabras": [
+    {
+      "texto": "Dos",
+      "inicio": 0.14,
+      "fin": 0.16
+    },
+    {
+      "texto": "meses",
+      "inicio": 0.227,
+      "fin": 0.56
+    },
+    {
+      "texto": "de",
+      "inicio": 0.587,
+      "fin": 0.64
+    },
+    {
+      "texto": "ventas",
+      "inicio": 0.731,
+      "fin": 1.28
+    },
+    {
+      "texto": "en",
+      "inicio": 1.387,
+      "fin": 1.6
+    },
+    {
+      "texto": "hojas",
+      "inicio": 1.653,
+      "fin": 1.92
+    },
+    {
+      "texto": "separadas,",
+      "inicio": 1.973,
+      "fin": 2.8
+    },
+    {
+      "texto": "una",
+      "inicio": 2.96,
+      "fin": 3.44
+    },
+    {
+      "texto": "lista",
+      "inicio": 3.507,
+      "fin": 3.84
+    },
+    {
+      "texto": "de",
+      "inicio": 3.867,
+      "fin": 3.92
+    },
+    {
+      "texto": "clientes",
+      "inicio": 3.964,
+      "fin": 4.32
+    },
+    {
+      "texto": "aparte…",
+      "inicio": 4.4,
+      "fin": 5.04
+    },
+    {
+      "texto": "y",
+      "inicio": 5.32,
+      "fin": 5.6
+    },
+    {
+      "texto": "tu",
+      "inicio": 5.653,
+      "fin": 5.76
+    },
+    {
+      "texto": "jefe",
+      "inicio": 5.84,
+      "fin": 6.16
+    },
+    {
+      "texto": "quiere",
+      "inicio": 6.217,
+      "fin": 6.56
+    },
+    {
+      "texto": "todo",
+      "inicio": 6.656,
+      "fin": 7.04
+    },
+    {
+      "texto": "en",
+      "inicio": 7.147,
+      "fin": 7.36
+    },
+    {
+      "texto": "una",
+      "inicio": 7.42,
+      "fin": 7.6
+    },
+    {
+      "texto": "sola",
+      "inicio": 7.664,
+      "fin": 7.92
+    },
+    {
+      "texto": "tabla,",
+      "inicio": 7.987,
+      "fin": 8.48
+    },
+    {
+      "texto": "con",
+      "inicio": 8.62,
+      "fin": 9.04
+    },
+    {
+      "texto": "el",
+      "inicio": 9.093,
+      "fin": 9.2
+    },
+    {
+      "texto": "nombre",
+      "inicio": 9.269,
+      "fin": 9.68
+    },
+    {
+      "texto": "y",
+      "inicio": 9.84,
+      "fin": 10.0
+    },
+    {
+      "texto": "la",
+      "inicio": 10.053,
+      "fin": 10.16
+    },
+    {
+      "texto": "ciudad",
+      "inicio": 10.206,
+      "fin": 10.48
+    },
+    {
+      "texto": "de",
+      "inicio": 10.533,
+      "fin": 10.64
+    },
+    {
+      "texto": "cada",
+      "inicio": 10.688,
+      "fin": 10.88
+    },
+    {
+      "texto": "cliente.",
+      "inicio": 10.95,
+      "fin": 11.52
+    },
+    {
+      "texto": "Con",
+      "inicio": 11.86,
+      "fin": 12.88
+    },
+    {
+      "texto": "una",
+      "inicio": 12.92,
+      "fin": 13.04
+    },
+    {
+      "texto": "frase",
+      "inicio": 13.107,
+      "fin": 13.44
+    },
+    {
+      "texto": "bien",
+      "inicio": 13.472,
+      "fin": 13.6
+    },
+    {
+      "texto": "escrita,",
+      "inicio": 13.669,
+      "fin": 14.64
+    },
+    {
+      "texto": "la",
+      "inicio": 14.667,
+      "fin": 14.72
+    },
+    {
+      "texto": "inteligencia",
+      "inicio": 14.78,
+      "fin": 15.36
+    },
+    {
+      "texto": "artificial",
+      "inicio": 15.425,
+      "fin": 16.08
+    },
+    {
+      "texto": "te",
+      "inicio": 16.187,
+      "fin": 16.4
+    },
+    {
+      "texto": "da",
+      "inicio": 16.427,
+      "fin": 16.48
+    },
+    {
+      "texto": "una",
+      "inicio": 16.54,
+      "fin": 16.72
+    },
+    {
+      "texto": "fórmula",
+      "inicio": 16.76,
+      "fin": 17.28
+    },
+    {
+      "texto": "que",
+      "inicio": 17.36,
+      "fin": 17.6
+    },
+    {
+      "texto": "lo",
+      "inicio": 17.653,
+      "fin": 17.76
+    },
+    {
+      "texto": "hace",
+      "inicio": 17.808,
+      "fin": 18.0
+    },
+    {
+      "texto": "todo.",
+      "inicio": 18.064,
+      "fin": 18.48
+    },
+    {
+      "texto": "Y",
+      "inicio": 19.35,
+      "fin": 19.36
+    },
+    {
+      "texto": "de",
+      "inicio": 19.413,
+      "fin": 19.52
+    },
+    {
+      "texto": "paso,",
+      "inicio": 19.6,
+      "fin": 20.0
+    },
+    {
+      "texto": "descubre",
+      "inicio": 20.144,
+      "fin": 21.04
+    },
+    {
+      "texto": "a",
+      "inicio": 21.16,
+      "fin": 21.28
+    },
+    {
+      "texto": "un",
+      "inicio": 21.333,
+      "fin": 21.44
+    },
+    {
+      "texto": "cliente",
+      "inicio": 21.52,
+      "fin": 22.08
+    },
+    {
+      "texto": "fantasma.",
+      "inicio": 22.176,
+      "fin": 22.88
+    }
+  ]
+}

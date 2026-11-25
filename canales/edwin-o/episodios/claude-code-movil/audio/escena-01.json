@@ -1,0 +1,220 @@
+{
+  "num": "01",
+  "titulo": "Gancho",
+  "texto": "Estás en la calle, lejos de tu computador, y te piden doce reportes de Excel para ya. Sacas el celular, escribes una frase… y tu computador de la oficina hace todo el trabajo. Sin escritorio remoto, sin abrir puertos, sin magia negra.",
+  "texto_tts": "[excited] Estás en la calle, lejos de tu computador, y te piden doce reportes de Excel para ya. Sacas el celular, escribes una frase… y tu computador de la oficina hace todo el trabajo. Sin escritorio remoto, sin abrir puertos, sin magia negra.",
+  "modelo": "eleven_v3",
+  "duracion": 18.24,
+  "palabras": [
+    {
+      "texto": "Estás",
+      "inicio": 0.204,
+      "fin": 0.32
+    },
+    {
+      "texto": "en",
+      "inicio": 0.373,
+      "fin": 0.48
+    },
+    {
+      "texto": "la",
+      "inicio": 0.507,
+      "fin": 0.56
+    },
+    {
+      "texto": "calle,",
+      "inicio": 0.64,
+      "fin": 1.44
+    },
+    {
+      "texto": "lejos",
+      "inicio": 1.493,
+      "fin": 1.76
+    },
+    {
+      "texto": "de",
+      "inicio": 1.787,
+      "fin": 1.84
+    },
+    {
+      "texto": "tu",
+      "inicio": 1.893,
+      "fin": 2.0
+    },
+    {
+      "texto": "computador,",
+      "inicio": 2.057,
+      "fin": 3.12
+    },
+    {
+      "texto": "y",
+      "inicio": 3.16,
+      "fin": 3.2
+    },
+    {
+      "texto": "te",
+      "inicio": 3.253,
+      "fin": 3.36
+    },
+    {
+      "texto": "piden",
+      "inicio": 3.44,
+      "fin": 3.84
+    },
+    {
+      "texto": "doce",
+      "inicio": 3.973,
+      "fin": 4.32
+    },
+    {
+      "texto": "reportes",
+      "inicio": 4.4,
+      "fin": 4.96
+    },
+    {
+      "texto": "de",
+      "inicio": 4.987,
+      "fin": 5.04
+    },
+    {
+      "texto": "Excel",
+      "inicio": 5.107,
+      "fin": 5.44
+    },
+    {
+      "texto": "para",
+      "inicio": 5.52,
+      "fin": 5.84
+    },
+    {
+      "texto": "ya.",
+      "inicio": 5.947,
+      "fin": 6.24
+    },
+    {
+      "texto": "Sacas",
+      "inicio": 6.5,
+      "fin": 7.36
+    },
+    {
+      "texto": "el",
+      "inicio": 7.387,
+      "fin": 7.44
+    },
+    {
+      "texto": "celular,",
+      "inicio": 7.51,
+      "fin": 8.24
+    },
+    {
+      "texto": "escribes",
+      "inicio": 8.32,
+      "fin": 8.72
+    },
+    {
+      "texto": "una",
+      "inicio": 8.76,
+      "fin": 8.88
+    },
+    {
+      "texto": "frase…",
+      "inicio": 8.96,
+      "fin": 9.44
+    },
+    {
+      "texto": "y",
+      "inicio": 9.72,
+      "fin": 10.0
+    },
+    {
+      "texto": "tu",
+      "inicio": 10.053,
+      "fin": 10.16
+    },
+    {
+      "texto": "computador",
+      "inicio": 10.229,
+      "fin": 10.88
+    },
+    {
+      "texto": "de",
+      "inicio": 10.907,
+      "fin": 10.96
+    },
+    {
+      "texto": "la",
+      "inicio": 10.987,
+      "fin": 11.04
+    },
+    {
+      "texto": "oficina",
+      "inicio": 11.093,
+      "fin": 11.6
+    },
+    {
+      "texto": "hace",
+      "inicio": 11.696,
+      "fin": 12.08
+    },
+    {
+      "texto": "todo",
+      "inicio": 12.176,
+      "fin": 12.56
+    },
+    {
+      "texto": "el",
+      "inicio": 12.587,
+      "fin": 12.64
+    },
+    {
+      "texto": "trabajo.",
+      "inicio": 12.7,
+      "fin": 13.64
+    },
+    {
+      "texto": "Sin",
+      "inicio": 13.77,
+      "fin": 14.16
+    },
+    {
+      "texto": "escritorio",
+      "inicio": 14.217,
+      "fin": 14.72
+    },
+    {
+      "texto": "remoto,",
+      "inicio": 14.78,
+      "fin": 15.6
+    },
+    {
+      "texto": "sin",
+      "inicio": 15.66,
+      "fin": 15.84
+    },
+    {
+      "texto": "abrir",
+      "inicio": 15.893,
+      "fin": 16.16
+    },
+    {
+      "texto": "puertos,",
+      "inicio": 16.24,
+      "fin": 17.04
+    },
+    {
+      "texto": "sin",
+      "inicio": 17.1,
+      "fin": 17.28
+    },
+    {
+      "texto": "magia",
+      "inicio": 17.36,
+      "fin": 17.68
+    },
+    {
+      "texto": "negra.",
+      "inicio": 17.76,
+      "fin": 18.24
+    }
+  ]
+}

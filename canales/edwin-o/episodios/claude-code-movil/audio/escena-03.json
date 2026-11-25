@@ -1,0 +1,325 @@
+{
+  "num": "03",
+  "titulo": "El caso",
+  "texto": "Esto es nuevo. El veinticuatro de febrero de dos mil veintiséis, Anthropic anunció Remote Control como vista previa, primero para los planes Max y después para Pro. Hoy, según la documentación oficial, funciona en los planes Pro, Max, Ultra, Team y Enterprise. Y cambia la forma de trabajar: tu asistente de programación ya no depende de que estés sentado frente a la pantalla.",
+  "texto_tts": "Esto es nuevo. El veinticuatro de febrero de dos mil veintiséis, Anthropic anunció Remote Control como vista previa, primero para los planes Max y después para Pro. Hoy, según la documentación oficial, funciona en los planes Pro, Max, Ultra, Team y Enterprise. Y cambia la forma de trabajar: tu asistente de programación ya no depende de que estés sentado frente a la pantalla.",
+  "modelo": "eleven_v3",
+  "duracion": 34.24,
+  "palabras": [
+    {
+      "texto": "Esto",
+      "inicio": 0.0,
+      "fin": 0.24
+    },
+    {
+      "texto": "es",
+      "inicio": 0.267,
+      "fin": 0.32
+    },
+    {
+      "texto": "nuevo.",
+      "inicio": 0.373,
+      "fin": 0.72
+    },
+    {
+      "texto": "El",
+      "inicio": 1.093,
+      "fin": 1.84
+    },
+    {
+      "texto": "veinticuatro",
+      "inicio": 1.893,
+      "fin": 2.72
+    },
+    {
+      "texto": "de",
+      "inicio": 2.773,
+      "fin": 2.88
+    },
+    {
+      "texto": "febrero",
+      "inicio": 2.96,
+      "fin": 3.44
+    },
+    {
+      "texto": "de",
+      "inicio": 3.493,
+      "fin": 3.6
+    },
+    {
+      "texto": "dos",
+      "inicio": 3.64,
+      "fin": 3.76
+    },
+    {
+      "texto": "mil",
+      "inicio": 3.82,
+      "fin": 4.0
+    },
+    {
+      "texto": "veintiséis,",
+      "inicio": 4.053,
+      "fin": 5.2
+    },
+    {
+      "texto": "Anthropic",
+      "inicio": 5.312,
+      "fin": 6.16
+    },
+    {
+      "texto": "anunció",
+      "inicio": 6.24,
+      "fin": 6.88
+    },
+    {
+      "texto": "Remote",
+      "inicio": 7.006,
+      "fin": 7.76
+    },
+    {
+      "texto": "Control",
+      "inicio": 7.87,
+      "fin": 8.64
+    },
+    {
+      "texto": "como",
+      "inicio": 8.72,
+      "fin": 9.04
+    },
+    {
+      "texto": "vista",
+      "inicio": 9.12,
+      "fin": 9.52
+    },
+    {
+      "texto": "previa,",
+      "inicio": 9.6,
+      "fin": 10.72
+    },
+    {
+      "texto": "primero",
+      "inicio": 10.77,
+      "fin": 11.12
+    },
+    {
+      "texto": "para",
+      "inicio": 11.168,
+      "fin": 11.36
+    },
+    {
+      "texto": "los",
+      "inicio": 11.4,
+      "fin": 11.52
+    },
+    {
+      "texto": "planes",
+      "inicio": 11.589,
+      "fin": 12.0
+    },
+    {
+      "texto": "Max",
+      "inicio": 12.16,
+      "fin": 12.64
+    },
+    {
+      "texto": "y",
+      "inicio": 12.76,
+      "fin": 12.88
+    },
+    {
+      "texto": "después",
+      "inicio": 12.94,
+      "fin": 13.36
+    },
+    {
+      "texto": "para",
+      "inicio": 13.408,
+      "fin": 13.6
+    },
+    {
+      "texto": "Pro.",
+      "inicio": 13.7,
+      "fin": 14.08
+    },
+    {
+      "texto": "Hoy,",
+      "inicio": 14.44,
+      "fin": 15.92
+    },
+    {
+      "texto": "según",
+      "inicio": 15.987,
+      "fin": 16.32
+    },
+    {
+      "texto": "la",
+      "inicio": 16.347,
+      "fin": 16.4
+    },
+    {
+      "texto": "documentación",
+      "inicio": 16.462,
+      "fin": 17.28
+    },
+    {
+      "texto": "oficial,",
+      "inicio": 17.35,
+      "fin": 18.48
+    },
+    {
+      "texto": "funciona",
+      "inicio": 18.551,
+      "fin": 19.12
+    },
+    {
+      "texto": "en",
+      "inicio": 19.147,
+      "fin": 19.2
+    },
+    {
+      "texto": "los",
+      "inicio": 19.24,
+      "fin": 19.36
+    },
+    {
+      "texto": "planes",
+      "inicio": 19.486,
+      "fin": 20.24
+    },
+    {
+      "texto": "Pro,",
+      "inicio": 20.38,
+      "fin": 20.88
+    },
+    {
+      "texto": "Max,",
+      "inicio": 21.18,
+      "fin": 22.16
+    },
+    {
+      "texto": "Ultra,",
+      "inicio": 22.32,
+      "fin": 23.36
+    },
+    {
+      "texto": "Team",
+      "inicio": 23.504,
+      "fin": 24.08
+    },
+    {
+      "texto": "y",
+      "inicio": 24.32,
+      "fin": 24.56
+    },
+    {
+      "texto": "Enterprise.",
+      "inicio": 24.633,
+      "fin": 25.44
+    },
+    {
+      "texto": "Y",
+      "inicio": 25.84,
+      "fin": 26.24
+    },
+    {
+      "texto": "cambia",
+      "inicio": 26.304,
+      "fin": 26.64
+    },
+    {
+      "texto": "la",
+      "inicio": 26.693,
+      "fin": 26.8
+    },
+    {
+      "texto": "forma",
+      "inicio": 26.853,
+      "fin": 27.12
+    },
+    {
+      "texto": "de",
+      "inicio": 27.147,
+      "fin": 27.2
+    },
+    {
+      "texto": "trabajar:",
+      "inicio": 27.262,
+      "fin": 28.64
+    },
+    {
+      "texto": "tu",
+      "inicio": 28.667,
+      "fin": 28.72
+    },
+    {
+      "texto": "asistente",
+      "inicio": 28.8,
+      "fin": 29.52
+    },
+    {
+      "texto": "de",
+      "inicio": 29.547,
+      "fin": 29.6
+    },
+    {
+      "texto": "programación",
+      "inicio": 29.65,
+      "fin": 30.72
+    },
+    {
+      "texto": "ya",
+      "inicio": 30.88,
+      "fin": 31.2
+    },
+    {
+      "texto": "no",
+      "inicio": 31.253,
+      "fin": 31.36
+    },
+    {
+      "texto": "depende",
+      "inicio": 31.417,
+      "fin": 31.84
+    },
+    {
+      "texto": "de",
+      "inicio": 31.893,
+      "fin": 32.0
+    },
+    {
+      "texto": "que",
+      "inicio": 32.02,
+      "fin": 32.08
+    },
+    {
+      "texto": "estés",
+      "inicio": 32.14,
+      "fin": 32.4
+    },
+    {
+      "texto": "sentado",
+      "inicio": 32.48,
+      "fin": 33.04
+    },
+    {
+      "texto": "frente",
+      "inicio": 33.086,
+      "fin": 33.36
+    },
+    {
+      "texto": "a",
+      "inicio": 33.4,
+      "fin": 33.44
+    },
+    {
+      "texto": "la",
+      "inicio": 33.467,
+      "fin": 33.52
+    },
+    {
+      "texto": "pantalla.",
+      "inicio": 33.591,
+      "fin": 34.24
+    }
+  ]
+}

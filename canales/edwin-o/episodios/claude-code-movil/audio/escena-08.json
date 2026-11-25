@@ -1,0 +1,270 @@
+{
+  "num": "08",
+  "titulo": "Paso 2: abre tu carpeta de trabajo",
+  "texto": "Paso dos: entra a la carpeta donde están tus archivos, por ejemplo, la carpeta de reportes, y escribe claude. La primera vez te pide iniciar sesión con tu cuenta de Claude. Fíjate en este detalle: Claude Code trabaja en la carpeta donde lo abres. Así que ábrelo justo donde está tu trabajo.",
+  "texto_tts": "Paso dos: entra a la carpeta donde están tus archivos, por ejemplo, la carpeta de reportes, y escribe claude. La primera vez te pide iniciar sesión con tu cuenta de Claude. Fíjate en este detalle: Claude Code trabaja en la carpeta donde lo abres. Así que ábrelo justo donde está tu trabajo.",
+  "modelo": "eleven_v3",
+  "duracion": 21.68,
+  "palabras": [
+    {
+      "texto": "Paso",
+      "inicio": 0.0,
+      "fin": 0.24
+    },
+    {
+      "texto": "dos:",
+      "inicio": 0.34,
+      "fin": 0.72
+    },
+    {
+      "texto": "entra",
+      "inicio": 0.813,
+      "fin": 1.28
+    },
+    {
+      "texto": "a",
+      "inicio": 1.32,
+      "fin": 1.36
+    },
+    {
+      "texto": "la",
+      "inicio": 1.387,
+      "fin": 1.44
+    },
+    {
+      "texto": "carpeta",
+      "inicio": 1.504,
+      "fin": 2.08
+    },
+    {
+      "texto": "donde",
+      "inicio": 2.16,
+      "fin": 2.56
+    },
+    {
+      "texto": "están",
+      "inicio": 2.6,
+      "fin": 2.8
+    },
+    {
+      "texto": "tus",
+      "inicio": 2.86,
+      "fin": 3.04
+    },
+    {
+      "texto": "archivos,",
+      "inicio": 3.102,
+      "fin": 3.68
+    },
+    {
+      "texto": "por",
+      "inicio": 3.72,
+      "fin": 3.84
+    },
+    {
+      "texto": "ejemplo,",
+      "inicio": 3.9,
+      "fin": 4.4
+    },
+    {
+      "texto": "la",
+      "inicio": 4.533,
+      "fin": 4.8
+    },
+    {
+      "texto": "carpeta",
+      "inicio": 4.848,
+      "fin": 5.2
+    },
+    {
+      "texto": "de",
+      "inicio": 5.227,
+      "fin": 5.28
+    },
+    {
+      "texto": "reportes,",
+      "inicio": 5.349,
+      "fin": 6.56
+    },
+    {
+      "texto": "y",
+      "inicio": 6.6,
+      "fin": 6.64
+    },
+    {
+      "texto": "escribe",
+      "inicio": 6.693,
+      "fin": 7.12
+    },
+    {
+      "texto": "claude.",
+      "inicio": 7.24,
+      "fin": 8.0
+    },
+    {
+      "texto": "La",
+      "inicio": 8.293,
+      "fin": 8.88
+    },
+    {
+      "texto": "primera",
+      "inicio": 8.94,
+      "fin": 9.36
+    },
+    {
+      "texto": "vez",
+      "inicio": 9.46,
+      "fin": 9.76
+    },
+    {
+      "texto": "te",
+      "inicio": 9.84,
+      "fin": 10.0
+    },
+    {
+      "texto": "pide",
+      "inicio": 10.08,
+      "fin": 10.32
+    },
+    {
+      "texto": "iniciar",
+      "inicio": 10.37,
+      "fin": 10.72
+    },
+    {
+      "texto": "sesión",
+      "inicio": 10.777,
+      "fin": 11.12
+    },
+    {
+      "texto": "con",
+      "inicio": 11.18,
+      "fin": 11.36
+    },
+    {
+      "texto": "tu",
+      "inicio": 11.413,
+      "fin": 11.52
+    },
+    {
+      "texto": "cuenta",
+      "inicio": 11.577,
+      "fin": 11.92
+    },
+    {
+      "texto": "de",
+      "inicio": 11.947,
+      "fin": 12.0
+    },
+    {
+      "texto": "Claude.",
+      "inicio": 12.069,
+      "fin": 12.56
+    },
+    {
+      "texto": "Fíjate",
+      "inicio": 13.0,
+      "fin": 13.68
+    },
+    {
+      "texto": "en",
+      "inicio": 13.707,
+      "fin": 13.76
+    },
+    {
+      "texto": "este",
+      "inicio": 13.808,
+      "fin": 14.0
+    },
+    {
+      "texto": "detalle:",
+      "inicio": 14.06,
+      "fin": 14.56
+    },
+    {
+      "texto": "Claude",
+      "inicio": 14.686,
+      "fin": 15.44
+    },
+    {
+      "texto": "Code",
+      "inicio": 15.52,
+      "fin": 15.84
+    },
+    {
+      "texto": "trabaja",
+      "inicio": 15.92,
+      "fin": 16.4
+    },
+    {
+      "texto": "en",
+      "inicio": 16.427,
+      "fin": 16.48
+    },
+    {
+      "texto": "la",
+      "inicio": 16.507,
+      "fin": 16.56
+    },
+    {
+      "texto": "carpeta",
+      "inicio": 16.624,
+      "fin": 17.12
+    },
+    {
+      "texto": "donde",
+      "inicio": 17.2,
+      "fin": 17.6
+    },
+    {
+      "texto": "lo",
+      "inicio": 17.627,
+      "fin": 17.68
+    },
+    {
+      "texto": "abres.",
+      "inicio": 17.787,
+      "fin": 18.4
+    },
+    {
+      "texto": "Así",
+      "inicio": 18.587,
+      "fin": 19.04
+    },
+    {
+      "texto": "que",
+      "inicio": 19.08,
+      "fin": 19.2
+    },
+    {
+      "texto": "ábrelo",
+      "inicio": 19.32,
+      "fin": 19.84
+    },
+    {
+      "texto": "justo",
+      "inicio": 19.947,
+      "fin": 20.48
+    },
+    {
+      "texto": "donde",
+      "inicio": 20.52,
+      "fin": 20.72
+    },
+    {
+      "texto": "está",
+      "inicio": 20.752,
+      "fin": 20.88
+    },
+    {
+      "texto": "tu",
+      "inicio": 20.933,
+      "fin": 21.04
+    },
+    {
+      "texto": "trabajo.",
+      "inicio": 21.1,
+      "fin": 21.68
+    }
+  ]
+}

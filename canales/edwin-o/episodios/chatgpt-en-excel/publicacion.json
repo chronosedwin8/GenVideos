@@ -1,0 +1,51 @@
+{
+  "titulo": "ChatGPT en Excel: cómo instalarlo y automatizar tus hojas de cálculo",
+  "descripcion": "ChatGPT para Excel está disponible en todos los planes de ChatGPT desde mayo de 2026 (el gratuito con uso limitado). Te enseño a instalarlo, 5 tareas reales de oficina, cómo funcionan los permisos, qué pasa con tus datos y cuándo te conviene más Copilot o Claude. La interfaz del complemento se muestra como recreación.\n\nEn este video aprenderás:\n✅ Instalarlo: Inicio → Complementos → ChatGPT\n✅ Limpiar una hoja (con permiso)\n✅ Resumen por categoría con fórmulas\n✅ Entender una hoja ajena\n✅ Escenarios ¿y si…?\n✅ Mencionar hojas con @\n✅ Seguridad, privacidad y límites\n\n5 prompts para copiar:\n1) Limpia esta hoja: espacios, mayúsculas y duplicados.\n2) Crea una tabla de amortización para un préstamo de [monto] al [tasa] en [meses] meses.\n3) Explícame esta hoja como si yo fuera nuevo en la empresa.\n4) ¿Qué fórmulas de esta hoja dan error y por qué?\n5) Hazme un presupuesto mensual con categorías.\n\nCapítulos\n0:00 Le escribes a Excel\n0:44 La historia de ChatGPT para Excel\n1:10 ¿Es seguro con mis datos?\n1:34 Paso 1: instálalo\n2:00 La hoja de gastos\n2:25 Tarea 1: limpia la hoja\n2:48 Compruébalo\n3:15 Tarea 2: resumen por categoría\n3:47 Tarea 3: entender una hoja ajena\n4:12 Tarea 4: ¿y si…?\n4:35 Tarea 5: menciona hojas con @\n5:00 Reglas de seguridad\n5:20 ¿Y mis datos?\n5:47 Lo que todavía no hace bien\n6:09 ¿ChatGPT, Copilot o Claude?\n6:30 Mis 4 hábitos\n6:59 5 prompts para copiar\n7:27 Si no te funcionó\n\n📊 Guías de Excel en el blog: https://www.edwinortiz.net/excel/\n🌐 Plantillas y cursos: https://www.edwinortiz.net\n\nFuentes\nOpenAI, Introducing ChatGPT for Excel: https://openai.com/index/chatgpt-for-excel/\nOpenAI Help Center, ChatGPT for Excel and Google Sheets: https://help.openai.com/en/articles/20001063-chatgpt-for-excel-and-google-sheets\n\nLa voz de este video es la voz de Edwin, clonada con inteligencia artificial (ElevenLabs).\n\nVamos en busca del poder tecnológico. 🚀\n#ChatGPT #Excel #InteligenciaArtificial\n\n🛒 Tienda de plantillas y recursos: https://www.edwinortiz.net/tienda/\n\nPuedes encontrar mucha más información en mi página web https://www.edwinortiz.net/ ademas también podrás ingresar a mi plataforma online de aprendizaje donde podrás realizar cursos acordes a tus necesidades en  https://www.miaulaweb.com/\n\nTe invito a que me sigas en twitter en @chronosedwin8  y en Instagram https://www.instagram.com/edwinortizherazo/\n\n\n►MI BLOG: https://www.edwinortiz.net/\n►AULA EN LINEA: https://aula.miaulaweb.com/\n►2do CANAL: https://www.youtube.com/user/chronosedwin8\n►FANPAGE: https://www.facebook.com/EdwinOrtizHerazo\n►TWITTER:https://twitter.com/chronosedwin8\n►MI EMPRESA: https://www.miaulaweb.com/\n►¿QUIÉN SOY?: https://www.linkedin.com/in/edwin-ortiz-herazo-a3714a47?trk=nav_responsive_tab_profile",
+  "tags": [
+    "chatgpt en excel",
+    "chatgpt para excel",
+    "chatgpt excel complemento",
+    "automatizar excel con chatgpt",
+    "chatgpt excel gratis",
+    "ia en excel",
+    "copilot excel",
+    "claude excel",
+    "excel con ia",
+    "productividad con ia",
+    "edwin o"
+  ],
+  "categoria": 27,
+  "idioma": "es",
+  "creado_para_ninos": false,
+  "contenido_sintetico": true,
+  "privacidad": "public",
+  "programar": "2027-01-21 07:00",
+  "playlist": "Excel con IA",
+  "archivo": "render/chatgpt-en-excel.mp4",
+  "miniatura": "miniatura.png",
+  "subtitulos": "audio/subtitulos.srt",
+  "shorts": [
+    {
+      "id": "short-1",
+      "titulo": "ChatGPT limpia TU EXCEL (y te pide permiso) #shorts",
+      "descripcion": "Te muestra su plan y pide permiso antes de cambiar la hoja. Video completo en el canal.",
+      "tags": [
+        "chatgpt excel",
+        "shorts"
+      ],
+      "programar": "2027-01-22 12:00",
+      "archivo": "render/short-1.mp4"
+    },
+    {
+      "id": "short-2",
+      "titulo": "¿Heredaste un Excel QUE NO ENTIENDES? #shorts",
+      "descripcion": "Pregúntale a ChatGPT qué hace cada fórmula. Video completo en el canal.",
+      "tags": [
+        "chatgpt excel",
+        "shorts"
+      ],
+      "programar": "2027-01-25 12:00",
+      "archivo": "render/short-2.mp4"
+    }
+  ]
+}

@@ -1,0 +1,310 @@
+{
+  "num": "15",
+  "titulo": "Nivel pro 2: escanea y busca",
+  "texto": "Y el truco que más me gusta. Un lector de código de barras USB funciona como un teclado: escribe el código donde esté el cursor. Así que en una hoja de consulta pongo el cursor en B1, escaneo la etiqueta… y BUSCARX me trae el producto, la ubicación y la cantidad. Si el código no existe, me dice \"No existe\".",
+  "texto_tts": "Y el truco que más me gusta. Un lector de código de barras USB funciona como un teclado: escribe el código donde esté el cursor. Así que en una hoja de consulta pongo el cursor en B1, escaneo la etiqueta… y BUSCARX me trae el producto, la ubicación y la cantidad. Si el código no existe, me dice \"No existe\".",
+  "modelo": "eleven_v3",
+  "duracion": 24.56,
+  "palabras": [
+    {
+      "texto": "Y",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "el",
+      "inicio": 0.107,
+      "fin": 0.16
+    },
+    {
+      "texto": "truco",
+      "inicio": 0.213,
+      "fin": 0.56
+    },
+    {
+      "texto": "que",
+      "inicio": 0.58,
+      "fin": 0.64
+    },
+    {
+      "texto": "más",
+      "inicio": 0.68,
+      "fin": 0.8
+    },
+    {
+      "texto": "me",
+      "inicio": 0.853,
+      "fin": 0.96
+    },
+    {
+      "texto": "gusta.",
+      "inicio": 1.027,
+      "fin": 1.44
+    },
+    {
+      "texto": "Un",
+      "inicio": 1.68,
+      "fin": 2.16
+    },
+    {
+      "texto": "lector",
+      "inicio": 2.213,
+      "fin": 2.64
+    },
+    {
+      "texto": "de",
+      "inicio": 2.693,
+      "fin": 2.8
+    },
+    {
+      "texto": "código",
+      "inicio": 2.857,
+      "fin": 3.2
+    },
+    {
+      "texto": "de",
+      "inicio": 3.227,
+      "fin": 3.28
+    },
+    {
+      "texto": "barras",
+      "inicio": 3.328,
+      "fin": 3.76
+    },
+    {
+      "texto": "USB",
+      "inicio": 3.96,
+      "fin": 4.56
+    },
+    {
+      "texto": "funciona",
+      "inicio": 4.702,
+      "fin": 5.84
+    },
+    {
+      "texto": "como",
+      "inicio": 5.872,
+      "fin": 6.0
+    },
+    {
+      "texto": "un",
+      "inicio": 6.027,
+      "fin": 6.08
+    },
+    {
+      "texto": "teclado:",
+      "inicio": 6.133,
+      "fin": 7.36
+    },
+    {
+      "texto": "escribe",
+      "inicio": 7.413,
+      "fin": 7.76
+    },
+    {
+      "texto": "el",
+      "inicio": 7.787,
+      "fin": 7.84
+    },
+    {
+      "texto": "código",
+      "inicio": 7.92,
+      "fin": 8.4
+    },
+    {
+      "texto": "donde",
+      "inicio": 8.453,
+      "fin": 8.72
+    },
+    {
+      "texto": "esté",
+      "inicio": 8.76,
+      "fin": 8.92
+    },
+    {
+      "texto": "el",
+      "inicio": 8.933,
+      "fin": 8.96
+    },
+    {
+      "texto": "cursor.",
+      "inicio": 9.04,
+      "fin": 9.6
+    },
+    {
+      "texto": "Así",
+      "inicio": 9.973,
+      "fin": 10.8
+    },
+    {
+      "texto": "que",
+      "inicio": 10.82,
+      "fin": 10.88
+    },
+    {
+      "texto": "en",
+      "inicio": 10.907,
+      "fin": 10.96
+    },
+    {
+      "texto": "una",
+      "inicio": 11.0,
+      "fin": 11.12
+    },
+    {
+      "texto": "hoja",
+      "inicio": 11.173,
+      "fin": 11.44
+    },
+    {
+      "texto": "de",
+      "inicio": 11.467,
+      "fin": 11.52
+    },
+    {
+      "texto": "consulta",
+      "inicio": 11.6,
+      "fin": 12.24
+    },
+    {
+      "texto": "pongo",
+      "inicio": 12.48,
+      "fin": 12.88
+    },
+    {
+      "texto": "el",
+      "inicio": 12.907,
+      "fin": 12.96
+    },
+    {
+      "texto": "cursor",
+      "inicio": 13.017,
+      "fin": 13.36
+    },
+    {
+      "texto": "en",
+      "inicio": 13.413,
+      "fin": 13.52
+    },
+    {
+      "texto": "B1,",
+      "inicio": 13.68,
+      "fin": 14.64
+    },
+    {
+      "texto": "escaneo",
+      "inicio": 14.7,
+      "fin": 15.16
+    },
+    {
+      "texto": "la",
+      "inicio": 15.173,
+      "fin": 15.2
+    },
+    {
+      "texto": "etiqueta…",
+      "inicio": 15.253,
+      "fin": 15.92
+    },
+    {
+      "texto": "y",
+      "inicio": 16.16,
+      "fin": 16.4
+    },
+    {
+      "texto": "BUSCARX",
+      "inicio": 16.46,
+      "fin": 17.12
+    },
+    {
+      "texto": "me",
+      "inicio": 17.173,
+      "fin": 17.28
+    },
+    {
+      "texto": "trae",
+      "inicio": 17.333,
+      "fin": 17.6
+    },
+    {
+      "texto": "el",
+      "inicio": 17.627,
+      "fin": 17.68
+    },
+    {
+      "texto": "producto,",
+      "inicio": 17.742,
+      "fin": 18.4
+    },
+    {
+      "texto": "la",
+      "inicio": 18.48,
+      "fin": 18.64
+    },
+    {
+      "texto": "ubicación",
+      "inicio": 18.688,
+      "fin": 19.52
+    },
+    {
+      "texto": "y",
+      "inicio": 19.64,
+      "fin": 19.76
+    },
+    {
+      "texto": "la",
+      "inicio": 19.787,
+      "fin": 19.84
+    },
+    {
+      "texto": "cantidad.",
+      "inicio": 19.911,
+      "fin": 20.56
+    },
+    {
+      "texto": "Si",
+      "inicio": 20.88,
+      "fin": 21.52
+    },
+    {
+      "texto": "el",
+      "inicio": 21.547,
+      "fin": 21.6
+    },
+    {
+      "texto": "código",
+      "inicio": 21.657,
+      "fin": 22.0
+    },
+    {
+      "texto": "no",
+      "inicio": 22.053,
+      "fin": 22.16
+    },
+    {
+      "texto": "existe,",
+      "inicio": 22.229,
+      "fin": 22.96
+    },
+    {
+      "texto": "me",
+      "inicio": 23.013,
+      "fin": 23.12
+    },
+    {
+      "texto": "dice",
+      "inicio": 23.2,
+      "fin": 23.52
+    },
+    {
+      "texto": "\"No",
+      "inicio": 23.72,
+      "fin": 24.16
+    },
+    {
+      "texto": "existe\".",
+      "inicio": 24.194,
+      "fin": 24.56
+    }
+  ]
+}

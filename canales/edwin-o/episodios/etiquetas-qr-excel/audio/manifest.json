@@ -1,0 +1,5903 @@
+{
+  "canal": "edwin-o",
+  "slug": "etiquetas-qr-excel",
+  "duracion_total": 515.6,
+  "pausa_entre_escenas": 0.4,
+  "escenas": [
+    {
+      "num": "01",
+      "titulo": "Gancho",
+      "audio": "escena-01.mp3",
+      "inicio": 0.0,
+      "duracion": 16.32,
+      "palabras": [
+        {
+          "texto": "Seis",
+          "inicio": 0.139,
+          "fin": 0.24
+        },
+        {
+          "texto": "etiquetas",
+          "inicio": 0.307,
+          "fin": 0.8
+        },
+        {
+          "texto": "de",
+          "inicio": 0.827,
+          "fin": 0.88
+        },
+        {
+          "texto": "inventario,",
+          "inicio": 0.926,
+          "fin": 1.84
+        },
+        {
+          "texto": "cada",
+          "inicio": 1.888,
+          "fin": 2.08
+        },
+        {
+          "texto": "una",
+          "inicio": 2.14,
+          "fin": 2.32
+        },
+        {
+          "texto": "con",
+          "inicio": 2.36,
+          "fin": 2.48
+        },
+        {
+          "texto": "su",
+          "inicio": 2.56,
+          "fin": 2.72
+        },
+        {
+          "texto": "código",
+          "inicio": 2.777,
+          "fin": 3.12
+        },
+        {
+          "texto": "QR",
+          "inicio": 3.307,
+          "fin": 3.68
+        },
+        {
+          "texto": "y",
+          "inicio": 3.8,
+          "fin": 3.92
+        },
+        {
+          "texto": "su",
+          "inicio": 3.973,
+          "fin": 4.08
+        },
+        {
+          "texto": "código",
+          "inicio": 4.126,
+          "fin": 4.4
+        },
+        {
+          "texto": "de",
+          "inicio": 4.453,
+          "fin": 4.56
+        },
+        {
+          "texto": "barras,",
+          "inicio": 4.592,
+          "fin": 5.44
+        },
+        {
+          "texto": "hechas",
+          "inicio": 5.467,
+          "fin": 5.76
+        },
+        {
+          "texto": "en",
+          "inicio": 5.787,
+          "fin": 5.84
+        },
+        {
+          "texto": "Excel",
+          "inicio": 5.92,
+          "fin": 6.32
+        },
+        {
+          "texto": "en",
+          "inicio": 6.48,
+          "fin": 6.8
+        },
+        {
+          "texto": "menos",
+          "inicio": 6.84,
+          "fin": 7.04
+        },
+        {
+          "texto": "de",
+          "inicio": 7.093,
+          "fin": 7.2
+        },
+        {
+          "texto": "dos",
+          "inicio": 7.24,
+          "fin": 7.36
+        },
+        {
+          "texto": "minutos.",
+          "inicio": 7.43,
+          "fin": 8.0
+        },
+        {
+          "texto": "Las",
+          "inicio": 8.2,
+          "fin": 8.8
+        },
+        {
+          "texto": "escaneas",
+          "inicio": 8.84,
+          "fin": 9.2
+        },
+        {
+          "texto": "con",
+          "inicio": 9.24,
+          "fin": 9.36
+        },
+        {
+          "texto": "el",
+          "inicio": 9.387,
+          "fin": 9.44
+        },
+        {
+          "texto": "celular",
+          "inicio": 9.52,
+          "fin": 10.08
+        },
+        {
+          "texto": "y",
+          "inicio": 10.32,
+          "fin": 10.56
+        },
+        {
+          "texto": "te",
+          "inicio": 10.613,
+          "fin": 10.72
+        },
+        {
+          "texto": "dicen",
+          "inicio": 10.76,
+          "fin": 11.04
+        },
+        {
+          "texto": "qué",
+          "inicio": 11.14,
+          "fin": 11.44
+        },
+        {
+          "texto": "es",
+          "inicio": 11.547,
+          "fin": 11.76
+        },
+        {
+          "texto": "y",
+          "inicio": 11.92,
+          "fin": 12.08
+        },
+        {
+          "texto": "dónde",
+          "inicio": 12.133,
+          "fin": 12.32
+        },
+        {
+          "texto": "está.",
+          "inicio": 12.384,
+          "fin": 12.8
+        },
+        {
+          "texto": "Sin",
+          "inicio": 13.02,
+          "fin": 13.68
+        },
+        {
+          "texto": "programas",
+          "inicio": 13.728,
+          "fin": 14.16
+        },
+        {
+          "texto": "raros,",
+          "inicio": 14.22,
+          "fin": 14.88
+        },
+        {
+          "texto": "sin",
+          "inicio": 14.94,
+          "fin": 15.12
+        },
+        {
+          "texto": "pagar",
+          "inicio": 15.173,
+          "fin": 15.44
+        },
+        {
+          "texto": "licencias.",
+          "inicio": 15.5,
+          "fin": 16.32
+        }
+      ]
+    },
+    {
+      "num": "02",
+      "titulo": "Presentación",
+      "audio": "escena-02.mp3",
+      "inicio": 16.72,
+      "duracion": 22.96,
+      "palabras": [
+        {
+          "texto": "¡Bienvenidos,",
+          "inicio": 0.072,
+          "fin": 1.12
+        },
+        {
+          "texto": "amigos",
+          "inicio": 1.189,
+          "fin": 1.6
+        },
+        {
+          "texto": "del",
+          "inicio": 1.64,
+          "fin": 1.76
+        },
+        {
+          "texto": "canal!",
+          "inicio": 1.867,
+          "fin": 2.48
+        },
+        {
+          "texto": "Vamos",
+          "inicio": 2.88,
+          "fin": 3.68
+        },
+        {
+          "texto": "en",
+          "inicio": 3.733,
+          "fin": 3.84
+        },
+        {
+          "texto": "busca",
+          "inicio": 3.933,
+          "fin": 4.4
+        },
+        {
+          "texto": "del",
+          "inicio": 4.56,
+          "fin": 5.04
+        },
+        {
+          "texto": "poder",
+          "inicio": 5.133,
+          "fin": 5.6
+        },
+        {
+          "texto": "tecnológico.",
+          "inicio": 5.68,
+          "fin": 6.96
+        },
+        {
+          "texto": "Hoy",
+          "inicio": 7.1,
+          "fin": 7.52
+        },
+        {
+          "texto": "vas",
+          "inicio": 7.68,
+          "fin": 8.16
+        },
+        {
+          "texto": "a",
+          "inicio": 8.2,
+          "fin": 8.24
+        },
+        {
+          "texto": "crear",
+          "inicio": 8.307,
+          "fin": 8.64
+        },
+        {
+          "texto": "códigos",
+          "inicio": 8.8,
+          "fin": 9.36
+        },
+        {
+          "texto": "QR",
+          "inicio": 9.573,
+          "fin": 10.0
+        },
+        {
+          "texto": "y",
+          "inicio": 10.12,
+          "fin": 10.24
+        },
+        {
+          "texto": "códigos",
+          "inicio": 10.32,
+          "fin": 10.88
+        },
+        {
+          "texto": "de",
+          "inicio": 10.907,
+          "fin": 10.96
+        },
+        {
+          "texto": "barras",
+          "inicio": 11.008,
+          "fin": 11.44
+        },
+        {
+          "texto": "directamente",
+          "inicio": 11.566,
+          "fin": 12.72
+        },
+        {
+          "texto": "en",
+          "inicio": 12.747,
+          "fin": 12.8
+        },
+        {
+          "texto": "las",
+          "inicio": 12.84,
+          "fin": 12.96
+        },
+        {
+          "texto": "celdas",
+          "inicio": 13.04,
+          "fin": 13.44
+        },
+        {
+          "texto": "de",
+          "inicio": 13.467,
+          "fin": 13.52
+        },
+        {
+          "texto": "Excel,",
+          "inicio": 13.6,
+          "fin": 14.56
+        },
+        {
+          "texto": "armar",
+          "inicio": 14.64,
+          "fin": 15.04
+        },
+        {
+          "texto": "una",
+          "inicio": 15.08,
+          "fin": 15.2
+        },
+        {
+          "texto": "hoja",
+          "inicio": 15.253,
+          "fin": 15.52
+        },
+        {
+          "texto": "de",
+          "inicio": 15.587,
+          "fin": 15.72
+        },
+        {
+          "texto": "etiquetas",
+          "inicio": 15.753,
+          "fin": 16.32
+        },
+        {
+          "texto": "lista",
+          "inicio": 16.427,
+          "fin": 16.96
+        },
+        {
+          "texto": "para",
+          "inicio": 17.008,
+          "fin": 17.2
+        },
+        {
+          "texto": "imprimir,",
+          "inicio": 17.262,
+          "fin": 18.4
+        },
+        {
+          "texto": "y",
+          "inicio": 18.44,
+          "fin": 18.48
+        },
+        {
+          "texto": "usar",
+          "inicio": 18.56,
+          "fin": 18.88
+        },
+        {
+          "texto": "un",
+          "inicio": 18.907,
+          "fin": 18.96
+        },
+        {
+          "texto": "lector",
+          "inicio": 19.013,
+          "fin": 19.44
+        },
+        {
+          "texto": "para",
+          "inicio": 19.52,
+          "fin": 19.84
+        },
+        {
+          "texto": "buscar",
+          "inicio": 19.897,
+          "fin": 20.24
+        },
+        {
+          "texto": "cualquier",
+          "inicio": 20.296,
+          "fin": 20.8
+        },
+        {
+          "texto": "producto",
+          "inicio": 20.88,
+          "fin": 21.52
+        },
+        {
+          "texto": "en",
+          "inicio": 21.68,
+          "fin": 22.0
+        },
+        {
+          "texto": "un",
+          "inicio": 22.027,
+          "fin": 22.08
+        },
+        {
+          "texto": "segundo.",
+          "inicio": 22.16,
+          "fin": 22.96
+        }
+      ]
+    },
+    {
+      "num": "03",
+      "titulo": "El caso",
+      "audio": "escena-03.mp3",
+      "inicio": 40.08,
+      "duracion": 29.36,
+      "palabras": [
+        {
+          "texto": "¿Por",
+          "inicio": 0.0,
+          "fin": 0.16
+        },
+        {
+          "texto": "qué",
+          "inicio": 0.22,
+          "fin": 0.4
+        },
+        {
+          "texto": "ahora?",
+          "inicio": 0.467,
+          "fin": 0.88
+        },
+        {
+          "texto": "Porque",
+          "inicio": 0.94,
+          "fin": 1.2
+        },
+        {
+          "texto": "el",
+          "inicio": 1.227,
+          "fin": 1.28
+        },
+        {
+          "texto": "mundo",
+          "inicio": 1.32,
+          "fin": 1.52
+        },
+        {
+          "texto": "del",
+          "inicio": 1.56,
+          "fin": 1.68
+        },
+        {
+          "texto": "comercio",
+          "inicio": 1.737,
+          "fin": 2.24
+        },
+        {
+          "texto": "está",
+          "inicio": 2.32,
+          "fin": 2.64
+        },
+        {
+          "texto": "cambiando",
+          "inicio": 2.707,
+          "fin": 3.36
+        },
+        {
+          "texto": "de",
+          "inicio": 3.413,
+          "fin": 3.52
+        },
+        {
+          "texto": "código.",
+          "inicio": 3.6,
+          "fin": 4.8
+        },
+        {
+          "texto": "GS1,",
+          "inicio": 5.04,
+          "fin": 6.08
+        },
+        {
+          "texto": "la",
+          "inicio": 6.107,
+          "fin": 6.16
+        },
+        {
+          "texto": "organización",
+          "inicio": 6.21,
+          "fin": 6.8
+        },
+        {
+          "texto": "que",
+          "inicio": 6.84,
+          "fin": 6.96
+        },
+        {
+          "texto": "administra",
+          "inicio": 7.013,
+          "fin": 7.6
+        },
+        {
+          "texto": "los",
+          "inicio": 7.64,
+          "fin": 7.76
+        },
+        {
+          "texto": "códigos",
+          "inicio": 7.8,
+          "fin": 8.24
+        },
+        {
+          "texto": "de",
+          "inicio": 8.267,
+          "fin": 8.32
+        },
+        {
+          "texto": "barras",
+          "inicio": 8.368,
+          "fin": 8.64
+        },
+        {
+          "texto": "de",
+          "inicio": 8.667,
+          "fin": 8.72
+        },
+        {
+          "texto": "los",
+          "inicio": 8.74,
+          "fin": 8.8
+        },
+        {
+          "texto": "productos,",
+          "inicio": 8.864,
+          "fin": 10.08
+        },
+        {
+          "texto": "impulsa",
+          "inicio": 10.14,
+          "fin": 10.56
+        },
+        {
+          "texto": "una",
+          "inicio": 10.6,
+          "fin": 10.72
+        },
+        {
+          "texto": "iniciativa",
+          "inicio": 10.76,
+          "fin": 11.28
+        },
+        {
+          "texto": "llamada",
+          "inicio": 11.328,
+          "fin": 11.68
+        },
+        {
+          "texto": "Sunrise",
+          "inicio": 11.81,
+          "fin": 12.72
+        },
+        {
+          "texto": "dos",
+          "inicio": 12.78,
+          "fin": 12.96
+        },
+        {
+          "texto": "mil",
+          "inicio": 13.0,
+          "fin": 13.12
+        },
+        {
+          "texto": "veintisiete:",
+          "inicio": 13.173,
+          "fin": 13.92
+        },
+        {
+          "texto": "que",
+          "inicio": 14.18,
+          "fin": 14.96
+        },
+        {
+          "texto": "las",
+          "inicio": 14.98,
+          "fin": 15.04
+        },
+        {
+          "texto": "cajas",
+          "inicio": 15.12,
+          "fin": 15.36
+        },
+        {
+          "texto": "registradoras",
+          "inicio": 15.41,
+          "fin": 16.24
+        },
+        {
+          "texto": "puedan",
+          "inicio": 16.336,
+          "fin": 16.8
+        },
+        {
+          "texto": "leer",
+          "inicio": 16.864,
+          "fin": 17.12
+        },
+        {
+          "texto": "códigos",
+          "inicio": 17.2,
+          "fin": 17.68
+        },
+        {
+          "texto": "de",
+          "inicio": 17.733,
+          "fin": 17.84
+        },
+        {
+          "texto": "dos",
+          "inicio": 17.9,
+          "fin": 18.08
+        },
+        {
+          "texto": "dimensiones,",
+          "inicio": 18.136,
+          "fin": 19.04
+        },
+        {
+          "texto": "como",
+          "inicio": 19.072,
+          "fin": 19.2
+        },
+        {
+          "texto": "el",
+          "inicio": 19.227,
+          "fin": 19.28
+        },
+        {
+          "texto": "QR,",
+          "inicio": 19.44,
+          "fin": 20.32
+        },
+        {
+          "texto": "para",
+          "inicio": 20.368,
+          "fin": 20.56
+        },
+        {
+          "texto": "finales",
+          "inicio": 20.62,
+          "fin": 21.04
+        },
+        {
+          "texto": "de",
+          "inicio": 21.093,
+          "fin": 21.2
+        },
+        {
+          "texto": "dos",
+          "inicio": 21.22,
+          "fin": 21.28
+        },
+        {
+          "texto": "mil",
+          "inicio": 21.32,
+          "fin": 21.44
+        },
+        {
+          "texto": "veintisiete.",
+          "inicio": 21.493,
+          "fin": 22.24
+        },
+        {
+          "texto": "Y",
+          "inicio": 22.8,
+          "fin": 23.36
+        },
+        {
+          "texto": "mientras",
+          "inicio": 23.404,
+          "fin": 23.76
+        },
+        {
+          "texto": "llega",
+          "inicio": 23.792,
+          "fin": 24.0
+        },
+        {
+          "texto": "ese",
+          "inicio": 24.04,
+          "fin": 24.16
+        },
+        {
+          "texto": "momento,",
+          "inicio": 24.23,
+          "fin": 25.2
+        },
+        {
+          "texto": "se",
+          "inicio": 25.227,
+          "fin": 25.28
+        },
+        {
+          "texto": "imprimen",
+          "inicio": 25.36,
+          "fin": 25.84
+        },
+        {
+          "texto": "los",
+          "inicio": 25.92,
+          "fin": 26.16
+        },
+        {
+          "texto": "dos.",
+          "inicio": 26.26,
+          "fin": 26.64
+        },
+        {
+          "texto": "Justo",
+          "inicio": 26.864,
+          "fin": 27.84
+        },
+        {
+          "texto": "lo",
+          "inicio": 27.92,
+          "fin": 28.08
+        },
+        {
+          "texto": "que",
+          "inicio": 28.12,
+          "fin": 28.24
+        },
+        {
+          "texto": "vamos",
+          "inicio": 28.28,
+          "fin": 28.48
+        },
+        {
+          "texto": "a",
+          "inicio": 28.52,
+          "fin": 28.56
+        },
+        {
+          "texto": "hacer",
+          "inicio": 28.6,
+          "fin": 28.8
+        },
+        {
+          "texto": "hoy.",
+          "inicio": 28.92,
+          "fin": 29.36
+        }
+      ]
+    },
+    {
+      "num": "04",
+      "titulo": "El aporte de Edwin",
+      "audio": "escena-04.mp3",
+      "inicio": 69.84,
+      "duracion": 24.24,
+      "palabras": [
+        {
+          "texto": "Yo",
+          "inicio": 0.0,
+          "fin": 0.08
+        },
+        {
+          "texto": "he",
+          "inicio": 0.107,
+          "fin": 0.16
+        },
+        {
+          "texto": "desarrollado",
+          "inicio": 0.2,
+          "fin": 0.8
+        },
+        {
+          "texto": "sistemas",
+          "inicio": 0.871,
+          "fin": 1.44
+        },
+        {
+          "texto": "de",
+          "inicio": 1.467,
+          "fin": 1.52
+        },
+        {
+          "texto": "inventario",
+          "inicio": 1.577,
+          "fin": 2.32
+        },
+        {
+          "texto": "para",
+          "inicio": 2.416,
+          "fin": 2.8
+        },
+        {
+          "texto": "empresas",
+          "inicio": 2.924,
+          "fin": 3.92
+        },
+        {
+          "texto": "y",
+          "inicio": 4.32,
+          "fin": 4.72
+        },
+        {
+          "texto": "para",
+          "inicio": 4.768,
+          "fin": 4.96
+        },
+        {
+          "texto": "colegios,",
+          "inicio": 5.027,
+          "fin": 5.76
+        },
+        {
+          "texto": "y",
+          "inicio": 5.8,
+          "fin": 5.84
+        },
+        {
+          "texto": "te",
+          "inicio": 5.893,
+          "fin": 6.0
+        },
+        {
+          "texto": "digo",
+          "inicio": 6.06,
+          "fin": 6.32
+        },
+        {
+          "texto": "algo",
+          "inicio": 6.416,
+          "fin": 6.8
+        },
+        {
+          "texto": "que",
+          "inicio": 6.82,
+          "fin": 6.88
+        },
+        {
+          "texto": "aprendí:",
+          "inicio": 6.937,
+          "fin": 8.64
+        },
+        {
+          "texto": "el",
+          "inicio": 8.693,
+          "fin": 8.8
+        },
+        {
+          "texto": "mejor",
+          "inicio": 8.867,
+          "fin": 9.2
+        },
+        {
+          "texto": "programa",
+          "inicio": 9.262,
+          "fin": 9.76
+        },
+        {
+          "texto": "no",
+          "inicio": 9.813,
+          "fin": 9.92
+        },
+        {
+          "texto": "sirve",
+          "inicio": 9.98,
+          "fin": 10.32
+        },
+        {
+          "texto": "si",
+          "inicio": 10.373,
+          "fin": 10.48
+        },
+        {
+          "texto": "las",
+          "inicio": 10.52,
+          "fin": 10.64
+        },
+        {
+          "texto": "etiquetas",
+          "inicio": 10.693,
+          "fin": 11.2
+        },
+        {
+          "texto": "están",
+          "inicio": 11.253,
+          "fin": 11.52
+        },
+        {
+          "texto": "mal.",
+          "inicio": 11.6,
+          "fin": 12.44
+        },
+        {
+          "texto": "Si",
+          "inicio": 12.64,
+          "fin": 13.04
+        },
+        {
+          "texto": "la",
+          "inicio": 13.067,
+          "fin": 13.12
+        },
+        {
+          "texto": "etiqueta",
+          "inicio": 13.173,
+          "fin": 13.6
+        },
+        {
+          "texto": "se",
+          "inicio": 13.68,
+          "fin": 13.84
+        },
+        {
+          "texto": "borra",
+          "inicio": 13.92,
+          "fin": 14.32
+        },
+        {
+          "texto": "o",
+          "inicio": 14.44,
+          "fin": 14.56
+        },
+        {
+          "texto": "nadie",
+          "inicio": 14.6,
+          "fin": 14.8
+        },
+        {
+          "texto": "la",
+          "inicio": 14.853,
+          "fin": 14.96
+        },
+        {
+          "texto": "puede",
+          "inicio": 15.0,
+          "fin": 15.2
+        },
+        {
+          "texto": "leer,",
+          "inicio": 15.264,
+          "fin": 15.76
+        },
+        {
+          "texto": "el",
+          "inicio": 15.787,
+          "fin": 15.84
+        },
+        {
+          "texto": "inventario",
+          "inicio": 15.897,
+          "fin": 16.4
+        },
+        {
+          "texto": "se",
+          "inicio": 16.453,
+          "fin": 16.56
+        },
+        {
+          "texto": "cae.",
+          "inicio": 16.64,
+          "fin": 17.04
+        },
+        {
+          "texto": "Por",
+          "inicio": 17.26,
+          "fin": 17.92
+        },
+        {
+          "texto": "eso",
+          "inicio": 17.98,
+          "fin": 18.16
+        },
+        {
+          "texto": "me",
+          "inicio": 18.187,
+          "fin": 18.24
+        },
+        {
+          "texto": "gusta",
+          "inicio": 18.293,
+          "fin": 18.56
+        },
+        {
+          "texto": "tanto",
+          "inicio": 18.613,
+          "fin": 18.88
+        },
+        {
+          "texto": "esta",
+          "inicio": 18.912,
+          "fin": 19.04
+        },
+        {
+          "texto": "técnica:",
+          "inicio": 19.104,
+          "fin": 19.76
+        },
+        {
+          "texto": "etiquetas",
+          "inicio": 19.813,
+          "fin": 20.32
+        },
+        {
+          "texto": "claras,",
+          "inicio": 20.416,
+          "fin": 21.2
+        },
+        {
+          "texto": "legibles",
+          "inicio": 21.28,
+          "fin": 22.24
+        },
+        {
+          "texto": "y",
+          "inicio": 22.44,
+          "fin": 22.64
+        },
+        {
+          "texto": "hechas",
+          "inicio": 22.72,
+          "fin": 23.12
+        },
+        {
+          "texto": "en",
+          "inicio": 23.227,
+          "fin": 23.44
+        },
+        {
+          "texto": "minutos.",
+          "inicio": 23.52,
+          "fin": 24.24
+        }
+      ]
+    },
+    {
+      "num": "05",
+      "titulo": "Lo que necesitas",
+      "audio": "escena-05.mp3",
+      "inicio": 94.48,
+      "duracion": 25.52,
+      "palabras": [
+        {
+          "texto": "Lo",
+          "inicio": 0.0,
+          "fin": 0.08
+        },
+        {
+          "texto": "que",
+          "inicio": 0.12,
+          "fin": 0.24
+        },
+        {
+          "texto": "necesitas:",
+          "inicio": 0.293,
+          "fin": 1.12
+        },
+        {
+          "texto": "Excel",
+          "inicio": 1.227,
+          "fin": 1.76
+        },
+        {
+          "texto": "para",
+          "inicio": 1.92,
+          "fin": 2.56
+        },
+        {
+          "texto": "Microsoft",
+          "inicio": 2.616,
+          "fin": 3.12
+        },
+        {
+          "texto": "trescientos",
+          "inicio": 3.168,
+          "fin": 3.68
+        },
+        {
+          "texto": "sesenta",
+          "inicio": 3.72,
+          "fin": 4.08
+        },
+        {
+          "texto": "y",
+          "inicio": 4.12,
+          "fin": 4.16
+        },
+        {
+          "texto": "cinco",
+          "inicio": 4.227,
+          "fin": 4.56
+        },
+        {
+          "texto": "o",
+          "inicio": 4.72,
+          "fin": 4.88
+        },
+        {
+          "texto": "Excel",
+          "inicio": 4.947,
+          "fin": 5.28
+        },
+        {
+          "texto": "dos",
+          "inicio": 5.3,
+          "fin": 5.36
+        },
+        {
+          "texto": "mil",
+          "inicio": 5.4,
+          "fin": 5.52
+        },
+        {
+          "texto": "veinticuatro,",
+          "inicio": 5.573,
+          "fin": 6.8
+        },
+        {
+          "texto": "porque",
+          "inicio": 6.834,
+          "fin": 7.04
+        },
+        {
+          "texto": "vamos",
+          "inicio": 7.08,
+          "fin": 7.28
+        },
+        {
+          "texto": "a",
+          "inicio": 7.36,
+          "fin": 7.44
+        },
+        {
+          "texto": "usar",
+          "inicio": 7.472,
+          "fin": 7.6
+        },
+        {
+          "texto": "la",
+          "inicio": 7.627,
+          "fin": 7.68
+        },
+        {
+          "texto": "función",
+          "inicio": 7.75,
+          "fin": 8.24
+        },
+        {
+          "texto": "IMAGEN,",
+          "inicio": 8.373,
+          "fin": 9.84
+        },
+        {
+          "texto": "y",
+          "inicio": 10.08,
+          "fin": 10.32
+        },
+        {
+          "texto": "conexión",
+          "inicio": 10.391,
+          "fin": 10.96
+        },
+        {
+          "texto": "a",
+          "inicio": 11.12,
+          "fin": 11.28
+        },
+        {
+          "texto": "internet.",
+          "inicio": 11.316,
+          "fin": 11.76
+        },
+        {
+          "texto": "Excel",
+          "inicio": 11.96,
+          "fin": 12.96
+        },
+        {
+          "texto": "no",
+          "inicio": 13.013,
+          "fin": 13.12
+        },
+        {
+          "texto": "tiene",
+          "inicio": 13.173,
+          "fin": 13.44
+        },
+        {
+          "texto": "una",
+          "inicio": 13.48,
+          "fin": 13.6
+        },
+        {
+          "texto": "función",
+          "inicio": 13.65,
+          "fin": 14.0
+        },
+        {
+          "texto": "de",
+          "inicio": 14.053,
+          "fin": 14.16
+        },
+        {
+          "texto": "QR",
+          "inicio": 14.293,
+          "fin": 14.56
+        },
+        {
+          "texto": "propia:",
+          "inicio": 14.64,
+          "fin": 15.68
+        },
+        {
+          "texto": "lo",
+          "inicio": 15.707,
+          "fin": 15.76
+        },
+        {
+          "texto": "que",
+          "inicio": 15.8,
+          "fin": 15.92
+        },
+        {
+          "texto": "hacemos",
+          "inicio": 15.96,
+          "fin": 16.32
+        },
+        {
+          "texto": "es",
+          "inicio": 16.4,
+          "fin": 16.56
+        },
+        {
+          "texto": "pedirle",
+          "inicio": 16.62,
+          "fin": 17.04
+        },
+        {
+          "texto": "la",
+          "inicio": 17.093,
+          "fin": 17.2
+        },
+        {
+          "texto": "imagen",
+          "inicio": 17.269,
+          "fin": 17.68
+        },
+        {
+          "texto": "a",
+          "inicio": 17.76,
+          "fin": 17.84
+        },
+        {
+          "texto": "un",
+          "inicio": 17.893,
+          "fin": 18.0
+        },
+        {
+          "texto": "servicio",
+          "inicio": 18.053,
+          "fin": 18.48
+        },
+        {
+          "texto": "gratuito.",
+          "inicio": 18.551,
+          "fin": 19.64
+        },
+        {
+          "texto": "Si",
+          "inicio": 19.813,
+          "fin": 20.16
+        },
+        {
+          "texto": "tienes",
+          "inicio": 20.206,
+          "fin": 20.48
+        },
+        {
+          "texto": "Excel",
+          "inicio": 20.547,
+          "fin": 20.88
+        },
+        {
+          "texto": "dos",
+          "inicio": 20.92,
+          "fin": 21.04
+        },
+        {
+          "texto": "mil",
+          "inicio": 21.08,
+          "fin": 21.2
+        },
+        {
+          "texto": "veintiuno",
+          "inicio": 21.253,
+          "fin": 21.68
+        },
+        {
+          "texto": "o",
+          "inicio": 21.72,
+          "fin": 21.76
+        },
+        {
+          "texto": "anterior,",
+          "inicio": 21.822,
+          "fin": 22.64
+        },
+        {
+          "texto": "quédate,",
+          "inicio": 22.68,
+          "fin": 23.52
+        },
+        {
+          "texto": "porque",
+          "inicio": 23.554,
+          "fin": 23.76
+        },
+        {
+          "texto": "al",
+          "inicio": 23.813,
+          "fin": 23.92
+        },
+        {
+          "texto": "final",
+          "inicio": 23.96,
+          "fin": 24.16
+        },
+        {
+          "texto": "te",
+          "inicio": 24.213,
+          "fin": 24.32
+        },
+        {
+          "texto": "doy",
+          "inicio": 24.373,
+          "fin": 24.56
+        },
+        {
+          "texto": "otra",
+          "inicio": 24.656,
+          "fin": 25.04
+        },
+        {
+          "texto": "forma.",
+          "inicio": 25.12,
+          "fin": 25.52
+        }
+      ]
+    },
+    {
+      "num": "06",
+      "titulo": "Los datos",
+      "audio": "escena-06.mp3",
+      "inicio": 120.4,
+      "duracion": 25.52,
+      "palabras": [
+        {
+          "texto": "Estos",
+          "inicio": 0.0,
+          "fin": 0.24
+        },
+        {
+          "texto": "son",
+          "inicio": 0.26,
+          "fin": 0.32
+        },
+        {
+          "texto": "los",
+          "inicio": 0.36,
+          "fin": 0.48
+        },
+        {
+          "texto": "datos:",
+          "inicio": 0.56,
+          "fin": 1.04
+        },
+        {
+          "texto": "un",
+          "inicio": 1.36,
+          "fin": 2.0
+        },
+        {
+          "texto": "inventario",
+          "inicio": 2.046,
+          "fin": 2.64
+        },
+        {
+          "texto": "con",
+          "inicio": 2.76,
+          "fin": 3.12
+        },
+        {
+          "texto": "seis",
+          "inicio": 3.2,
+          "fin": 3.52
+        },
+        {
+          "texto": "activos.",
+          "inicio": 3.6,
+          "fin": 4.32
+        },
+        {
+          "texto": "En",
+          "inicio": 4.693,
+          "fin": 5.44
+        },
+        {
+          "texto": "la",
+          "inicio": 5.493,
+          "fin": 5.6
+        },
+        {
+          "texto": "columna",
+          "inicio": 5.65,
+          "fin": 6.0
+        },
+        {
+          "texto": "A",
+          "inicio": 6.12,
+          "fin": 6.24
+        },
+        {
+          "texto": "está",
+          "inicio": 6.336,
+          "fin": 6.72
+        },
+        {
+          "texto": "el",
+          "inicio": 6.747,
+          "fin": 6.8
+        },
+        {
+          "texto": "código,",
+          "inicio": 6.869,
+          "fin": 7.68
+        },
+        {
+          "texto": "de",
+          "inicio": 7.733,
+          "fin": 7.84
+        },
+        {
+          "texto": "INV",
+          "inicio": 7.96,
+          "fin": 8.32
+        },
+        {
+          "texto": "cero",
+          "inicio": 8.44,
+          "fin": 8.64
+        },
+        {
+          "texto": "cero",
+          "inicio": 8.72,
+          "fin": 8.88
+        },
+        {
+          "texto": "uno",
+          "inicio": 8.96,
+          "fin": 9.2
+        },
+        {
+          "texto": "a",
+          "inicio": 9.4,
+          "fin": 9.6
+        },
+        {
+          "texto": "INV",
+          "inicio": 9.72,
+          "fin": 10.08
+        },
+        {
+          "texto": "cero",
+          "inicio": 10.24,
+          "fin": 10.48
+        },
+        {
+          "texto": "cero",
+          "inicio": 10.56,
+          "fin": 10.72
+        },
+        {
+          "texto": "seis.",
+          "inicio": 10.784,
+          "fin": 11.64
+        },
+        {
+          "texto": "En",
+          "inicio": 11.84,
+          "fin": 12.24
+        },
+        {
+          "texto": "la",
+          "inicio": 12.293,
+          "fin": 12.4
+        },
+        {
+          "texto": "B",
+          "inicio": 12.52,
+          "fin": 12.64
+        },
+        {
+          "texto": "el",
+          "inicio": 12.72,
+          "fin": 12.88
+        },
+        {
+          "texto": "producto,",
+          "inicio": 12.951,
+          "fin": 14.16
+        },
+        {
+          "texto": "en",
+          "inicio": 14.213,
+          "fin": 14.32
+        },
+        {
+          "texto": "la",
+          "inicio": 14.373,
+          "fin": 14.48
+        },
+        {
+          "texto": "C",
+          "inicio": 14.68,
+          "fin": 14.88
+        },
+        {
+          "texto": "la",
+          "inicio": 14.987,
+          "fin": 15.2
+        },
+        {
+          "texto": "ubicación",
+          "inicio": 15.264,
+          "fin": 16.32
+        },
+        {
+          "texto": "y",
+          "inicio": 16.56,
+          "fin": 16.8
+        },
+        {
+          "texto": "en",
+          "inicio": 16.827,
+          "fin": 16.88
+        },
+        {
+          "texto": "la",
+          "inicio": 16.933,
+          "fin": 17.04
+        },
+        {
+          "texto": "D",
+          "inicio": 17.2,
+          "fin": 17.36
+        },
+        {
+          "texto": "la",
+          "inicio": 17.44,
+          "fin": 17.6
+        },
+        {
+          "texto": "cantidad.",
+          "inicio": 17.662,
+          "fin": 18.24
+        },
+        {
+          "texto": "Los",
+          "inicio": 18.54,
+          "fin": 19.44
+        },
+        {
+          "texto": "códigos",
+          "inicio": 19.48,
+          "fin": 19.84
+        },
+        {
+          "texto": "QR",
+          "inicio": 20.053,
+          "fin": 20.48
+        },
+        {
+          "texto": "van",
+          "inicio": 20.56,
+          "fin": 20.8
+        },
+        {
+          "texto": "a",
+          "inicio": 20.84,
+          "fin": 20.88
+        },
+        {
+          "texto": "ir",
+          "inicio": 20.933,
+          "fin": 21.04
+        },
+        {
+          "texto": "en",
+          "inicio": 21.067,
+          "fin": 21.12
+        },
+        {
+          "texto": "la",
+          "inicio": 21.147,
+          "fin": 21.2
+        },
+        {
+          "texto": "columna",
+          "inicio": 21.26,
+          "fin": 21.68
+        },
+        {
+          "texto": "F",
+          "inicio": 22.2,
+          "fin": 22.72
+        },
+        {
+          "texto": "y",
+          "inicio": 23.04,
+          "fin": 23.36
+        },
+        {
+          "texto": "los",
+          "inicio": 23.4,
+          "fin": 23.52
+        },
+        {
+          "texto": "códigos",
+          "inicio": 23.56,
+          "fin": 23.92
+        },
+        {
+          "texto": "de",
+          "inicio": 23.947,
+          "fin": 24.0
+        },
+        {
+          "texto": "barras",
+          "inicio": 24.048,
+          "fin": 24.48
+        },
+        {
+          "texto": "en",
+          "inicio": 24.587,
+          "fin": 24.8
+        },
+        {
+          "texto": "la",
+          "inicio": 24.853,
+          "fin": 24.96
+        },
+        {
+          "texto": "G.",
+          "inicio": 25.12,
+          "fin": 25.52
+        }
+      ]
+    },
+    {
+      "num": "07",
+      "titulo": "Paso 1: tu primer QR",
+      "audio": "escena-07.mp3",
+      "inicio": 146.32,
+      "duracion": 32.16,
+      "palabras": [
+        {
+          "texto": "Paso",
+          "inicio": 0.0,
+          "fin": 0.32
+        },
+        {
+          "texto": "uno:",
+          "inicio": 0.4,
+          "fin": 0.72
+        },
+        {
+          "texto": "tu",
+          "inicio": 0.933,
+          "fin": 1.36
+        },
+        {
+          "texto": "primer",
+          "inicio": 1.417,
+          "fin": 1.76
+        },
+        {
+          "texto": "código",
+          "inicio": 1.84,
+          "fin": 2.32
+        },
+        {
+          "texto": "QR.",
+          "inicio": 2.533,
+          "fin": 3.04
+        },
+        {
+          "texto": "En",
+          "inicio": 3.387,
+          "fin": 4.08
+        },
+        {
+          "texto": "la",
+          "inicio": 4.107,
+          "fin": 4.16
+        },
+        {
+          "texto": "celda",
+          "inicio": 4.24,
+          "fin": 4.64
+        },
+        {
+          "texto": "F2",
+          "inicio": 4.92,
+          "fin": 5.52
+        },
+        {
+          "texto": "escribe",
+          "inicio": 5.707,
+          "fin": 6.48
+        },
+        {
+          "texto": "igual,",
+          "inicio": 6.6,
+          "fin": 7.28
+        },
+        {
+          "texto": "IMAGEN,",
+          "inicio": 7.467,
+          "fin": 8.32
+        },
+        {
+          "texto": "abre",
+          "inicio": 8.512,
+          "fin": 9.28
+        },
+        {
+          "texto": "paréntesis,",
+          "inicio": 9.32,
+          "fin": 10.16
+        },
+        {
+          "texto": "y",
+          "inicio": 10.28,
+          "fin": 10.4
+        },
+        {
+          "texto": "entre",
+          "inicio": 10.453,
+          "fin": 10.72
+        },
+        {
+          "texto": "comillas",
+          "inicio": 10.76,
+          "fin": 11.36
+        },
+        {
+          "texto": "la",
+          "inicio": 11.547,
+          "fin": 11.92
+        },
+        {
+          "texto": "dirección",
+          "inicio": 11.976,
+          "fin": 12.48
+        },
+        {
+          "texto": "del",
+          "inicio": 12.54,
+          "fin": 12.72
+        },
+        {
+          "texto": "servicio",
+          "inicio": 12.782,
+          "fin": 13.28
+        },
+        {
+          "texto": "de",
+          "inicio": 13.307,
+          "fin": 13.36
+        },
+        {
+          "texto": "códigos",
+          "inicio": 13.44,
+          "fin": 13.92
+        },
+        {
+          "texto": "QR",
+          "inicio": 14.08,
+          "fin": 14.4
+        },
+        {
+          "texto": "que",
+          "inicio": 14.5,
+          "fin": 14.8
+        },
+        {
+          "texto": "te",
+          "inicio": 14.827,
+          "fin": 14.88
+        },
+        {
+          "texto": "dejo",
+          "inicio": 14.96,
+          "fin": 15.2
+        },
+        {
+          "texto": "en",
+          "inicio": 15.227,
+          "fin": 15.28
+        },
+        {
+          "texto": "la",
+          "inicio": 15.307,
+          "fin": 15.36
+        },
+        {
+          "texto": "descripción.",
+          "inicio": 15.417,
+          "fin": 16.32
+        },
+        {
+          "texto": "Termina",
+          "inicio": 16.457,
+          "fin": 17.36
+        },
+        {
+          "texto": "en",
+          "inicio": 17.493,
+          "fin": 17.76
+        },
+        {
+          "texto": "data",
+          "inicio": 17.856,
+          "fin": 18.24
+        },
+        {
+          "texto": "igual.",
+          "inicio": 18.347,
+          "fin": 19.12
+        },
+        {
+          "texto": "Cierra",
+          "inicio": 19.413,
+          "fin": 20.16
+        },
+        {
+          "texto": "comillas,",
+          "inicio": 20.22,
+          "fin": 21.04
+        },
+        {
+          "texto": "y",
+          "inicio": 21.08,
+          "fin": 21.12
+        },
+        {
+          "texto": "con",
+          "inicio": 21.16,
+          "fin": 21.28
+        },
+        {
+          "texto": "el",
+          "inicio": 21.333,
+          "fin": 21.44
+        },
+        {
+          "texto": "ampersand",
+          "inicio": 21.5,
+          "fin": 22.16
+        },
+        {
+          "texto": "le",
+          "inicio": 22.267,
+          "fin": 22.48
+        },
+        {
+          "texto": "pegas",
+          "inicio": 22.52,
+          "fin": 22.88
+        },
+        {
+          "texto": "el",
+          "inicio": 22.907,
+          "fin": 22.96
+        },
+        {
+          "texto": "código",
+          "inicio": 23.04,
+          "fin": 23.52
+        },
+        {
+          "texto": "de",
+          "inicio": 23.6,
+          "fin": 23.76
+        },
+        {
+          "texto": "la",
+          "inicio": 23.787,
+          "fin": 23.84
+        },
+        {
+          "texto": "celda",
+          "inicio": 23.92,
+          "fin": 24.32
+        },
+        {
+          "texto": "A2.",
+          "inicio": 24.6,
+          "fin": 25.52
+        },
+        {
+          "texto": "Cierra",
+          "inicio": 25.733,
+          "fin": 26.32
+        },
+        {
+          "texto": "paréntesis,",
+          "inicio": 26.36,
+          "fin": 27.68
+        },
+        {
+          "texto": "Enter…",
+          "inicio": 27.787,
+          "fin": 29.04
+        },
+        {
+          "texto": "¡Y",
+          "inicio": 29.1,
+          "fin": 29.12
+        },
+        {
+          "texto": "ahí",
+          "inicio": 29.173,
+          "fin": 29.44
+        },
+        {
+          "texto": "está",
+          "inicio": 29.472,
+          "fin": 29.6
+        },
+        {
+          "texto": "tu",
+          "inicio": 29.68,
+          "fin": 29.84
+        },
+        {
+          "texto": "QR,",
+          "inicio": 30.027,
+          "fin": 30.8
+        },
+        {
+          "texto": "dentro",
+          "inicio": 30.857,
+          "fin": 31.2
+        },
+        {
+          "texto": "de",
+          "inicio": 31.227,
+          "fin": 31.28
+        },
+        {
+          "texto": "la",
+          "inicio": 31.307,
+          "fin": 31.36
+        },
+        {
+          "texto": "celda!",
+          "inicio": 31.44,
+          "fin": 32.16
+        }
+      ]
+    },
+    {
+      "num": "08",
+      "titulo": "Entiende la fórmula",
+      "audio": "escena-08.mp3",
+      "inicio": 178.88,
+      "duracion": 27.04,
+      "palabras": [
+        {
+          "texto": "Entiende",
+          "inicio": 0.0,
+          "fin": 0.4
+        },
+        {
+          "texto": "la",
+          "inicio": 0.427,
+          "fin": 0.48
+        },
+        {
+          "texto": "fórmula,",
+          "inicio": 0.56,
+          "fin": 1.2
+        },
+        {
+          "texto": "que",
+          "inicio": 1.22,
+          "fin": 1.28
+        },
+        {
+          "texto": "es",
+          "inicio": 1.307,
+          "fin": 1.36
+        },
+        {
+          "texto": "muy",
+          "inicio": 1.4,
+          "fin": 1.52
+        },
+        {
+          "texto": "sencilla.",
+          "inicio": 1.56,
+          "fin": 2.16
+        },
+        {
+          "texto": "IMAGEN",
+          "inicio": 2.32,
+          "fin": 3.12
+        },
+        {
+          "texto": "trae",
+          "inicio": 3.387,
+          "fin": 4.24
+        },
+        {
+          "texto": "una",
+          "inicio": 4.48,
+          "fin": 5.2
+        },
+        {
+          "texto": "imagen",
+          "inicio": 5.257,
+          "fin": 5.6
+        },
+        {
+          "texto": "de",
+          "inicio": 5.627,
+          "fin": 5.68
+        },
+        {
+          "texto": "internet",
+          "inicio": 5.751,
+          "fin": 6.32
+        },
+        {
+          "texto": "y",
+          "inicio": 6.44,
+          "fin": 6.56
+        },
+        {
+          "texto": "la",
+          "inicio": 6.613,
+          "fin": 6.72
+        },
+        {
+          "texto": "pone",
+          "inicio": 6.76,
+          "fin": 7.04
+        },
+        {
+          "texto": "dentro",
+          "inicio": 7.097,
+          "fin": 7.44
+        },
+        {
+          "texto": "de",
+          "inicio": 7.467,
+          "fin": 7.52
+        },
+        {
+          "texto": "la",
+          "inicio": 7.547,
+          "fin": 7.6
+        },
+        {
+          "texto": "celda.",
+          "inicio": 7.68,
+          "fin": 8.72
+        },
+        {
+          "texto": "La",
+          "inicio": 8.933,
+          "fin": 9.36
+        },
+        {
+          "texto": "dirección",
+          "inicio": 9.416,
+          "fin": 9.92
+        },
+        {
+          "texto": "es",
+          "inicio": 10.0,
+          "fin": 10.16
+        },
+        {
+          "texto": "de",
+          "inicio": 10.187,
+          "fin": 10.24
+        },
+        {
+          "texto": "un",
+          "inicio": 10.293,
+          "fin": 10.4
+        },
+        {
+          "texto": "generador",
+          "inicio": 10.453,
+          "fin": 10.96
+        },
+        {
+          "texto": "de",
+          "inicio": 10.987,
+          "fin": 11.04
+        },
+        {
+          "texto": "QR",
+          "inicio": 11.307,
+          "fin": 11.84
+        },
+        {
+          "texto": "gratuito:",
+          "inicio": 11.938,
+          "fin": 13.84
+        },
+        {
+          "texto": "size",
+          "inicio": 13.968,
+          "fin": 14.48
+        },
+        {
+          "texto": "dice",
+          "inicio": 14.576,
+          "fin": 14.96
+        },
+        {
+          "texto": "el",
+          "inicio": 14.987,
+          "fin": 15.04
+        },
+        {
+          "texto": "tamaño",
+          "inicio": 15.097,
+          "fin": 15.44
+        },
+        {
+          "texto": "en",
+          "inicio": 15.467,
+          "fin": 15.52
+        },
+        {
+          "texto": "píxeles,",
+          "inicio": 15.56,
+          "fin": 16.4
+        },
+        {
+          "texto": "y",
+          "inicio": 16.8,
+          "fin": 17.2
+        },
+        {
+          "texto": "lo",
+          "inicio": 17.253,
+          "fin": 17.36
+        },
+        {
+          "texto": "que",
+          "inicio": 17.38,
+          "fin": 17.44
+        },
+        {
+          "texto": "va",
+          "inicio": 17.493,
+          "fin": 17.6
+        },
+        {
+          "texto": "después",
+          "inicio": 17.65,
+          "fin": 18.0
+        },
+        {
+          "texto": "de",
+          "inicio": 18.027,
+          "fin": 18.08
+        },
+        {
+          "texto": "data",
+          "inicio": 18.176,
+          "fin": 18.56
+        },
+        {
+          "texto": "es",
+          "inicio": 18.693,
+          "fin": 18.96
+        },
+        {
+          "texto": "lo",
+          "inicio": 18.987,
+          "fin": 19.04
+        },
+        {
+          "texto": "que",
+          "inicio": 19.08,
+          "fin": 19.2
+        },
+        {
+          "texto": "va",
+          "inicio": 19.227,
+          "fin": 19.28
+        },
+        {
+          "texto": "a",
+          "inicio": 19.38,
+          "fin": 19.48
+        },
+        {
+          "texto": "guardar",
+          "inicio": 19.505,
+          "fin": 19.68
+        },
+        {
+          "texto": "el",
+          "inicio": 19.707,
+          "fin": 19.76
+        },
+        {
+          "texto": "código.",
+          "inicio": 19.829,
+          "fin": 20.88
+        },
+        {
+          "texto": "Y",
+          "inicio": 21.2,
+          "fin": 21.52
+        },
+        {
+          "texto": "con",
+          "inicio": 21.58,
+          "fin": 21.76
+        },
+        {
+          "texto": "el",
+          "inicio": 21.813,
+          "fin": 21.92
+        },
+        {
+          "texto": "ampersand",
+          "inicio": 22.02,
+          "fin": 22.72
+        },
+        {
+          "texto": "A2,",
+          "inicio": 22.92,
+          "fin": 23.68
+        },
+        {
+          "texto": "cada",
+          "inicio": 23.824,
+          "fin": 24.4
+        },
+        {
+          "texto": "fila",
+          "inicio": 24.48,
+          "fin": 24.8
+        },
+        {
+          "texto": "genera",
+          "inicio": 24.857,
+          "fin": 25.2
+        },
+        {
+          "texto": "el",
+          "inicio": 25.253,
+          "fin": 25.36
+        },
+        {
+          "texto": "QR",
+          "inicio": 25.493,
+          "fin": 25.76
+        },
+        {
+          "texto": "de",
+          "inicio": 25.813,
+          "fin": 25.92
+        },
+        {
+          "texto": "su",
+          "inicio": 25.973,
+          "fin": 26.08
+        },
+        {
+          "texto": "propio",
+          "inicio": 26.126,
+          "fin": 26.4
+        },
+        {
+          "texto": "producto.",
+          "inicio": 26.462,
+          "fin": 27.04
+        }
+      ]
+    },
+    {
+      "num": "09",
+      "titulo": "Paso 2: más información en el QR",
+      "audio": "escena-09.mp3",
+      "inicio": 206.32,
+      "duracion": 31.68,
+      "palabras": [
+        {
+          "texto": "Paso",
+          "inicio": 0.0,
+          "fin": 0.24
+        },
+        {
+          "texto": "dos:",
+          "inicio": 0.32,
+          "fin": 0.72
+        },
+        {
+          "texto": "guarda",
+          "inicio": 0.811,
+          "fin": 1.36
+        },
+        {
+          "texto": "más",
+          "inicio": 1.44,
+          "fin": 1.68
+        },
+        {
+          "texto": "información.",
+          "inicio": 1.753,
+          "fin": 2.64
+        },
+        {
+          "texto": "Quiero",
+          "inicio": 2.96,
+          "fin": 3.76
+        },
+        {
+          "texto": "que",
+          "inicio": 3.78,
+          "fin": 3.84
+        },
+        {
+          "texto": "el",
+          "inicio": 3.893,
+          "fin": 4.0
+        },
+        {
+          "texto": "QR",
+          "inicio": 4.16,
+          "fin": 4.48
+        },
+        {
+          "texto": "diga",
+          "inicio": 4.58,
+          "fin": 4.96
+        },
+        {
+          "texto": "el",
+          "inicio": 5.067,
+          "fin": 5.28
+        },
+        {
+          "texto": "código,",
+          "inicio": 5.36,
+          "fin": 6.24
+        },
+        {
+          "texto": "el",
+          "inicio": 6.293,
+          "fin": 6.4
+        },
+        {
+          "texto": "producto",
+          "inicio": 6.471,
+          "fin": 7.04
+        },
+        {
+          "texto": "y",
+          "inicio": 7.2,
+          "fin": 7.36
+        },
+        {
+          "texto": "la",
+          "inicio": 7.387,
+          "fin": 7.44
+        },
+        {
+          "texto": "ubicación.",
+          "inicio": 7.504,
+          "fin": 8.32
+        },
+        {
+          "texto": "Uno",
+          "inicio": 8.58,
+          "fin": 9.36
+        },
+        {
+          "texto": "los",
+          "inicio": 9.42,
+          "fin": 9.6
+        },
+        {
+          "texto": "tres",
+          "inicio": 9.696,
+          "fin": 10.08
+        },
+        {
+          "texto": "con",
+          "inicio": 10.18,
+          "fin": 10.48
+        },
+        {
+          "texto": "ampersand",
+          "inicio": 10.56,
+          "fin": 11.44
+        },
+        {
+          "texto": "y",
+          "inicio": 11.68,
+          "fin": 11.92
+        },
+        {
+          "texto": "una",
+          "inicio": 11.98,
+          "fin": 12.16
+        },
+        {
+          "texto": "barra",
+          "inicio": 12.22,
+          "fin": 12.48
+        },
+        {
+          "texto": "en",
+          "inicio": 12.507,
+          "fin": 12.56
+        },
+        {
+          "texto": "medio.",
+          "inicio": 12.627,
+          "fin": 13.2
+        },
+        {
+          "texto": "Pero",
+          "inicio": 13.248,
+          "fin": 13.44
+        },
+        {
+          "texto": "ojo:",
+          "inicio": 13.52,
+          "fin": 14.4
+        },
+        {
+          "texto": "las",
+          "inicio": 14.42,
+          "fin": 14.48
+        },
+        {
+          "texto": "direcciones",
+          "inicio": 14.528,
+          "fin": 15.04
+        },
+        {
+          "texto": "de",
+          "inicio": 15.067,
+          "fin": 15.12
+        },
+        {
+          "texto": "internet",
+          "inicio": 15.191,
+          "fin": 15.76
+        },
+        {
+          "texto": "no",
+          "inicio": 15.867,
+          "fin": 16.08
+        },
+        {
+          "texto": "aceptan",
+          "inicio": 16.16,
+          "fin": 16.72
+        },
+        {
+          "texto": "espacios,",
+          "inicio": 16.78,
+          "fin": 17.84
+        },
+        {
+          "texto": "por",
+          "inicio": 17.88,
+          "fin": 18.0
+        },
+        {
+          "texto": "eso",
+          "inicio": 18.06,
+          "fin": 18.24
+        },
+        {
+          "texto": "lo",
+          "inicio": 18.267,
+          "fin": 18.32
+        },
+        {
+          "texto": "envuelvo",
+          "inicio": 18.38,
+          "fin": 18.88
+        },
+        {
+          "texto": "en",
+          "inicio": 18.96,
+          "fin": 19.12
+        },
+        {
+          "texto": "la",
+          "inicio": 19.147,
+          "fin": 19.2
+        },
+        {
+          "texto": "función",
+          "inicio": 19.27,
+          "fin": 19.76
+        },
+        {
+          "texto": "URLCODIF,",
+          "inicio": 20.06,
+          "fin": 22.96
+        },
+        {
+          "texto": "que",
+          "inicio": 22.98,
+          "fin": 23.04
+        },
+        {
+          "texto": "los",
+          "inicio": 23.08,
+          "fin": 23.2
+        },
+        {
+          "texto": "convierte",
+          "inicio": 23.248,
+          "fin": 23.68
+        },
+        {
+          "texto": "a",
+          "inicio": 23.72,
+          "fin": 23.76
+        },
+        {
+          "texto": "un",
+          "inicio": 23.787,
+          "fin": 23.84
+        },
+        {
+          "texto": "formato",
+          "inicio": 23.92,
+          "fin": 24.48
+        },
+        {
+          "texto": "que",
+          "inicio": 24.5,
+          "fin": 24.56
+        },
+        {
+          "texto": "la",
+          "inicio": 24.613,
+          "fin": 24.72
+        },
+        {
+          "texto": "web",
+          "inicio": 24.78,
+          "fin": 24.96
+        },
+        {
+          "texto": "entiende.",
+          "inicio": 25.02,
+          "fin": 25.6
+        },
+        {
+          "texto": "Ahora,",
+          "inicio": 25.973,
+          "fin": 27.44
+        },
+        {
+          "texto": "si",
+          "inicio": 27.493,
+          "fin": 27.6
+        },
+        {
+          "texto": "escaneas",
+          "inicio": 27.64,
+          "fin": 28.16
+        },
+        {
+          "texto": "el",
+          "inicio": 28.187,
+          "fin": 28.24
+        },
+        {
+          "texto": "QR",
+          "inicio": 28.4,
+          "fin": 28.72
+        },
+        {
+          "texto": "con",
+          "inicio": 28.76,
+          "fin": 28.88
+        },
+        {
+          "texto": "el",
+          "inicio": 28.907,
+          "fin": 28.96
+        },
+        {
+          "texto": "celular,",
+          "inicio": 29.03,
+          "fin": 29.92
+        },
+        {
+          "texto": "te",
+          "inicio": 29.973,
+          "fin": 30.08
+        },
+        {
+          "texto": "muestra",
+          "inicio": 30.13,
+          "fin": 30.48
+        },
+        {
+          "texto": "los",
+          "inicio": 30.54,
+          "fin": 30.72
+        },
+        {
+          "texto": "tres",
+          "inicio": 30.768,
+          "fin": 30.96
+        },
+        {
+          "texto": "datos.",
+          "inicio": 31.053,
+          "fin": 31.68
+        }
+      ]
+    },
+    {
+      "num": "10",
+      "titulo": "Paso 3: rellena todas las filas",
+      "audio": "escena-10.mp3",
+      "inicio": 238.4,
+      "duracion": 23.52,
+      "palabras": [
+        {
+          "texto": "Paso",
+          "inicio": 0.0,
+          "fin": 0.32
+        },
+        {
+          "texto": "tres:",
+          "inicio": 0.416,
+          "fin": 0.88
+        },
+        {
+          "texto": "arrastra",
+          "inicio": 1.12,
+          "fin": 2.16
+        },
+        {
+          "texto": "la",
+          "inicio": 2.187,
+          "fin": 2.24
+        },
+        {
+          "texto": "fórmula",
+          "inicio": 2.32,
+          "fin": 2.88
+        },
+        {
+          "texto": "hasta",
+          "inicio": 2.96,
+          "fin": 3.36
+        },
+        {
+          "texto": "la",
+          "inicio": 3.387,
+          "fin": 3.44
+        },
+        {
+          "texto": "fila",
+          "inicio": 3.504,
+          "fin": 3.76
+        },
+        {
+          "texto": "siete,",
+          "inicio": 3.88,
+          "fin": 4.68
+        },
+        {
+          "texto": "y",
+          "inicio": 4.86,
+          "fin": 5.04
+        },
+        {
+          "texto": "cada",
+          "inicio": 5.12,
+          "fin": 5.44
+        },
+        {
+          "texto": "producto",
+          "inicio": 5.511,
+          "fin": 6.08
+        },
+        {
+          "texto": "tendrá",
+          "inicio": 6.16,
+          "fin": 6.56
+        },
+        {
+          "texto": "su",
+          "inicio": 6.64,
+          "fin": 6.8
+        },
+        {
+          "texto": "QR.",
+          "inicio": 6.987,
+          "fin": 7.52
+        },
+        {
+          "texto": "Si",
+          "inicio": 7.813,
+          "fin": 8.4
+        },
+        {
+          "texto": "se",
+          "inicio": 8.453,
+          "fin": 8.56
+        },
+        {
+          "texto": "ven",
+          "inicio": 8.62,
+          "fin": 8.8
+        },
+        {
+          "texto": "pequeños,",
+          "inicio": 8.853,
+          "fin": 9.6
+        },
+        {
+          "texto": "agranda",
+          "inicio": 9.68,
+          "fin": 10.08
+        },
+        {
+          "texto": "las",
+          "inicio": 10.12,
+          "fin": 10.24
+        },
+        {
+          "texto": "filas:",
+          "inicio": 10.32,
+          "fin": 11.04
+        },
+        {
+          "texto": "en",
+          "inicio": 11.2,
+          "fin": 11.52
+        },
+        {
+          "texto": "la",
+          "inicio": 11.547,
+          "fin": 11.6
+        },
+        {
+          "texto": "pestaña",
+          "inicio": 11.68,
+          "fin": 12.24
+        },
+        {
+          "texto": "Inicio,",
+          "inicio": 12.373,
+          "fin": 13.12
+        },
+        {
+          "texto": "Formato,",
+          "inicio": 13.28,
+          "fin": 14.64
+        },
+        {
+          "texto": "Alto",
+          "inicio": 14.752,
+          "fin": 15.2
+        },
+        {
+          "texto": "de",
+          "inicio": 15.253,
+          "fin": 15.36
+        },
+        {
+          "texto": "fila,",
+          "inicio": 15.456,
+          "fin": 16.08
+        },
+        {
+          "texto": "y",
+          "inicio": 16.2,
+          "fin": 16.32
+        },
+        {
+          "texto": "pon",
+          "inicio": 16.4,
+          "fin": 16.64
+        },
+        {
+          "texto": "ochenta.",
+          "inicio": 16.78,
+          "fin": 17.84
+        },
+        {
+          "texto": "La",
+          "inicio": 18.053,
+          "fin": 18.48
+        },
+        {
+          "texto": "imagen",
+          "inicio": 18.56,
+          "fin": 19.04
+        },
+        {
+          "texto": "se",
+          "inicio": 19.12,
+          "fin": 19.28
+        },
+        {
+          "texto": "ajusta",
+          "inicio": 19.347,
+          "fin": 19.76
+        },
+        {
+          "texto": "sola",
+          "inicio": 19.84,
+          "fin": 20.16
+        },
+        {
+          "texto": "al",
+          "inicio": 20.267,
+          "fin": 20.48
+        },
+        {
+          "texto": "tamaño",
+          "inicio": 20.549,
+          "fin": 20.96
+        },
+        {
+          "texto": "de",
+          "inicio": 20.987,
+          "fin": 21.04
+        },
+        {
+          "texto": "la",
+          "inicio": 21.093,
+          "fin": 21.2
+        },
+        {
+          "texto": "celda,",
+          "inicio": 21.28,
+          "fin": 22.08
+        },
+        {
+          "texto": "sin",
+          "inicio": 22.16,
+          "fin": 22.4
+        },
+        {
+          "texto": "deformarse.",
+          "inicio": 22.469,
+          "fin": 23.52
+        }
+      ]
+    },
+    {
+      "num": "11",
+      "titulo": "Paso 4: el código de barras",
+      "audio": "escena-11.mp3",
+      "inicio": 262.32,
+      "duracion": 29.68,
+      "palabras": [
+        {
+          "texto": "Paso",
+          "inicio": 0.0,
+          "fin": 0.32
+        },
+        {
+          "texto": "cuatro:",
+          "inicio": 0.389,
+          "fin": 0.88
+        },
+        {
+          "texto": "el",
+          "inicio": 1.013,
+          "fin": 1.28
+        },
+        {
+          "texto": "código",
+          "inicio": 1.337,
+          "fin": 1.68
+        },
+        {
+          "texto": "de",
+          "inicio": 1.707,
+          "fin": 1.76
+        },
+        {
+          "texto": "barras.",
+          "inicio": 1.808,
+          "fin": 2.4
+        },
+        {
+          "texto": "Es",
+          "inicio": 2.667,
+          "fin": 3.2
+        },
+        {
+          "texto": "la",
+          "inicio": 3.227,
+          "fin": 3.28
+        },
+        {
+          "texto": "misma",
+          "inicio": 3.32,
+          "fin": 3.52
+        },
+        {
+          "texto": "idea,",
+          "inicio": 3.6,
+          "fin": 4.32
+        },
+        {
+          "texto": "con",
+          "inicio": 4.36,
+          "fin": 4.48
+        },
+        {
+          "texto": "otro",
+          "inicio": 4.528,
+          "fin": 4.72
+        },
+        {
+          "texto": "servicio",
+          "inicio": 4.773,
+          "fin": 5.2
+        },
+        {
+          "texto": "gratuito.",
+          "inicio": 5.262,
+          "fin": 5.84
+        },
+        {
+          "texto": "En",
+          "inicio": 6.08,
+          "fin": 6.56
+        },
+        {
+          "texto": "G2",
+          "inicio": 6.68,
+          "fin": 7.12
+        },
+        {
+          "texto": "escribe",
+          "inicio": 7.2,
+          "fin": 7.68
+        },
+        {
+          "texto": "IMAGEN",
+          "inicio": 7.813,
+          "fin": 8.64
+        },
+        {
+          "texto": "y",
+          "inicio": 8.88,
+          "fin": 9.12
+        },
+        {
+          "texto": "la",
+          "inicio": 9.147,
+          "fin": 9.2
+        },
+        {
+          "texto": "dirección",
+          "inicio": 9.248,
+          "fin": 9.68
+        },
+        {
+          "texto": "del",
+          "inicio": 9.72,
+          "fin": 9.84
+        },
+        {
+          "texto": "generador,",
+          "inicio": 9.893,
+          "fin": 10.64
+        },
+        {
+          "texto": "también",
+          "inicio": 10.69,
+          "fin": 11.04
+        },
+        {
+          "texto": "en",
+          "inicio": 11.067,
+          "fin": 11.12
+        },
+        {
+          "texto": "la",
+          "inicio": 11.147,
+          "fin": 11.2
+        },
+        {
+          "texto": "descripción.",
+          "inicio": 11.246,
+          "fin": 12.0
+        },
+        {
+          "texto": "bcid",
+          "inicio": 12.56,
+          "fin": 14.08
+        },
+        {
+          "texto": "igual",
+          "inicio": 14.213,
+          "fin": 14.88
+        },
+        {
+          "texto": "code",
+          "inicio": 14.992,
+          "fin": 15.44
+        },
+        {
+          "texto": "ciento",
+          "inicio": 15.52,
+          "fin": 15.84
+        },
+        {
+          "texto": "veintiocho",
+          "inicio": 15.893,
+          "fin": 16.64
+        },
+        {
+          "texto": "es",
+          "inicio": 16.747,
+          "fin": 16.96
+        },
+        {
+          "texto": "el",
+          "inicio": 17.013,
+          "fin": 17.12
+        },
+        {
+          "texto": "tipo",
+          "inicio": 17.184,
+          "fin": 17.44
+        },
+        {
+          "texto": "de",
+          "inicio": 17.467,
+          "fin": 17.52
+        },
+        {
+          "texto": "código,",
+          "inicio": 17.6,
+          "fin": 18.48
+        },
+        {
+          "texto": "el",
+          "inicio": 18.533,
+          "fin": 18.64
+        },
+        {
+          "texto": "más",
+          "inicio": 18.7,
+          "fin": 18.88
+        },
+        {
+          "texto": "usado",
+          "inicio": 18.933,
+          "fin": 19.2
+        },
+        {
+          "texto": "en",
+          "inicio": 19.227,
+          "fin": 19.28
+        },
+        {
+          "texto": "inventarios.",
+          "inicio": 19.337,
+          "fin": 20.08
+        },
+        {
+          "texto": "Text",
+          "inicio": 20.32,
+          "fin": 21.28
+        },
+        {
+          "texto": "es",
+          "inicio": 21.387,
+          "fin": 21.6
+        },
+        {
+          "texto": "el",
+          "inicio": 21.653,
+          "fin": 21.76
+        },
+        {
+          "texto": "código",
+          "inicio": 21.806,
+          "fin": 22.08
+        },
+        {
+          "texto": "del",
+          "inicio": 22.12,
+          "fin": 22.24
+        },
+        {
+          "texto": "producto,",
+          "inicio": 22.311,
+          "fin": 22.96
+        },
+        {
+          "texto": "y",
+          "inicio": 23.32,
+          "fin": 23.68
+        },
+        {
+          "texto": "include",
+          "inicio": 23.77,
+          "fin": 24.4
+        },
+        {
+          "texto": "text",
+          "inicio": 24.496,
+          "fin": 24.88
+        },
+        {
+          "texto": "pone",
+          "inicio": 25.0,
+          "fin": 25.28
+        },
+        {
+          "texto": "el",
+          "inicio": 25.307,
+          "fin": 25.36
+        },
+        {
+          "texto": "número",
+          "inicio": 25.417,
+          "fin": 25.76
+        },
+        {
+          "texto": "debajo",
+          "inicio": 25.8,
+          "fin": 26.08
+        },
+        {
+          "texto": "de",
+          "inicio": 26.107,
+          "fin": 26.16
+        },
+        {
+          "texto": "las",
+          "inicio": 26.2,
+          "fin": 26.32
+        },
+        {
+          "texto": "barras,",
+          "inicio": 26.384,
+          "fin": 27.28
+        },
+        {
+          "texto": "para",
+          "inicio": 27.312,
+          "fin": 27.44
+        },
+        {
+          "texto": "que",
+          "inicio": 27.48,
+          "fin": 27.6
+        },
+        {
+          "texto": "también",
+          "inicio": 27.66,
+          "fin": 28.08
+        },
+        {
+          "texto": "lo",
+          "inicio": 28.187,
+          "fin": 28.4
+        },
+        {
+          "texto": "pueda",
+          "inicio": 28.453,
+          "fin": 28.72
+        },
+        {
+          "texto": "leer",
+          "inicio": 28.768,
+          "fin": 28.96
+        },
+        {
+          "texto": "una",
+          "inicio": 29.0,
+          "fin": 29.12
+        },
+        {
+          "texto": "persona.",
+          "inicio": 29.18,
+          "fin": 29.68
+        }
+      ]
+    },
+    {
+      "num": "12",
+      "titulo": "Así se ve tu inventario",
+      "audio": "escena-12.mp3",
+      "inicio": 292.4,
+      "duracion": 18.88,
+      "palabras": [
+        {
+          "texto": "Y",
+          "inicio": 0.18,
+          "fin": 0.2
+        },
+        {
+          "texto": "así",
+          "inicio": 0.21,
+          "fin": 0.24
+        },
+        {
+          "texto": "queda",
+          "inicio": 0.28,
+          "fin": 0.48
+        },
+        {
+          "texto": "tu",
+          "inicio": 0.533,
+          "fin": 0.64
+        },
+        {
+          "texto": "inventario:",
+          "inicio": 0.686,
+          "fin": 1.28
+        },
+        {
+          "texto": "cada",
+          "inicio": 1.424,
+          "fin": 2.0
+        },
+        {
+          "texto": "activo",
+          "inicio": 2.067,
+          "fin": 2.48
+        },
+        {
+          "texto": "con",
+          "inicio": 2.54,
+          "fin": 2.72
+        },
+        {
+          "texto": "su",
+          "inicio": 2.773,
+          "fin": 2.88
+        },
+        {
+          "texto": "código",
+          "inicio": 2.949,
+          "fin": 3.36
+        },
+        {
+          "texto": "QR",
+          "inicio": 3.547,
+          "fin": 3.92
+        },
+        {
+          "texto": "y",
+          "inicio": 4.04,
+          "fin": 4.16
+        },
+        {
+          "texto": "su",
+          "inicio": 4.213,
+          "fin": 4.32
+        },
+        {
+          "texto": "código",
+          "inicio": 4.389,
+          "fin": 4.8
+        },
+        {
+          "texto": "de",
+          "inicio": 4.827,
+          "fin": 4.88
+        },
+        {
+          "texto": "barras,",
+          "inicio": 4.944,
+          "fin": 5.44
+        },
+        {
+          "texto": "generados",
+          "inicio": 5.547,
+          "fin": 6.48
+        },
+        {
+          "texto": "con",
+          "inicio": 6.54,
+          "fin": 6.72
+        },
+        {
+          "texto": "dos",
+          "inicio": 6.82,
+          "fin": 7.12
+        },
+        {
+          "texto": "fórmulas.",
+          "inicio": 7.28,
+          "fin": 8.16
+        },
+        {
+          "texto": "Si",
+          "inicio": 8.373,
+          "fin": 8.8
+        },
+        {
+          "texto": "mañana",
+          "inicio": 8.857,
+          "fin": 9.2
+        },
+        {
+          "texto": "agregas",
+          "inicio": 9.253,
+          "fin": 9.68
+        },
+        {
+          "texto": "un",
+          "inicio": 9.707,
+          "fin": 9.76
+        },
+        {
+          "texto": "producto",
+          "inicio": 9.813,
+          "fin": 10.24
+        },
+        {
+          "texto": "nuevo,",
+          "inicio": 10.307,
+          "fin": 11.2
+        },
+        {
+          "texto": "copias",
+          "inicio": 11.24,
+          "fin": 11.52
+        },
+        {
+          "texto": "la",
+          "inicio": 11.573,
+          "fin": 11.68
+        },
+        {
+          "texto": "fórmula",
+          "inicio": 11.72,
+          "fin": 12.08
+        },
+        {
+          "texto": "en",
+          "inicio": 12.107,
+          "fin": 12.16
+        },
+        {
+          "texto": "la",
+          "inicio": 12.187,
+          "fin": 12.24
+        },
+        {
+          "texto": "fila",
+          "inicio": 12.304,
+          "fin": 12.56
+        },
+        {
+          "texto": "de",
+          "inicio": 12.587,
+          "fin": 12.64
+        },
+        {
+          "texto": "abajo",
+          "inicio": 12.693,
+          "fin": 13.04
+        },
+        {
+          "texto": "y",
+          "inicio": 13.2,
+          "fin": 13.36
+        },
+        {
+          "texto": "listo.",
+          "inicio": 13.424,
+          "fin": 13.92
+        },
+        {
+          "texto": "Y",
+          "inicio": 14.2,
+          "fin": 14.48
+        },
+        {
+          "texto": "si",
+          "inicio": 14.533,
+          "fin": 14.64
+        },
+        {
+          "texto": "cambias",
+          "inicio": 14.688,
+          "fin": 15.04
+        },
+        {
+          "texto": "el",
+          "inicio": 15.093,
+          "fin": 15.2
+        },
+        {
+          "texto": "nombre",
+          "inicio": 15.246,
+          "fin": 15.52
+        },
+        {
+          "texto": "o",
+          "inicio": 15.56,
+          "fin": 15.6
+        },
+        {
+          "texto": "la",
+          "inicio": 15.627,
+          "fin": 15.68
+        },
+        {
+          "texto": "ubicación,",
+          "inicio": 15.728,
+          "fin": 16.72
+        },
+        {
+          "texto": "el",
+          "inicio": 16.773,
+          "fin": 16.88
+        },
+        {
+          "texto": "QR",
+          "inicio": 17.04,
+          "fin": 17.36
+        },
+        {
+          "texto": "se",
+          "inicio": 17.387,
+          "fin": 17.44
+        },
+        {
+          "texto": "actualiza",
+          "inicio": 17.497,
+          "fin": 18.16
+        },
+        {
+          "texto": "solo.",
+          "inicio": 18.288,
+          "fin": 18.88
+        }
+      ]
+    },
+    {
+      "num": "13",
+      "titulo": "Paso 5: la hoja de etiquetas",
+      "audio": "escena-13.mp3",
+      "inicio": 311.68,
+      "duracion": 27.04,
+      "palabras": [
+        {
+          "texto": "Paso",
+          "inicio": 0.0,
+          "fin": 0.32
+        },
+        {
+          "texto": "cinco:",
+          "inicio": 0.387,
+          "fin": 0.8
+        },
+        {
+          "texto": "las",
+          "inicio": 0.92,
+          "fin": 1.28
+        },
+        {
+          "texto": "etiquetas",
+          "inicio": 1.347,
+          "fin": 1.92
+        },
+        {
+          "texto": "para",
+          "inicio": 1.984,
+          "fin": 2.24
+        },
+        {
+          "texto": "imprimir.",
+          "inicio": 2.302,
+          "fin": 2.96
+        },
+        {
+          "texto": "Arma",
+          "inicio": 3.253,
+          "fin": 4.0
+        },
+        {
+          "texto": "una",
+          "inicio": 4.04,
+          "fin": 4.16
+        },
+        {
+          "texto": "hoja",
+          "inicio": 4.213,
+          "fin": 4.48
+        },
+        {
+          "texto": "con",
+          "inicio": 4.56,
+          "fin": 4.8
+        },
+        {
+          "texto": "una",
+          "inicio": 4.84,
+          "fin": 4.96
+        },
+        {
+          "texto": "celda",
+          "inicio": 5.04,
+          "fin": 5.44
+        },
+        {
+          "texto": "por",
+          "inicio": 5.48,
+          "fin": 5.6
+        },
+        {
+          "texto": "dato:",
+          "inicio": 5.68,
+          "fin": 6.56
+        },
+        {
+          "texto": "el",
+          "inicio": 6.613,
+          "fin": 6.72
+        },
+        {
+          "texto": "QR,",
+          "inicio": 6.907,
+          "fin": 7.68
+        },
+        {
+          "texto": "el",
+          "inicio": 7.707,
+          "fin": 7.76
+        },
+        {
+          "texto": "código,",
+          "inicio": 7.851,
+          "fin": 8.88
+        },
+        {
+          "texto": "el",
+          "inicio": 8.907,
+          "fin": 8.96
+        },
+        {
+          "texto": "producto,",
+          "inicio": 9.04,
+          "fin": 10.08
+        },
+        {
+          "texto": "la",
+          "inicio": 10.107,
+          "fin": 10.16
+        },
+        {
+          "texto": "ubicación",
+          "inicio": 10.224,
+          "fin": 10.88
+        },
+        {
+          "texto": "y",
+          "inicio": 11.12,
+          "fin": 11.36
+        },
+        {
+          "texto": "el",
+          "inicio": 11.387,
+          "fin": 11.44
+        },
+        {
+          "texto": "código",
+          "inicio": 11.497,
+          "fin": 11.84
+        },
+        {
+          "texto": "de",
+          "inicio": 11.893,
+          "fin": 12.0
+        },
+        {
+          "texto": "barras,",
+          "inicio": 12.048,
+          "fin": 12.48
+        },
+        {
+          "texto": "con",
+          "inicio": 12.68,
+          "fin": 13.28
+        },
+        {
+          "texto": "un",
+          "inicio": 13.333,
+          "fin": 13.44
+        },
+        {
+          "texto": "borde",
+          "inicio": 13.5,
+          "fin": 13.76
+        },
+        {
+          "texto": "punteado",
+          "inicio": 13.82,
+          "fin": 14.32
+        },
+        {
+          "texto": "para",
+          "inicio": 14.368,
+          "fin": 14.56
+        },
+        {
+          "texto": "recortar.",
+          "inicio": 14.62,
+          "fin": 15.36
+        },
+        {
+          "texto": "En",
+          "inicio": 15.653,
+          "fin": 16.24
+        },
+        {
+          "texto": "Diseño",
+          "inicio": 16.288,
+          "fin": 16.64
+        },
+        {
+          "texto": "de",
+          "inicio": 16.667,
+          "fin": 16.72
+        },
+        {
+          "texto": "página",
+          "inicio": 16.8,
+          "fin": 17.28
+        },
+        {
+          "texto": "pon",
+          "inicio": 17.44,
+          "fin": 17.92
+        },
+        {
+          "texto": "márgenes",
+          "inicio": 18.0,
+          "fin": 18.56
+        },
+        {
+          "texto": "estrechos,",
+          "inicio": 18.62,
+          "fin": 19.52
+        },
+        {
+          "texto": "y",
+          "inicio": 19.72,
+          "fin": 19.92
+        },
+        {
+          "texto": "ajusta",
+          "inicio": 19.987,
+          "fin": 20.4
+        },
+        {
+          "texto": "todo",
+          "inicio": 20.48,
+          "fin": 20.8
+        },
+        {
+          "texto": "a",
+          "inicio": 20.92,
+          "fin": 21.04
+        },
+        {
+          "texto": "una",
+          "inicio": 21.1,
+          "fin": 21.28
+        },
+        {
+          "texto": "página",
+          "inicio": 21.337,
+          "fin": 21.68
+        },
+        {
+          "texto": "de",
+          "inicio": 21.707,
+          "fin": 21.76
+        },
+        {
+          "texto": "ancho.",
+          "inicio": 21.867,
+          "fin": 22.4
+        },
+        {
+          "texto": "Imprime",
+          "inicio": 22.773,
+          "fin": 23.76
+        },
+        {
+          "texto": "en",
+          "inicio": 23.813,
+          "fin": 23.92
+        },
+        {
+          "texto": "papel",
+          "inicio": 23.96,
+          "fin": 24.16
+        },
+        {
+          "texto": "adhesivo,",
+          "inicio": 24.213,
+          "fin": 24.88
+        },
+        {
+          "texto": "recorta,",
+          "inicio": 25.04,
+          "fin": 25.92
+        },
+        {
+          "texto": "y",
+          "inicio": 26.12,
+          "fin": 26.32
+        },
+        {
+          "texto": "a",
+          "inicio": 26.36,
+          "fin": 26.4
+        },
+        {
+          "texto": "pegar.",
+          "inicio": 26.46,
+          "fin": 27.04
+        }
+      ]
+    },
+    {
+      "num": "14",
+      "titulo": "Nivel pro: cuadrícula automática",
+      "audio": "escena-14.mp3",
+      "inicio": 339.12,
+      "duracion": 23.28,
+      "palabras": [
+        {
+          "texto": "Nivel",
+          "inicio": 0.0,
+          "fin": 0.24
+        },
+        {
+          "texto": "pro.",
+          "inicio": 0.34,
+          "fin": 0.72
+        },
+        {
+          "texto": "Si",
+          "inicio": 0.987,
+          "fin": 1.52
+        },
+        {
+          "texto": "solo",
+          "inicio": 1.584,
+          "fin": 1.84
+        },
+        {
+          "texto": "necesitas",
+          "inicio": 1.893,
+          "fin": 2.48
+        },
+        {
+          "texto": "los",
+          "inicio": 2.52,
+          "fin": 2.64
+        },
+        {
+          "texto": "QR",
+          "inicio": 2.8,
+          "fin": 3.12
+        },
+        {
+          "texto": "en",
+          "inicio": 3.2,
+          "fin": 3.36
+        },
+        {
+          "texto": "una",
+          "inicio": 3.42,
+          "fin": 3.6
+        },
+        {
+          "texto": "cuadrícula,",
+          "inicio": 3.627,
+          "fin": 4.8
+        },
+        {
+          "texto": "hazlo",
+          "inicio": 4.86,
+          "fin": 5.2
+        },
+        {
+          "texto": "con",
+          "inicio": 5.24,
+          "fin": 5.36
+        },
+        {
+          "texto": "una",
+          "inicio": 5.42,
+          "fin": 5.6
+        },
+        {
+          "texto": "sola",
+          "inicio": 5.664,
+          "fin": 5.92
+        },
+        {
+          "texto": "fórmula.",
+          "inicio": 5.96,
+          "fin": 6.56
+        },
+        {
+          "texto": "Le",
+          "inicio": 6.773,
+          "fin": 7.2
+        },
+        {
+          "texto": "pasas",
+          "inicio": 7.28,
+          "fin": 7.68
+        },
+        {
+          "texto": "a",
+          "inicio": 7.72,
+          "fin": 7.76
+        },
+        {
+          "texto": "IMAGEN",
+          "inicio": 7.84,
+          "fin": 8.48
+        },
+        {
+          "texto": "todo",
+          "inicio": 8.528,
+          "fin": 8.72
+        },
+        {
+          "texto": "el",
+          "inicio": 8.773,
+          "fin": 8.88
+        },
+        {
+          "texto": "rango",
+          "inicio": 8.92,
+          "fin": 9.2
+        },
+        {
+          "texto": "de",
+          "inicio": 9.253,
+          "fin": 9.36
+        },
+        {
+          "texto": "códigos",
+          "inicio": 9.44,
+          "fin": 9.92
+        },
+        {
+          "texto": "de",
+          "inicio": 10.0,
+          "fin": 10.16
+        },
+        {
+          "texto": "una",
+          "inicio": 10.22,
+          "fin": 10.4
+        },
+        {
+          "texto": "vez,",
+          "inicio": 10.48,
+          "fin": 10.96
+        },
+        {
+          "texto": "y",
+          "inicio": 11.24,
+          "fin": 11.52
+        },
+        {
+          "texto": "lo",
+          "inicio": 11.573,
+          "fin": 11.68
+        },
+        {
+          "texto": "envuelves",
+          "inicio": 11.74,
+          "fin": 12.24
+        },
+        {
+          "texto": "en",
+          "inicio": 12.293,
+          "fin": 12.4
+        },
+        {
+          "texto": "AJUSTARFILAS",
+          "inicio": 12.533,
+          "fin": 13.6
+        },
+        {
+          "texto": "con",
+          "inicio": 13.7,
+          "fin": 14.0
+        },
+        {
+          "texto": "un",
+          "inicio": 14.027,
+          "fin": 14.08
+        },
+        {
+          "texto": "tres.",
+          "inicio": 14.176,
+          "fin": 14.72
+        },
+        {
+          "texto": "Excel",
+          "inicio": 14.907,
+          "fin": 15.84
+        },
+        {
+          "texto": "acomoda",
+          "inicio": 16.0,
+          "fin": 16.56
+        },
+        {
+          "texto": "los",
+          "inicio": 16.62,
+          "fin": 16.8
+        },
+        {
+          "texto": "seis",
+          "inicio": 16.864,
+          "fin": 17.12
+        },
+        {
+          "texto": "QR",
+          "inicio": 17.307,
+          "fin": 17.68
+        },
+        {
+          "texto": "en",
+          "inicio": 17.787,
+          "fin": 18.0
+        },
+        {
+          "texto": "filas",
+          "inicio": 18.06,
+          "fin": 18.32
+        },
+        {
+          "texto": "de",
+          "inicio": 18.347,
+          "fin": 18.4
+        },
+        {
+          "texto": "tres.",
+          "inicio": 18.496,
+          "fin": 19.04
+        },
+        {
+          "texto": "Agregas",
+          "inicio": 19.307,
+          "fin": 20.16
+        },
+        {
+          "texto": "códigos",
+          "inicio": 20.24,
+          "fin": 20.88
+        },
+        {
+          "texto": "y",
+          "inicio": 20.92,
+          "fin": 20.96
+        },
+        {
+          "texto": "la",
+          "inicio": 21.013,
+          "fin": 21.12
+        },
+        {
+          "texto": "cuadrícula",
+          "inicio": 21.173,
+          "fin": 21.84
+        },
+        {
+          "texto": "crece",
+          "inicio": 21.94,
+          "fin": 22.48
+        },
+        {
+          "texto": "sola.",
+          "inicio": 22.624,
+          "fin": 23.28
+        }
+      ]
+    },
+    {
+      "num": "15",
+      "titulo": "Nivel pro 2: escanea y busca",
+      "audio": "escena-15.mp3",
+      "inicio": 362.8,
+      "duracion": 24.56,
+      "palabras": [
+        {
+          "texto": "Y",
+          "inicio": 0.0,
+          "fin": 0.08
+        },
+        {
+          "texto": "el",
+          "inicio": 0.107,
+          "fin": 0.16
+        },
+        {
+          "texto": "truco",
+          "inicio": 0.213,
+          "fin": 0.56
+        },
+        {
+          "texto": "que",
+          "inicio": 0.58,
+          "fin": 0.64
+        },
+        {
+          "texto": "más",
+          "inicio": 0.68,
+          "fin": 0.8
+        },
+        {
+          "texto": "me",
+          "inicio": 0.853,
+          "fin": 0.96
+        },
+        {
+          "texto": "gusta.",
+          "inicio": 1.027,
+          "fin": 1.44
+        },
+        {
+          "texto": "Un",
+          "inicio": 1.68,
+          "fin": 2.16
+        },
+        {
+          "texto": "lector",
+          "inicio": 2.213,
+          "fin": 2.64
+        },
+        {
+          "texto": "de",
+          "inicio": 2.693,
+          "fin": 2.8
+        },
+        {
+          "texto": "código",
+          "inicio": 2.857,
+          "fin": 3.2
+        },
+        {
+          "texto": "de",
+          "inicio": 3.227,
+          "fin": 3.28
+        },
+        {
+          "texto": "barras",
+          "inicio": 3.328,
+          "fin": 3.76
+        },
+        {
+          "texto": "USB",
+          "inicio": 3.96,
+          "fin": 4.56
+        },
+        {
+          "texto": "funciona",
+          "inicio": 4.702,
+          "fin": 5.84
+        },
+        {
+          "texto": "como",
+          "inicio": 5.872,
+          "fin": 6.0
+        },
+        {
+          "texto": "un",
+          "inicio": 6.027,
+          "fin": 6.08
+        },
+        {
+          "texto": "teclado:",
+          "inicio": 6.133,
+          "fin": 7.36
+        },
+        {
+          "texto": "escribe",
+          "inicio": 7.413,
+          "fin": 7.76
+        },
+        {
+          "texto": "el",
+          "inicio": 7.787,
+          "fin": 7.84
+        },
+        {
+          "texto": "código",
+          "inicio": 7.92,
+          "fin": 8.4
+        },
+        {
+          "texto": "donde",
+          "inicio": 8.453,
+          "fin": 8.72
+        },
+        {
+          "texto": "esté",
+          "inicio": 8.76,
+          "fin": 8.92
+        },
+        {
+          "texto": "el",
+          "inicio": 8.933,
+          "fin": 8.96
+        },
+        {
+          "texto": "cursor.",
+          "inicio": 9.04,
+          "fin": 9.6
+        },
+        {
+          "texto": "Así",
+          "inicio": 9.973,
+          "fin": 10.8
+        },
+        {
+          "texto": "que",
+          "inicio": 10.82,
+          "fin": 10.88
+        },
+        {
+          "texto": "en",
+          "inicio": 10.907,
+          "fin": 10.96
+        },
+        {
+          "texto": "una",
+          "inicio": 11.0,
+          "fin": 11.12
+        },
+        {
+          "texto": "hoja",
+          "inicio": 11.173,
+          "fin": 11.44
+        },
+        {
+          "texto": "de",
+          "inicio": 11.467,
+          "fin": 11.52
+        },
+        {
+          "texto": "consulta",
+          "inicio": 11.6,
+          "fin": 12.24
+        },
+        {
+          "texto": "pongo",
+          "inicio": 12.48,
+          "fin": 12.88
+        },
+        {
+          "texto": "el",
+          "inicio": 12.907,
+          "fin": 12.96
+        },
+        {
+          "texto": "cursor",
+          "inicio": 13.017,
+          "fin": 13.36
+        },
+        {
+          "texto": "en",
+          "inicio": 13.413,
+          "fin": 13.52
+        },
+        {
+          "texto": "B1,",
+          "inicio": 13.68,
+          "fin": 14.64
+        },
+        {
+          "texto": "escaneo",
+          "inicio": 14.7,
+          "fin": 15.16
+        },
+        {
+          "texto": "la",
+          "inicio": 15.173,
+          "fin": 15.2
+        },
+        {
+          "texto": "etiqueta…",
+          "inicio": 15.253,
+          "fin": 15.92
+        },
+        {
+          "texto": "y",
+          "inicio": 16.16,
+          "fin": 16.4
+        },
+        {
+          "texto": "BUSCARX",
+          "inicio": 16.46,
+          "fin": 17.12
+        },
+        {
+          "texto": "me",
+          "inicio": 17.173,
+          "fin": 17.28
+        },
+        {
+          "texto": "trae",
+          "inicio": 17.333,
+          "fin": 17.6
+        },
+        {
+          "texto": "el",
+          "inicio": 17.627,
+          "fin": 17.68
+        },
+        {
+          "texto": "producto,",
+          "inicio": 17.742,
+          "fin": 18.4
+        },
+        {
+          "texto": "la",
+          "inicio": 18.48,
+          "fin": 18.64
+        },
+        {
+          "texto": "ubicación",
+          "inicio": 18.688,
+          "fin": 19.52
+        },
+        {
+          "texto": "y",
+          "inicio": 19.64,
+          "fin": 19.76
+        },
+        {
+          "texto": "la",
+          "inicio": 19.787,
+          "fin": 19.84
+        },
+        {
+          "texto": "cantidad.",
+          "inicio": 19.911,
+          "fin": 20.56
+        },
+        {
+          "texto": "Si",
+          "inicio": 20.88,
+          "fin": 21.52
+        },
+        {
+          "texto": "el",
+          "inicio": 21.547,
+          "fin": 21.6
+        },
+        {
+          "texto": "código",
+          "inicio": 21.657,
+          "fin": 22.0
+        },
+        {
+          "texto": "no",
+          "inicio": 22.053,
+          "fin": 22.16
+        },
+        {
+          "texto": "existe,",
+          "inicio": 22.229,
+          "fin": 22.96
+        },
+        {
+          "texto": "me",
+          "inicio": 23.013,
+          "fin": 23.12
+        },
+        {
+          "texto": "dice",
+          "inicio": 23.2,
+          "fin": 23.52
+        },
+        {
+          "texto": "\"No",
+          "inicio": 23.72,
+          "fin": 24.16
+        },
+        {
+          "texto": "existe\".",
+          "inicio": 24.194,
+          "fin": 24.56
+        }
+      ]
+    },
+    {
+      "num": "16",
+      "titulo": "Ojo con la privacidad",
+      "audio": "escena-16.mp3",
+      "inicio": 387.76,
+      "duracion": 21.44,
+      "palabras": [
+        {
+          "texto": "Una",
+          "inicio": 0.0,
+          "fin": 0.16
+        },
+        {
+          "texto": "advertencia",
+          "inicio": 0.206,
+          "fin": 0.8
+        },
+        {
+          "texto": "importante.",
+          "inicio": 0.88,
+          "fin": 1.76
+        },
+        {
+          "texto": "Con",
+          "inicio": 1.86,
+          "fin": 2.16
+        },
+        {
+          "texto": "este",
+          "inicio": 2.208,
+          "fin": 2.4
+        },
+        {
+          "texto": "método,",
+          "inicio": 2.457,
+          "fin": 3.04
+        },
+        {
+          "texto": "el",
+          "inicio": 3.093,
+          "fin": 3.2
+        },
+        {
+          "texto": "texto",
+          "inicio": 3.28,
+          "fin": 3.68
+        },
+        {
+          "texto": "que",
+          "inicio": 3.74,
+          "fin": 3.92
+        },
+        {
+          "texto": "pones",
+          "inicio": 3.96,
+          "fin": 4.24
+        },
+        {
+          "texto": "en",
+          "inicio": 4.267,
+          "fin": 4.32
+        },
+        {
+          "texto": "el",
+          "inicio": 4.347,
+          "fin": 4.4
+        },
+        {
+          "texto": "QR",
+          "inicio": 4.587,
+          "fin": 4.96
+        },
+        {
+          "texto": "viaja",
+          "inicio": 5.14,
+          "fin": 5.84
+        },
+        {
+          "texto": "a",
+          "inicio": 5.92,
+          "fin": 6.0
+        },
+        {
+          "texto": "un",
+          "inicio": 6.027,
+          "fin": 6.08
+        },
+        {
+          "texto": "servicio",
+          "inicio": 6.124,
+          "fin": 6.48
+        },
+        {
+          "texto": "externo",
+          "inicio": 6.549,
+          "fin": 7.04
+        },
+        {
+          "texto": "para",
+          "inicio": 7.088,
+          "fin": 7.28
+        },
+        {
+          "texto": "crear",
+          "inicio": 7.333,
+          "fin": 7.6
+        },
+        {
+          "texto": "la",
+          "inicio": 7.627,
+          "fin": 7.68
+        },
+        {
+          "texto": "imagen.",
+          "inicio": 7.737,
+          "fin": 8.32
+        },
+        {
+          "texto": "Para",
+          "inicio": 8.448,
+          "fin": 8.96
+        },
+        {
+          "texto": "códigos",
+          "inicio": 9.04,
+          "fin": 9.6
+        },
+        {
+          "texto": "y",
+          "inicio": 9.64,
+          "fin": 9.68
+        },
+        {
+          "texto": "nombres",
+          "inicio": 9.72,
+          "fin": 10.0
+        },
+        {
+          "texto": "de",
+          "inicio": 10.027,
+          "fin": 10.08
+        },
+        {
+          "texto": "productos",
+          "inicio": 10.128,
+          "fin": 10.56
+        },
+        {
+          "texto": "no",
+          "inicio": 10.613,
+          "fin": 10.72
+        },
+        {
+          "texto": "hay",
+          "inicio": 10.74,
+          "fin": 10.8
+        },
+        {
+          "texto": "problema.",
+          "inicio": 10.862,
+          "fin": 11.6
+        },
+        {
+          "texto": "Pero",
+          "inicio": 11.68,
+          "fin": 12.0
+        },
+        {
+          "texto": "no",
+          "inicio": 12.053,
+          "fin": 12.16
+        },
+        {
+          "texto": "pongas",
+          "inicio": 12.208,
+          "fin": 12.56
+        },
+        {
+          "texto": "ahí",
+          "inicio": 12.64,
+          "fin": 12.88
+        },
+        {
+          "texto": "datos",
+          "inicio": 12.947,
+          "fin": 13.28
+        },
+        {
+          "texto": "personales,",
+          "inicio": 13.337,
+          "fin": 14.16
+        },
+        {
+          "texto": "contraseñas",
+          "inicio": 14.213,
+          "fin": 15.04
+        },
+        {
+          "texto": "ni",
+          "inicio": 15.227,
+          "fin": 15.6
+        },
+        {
+          "texto": "información",
+          "inicio": 15.647,
+          "fin": 16.16
+        },
+        {
+          "texto": "confidencial",
+          "inicio": 16.208,
+          "fin": 16.8
+        },
+        {
+          "texto": "de",
+          "inicio": 16.827,
+          "fin": 16.88
+        },
+        {
+          "texto": "tu",
+          "inicio": 16.907,
+          "fin": 16.96
+        },
+        {
+          "texto": "empresa.",
+          "inicio": 17.02,
+          "fin": 17.6
+        },
+        {
+          "texto": "Para",
+          "inicio": 17.712,
+          "fin": 18.16
+        },
+        {
+          "texto": "eso,",
+          "inicio": 18.26,
+          "fin": 18.76
+        },
+        {
+          "texto": "usa",
+          "inicio": 18.81,
+          "fin": 18.96
+        },
+        {
+          "texto": "la",
+          "inicio": 18.987,
+          "fin": 19.04
+        },
+        {
+          "texto": "opción",
+          "inicio": 19.086,
+          "fin": 19.36
+        },
+        {
+          "texto": "sin",
+          "inicio": 19.44,
+          "fin": 19.68
+        },
+        {
+          "texto": "internet",
+          "inicio": 19.742,
+          "fin": 20.24
+        },
+        {
+          "texto": "que",
+          "inicio": 20.3,
+          "fin": 20.48
+        },
+        {
+          "texto": "te",
+          "inicio": 20.507,
+          "fin": 20.56
+        },
+        {
+          "texto": "muestro",
+          "inicio": 20.6,
+          "fin": 20.88
+        },
+        {
+          "texto": "ahora.",
+          "inicio": 20.947,
+          "fin": 21.44
+        }
+      ]
+    },
+    {
+      "num": "17",
+      "titulo": "Sin internet: la fuente de código de barras",
+      "audio": "escena-17.mp3",
+      "inicio": 409.6,
+      "duracion": 27.76,
+      "palabras": [
+        {
+          "texto": "La",
+          "inicio": 0.0,
+          "fin": 0.08
+        },
+        {
+          "texto": "opción",
+          "inicio": 0.126,
+          "fin": 0.4
+        },
+        {
+          "texto": "sin",
+          "inicio": 0.46,
+          "fin": 0.64
+        },
+        {
+          "texto": "internet:",
+          "inicio": 0.702,
+          "fin": 1.68
+        },
+        {
+          "texto": "una",
+          "inicio": 1.74,
+          "fin": 1.92
+        },
+        {
+          "texto": "fuente",
+          "inicio": 1.973,
+          "fin": 2.4
+        },
+        {
+          "texto": "de",
+          "inicio": 2.427,
+          "fin": 2.48
+        },
+        {
+          "texto": "código",
+          "inicio": 2.537,
+          "fin": 2.88
+        },
+        {
+          "texto": "de",
+          "inicio": 2.907,
+          "fin": 2.96
+        },
+        {
+          "texto": "barras.",
+          "inicio": 3.008,
+          "fin": 3.6
+        },
+        {
+          "texto": "Descarga",
+          "inicio": 3.744,
+          "fin": 4.56
+        },
+        {
+          "texto": "gratis",
+          "inicio": 4.617,
+          "fin": 4.96
+        },
+        {
+          "texto": "la",
+          "inicio": 4.987,
+          "fin": 5.04
+        },
+        {
+          "texto": "fuente",
+          "inicio": 5.093,
+          "fin": 5.52
+        },
+        {
+          "texto": "Libre",
+          "inicio": 5.587,
+          "fin": 5.92
+        },
+        {
+          "texto": "Barcode",
+          "inicio": 5.98,
+          "fin": 6.4
+        },
+        {
+          "texto": "treinta",
+          "inicio": 6.44,
+          "fin": 6.72
+        },
+        {
+          "texto": "y",
+          "inicio": 6.8,
+          "fin": 6.88
+        },
+        {
+          "texto": "nueve",
+          "inicio": 6.92,
+          "fin": 7.12
+        },
+        {
+          "texto": "de",
+          "inicio": 7.2,
+          "fin": 7.36
+        },
+        {
+          "texto": "Google",
+          "inicio": 7.406,
+          "fin": 7.68
+        },
+        {
+          "texto": "Fonts",
+          "inicio": 7.76,
+          "fin": 8.16
+        },
+        {
+          "texto": "e",
+          "inicio": 8.24,
+          "fin": 8.32
+        },
+        {
+          "texto": "instálala.",
+          "inicio": 8.384,
+          "fin": 9.04
+        },
+        {
+          "texto": "En",
+          "inicio": 9.28,
+          "fin": 9.76
+        },
+        {
+          "texto": "una",
+          "inicio": 9.82,
+          "fin": 10.0
+        },
+        {
+          "texto": "celda",
+          "inicio": 10.04,
+          "fin": 10.32
+        },
+        {
+          "texto": "escribe",
+          "inicio": 10.373,
+          "fin": 10.72
+        },
+        {
+          "texto": "igual,",
+          "inicio": 10.813,
+          "fin": 11.36
+        },
+        {
+          "texto": "comillas,",
+          "inicio": 11.46,
+          "fin": 12.4
+        },
+        {
+          "texto": "asterisco,",
+          "inicio": 12.44,
+          "fin": 12.96
+        },
+        {
+          "texto": "comillas,",
+          "inicio": 13.0,
+          "fin": 13.68
+        },
+        {
+          "texto": "ampersand",
+          "inicio": 13.74,
+          "fin": 14.24
+        },
+        {
+          "texto": "A2,",
+          "inicio": 14.4,
+          "fin": 15.2
+        },
+        {
+          "texto": "ampersand,",
+          "inicio": 15.26,
+          "fin": 15.92
+        },
+        {
+          "texto": "y",
+          "inicio": 15.98,
+          "fin": 16.04
+        },
+        {
+          "texto": "otra",
+          "inicio": 16.064,
+          "fin": 16.16
+        },
+        {
+          "texto": "vez",
+          "inicio": 16.22,
+          "fin": 16.4
+        },
+        {
+          "texto": "el",
+          "inicio": 16.427,
+          "fin": 16.48
+        },
+        {
+          "texto": "asterisco.",
+          "inicio": 16.52,
+          "fin": 17.2
+        },
+        {
+          "texto": "Los",
+          "inicio": 17.36,
+          "fin": 17.84
+        },
+        {
+          "texto": "asteriscos",
+          "inicio": 17.88,
+          "fin": 18.4
+        },
+        {
+          "texto": "marcan",
+          "inicio": 18.44,
+          "fin": 18.8
+        },
+        {
+          "texto": "el",
+          "inicio": 18.827,
+          "fin": 18.88
+        },
+        {
+          "texto": "inicio",
+          "inicio": 18.949,
+          "fin": 19.36
+        },
+        {
+          "texto": "y",
+          "inicio": 19.44,
+          "fin": 19.52
+        },
+        {
+          "texto": "el",
+          "inicio": 19.547,
+          "fin": 19.6
+        },
+        {
+          "texto": "fin",
+          "inicio": 19.68,
+          "fin": 19.92
+        },
+        {
+          "texto": "del",
+          "inicio": 19.96,
+          "fin": 20.08
+        },
+        {
+          "texto": "código.",
+          "inicio": 20.137,
+          "fin": 20.56
+        },
+        {
+          "texto": "Cambias",
+          "inicio": 20.752,
+          "fin": 21.68
+        },
+        {
+          "texto": "la",
+          "inicio": 21.707,
+          "fin": 21.76
+        },
+        {
+          "texto": "fuente",
+          "inicio": 21.813,
+          "fin": 22.16
+        },
+        {
+          "texto": "de",
+          "inicio": 22.187,
+          "fin": 22.24
+        },
+        {
+          "texto": "esa",
+          "inicio": 22.3,
+          "fin": 22.48
+        },
+        {
+          "texto": "celda…",
+          "inicio": 22.56,
+          "fin": 23.44
+        },
+        {
+          "texto": "y",
+          "inicio": 23.48,
+          "fin": 23.52
+        },
+        {
+          "texto": "el",
+          "inicio": 23.547,
+          "fin": 23.6
+        },
+        {
+          "texto": "texto",
+          "inicio": 23.68,
+          "fin": 24.08
+        },
+        {
+          "texto": "se",
+          "inicio": 24.133,
+          "fin": 24.24
+        },
+        {
+          "texto": "convierte",
+          "inicio": 24.288,
+          "fin": 24.8
+        },
+        {
+          "texto": "en",
+          "inicio": 24.88,
+          "fin": 25.04
+        },
+        {
+          "texto": "barras.",
+          "inicio": 25.104,
+          "fin": 25.68
+        },
+        {
+          "texto": "Funciona",
+          "inicio": 25.808,
+          "fin": 26.64
+        },
+        {
+          "texto": "en",
+          "inicio": 26.72,
+          "fin": 26.88
+        },
+        {
+          "texto": "cualquier",
+          "inicio": 26.92,
+          "fin": 27.28
+        },
+        {
+          "texto": "Excel.",
+          "inicio": 27.347,
+          "fin": 27.76
+        }
+      ]
+    },
+    {
+      "num": "18",
+      "titulo": "Si no te funcionó",
+      "audio": "escena-18.mp3",
+      "inicio": 437.76,
+      "duracion": 28.48,
+      "palabras": [
+        {
+          "texto": "Si",
+          "inicio": 0.0,
+          "fin": 0.08
+        },
+        {
+          "texto": "no",
+          "inicio": 0.133,
+          "fin": 0.24
+        },
+        {
+          "texto": "te",
+          "inicio": 0.293,
+          "fin": 0.4
+        },
+        {
+          "texto": "funcionó:",
+          "inicio": 0.46,
+          "fin": 1.04
+        },
+        {
+          "texto": "numeral",
+          "inicio": 1.14,
+          "fin": 1.84
+        },
+        {
+          "texto": "nombre",
+          "inicio": 1.909,
+          "fin": 2.32
+        },
+        {
+          "texto": "significa",
+          "inicio": 2.392,
+          "fin": 3.04
+        },
+        {
+          "texto": "que",
+          "inicio": 3.06,
+          "fin": 3.12
+        },
+        {
+          "texto": "tu",
+          "inicio": 3.173,
+          "fin": 3.28
+        },
+        {
+          "texto": "versión",
+          "inicio": 3.33,
+          "fin": 3.68
+        },
+        {
+          "texto": "no",
+          "inicio": 3.813,
+          "fin": 4.08
+        },
+        {
+          "texto": "tiene",
+          "inicio": 4.147,
+          "fin": 4.48
+        },
+        {
+          "texto": "la",
+          "inicio": 4.507,
+          "fin": 4.56
+        },
+        {
+          "texto": "función",
+          "inicio": 4.61,
+          "fin": 4.96
+        },
+        {
+          "texto": "IMAGEN;",
+          "inicio": 5.013,
+          "fin": 6.24
+        },
+        {
+          "texto": "usa",
+          "inicio": 6.3,
+          "fin": 6.48
+        },
+        {
+          "texto": "la",
+          "inicio": 6.533,
+          "fin": 6.64
+        },
+        {
+          "texto": "fuente.",
+          "inicio": 6.693,
+          "fin": 7.2
+        },
+        {
+          "texto": "Numeral",
+          "inicio": 7.52,
+          "fin": 8.64
+        },
+        {
+          "texto": "conectar",
+          "inicio": 8.711,
+          "fin": 9.28
+        },
+        {
+          "texto": "es",
+          "inicio": 9.413,
+          "fin": 9.68
+        },
+        {
+          "texto": "un",
+          "inicio": 9.707,
+          "fin": 9.76
+        },
+        {
+          "texto": "problema",
+          "inicio": 9.804,
+          "fin": 10.16
+        },
+        {
+          "texto": "de",
+          "inicio": 10.187,
+          "fin": 10.24
+        },
+        {
+          "texto": "internet.",
+          "inicio": 10.311,
+          "fin": 11.04
+        },
+        {
+          "texto": "Numeral",
+          "inicio": 11.34,
+          "fin": 12.4
+        },
+        {
+          "texto": "bloqueado",
+          "inicio": 12.457,
+          "fin": 13.12
+        },
+        {
+          "texto": "aparece",
+          "inicio": 13.227,
+          "fin": 13.92
+        },
+        {
+          "texto": "cuando",
+          "inicio": 13.954,
+          "fin": 14.16
+        },
+        {
+          "texto": "tu",
+          "inicio": 14.213,
+          "fin": 14.32
+        },
+        {
+          "texto": "Excel",
+          "inicio": 14.387,
+          "fin": 14.72
+        },
+        {
+          "texto": "tiene",
+          "inicio": 14.773,
+          "fin": 15.04
+        },
+        {
+          "texto": "bloqueadas",
+          "inicio": 15.086,
+          "fin": 15.6
+        },
+        {
+          "texto": "las",
+          "inicio": 15.64,
+          "fin": 15.76
+        },
+        {
+          "texto": "imágenes",
+          "inicio": 15.813,
+          "fin": 16.24
+        },
+        {
+          "texto": "vinculadas,",
+          "inicio": 16.288,
+          "fin": 17.12
+        },
+        {
+          "texto": "y",
+          "inicio": 17.44,
+          "fin": 17.76
+        },
+        {
+          "texto": "se",
+          "inicio": 17.813,
+          "fin": 17.92
+        },
+        {
+          "texto": "activa",
+          "inicio": 17.973,
+          "fin": 18.32
+        },
+        {
+          "texto": "en",
+          "inicio": 18.427,
+          "fin": 18.64
+        },
+        {
+          "texto": "el",
+          "inicio": 18.667,
+          "fin": 18.72
+        },
+        {
+          "texto": "Centro",
+          "inicio": 18.777,
+          "fin": 19.12
+        },
+        {
+          "texto": "de",
+          "inicio": 19.147,
+          "fin": 19.2
+        },
+        {
+          "texto": "confianza.",
+          "inicio": 19.264,
+          "fin": 20.0
+        },
+        {
+          "texto": "Y",
+          "inicio": 20.52,
+          "fin": 21.04
+        },
+        {
+          "texto": "recuerda",
+          "inicio": 21.1,
+          "fin": 21.52
+        },
+        {
+          "texto": "que",
+          "inicio": 21.54,
+          "fin": 21.6
+        },
+        {
+          "texto": "la",
+          "inicio": 21.627,
+          "fin": 21.68
+        },
+        {
+          "texto": "dirección",
+          "inicio": 21.736,
+          "fin": 22.24
+        },
+        {
+          "texto": "debe",
+          "inicio": 22.288,
+          "fin": 22.48
+        },
+        {
+          "texto": "empezar",
+          "inicio": 22.533,
+          "fin": 22.88
+        },
+        {
+          "texto": "con",
+          "inicio": 22.94,
+          "fin": 23.12
+        },
+        {
+          "texto": "h",
+          "inicio": 23.4,
+          "fin": 23.68
+        },
+        {
+          "texto": "t",
+          "inicio": 23.8,
+          "fin": 23.92
+        },
+        {
+          "texto": "t",
+          "inicio": 24.04,
+          "fin": 24.16
+        },
+        {
+          "texto": "p",
+          "inicio": 24.32,
+          "fin": 24.48
+        },
+        {
+          "texto": "s,",
+          "inicio": 24.64,
+          "fin": 25.04
+        },
+        {
+          "texto": "porque",
+          "inicio": 25.166,
+          "fin": 25.92
+        },
+        {
+          "texto": "Excel",
+          "inicio": 26.0,
+          "fin": 26.4
+        },
+        {
+          "texto": "bloquea",
+          "inicio": 26.469,
+          "fin": 26.96
+        },
+        {
+          "texto": "las",
+          "inicio": 26.98,
+          "fin": 27.04
+        },
+        {
+          "texto": "direcciones",
+          "inicio": 27.088,
+          "fin": 27.68
+        },
+        {
+          "texto": "que",
+          "inicio": 27.7,
+          "fin": 27.76
+        },
+        {
+          "texto": "redirigen.",
+          "inicio": 27.82,
+          "fin": 28.48
+        }
+      ]
+    },
+    {
+      "num": "19",
+      "titulo": "Resumen",
+      "audio": "escena-19.mp3",
+      "inicio": 466.64,
+      "duracion": 25.36,
+      "palabras": [
+        {
+          "texto": "En",
+          "inicio": 0.0,
+          "fin": 0.16
+        },
+        {
+          "texto": "resumen:",
+          "inicio": 0.22,
+          "fin": 1.08
+        },
+        {
+          "texto": "con",
+          "inicio": 1.17,
+          "fin": 1.44
+        },
+        {
+          "texto": "IMAGEN",
+          "inicio": 1.52,
+          "fin": 2.16
+        },
+        {
+          "texto": "y",
+          "inicio": 2.2,
+          "fin": 2.24
+        },
+        {
+          "texto": "un",
+          "inicio": 2.267,
+          "fin": 2.32
+        },
+        {
+          "texto": "servicio",
+          "inicio": 2.373,
+          "fin": 2.8
+        },
+        {
+          "texto": "gratuito",
+          "inicio": 2.916,
+          "fin": 3.84
+        },
+        {
+          "texto": "creas",
+          "inicio": 3.92,
+          "fin": 4.32
+        },
+        {
+          "texto": "códigos",
+          "inicio": 4.36,
+          "fin": 4.72
+        },
+        {
+          "texto": "QR",
+          "inicio": 4.907,
+          "fin": 5.28
+        },
+        {
+          "texto": "y",
+          "inicio": 5.4,
+          "fin": 5.52
+        },
+        {
+          "texto": "de",
+          "inicio": 5.573,
+          "fin": 5.68
+        },
+        {
+          "texto": "barras",
+          "inicio": 5.744,
+          "fin": 6.48
+        },
+        {
+          "texto": "dentro",
+          "inicio": 6.549,
+          "fin": 6.96
+        },
+        {
+          "texto": "de",
+          "inicio": 6.987,
+          "fin": 7.04
+        },
+        {
+          "texto": "las",
+          "inicio": 7.08,
+          "fin": 7.2
+        },
+        {
+          "texto": "celdas.",
+          "inicio": 7.28,
+          "fin": 8.4
+        },
+        {
+          "texto": "Usa",
+          "inicio": 8.54,
+          "fin": 8.96
+        },
+        {
+          "texto": "URLCODIF",
+          "inicio": 9.24,
+          "fin": 10.8
+        },
+        {
+          "texto": "cuando",
+          "inicio": 10.88,
+          "fin": 11.36
+        },
+        {
+          "texto": "el",
+          "inicio": 11.387,
+          "fin": 11.44
+        },
+        {
+          "texto": "texto",
+          "inicio": 11.533,
+          "fin": 12.0
+        },
+        {
+          "texto": "lleve",
+          "inicio": 12.1,
+          "fin": 12.48
+        },
+        {
+          "texto": "espacios.",
+          "inicio": 12.54,
+          "fin": 13.44
+        },
+        {
+          "texto": "Y",
+          "inicio": 13.76,
+          "fin": 14.08
+        },
+        {
+          "texto": "con",
+          "inicio": 14.14,
+          "fin": 14.32
+        },
+        {
+          "texto": "un",
+          "inicio": 14.347,
+          "fin": 14.4
+        },
+        {
+          "texto": "lector",
+          "inicio": 14.453,
+          "fin": 14.88
+        },
+        {
+          "texto": "USB",
+          "inicio": 15.08,
+          "fin": 15.68
+        },
+        {
+          "texto": "y",
+          "inicio": 15.88,
+          "fin": 16.08
+        },
+        {
+          "texto": "BUSCARX,",
+          "inicio": 16.16,
+          "fin": 17.52
+        },
+        {
+          "texto": "consultas",
+          "inicio": 17.61,
+          "fin": 18.4
+        },
+        {
+          "texto": "cualquier",
+          "inicio": 18.464,
+          "fin": 19.04
+        },
+        {
+          "texto": "producto",
+          "inicio": 19.111,
+          "fin": 19.68
+        },
+        {
+          "texto": "en",
+          "inicio": 19.84,
+          "fin": 20.16
+        },
+        {
+          "texto": "un",
+          "inicio": 20.187,
+          "fin": 20.24
+        },
+        {
+          "texto": "segundo.",
+          "inicio": 20.33,
+          "fin": 21.56
+        },
+        {
+          "texto": "Si",
+          "inicio": 22.222,
+          "fin": 22.24
+        },
+        {
+          "texto": "no",
+          "inicio": 22.293,
+          "fin": 22.4
+        },
+        {
+          "texto": "lo",
+          "inicio": 22.427,
+          "fin": 22.48
+        },
+        {
+          "texto": "aprendes",
+          "inicio": 22.526,
+          "fin": 23.04
+        },
+        {
+          "texto": "ahora,",
+          "inicio": 23.107,
+          "fin": 23.52
+        },
+        {
+          "texto": "te",
+          "inicio": 23.787,
+          "fin": 24.32
+        },
+        {
+          "texto": "extingues.",
+          "inicio": 24.4,
+          "fin": 25.36
+        }
+      ]
+    },
+    {
+      "num": "20",
+      "titulo": "Cierre y siguiente video",
+      "audio": "escena-20.mp3",
+      "inicio": 492.4,
+      "duracion": 22.8,
+      "palabras": [
+        {
+          "texto": "Y",
+          "inicio": 0.0,
+          "fin": 0.08
+        },
+        {
+          "texto": "mira",
+          "inicio": 0.12,
+          "fin": 0.32
+        },
+        {
+          "texto": "este",
+          "inicio": 0.384,
+          "fin": 0.64
+        },
+        {
+          "texto": "QR:",
+          "inicio": 0.827,
+          "fin": 1.28
+        },
+        {
+          "texto": "te",
+          "inicio": 1.36,
+          "fin": 1.52
+        },
+        {
+          "texto": "lleva",
+          "inicio": 1.552,
+          "fin": 1.76
+        },
+        {
+          "texto": "directo",
+          "inicio": 1.829,
+          "fin": 2.32
+        },
+        {
+          "texto": "a",
+          "inicio": 2.44,
+          "fin": 2.56
+        },
+        {
+          "texto": "mi",
+          "inicio": 2.613,
+          "fin": 2.72
+        },
+        {
+          "texto": "tienda,",
+          "inicio": 2.773,
+          "fin": 3.36
+        },
+        {
+          "texto": "en",
+          "inicio": 3.413,
+          "fin": 3.52
+        },
+        {
+          "texto": "edwinortiz",
+          "inicio": 3.573,
+          "fin": 4.16
+        },
+        {
+          "texto": "punto",
+          "inicio": 4.213,
+          "fin": 4.48
+        },
+        {
+          "texto": "net,",
+          "inicio": 4.54,
+          "fin": 4.88
+        },
+        {
+          "texto": "donde",
+          "inicio": 4.973,
+          "fin": 5.44
+        },
+        {
+          "texto": "encuentras",
+          "inicio": 5.48,
+          "fin": 6.0
+        },
+        {
+          "texto": "plantillas",
+          "inicio": 6.053,
+          "fin": 6.56
+        },
+        {
+          "texto": "de",
+          "inicio": 6.587,
+          "fin": 6.64
+        },
+        {
+          "texto": "Excel",
+          "inicio": 6.707,
+          "fin": 7.04
+        },
+        {
+          "texto": "listas",
+          "inicio": 7.136,
+          "fin": 7.6
+        },
+        {
+          "texto": "para",
+          "inicio": 7.632,
+          "fin": 7.76
+        },
+        {
+          "texto": "usar;",
+          "inicio": 7.824,
+          "fin": 8.32
+        },
+        {
+          "texto": "el",
+          "inicio": 8.347,
+          "fin": 8.4
+        },
+        {
+          "texto": "enlace",
+          "inicio": 8.453,
+          "fin": 8.88
+        },
+        {
+          "texto": "también",
+          "inicio": 8.94,
+          "fin": 9.36
+        },
+        {
+          "texto": "está",
+          "inicio": 9.408,
+          "fin": 9.6
+        },
+        {
+          "texto": "abajo.",
+          "inicio": 9.627,
+          "fin": 10.4
+        },
+        {
+          "texto": "En",
+          "inicio": 10.507,
+          "fin": 10.72
+        },
+        {
+          "texto": "el",
+          "inicio": 10.773,
+          "fin": 10.88
+        },
+        {
+          "texto": "próximo",
+          "inicio": 10.93,
+          "fin": 11.28
+        },
+        {
+          "texto": "video",
+          "inicio": 11.333,
+          "fin": 11.6
+        },
+        {
+          "texto": "te",
+          "inicio": 11.627,
+          "fin": 11.68
+        },
+        {
+          "texto": "explico",
+          "inicio": 11.74,
+          "fin": 12.16
+        },
+        {
+          "texto": "qué",
+          "inicio": 12.22,
+          "fin": 12.4
+        },
+        {
+          "texto": "es",
+          "inicio": 12.453,
+          "fin": 12.56
+        },
+        {
+          "texto": "Power",
+          "inicio": 12.613,
+          "fin": 12.88
+        },
+        {
+          "texto": "Query",
+          "inicio": 12.96,
+          "fin": 13.36
+        },
+        {
+          "texto": "y",
+          "inicio": 13.44,
+          "fin": 13.52
+        },
+        {
+          "texto": "para",
+          "inicio": 13.568,
+          "fin": 13.76
+        },
+        {
+          "texto": "qué",
+          "inicio": 13.8,
+          "fin": 13.92
+        },
+        {
+          "texto": "sirve:",
+          "inicio": 14.0,
+          "fin": 14.8
+        },
+        {
+          "texto": "la",
+          "inicio": 14.827,
+          "fin": 14.88
+        },
+        {
+          "texto": "herramienta",
+          "inicio": 14.924,
+          "fin": 15.44
+        },
+        {
+          "texto": "que",
+          "inicio": 15.48,
+          "fin": 15.6
+        },
+        {
+          "texto": "limpia",
+          "inicio": 15.664,
+          "fin": 16.0
+        },
+        {
+          "texto": "tus",
+          "inicio": 16.04,
+          "fin": 16.16
+        },
+        {
+          "texto": "datos",
+          "inicio": 16.24,
+          "fin": 16.64
+        },
+        {
+          "texto": "sola.",
+          "inicio": 16.752,
+          "fin": 17.6
+        },
+        {
+          "texto": "Suscríbete",
+          "inicio": 17.7,
+          "fin": 18.4
+        },
+        {
+          "texto": "para",
+          "inicio": 18.464,
+          "fin": 18.72
+        },
+        {
+          "texto": "no",
+          "inicio": 18.773,
+          "fin": 18.88
+        },
+        {
+          "texto": "perdértelo.",
+          "inicio": 18.928,
+          "fin": 19.68
+        },
+        {
+          "texto": "El",
+          "inicio": 20.147,
+          "fin": 20.16
+        },
+        {
+          "texto": "poder",
+          "inicio": 20.227,
+          "fin": 20.56
+        },
+        {
+          "texto": "de",
+          "inicio": 20.587,
+          "fin": 20.64
+        },
+        {
+          "texto": "la",
+          "inicio": 20.693,
+          "fin": 20.8
+        },
+        {
+          "texto": "tecnología",
+          "inicio": 20.848,
+          "fin": 21.52
+        },
+        {
+          "texto": "te",
+          "inicio": 21.6,
+          "fin": 21.76
+        },
+        {
+          "texto": "va",
+          "inicio": 21.787,
+          "fin": 21.84
+        },
+        {
+          "texto": "a",
+          "inicio": 21.88,
+          "fin": 21.92
+        },
+        {
+          "texto": "cambiar",
+          "inicio": 21.97,
+          "fin": 22.32
+        },
+        {
+          "texto": "el",
+          "inicio": 22.347,
+          "fin": 22.4
+        },
+        {
+          "texto": "mundo.",
+          "inicio": 22.453,
+          "fin": 22.8
+        }
+      ]
+    }
+  ]
+}

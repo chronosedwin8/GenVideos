@@ -1,0 +1,285 @@
+{
+  "num": "18",
+  "titulo": "¿Cuál usar?",
+  "texto": "¿Entonces cuál usar? Si quieres una respuesta rápida, una explicación o una idea, ChatGPT gratis te sirve muy bien. Si vas a trabajar con código, con datos importantes, o necesitas que revise todo a fondo, Claude se ganó mi confianza en esta prueba. Y recuerda que las dos ya tienen su complemento dentro de Excel.",
+  "texto_tts": "¿Entonces cuál usar? Si quieres una respuesta rápida, una explicación o una idea, ChatGPT gratis te sirve muy bien. Si vas a trabajar con código, con datos importantes, o necesitas que revise todo a fondo, Claude se ganó mi confianza en esta prueba. Y recuerda que las dos ya tienen su complemento dentro de Excel.",
+  "modelo": "eleven_v3",
+  "duracion": 25.44,
+  "palabras": [
+    {
+      "texto": "¿Entonces",
+      "inicio": 0.0,
+      "fin": 0.48
+    },
+    {
+      "texto": "cuál",
+      "inicio": 0.533,
+      "fin": 0.72
+    },
+    {
+      "texto": "usar?",
+      "inicio": 0.8,
+      "fin": 1.28
+    },
+    {
+      "texto": "Si",
+      "inicio": 1.573,
+      "fin": 2.16
+    },
+    {
+      "texto": "quieres",
+      "inicio": 2.21,
+      "fin": 2.56
+    },
+    {
+      "texto": "una",
+      "inicio": 2.62,
+      "fin": 2.8
+    },
+    {
+      "texto": "respuesta",
+      "inicio": 2.848,
+      "fin": 3.28
+    },
+    {
+      "texto": "rápida,",
+      "inicio": 3.38,
+      "fin": 3.92
+    },
+    {
+      "texto": "una",
+      "inicio": 3.96,
+      "fin": 4.08
+    },
+    {
+      "texto": "explicación",
+      "inicio": 4.137,
+      "fin": 4.96
+    },
+    {
+      "texto": "o",
+      "inicio": 5.04,
+      "fin": 5.12
+    },
+    {
+      "texto": "una",
+      "inicio": 5.16,
+      "fin": 5.28
+    },
+    {
+      "texto": "idea,",
+      "inicio": 5.36,
+      "fin": 6.4
+    },
+    {
+      "texto": "ChatGPT",
+      "inicio": 6.464,
+      "fin": 7.12
+    },
+    {
+      "texto": "gratis",
+      "inicio": 7.211,
+      "fin": 7.76
+    },
+    {
+      "texto": "te",
+      "inicio": 7.867,
+      "fin": 8.08
+    },
+    {
+      "texto": "sirve",
+      "inicio": 8.14,
+      "fin": 8.4
+    },
+    {
+      "texto": "muy",
+      "inicio": 8.46,
+      "fin": 8.64
+    },
+    {
+      "texto": "bien.",
+      "inicio": 8.688,
+      "fin": 8.96
+    },
+    {
+      "texto": "Si",
+      "inicio": 9.387,
+      "fin": 10.24
+    },
+    {
+      "texto": "vas",
+      "inicio": 10.28,
+      "fin": 10.4
+    },
+    {
+      "texto": "a",
+      "inicio": 10.44,
+      "fin": 10.48
+    },
+    {
+      "texto": "trabajar",
+      "inicio": 10.533,
+      "fin": 10.96
+    },
+    {
+      "texto": "con",
+      "inicio": 11.02,
+      "fin": 11.2
+    },
+    {
+      "texto": "código,",
+      "inicio": 11.303,
+      "fin": 12.48
+    },
+    {
+      "texto": "con",
+      "inicio": 12.52,
+      "fin": 12.64
+    },
+    {
+      "texto": "datos",
+      "inicio": 12.693,
+      "fin": 12.96
+    },
+    {
+      "texto": "importantes,",
+      "inicio": 13.04,
+      "fin": 14.0
+    },
+    {
+      "texto": "o",
+      "inicio": 14.08,
+      "fin": 14.16
+    },
+    {
+      "texto": "necesitas",
+      "inicio": 14.227,
+      "fin": 14.8
+    },
+    {
+      "texto": "que",
+      "inicio": 14.84,
+      "fin": 14.96
+    },
+    {
+      "texto": "revise",
+      "inicio": 15.029,
+      "fin": 15.44
+    },
+    {
+      "texto": "todo",
+      "inicio": 15.504,
+      "fin": 15.76
+    },
+    {
+      "texto": "a",
+      "inicio": 15.8,
+      "fin": 15.84
+    },
+    {
+      "texto": "fondo,",
+      "inicio": 15.92,
+      "fin": 17.04
+    },
+    {
+      "texto": "Claude",
+      "inicio": 17.12,
+      "fin": 17.6
+    },
+    {
+      "texto": "se",
+      "inicio": 17.68,
+      "fin": 17.84
+    },
+    {
+      "texto": "ganó",
+      "inicio": 17.88,
+      "fin": 18.08
+    },
+    {
+      "texto": "mi",
+      "inicio": 18.107,
+      "fin": 18.16
+    },
+    {
+      "texto": "confianza",
+      "inicio": 18.224,
+      "fin": 18.72
+    },
+    {
+      "texto": "en",
+      "inicio": 18.773,
+      "fin": 18.88
+    },
+    {
+      "texto": "esta",
+      "inicio": 18.912,
+      "fin": 19.04
+    },
+    {
+      "texto": "prueba.",
+      "inicio": 19.097,
+      "fin": 19.52
+    },
+    {
+      "texto": "Y",
+      "inicio": 20.08,
+      "fin": 20.64
+    },
+    {
+      "texto": "recuerda",
+      "inicio": 20.7,
+      "fin": 21.28
+    },
+    {
+      "texto": "que",
+      "inicio": 21.4,
+      "fin": 21.76
+    },
+    {
+      "texto": "las",
+      "inicio": 21.82,
+      "fin": 22.0
+    },
+    {
+      "texto": "dos",
+      "inicio": 22.1,
+      "fin": 22.4
+    },
+    {
+      "texto": "ya",
+      "inicio": 22.533,
+      "fin": 22.8
+    },
+    {
+      "texto": "tienen",
+      "inicio": 22.857,
+      "fin": 23.2
+    },
+    {
+      "texto": "su",
+      "inicio": 23.253,
+      "fin": 23.36
+    },
+    {
+      "texto": "complemento",
+      "inicio": 23.433,
+      "fin": 24.24
+    },
+    {
+      "texto": "dentro",
+      "inicio": 24.331,
+      "fin": 24.88
+    },
+    {
+      "texto": "de",
+      "inicio": 24.907,
+      "fin": 24.96
+    },
+    {
+      "texto": "Excel.",
+      "inicio": 25.04,
+      "fin": 25.44
+    }
+  ]
+}

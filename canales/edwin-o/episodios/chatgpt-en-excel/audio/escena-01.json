@@ -1,0 +1,275 @@
+{
+  "num": "01",
+  "titulo": "Gancho",
+  "texto": "Le escribes a Excel, como si le escribieras a un compañero: \"quita los duplicados, ponle formato de moneda y hazme un resumen por categoría\". Y en segundos, tu hoja está limpia y con su resumen. No es el futuro: ChatGPT ya vive dentro de Excel, y está disponible incluso en el plan gratuito.",
+  "texto_tts": "[excited] Le escribes a Excel, como si le escribieras a un compañero: \"quita los duplicados, ponle formato de moneda y hazme un resumen por categoría\". Y en segundos, tu hoja está limpia y con su resumen. No es el futuro: ChatGPT ya vive dentro de Excel, y está disponible incluso en el plan gratuito.",
+  "modelo": "eleven_v3",
+  "duracion": 20.8,
+  "palabras": [
+    {
+      "texto": "Le",
+      "inicio": 0.069,
+      "fin": 0.08
+    },
+    {
+      "texto": "escribes",
+      "inicio": 0.133,
+      "fin": 0.56
+    },
+    {
+      "texto": "a",
+      "inicio": 0.6,
+      "fin": 0.64
+    },
+    {
+      "texto": "Excel,",
+      "inicio": 0.707,
+      "fin": 1.28
+    },
+    {
+      "texto": "como",
+      "inicio": 1.312,
+      "fin": 1.44
+    },
+    {
+      "texto": "si",
+      "inicio": 1.467,
+      "fin": 1.52
+    },
+    {
+      "texto": "le",
+      "inicio": 1.573,
+      "fin": 1.68
+    },
+    {
+      "texto": "escribieras",
+      "inicio": 1.707,
+      "fin": 2.16
+    },
+    {
+      "texto": "a",
+      "inicio": 2.2,
+      "fin": 2.24
+    },
+    {
+      "texto": "un",
+      "inicio": 2.267,
+      "fin": 2.32
+    },
+    {
+      "texto": "compañero:",
+      "inicio": 2.377,
+      "fin": 3.04
+    },
+    {
+      "texto": "\"quita",
+      "inicio": 3.32,
+      "fin": 3.84
+    },
+    {
+      "texto": "los",
+      "inicio": 3.88,
+      "fin": 4.0
+    },
+    {
+      "texto": "duplicados,",
+      "inicio": 4.057,
+      "fin": 5.36
+    },
+    {
+      "texto": "ponle",
+      "inicio": 5.42,
+      "fin": 5.68
+    },
+    {
+      "texto": "formato",
+      "inicio": 5.74,
+      "fin": 6.16
+    },
+    {
+      "texto": "de",
+      "inicio": 6.187,
+      "fin": 6.24
+    },
+    {
+      "texto": "moneda",
+      "inicio": 6.3,
+      "fin": 6.88
+    },
+    {
+      "texto": "y",
+      "inicio": 7.08,
+      "fin": 7.28
+    },
+    {
+      "texto": "hazme",
+      "inicio": 7.32,
+      "fin": 7.52
+    },
+    {
+      "texto": "un",
+      "inicio": 7.547,
+      "fin": 7.6
+    },
+    {
+      "texto": "resumen",
+      "inicio": 7.66,
+      "fin": 8.0
+    },
+    {
+      "texto": "por",
+      "inicio": 8.04,
+      "fin": 8.16
+    },
+    {
+      "texto": "categoría\".",
+      "inicio": 8.22,
+      "fin": 8.96
+    },
+    {
+      "texto": "Y",
+      "inicio": 9.2,
+      "fin": 9.44
+    },
+    {
+      "texto": "en",
+      "inicio": 9.493,
+      "fin": 9.6
+    },
+    {
+      "texto": "segundos,",
+      "inicio": 9.689,
+      "fin": 10.56
+    },
+    {
+      "texto": "tu",
+      "inicio": 10.693,
+      "fin": 10.96
+    },
+    {
+      "texto": "hoja",
+      "inicio": 11.013,
+      "fin": 11.2
+    },
+    {
+      "texto": "está",
+      "inicio": 11.264,
+      "fin": 11.52
+    },
+    {
+      "texto": "limpia",
+      "inicio": 11.616,
+      "fin": 12.16
+    },
+    {
+      "texto": "y",
+      "inicio": 12.28,
+      "fin": 12.4
+    },
+    {
+      "texto": "con",
+      "inicio": 12.44,
+      "fin": 12.56
+    },
+    {
+      "texto": "su",
+      "inicio": 12.587,
+      "fin": 12.64
+    },
+    {
+      "texto": "resumen.",
+      "inicio": 12.72,
+      "fin": 13.72
+    },
+    {
+      "texto": "No",
+      "inicio": 13.867,
+      "fin": 14.16
+    },
+    {
+      "texto": "es",
+      "inicio": 14.24,
+      "fin": 14.4
+    },
+    {
+      "texto": "el",
+      "inicio": 14.427,
+      "fin": 14.48
+    },
+    {
+      "texto": "futuro:",
+      "inicio": 14.549,
+      "fin": 15.28
+    },
+    {
+      "texto": "ChatGPT",
+      "inicio": 15.328,
+      "fin": 16.08
+    },
+    {
+      "texto": "ya",
+      "inicio": 16.213,
+      "fin": 16.48
+    },
+    {
+      "texto": "vive",
+      "inicio": 16.56,
+      "fin": 16.88
+    },
+    {
+      "texto": "dentro",
+      "inicio": 16.949,
+      "fin": 17.36
+    },
+    {
+      "texto": "de",
+      "inicio": 17.413,
+      "fin": 17.52
+    },
+    {
+      "texto": "Excel,",
+      "inicio": 17.6,
+      "fin": 18.08
+    },
+    {
+      "texto": "y",
+      "inicio": 18.36,
+      "fin": 18.64
+    },
+    {
+      "texto": "está",
+      "inicio": 18.688,
+      "fin": 18.88
+    },
+    {
+      "texto": "disponible",
+      "inicio": 18.931,
+      "fin": 19.44
+    },
+    {
+      "texto": "incluso",
+      "inicio": 19.49,
+      "fin": 19.84
+    },
+    {
+      "texto": "en",
+      "inicio": 19.867,
+      "fin": 19.92
+    },
+    {
+      "texto": "el",
+      "inicio": 19.947,
+      "fin": 20.0
+    },
+    {
+      "texto": "plan",
+      "inicio": 20.048,
+      "fin": 20.24
+    },
+    {
+      "texto": "gratuito.",
+      "inicio": 20.293,
+      "fin": 20.8
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "titulo": "¿Qué es Power Query y para qué sirve? Limpia tus datos de Excel en 1 clic",
+  "descripcion": "Power Query es la grabadora de pasos de Excel: obtiene tus datos, los limpia y los carga en una hoja, y repite toda la receta con Actualizar todo. En este video ves qué es, dónde está y una limpieza completa paso a paso.\n\nEn este video aprenderás:\n✅ Qué es Power Query (obtener, transformar, cargar)\n✅ Dónde está: Datos → Desde tabla o rango\n✅ Quitar filas en blanco y duplicados\n✅ Recortar y Poner En Mayúsculas Cada Palabra\n✅ Dividir columna por delimitador\n✅ Tipos de datos y Pasos aplicados\n✅ Cerrar y cargar + Actualizar todo\n\nRuta de cada paso (Excel 365 en español):\nDatos → Desde tabla o rango\nInicio → Quitar filas → Quitar filas en blanco\nTransformar → Formato → Recortar / Poner En Mayúsculas Cada Palabra\nInicio → Dividir columna → Por delimitador\nInicio → Quitar filas → Quitar duplicados\nInicio → Cerrar y cargar\nDatos → Actualizar todo\n\nCapítulos\n0:00 El archivo de cada lunes\n0:42 Power Query está en todas partes\n1:29 ¿Qué es Power Query?\n1:56 ¿Dónde está?\n2:14 Los datos\n2:32 Paso 1: Desde tabla o rango\n2:53 Conoce el editor\n3:15 Paso 2: filas en blanco\n3:37 Paso 3: limpia los nombres\n4:04 Paso 4: dividir columna\n4:29 Paso 5: duplicados\n4:51 Paso 6: tipos de datos\n5:11 La grabadora de pasos\n5:30 Paso 7: cerrar y cargar\n5:49 La magia: Actualizar todo\n6:19 ¿Power Query o fórmulas?\n6:52 ¿Qué más puede hacer?\n7:27 Si no te funcionó\n\n📊 Guías de Excel en el blog: https://www.edwinortiz.net/excel/\n🌐 Plantillas y cursos: https://www.edwinortiz.net\n\nFuentes\nMicrosoft Support, Acerca de Power Query en Excel: https://support.microsoft.com/es-es/office/acerca-de-power-query-en-excel-7104fbee-9e62-4cb9-a02e-5bfb1a6c536a\nMicrosoft Learn, ¿Qué es Power Query?: https://learn.microsoft.com/es-es/power-query/power-query-what-is-power-query\n\nLa voz de este video es la voz de Edwin, clonada con inteligencia artificial (ElevenLabs).\n\nVamos en busca del poder tecnológico. 🚀\n#Excel #PowerQuery #AnalisisDeDatos\n\n🛒 Tienda de plantillas y recursos: https://www.edwinortiz.net/tienda/\n\nPuedes encontrar mucha más información en mi página web https://www.edwinortiz.net/ ademas también podrás ingresar a mi plataforma online de aprendizaje donde podrás realizar cursos acordes a tus necesidades en  https://www.miaulaweb.com/\n\nTe invito a que me sigas en twitter en @chronosedwin8  y en Instagram https://www.instagram.com/edwinortizherazo/\n\n\n►MI BLOG: https://www.edwinortiz.net/\n►AULA EN LINEA: https://aula.miaulaweb.com/\n►2do CANAL: https://www.youtube.com/user/chronosedwin8\n►FANPAGE: https://www.facebook.com/EdwinOrtizHerazo\n►TWITTER:https://twitter.com/chronosedwin8\n►MI EMPRESA: https://www.miaulaweb.com/\n►¿QUIÉN SOY?: https://www.linkedin.com/in/edwin-ortiz-herazo-a3714a47?trk=nav_responsive_tab_profile",
+  "tags": [
+    "que es power query",
+    "power query excel",
+    "para que sirve power query",
+    "limpiar datos en excel",
+    "power query desde cero",
+    "quitar duplicados excel",
+    "dividir columna excel",
+    "actualizar todo excel",
+    "power bi",
+    "analista de datos",
+    "excel para empresas",
+    "edwin o"
+  ],
+  "categoria": 27,
+  "idioma": "es",
+  "creado_para_ninos": false,
+  "contenido_sintetico": true,
+  "privacidad": "public",
+  "programar": "2027-01-05 07:00",
+  "playlist": "Power Query y datos",
+  "archivo": "render/que-es-power-query.mp4",
+  "miniatura": "miniatura.png",
+  "subtitulos": "audio/subtitulos.srt",
+  "shorts": [
+    {
+      "id": "short-1",
+      "titulo": "Limpia tu Excel CON 1 CLIC (Power Query) #shorts",
+      "descripcion": "Pegas los datos nuevos, Actualizar todo y listo. Video completo en el canal.",
+      "tags": [
+        "power query",
+        "shorts"
+      ],
+      "programar": "2027-01-06 12:00",
+      "archivo": "render/short-1.mp4"
+    },
+    {
+      "id": "short-2",
+      "titulo": "Quita duplicados COMO PRO en Excel #shorts",
+      "descripcion": "Power Query: limpia los nombres primero y luego Quitar duplicados. Video completo en el canal.",
+      "tags": [
+        "quitar duplicados excel",
+        "shorts"
+      ],
+      "programar": "2027-01-09 12:00",
+      "archivo": "render/short-2.mp4"
+    }
+  ]
+}

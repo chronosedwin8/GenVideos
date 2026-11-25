@@ -1,0 +1,235 @@
+{
+  "num": "19",
+  "titulo": "Resumen",
+  "texto": "En resumen: con IMAGEN y un servicio gratuito creas códigos QR y de barras dentro de las celdas. Usa URLCODIF cuando el texto lleve espacios. Y con un lector USB y BUSCARX, consultas cualquier producto en un segundo. Si no lo aprendes ahora, te extingues.",
+  "texto_tts": "En resumen: con IMAGEN y un servicio gratuito creas códigos QR y de barras dentro de las celdas. Usa URLCODIF cuando el texto lleve espacios. Y con un lector USB y BUSCARX, consultas cualquier producto en un segundo. [serious] Si no lo aprendes ahora, te extingues.",
+  "modelo": "eleven_v3",
+  "duracion": 25.36,
+  "palabras": [
+    {
+      "texto": "En",
+      "inicio": 0.0,
+      "fin": 0.16
+    },
+    {
+      "texto": "resumen:",
+      "inicio": 0.22,
+      "fin": 1.08
+    },
+    {
+      "texto": "con",
+      "inicio": 1.17,
+      "fin": 1.44
+    },
+    {
+      "texto": "IMAGEN",
+      "inicio": 1.52,
+      "fin": 2.16
+    },
+    {
+      "texto": "y",
+      "inicio": 2.2,
+      "fin": 2.24
+    },
+    {
+      "texto": "un",
+      "inicio": 2.267,
+      "fin": 2.32
+    },
+    {
+      "texto": "servicio",
+      "inicio": 2.373,
+      "fin": 2.8
+    },
+    {
+      "texto": "gratuito",
+      "inicio": 2.916,
+      "fin": 3.84
+    },
+    {
+      "texto": "creas",
+      "inicio": 3.92,
+      "fin": 4.32
+    },
+    {
+      "texto": "códigos",
+      "inicio": 4.36,
+      "fin": 4.72
+    },
+    {
+      "texto": "QR",
+      "inicio": 4.907,
+      "fin": 5.28
+    },
+    {
+      "texto": "y",
+      "inicio": 5.4,
+      "fin": 5.52
+    },
+    {
+      "texto": "de",
+      "inicio": 5.573,
+      "fin": 5.68
+    },
+    {
+      "texto": "barras",
+      "inicio": 5.744,
+      "fin": 6.48
+    },
+    {
+      "texto": "dentro",
+      "inicio": 6.549,
+      "fin": 6.96
+    },
+    {
+      "texto": "de",
+      "inicio": 6.987,
+      "fin": 7.04
+    },
+    {
+      "texto": "las",
+      "inicio": 7.08,
+      "fin": 7.2
+    },
+    {
+      "texto": "celdas.",
+      "inicio": 7.28,
+      "fin": 8.4
+    },
+    {
+      "texto": "Usa",
+      "inicio": 8.54,
+      "fin": 8.96
+    },
+    {
+      "texto": "URLCODIF",
+      "inicio": 9.24,
+      "fin": 10.8
+    },
+    {
+      "texto": "cuando",
+      "inicio": 10.88,
+      "fin": 11.36
+    },
+    {
+      "texto": "el",
+      "inicio": 11.387,
+      "fin": 11.44
+    },
+    {
+      "texto": "texto",
+      "inicio": 11.533,
+      "fin": 12.0
+    },
+    {
+      "texto": "lleve",
+      "inicio": 12.1,
+      "fin": 12.48
+    },
+    {
+      "texto": "espacios.",
+      "inicio": 12.54,
+      "fin": 13.44
+    },
+    {
+      "texto": "Y",
+      "inicio": 13.76,
+      "fin": 14.08
+    },
+    {
+      "texto": "con",
+      "inicio": 14.14,
+      "fin": 14.32
+    },
+    {
+      "texto": "un",
+      "inicio": 14.347,
+      "fin": 14.4
+    },
+    {
+      "texto": "lector",
+      "inicio": 14.453,
+      "fin": 14.88
+    },
+    {
+      "texto": "USB",
+      "inicio": 15.08,
+      "fin": 15.68
+    },
+    {
+      "texto": "y",
+      "inicio": 15.88,
+      "fin": 16.08
+    },
+    {
+      "texto": "BUSCARX,",
+      "inicio": 16.16,
+      "fin": 17.52
+    },
+    {
+      "texto": "consultas",
+      "inicio": 17.61,
+      "fin": 18.4
+    },
+    {
+      "texto": "cualquier",
+      "inicio": 18.464,
+      "fin": 19.04
+    },
+    {
+      "texto": "producto",
+      "inicio": 19.111,
+      "fin": 19.68
+    },
+    {
+      "texto": "en",
+      "inicio": 19.84,
+      "fin": 20.16
+    },
+    {
+      "texto": "un",
+      "inicio": 20.187,
+      "fin": 20.24
+    },
+    {
+      "texto": "segundo.",
+      "inicio": 20.33,
+      "fin": 21.56
+    },
+    {
+      "texto": "Si",
+      "inicio": 22.222,
+      "fin": 22.24
+    },
+    {
+      "texto": "no",
+      "inicio": 22.293,
+      "fin": 22.4
+    },
+    {
+      "texto": "lo",
+      "inicio": 22.427,
+      "fin": 22.48
+    },
+    {
+      "texto": "aprendes",
+      "inicio": 22.526,
+      "fin": 23.04
+    },
+    {
+      "texto": "ahora,",
+      "inicio": 23.107,
+      "fin": 23.52
+    },
+    {
+      "texto": "te",
+      "inicio": 23.787,
+      "fin": 24.32
+    },
+    {
+      "texto": "extingues.",
+      "inicio": 24.4,
+      "fin": 25.36
+    }
+  ]
+}

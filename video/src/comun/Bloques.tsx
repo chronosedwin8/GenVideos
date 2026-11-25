@@ -208,7 +208,7 @@ export const ListaCheck: React.FC<{tema: Tema; titulo?: string; items: {texto: s
       {items.map((it, i) => {
         const e = entrada(s, fps, it.desde, 200);
         return (
-          <div key={i} style={{display: 'flex', alignItems: 'center', gap: 26, background: 'white', border: BORDE, borderRadius: 24, boxShadow: '8px 8px 0 #000', padding: '18px 30px', fontSize: tam, fontWeight: 700, transform: `translateX(${(1 - e) * -1600}px)`, lineHeight: 1.25}}>
+          <div key={i} style={{display: 'flex', alignItems: 'center', gap: 26, background: 'white', border: BORDE, borderRadius: 24, boxShadow: '8px 8px 0 #000', padding: '18px 30px', fontSize: tam, fontWeight: 700, transform: `translateX(${(1 - e) * -1900}px)`, opacity: e > 0.01 ? 1 : 0, lineHeight: 1.25}}>
             <span style={{fontSize: tam * 1.3, flex: 'none'}}>{it.icono ?? '✅'}</span>
             <span><TextoRico tema={tema} texto={it.texto} /></span>
           </div>

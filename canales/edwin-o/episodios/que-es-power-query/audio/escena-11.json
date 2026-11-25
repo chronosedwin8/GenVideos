@@ -1,0 +1,250 @@
+{
+  "num": "11",
+  "titulo": "Paso 3: limpia los nombres",
+  "texto": "Paso tres: limpia los nombres. Selecciona la columna Vendedor, ve a Transformar, abre Formato, y elige Recortar: se van los espacios del principio y del final. Y otra vez en Formato, elige Poner en mayúsculas cada palabra. Ahora todos se ven iguales: Ana Torres, Luis Gómez, Sara Ruiz.",
+  "texto_tts": "Paso tres: limpia los nombres. Selecciona la columna Vendedor, ve a Transformar, abre Formato, y elige Recortar: se van los espacios del principio y del final. Y otra vez en Formato, elige Poner en mayúsculas cada palabra. Ahora todos se ven iguales: Ana Torres, Luis Gómez, Sara Ruiz.",
+  "modelo": "eleven_v3",
+  "duracion": 26.48,
+  "palabras": [
+    {
+      "texto": "Paso",
+      "inicio": 0.0,
+      "fin": 0.24
+    },
+    {
+      "texto": "tres:",
+      "inicio": 0.336,
+      "fin": 0.8
+    },
+    {
+      "texto": "limpia",
+      "inicio": 0.96,
+      "fin": 1.76
+    },
+    {
+      "texto": "los",
+      "inicio": 1.8,
+      "fin": 1.92
+    },
+    {
+      "texto": "nombres.",
+      "inicio": 2.01,
+      "fin": 3.12
+    },
+    {
+      "texto": "Selecciona",
+      "inicio": 3.28,
+      "fin": 4.0
+    },
+    {
+      "texto": "la",
+      "inicio": 4.027,
+      "fin": 4.08
+    },
+    {
+      "texto": "columna",
+      "inicio": 4.14,
+      "fin": 4.56
+    },
+    {
+      "texto": "Vendedor,",
+      "inicio": 4.6,
+      "fin": 6.0
+    },
+    {
+      "texto": "ve",
+      "inicio": 6.053,
+      "fin": 6.16
+    },
+    {
+      "texto": "a",
+      "inicio": 6.2,
+      "fin": 6.24
+    },
+    {
+      "texto": "Transformar,",
+      "inicio": 6.312,
+      "fin": 7.84
+    },
+    {
+      "texto": "abre",
+      "inicio": 7.904,
+      "fin": 8.16
+    },
+    {
+      "texto": "Formato,",
+      "inicio": 8.24,
+      "fin": 9.36
+    },
+    {
+      "texto": "y",
+      "inicio": 9.4,
+      "fin": 9.44
+    },
+    {
+      "texto": "elige",
+      "inicio": 9.493,
+      "fin": 9.84
+    },
+    {
+      "texto": "Recortar:",
+      "inicio": 9.98,
+      "fin": 11.6
+    },
+    {
+      "texto": "se",
+      "inicio": 11.653,
+      "fin": 11.76
+    },
+    {
+      "texto": "van",
+      "inicio": 11.8,
+      "fin": 11.92
+    },
+    {
+      "texto": "los",
+      "inicio": 11.96,
+      "fin": 12.08
+    },
+    {
+      "texto": "espacios",
+      "inicio": 12.14,
+      "fin": 12.64
+    },
+    {
+      "texto": "del",
+      "inicio": 12.68,
+      "fin": 12.8
+    },
+    {
+      "texto": "principio",
+      "inicio": 12.856,
+      "fin": 13.36
+    },
+    {
+      "texto": "y",
+      "inicio": 13.4,
+      "fin": 13.44
+    },
+    {
+      "texto": "del",
+      "inicio": 13.48,
+      "fin": 13.6
+    },
+    {
+      "texto": "final.",
+      "inicio": 13.68,
+      "fin": 14.16
+    },
+    {
+      "texto": "Y",
+      "inicio": 14.6,
+      "fin": 15.04
+    },
+    {
+      "texto": "otra",
+      "inicio": 15.088,
+      "fin": 15.28
+    },
+    {
+      "texto": "vez",
+      "inicio": 15.34,
+      "fin": 15.52
+    },
+    {
+      "texto": "en",
+      "inicio": 15.547,
+      "fin": 15.6
+    },
+    {
+      "texto": "Formato,",
+      "inicio": 15.68,
+      "fin": 16.8
+    },
+    {
+      "texto": "elige",
+      "inicio": 16.853,
+      "fin": 17.2
+    },
+    {
+      "texto": "Poner",
+      "inicio": 17.36,
+      "fin": 17.76
+    },
+    {
+      "texto": "en",
+      "inicio": 17.813,
+      "fin": 17.92
+    },
+    {
+      "texto": "mayúsculas",
+      "inicio": 17.98,
+      "fin": 18.64
+    },
+    {
+      "texto": "cada",
+      "inicio": 18.736,
+      "fin": 19.12
+    },
+    {
+      "texto": "palabra.",
+      "inicio": 19.19,
+      "fin": 19.76
+    },
+    {
+      "texto": "Ahora",
+      "inicio": 20.107,
+      "fin": 20.96
+    },
+    {
+      "texto": "todos",
+      "inicio": 21.053,
+      "fin": 21.52
+    },
+    {
+      "texto": "se",
+      "inicio": 21.547,
+      "fin": 21.6
+    },
+    {
+      "texto": "ven",
+      "inicio": 21.64,
+      "fin": 21.76
+    },
+    {
+      "texto": "iguales:",
+      "inicio": 21.813,
+      "fin": 22.96
+    },
+    {
+      "texto": "Ana",
+      "inicio": 23.02,
+      "fin": 23.2
+    },
+    {
+      "texto": "Torres,",
+      "inicio": 23.28,
+      "fin": 24.08
+    },
+    {
+      "texto": "Luis",
+      "inicio": 24.144,
+      "fin": 24.4
+    },
+    {
+      "texto": "Gómez,",
+      "inicio": 24.44,
+      "fin": 25.28
+    },
+    {
+      "texto": "Sara",
+      "inicio": 25.36,
+      "fin": 25.68
+    },
+    {
+      "texto": "Ruiz.",
+      "inicio": 25.792,
+      "fin": 26.48
+    }
+  ]
+}

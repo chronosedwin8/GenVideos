@@ -1,0 +1,290 @@
+{
+  "num": "14",
+  "titulo": "Paso 6: los tipos de datos",
+  "texto": "Paso seis: los tipos de datos. Fíjate en el ícono a la izquierda de cada encabezado. La fecha debe ser fecha, y el monto, un número. Si no lo son, haz clic en el ícono y elige el tipo correcto. Esto es clave: si el monto queda como texto, después no lo vas a poder sumar.",
+  "texto_tts": "Paso seis: los tipos de datos. Fíjate en el ícono a la izquierda de cada encabezado. La fecha debe ser fecha, y el monto, un número. Si no lo son, haz clic en el ícono y elige el tipo correcto. Esto es clave: si el monto queda como texto, después no lo vas a poder sumar.",
+  "modelo": "eleven_v3",
+  "duracion": 20.0,
+  "palabras": [
+    {
+      "texto": "Paso",
+      "inicio": 0.0,
+      "fin": 0.24
+    },
+    {
+      "texto": "seis:",
+      "inicio": 0.336,
+      "fin": 0.88
+    },
+    {
+      "texto": "los",
+      "inicio": 0.96,
+      "fin": 1.2
+    },
+    {
+      "texto": "tipos",
+      "inicio": 1.267,
+      "fin": 1.6
+    },
+    {
+      "texto": "de",
+      "inicio": 1.627,
+      "fin": 1.68
+    },
+    {
+      "texto": "datos.",
+      "inicio": 1.76,
+      "fin": 2.24
+    },
+    {
+      "texto": "Fíjate",
+      "inicio": 2.68,
+      "fin": 3.44
+    },
+    {
+      "texto": "en",
+      "inicio": 3.52,
+      "fin": 3.68
+    },
+    {
+      "texto": "el",
+      "inicio": 3.733,
+      "fin": 3.84
+    },
+    {
+      "texto": "ícono",
+      "inicio": 3.88,
+      "fin": 4.08
+    },
+    {
+      "texto": "a",
+      "inicio": 4.12,
+      "fin": 4.16
+    },
+    {
+      "texto": "la",
+      "inicio": 4.187,
+      "fin": 4.24
+    },
+    {
+      "texto": "izquierda",
+      "inicio": 4.293,
+      "fin": 4.72
+    },
+    {
+      "texto": "de",
+      "inicio": 4.747,
+      "fin": 4.8
+    },
+    {
+      "texto": "cada",
+      "inicio": 4.848,
+      "fin": 5.04
+    },
+    {
+      "texto": "encabezado.",
+      "inicio": 5.08,
+      "fin": 5.84
+    },
+    {
+      "texto": "La",
+      "inicio": 5.947,
+      "fin": 6.16
+    },
+    {
+      "texto": "fecha",
+      "inicio": 6.253,
+      "fin": 6.72
+    },
+    {
+      "texto": "debe",
+      "inicio": 6.8,
+      "fin": 7.12
+    },
+    {
+      "texto": "ser",
+      "inicio": 7.16,
+      "fin": 7.28
+    },
+    {
+      "texto": "fecha,",
+      "inicio": 7.36,
+      "fin": 7.84
+    },
+    {
+      "texto": "y",
+      "inicio": 8.04,
+      "fin": 8.24
+    },
+    {
+      "texto": "el",
+      "inicio": 8.267,
+      "fin": 8.32
+    },
+    {
+      "texto": "monto,",
+      "inicio": 8.4,
+      "fin": 9.04
+    },
+    {
+      "texto": "un",
+      "inicio": 9.093,
+      "fin": 9.2
+    },
+    {
+      "texto": "número.",
+      "inicio": 9.269,
+      "fin": 9.92
+    },
+    {
+      "texto": "Si",
+      "inicio": 10.053,
+      "fin": 10.32
+    },
+    {
+      "texto": "no",
+      "inicio": 10.373,
+      "fin": 10.48
+    },
+    {
+      "texto": "lo",
+      "inicio": 10.507,
+      "fin": 10.56
+    },
+    {
+      "texto": "son,",
+      "inicio": 10.64,
+      "fin": 11.12
+    },
+    {
+      "texto": "haz",
+      "inicio": 11.16,
+      "fin": 11.28
+    },
+    {
+      "texto": "clic",
+      "inicio": 11.328,
+      "fin": 11.52
+    },
+    {
+      "texto": "en",
+      "inicio": 11.573,
+      "fin": 11.68
+    },
+    {
+      "texto": "el",
+      "inicio": 11.707,
+      "fin": 11.76
+    },
+    {
+      "texto": "ícono",
+      "inicio": 11.84,
+      "fin": 12.16
+    },
+    {
+      "texto": "y",
+      "inicio": 12.28,
+      "fin": 12.4
+    },
+    {
+      "texto": "elige",
+      "inicio": 12.453,
+      "fin": 12.72
+    },
+    {
+      "texto": "el",
+      "inicio": 12.747,
+      "fin": 12.8
+    },
+    {
+      "texto": "tipo",
+      "inicio": 12.848,
+      "fin": 13.04
+    },
+    {
+      "texto": "correcto.",
+      "inicio": 13.1,
+      "fin": 13.68
+    },
+    {
+      "texto": "Esto",
+      "inicio": 13.888,
+      "fin": 14.72
+    },
+    {
+      "texto": "es",
+      "inicio": 14.747,
+      "fin": 14.8
+    },
+    {
+      "texto": "clave:",
+      "inicio": 14.867,
+      "fin": 15.76
+    },
+    {
+      "texto": "si",
+      "inicio": 15.813,
+      "fin": 15.92
+    },
+    {
+      "texto": "el",
+      "inicio": 15.947,
+      "fin": 16.0
+    },
+    {
+      "texto": "monto",
+      "inicio": 16.08,
+      "fin": 16.4
+    },
+    {
+      "texto": "queda",
+      "inicio": 16.453,
+      "fin": 16.72
+    },
+    {
+      "texto": "como",
+      "inicio": 16.768,
+      "fin": 16.96
+    },
+    {
+      "texto": "texto,",
+      "inicio": 17.053,
+      "fin": 17.68
+    },
+    {
+      "texto": "después",
+      "inicio": 17.76,
+      "fin": 18.32
+    },
+    {
+      "texto": "no",
+      "inicio": 18.427,
+      "fin": 18.64
+    },
+    {
+      "texto": "lo",
+      "inicio": 18.693,
+      "fin": 18.8
+    },
+    {
+      "texto": "vas",
+      "inicio": 18.86,
+      "fin": 19.04
+    },
+    {
+      "texto": "a",
+      "inicio": 19.12,
+      "fin": 19.2
+    },
+    {
+      "texto": "poder",
+      "inicio": 19.227,
+      "fin": 19.36
+    },
+    {
+      "texto": "sumar.",
+      "inicio": 19.42,
+      "fin": 20.0
+    }
+  ]
+}

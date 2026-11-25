@@ -1,0 +1,275 @@
+{
+  "num": "07",
+  "titulo": "Paso 1: instala Claude Code",
+  "texto": "Paso uno: instala Claude Code. En Windows abre PowerShell y pega el comando de instalación oficial que te dejo en la descripción; en Mac o Linux es otro comando, también abajo. No necesitas ser administrador. Cuando termine, escribe claude, guion guion version, y si te responde con un número de versión, quedó listo.",
+  "texto_tts": "Paso uno: instala Claude Code. En Windows abre PowerShell y pega el comando de instalación oficial que te dejo en la descripción; en Mac o Linux es otro comando, también abajo. No necesitas ser administrador. Cuando termine, escribe claude, guion guion version, y si te responde con un número de versión, quedó listo.",
+  "modelo": "eleven_v3",
+  "duracion": 22.16,
+  "palabras": [
+    {
+      "texto": "Paso",
+      "inicio": 0.0,
+      "fin": 0.24
+    },
+    {
+      "texto": "uno:",
+      "inicio": 0.32,
+      "fin": 0.64
+    },
+    {
+      "texto": "instala",
+      "inicio": 0.752,
+      "fin": 1.36
+    },
+    {
+      "texto": "Claude",
+      "inicio": 1.417,
+      "fin": 1.76
+    },
+    {
+      "texto": "Code.",
+      "inicio": 1.824,
+      "fin": 2.24
+    },
+    {
+      "texto": "En",
+      "inicio": 2.427,
+      "fin": 2.8
+    },
+    {
+      "texto": "Windows",
+      "inicio": 2.88,
+      "fin": 3.44
+    },
+    {
+      "texto": "abre",
+      "inicio": 3.488,
+      "fin": 3.68
+    },
+    {
+      "texto": "PowerShell",
+      "inicio": 3.738,
+      "fin": 4.32
+    },
+    {
+      "texto": "y",
+      "inicio": 4.44,
+      "fin": 4.56
+    },
+    {
+      "texto": "pega",
+      "inicio": 4.6,
+      "fin": 4.8
+    },
+    {
+      "texto": "el",
+      "inicio": 4.827,
+      "fin": 4.88
+    },
+    {
+      "texto": "comando",
+      "inicio": 4.93,
+      "fin": 5.28
+    },
+    {
+      "texto": "de",
+      "inicio": 5.307,
+      "fin": 5.36
+    },
+    {
+      "texto": "instalación",
+      "inicio": 5.394,
+      "fin": 5.84
+    },
+    {
+      "texto": "oficial",
+      "inicio": 5.9,
+      "fin": 6.32
+    },
+    {
+      "texto": "que",
+      "inicio": 6.38,
+      "fin": 6.56
+    },
+    {
+      "texto": "te",
+      "inicio": 6.587,
+      "fin": 6.64
+    },
+    {
+      "texto": "dejo",
+      "inicio": 6.693,
+      "fin": 6.88
+    },
+    {
+      "texto": "en",
+      "inicio": 6.907,
+      "fin": 6.96
+    },
+    {
+      "texto": "la",
+      "inicio": 6.987,
+      "fin": 7.04
+    },
+    {
+      "texto": "descripción;",
+      "inicio": 7.086,
+      "fin": 8.4
+    },
+    {
+      "texto": "en",
+      "inicio": 8.427,
+      "fin": 8.48
+    },
+    {
+      "texto": "Mac",
+      "inicio": 8.6,
+      "fin": 8.96
+    },
+    {
+      "texto": "o",
+      "inicio": 9.0,
+      "fin": 9.04
+    },
+    {
+      "texto": "Linux",
+      "inicio": 9.12,
+      "fin": 9.52
+    },
+    {
+      "texto": "es",
+      "inicio": 9.653,
+      "fin": 9.92
+    },
+    {
+      "texto": "otro",
+      "inicio": 9.968,
+      "fin": 10.16
+    },
+    {
+      "texto": "comando,",
+      "inicio": 10.22,
+      "fin": 10.88
+    },
+    {
+      "texto": "también",
+      "inicio": 10.93,
+      "fin": 11.28
+    },
+    {
+      "texto": "abajo.",
+      "inicio": 11.307,
+      "fin": 12.0
+    },
+    {
+      "texto": "No",
+      "inicio": 12.107,
+      "fin": 12.32
+    },
+    {
+      "texto": "necesitas",
+      "inicio": 12.387,
+      "fin": 13.04
+    },
+    {
+      "texto": "ser",
+      "inicio": 13.12,
+      "fin": 13.36
+    },
+    {
+      "texto": "administrador.",
+      "inicio": 13.4,
+      "fin": 14.4
+    },
+    {
+      "texto": "Cuando",
+      "inicio": 14.48,
+      "fin": 14.96
+    },
+    {
+      "texto": "termine,",
+      "inicio": 15.008,
+      "fin": 15.68
+    },
+    {
+      "texto": "escribe",
+      "inicio": 15.76,
+      "fin": 16.24
+    },
+    {
+      "texto": "claude,",
+      "inicio": 16.36,
+      "fin": 16.96
+    },
+    {
+      "texto": "guion",
+      "inicio": 17.067,
+      "fin": 17.44
+    },
+    {
+      "texto": "guion",
+      "inicio": 17.493,
+      "fin": 17.76
+    },
+    {
+      "texto": "version,",
+      "inicio": 17.86,
+      "fin": 18.96
+    },
+    {
+      "texto": "y",
+      "inicio": 19.04,
+      "fin": 19.12
+    },
+    {
+      "texto": "si",
+      "inicio": 19.173,
+      "fin": 19.28
+    },
+    {
+      "texto": "te",
+      "inicio": 19.307,
+      "fin": 19.36
+    },
+    {
+      "texto": "responde",
+      "inicio": 19.42,
+      "fin": 19.92
+    },
+    {
+      "texto": "con",
+      "inicio": 19.96,
+      "fin": 20.08
+    },
+    {
+      "texto": "un",
+      "inicio": 20.107,
+      "fin": 20.16
+    },
+    {
+      "texto": "número",
+      "inicio": 20.217,
+      "fin": 20.56
+    },
+    {
+      "texto": "de",
+      "inicio": 20.587,
+      "fin": 20.64
+    },
+    {
+      "texto": "versión,",
+      "inicio": 20.69,
+      "fin": 21.36
+    },
+    {
+      "texto": "quedó",
+      "inicio": 21.408,
+      "fin": 21.76
+    },
+    {
+      "texto": "listo.",
+      "inicio": 21.792,
+      "fin": 22.16
+    }
+  ]
+}

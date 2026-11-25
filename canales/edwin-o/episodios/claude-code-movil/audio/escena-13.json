@@ -1,0 +1,295 @@
+{
+  "num": "13",
+  "titulo": "Tú decides qué puede hacer",
+  "texto": "Ahora, la parte de control. Desde la app eliges el modo de permisos: manual, donde te pregunta antes de cada acción; aceptar ediciones; modo plan, donde primero te propone qué va a hacer; o automático. Y algo que me gusta: desde el celular no se puede activar el modo que se salta todos los permisos. Bien pensado.",
+  "texto_tts": "Ahora, la parte de control. Desde la app eliges el modo de permisos: manual, donde te pregunta antes de cada acción; aceptar ediciones; modo plan, donde primero te propone qué va a hacer; o automático. Y algo que me gusta: desde el celular no se puede activar el modo que se salta todos los permisos. Bien pensado.",
+  "modelo": "eleven_v3",
+  "duracion": 23.12,
+  "palabras": [
+    {
+      "texto": "Ahora,",
+      "inicio": 0.0,
+      "fin": 0.24
+    },
+    {
+      "texto": "la",
+      "inicio": 0.267,
+      "fin": 0.32
+    },
+    {
+      "texto": "parte",
+      "inicio": 0.36,
+      "fin": 0.56
+    },
+    {
+      "texto": "de",
+      "inicio": 0.587,
+      "fin": 0.64
+    },
+    {
+      "texto": "control.",
+      "inicio": 0.72,
+      "fin": 1.36
+    },
+    {
+      "texto": "Desde",
+      "inicio": 1.547,
+      "fin": 2.48
+    },
+    {
+      "texto": "la",
+      "inicio": 2.533,
+      "fin": 2.64
+    },
+    {
+      "texto": "app",
+      "inicio": 2.7,
+      "fin": 2.88
+    },
+    {
+      "texto": "eliges",
+      "inicio": 2.944,
+      "fin": 3.44
+    },
+    {
+      "texto": "el",
+      "inicio": 3.467,
+      "fin": 3.52
+    },
+    {
+      "texto": "modo",
+      "inicio": 3.584,
+      "fin": 3.84
+    },
+    {
+      "texto": "de",
+      "inicio": 3.867,
+      "fin": 3.92
+    },
+    {
+      "texto": "permisos:",
+      "inicio": 3.984,
+      "fin": 5.2
+    },
+    {
+      "texto": "manual,",
+      "inicio": 5.269,
+      "fin": 5.76
+    },
+    {
+      "texto": "donde",
+      "inicio": 5.813,
+      "fin": 6.08
+    },
+    {
+      "texto": "te",
+      "inicio": 6.133,
+      "fin": 6.24
+    },
+    {
+      "texto": "pregunta",
+      "inicio": 6.284,
+      "fin": 6.64
+    },
+    {
+      "texto": "antes",
+      "inicio": 6.693,
+      "fin": 6.96
+    },
+    {
+      "texto": "de",
+      "inicio": 6.987,
+      "fin": 7.04
+    },
+    {
+      "texto": "cada",
+      "inicio": 7.088,
+      "fin": 7.28
+    },
+    {
+      "texto": "acción;",
+      "inicio": 7.337,
+      "fin": 7.84
+    },
+    {
+      "texto": "aceptar",
+      "inicio": 8.027,
+      "fin": 9.04
+    },
+    {
+      "texto": "ediciones;",
+      "inicio": 9.093,
+      "fin": 9.84
+    },
+    {
+      "texto": "modo",
+      "inicio": 10.064,
+      "fin": 10.96
+    },
+    {
+      "texto": "plan,",
+      "inicio": 11.056,
+      "fin": 11.6
+    },
+    {
+      "texto": "donde",
+      "inicio": 11.68,
+      "fin": 12.08
+    },
+    {
+      "texto": "primero",
+      "inicio": 12.13,
+      "fin": 12.48
+    },
+    {
+      "texto": "te",
+      "inicio": 12.533,
+      "fin": 12.64
+    },
+    {
+      "texto": "propone",
+      "inicio": 12.688,
+      "fin": 13.04
+    },
+    {
+      "texto": "qué",
+      "inicio": 13.08,
+      "fin": 13.2
+    },
+    {
+      "texto": "va",
+      "inicio": 13.227,
+      "fin": 13.28
+    },
+    {
+      "texto": "a",
+      "inicio": 13.36,
+      "fin": 13.44
+    },
+    {
+      "texto": "hacer;",
+      "inicio": 13.48,
+      "fin": 13.84
+    },
+    {
+      "texto": "o",
+      "inicio": 14.24,
+      "fin": 14.64
+    },
+    {
+      "texto": "automático.",
+      "inicio": 14.747,
+      "fin": 15.84
+    },
+    {
+      "texto": "Y",
+      "inicio": 16.28,
+      "fin": 16.72
+    },
+    {
+      "texto": "algo",
+      "inicio": 16.768,
+      "fin": 16.96
+    },
+    {
+      "texto": "que",
+      "inicio": 16.98,
+      "fin": 17.04
+    },
+    {
+      "texto": "me",
+      "inicio": 17.093,
+      "fin": 17.2
+    },
+    {
+      "texto": "gusta:",
+      "inicio": 17.267,
+      "fin": 17.76
+    },
+    {
+      "texto": "desde",
+      "inicio": 17.8,
+      "fin": 18.0
+    },
+    {
+      "texto": "el",
+      "inicio": 18.027,
+      "fin": 18.08
+    },
+    {
+      "texto": "celular",
+      "inicio": 18.14,
+      "fin": 18.56
+    },
+    {
+      "texto": "no",
+      "inicio": 18.64,
+      "fin": 18.8
+    },
+    {
+      "texto": "se",
+      "inicio": 18.88,
+      "fin": 19.04
+    },
+    {
+      "texto": "puede",
+      "inicio": 19.08,
+      "fin": 19.28
+    },
+    {
+      "texto": "activar",
+      "inicio": 19.333,
+      "fin": 19.76
+    },
+    {
+      "texto": "el",
+      "inicio": 19.867,
+      "fin": 20.08
+    },
+    {
+      "texto": "modo",
+      "inicio": 20.144,
+      "fin": 20.4
+    },
+    {
+      "texto": "que",
+      "inicio": 20.44,
+      "fin": 20.56
+    },
+    {
+      "texto": "se",
+      "inicio": 20.613,
+      "fin": 20.72
+    },
+    {
+      "texto": "salta",
+      "inicio": 20.76,
+      "fin": 21.04
+    },
+    {
+      "texto": "todos",
+      "inicio": 21.08,
+      "fin": 21.28
+    },
+    {
+      "texto": "los",
+      "inicio": 21.32,
+      "fin": 21.44
+    },
+    {
+      "texto": "permisos.",
+      "inicio": 21.488,
+      "fin": 22.32
+    },
+    {
+      "texto": "Bien",
+      "inicio": 22.368,
+      "fin": 22.56
+    },
+    {
+      "texto": "pensado.",
+      "inicio": 22.624,
+      "fin": 23.12
+    }
+  ]
+}

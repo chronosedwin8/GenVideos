@@ -1,0 +1,265 @@
+{
+  "num": "06",
+  "titulo": "¿Dónde está?",
+  "texto": "¿Dónde está? En la pestaña Datos, a la izquierda. Ahí ves Obtener datos, con todas las fuentes posibles, y Desde tabla o rango, que es el que más vas a usar, para trabajar con datos que ya están en tu hoja. No necesitas instalar nada: en Excel moderno ya viene incluido.",
+  "texto_tts": "¿Dónde está? En la pestaña Datos, a la izquierda. Ahí ves Obtener datos, con todas las fuentes posibles, y Desde tabla o rango, que es el que más vas a usar, para trabajar con datos que ya están en tu hoja. No necesitas instalar nada: en Excel moderno ya viene incluido.",
+  "modelo": "eleven_v3",
+  "duracion": 17.52,
+  "palabras": [
+    {
+      "texto": "¿Dónde",
+      "inicio": 0.0,
+      "fin": 0.24
+    },
+    {
+      "texto": "está?",
+      "inicio": 0.304,
+      "fin": 0.64
+    },
+    {
+      "texto": "En",
+      "inicio": 0.667,
+      "fin": 0.72
+    },
+    {
+      "texto": "la",
+      "inicio": 0.747,
+      "fin": 0.8
+    },
+    {
+      "texto": "pestaña",
+      "inicio": 0.84,
+      "fin": 1.28
+    },
+    {
+      "texto": "Datos,",
+      "inicio": 1.373,
+      "fin": 2.08
+    },
+    {
+      "texto": "a",
+      "inicio": 2.12,
+      "fin": 2.16
+    },
+    {
+      "texto": "la",
+      "inicio": 2.187,
+      "fin": 2.24
+    },
+    {
+      "texto": "izquierda.",
+      "inicio": 2.293,
+      "fin": 3.04
+    },
+    {
+      "texto": "Ahí",
+      "inicio": 3.227,
+      "fin": 3.68
+    },
+    {
+      "texto": "ves",
+      "inicio": 3.78,
+      "fin": 4.08
+    },
+    {
+      "texto": "Obtener",
+      "inicio": 4.22,
+      "fin": 4.88
+    },
+    {
+      "texto": "datos,",
+      "inicio": 4.96,
+      "fin": 5.84
+    },
+    {
+      "texto": "con",
+      "inicio": 5.88,
+      "fin": 6.0
+    },
+    {
+      "texto": "todas",
+      "inicio": 6.04,
+      "fin": 6.24
+    },
+    {
+      "texto": "las",
+      "inicio": 6.28,
+      "fin": 6.4
+    },
+    {
+      "texto": "fuentes",
+      "inicio": 6.44,
+      "fin": 6.72
+    },
+    {
+      "texto": "posibles,",
+      "inicio": 6.78,
+      "fin": 7.36
+    },
+    {
+      "texto": "y",
+      "inicio": 7.4,
+      "fin": 7.44
+    },
+    {
+      "texto": "Desde",
+      "inicio": 7.493,
+      "fin": 7.76
+    },
+    {
+      "texto": "tabla",
+      "inicio": 7.813,
+      "fin": 8.08
+    },
+    {
+      "texto": "o",
+      "inicio": 8.12,
+      "fin": 8.16
+    },
+    {
+      "texto": "rango,",
+      "inicio": 8.2,
+      "fin": 8.64
+    },
+    {
+      "texto": "que",
+      "inicio": 8.66,
+      "fin": 8.72
+    },
+    {
+      "texto": "es",
+      "inicio": 8.773,
+      "fin": 8.88
+    },
+    {
+      "texto": "el",
+      "inicio": 8.907,
+      "fin": 8.96
+    },
+    {
+      "texto": "que",
+      "inicio": 9.0,
+      "fin": 9.12
+    },
+    {
+      "texto": "más",
+      "inicio": 9.18,
+      "fin": 9.36
+    },
+    {
+      "texto": "vas",
+      "inicio": 9.42,
+      "fin": 9.6
+    },
+    {
+      "texto": "a",
+      "inicio": 9.7,
+      "fin": 9.8
+    },
+    {
+      "texto": "usar,",
+      "inicio": 9.84,
+      "fin": 10.64
+    },
+    {
+      "texto": "para",
+      "inicio": 10.672,
+      "fin": 10.8
+    },
+    {
+      "texto": "trabajar",
+      "inicio": 10.853,
+      "fin": 11.28
+    },
+    {
+      "texto": "con",
+      "inicio": 11.32,
+      "fin": 11.44
+    },
+    {
+      "texto": "datos",
+      "inicio": 11.507,
+      "fin": 11.84
+    },
+    {
+      "texto": "que",
+      "inicio": 11.88,
+      "fin": 12.0
+    },
+    {
+      "texto": "ya",
+      "inicio": 12.053,
+      "fin": 12.16
+    },
+    {
+      "texto": "están",
+      "inicio": 12.213,
+      "fin": 12.48
+    },
+    {
+      "texto": "en",
+      "inicio": 12.507,
+      "fin": 12.56
+    },
+    {
+      "texto": "tu",
+      "inicio": 12.64,
+      "fin": 12.8
+    },
+    {
+      "texto": "hoja.",
+      "inicio": 12.853,
+      "fin": 13.2
+    },
+    {
+      "texto": "No",
+      "inicio": 13.413,
+      "fin": 13.84
+    },
+    {
+      "texto": "necesitas",
+      "inicio": 13.893,
+      "fin": 14.4
+    },
+    {
+      "texto": "instalar",
+      "inicio": 14.448,
+      "fin": 14.88
+    },
+    {
+      "texto": "nada:",
+      "inicio": 14.944,
+      "fin": 15.44
+    },
+    {
+      "texto": "en",
+      "inicio": 15.467,
+      "fin": 15.52
+    },
+    {
+      "texto": "Excel",
+      "inicio": 15.587,
+      "fin": 15.92
+    },
+    {
+      "texto": "moderno",
+      "inicio": 15.977,
+      "fin": 16.4
+    },
+    {
+      "texto": "ya",
+      "inicio": 16.507,
+      "fin": 16.72
+    },
+    {
+      "texto": "viene",
+      "inicio": 16.76,
+      "fin": 16.96
+    },
+    {
+      "texto": "incluido.",
+      "inicio": 17.008,
+      "fin": 17.52
+    }
+  ]
+}

@@ -1,0 +1,375 @@
+{
+  "num": "12",
+  "titulo": "Resolviendo el misterio",
+  "texto": "La pregunta es: si fuera cierto el cinco por ciento, ¿qué probabilidad hay de encontrar cinco o más defectuosas? Calculamos \"como máximo cuatro\" con VERDADERO, y se lo restamos a uno. Resultado: cero coma veintiséis por ciento. Más o menos una vez cada trescientos ochenta y nueve lotes. O sea, tendrías que recibir cientos de lotes para que te pasara una sola vez. No es mala suerte: es casi imposible. Hay que reclamar.",
+  "texto_tts": "La pregunta es: si fuera cierto el cinco por ciento, ¿qué probabilidad hay de encontrar cinco o más defectuosas? Calculamos \"como máximo cuatro\" con VERDADERO, y se lo restamos a uno. Resultado: cero coma veintiséis por ciento. Más o menos una vez cada trescientos ochenta y nueve lotes. O sea, tendrías que recibir cientos de lotes para que te pasara una sola vez. [serious] No es mala suerte: es casi imposible. Hay que reclamar.",
+  "modelo": "eleven_v3",
+  "duracion": 36.0,
+  "palabras": [
+    {
+      "texto": "La",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "pregunta",
+      "inicio": 0.133,
+      "fin": 0.56
+    },
+    {
+      "texto": "es:",
+      "inicio": 0.667,
+      "fin": 0.96
+    },
+    {
+      "texto": "si",
+      "inicio": 1.067,
+      "fin": 1.28
+    },
+    {
+      "texto": "fuera",
+      "inicio": 1.347,
+      "fin": 1.68
+    },
+    {
+      "texto": "cierto",
+      "inicio": 1.733,
+      "fin": 2.16
+    },
+    {
+      "texto": "el",
+      "inicio": 2.187,
+      "fin": 2.24
+    },
+    {
+      "texto": "cinco",
+      "inicio": 2.307,
+      "fin": 2.64
+    },
+    {
+      "texto": "por",
+      "inicio": 2.7,
+      "fin": 2.88
+    },
+    {
+      "texto": "ciento,",
+      "inicio": 2.92,
+      "fin": 3.44
+    },
+    {
+      "texto": "¿qué",
+      "inicio": 3.84,
+      "fin": 4.32
+    },
+    {
+      "texto": "probabilidad",
+      "inicio": 4.384,
+      "fin": 5.12
+    },
+    {
+      "texto": "hay",
+      "inicio": 5.16,
+      "fin": 5.28
+    },
+    {
+      "texto": "de",
+      "inicio": 5.307,
+      "fin": 5.36
+    },
+    {
+      "texto": "encontrar",
+      "inicio": 5.416,
+      "fin": 5.92
+    },
+    {
+      "texto": "cinco",
+      "inicio": 6.0,
+      "fin": 6.4
+    },
+    {
+      "texto": "o",
+      "inicio": 6.44,
+      "fin": 6.48
+    },
+    {
+      "texto": "más",
+      "inicio": 6.54,
+      "fin": 6.72
+    },
+    {
+      "texto": "defectuosas?",
+      "inicio": 6.777,
+      "fin": 7.76
+    },
+    {
+      "texto": "Calculamos",
+      "inicio": 7.943,
+      "fin": 9.36
+    },
+    {
+      "texto": "\"como",
+      "inicio": 9.44,
+      "fin": 9.68
+    },
+    {
+      "texto": "máximo",
+      "inicio": 9.76,
+      "fin": 10.24
+    },
+    {
+      "texto": "cuatro\"",
+      "inicio": 10.32,
+      "fin": 10.92
+    },
+    {
+      "texto": "con",
+      "inicio": 10.95,
+      "fin": 11.04
+    },
+    {
+      "texto": "VERDADERO,",
+      "inicio": 11.08,
+      "fin": 11.68
+    },
+    {
+      "texto": "y",
+      "inicio": 12.0,
+      "fin": 12.32
+    },
+    {
+      "texto": "se",
+      "inicio": 12.373,
+      "fin": 12.48
+    },
+    {
+      "texto": "lo",
+      "inicio": 12.507,
+      "fin": 12.56
+    },
+    {
+      "texto": "restamos",
+      "inicio": 12.624,
+      "fin": 13.12
+    },
+    {
+      "texto": "a",
+      "inicio": 13.16,
+      "fin": 13.2
+    },
+    {
+      "texto": "uno.",
+      "inicio": 13.28,
+      "fin": 13.6
+    },
+    {
+      "texto": "Resultado:",
+      "inicio": 13.749,
+      "fin": 15.12
+    },
+    {
+      "texto": "cero",
+      "inicio": 15.4,
+      "fin": 15.84
+    },
+    {
+      "texto": "coma",
+      "inicio": 15.904,
+      "fin": 16.16
+    },
+    {
+      "texto": "veintiséis",
+      "inicio": 16.213,
+      "fin": 16.8
+    },
+    {
+      "texto": "por",
+      "inicio": 16.88,
+      "fin": 17.12
+    },
+    {
+      "texto": "ciento.",
+      "inicio": 17.2,
+      "fin": 17.76
+    },
+    {
+      "texto": "Más",
+      "inicio": 18.04,
+      "fin": 18.88
+    },
+    {
+      "texto": "o",
+      "inicio": 18.92,
+      "fin": 18.96
+    },
+    {
+      "texto": "menos",
+      "inicio": 19.027,
+      "fin": 19.36
+    },
+    {
+      "texto": "una",
+      "inicio": 19.44,
+      "fin": 19.68
+    },
+    {
+      "texto": "vez",
+      "inicio": 19.76,
+      "fin": 20.0
+    },
+    {
+      "texto": "cada",
+      "inicio": 20.064,
+      "fin": 20.32
+    },
+    {
+      "texto": "trescientos",
+      "inicio": 20.384,
+      "fin": 21.04
+    },
+    {
+      "texto": "ochenta",
+      "inicio": 21.1,
+      "fin": 21.52
+    },
+    {
+      "texto": "y",
+      "inicio": 21.56,
+      "fin": 21.6
+    },
+    {
+      "texto": "nueve",
+      "inicio": 21.64,
+      "fin": 21.84
+    },
+    {
+      "texto": "lotes.",
+      "inicio": 21.92,
+      "fin": 22.48
+    },
+    {
+      "texto": "O",
+      "inicio": 22.84,
+      "fin": 23.2
+    },
+    {
+      "texto": "sea,",
+      "inicio": 23.28,
+      "fin": 23.6
+    },
+    {
+      "texto": "tendrías",
+      "inicio": 23.733,
+      "fin": 24.56
+    },
+    {
+      "texto": "que",
+      "inicio": 24.58,
+      "fin": 24.64
+    },
+    {
+      "texto": "recibir",
+      "inicio": 24.71,
+      "fin": 25.2
+    },
+    {
+      "texto": "cientos",
+      "inicio": 25.4,
+      "fin": 26.16
+    },
+    {
+      "texto": "de",
+      "inicio": 26.187,
+      "fin": 26.24
+    },
+    {
+      "texto": "lotes",
+      "inicio": 26.32,
+      "fin": 26.8
+    },
+    {
+      "texto": "para",
+      "inicio": 26.88,
+      "fin": 27.2
+    },
+    {
+      "texto": "que",
+      "inicio": 27.22,
+      "fin": 27.28
+    },
+    {
+      "texto": "te",
+      "inicio": 27.333,
+      "fin": 27.44
+    },
+    {
+      "texto": "pasara",
+      "inicio": 27.5,
+      "fin": 27.92
+    },
+    {
+      "texto": "una",
+      "inicio": 28.06,
+      "fin": 28.48
+    },
+    {
+      "texto": "sola",
+      "inicio": 28.544,
+      "fin": 28.8
+    },
+    {
+      "texto": "vez.",
+      "inicio": 28.9,
+      "fin": 29.36
+    },
+    {
+      "texto": "No",
+      "inicio": 30.542,
+      "fin": 30.56
+    },
+    {
+      "texto": "es",
+      "inicio": 30.613,
+      "fin": 30.72
+    },
+    {
+      "texto": "mala",
+      "inicio": 30.8,
+      "fin": 31.04
+    },
+    {
+      "texto": "suerte:",
+      "inicio": 31.093,
+      "fin": 32.32
+    },
+    {
+      "texto": "es",
+      "inicio": 32.4,
+      "fin": 32.56
+    },
+    {
+      "texto": "casi",
+      "inicio": 32.656,
+      "fin": 33.04
+    },
+    {
+      "texto": "imposible.",
+      "inicio": 33.227,
+      "fin": 34.32
+    },
+    {
+      "texto": "Hay",
+      "inicio": 34.52,
+      "fin": 35.12
+    },
+    {
+      "texto": "que",
+      "inicio": 35.16,
+      "fin": 35.28
+    },
+    {
+      "texto": "reclamar.",
+      "inicio": 35.344,
+      "fin": 36.0
+    }
+  ]
+}

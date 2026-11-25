@@ -1,0 +1,355 @@
+{
+  "num": "03",
+  "titulo": "El caso",
+  "texto": "¿Por qué hablar de esto ahora? Porque en dos mil veintiséis la inteligencia artificial se metió dentro de Excel. En abril, Copilot con modo agente llegó a todos los usuarios de Microsoft trescientos sesenta y cinco. En mayo, ChatGPT para Excel quedó disponible en todos sus planes. Y Claude tiene su propio complemento para Excel. La pregunta ya no es si usar la IA, sino cómo pedirle las cosas.",
+  "texto_tts": "¿Por qué hablar de esto ahora? Porque en dos mil veintiséis la inteligencia artificial se metió dentro de Excel. En abril, Copilot con modo agente llegó a todos los usuarios de Microsoft trescientos sesenta y cinco. En mayo, ChatGPT para Excel quedó disponible en todos sus planes. Y Claude tiene su propio complemento para Excel. La pregunta ya no es si usar la IA, sino cómo pedirle las cosas.",
+  "modelo": "eleven_v3",
+  "duracion": 28.32,
+  "palabras": [
+    {
+      "texto": "¿Por",
+      "inicio": 0.0,
+      "fin": 0.16
+    },
+    {
+      "texto": "qué",
+      "inicio": 0.18,
+      "fin": 0.24
+    },
+    {
+      "texto": "hablar",
+      "inicio": 0.286,
+      "fin": 0.56
+    },
+    {
+      "texto": "de",
+      "inicio": 0.613,
+      "fin": 0.72
+    },
+    {
+      "texto": "esto",
+      "inicio": 0.768,
+      "fin": 0.96
+    },
+    {
+      "texto": "ahora?",
+      "inicio": 1.027,
+      "fin": 1.44
+    },
+    {
+      "texto": "Porque",
+      "inicio": 1.64,
+      "fin": 2.32
+    },
+    {
+      "texto": "en",
+      "inicio": 2.347,
+      "fin": 2.4
+    },
+    {
+      "texto": "dos",
+      "inicio": 2.44,
+      "fin": 2.56
+    },
+    {
+      "texto": "mil",
+      "inicio": 2.6,
+      "fin": 2.72
+    },
+    {
+      "texto": "veintiséis",
+      "inicio": 2.8,
+      "fin": 3.44
+    },
+    {
+      "texto": "la",
+      "inicio": 3.573,
+      "fin": 3.84
+    },
+    {
+      "texto": "inteligencia",
+      "inicio": 3.89,
+      "fin": 4.4
+    },
+    {
+      "texto": "artificial",
+      "inicio": 4.451,
+      "fin": 4.96
+    },
+    {
+      "texto": "se",
+      "inicio": 5.013,
+      "fin": 5.12
+    },
+    {
+      "texto": "metió",
+      "inicio": 5.18,
+      "fin": 5.52
+    },
+    {
+      "texto": "dentro",
+      "inicio": 5.566,
+      "fin": 5.84
+    },
+    {
+      "texto": "de",
+      "inicio": 5.867,
+      "fin": 5.92
+    },
+    {
+      "texto": "Excel.",
+      "inicio": 6.013,
+      "fin": 6.56
+    },
+    {
+      "texto": "En",
+      "inicio": 6.933,
+      "fin": 7.68
+    },
+    {
+      "texto": "abril,",
+      "inicio": 7.747,
+      "fin": 8.16
+    },
+    {
+      "texto": "Copilot",
+      "inicio": 8.26,
+      "fin": 8.88
+    },
+    {
+      "texto": "con",
+      "inicio": 8.92,
+      "fin": 9.04
+    },
+    {
+      "texto": "modo",
+      "inicio": 9.104,
+      "fin": 9.36
+    },
+    {
+      "texto": "agente",
+      "inicio": 9.413,
+      "fin": 9.92
+    },
+    {
+      "texto": "llegó",
+      "inicio": 10.0,
+      "fin": 10.36
+    },
+    {
+      "texto": "a",
+      "inicio": 10.38,
+      "fin": 10.4
+    },
+    {
+      "texto": "todos",
+      "inicio": 10.453,
+      "fin": 10.72
+    },
+    {
+      "texto": "los",
+      "inicio": 10.76,
+      "fin": 10.88
+    },
+    {
+      "texto": "usuarios",
+      "inicio": 10.924,
+      "fin": 11.28
+    },
+    {
+      "texto": "de",
+      "inicio": 11.307,
+      "fin": 11.36
+    },
+    {
+      "texto": "Microsoft",
+      "inicio": 11.416,
+      "fin": 11.92
+    },
+    {
+      "texto": "trescientos",
+      "inicio": 11.968,
+      "fin": 12.4
+    },
+    {
+      "texto": "sesenta",
+      "inicio": 12.44,
+      "fin": 12.8
+    },
+    {
+      "texto": "y",
+      "inicio": 12.84,
+      "fin": 12.88
+    },
+    {
+      "texto": "cinco.",
+      "inicio": 12.947,
+      "fin": 13.36
+    },
+    {
+      "texto": "En",
+      "inicio": 13.653,
+      "fin": 14.24
+    },
+    {
+      "texto": "mayo,",
+      "inicio": 14.336,
+      "fin": 14.8
+    },
+    {
+      "texto": "ChatGPT",
+      "inicio": 14.912,
+      "fin": 15.76
+    },
+    {
+      "texto": "para",
+      "inicio": 15.792,
+      "fin": 15.92
+    },
+    {
+      "texto": "Excel",
+      "inicio": 16.0,
+      "fin": 16.4
+    },
+    {
+      "texto": "quedó",
+      "inicio": 16.464,
+      "fin": 16.8
+    },
+    {
+      "texto": "disponible",
+      "inicio": 16.858,
+      "fin": 17.44
+    },
+    {
+      "texto": "en",
+      "inicio": 17.52,
+      "fin": 17.68
+    },
+    {
+      "texto": "todos",
+      "inicio": 17.733,
+      "fin": 18.0
+    },
+    {
+      "texto": "sus",
+      "inicio": 18.06,
+      "fin": 18.24
+    },
+    {
+      "texto": "planes.",
+      "inicio": 18.309,
+      "fin": 18.8
+    },
+    {
+      "texto": "Y",
+      "inicio": 19.16,
+      "fin": 19.52
+    },
+    {
+      "texto": "Claude",
+      "inicio": 19.6,
+      "fin": 20.08
+    },
+    {
+      "texto": "tiene",
+      "inicio": 20.173,
+      "fin": 20.64
+    },
+    {
+      "texto": "su",
+      "inicio": 20.693,
+      "fin": 20.8
+    },
+    {
+      "texto": "propio",
+      "inicio": 20.857,
+      "fin": 21.2
+    },
+    {
+      "texto": "complemento",
+      "inicio": 21.244,
+      "fin": 21.8
+    },
+    {
+      "texto": "para",
+      "inicio": 21.824,
+      "fin": 21.92
+    },
+    {
+      "texto": "Excel.",
+      "inicio": 21.987,
+      "fin": 22.4
+    },
+    {
+      "texto": "La",
+      "inicio": 22.693,
+      "fin": 23.28
+    },
+    {
+      "texto": "pregunta",
+      "inicio": 23.333,
+      "fin": 23.76
+    },
+    {
+      "texto": "ya",
+      "inicio": 23.84,
+      "fin": 24.0
+    },
+    {
+      "texto": "no",
+      "inicio": 24.053,
+      "fin": 24.16
+    },
+    {
+      "texto": "es",
+      "inicio": 24.24,
+      "fin": 24.4
+    },
+    {
+      "texto": "si",
+      "inicio": 24.48,
+      "fin": 24.64
+    },
+    {
+      "texto": "usar",
+      "inicio": 24.72,
+      "fin": 25.04
+    },
+    {
+      "texto": "la",
+      "inicio": 25.093,
+      "fin": 25.2
+    },
+    {
+      "texto": "IA,",
+      "inicio": 25.333,
+      "fin": 26.16
+    },
+    {
+      "texto": "sino",
+      "inicio": 26.224,
+      "fin": 26.48
+    },
+    {
+      "texto": "cómo",
+      "inicio": 26.576,
+      "fin": 26.96
+    },
+    {
+      "texto": "pedirle",
+      "inicio": 27.02,
+      "fin": 27.44
+    },
+    {
+      "texto": "las",
+      "inicio": 27.48,
+      "fin": 27.6
+    },
+    {
+      "texto": "cosas.",
+      "inicio": 27.707,
+      "fin": 28.32
+    }
+  ]
+}

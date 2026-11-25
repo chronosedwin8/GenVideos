@@ -1,0 +1,285 @@
+{
+  "num": "04",
+  "titulo": "El aporte de Edwin",
+  "texto": "Como Microsoft Innovative Educator Expert, trabajo con muchos docentes y oficinistas, y la pregunta que más me hacen sobre la inteligencia artificial dentro de Excel no es cómo usarla. Es: ¿es seguro con mis datos? Así que en este video vamos a responder las dos cosas: cómo se usa, y qué pasa con tu información.",
+  "texto_tts": "Como Microsoft Innovative Educator Expert, trabajo con muchos docentes y oficinistas, y la pregunta que más me hacen sobre la inteligencia artificial dentro de Excel no es cómo usarla. Es: ¿es seguro con mis datos? Así que en este video vamos a responder las dos cosas: cómo se usa, y qué pasa con tu información.",
+  "modelo": "eleven_v3",
+  "duracion": 22.96,
+  "palabras": [
+    {
+      "texto": "Como",
+      "inicio": 0.0,
+      "fin": 0.16
+    },
+    {
+      "texto": "Microsoft",
+      "inicio": 0.24,
+      "fin": 0.96
+    },
+    {
+      "texto": "Innovative",
+      "inicio": 1.025,
+      "fin": 1.68
+    },
+    {
+      "texto": "Educator",
+      "inicio": 1.76,
+      "fin": 2.4
+    },
+    {
+      "texto": "Expert,",
+      "inicio": 2.491,
+      "fin": 3.12
+    },
+    {
+      "texto": "trabajo",
+      "inicio": 3.25,
+      "fin": 4.16
+    },
+    {
+      "texto": "con",
+      "inicio": 4.2,
+      "fin": 4.32
+    },
+    {
+      "texto": "muchos",
+      "inicio": 4.377,
+      "fin": 4.72
+    },
+    {
+      "texto": "docentes",
+      "inicio": 4.78,
+      "fin": 5.28
+    },
+    {
+      "texto": "y",
+      "inicio": 5.32,
+      "fin": 5.36
+    },
+    {
+      "texto": "oficinistas,",
+      "inicio": 5.413,
+      "fin": 7.04
+    },
+    {
+      "texto": "y",
+      "inicio": 7.08,
+      "fin": 7.12
+    },
+    {
+      "texto": "la",
+      "inicio": 7.147,
+      "fin": 7.2
+    },
+    {
+      "texto": "pregunta",
+      "inicio": 7.253,
+      "fin": 7.68
+    },
+    {
+      "texto": "que",
+      "inicio": 7.72,
+      "fin": 7.84
+    },
+    {
+      "texto": "más",
+      "inicio": 7.9,
+      "fin": 8.08
+    },
+    {
+      "texto": "me",
+      "inicio": 8.133,
+      "fin": 8.24
+    },
+    {
+      "texto": "hacen",
+      "inicio": 8.307,
+      "fin": 8.64
+    },
+    {
+      "texto": "sobre",
+      "inicio": 8.68,
+      "fin": 8.88
+    },
+    {
+      "texto": "la",
+      "inicio": 8.907,
+      "fin": 8.96
+    },
+    {
+      "texto": "inteligencia",
+      "inicio": 9.01,
+      "fin": 9.6
+    },
+    {
+      "texto": "artificial",
+      "inicio": 9.665,
+      "fin": 10.32
+    },
+    {
+      "texto": "dentro",
+      "inicio": 10.389,
+      "fin": 10.8
+    },
+    {
+      "texto": "de",
+      "inicio": 10.827,
+      "fin": 10.88
+    },
+    {
+      "texto": "Excel",
+      "inicio": 10.987,
+      "fin": 11.52
+    },
+    {
+      "texto": "no",
+      "inicio": 11.68,
+      "fin": 12.0
+    },
+    {
+      "texto": "es",
+      "inicio": 12.053,
+      "fin": 12.16
+    },
+    {
+      "texto": "cómo",
+      "inicio": 12.224,
+      "fin": 12.48
+    },
+    {
+      "texto": "usarla.",
+      "inicio": 12.544,
+      "fin": 13.12
+    },
+    {
+      "texto": "Es:",
+      "inicio": 13.36,
+      "fin": 13.92
+    },
+    {
+      "texto": "¿es",
+      "inicio": 14.16,
+      "fin": 14.48
+    },
+    {
+      "texto": "seguro",
+      "inicio": 14.537,
+      "fin": 14.88
+    },
+    {
+      "texto": "con",
+      "inicio": 14.92,
+      "fin": 15.04
+    },
+    {
+      "texto": "mis",
+      "inicio": 15.1,
+      "fin": 15.28
+    },
+    {
+      "texto": "datos?",
+      "inicio": 15.36,
+      "fin": 15.84
+    },
+    {
+      "texto": "Así",
+      "inicio": 16.16,
+      "fin": 16.88
+    },
+    {
+      "texto": "que",
+      "inicio": 16.9,
+      "fin": 16.96
+    },
+    {
+      "texto": "en",
+      "inicio": 16.987,
+      "fin": 17.04
+    },
+    {
+      "texto": "este",
+      "inicio": 17.088,
+      "fin": 17.28
+    },
+    {
+      "texto": "video",
+      "inicio": 17.347,
+      "fin": 17.68
+    },
+    {
+      "texto": "vamos",
+      "inicio": 17.747,
+      "fin": 18.08
+    },
+    {
+      "texto": "a",
+      "inicio": 18.12,
+      "fin": 18.16
+    },
+    {
+      "texto": "responder",
+      "inicio": 18.216,
+      "fin": 18.72
+    },
+    {
+      "texto": "las",
+      "inicio": 18.78,
+      "fin": 18.96
+    },
+    {
+      "texto": "dos",
+      "inicio": 19.02,
+      "fin": 19.2
+    },
+    {
+      "texto": "cosas:",
+      "inicio": 19.267,
+      "fin": 19.76
+    },
+    {
+      "texto": "cómo",
+      "inicio": 19.888,
+      "fin": 20.4
+    },
+    {
+      "texto": "se",
+      "inicio": 20.453,
+      "fin": 20.56
+    },
+    {
+      "texto": "usa,",
+      "inicio": 20.66,
+      "fin": 21.04
+    },
+    {
+      "texto": "y",
+      "inicio": 21.24,
+      "fin": 21.44
+    },
+    {
+      "texto": "qué",
+      "inicio": 21.48,
+      "fin": 21.6
+    },
+    {
+      "texto": "pasa",
+      "inicio": 21.664,
+      "fin": 21.92
+    },
+    {
+      "texto": "con",
+      "inicio": 21.96,
+      "fin": 22.08
+    },
+    {
+      "texto": "tu",
+      "inicio": 22.133,
+      "fin": 22.24
+    },
+    {
+      "texto": "información.",
+      "inicio": 22.3,
+      "fin": 22.96
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "titulo": "Cómo usar Claude Code desde tu celular (Remote Control paso a paso)",
+  "descripcion": "Con Remote Control manejas desde tu celular una sesión de Claude Code que corre en tu computador: tus archivos y tus programas nunca salen de tu máquina. Te enseño a instalarlo, conectarlo con la app de Claude y mandarle tareas reales.\n\nEn este video aprenderás:\n✅ Qué es Remote Control (y en qué se diferencia de la nube)\n✅ Instalar Claude Code en Windows o Mac\n✅ Activarlo con /remote-control o /rc\n✅ Conectarte desde la app de Claude (Code) o con el QR\n✅ Modos de permisos y notificaciones\n✅ Seguridad y límites\n\nComandos del video:\nWindows (PowerShell): irm https://claude.ai/install.ps1 | iex\nmacOS / Linux: curl -fsSL https://claude.ai/install.sh | bash\nclaude --version\nclaude   (y /login)\n/remote-control   o   /rc\nclaude remote-control   (modo servidor; barra espaciadora = QR)\n/config → Enable Remote Control for all sessions\nRequiere plan Pro, Max, Ultra, Team o Enterprise (no funciona con clave de API).\n\nCapítulos\n0:00 Tu PC trabaja mientras estás fuera\n0:38 Remote Control: qué es nuevo\n1:35 Qué es y qué no es\n1:59 Lo que necesitas\n2:25 Paso 1: instala Claude Code\n2:48 Paso 2: abre tu carpeta\n3:10 Paso 3: /remote-control\n3:36 Paso 4: conéctate desde el celular\n4:02 Paso 5: mándale una tarea\n4:22 El resultado: 12 reportes\n4:42 Modos de permisos\n5:06 Notificaciones\n5:25 Actívalo para siempre\n5:47 Desde el navegador\n6:13 ¿Es seguro?\n6:39 Si no te funcionó\n7:00 Ideas para tu oficina\n\n📊 Guías de Excel en el blog: https://www.edwinortiz.net/excel/\n🌐 Plantillas y cursos: https://www.edwinortiz.net\n\nFuentes\nClaude Code Docs, Remote Control: https://code.claude.com/docs/en/remote-control\nClaude Code Docs, móvil: https://code.claude.com/docs/en/mobile\nClaude Code Docs, instalación: https://code.claude.com/docs/en/setup\nHelp Net Security, 25 feb 2026: https://www.helpnetsecurity.com/2026/02/25/anthropic-remote-control-claude-code-feature/\n\nLa voz de este video es la voz de Edwin, clonada con inteligencia artificial (ElevenLabs).\n\nVamos en busca del poder tecnológico. 🚀\n#ClaudeCode #InteligenciaArtificial #Productividad\n\n🛒 Tienda de plantillas y recursos: https://www.edwinortiz.net/tienda/\n\nPuedes encontrar mucha más información en mi página web https://www.edwinortiz.net/ ademas también podrás ingresar a mi plataforma online de aprendizaje donde podrás realizar cursos acordes a tus necesidades en  https://www.miaulaweb.com/\n\nTe invito a que me sigas en twitter en @chronosedwin8  y en Instagram https://www.instagram.com/edwinortizherazo/\n\n\n►MI BLOG: https://www.edwinortiz.net/\n►AULA EN LINEA: https://aula.miaulaweb.com/\n►2do CANAL: https://www.youtube.com/user/chronosedwin8\n►FANPAGE: https://www.facebook.com/EdwinOrtizHerazo\n►TWITTER:https://twitter.com/chronosedwin8\n►MI EMPRESA: https://www.miaulaweb.com/\n►¿QUIÉN SOY?: https://www.linkedin.com/in/edwin-ortiz-herazo-a3714a47?trk=nav_responsive_tab_profile",
+  "tags": [
+    "claude code",
+    "claude code celular",
+    "claude code movil",
+    "remote control claude code",
+    "claude code android",
+    "claude code iphone",
+    "claude ai",
+    "anthropic",
+    "inteligencia artificial productividad",
+    "automatizar con ia",
+    "agente de ia",
+    "edwin o"
+  ],
+  "categoria": 27,
+  "idioma": "es",
+  "creado_para_ninos": false,
+  "contenido_sintetico": true,
+  "privacidad": "public",
+  "programar": "2026-12-29 07:00",
+  "playlist": "IA para tu productividad",
+  "archivo": "render/claude-code-movil.mp4",
+  "miniatura": "miniatura.png",
+  "subtitulos": "audio/subtitulos.srt",
+  "shorts": [
+    {
+      "id": "short-1",
+      "titulo": "Controla tu PC DESDE EL CELULAR (Claude Code) #shorts",
+      "descripcion": "Remote Control: escaneas el QR o entras a Code en la app de Claude. Video completo en el canal.",
+      "tags": [
+        "claude code",
+        "shorts"
+      ],
+      "programar": "2026-12-30 12:00",
+      "archivo": "render/short-1.mp4"
+    },
+    {
+      "id": "short-2",
+      "titulo": "¿Claude Code en el celular es seguro? #shorts",
+      "descripcion": "Solo conexiones de salida HTTPS y tus archivos se quedan en tu PC. Video completo en el canal.",
+      "tags": [
+        "claude code seguridad",
+        "shorts"
+      ],
+      "programar": "2027-01-02 12:00",
+      "archivo": "render/short-2.mp4"
+    }
+  ]
+}

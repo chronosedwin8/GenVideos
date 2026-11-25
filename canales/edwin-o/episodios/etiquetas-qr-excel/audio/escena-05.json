@@ -1,0 +1,315 @@
+{
+  "num": "05",
+  "titulo": "Lo que necesitas",
+  "texto": "Lo que necesitas: Excel para Microsoft trescientos sesenta y cinco o Excel dos mil veinticuatro, porque vamos a usar la función IMAGEN, y conexión a internet. Excel no tiene una función de QR propia: lo que hacemos es pedirle la imagen a un servicio gratuito. Si tienes Excel dos mil veintiuno o anterior, quédate, porque al final te doy otra forma.",
+  "texto_tts": "Lo que necesitas: Excel para Microsoft trescientos sesenta y cinco o Excel dos mil veinticuatro, porque vamos a usar la función IMAGEN, y conexión a internet. Excel no tiene una función de QR propia: lo que hacemos es pedirle la imagen a un servicio gratuito. Si tienes Excel dos mil veintiuno o anterior, quédate, porque al final te doy otra forma.",
+  "modelo": "eleven_v3",
+  "duracion": 25.52,
+  "palabras": [
+    {
+      "texto": "Lo",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "que",
+      "inicio": 0.12,
+      "fin": 0.24
+    },
+    {
+      "texto": "necesitas:",
+      "inicio": 0.293,
+      "fin": 1.12
+    },
+    {
+      "texto": "Excel",
+      "inicio": 1.227,
+      "fin": 1.76
+    },
+    {
+      "texto": "para",
+      "inicio": 1.92,
+      "fin": 2.56
+    },
+    {
+      "texto": "Microsoft",
+      "inicio": 2.616,
+      "fin": 3.12
+    },
+    {
+      "texto": "trescientos",
+      "inicio": 3.168,
+      "fin": 3.68
+    },
+    {
+      "texto": "sesenta",
+      "inicio": 3.72,
+      "fin": 4.08
+    },
+    {
+      "texto": "y",
+      "inicio": 4.12,
+      "fin": 4.16
+    },
+    {
+      "texto": "cinco",
+      "inicio": 4.227,
+      "fin": 4.56
+    },
+    {
+      "texto": "o",
+      "inicio": 4.72,
+      "fin": 4.88
+    },
+    {
+      "texto": "Excel",
+      "inicio": 4.947,
+      "fin": 5.28
+    },
+    {
+      "texto": "dos",
+      "inicio": 5.3,
+      "fin": 5.36
+    },
+    {
+      "texto": "mil",
+      "inicio": 5.4,
+      "fin": 5.52
+    },
+    {
+      "texto": "veinticuatro,",
+      "inicio": 5.573,
+      "fin": 6.8
+    },
+    {
+      "texto": "porque",
+      "inicio": 6.834,
+      "fin": 7.04
+    },
+    {
+      "texto": "vamos",
+      "inicio": 7.08,
+      "fin": 7.28
+    },
+    {
+      "texto": "a",
+      "inicio": 7.36,
+      "fin": 7.44
+    },
+    {
+      "texto": "usar",
+      "inicio": 7.472,
+      "fin": 7.6
+    },
+    {
+      "texto": "la",
+      "inicio": 7.627,
+      "fin": 7.68
+    },
+    {
+      "texto": "función",
+      "inicio": 7.75,
+      "fin": 8.24
+    },
+    {
+      "texto": "IMAGEN,",
+      "inicio": 8.373,
+      "fin": 9.84
+    },
+    {
+      "texto": "y",
+      "inicio": 10.08,
+      "fin": 10.32
+    },
+    {
+      "texto": "conexión",
+      "inicio": 10.391,
+      "fin": 10.96
+    },
+    {
+      "texto": "a",
+      "inicio": 11.12,
+      "fin": 11.28
+    },
+    {
+      "texto": "internet.",
+      "inicio": 11.316,
+      "fin": 11.76
+    },
+    {
+      "texto": "Excel",
+      "inicio": 11.96,
+      "fin": 12.96
+    },
+    {
+      "texto": "no",
+      "inicio": 13.013,
+      "fin": 13.12
+    },
+    {
+      "texto": "tiene",
+      "inicio": 13.173,
+      "fin": 13.44
+    },
+    {
+      "texto": "una",
+      "inicio": 13.48,
+      "fin": 13.6
+    },
+    {
+      "texto": "función",
+      "inicio": 13.65,
+      "fin": 14.0
+    },
+    {
+      "texto": "de",
+      "inicio": 14.053,
+      "fin": 14.16
+    },
+    {
+      "texto": "QR",
+      "inicio": 14.293,
+      "fin": 14.56
+    },
+    {
+      "texto": "propia:",
+      "inicio": 14.64,
+      "fin": 15.68
+    },
+    {
+      "texto": "lo",
+      "inicio": 15.707,
+      "fin": 15.76
+    },
+    {
+      "texto": "que",
+      "inicio": 15.8,
+      "fin": 15.92
+    },
+    {
+      "texto": "hacemos",
+      "inicio": 15.96,
+      "fin": 16.32
+    },
+    {
+      "texto": "es",
+      "inicio": 16.4,
+      "fin": 16.56
+    },
+    {
+      "texto": "pedirle",
+      "inicio": 16.62,
+      "fin": 17.04
+    },
+    {
+      "texto": "la",
+      "inicio": 17.093,
+      "fin": 17.2
+    },
+    {
+      "texto": "imagen",
+      "inicio": 17.269,
+      "fin": 17.68
+    },
+    {
+      "texto": "a",
+      "inicio": 17.76,
+      "fin": 17.84
+    },
+    {
+      "texto": "un",
+      "inicio": 17.893,
+      "fin": 18.0
+    },
+    {
+      "texto": "servicio",
+      "inicio": 18.053,
+      "fin": 18.48
+    },
+    {
+      "texto": "gratuito.",
+      "inicio": 18.551,
+      "fin": 19.64
+    },
+    {
+      "texto": "Si",
+      "inicio": 19.813,
+      "fin": 20.16
+    },
+    {
+      "texto": "tienes",
+      "inicio": 20.206,
+      "fin": 20.48
+    },
+    {
+      "texto": "Excel",
+      "inicio": 20.547,
+      "fin": 20.88
+    },
+    {
+      "texto": "dos",
+      "inicio": 20.92,
+      "fin": 21.04
+    },
+    {
+      "texto": "mil",
+      "inicio": 21.08,
+      "fin": 21.2
+    },
+    {
+      "texto": "veintiuno",
+      "inicio": 21.253,
+      "fin": 21.68
+    },
+    {
+      "texto": "o",
+      "inicio": 21.72,
+      "fin": 21.76
+    },
+    {
+      "texto": "anterior,",
+      "inicio": 21.822,
+      "fin": 22.64
+    },
+    {
+      "texto": "quédate,",
+      "inicio": 22.68,
+      "fin": 23.52
+    },
+    {
+      "texto": "porque",
+      "inicio": 23.554,
+      "fin": 23.76
+    },
+    {
+      "texto": "al",
+      "inicio": 23.813,
+      "fin": 23.92
+    },
+    {
+      "texto": "final",
+      "inicio": 23.96,
+      "fin": 24.16
+    },
+    {
+      "texto": "te",
+      "inicio": 24.213,
+      "fin": 24.32
+    },
+    {
+      "texto": "doy",
+      "inicio": 24.373,
+      "fin": 24.56
+    },
+    {
+      "texto": "otra",
+      "inicio": 24.656,
+      "fin": 25.04
+    },
+    {
+      "texto": "forma.",
+      "inicio": 25.12,
+      "fin": 25.52
+    }
+  ]
+}

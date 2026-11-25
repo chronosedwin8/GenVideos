@@ -1,0 +1,255 @@
+{
+  "num": "12",
+  "titulo": "Así se ve tu inventario",
+  "texto": "Y así queda tu inventario: cada activo con su código QR y su código de barras, generados con dos fórmulas. Si mañana agregas un producto nuevo, copias la fórmula en la fila de abajo y listo. Y si cambias el nombre o la ubicación, el QR se actualiza solo.",
+  "texto_tts": "[excited] Y así queda tu inventario: cada activo con su código QR y su código de barras, generados con dos fórmulas. Si mañana agregas un producto nuevo, copias la fórmula en la fila de abajo y listo. Y si cambias el nombre o la ubicación, el QR se actualiza solo.",
+  "modelo": "eleven_v3",
+  "duracion": 18.88,
+  "palabras": [
+    {
+      "texto": "Y",
+      "inicio": 0.18,
+      "fin": 0.2
+    },
+    {
+      "texto": "así",
+      "inicio": 0.21,
+      "fin": 0.24
+    },
+    {
+      "texto": "queda",
+      "inicio": 0.28,
+      "fin": 0.48
+    },
+    {
+      "texto": "tu",
+      "inicio": 0.533,
+      "fin": 0.64
+    },
+    {
+      "texto": "inventario:",
+      "inicio": 0.686,
+      "fin": 1.28
+    },
+    {
+      "texto": "cada",
+      "inicio": 1.424,
+      "fin": 2.0
+    },
+    {
+      "texto": "activo",
+      "inicio": 2.067,
+      "fin": 2.48
+    },
+    {
+      "texto": "con",
+      "inicio": 2.54,
+      "fin": 2.72
+    },
+    {
+      "texto": "su",
+      "inicio": 2.773,
+      "fin": 2.88
+    },
+    {
+      "texto": "código",
+      "inicio": 2.949,
+      "fin": 3.36
+    },
+    {
+      "texto": "QR",
+      "inicio": 3.547,
+      "fin": 3.92
+    },
+    {
+      "texto": "y",
+      "inicio": 4.04,
+      "fin": 4.16
+    },
+    {
+      "texto": "su",
+      "inicio": 4.213,
+      "fin": 4.32
+    },
+    {
+      "texto": "código",
+      "inicio": 4.389,
+      "fin": 4.8
+    },
+    {
+      "texto": "de",
+      "inicio": 4.827,
+      "fin": 4.88
+    },
+    {
+      "texto": "barras,",
+      "inicio": 4.944,
+      "fin": 5.44
+    },
+    {
+      "texto": "generados",
+      "inicio": 5.547,
+      "fin": 6.48
+    },
+    {
+      "texto": "con",
+      "inicio": 6.54,
+      "fin": 6.72
+    },
+    {
+      "texto": "dos",
+      "inicio": 6.82,
+      "fin": 7.12
+    },
+    {
+      "texto": "fórmulas.",
+      "inicio": 7.28,
+      "fin": 8.16
+    },
+    {
+      "texto": "Si",
+      "inicio": 8.373,
+      "fin": 8.8
+    },
+    {
+      "texto": "mañana",
+      "inicio": 8.857,
+      "fin": 9.2
+    },
+    {
+      "texto": "agregas",
+      "inicio": 9.253,
+      "fin": 9.68
+    },
+    {
+      "texto": "un",
+      "inicio": 9.707,
+      "fin": 9.76
+    },
+    {
+      "texto": "producto",
+      "inicio": 9.813,
+      "fin": 10.24
+    },
+    {
+      "texto": "nuevo,",
+      "inicio": 10.307,
+      "fin": 11.2
+    },
+    {
+      "texto": "copias",
+      "inicio": 11.24,
+      "fin": 11.52
+    },
+    {
+      "texto": "la",
+      "inicio": 11.573,
+      "fin": 11.68
+    },
+    {
+      "texto": "fórmula",
+      "inicio": 11.72,
+      "fin": 12.08
+    },
+    {
+      "texto": "en",
+      "inicio": 12.107,
+      "fin": 12.16
+    },
+    {
+      "texto": "la",
+      "inicio": 12.187,
+      "fin": 12.24
+    },
+    {
+      "texto": "fila",
+      "inicio": 12.304,
+      "fin": 12.56
+    },
+    {
+      "texto": "de",
+      "inicio": 12.587,
+      "fin": 12.64
+    },
+    {
+      "texto": "abajo",
+      "inicio": 12.693,
+      "fin": 13.04
+    },
+    {
+      "texto": "y",
+      "inicio": 13.2,
+      "fin": 13.36
+    },
+    {
+      "texto": "listo.",
+      "inicio": 13.424,
+      "fin": 13.92
+    },
+    {
+      "texto": "Y",
+      "inicio": 14.2,
+      "fin": 14.48
+    },
+    {
+      "texto": "si",
+      "inicio": 14.533,
+      "fin": 14.64
+    },
+    {
+      "texto": "cambias",
+      "inicio": 14.688,
+      "fin": 15.04
+    },
+    {
+      "texto": "el",
+      "inicio": 15.093,
+      "fin": 15.2
+    },
+    {
+      "texto": "nombre",
+      "inicio": 15.246,
+      "fin": 15.52
+    },
+    {
+      "texto": "o",
+      "inicio": 15.56,
+      "fin": 15.6
+    },
+    {
+      "texto": "la",
+      "inicio": 15.627,
+      "fin": 15.68
+    },
+    {
+      "texto": "ubicación,",
+      "inicio": 15.728,
+      "fin": 16.72
+    },
+    {
+      "texto": "el",
+      "inicio": 16.773,
+      "fin": 16.88
+    },
+    {
+      "texto": "QR",
+      "inicio": 17.04,
+      "fin": 17.36
+    },
+    {
+      "texto": "se",
+      "inicio": 17.387,
+      "fin": 17.44
+    },
+    {
+      "texto": "actualiza",
+      "inicio": 17.497,
+      "fin": 18.16
+    },
+    {
+      "texto": "solo.",
+      "inicio": 18.288,
+      "fin": 18.88
+    }
+  ]
+}

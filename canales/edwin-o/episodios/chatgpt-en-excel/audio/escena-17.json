@@ -1,0 +1,280 @@
+{
+  "num": "17",
+  "titulo": "Mi forma de usarlo",
+  "texto": "Mi forma de usarlo, en cuatro hábitos. Uno: le pido que primero me diga su plan. Dos: una tarea por mensaje, no diez juntas. Tres: le pido fórmulas, no números pegados, para que la hoja siga viva. Y cuatro: compruebo al menos un total a mano. Con eso, el riesgo de error baja muchísimo.",
+  "texto_tts": "Mi forma de usarlo, en cuatro hábitos. Uno: le pido que primero me diga su plan. Dos: una tarea por mensaje, no diez juntas. Tres: le pido fórmulas, no números pegados, para que la hoja siga viva. Y cuatro: compruebo al menos un total a mano. Con eso, el riesgo de error baja muchísimo.",
+  "modelo": "eleven_v3",
+  "duracion": 28.72,
+  "palabras": [
+    {
+      "texto": "Mi",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "forma",
+      "inicio": 0.133,
+      "fin": 0.4
+    },
+    {
+      "texto": "de",
+      "inicio": 0.427,
+      "fin": 0.48
+    },
+    {
+      "texto": "usarlo,",
+      "inicio": 0.56,
+      "fin": 1.12
+    },
+    {
+      "texto": "en",
+      "inicio": 1.227,
+      "fin": 1.44
+    },
+    {
+      "texto": "cuatro",
+      "inicio": 1.497,
+      "fin": 1.84
+    },
+    {
+      "texto": "hábitos.",
+      "inicio": 1.92,
+      "fin": 2.64
+    },
+    {
+      "texto": "Uno:",
+      "inicio": 2.8,
+      "fin": 3.44
+    },
+    {
+      "texto": "le",
+      "inicio": 3.707,
+      "fin": 4.24
+    },
+    {
+      "texto": "pido",
+      "inicio": 4.32,
+      "fin": 4.56
+    },
+    {
+      "texto": "que",
+      "inicio": 4.62,
+      "fin": 4.8
+    },
+    {
+      "texto": "primero",
+      "inicio": 4.86,
+      "fin": 5.28
+    },
+    {
+      "texto": "me",
+      "inicio": 5.387,
+      "fin": 5.6
+    },
+    {
+      "texto": "diga",
+      "inicio": 5.64,
+      "fin": 5.84
+    },
+    {
+      "texto": "su",
+      "inicio": 5.893,
+      "fin": 6.0
+    },
+    {
+      "texto": "plan.",
+      "inicio": 6.08,
+      "fin": 6.48
+    },
+    {
+      "texto": "Dos:",
+      "inicio": 6.96,
+      "fin": 8.48
+    },
+    {
+      "texto": "una",
+      "inicio": 8.74,
+      "fin": 9.52
+    },
+    {
+      "texto": "tarea",
+      "inicio": 9.587,
+      "fin": 9.92
+    },
+    {
+      "texto": "por",
+      "inicio": 9.96,
+      "fin": 10.08
+    },
+    {
+      "texto": "mensaje,",
+      "inicio": 10.16,
+      "fin": 11.04
+    },
+    {
+      "texto": "no",
+      "inicio": 11.093,
+      "fin": 11.2
+    },
+    {
+      "texto": "diez",
+      "inicio": 11.26,
+      "fin": 11.52
+    },
+    {
+      "texto": "juntas.",
+      "inicio": 11.6,
+      "fin": 12.32
+    },
+    {
+      "texto": "Tres:",
+      "inicio": 12.92,
+      "fin": 14.0
+    },
+    {
+      "texto": "le",
+      "inicio": 14.24,
+      "fin": 14.72
+    },
+    {
+      "texto": "pido",
+      "inicio": 14.8,
+      "fin": 15.04
+    },
+    {
+      "texto": "fórmulas,",
+      "inicio": 15.16,
+      "fin": 16.0
+    },
+    {
+      "texto": "no",
+      "inicio": 16.187,
+      "fin": 16.56
+    },
+    {
+      "texto": "números",
+      "inicio": 16.62,
+      "fin": 17.04
+    },
+    {
+      "texto": "pegados,",
+      "inicio": 17.12,
+      "fin": 17.84
+    },
+    {
+      "texto": "para",
+      "inicio": 17.904,
+      "fin": 18.16
+    },
+    {
+      "texto": "que",
+      "inicio": 18.2,
+      "fin": 18.32
+    },
+    {
+      "texto": "la",
+      "inicio": 18.373,
+      "fin": 18.48
+    },
+    {
+      "texto": "hoja",
+      "inicio": 18.533,
+      "fin": 18.72
+    },
+    {
+      "texto": "siga",
+      "inicio": 18.78,
+      "fin": 19.04
+    },
+    {
+      "texto": "viva.",
+      "inicio": 19.12,
+      "fin": 19.6
+    },
+    {
+      "texto": "Y",
+      "inicio": 20.12,
+      "fin": 20.64
+    },
+    {
+      "texto": "cuatro:",
+      "inicio": 20.709,
+      "fin": 21.2
+    },
+    {
+      "texto": "compruebo",
+      "inicio": 21.36,
+      "fin": 22.4
+    },
+    {
+      "texto": "al",
+      "inicio": 22.507,
+      "fin": 22.72
+    },
+    {
+      "texto": "menos",
+      "inicio": 22.787,
+      "fin": 23.12
+    },
+    {
+      "texto": "un",
+      "inicio": 23.227,
+      "fin": 23.44
+    },
+    {
+      "texto": "total",
+      "inicio": 23.52,
+      "fin": 23.92
+    },
+    {
+      "texto": "a",
+      "inicio": 24.04,
+      "fin": 24.16
+    },
+    {
+      "texto": "mano.",
+      "inicio": 24.24,
+      "fin": 24.64
+    },
+    {
+      "texto": "Con",
+      "inicio": 24.92,
+      "fin": 25.76
+    },
+    {
+      "texto": "eso,",
+      "inicio": 25.86,
+      "fin": 26.24
+    },
+    {
+      "texto": "el",
+      "inicio": 26.347,
+      "fin": 26.56
+    },
+    {
+      "texto": "riesgo",
+      "inicio": 26.624,
+      "fin": 26.96
+    },
+    {
+      "texto": "de",
+      "inicio": 26.987,
+      "fin": 27.04
+    },
+    {
+      "texto": "error",
+      "inicio": 27.107,
+      "fin": 27.44
+    },
+    {
+      "texto": "baja",
+      "inicio": 27.552,
+      "fin": 28.0
+    },
+    {
+      "texto": "muchísimo.",
+      "inicio": 28.08,
+      "fin": 28.72
+    }
+  ]
+}

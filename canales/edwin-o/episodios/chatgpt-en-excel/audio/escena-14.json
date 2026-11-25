@@ -1,0 +1,275 @@
+{
+  "num": "14",
+  "titulo": "¿Y mis datos?",
+  "texto": "¿Y tus datos? Para responder, ChatGPT procesa tu mensaje y la parte relevante de tu hoja. Los chats del complemento van separados de tu historial normal y no usan tu memoria. Mi recomendación: si es información confidencial de tu empresa, pregunta primero si está permitido. Muchas empresas usan planes empresariales justamente por esto.",
+  "texto_tts": "¿Y tus datos? Para responder, ChatGPT procesa tu mensaje y la parte relevante de tu hoja. Los chats del complemento van separados de tu historial normal y no usan tu memoria. Mi recomendación: si es información confidencial de tu empresa, pregunta primero si está permitido. Muchas empresas usan planes empresariales justamente por esto.",
+  "modelo": "eleven_v3",
+  "duracion": 26.32,
+  "palabras": [
+    {
+      "texto": "¿Y",
+      "inicio": 0.0,
+      "fin": 0.16
+    },
+    {
+      "texto": "tus",
+      "inicio": 0.22,
+      "fin": 0.4
+    },
+    {
+      "texto": "datos?",
+      "inicio": 0.507,
+      "fin": 1.12
+    },
+    {
+      "texto": "Para",
+      "inicio": 1.328,
+      "fin": 2.16
+    },
+    {
+      "texto": "responder,",
+      "inicio": 2.224,
+      "fin": 3.04
+    },
+    {
+      "texto": "ChatGPT",
+      "inicio": 3.12,
+      "fin": 3.84
+    },
+    {
+      "texto": "procesa",
+      "inicio": 3.897,
+      "fin": 4.32
+    },
+    {
+      "texto": "tu",
+      "inicio": 4.373,
+      "fin": 4.48
+    },
+    {
+      "texto": "mensaje",
+      "inicio": 4.56,
+      "fin": 5.12
+    },
+    {
+      "texto": "y",
+      "inicio": 5.24,
+      "fin": 5.36
+    },
+    {
+      "texto": "la",
+      "inicio": 5.413,
+      "fin": 5.52
+    },
+    {
+      "texto": "parte",
+      "inicio": 5.573,
+      "fin": 5.84
+    },
+    {
+      "texto": "relevante",
+      "inicio": 5.907,
+      "fin": 6.56
+    },
+    {
+      "texto": "de",
+      "inicio": 6.587,
+      "fin": 6.64
+    },
+    {
+      "texto": "tu",
+      "inicio": 6.693,
+      "fin": 6.8
+    },
+    {
+      "texto": "hoja.",
+      "inicio": 6.88,
+      "fin": 7.28
+    },
+    {
+      "texto": "Los",
+      "inicio": 7.52,
+      "fin": 8.24
+    },
+    {
+      "texto": "chats",
+      "inicio": 8.32,
+      "fin": 8.72
+    },
+    {
+      "texto": "del",
+      "inicio": 8.76,
+      "fin": 8.88
+    },
+    {
+      "texto": "complemento",
+      "inicio": 8.945,
+      "fin": 9.76
+    },
+    {
+      "texto": "van",
+      "inicio": 9.82,
+      "fin": 10.0
+    },
+    {
+      "texto": "separados",
+      "inicio": 10.067,
+      "fin": 10.72
+    },
+    {
+      "texto": "de",
+      "inicio": 10.747,
+      "fin": 10.8
+    },
+    {
+      "texto": "tu",
+      "inicio": 10.853,
+      "fin": 10.96
+    },
+    {
+      "texto": "historial",
+      "inicio": 10.994,
+      "fin": 11.36
+    },
+    {
+      "texto": "normal",
+      "inicio": 11.44,
+      "fin": 11.92
+    },
+    {
+      "texto": "y",
+      "inicio": 12.16,
+      "fin": 12.4
+    },
+    {
+      "texto": "no",
+      "inicio": 12.453,
+      "fin": 12.56
+    },
+    {
+      "texto": "usan",
+      "inicio": 12.64,
+      "fin": 12.96
+    },
+    {
+      "texto": "tu",
+      "inicio": 12.987,
+      "fin": 13.04
+    },
+    {
+      "texto": "memoria.",
+      "inicio": 13.11,
+      "fin": 13.68
+    },
+    {
+      "texto": "Mi",
+      "inicio": 13.947,
+      "fin": 14.48
+    },
+    {
+      "texto": "recomendación:",
+      "inicio": 14.533,
+      "fin": 15.44
+    },
+    {
+      "texto": "si",
+      "inicio": 15.68,
+      "fin": 16.16
+    },
+    {
+      "texto": "es",
+      "inicio": 16.213,
+      "fin": 16.32
+    },
+    {
+      "texto": "información",
+      "inicio": 16.367,
+      "fin": 16.88
+    },
+    {
+      "texto": "confidencial",
+      "inicio": 16.944,
+      "fin": 17.68
+    },
+    {
+      "texto": "de",
+      "inicio": 17.707,
+      "fin": 17.76
+    },
+    {
+      "texto": "tu",
+      "inicio": 17.787,
+      "fin": 17.84
+    },
+    {
+      "texto": "empresa,",
+      "inicio": 17.91,
+      "fin": 18.96
+    },
+    {
+      "texto": "pregunta",
+      "inicio": 19.004,
+      "fin": 19.36
+    },
+    {
+      "texto": "primero",
+      "inicio": 19.43,
+      "fin": 19.92
+    },
+    {
+      "texto": "si",
+      "inicio": 20.027,
+      "fin": 20.24
+    },
+    {
+      "texto": "está",
+      "inicio": 20.288,
+      "fin": 20.48
+    },
+    {
+      "texto": "permitido.",
+      "inicio": 20.537,
+      "fin": 21.2
+    },
+    {
+      "texto": "Muchas",
+      "inicio": 21.456,
+      "fin": 22.56
+    },
+    {
+      "texto": "empresas",
+      "inicio": 22.64,
+      "fin": 23.28
+    },
+    {
+      "texto": "usan",
+      "inicio": 23.36,
+      "fin": 23.68
+    },
+    {
+      "texto": "planes",
+      "inicio": 23.726,
+      "fin": 24.0
+    },
+    {
+      "texto": "empresariales",
+      "inicio": 24.057,
+      "fin": 24.88
+    },
+    {
+      "texto": "justamente",
+      "inicio": 24.96,
+      "fin": 25.68
+    },
+    {
+      "texto": "por",
+      "inicio": 25.72,
+      "fin": 25.84
+    },
+    {
+      "texto": "esto.",
+      "inicio": 25.92,
+      "fin": 26.32
+    }
+  ]
+}

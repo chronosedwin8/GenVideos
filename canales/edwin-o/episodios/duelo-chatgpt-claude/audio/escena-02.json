@@ -1,0 +1,220 @@
+{
+  "num": "02",
+  "titulo": "Presentación",
+  "texto": "¡Bienvenidos, amigos del canal! Vamos en busca del poder tecnológico. Hoy es día de duelo. Te explico las reglas, vemos cinco rondas, una por una, el marcador final, y lo más importante: cuál te conviene usar a ti, según lo que necesites.",
+  "texto_tts": "[excited] ¡Bienvenidos, amigos del canal! Vamos en busca del poder tecnológico. Hoy es día de duelo. Te explico las reglas, vemos cinco rondas, una por una, el marcador final, y lo más importante: cuál te conviene usar a ti, según lo que necesites.",
+  "modelo": "eleven_v3",
+  "duracion": 16.88,
+  "palabras": [
+    {
+      "texto": "¡Bienvenidos,",
+      "inicio": 0.18,
+      "fin": 0.64
+    },
+    {
+      "texto": "amigos",
+      "inicio": 0.686,
+      "fin": 0.96
+    },
+    {
+      "texto": "del",
+      "inicio": 1.0,
+      "fin": 1.12
+    },
+    {
+      "texto": "canal!",
+      "inicio": 1.187,
+      "fin": 1.68
+    },
+    {
+      "texto": "Vamos",
+      "inicio": 1.72,
+      "fin": 2.08
+    },
+    {
+      "texto": "en",
+      "inicio": 2.133,
+      "fin": 2.24
+    },
+    {
+      "texto": "busca",
+      "inicio": 2.307,
+      "fin": 2.64
+    },
+    {
+      "texto": "del",
+      "inicio": 2.68,
+      "fin": 2.8
+    },
+    {
+      "texto": "poder",
+      "inicio": 2.867,
+      "fin": 3.2
+    },
+    {
+      "texto": "tecnológico.",
+      "inicio": 3.264,
+      "fin": 4.16
+    },
+    {
+      "texto": "Hoy",
+      "inicio": 4.36,
+      "fin": 4.96
+    },
+    {
+      "texto": "es",
+      "inicio": 5.067,
+      "fin": 5.28
+    },
+    {
+      "texto": "día",
+      "inicio": 5.36,
+      "fin": 5.6
+    },
+    {
+      "texto": "de",
+      "inicio": 5.627,
+      "fin": 5.68
+    },
+    {
+      "texto": "duelo.",
+      "inicio": 5.76,
+      "fin": 6.24
+    },
+    {
+      "texto": "Te",
+      "inicio": 6.4,
+      "fin": 6.72
+    },
+    {
+      "texto": "explico",
+      "inicio": 6.76,
+      "fin": 7.04
+    },
+    {
+      "texto": "las",
+      "inicio": 7.08,
+      "fin": 7.2
+    },
+    {
+      "texto": "reglas,",
+      "inicio": 7.26,
+      "fin": 7.92
+    },
+    {
+      "texto": "vemos",
+      "inicio": 7.96,
+      "fin": 8.32
+    },
+    {
+      "texto": "cinco",
+      "inicio": 8.373,
+      "fin": 8.64
+    },
+    {
+      "texto": "rondas,",
+      "inicio": 8.72,
+      "fin": 9.36
+    },
+    {
+      "texto": "una",
+      "inicio": 9.42,
+      "fin": 9.6
+    },
+    {
+      "texto": "por",
+      "inicio": 9.64,
+      "fin": 9.76
+    },
+    {
+      "texto": "una,",
+      "inicio": 9.84,
+      "fin": 10.24
+    },
+    {
+      "texto": "el",
+      "inicio": 10.267,
+      "fin": 10.32
+    },
+    {
+      "texto": "marcador",
+      "inicio": 10.384,
+      "fin": 10.88
+    },
+    {
+      "texto": "final,",
+      "inicio": 10.947,
+      "fin": 11.68
+    },
+    {
+      "texto": "y",
+      "inicio": 11.72,
+      "fin": 11.76
+    },
+    {
+      "texto": "lo",
+      "inicio": 11.813,
+      "fin": 11.92
+    },
+    {
+      "texto": "más",
+      "inicio": 11.98,
+      "fin": 12.16
+    },
+    {
+      "texto": "importante:",
+      "inicio": 12.225,
+      "fin": 13.36
+    },
+    {
+      "texto": "cuál",
+      "inicio": 13.413,
+      "fin": 13.6
+    },
+    {
+      "texto": "te",
+      "inicio": 13.653,
+      "fin": 13.76
+    },
+    {
+      "texto": "conviene",
+      "inicio": 13.824,
+      "fin": 14.24
+    },
+    {
+      "texto": "usar",
+      "inicio": 14.304,
+      "fin": 14.56
+    },
+    {
+      "texto": "a",
+      "inicio": 14.6,
+      "fin": 14.64
+    },
+    {
+      "texto": "ti,",
+      "inicio": 14.72,
+      "fin": 15.12
+    },
+    {
+      "texto": "según",
+      "inicio": 15.187,
+      "fin": 15.52
+    },
+    {
+      "texto": "lo",
+      "inicio": 15.573,
+      "fin": 15.68
+    },
+    {
+      "texto": "que",
+      "inicio": 15.7,
+      "fin": 15.76
+    },
+    {
+      "texto": "necesites.",
+      "inicio": 15.827,
+      "fin": 16.88
+    }
+  ]
+}

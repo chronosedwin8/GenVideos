@@ -1,0 +1,250 @@
+{
+  "num": "06",
+  "titulo": "Los datos",
+  "texto": "Vamos a trabajar con esta hoja de gastos de enero: ocho gastos, con la fecha, el concepto, la categoría y el monto. Tiene los problemas de siempre: un taxi registrado dos veces, montos sin formato, y nadie ha hecho el resumen. Total, con el duplicado: setecientos setenta mil.",
+  "texto_tts": "Vamos a trabajar con esta hoja de gastos de enero: ocho gastos, con la fecha, el concepto, la categoría y el monto. Tiene los problemas de siempre: un taxi registrado dos veces, montos sin formato, y nadie ha hecho el resumen. Total, con el duplicado: setecientos setenta mil.",
+  "modelo": "eleven_v3",
+  "duracion": 24.08,
+  "palabras": [
+    {
+      "texto": "Vamos",
+      "inicio": 0.0,
+      "fin": 0.24
+    },
+    {
+      "texto": "a",
+      "inicio": 0.28,
+      "fin": 0.32
+    },
+    {
+      "texto": "trabajar",
+      "inicio": 0.373,
+      "fin": 0.8
+    },
+    {
+      "texto": "con",
+      "inicio": 0.9,
+      "fin": 1.2
+    },
+    {
+      "texto": "esta",
+      "inicio": 1.264,
+      "fin": 1.52
+    },
+    {
+      "texto": "hoja",
+      "inicio": 1.6,
+      "fin": 1.92
+    },
+    {
+      "texto": "de",
+      "inicio": 2.053,
+      "fin": 2.32
+    },
+    {
+      "texto": "gastos",
+      "inicio": 2.36,
+      "fin": 2.72
+    },
+    {
+      "texto": "de",
+      "inicio": 2.747,
+      "fin": 2.8
+    },
+    {
+      "texto": "enero:",
+      "inicio": 2.853,
+      "fin": 3.6
+    },
+    {
+      "texto": "ocho",
+      "inicio": 3.68,
+      "fin": 3.92
+    },
+    {
+      "texto": "gastos,",
+      "inicio": 3.96,
+      "fin": 5.04
+    },
+    {
+      "texto": "con",
+      "inicio": 5.08,
+      "fin": 5.2
+    },
+    {
+      "texto": "la",
+      "inicio": 5.253,
+      "fin": 5.36
+    },
+    {
+      "texto": "fecha,",
+      "inicio": 5.453,
+      "fin": 6.16
+    },
+    {
+      "texto": "el",
+      "inicio": 6.187,
+      "fin": 6.24
+    },
+    {
+      "texto": "concepto,",
+      "inicio": 6.34,
+      "fin": 7.28
+    },
+    {
+      "texto": "la",
+      "inicio": 7.307,
+      "fin": 7.36
+    },
+    {
+      "texto": "categoría",
+      "inicio": 7.43,
+      "fin": 8.16
+    },
+    {
+      "texto": "y",
+      "inicio": 8.32,
+      "fin": 8.48
+    },
+    {
+      "texto": "el",
+      "inicio": 8.507,
+      "fin": 8.56
+    },
+    {
+      "texto": "monto.",
+      "inicio": 8.64,
+      "fin": 9.2
+    },
+    {
+      "texto": "Tiene",
+      "inicio": 9.68,
+      "fin": 10.8
+    },
+    {
+      "texto": "los",
+      "inicio": 10.82,
+      "fin": 10.88
+    },
+    {
+      "texto": "problemas",
+      "inicio": 10.92,
+      "fin": 11.28
+    },
+    {
+      "texto": "de",
+      "inicio": 11.333,
+      "fin": 11.44
+    },
+    {
+      "texto": "siempre:",
+      "inicio": 11.51,
+      "fin": 12.72
+    },
+    {
+      "texto": "un",
+      "inicio": 12.747,
+      "fin": 12.8
+    },
+    {
+      "texto": "taxi",
+      "inicio": 12.912,
+      "fin": 13.36
+    },
+    {
+      "texto": "registrado",
+      "inicio": 13.433,
+      "fin": 14.16
+    },
+    {
+      "texto": "dos",
+      "inicio": 14.18,
+      "fin": 14.24
+    },
+    {
+      "texto": "veces,",
+      "inicio": 14.333,
+      "fin": 15.12
+    },
+    {
+      "texto": "montos",
+      "inicio": 15.248,
+      "fin": 15.84
+    },
+    {
+      "texto": "sin",
+      "inicio": 15.88,
+      "fin": 16.0
+    },
+    {
+      "texto": "formato,",
+      "inicio": 16.09,
+      "fin": 16.8
+    },
+    {
+      "texto": "y",
+      "inicio": 17.08,
+      "fin": 17.36
+    },
+    {
+      "texto": "nadie",
+      "inicio": 17.44,
+      "fin": 17.84
+    },
+    {
+      "texto": "ha",
+      "inicio": 17.92,
+      "fin": 18.08
+    },
+    {
+      "texto": "hecho",
+      "inicio": 18.107,
+      "fin": 18.24
+    },
+    {
+      "texto": "el",
+      "inicio": 18.267,
+      "fin": 18.32
+    },
+    {
+      "texto": "resumen.",
+      "inicio": 18.4,
+      "fin": 19.04
+    },
+    {
+      "texto": "Total,",
+      "inicio": 19.227,
+      "fin": 20.24
+    },
+    {
+      "texto": "con",
+      "inicio": 20.38,
+      "fin": 20.8
+    },
+    {
+      "texto": "el",
+      "inicio": 20.827,
+      "fin": 20.88
+    },
+    {
+      "texto": "duplicado:",
+      "inicio": 20.937,
+      "fin": 21.68
+    },
+    {
+      "texto": "setecientos",
+      "inicio": 21.88,
+      "fin": 23.04
+    },
+    {
+      "texto": "setenta",
+      "inicio": 23.1,
+      "fin": 23.52
+    },
+    {
+      "texto": "mil.",
+      "inicio": 23.62,
+      "fin": 24.08
+    }
+  ]
+}

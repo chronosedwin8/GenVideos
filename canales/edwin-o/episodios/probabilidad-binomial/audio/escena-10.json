@@ -1,0 +1,295 @@
+{
+  "num": "10",
+  "titulo": "Paso 3: la tabla completa",
+  "texto": "Paso tres: la tabla completa, con una sola fórmula. Con SECUENCIA genero los números de cero a cinco, y se los paso a DISTR punto BINOM punto N. Excel calcula todas las probabilidades de golpe. Haz un gráfico de columnas, y verás que lo más probable es meter tres goles: treinta y tres coma seis por ciento.",
+  "texto_tts": "Paso tres: la tabla completa, con una sola fórmula. Con SECUENCIA genero los números de cero a cinco, y se los paso a DISTR punto BINOM punto N. Excel calcula todas las probabilidades de golpe. Haz un gráfico de columnas, y verás que lo más probable es meter tres goles: treinta y tres coma seis por ciento.",
+  "modelo": "eleven_v3",
+  "duracion": 23.04,
+  "palabras": [
+    {
+      "texto": "Paso",
+      "inicio": 0.0,
+      "fin": 0.24
+    },
+    {
+      "texto": "tres:",
+      "inicio": 0.32,
+      "fin": 0.72
+    },
+    {
+      "texto": "la",
+      "inicio": 0.907,
+      "fin": 1.28
+    },
+    {
+      "texto": "tabla",
+      "inicio": 1.347,
+      "fin": 1.68
+    },
+    {
+      "texto": "completa,",
+      "inicio": 1.751,
+      "fin": 2.6
+    },
+    {
+      "texto": "con",
+      "inicio": 2.67,
+      "fin": 2.88
+    },
+    {
+      "texto": "una",
+      "inicio": 2.94,
+      "fin": 3.12
+    },
+    {
+      "texto": "sola",
+      "inicio": 3.184,
+      "fin": 3.44
+    },
+    {
+      "texto": "fórmula.",
+      "inicio": 3.48,
+      "fin": 4.4
+    },
+    {
+      "texto": "Con",
+      "inicio": 4.5,
+      "fin": 4.8
+    },
+    {
+      "texto": "SECUENCIA",
+      "inicio": 4.88,
+      "fin": 5.52
+    },
+    {
+      "texto": "genero",
+      "inicio": 5.587,
+      "fin": 6.0
+    },
+    {
+      "texto": "los",
+      "inicio": 6.02,
+      "fin": 6.08
+    },
+    {
+      "texto": "números",
+      "inicio": 6.14,
+      "fin": 6.56
+    },
+    {
+      "texto": "de",
+      "inicio": 6.64,
+      "fin": 6.8
+    },
+    {
+      "texto": "cero",
+      "inicio": 6.88,
+      "fin": 7.04
+    },
+    {
+      "texto": "a",
+      "inicio": 7.08,
+      "fin": 7.12
+    },
+    {
+      "texto": "cinco,",
+      "inicio": 7.213,
+      "fin": 7.84
+    },
+    {
+      "texto": "y",
+      "inicio": 7.96,
+      "fin": 8.08
+    },
+    {
+      "texto": "se",
+      "inicio": 8.133,
+      "fin": 8.24
+    },
+    {
+      "texto": "los",
+      "inicio": 8.3,
+      "fin": 8.48
+    },
+    {
+      "texto": "paso",
+      "inicio": 8.56,
+      "fin": 8.88
+    },
+    {
+      "texto": "a",
+      "inicio": 9.0,
+      "fin": 9.12
+    },
+    {
+      "texto": "DISTR",
+      "inicio": 9.2,
+      "fin": 9.6
+    },
+    {
+      "texto": "punto",
+      "inicio": 9.68,
+      "fin": 10.08
+    },
+    {
+      "texto": "BINOM",
+      "inicio": 10.14,
+      "fin": 10.56
+    },
+    {
+      "texto": "punto",
+      "inicio": 10.627,
+      "fin": 10.96
+    },
+    {
+      "texto": "N.",
+      "inicio": 11.16,
+      "fin": 11.6
+    },
+    {
+      "texto": "Excel",
+      "inicio": 11.8,
+      "fin": 12.8
+    },
+    {
+      "texto": "calcula",
+      "inicio": 12.88,
+      "fin": 13.44
+    },
+    {
+      "texto": "todas",
+      "inicio": 13.507,
+      "fin": 13.84
+    },
+    {
+      "texto": "las",
+      "inicio": 13.88,
+      "fin": 14.0
+    },
+    {
+      "texto": "probabilidades",
+      "inicio": 14.044,
+      "fin": 14.64
+    },
+    {
+      "texto": "de",
+      "inicio": 14.667,
+      "fin": 14.72
+    },
+    {
+      "texto": "golpe.",
+      "inicio": 14.78,
+      "fin": 15.36
+    },
+    {
+      "texto": "Haz",
+      "inicio": 15.5,
+      "fin": 15.92
+    },
+    {
+      "texto": "un",
+      "inicio": 15.973,
+      "fin": 16.08
+    },
+    {
+      "texto": "gráfico",
+      "inicio": 16.107,
+      "fin": 16.48
+    },
+    {
+      "texto": "de",
+      "inicio": 16.507,
+      "fin": 16.56
+    },
+    {
+      "texto": "columnas,",
+      "inicio": 16.617,
+      "fin": 17.32
+    },
+    {
+      "texto": "y",
+      "inicio": 17.38,
+      "fin": 17.44
+    },
+    {
+      "texto": "verás",
+      "inicio": 17.5,
+      "fin": 17.92
+    },
+    {
+      "texto": "que",
+      "inicio": 17.98,
+      "fin": 18.16
+    },
+    {
+      "texto": "lo",
+      "inicio": 18.213,
+      "fin": 18.32
+    },
+    {
+      "texto": "más",
+      "inicio": 18.38,
+      "fin": 18.56
+    },
+    {
+      "texto": "probable",
+      "inicio": 18.622,
+      "fin": 19.12
+    },
+    {
+      "texto": "es",
+      "inicio": 19.2,
+      "fin": 19.36
+    },
+    {
+      "texto": "meter",
+      "inicio": 19.413,
+      "fin": 19.68
+    },
+    {
+      "texto": "tres",
+      "inicio": 19.728,
+      "fin": 19.92
+    },
+    {
+      "texto": "goles:",
+      "inicio": 20.0,
+      "fin": 21.12
+    },
+    {
+      "texto": "treinta",
+      "inicio": 21.14,
+      "fin": 21.36
+    },
+    {
+      "texto": "y",
+      "inicio": 21.44,
+      "fin": 21.52
+    },
+    {
+      "texto": "tres",
+      "inicio": 21.552,
+      "fin": 21.68
+    },
+    {
+      "texto": "coma",
+      "inicio": 21.744,
+      "fin": 22.0
+    },
+    {
+      "texto": "seis",
+      "inicio": 22.048,
+      "fin": 22.24
+    },
+    {
+      "texto": "por",
+      "inicio": 22.32,
+      "fin": 22.56
+    },
+    {
+      "texto": "ciento.",
+      "inicio": 22.6,
+      "fin": 23.04
+    }
+  ]
+}

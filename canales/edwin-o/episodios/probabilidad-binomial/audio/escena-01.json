@@ -1,0 +1,270 @@
+{
+  "num": "01",
+  "titulo": "Gancho",
+  "texto": "En el Mundial dos mil veintiséis se falló uno de cada tres penales. Entonces, ¿qué probabilidad tiene un equipo de meter los cinco penales de una tanda? Mucha gente dice \"sesenta y cinco por ciento\". Error. Es once coma seis por ciento. Y te voy a mostrar cómo calcularlo en un segundo.",
+  "texto_tts": "[curious] En el Mundial dos mil veintiséis se falló uno de cada tres penales. Entonces, ¿qué probabilidad tiene un equipo de meter los cinco penales de una tanda? Mucha gente dice \"sesenta y cinco por ciento\". [excited] Error. Es once coma seis por ciento. Y te voy a mostrar cómo calcularlo en un segundo.",
+  "modelo": "eleven_v3",
+  "duracion": 21.368,
+  "palabras": [
+    {
+      "texto": "En",
+      "inicio": 0.067,
+      "fin": 0.08
+    },
+    {
+      "texto": "el",
+      "inicio": 0.107,
+      "fin": 0.16
+    },
+    {
+      "texto": "Mundial",
+      "inicio": 0.224,
+      "fin": 0.64
+    },
+    {
+      "texto": "dos",
+      "inicio": 0.68,
+      "fin": 0.8
+    },
+    {
+      "texto": "mil",
+      "inicio": 0.84,
+      "fin": 0.96
+    },
+    {
+      "texto": "veintiséis",
+      "inicio": 1.013,
+      "fin": 1.68
+    },
+    {
+      "texto": "se",
+      "inicio": 1.813,
+      "fin": 2.08
+    },
+    {
+      "texto": "falló",
+      "inicio": 2.144,
+      "fin": 2.48
+    },
+    {
+      "texto": "uno",
+      "inicio": 2.58,
+      "fin": 2.88
+    },
+    {
+      "texto": "de",
+      "inicio": 2.933,
+      "fin": 3.04
+    },
+    {
+      "texto": "cada",
+      "inicio": 3.104,
+      "fin": 3.36
+    },
+    {
+      "texto": "tres",
+      "inicio": 3.408,
+      "fin": 3.6
+    },
+    {
+      "texto": "penales.",
+      "inicio": 3.66,
+      "fin": 4.4
+    },
+    {
+      "texto": "Entonces,",
+      "inicio": 4.78,
+      "fin": 6.24
+    },
+    {
+      "texto": "¿qué",
+      "inicio": 6.28,
+      "fin": 6.4
+    },
+    {
+      "texto": "probabilidad",
+      "inicio": 6.448,
+      "fin": 7.12
+    },
+    {
+      "texto": "tiene",
+      "inicio": 7.16,
+      "fin": 7.36
+    },
+    {
+      "texto": "un",
+      "inicio": 7.387,
+      "fin": 7.44
+    },
+    {
+      "texto": "equipo",
+      "inicio": 7.497,
+      "fin": 7.84
+    },
+    {
+      "texto": "de",
+      "inicio": 7.867,
+      "fin": 7.92
+    },
+    {
+      "texto": "meter",
+      "inicio": 7.973,
+      "fin": 8.24
+    },
+    {
+      "texto": "los",
+      "inicio": 8.28,
+      "fin": 8.4
+    },
+    {
+      "texto": "cinco",
+      "inicio": 8.467,
+      "fin": 8.8
+    },
+    {
+      "texto": "penales",
+      "inicio": 8.86,
+      "fin": 9.28
+    },
+    {
+      "texto": "de",
+      "inicio": 9.307,
+      "fin": 9.36
+    },
+    {
+      "texto": "una",
+      "inicio": 9.4,
+      "fin": 9.52
+    },
+    {
+      "texto": "tanda?",
+      "inicio": 9.6,
+      "fin": 10.0
+    },
+    {
+      "texto": "Mucha",
+      "inicio": 10.384,
+      "fin": 12.12
+    },
+    {
+      "texto": "gente",
+      "inicio": 12.153,
+      "fin": 12.32
+    },
+    {
+      "texto": "dice",
+      "inicio": 12.368,
+      "fin": 12.56
+    },
+    {
+      "texto": "\"sesenta",
+      "inicio": 12.6,
+      "fin": 13.04
+    },
+    {
+      "texto": "y",
+      "inicio": 13.08,
+      "fin": 13.12
+    },
+    {
+      "texto": "cinco",
+      "inicio": 13.173,
+      "fin": 13.44
+    },
+    {
+      "texto": "por",
+      "inicio": 13.5,
+      "fin": 13.68
+    },
+    {
+      "texto": "ciento\".",
+      "inicio": 13.72,
+      "fin": 14.239
+    },
+    {
+      "texto": "Error.",
+      "inicio": 14.481,
+      "fin": 14.808
+    },
+    {
+      "texto": "Es",
+      "inicio": 15.048,
+      "fin": 15.528
+    },
+    {
+      "texto": "once",
+      "inicio": 15.64,
+      "fin": 16.088
+    },
+    {
+      "texto": "coma",
+      "inicio": 16.184,
+      "fin": 16.568
+    },
+    {
+      "texto": "seis",
+      "inicio": 16.648,
+      "fin": 16.968
+    },
+    {
+      "texto": "por",
+      "inicio": 17.048,
+      "fin": 17.288
+    },
+    {
+      "texto": "ciento.",
+      "inicio": 17.368,
+      "fin": 17.848
+    },
+    {
+      "texto": "Y",
+      "inicio": 18.408,
+      "fin": 18.968
+    },
+    {
+      "texto": "te",
+      "inicio": 19.021,
+      "fin": 19.128
+    },
+    {
+      "texto": "voy",
+      "inicio": 19.148,
+      "fin": 19.208
+    },
+    {
+      "texto": "a",
+      "inicio": 19.248,
+      "fin": 19.288
+    },
+    {
+      "texto": "mostrar",
+      "inicio": 19.338,
+      "fin": 19.688
+    },
+    {
+      "texto": "cómo",
+      "inicio": 19.752,
+      "fin": 20.008
+    },
+    {
+      "texto": "calcularlo",
+      "inicio": 20.061,
+      "fin": 20.568
+    },
+    {
+      "texto": "en",
+      "inicio": 20.595,
+      "fin": 20.648
+    },
+    {
+      "texto": "un",
+      "inicio": 20.675,
+      "fin": 20.728
+    },
+    {
+      "texto": "segundo.",
+      "inicio": 20.798,
+      "fin": 21.368
+    }
+  ]
+}

@@ -1,0 +1,340 @@
+{
+  "num": "11",
+  "titulo": "Paso 4: el código de barras",
+  "texto": "Paso cuatro: el código de barras. Es la misma idea, con otro servicio gratuito. En G2 escribe IMAGEN y la dirección del generador, también en la descripción. bcid igual code ciento veintiocho es el tipo de código, el más usado en inventarios. Text es el código del producto, y include text pone el número debajo de las barras, para que también lo pueda leer una persona.",
+  "texto_tts": "Paso cuatro: el código de barras. Es la misma idea, con otro servicio gratuito. En G2 escribe IMAGEN y la dirección del generador, también en la descripción. bcid igual code ciento veintiocho es el tipo de código, el más usado en inventarios. Text es el código del producto, y include text pone el número debajo de las barras, para que también lo pueda leer una persona.",
+  "modelo": "eleven_v3",
+  "duracion": 29.68,
+  "palabras": [
+    {
+      "texto": "Paso",
+      "inicio": 0.0,
+      "fin": 0.32
+    },
+    {
+      "texto": "cuatro:",
+      "inicio": 0.389,
+      "fin": 0.88
+    },
+    {
+      "texto": "el",
+      "inicio": 1.013,
+      "fin": 1.28
+    },
+    {
+      "texto": "código",
+      "inicio": 1.337,
+      "fin": 1.68
+    },
+    {
+      "texto": "de",
+      "inicio": 1.707,
+      "fin": 1.76
+    },
+    {
+      "texto": "barras.",
+      "inicio": 1.808,
+      "fin": 2.4
+    },
+    {
+      "texto": "Es",
+      "inicio": 2.667,
+      "fin": 3.2
+    },
+    {
+      "texto": "la",
+      "inicio": 3.227,
+      "fin": 3.28
+    },
+    {
+      "texto": "misma",
+      "inicio": 3.32,
+      "fin": 3.52
+    },
+    {
+      "texto": "idea,",
+      "inicio": 3.6,
+      "fin": 4.32
+    },
+    {
+      "texto": "con",
+      "inicio": 4.36,
+      "fin": 4.48
+    },
+    {
+      "texto": "otro",
+      "inicio": 4.528,
+      "fin": 4.72
+    },
+    {
+      "texto": "servicio",
+      "inicio": 4.773,
+      "fin": 5.2
+    },
+    {
+      "texto": "gratuito.",
+      "inicio": 5.262,
+      "fin": 5.84
+    },
+    {
+      "texto": "En",
+      "inicio": 6.08,
+      "fin": 6.56
+    },
+    {
+      "texto": "G2",
+      "inicio": 6.68,
+      "fin": 7.12
+    },
+    {
+      "texto": "escribe",
+      "inicio": 7.2,
+      "fin": 7.68
+    },
+    {
+      "texto": "IMAGEN",
+      "inicio": 7.813,
+      "fin": 8.64
+    },
+    {
+      "texto": "y",
+      "inicio": 8.88,
+      "fin": 9.12
+    },
+    {
+      "texto": "la",
+      "inicio": 9.147,
+      "fin": 9.2
+    },
+    {
+      "texto": "dirección",
+      "inicio": 9.248,
+      "fin": 9.68
+    },
+    {
+      "texto": "del",
+      "inicio": 9.72,
+      "fin": 9.84
+    },
+    {
+      "texto": "generador,",
+      "inicio": 9.893,
+      "fin": 10.64
+    },
+    {
+      "texto": "también",
+      "inicio": 10.69,
+      "fin": 11.04
+    },
+    {
+      "texto": "en",
+      "inicio": 11.067,
+      "fin": 11.12
+    },
+    {
+      "texto": "la",
+      "inicio": 11.147,
+      "fin": 11.2
+    },
+    {
+      "texto": "descripción.",
+      "inicio": 11.246,
+      "fin": 12.0
+    },
+    {
+      "texto": "bcid",
+      "inicio": 12.56,
+      "fin": 14.08
+    },
+    {
+      "texto": "igual",
+      "inicio": 14.213,
+      "fin": 14.88
+    },
+    {
+      "texto": "code",
+      "inicio": 14.992,
+      "fin": 15.44
+    },
+    {
+      "texto": "ciento",
+      "inicio": 15.52,
+      "fin": 15.84
+    },
+    {
+      "texto": "veintiocho",
+      "inicio": 15.893,
+      "fin": 16.64
+    },
+    {
+      "texto": "es",
+      "inicio": 16.747,
+      "fin": 16.96
+    },
+    {
+      "texto": "el",
+      "inicio": 17.013,
+      "fin": 17.12
+    },
+    {
+      "texto": "tipo",
+      "inicio": 17.184,
+      "fin": 17.44
+    },
+    {
+      "texto": "de",
+      "inicio": 17.467,
+      "fin": 17.52
+    },
+    {
+      "texto": "código,",
+      "inicio": 17.6,
+      "fin": 18.48
+    },
+    {
+      "texto": "el",
+      "inicio": 18.533,
+      "fin": 18.64
+    },
+    {
+      "texto": "más",
+      "inicio": 18.7,
+      "fin": 18.88
+    },
+    {
+      "texto": "usado",
+      "inicio": 18.933,
+      "fin": 19.2
+    },
+    {
+      "texto": "en",
+      "inicio": 19.227,
+      "fin": 19.28
+    },
+    {
+      "texto": "inventarios.",
+      "inicio": 19.337,
+      "fin": 20.08
+    },
+    {
+      "texto": "Text",
+      "inicio": 20.32,
+      "fin": 21.28
+    },
+    {
+      "texto": "es",
+      "inicio": 21.387,
+      "fin": 21.6
+    },
+    {
+      "texto": "el",
+      "inicio": 21.653,
+      "fin": 21.76
+    },
+    {
+      "texto": "código",
+      "inicio": 21.806,
+      "fin": 22.08
+    },
+    {
+      "texto": "del",
+      "inicio": 22.12,
+      "fin": 22.24
+    },
+    {
+      "texto": "producto,",
+      "inicio": 22.311,
+      "fin": 22.96
+    },
+    {
+      "texto": "y",
+      "inicio": 23.32,
+      "fin": 23.68
+    },
+    {
+      "texto": "include",
+      "inicio": 23.77,
+      "fin": 24.4
+    },
+    {
+      "texto": "text",
+      "inicio": 24.496,
+      "fin": 24.88
+    },
+    {
+      "texto": "pone",
+      "inicio": 25.0,
+      "fin": 25.28
+    },
+    {
+      "texto": "el",
+      "inicio": 25.307,
+      "fin": 25.36
+    },
+    {
+      "texto": "número",
+      "inicio": 25.417,
+      "fin": 25.76
+    },
+    {
+      "texto": "debajo",
+      "inicio": 25.8,
+      "fin": 26.08
+    },
+    {
+      "texto": "de",
+      "inicio": 26.107,
+      "fin": 26.16
+    },
+    {
+      "texto": "las",
+      "inicio": 26.2,
+      "fin": 26.32
+    },
+    {
+      "texto": "barras,",
+      "inicio": 26.384,
+      "fin": 27.28
+    },
+    {
+      "texto": "para",
+      "inicio": 27.312,
+      "fin": 27.44
+    },
+    {
+      "texto": "que",
+      "inicio": 27.48,
+      "fin": 27.6
+    },
+    {
+      "texto": "también",
+      "inicio": 27.66,
+      "fin": 28.08
+    },
+    {
+      "texto": "lo",
+      "inicio": 28.187,
+      "fin": 28.4
+    },
+    {
+      "texto": "pueda",
+      "inicio": 28.453,
+      "fin": 28.72
+    },
+    {
+      "texto": "leer",
+      "inicio": 28.768,
+      "fin": 28.96
+    },
+    {
+      "texto": "una",
+      "inicio": 29.0,
+      "fin": 29.12
+    },
+    {
+      "texto": "persona.",
+      "inicio": 29.18,
+      "fin": 29.68
+    }
+  ]
+}

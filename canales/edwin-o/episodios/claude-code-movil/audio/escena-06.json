@@ -1,0 +1,280 @@
+{
+  "num": "06",
+  "titulo": "Lo que necesitas",
+  "texto": "Necesitas tres cosas. Un plan de pago de Claude: Pro, Max, Ultra, Team o Enterprise; el plan gratuito no incluye Claude Code. Claude Code instalado en tu computador. Y la aplicación de Claude en tu celular, Android o iPhone, con la misma cuenta. Ojo: no funciona si inicias sesión con una clave de API.",
+  "texto_tts": "Necesitas tres cosas. Un plan de pago de Claude: Pro, Max, Ultra, Team o Enterprise; el plan gratuito no incluye Claude Code. Claude Code instalado en tu computador. Y la aplicación de Claude en tu celular, Android o iPhone, con la misma cuenta. Ojo: no funciona si inicias sesión con una clave de API.",
+  "modelo": "eleven_v3",
+  "duracion": 26.16,
+  "palabras": [
+    {
+      "texto": "Necesitas",
+      "inicio": 0.0,
+      "fin": 0.64
+    },
+    {
+      "texto": "tres",
+      "inicio": 0.688,
+      "fin": 0.88
+    },
+    {
+      "texto": "cosas.",
+      "inicio": 0.96,
+      "fin": 1.44
+    },
+    {
+      "texto": "Un",
+      "inicio": 1.813,
+      "fin": 2.56
+    },
+    {
+      "texto": "plan",
+      "inicio": 2.608,
+      "fin": 2.8
+    },
+    {
+      "texto": "de",
+      "inicio": 2.853,
+      "fin": 2.96
+    },
+    {
+      "texto": "pago",
+      "inicio": 3.04,
+      "fin": 3.36
+    },
+    {
+      "texto": "de",
+      "inicio": 3.467,
+      "fin": 3.68
+    },
+    {
+      "texto": "Claude:",
+      "inicio": 3.737,
+      "fin": 4.72
+    },
+    {
+      "texto": "Pro,",
+      "inicio": 4.8,
+      "fin": 5.12
+    },
+    {
+      "texto": "Max,",
+      "inicio": 5.26,
+      "fin": 5.84
+    },
+    {
+      "texto": "Ultra,",
+      "inicio": 5.92,
+      "fin": 6.48
+    },
+    {
+      "texto": "Team",
+      "inicio": 6.544,
+      "fin": 6.8
+    },
+    {
+      "texto": "o",
+      "inicio": 6.92,
+      "fin": 7.04
+    },
+    {
+      "texto": "Enterprise;",
+      "inicio": 7.105,
+      "fin": 8.08
+    },
+    {
+      "texto": "el",
+      "inicio": 8.187,
+      "fin": 8.4
+    },
+    {
+      "texto": "plan",
+      "inicio": 8.448,
+      "fin": 8.64
+    },
+    {
+      "texto": "gratuito",
+      "inicio": 8.711,
+      "fin": 9.28
+    },
+    {
+      "texto": "no",
+      "inicio": 9.44,
+      "fin": 9.76
+    },
+    {
+      "texto": "incluye",
+      "inicio": 9.808,
+      "fin": 10.24
+    },
+    {
+      "texto": "Claude",
+      "inicio": 10.297,
+      "fin": 10.64
+    },
+    {
+      "texto": "Code.",
+      "inicio": 10.72,
+      "fin": 11.2
+    },
+    {
+      "texto": "Claude",
+      "inicio": 11.383,
+      "fin": 12.48
+    },
+    {
+      "texto": "Code",
+      "inicio": 12.544,
+      "fin": 12.8
+    },
+    {
+      "texto": "instalado",
+      "inicio": 12.869,
+      "fin": 13.44
+    },
+    {
+      "texto": "en",
+      "inicio": 13.467,
+      "fin": 13.52
+    },
+    {
+      "texto": "tu",
+      "inicio": 13.547,
+      "fin": 13.6
+    },
+    {
+      "texto": "computador.",
+      "inicio": 13.657,
+      "fin": 14.56
+    },
+    {
+      "texto": "Y",
+      "inicio": 15.0,
+      "fin": 15.44
+    },
+    {
+      "texto": "la",
+      "inicio": 15.467,
+      "fin": 15.52
+    },
+    {
+      "texto": "aplicación",
+      "inicio": 15.578,
+      "fin": 16.16
+    },
+    {
+      "texto": "de",
+      "inicio": 16.213,
+      "fin": 16.32
+    },
+    {
+      "texto": "Claude",
+      "inicio": 16.377,
+      "fin": 16.72
+    },
+    {
+      "texto": "en",
+      "inicio": 16.8,
+      "fin": 16.96
+    },
+    {
+      "texto": "tu",
+      "inicio": 16.987,
+      "fin": 17.04
+    },
+    {
+      "texto": "celular,",
+      "inicio": 17.11,
+      "fin": 18.0
+    },
+    {
+      "texto": "Android",
+      "inicio": 18.06,
+      "fin": 18.48
+    },
+    {
+      "texto": "o",
+      "inicio": 18.6,
+      "fin": 18.72
+    },
+    {
+      "texto": "iPhone,",
+      "inicio": 18.789,
+      "fin": 19.68
+    },
+    {
+      "texto": "con",
+      "inicio": 19.72,
+      "fin": 19.84
+    },
+    {
+      "texto": "la",
+      "inicio": 19.867,
+      "fin": 19.92
+    },
+    {
+      "texto": "misma",
+      "inicio": 19.987,
+      "fin": 20.32
+    },
+    {
+      "texto": "cuenta.",
+      "inicio": 20.4,
+      "fin": 21.12
+    },
+    {
+      "texto": "Ojo:",
+      "inicio": 21.32,
+      "fin": 21.84
+    },
+    {
+      "texto": "no",
+      "inicio": 22.107,
+      "fin": 22.64
+    },
+    {
+      "texto": "funciona",
+      "inicio": 22.729,
+      "fin": 23.44
+    },
+    {
+      "texto": "si",
+      "inicio": 23.52,
+      "fin": 23.68
+    },
+    {
+      "texto": "inicias",
+      "inicio": 23.733,
+      "fin": 24.08
+    },
+    {
+      "texto": "sesión",
+      "inicio": 24.137,
+      "fin": 24.48
+    },
+    {
+      "texto": "con",
+      "inicio": 24.54,
+      "fin": 24.72
+    },
+    {
+      "texto": "una",
+      "inicio": 24.76,
+      "fin": 24.88
+    },
+    {
+      "texto": "clave",
+      "inicio": 24.96,
+      "fin": 25.36
+    },
+    {
+      "texto": "de",
+      "inicio": 25.413,
+      "fin": 25.52
+    },
+    {
+      "texto": "API.",
+      "inicio": 25.62,
+      "fin": 26.16
+    }
+  ]
+}

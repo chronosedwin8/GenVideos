@@ -1,0 +1,335 @@
+{
+  "num": "09",
+  "titulo": "Ronda 2: los problemas en los datos",
+  "texto": "Ronda dos: los problemas en los datos. Las dos encontraron las trampas: el espacio después de C cero dos y el cliente C cero seis que no existe. Pero Claude fue más allá: me advirtió de los espacios duros, que llegan al copiar de una página web, de los montos guardados como texto, y de que los rangos fijos no crecen. Ronda dos para Claude.",
+  "texto_tts": "Ronda dos: los problemas en los datos. Las dos encontraron las trampas: el espacio después de C cero dos y el cliente C cero seis que no existe. Pero Claude fue más allá: me advirtió de los espacios duros, que llegan al copiar de una página web, de los montos guardados como texto, y de que los rangos fijos no crecen. Ronda dos para Claude.",
+  "modelo": "eleven_v3",
+  "duracion": 28.8,
+  "palabras": [
+    {
+      "texto": "Ronda",
+      "inicio": 0.0,
+      "fin": 0.4
+    },
+    {
+      "texto": "dos:",
+      "inicio": 0.5,
+      "fin": 0.88
+    },
+    {
+      "texto": "los",
+      "inicio": 1.02,
+      "fin": 1.44
+    },
+    {
+      "texto": "problemas",
+      "inicio": 1.496,
+      "fin": 2.0
+    },
+    {
+      "texto": "en",
+      "inicio": 2.027,
+      "fin": 2.08
+    },
+    {
+      "texto": "los",
+      "inicio": 2.12,
+      "fin": 2.24
+    },
+    {
+      "texto": "datos.",
+      "inicio": 2.333,
+      "fin": 2.88
+    },
+    {
+      "texto": "Las",
+      "inicio": 3.1,
+      "fin": 3.76
+    },
+    {
+      "texto": "dos",
+      "inicio": 3.82,
+      "fin": 4.0
+    },
+    {
+      "texto": "encontraron",
+      "inicio": 4.05,
+      "fin": 4.64
+    },
+    {
+      "texto": "las",
+      "inicio": 4.68,
+      "fin": 4.8
+    },
+    {
+      "texto": "trampas:",
+      "inicio": 4.853,
+      "fin": 6.0
+    },
+    {
+      "texto": "el",
+      "inicio": 6.027,
+      "fin": 6.08
+    },
+    {
+      "texto": "espacio",
+      "inicio": 6.16,
+      "fin": 6.72
+    },
+    {
+      "texto": "después",
+      "inicio": 6.77,
+      "fin": 7.12
+    },
+    {
+      "texto": "de",
+      "inicio": 7.173,
+      "fin": 7.28
+    },
+    {
+      "texto": "C",
+      "inicio": 7.4,
+      "fin": 7.52
+    },
+    {
+      "texto": "cero",
+      "inicio": 7.56,
+      "fin": 7.68
+    },
+    {
+      "texto": "dos",
+      "inicio": 7.82,
+      "fin": 8.24
+    },
+    {
+      "texto": "y",
+      "inicio": 8.48,
+      "fin": 8.72
+    },
+    {
+      "texto": "el",
+      "inicio": 8.747,
+      "fin": 8.8
+    },
+    {
+      "texto": "cliente",
+      "inicio": 8.87,
+      "fin": 9.36
+    },
+    {
+      "texto": "C",
+      "inicio": 9.44,
+      "fin": 9.52
+    },
+    {
+      "texto": "cero",
+      "inicio": 9.56,
+      "fin": 9.76
+    },
+    {
+      "texto": "seis",
+      "inicio": 9.824,
+      "fin": 10.08
+    },
+    {
+      "texto": "que",
+      "inicio": 10.12,
+      "fin": 10.24
+    },
+    {
+      "texto": "no",
+      "inicio": 10.267,
+      "fin": 10.32
+    },
+    {
+      "texto": "existe.",
+      "inicio": 10.4,
+      "fin": 10.96
+    },
+    {
+      "texto": "Pero",
+      "inicio": 11.184,
+      "fin": 12.08
+    },
+    {
+      "texto": "Claude",
+      "inicio": 12.149,
+      "fin": 12.56
+    },
+    {
+      "texto": "fue",
+      "inicio": 12.62,
+      "fin": 12.8
+    },
+    {
+      "texto": "más",
+      "inicio": 12.84,
+      "fin": 12.96
+    },
+    {
+      "texto": "allá:",
+      "inicio": 13.0,
+      "fin": 13.92
+    },
+    {
+      "texto": "me",
+      "inicio": 13.947,
+      "fin": 14.0
+    },
+    {
+      "texto": "advirtió",
+      "inicio": 14.06,
+      "fin": 14.64
+    },
+    {
+      "texto": "de",
+      "inicio": 14.693,
+      "fin": 14.8
+    },
+    {
+      "texto": "los",
+      "inicio": 14.82,
+      "fin": 14.88
+    },
+    {
+      "texto": "espacios",
+      "inicio": 14.96,
+      "fin": 15.52
+    },
+    {
+      "texto": "duros,",
+      "inicio": 15.64,
+      "fin": 16.32
+    },
+    {
+      "texto": "que",
+      "inicio": 16.5,
+      "fin": 17.04
+    },
+    {
+      "texto": "llegan",
+      "inicio": 17.088,
+      "fin": 17.44
+    },
+    {
+      "texto": "al",
+      "inicio": 17.493,
+      "fin": 17.6
+    },
+    {
+      "texto": "copiar",
+      "inicio": 17.66,
+      "fin": 18.0
+    },
+    {
+      "texto": "de",
+      "inicio": 18.053,
+      "fin": 18.16
+    },
+    {
+      "texto": "una",
+      "inicio": 18.2,
+      "fin": 18.32
+    },
+    {
+      "texto": "página",
+      "inicio": 18.366,
+      "fin": 18.64
+    },
+    {
+      "texto": "web,",
+      "inicio": 18.74,
+      "fin": 19.76
+    },
+    {
+      "texto": "de",
+      "inicio": 19.787,
+      "fin": 19.84
+    },
+    {
+      "texto": "los",
+      "inicio": 19.88,
+      "fin": 20.0
+    },
+    {
+      "texto": "montos",
+      "inicio": 20.08,
+      "fin": 20.48
+    },
+    {
+      "texto": "guardados",
+      "inicio": 20.533,
+      "fin": 21.12
+    },
+    {
+      "texto": "como",
+      "inicio": 21.168,
+      "fin": 21.36
+    },
+    {
+      "texto": "texto,",
+      "inicio": 21.44,
+      "fin": 22.4
+    },
+    {
+      "texto": "y",
+      "inicio": 22.44,
+      "fin": 22.48
+    },
+    {
+      "texto": "de",
+      "inicio": 22.507,
+      "fin": 22.56
+    },
+    {
+      "texto": "que",
+      "inicio": 22.6,
+      "fin": 22.72
+    },
+    {
+      "texto": "los",
+      "inicio": 22.76,
+      "fin": 22.88
+    },
+    {
+      "texto": "rangos",
+      "inicio": 22.944,
+      "fin": 23.36
+    },
+    {
+      "texto": "fijos",
+      "inicio": 23.4,
+      "fin": 23.92
+    },
+    {
+      "texto": "no",
+      "inicio": 24.027,
+      "fin": 24.24
+    },
+    {
+      "texto": "crecen.",
+      "inicio": 24.32,
+      "fin": 24.96
+    },
+    {
+      "texto": "Ronda",
+      "inicio": 25.36,
+      "fin": 26.0
+    },
+    {
+      "texto": "dos",
+      "inicio": 26.14,
+      "fin": 26.56
+    },
+    {
+      "texto": "para",
+      "inicio": 26.64,
+      "fin": 26.96
+    },
+    {
+      "texto": "Claude.",
+      "inicio": 27.017,
+      "fin": 28.8
+    }
+  ]
+}

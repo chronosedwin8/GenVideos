@@ -1,0 +1,51 @@
+{
+  "titulo": "ChatGPT vs Claude en Excel: los puse a combinar datos (y probé todo)",
+  "descripcion": "Misma pregunta y mismos datos para ChatGPT (plan gratuito) y Claude (plan Pro, Opus 5.5). Probé cada fórmula en Excel 365 y cada código en Python: 5 rondas, marcador final y cuál te conviene a ti. Prueba real del 25 de noviembre de 2026; no es un estudio científico.\n\nEn este video aprenderás:\n✅ Las reglas del duelo (y por qué no son planes iguales)\n✅ Ronda 1: la fórmula\n✅ Ronda 2: problemas en los datos\n✅ Ronda 3: total por ciudad\n✅ Ronda 4: el código de Python\n✅ Ronda 5: la pregunta de analista\n✅ Cuál usar según lo que necesites\n\nMarcador: Claude 2 · ChatGPT 1 · 3 empates.\nFórmulas: las dos funcionan en Excel 365. Código Python: el de ChatGPT falló (KeyError: 'Cliente') y lo corrigió en la misma respuesta; el de Claude funcionó a la primera.\nLa mejor IA es la que verificas.\n\nCapítulos\n0:00 ChatGPT contra Claude\n0:41 Las reglas\n1:12 El reto\n1:44 El mensaje exacto\n2:17 Mi criterio\n2:36 Ronda 1: la fórmula\n3:05 La prueba en Excel\n3:25 Ronda 2: problemas en los datos\n3:54 Ronda 3: total por ciudad\n4:25 Ronda 4: el código de Python\n4:49 Para ser justos\n5:14 Ronda 5: la pregunta de analista\n5:42 Rapidez y presentación\n6:13 El marcador final\n6:36 Lo que hay que decir\n7:00 La gran lección\n7:25 ¿Cuál usar?\n7:51 Pon tú el próximo reto\n\n📊 Guías de Excel en el blog: https://www.edwinortiz.net/excel/\n🌐 Plantillas y cursos: https://www.edwinortiz.net\n\nFuentes\nPrueba propia del 25 nov 2026 (ChatGPT plan gratuito; Claude plan Pro, Opus 5.5).\n\nLa voz de este video es la voz de Edwin, clonada con inteligencia artificial (ElevenLabs).\n\nVamos en busca del poder tecnológico. 🚀\n#ChatGPT #Claude #Excel\n\n🛒 Tienda de plantillas y recursos: https://www.edwinortiz.net/tienda/\n\nPuedes encontrar mucha más información en mi página web https://www.edwinortiz.net/ ademas también podrás ingresar a mi plataforma online de aprendizaje donde podrás realizar cursos acordes a tus necesidades en  https://www.miaulaweb.com/\n\nTe invito a que me sigas en twitter en @chronosedwin8  y en Instagram https://www.instagram.com/edwinortizherazo/\n\n\n►MI BLOG: https://www.edwinortiz.net/\n►AULA EN LINEA: https://aula.miaulaweb.com/\n►2do CANAL: https://www.youtube.com/user/chronosedwin8\n►FANPAGE: https://www.facebook.com/EdwinOrtizHerazo\n►TWITTER:https://twitter.com/chronosedwin8\n►MI EMPRESA: https://www.miaulaweb.com/\n►¿QUIÉN SOY?: https://www.linkedin.com/in/edwin-ortiz-herazo-a3714a47?trk=nav_responsive_tab_profile",
+  "tags": [
+    "chatgpt vs claude",
+    "chatgpt vs claude excel",
+    "mejor ia para excel",
+    "chatgpt excel",
+    "claude excel",
+    "ia para excel",
+    "formulas con ia",
+    "python con ia",
+    "comparativa ia",
+    "inteligencia artificial",
+    "edwin o"
+  ],
+  "categoria": 27,
+  "idioma": "es",
+  "creado_para_ninos": false,
+  "contenido_sintetico": true,
+  "privacidad": "public",
+  "programar": "2027-01-12 07:00",
+  "playlist": "Excel con IA",
+  "archivo": "render/duelo-chatgpt-claude.mp4",
+  "miniatura": "miniatura.png",
+  "subtitulos": "audio/subtitulos.srt",
+  "shorts": [
+    {
+      "id": "short-1",
+      "titulo": "El código de ChatGPT FALLÓ (y el de Claude no) #shorts",
+      "descripcion": "Ejecuté el código de las dos IA con el mismo archivo. Video completo en el canal.",
+      "tags": [
+        "chatgpt vs claude",
+        "shorts"
+      ],
+      "programar": "2027-01-13 12:00",
+      "archivo": "render/short-1.mp4"
+    },
+    {
+      "id": "short-2",
+      "titulo": "ChatGPT vs Claude: EL MARCADOR #shorts",
+      "descripcion": "Claude 2 · ChatGPT 1 · 3 empates. La mejor IA es la que verificas. Video completo en el canal.",
+      "tags": [
+        "chatgpt vs claude",
+        "shorts"
+      ],
+      "programar": "2027-01-16 12:00",
+      "archivo": "render/short-2.mp4"
+    }
+  ]
+}

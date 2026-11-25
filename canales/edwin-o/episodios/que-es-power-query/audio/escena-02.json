@@ -1,0 +1,260 @@
+{
+  "num": "02",
+  "titulo": "Presentación",
+  "texto": "¡Bienvenidos, amigos del canal! Vamos en busca del poder tecnológico. Hoy te explico qué es Power Query, la herramienta de Excel que limpia tus datos sola. Vas a ver dónde está, cómo funciona por dentro, una limpieza completa paso a paso, y el momento mágico: actualizar todo con un clic.",
+  "texto_tts": "[excited] ¡Bienvenidos, amigos del canal! Vamos en busca del poder tecnológico. Hoy te explico qué es Power Query, la herramienta de Excel que limpia tus datos sola. Vas a ver dónde está, cómo funciona por dentro, una limpieza completa paso a paso, y el momento mágico: actualizar todo con un clic.",
+  "modelo": "eleven_v3",
+  "duracion": 23.36,
+  "palabras": [
+    {
+      "texto": "¡Bienvenidos,",
+      "inicio": 0.24,
+      "fin": 0.88
+    },
+    {
+      "texto": "amigos",
+      "inicio": 0.937,
+      "fin": 1.28
+    },
+    {
+      "texto": "del",
+      "inicio": 1.3,
+      "fin": 1.36
+    },
+    {
+      "texto": "canal!",
+      "inicio": 1.44,
+      "fin": 1.92
+    },
+    {
+      "texto": "Vamos",
+      "inicio": 2.2,
+      "fin": 2.88
+    },
+    {
+      "texto": "en",
+      "inicio": 2.987,
+      "fin": 3.2
+    },
+    {
+      "texto": "busca",
+      "inicio": 3.293,
+      "fin": 3.76
+    },
+    {
+      "texto": "del",
+      "inicio": 3.84,
+      "fin": 4.08
+    },
+    {
+      "texto": "poder",
+      "inicio": 4.147,
+      "fin": 4.48
+    },
+    {
+      "texto": "tecnológico.",
+      "inicio": 4.528,
+      "fin": 5.36
+    },
+    {
+      "texto": "Hoy",
+      "inicio": 5.56,
+      "fin": 6.16
+    },
+    {
+      "texto": "te",
+      "inicio": 6.187,
+      "fin": 6.24
+    },
+    {
+      "texto": "explico",
+      "inicio": 6.32,
+      "fin": 6.88
+    },
+    {
+      "texto": "qué",
+      "inicio": 6.98,
+      "fin": 7.28
+    },
+    {
+      "texto": "es",
+      "inicio": 7.387,
+      "fin": 7.6
+    },
+    {
+      "texto": "Power",
+      "inicio": 7.68,
+      "fin": 8.08
+    },
+    {
+      "texto": "Query,",
+      "inicio": 8.147,
+      "fin": 8.96
+    },
+    {
+      "texto": "la",
+      "inicio": 8.987,
+      "fin": 9.04
+    },
+    {
+      "texto": "herramienta",
+      "inicio": 9.091,
+      "fin": 9.68
+    },
+    {
+      "texto": "de",
+      "inicio": 9.707,
+      "fin": 9.76
+    },
+    {
+      "texto": "Excel",
+      "inicio": 9.84,
+      "fin": 10.24
+    },
+    {
+      "texto": "que",
+      "inicio": 10.32,
+      "fin": 10.56
+    },
+    {
+      "texto": "limpia",
+      "inicio": 10.64,
+      "fin": 11.04
+    },
+    {
+      "texto": "tus",
+      "inicio": 11.1,
+      "fin": 11.28
+    },
+    {
+      "texto": "datos",
+      "inicio": 11.347,
+      "fin": 11.68
+    },
+    {
+      "texto": "sola.",
+      "inicio": 11.808,
+      "fin": 12.64
+    },
+    {
+      "texto": "Vas",
+      "inicio": 12.76,
+      "fin": 13.12
+    },
+    {
+      "texto": "a",
+      "inicio": 13.16,
+      "fin": 13.2
+    },
+    {
+      "texto": "ver",
+      "inicio": 13.24,
+      "fin": 13.36
+    },
+    {
+      "texto": "dónde",
+      "inicio": 13.413,
+      "fin": 13.6
+    },
+    {
+      "texto": "está,",
+      "inicio": 13.68,
+      "fin": 14.08
+    },
+    {
+      "texto": "cómo",
+      "inicio": 14.208,
+      "fin": 14.72
+    },
+    {
+      "texto": "funciona",
+      "inicio": 14.773,
+      "fin": 15.2
+    },
+    {
+      "texto": "por",
+      "inicio": 15.26,
+      "fin": 15.44
+    },
+    {
+      "texto": "dentro,",
+      "inicio": 15.509,
+      "fin": 16.32
+    },
+    {
+      "texto": "una",
+      "inicio": 16.36,
+      "fin": 16.48
+    },
+    {
+      "texto": "limpieza",
+      "inicio": 16.54,
+      "fin": 17.04
+    },
+    {
+      "texto": "completa",
+      "inicio": 17.111,
+      "fin": 17.68
+    },
+    {
+      "texto": "paso",
+      "inicio": 17.776,
+      "fin": 18.16
+    },
+    {
+      "texto": "a",
+      "inicio": 18.24,
+      "fin": 18.32
+    },
+    {
+      "texto": "paso,",
+      "inicio": 18.4,
+      "fin": 18.8
+    },
+    {
+      "texto": "y",
+      "inicio": 19.0,
+      "fin": 19.2
+    },
+    {
+      "texto": "el",
+      "inicio": 19.253,
+      "fin": 19.36
+    },
+    {
+      "texto": "momento",
+      "inicio": 19.42,
+      "fin": 19.84
+    },
+    {
+      "texto": "mágico:",
+      "inicio": 19.88,
+      "fin": 20.4
+    },
+    {
+      "texto": "actualizar",
+      "inicio": 20.495,
+      "fin": 21.44
+    },
+    {
+      "texto": "todo",
+      "inicio": 21.584,
+      "fin": 22.16
+    },
+    {
+      "texto": "con",
+      "inicio": 22.28,
+      "fin": 22.64
+    },
+    {
+      "texto": "un",
+      "inicio": 22.667,
+      "fin": 22.72
+    },
+    {
+      "texto": "clic.",
+      "inicio": 22.816,
+      "fin": 23.36
+    }
+  ]
+}

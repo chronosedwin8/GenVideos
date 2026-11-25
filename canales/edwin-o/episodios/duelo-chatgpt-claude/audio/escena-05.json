@@ -1,0 +1,345 @@
+{
+  "num": "05",
+  "titulo": "El mensaje exacto",
+  "texto": "Así les pregunté, para que puedas repetir la prueba. Primero, mi versión de Excel y el separador punto y coma. Después, los datos de cada hoja, con su rango exacto, copiados tal cual, con el espacio escondido incluido. Y al final, las tres cosas que necesitaba, numeradas. Es la misma estructura del prompt del video anterior: si le das contexto, la inteligencia artificial no tiene que adivinar.",
+  "texto_tts": "Así les pregunté, para que puedas repetir la prueba. Primero, mi versión de Excel y el separador punto y coma. Después, los datos de cada hoja, con su rango exacto, copiados tal cual, con el espacio escondido incluido. Y al final, las tres cosas que necesitaba, numeradas. Es la misma estructura del prompt del video anterior: si le das contexto, la inteligencia artificial no tiene que adivinar.",
+  "modelo": "eleven_v3",
+  "duracion": 32.64,
+  "palabras": [
+    {
+      "texto": "Así",
+      "inicio": 0.0,
+      "fin": 0.36
+    },
+    {
+      "texto": "les",
+      "inicio": 0.39,
+      "fin": 0.48
+    },
+    {
+      "texto": "pregunté,",
+      "inicio": 0.528,
+      "fin": 1.28
+    },
+    {
+      "texto": "para",
+      "inicio": 1.328,
+      "fin": 1.52
+    },
+    {
+      "texto": "que",
+      "inicio": 1.56,
+      "fin": 1.68
+    },
+    {
+      "texto": "puedas",
+      "inicio": 1.728,
+      "fin": 2.0
+    },
+    {
+      "texto": "repetir",
+      "inicio": 2.067,
+      "fin": 2.56
+    },
+    {
+      "texto": "la",
+      "inicio": 2.613,
+      "fin": 2.72
+    },
+    {
+      "texto": "prueba.",
+      "inicio": 2.789,
+      "fin": 3.28
+    },
+    {
+      "texto": "Primero,",
+      "inicio": 3.488,
+      "fin": 4.64
+    },
+    {
+      "texto": "mi",
+      "inicio": 4.693,
+      "fin": 4.8
+    },
+    {
+      "texto": "versión",
+      "inicio": 4.86,
+      "fin": 5.28
+    },
+    {
+      "texto": "de",
+      "inicio": 5.307,
+      "fin": 5.36
+    },
+    {
+      "texto": "Excel",
+      "inicio": 5.44,
+      "fin": 5.84
+    },
+    {
+      "texto": "y",
+      "inicio": 6.16,
+      "fin": 6.48
+    },
+    {
+      "texto": "el",
+      "inicio": 6.507,
+      "fin": 6.56
+    },
+    {
+      "texto": "separador",
+      "inicio": 6.627,
+      "fin": 7.28
+    },
+    {
+      "texto": "punto",
+      "inicio": 7.347,
+      "fin": 7.68
+    },
+    {
+      "texto": "y",
+      "inicio": 7.72,
+      "fin": 7.76
+    },
+    {
+      "texto": "coma.",
+      "inicio": 7.84,
+      "fin": 8.24
+    },
+    {
+      "texto": "Después,",
+      "inicio": 8.5,
+      "fin": 10.04
+    },
+    {
+      "texto": "los",
+      "inicio": 10.13,
+      "fin": 10.4
+    },
+    {
+      "texto": "datos",
+      "inicio": 10.467,
+      "fin": 10.8
+    },
+    {
+      "texto": "de",
+      "inicio": 10.853,
+      "fin": 10.96
+    },
+    {
+      "texto": "cada",
+      "inicio": 11.024,
+      "fin": 11.28
+    },
+    {
+      "texto": "hoja,",
+      "inicio": 11.36,
+      "fin": 11.92
+    },
+    {
+      "texto": "con",
+      "inicio": 11.96,
+      "fin": 12.08
+    },
+    {
+      "texto": "su",
+      "inicio": 12.133,
+      "fin": 12.24
+    },
+    {
+      "texto": "rango",
+      "inicio": 12.32,
+      "fin": 12.64
+    },
+    {
+      "texto": "exacto,",
+      "inicio": 12.747,
+      "fin": 13.84
+    },
+    {
+      "texto": "copiados",
+      "inicio": 13.9,
+      "fin": 14.48
+    },
+    {
+      "texto": "tal",
+      "inicio": 14.54,
+      "fin": 14.72
+    },
+    {
+      "texto": "cual,",
+      "inicio": 14.8,
+      "fin": 15.36
+    },
+    {
+      "texto": "con",
+      "inicio": 15.46,
+      "fin": 15.76
+    },
+    {
+      "texto": "el",
+      "inicio": 15.813,
+      "fin": 15.92
+    },
+    {
+      "texto": "espacio",
+      "inicio": 15.98,
+      "fin": 16.4
+    },
+    {
+      "texto": "escondido",
+      "inicio": 16.453,
+      "fin": 17.04
+    },
+    {
+      "texto": "incluido.",
+      "inicio": 17.104,
+      "fin": 17.84
+    },
+    {
+      "texto": "Y",
+      "inicio": 18.24,
+      "fin": 18.64
+    },
+    {
+      "texto": "al",
+      "inicio": 18.693,
+      "fin": 18.8
+    },
+    {
+      "texto": "final,",
+      "inicio": 18.88,
+      "fin": 19.36
+    },
+    {
+      "texto": "las",
+      "inicio": 19.5,
+      "fin": 19.92
+    },
+    {
+      "texto": "tres",
+      "inicio": 19.984,
+      "fin": 20.24
+    },
+    {
+      "texto": "cosas",
+      "inicio": 20.307,
+      "fin": 20.64
+    },
+    {
+      "texto": "que",
+      "inicio": 20.68,
+      "fin": 20.8
+    },
+    {
+      "texto": "necesitaba,",
+      "inicio": 20.853,
+      "fin": 22.0
+    },
+    {
+      "texto": "numeradas.",
+      "inicio": 22.067,
+      "fin": 22.96
+    },
+    {
+      "texto": "Es",
+      "inicio": 23.307,
+      "fin": 24.0
+    },
+    {
+      "texto": "la",
+      "inicio": 24.027,
+      "fin": 24.08
+    },
+    {
+      "texto": "misma",
+      "inicio": 24.147,
+      "fin": 24.48
+    },
+    {
+      "texto": "estructura",
+      "inicio": 24.54,
+      "fin": 25.12
+    },
+    {
+      "texto": "del",
+      "inicio": 25.16,
+      "fin": 25.28
+    },
+    {
+      "texto": "prompt",
+      "inicio": 25.349,
+      "fin": 25.76
+    },
+    {
+      "texto": "del",
+      "inicio": 25.84,
+      "fin": 26.08
+    },
+    {
+      "texto": "video",
+      "inicio": 26.133,
+      "fin": 26.4
+    },
+    {
+      "texto": "anterior:",
+      "inicio": 26.471,
+      "fin": 27.76
+    },
+    {
+      "texto": "si",
+      "inicio": 27.813,
+      "fin": 27.92
+    },
+    {
+      "texto": "le",
+      "inicio": 27.973,
+      "fin": 28.08
+    },
+    {
+      "texto": "das",
+      "inicio": 28.14,
+      "fin": 28.32
+    },
+    {
+      "texto": "contexto,",
+      "inicio": 28.409,
+      "fin": 29.28
+    },
+    {
+      "texto": "la",
+      "inicio": 29.387,
+      "fin": 29.6
+    },
+    {
+      "texto": "inteligencia",
+      "inicio": 29.66,
+      "fin": 30.32
+    },
+    {
+      "texto": "artificial",
+      "inicio": 30.385,
+      "fin": 31.04
+    },
+    {
+      "texto": "no",
+      "inicio": 31.173,
+      "fin": 31.44
+    },
+    {
+      "texto": "tiene",
+      "inicio": 31.507,
+      "fin": 31.84
+    },
+    {
+      "texto": "que",
+      "inicio": 31.86,
+      "fin": 31.92
+    },
+    {
+      "texto": "adivinar.",
+      "inicio": 31.96,
+      "fin": 32.64
+    }
+  ]
+}

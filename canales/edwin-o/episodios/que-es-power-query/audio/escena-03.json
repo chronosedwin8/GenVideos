@@ -1,0 +1,345 @@
+{
+  "num": "03",
+  "titulo": "El caso",
+  "texto": "Power Query no es nuevo, pero hoy está en todas partes. Según Microsoft, está en Excel para Windows, para Mac y para la Web, y desde dos mil veinticinco la versión web ya puede actualizar consultas de orígenes con contraseña. Y algo que pocos saben: es el mismo motor que usa Power BI. Si lo aprendes en Excel, ya diste el primer paso como analista de datos.",
+  "texto_tts": "Power Query no es nuevo, pero hoy está en todas partes. Según Microsoft, está en Excel para Windows, para Mac y para la Web, y desde dos mil veinticinco la versión web ya puede actualizar consultas de orígenes con contraseña. Y algo que pocos saben: es el mismo motor que usa Power BI. Si lo aprendes en Excel, ya diste el primer paso como analista de datos.",
+  "modelo": "eleven_v3",
+  "duracion": 21.92,
+  "palabras": [
+    {
+      "texto": "Power",
+      "inicio": 0.0,
+      "fin": 0.24
+    },
+    {
+      "texto": "Query",
+      "inicio": 0.293,
+      "fin": 0.56
+    },
+    {
+      "texto": "no",
+      "inicio": 0.613,
+      "fin": 0.72
+    },
+    {
+      "texto": "es",
+      "inicio": 0.747,
+      "fin": 0.8
+    },
+    {
+      "texto": "nuevo,",
+      "inicio": 0.853,
+      "fin": 1.6
+    },
+    {
+      "texto": "pero",
+      "inicio": 1.632,
+      "fin": 1.76
+    },
+    {
+      "texto": "hoy",
+      "inicio": 1.8,
+      "fin": 1.92
+    },
+    {
+      "texto": "está",
+      "inicio": 1.952,
+      "fin": 2.08
+    },
+    {
+      "texto": "en",
+      "inicio": 2.133,
+      "fin": 2.24
+    },
+    {
+      "texto": "todas",
+      "inicio": 2.28,
+      "fin": 2.48
+    },
+    {
+      "texto": "partes.",
+      "inicio": 2.56,
+      "fin": 3.2
+    },
+    {
+      "texto": "Según",
+      "inicio": 3.32,
+      "fin": 3.76
+    },
+    {
+      "texto": "Microsoft,",
+      "inicio": 3.808,
+      "fin": 4.32
+    },
+    {
+      "texto": "está",
+      "inicio": 4.368,
+      "fin": 4.56
+    },
+    {
+      "texto": "en",
+      "inicio": 4.613,
+      "fin": 4.72
+    },
+    {
+      "texto": "Excel",
+      "inicio": 4.773,
+      "fin": 5.04
+    },
+    {
+      "texto": "para",
+      "inicio": 5.088,
+      "fin": 5.28
+    },
+    {
+      "texto": "Windows,",
+      "inicio": 5.35,
+      "fin": 5.92
+    },
+    {
+      "texto": "para",
+      "inicio": 5.952,
+      "fin": 6.08
+    },
+    {
+      "texto": "Mac",
+      "inicio": 6.18,
+      "fin": 6.48
+    },
+    {
+      "texto": "y",
+      "inicio": 6.6,
+      "fin": 6.72
+    },
+    {
+      "texto": "para",
+      "inicio": 6.752,
+      "fin": 6.88
+    },
+    {
+      "texto": "la",
+      "inicio": 6.933,
+      "fin": 7.04
+    },
+    {
+      "texto": "Web,",
+      "inicio": 7.12,
+      "fin": 7.84
+    },
+    {
+      "texto": "y",
+      "inicio": 7.88,
+      "fin": 7.92
+    },
+    {
+      "texto": "desde",
+      "inicio": 7.973,
+      "fin": 8.24
+    },
+    {
+      "texto": "dos",
+      "inicio": 8.28,
+      "fin": 8.4
+    },
+    {
+      "texto": "mil",
+      "inicio": 8.44,
+      "fin": 8.56
+    },
+    {
+      "texto": "veinticinco",
+      "inicio": 8.587,
+      "fin": 9.12
+    },
+    {
+      "texto": "la",
+      "inicio": 9.173,
+      "fin": 9.28
+    },
+    {
+      "texto": "versión",
+      "inicio": 9.32,
+      "fin": 9.6
+    },
+    {
+      "texto": "web",
+      "inicio": 9.68,
+      "fin": 9.92
+    },
+    {
+      "texto": "ya",
+      "inicio": 9.973,
+      "fin": 10.08
+    },
+    {
+      "texto": "puede",
+      "inicio": 10.12,
+      "fin": 10.32
+    },
+    {
+      "texto": "actualizar",
+      "inicio": 10.364,
+      "fin": 10.8
+    },
+    {
+      "texto": "consultas",
+      "inicio": 10.85,
+      "fin": 11.28
+    },
+    {
+      "texto": "de",
+      "inicio": 11.307,
+      "fin": 11.36
+    },
+    {
+      "texto": "orígenes",
+      "inicio": 11.413,
+      "fin": 11.84
+    },
+    {
+      "texto": "con",
+      "inicio": 11.88,
+      "fin": 12.0
+    },
+    {
+      "texto": "contraseña.",
+      "inicio": 12.073,
+      "fin": 13.2
+    },
+    {
+      "texto": "Y",
+      "inicio": 13.4,
+      "fin": 13.6
+    },
+    {
+      "texto": "algo",
+      "inicio": 13.632,
+      "fin": 13.76
+    },
+    {
+      "texto": "que",
+      "inicio": 13.8,
+      "fin": 13.92
+    },
+    {
+      "texto": "pocos",
+      "inicio": 13.96,
+      "fin": 14.24
+    },
+    {
+      "texto": "saben:",
+      "inicio": 14.28,
+      "fin": 14.64
+    },
+    {
+      "texto": "es",
+      "inicio": 14.827,
+      "fin": 15.2
+    },
+    {
+      "texto": "el",
+      "inicio": 15.227,
+      "fin": 15.28
+    },
+    {
+      "texto": "mismo",
+      "inicio": 15.347,
+      "fin": 15.68
+    },
+    {
+      "texto": "motor",
+      "inicio": 15.747,
+      "fin": 16.08
+    },
+    {
+      "texto": "que",
+      "inicio": 16.12,
+      "fin": 16.24
+    },
+    {
+      "texto": "usa",
+      "inicio": 16.32,
+      "fin": 16.56
+    },
+    {
+      "texto": "Power",
+      "inicio": 16.627,
+      "fin": 16.96
+    },
+    {
+      "texto": "BI.",
+      "inicio": 17.093,
+      "fin": 17.44
+    },
+    {
+      "texto": "Si",
+      "inicio": 17.653,
+      "fin": 18.08
+    },
+    {
+      "texto": "lo",
+      "inicio": 18.107,
+      "fin": 18.16
+    },
+    {
+      "texto": "aprendes",
+      "inicio": 18.206,
+      "fin": 18.56
+    },
+    {
+      "texto": "en",
+      "inicio": 18.613,
+      "fin": 18.72
+    },
+    {
+      "texto": "Excel,",
+      "inicio": 18.787,
+      "fin": 19.36
+    },
+    {
+      "texto": "ya",
+      "inicio": 19.413,
+      "fin": 19.52
+    },
+    {
+      "texto": "diste",
+      "inicio": 19.568,
+      "fin": 19.8
+    },
+    {
+      "texto": "el",
+      "inicio": 19.813,
+      "fin": 19.84
+    },
+    {
+      "texto": "primer",
+      "inicio": 19.886,
+      "fin": 20.16
+    },
+    {
+      "texto": "paso",
+      "inicio": 20.224,
+      "fin": 20.48
+    },
+    {
+      "texto": "como",
+      "inicio": 20.512,
+      "fin": 20.64
+    },
+    {
+      "texto": "analista",
+      "inicio": 20.688,
+      "fin": 21.12
+    },
+    {
+      "texto": "de",
+      "inicio": 21.147,
+      "fin": 21.2
+    },
+    {
+      "texto": "datos.",
+      "inicio": 21.28,
+      "fin": 21.92
+    }
+  ]
+}

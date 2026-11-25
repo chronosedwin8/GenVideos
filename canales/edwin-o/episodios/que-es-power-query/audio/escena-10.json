@@ -1,0 +1,210 @@
+{
+  "num": "10",
+  "titulo": "Paso 2: quita las filas en blanco",
+  "texto": "Paso dos: fuera las filas vacías. En la pestaña Inicio, abre Quitar filas, y elige Quitar filas en blanco. Listo, la fila vacía desapareció. Y mira el panel de la derecha: apareció un paso nuevo. Esa es la grabadora trabajando.",
+  "texto_tts": "Paso dos: fuera las filas vacías. En la pestaña Inicio, abre Quitar filas, y elige Quitar filas en blanco. Listo, la fila vacía desapareció. Y mira el panel de la derecha: apareció un paso nuevo. Esa es la grabadora trabajando.",
+  "modelo": "eleven_v3",
+  "duracion": 21.84,
+  "palabras": [
+    {
+      "texto": "Paso",
+      "inicio": 0.0,
+      "fin": 0.32
+    },
+    {
+      "texto": "dos:",
+      "inicio": 0.4,
+      "fin": 0.8
+    },
+    {
+      "texto": "fuera",
+      "inicio": 0.92,
+      "fin": 1.52
+    },
+    {
+      "texto": "las",
+      "inicio": 1.56,
+      "fin": 1.68
+    },
+    {
+      "texto": "filas",
+      "inicio": 1.74,
+      "fin": 2.0
+    },
+    {
+      "texto": "vacías.",
+      "inicio": 2.08,
+      "fin": 2.8
+    },
+    {
+      "texto": "En",
+      "inicio": 3.12,
+      "fin": 3.76
+    },
+    {
+      "texto": "la",
+      "inicio": 3.787,
+      "fin": 3.84
+    },
+    {
+      "texto": "pestaña",
+      "inicio": 3.88,
+      "fin": 4.4
+    },
+    {
+      "texto": "Inicio,",
+      "inicio": 4.533,
+      "fin": 5.68
+    },
+    {
+      "texto": "abre",
+      "inicio": 5.76,
+      "fin": 6.08
+    },
+    {
+      "texto": "Quitar",
+      "inicio": 6.2,
+      "fin": 6.64
+    },
+    {
+      "texto": "filas,",
+      "inicio": 6.72,
+      "fin": 7.44
+    },
+    {
+      "texto": "y",
+      "inicio": 7.8,
+      "fin": 8.16
+    },
+    {
+      "texto": "elige",
+      "inicio": 8.213,
+      "fin": 8.64
+    },
+    {
+      "texto": "Quitar",
+      "inicio": 8.76,
+      "fin": 9.2
+    },
+    {
+      "texto": "filas",
+      "inicio": 9.26,
+      "fin": 9.52
+    },
+    {
+      "texto": "en",
+      "inicio": 9.573,
+      "fin": 9.68
+    },
+    {
+      "texto": "blanco.",
+      "inicio": 9.749,
+      "fin": 10.32
+    },
+    {
+      "texto": "Listo,",
+      "inicio": 10.672,
+      "fin": 12.4
+    },
+    {
+      "texto": "la",
+      "inicio": 12.427,
+      "fin": 12.48
+    },
+    {
+      "texto": "fila",
+      "inicio": 12.544,
+      "fin": 12.8
+    },
+    {
+      "texto": "vacía",
+      "inicio": 12.88,
+      "fin": 13.36
+    },
+    {
+      "texto": "desapareció.",
+      "inicio": 13.44,
+      "fin": 14.64
+    },
+    {
+      "texto": "Y",
+      "inicio": 15.08,
+      "fin": 15.52
+    },
+    {
+      "texto": "mira",
+      "inicio": 15.56,
+      "fin": 15.76
+    },
+    {
+      "texto": "el",
+      "inicio": 15.813,
+      "fin": 15.92
+    },
+    {
+      "texto": "panel",
+      "inicio": 15.96,
+      "fin": 16.16
+    },
+    {
+      "texto": "de",
+      "inicio": 16.213,
+      "fin": 16.32
+    },
+    {
+      "texto": "la",
+      "inicio": 16.347,
+      "fin": 16.4
+    },
+    {
+      "texto": "derecha:",
+      "inicio": 16.448,
+      "fin": 16.96
+    },
+    {
+      "texto": "apareció",
+      "inicio": 17.093,
+      "fin": 18.0
+    },
+    {
+      "texto": "un",
+      "inicio": 18.08,
+      "fin": 18.24
+    },
+    {
+      "texto": "paso",
+      "inicio": 18.32,
+      "fin": 18.64
+    },
+    {
+      "texto": "nuevo.",
+      "inicio": 18.707,
+      "fin": 19.36
+    },
+    {
+      "texto": "Esa",
+      "inicio": 19.64,
+      "fin": 20.0
+    },
+    {
+      "texto": "es",
+      "inicio": 20.027,
+      "fin": 20.08
+    },
+    {
+      "texto": "la",
+      "inicio": 20.133,
+      "fin": 20.24
+    },
+    {
+      "texto": "grabadora",
+      "inicio": 20.288,
+      "fin": 20.8
+    },
+    {
+      "texto": "trabajando.",
+      "inicio": 20.869,
+      "fin": 21.84
+    }
+  ]
+}

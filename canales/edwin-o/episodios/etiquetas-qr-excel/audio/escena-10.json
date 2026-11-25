@@ -1,0 +1,235 @@
+{
+  "num": "10",
+  "titulo": "Paso 3: rellena todas las filas",
+  "texto": "Paso tres: arrastra la fórmula hasta la fila siete, y cada producto tendrá su QR. Si se ven pequeños, agranda las filas: en la pestaña Inicio, Formato, Alto de fila, y pon ochenta. La imagen se ajusta sola al tamaño de la celda, sin deformarse.",
+  "texto_tts": "Paso tres: arrastra la fórmula hasta la fila siete, y cada producto tendrá su QR. Si se ven pequeños, agranda las filas: en la pestaña Inicio, Formato, Alto de fila, y pon ochenta. La imagen se ajusta sola al tamaño de la celda, sin deformarse.",
+  "modelo": "eleven_v3",
+  "duracion": 23.52,
+  "palabras": [
+    {
+      "texto": "Paso",
+      "inicio": 0.0,
+      "fin": 0.32
+    },
+    {
+      "texto": "tres:",
+      "inicio": 0.416,
+      "fin": 0.88
+    },
+    {
+      "texto": "arrastra",
+      "inicio": 1.12,
+      "fin": 2.16
+    },
+    {
+      "texto": "la",
+      "inicio": 2.187,
+      "fin": 2.24
+    },
+    {
+      "texto": "fórmula",
+      "inicio": 2.32,
+      "fin": 2.88
+    },
+    {
+      "texto": "hasta",
+      "inicio": 2.96,
+      "fin": 3.36
+    },
+    {
+      "texto": "la",
+      "inicio": 3.387,
+      "fin": 3.44
+    },
+    {
+      "texto": "fila",
+      "inicio": 3.504,
+      "fin": 3.76
+    },
+    {
+      "texto": "siete,",
+      "inicio": 3.88,
+      "fin": 4.68
+    },
+    {
+      "texto": "y",
+      "inicio": 4.86,
+      "fin": 5.04
+    },
+    {
+      "texto": "cada",
+      "inicio": 5.12,
+      "fin": 5.44
+    },
+    {
+      "texto": "producto",
+      "inicio": 5.511,
+      "fin": 6.08
+    },
+    {
+      "texto": "tendrá",
+      "inicio": 6.16,
+      "fin": 6.56
+    },
+    {
+      "texto": "su",
+      "inicio": 6.64,
+      "fin": 6.8
+    },
+    {
+      "texto": "QR.",
+      "inicio": 6.987,
+      "fin": 7.52
+    },
+    {
+      "texto": "Si",
+      "inicio": 7.813,
+      "fin": 8.4
+    },
+    {
+      "texto": "se",
+      "inicio": 8.453,
+      "fin": 8.56
+    },
+    {
+      "texto": "ven",
+      "inicio": 8.62,
+      "fin": 8.8
+    },
+    {
+      "texto": "pequeños,",
+      "inicio": 8.853,
+      "fin": 9.6
+    },
+    {
+      "texto": "agranda",
+      "inicio": 9.68,
+      "fin": 10.08
+    },
+    {
+      "texto": "las",
+      "inicio": 10.12,
+      "fin": 10.24
+    },
+    {
+      "texto": "filas:",
+      "inicio": 10.32,
+      "fin": 11.04
+    },
+    {
+      "texto": "en",
+      "inicio": 11.2,
+      "fin": 11.52
+    },
+    {
+      "texto": "la",
+      "inicio": 11.547,
+      "fin": 11.6
+    },
+    {
+      "texto": "pestaña",
+      "inicio": 11.68,
+      "fin": 12.24
+    },
+    {
+      "texto": "Inicio,",
+      "inicio": 12.373,
+      "fin": 13.12
+    },
+    {
+      "texto": "Formato,",
+      "inicio": 13.28,
+      "fin": 14.64
+    },
+    {
+      "texto": "Alto",
+      "inicio": 14.752,
+      "fin": 15.2
+    },
+    {
+      "texto": "de",
+      "inicio": 15.253,
+      "fin": 15.36
+    },
+    {
+      "texto": "fila,",
+      "inicio": 15.456,
+      "fin": 16.08
+    },
+    {
+      "texto": "y",
+      "inicio": 16.2,
+      "fin": 16.32
+    },
+    {
+      "texto": "pon",
+      "inicio": 16.4,
+      "fin": 16.64
+    },
+    {
+      "texto": "ochenta.",
+      "inicio": 16.78,
+      "fin": 17.84
+    },
+    {
+      "texto": "La",
+      "inicio": 18.053,
+      "fin": 18.48
+    },
+    {
+      "texto": "imagen",
+      "inicio": 18.56,
+      "fin": 19.04
+    },
+    {
+      "texto": "se",
+      "inicio": 19.12,
+      "fin": 19.28
+    },
+    {
+      "texto": "ajusta",
+      "inicio": 19.347,
+      "fin": 19.76
+    },
+    {
+      "texto": "sola",
+      "inicio": 19.84,
+      "fin": 20.16
+    },
+    {
+      "texto": "al",
+      "inicio": 20.267,
+      "fin": 20.48
+    },
+    {
+      "texto": "tamaño",
+      "inicio": 20.549,
+      "fin": 20.96
+    },
+    {
+      "texto": "de",
+      "inicio": 20.987,
+      "fin": 21.04
+    },
+    {
+      "texto": "la",
+      "inicio": 21.093,
+      "fin": 21.2
+    },
+    {
+      "texto": "celda,",
+      "inicio": 21.28,
+      "fin": 22.08
+    },
+    {
+      "texto": "sin",
+      "inicio": 22.16,
+      "fin": 22.4
+    },
+    {
+      "texto": "deformarse.",
+      "inicio": 22.469,
+      "fin": 23.52
+    }
+  ]
+}

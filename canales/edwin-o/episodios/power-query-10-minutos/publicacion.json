@@ -1,0 +1,51 @@
+{
+  "titulo": "Domina Power Query en 10 minutos: 10 movimientos que usarás toda la vida",
+  "descripcion": "Convierte una tabla con los meses en columnas en un reporte de cumplimiento de metas por región con 10 movimientos de Power Query: rellenar, anular dinamización, dividir, columna personalizada, agrupar, combinar consultas y actualizar con un clic.\n\nEn este video aprenderás:\n✅ Rellenar hacia abajo\n✅ Anular dinamización de otras columnas\n✅ Nombres y tipos de datos\n✅ Dividir columna\n✅ Columna personalizada\n✅ Agrupar por (en una Referencia)\n✅ Combinar consultas (Externa izquierda)\n✅ Porcentaje de cumplimiento y Actualizar todo\n✅ El lenguaje M y Columna a partir de los ejemplos\n\nColumnas personalizadas del video:\nComisión = [Monto] * 0.05\nCumplimiento = [Monto] / [Meta]\nResultado: Norte 100,4 % · Sur 97,2 % · Centro 107,5 % (120 % al actualizar).\n\nCapítulos\n0:00 De meses en columnas a reporte\n0:39 Power Query sigue creciendo\n0:57 El peor formato para analizar\n1:13 Los datos\n1:38 3 reglas de oro\n2:08 1: Entra a Power Query\n2:30 2: Rellenar hacia abajo\n3:00 3: Anular dinamización\n3:24 4: Nombres y tipos\n3:51 5: Dividir columna\n4:12 6: Columna personalizada\n4:39 7: Agrupar por\n5:04 8: Combinar consultas\n5:29 9: % de cumplimiento\n5:57 10: Cargar y actualizar\n6:27 Tu receta completa\n6:50 El lenguaje M\n7:17 Bonus: columna a partir de ejemplos\n7:37 Si no te funcionó\n\n📊 Guías de Excel en el blog: https://www.edwinortiz.net/excel/\n🌐 Plantillas y cursos: https://www.edwinortiz.net\n\nFuentes\nMicrosoft Support, Acerca de Power Query en Excel: https://support.microsoft.com/es-es/office/acerca-de-power-query-en-excel-7104fbee-9e62-4cb9-a02e-5bfb1a6c536a\nMicrosoft Support, Combinar consultas: https://support.microsoft.com/es-es/office/combinar-consultas-power-query-fd157620-5470-4c0f-b132-7ca2616d17f9\nMicrosoft Support, Anular dinamización de columnas: https://support.microsoft.com/es-es/office/0f7bad4b-9ea1-49c1-9d95-f588221c7098\n\nLa voz de este video es la voz de Edwin, clonada con inteligencia artificial (ElevenLabs).\n\nVamos en busca del poder tecnológico. 🚀\n#Excel #PowerQuery #DataAnalyst\n\n🛒 Tienda de plantillas y recursos: https://www.edwinortiz.net/tienda/\n\nPuedes encontrar mucha más información en mi página web https://www.edwinortiz.net/ ademas también podrás ingresar a mi plataforma online de aprendizaje donde podrás realizar cursos acordes a tus necesidades en  https://www.miaulaweb.com/\n\nTe invito a que me sigas en twitter en @chronosedwin8  y en Instagram https://www.instagram.com/edwinortizherazo/\n\n\n►MI BLOG: https://www.edwinortiz.net/\n►AULA EN LINEA: https://aula.miaulaweb.com/\n►2do CANAL: https://www.youtube.com/user/chronosedwin8\n►FANPAGE: https://www.facebook.com/EdwinOrtizHerazo\n►TWITTER:https://twitter.com/chronosedwin8\n►MI EMPRESA: https://www.miaulaweb.com/\n►¿QUIÉN SOY?: https://www.linkedin.com/in/edwin-ortiz-herazo-a3714a47?trk=nav_responsive_tab_profile",
+  "tags": [
+    "power query tutorial",
+    "power query desde cero",
+    "anular dinamizacion de columnas",
+    "combinar consultas excel",
+    "agrupar por power query",
+    "rellenar hacia abajo excel",
+    "columna personalizada power query",
+    "lenguaje m",
+    "analista de datos",
+    "excel avanzado",
+    "edwin o"
+  ],
+  "categoria": 27,
+  "idioma": "es",
+  "creado_para_ninos": false,
+  "contenido_sintetico": true,
+  "privacidad": "public",
+  "programar": "2027-01-19 07:00",
+  "playlist": "Power Query y datos",
+  "archivo": "render/power-query-10-minutos.mp4",
+  "miniatura": "miniatura.png",
+  "subtitulos": "audio/subtitulos.srt",
+  "shorts": [
+    {
+      "id": "short-1",
+      "titulo": "¿Meses en columnas? ARRÉGLALO EN 1 CLIC #shorts",
+      "descripcion": "Power Query: Anular dinamización de otras columnas. Video completo en el canal.",
+      "tags": [
+        "power query",
+        "shorts"
+      ],
+      "programar": "2027-01-20 12:00",
+      "archivo": "render/short-1.mp4"
+    },
+    {
+      "id": "short-2",
+      "titulo": "Rellena celdas vacías CON POWER QUERY #shorts",
+      "descripcion": "Transformar → Rellenar → Abajo. Video completo en el canal.",
+      "tags": [
+        "power query",
+        "shorts"
+      ],
+      "programar": "2027-01-23 12:00",
+      "archivo": "render/short-2.mp4"
+    }
+  ]
+}

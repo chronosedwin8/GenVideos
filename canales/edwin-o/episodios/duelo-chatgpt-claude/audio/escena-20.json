@@ -1,0 +1,215 @@
+{
+  "num": "20",
+  "titulo": "Resumen",
+  "texto": "En resumen: en las fórmulas y los totales hubo empate. En el código y la revisión de datos ganó Claude. En rapidez ganó ChatGPT. Pero la mejor inteligencia artificial es la que tú verificas. Si no lo aprendes ahora, te extingues.",
+  "texto_tts": "En resumen: en las fórmulas y los totales hubo empate. En el código y la revisión de datos ganó Claude. En rapidez ganó ChatGPT. Pero la mejor inteligencia artificial es la que tú verificas. [serious] Si no lo aprendes ahora, te extingues.",
+  "modelo": "eleven_v3",
+  "duracion": 20.8,
+  "palabras": [
+    {
+      "texto": "En",
+      "inicio": 0.0,
+      "fin": 0.16
+    },
+    {
+      "texto": "resumen:",
+      "inicio": 0.22,
+      "fin": 0.88
+    },
+    {
+      "texto": "en",
+      "inicio": 0.933,
+      "fin": 1.04
+    },
+    {
+      "texto": "las",
+      "inicio": 1.08,
+      "fin": 1.2
+    },
+    {
+      "texto": "fórmulas",
+      "inicio": 1.24,
+      "fin": 1.84
+    },
+    {
+      "texto": "y",
+      "inicio": 1.96,
+      "fin": 2.08
+    },
+    {
+      "texto": "los",
+      "inicio": 2.12,
+      "fin": 2.24
+    },
+    {
+      "texto": "totales",
+      "inicio": 2.32,
+      "fin": 2.96
+    },
+    {
+      "texto": "hubo",
+      "inicio": 3.06,
+      "fin": 3.48
+    },
+    {
+      "texto": "empate.",
+      "inicio": 3.51,
+      "fin": 4.0
+    },
+    {
+      "texto": "En",
+      "inicio": 4.293,
+      "fin": 4.88
+    },
+    {
+      "texto": "el",
+      "inicio": 4.907,
+      "fin": 4.96
+    },
+    {
+      "texto": "código",
+      "inicio": 5.04,
+      "fin": 5.52
+    },
+    {
+      "texto": "y",
+      "inicio": 5.64,
+      "fin": 5.76
+    },
+    {
+      "texto": "la",
+      "inicio": 5.787,
+      "fin": 5.84
+    },
+    {
+      "texto": "revisión",
+      "inicio": 5.907,
+      "fin": 6.32
+    },
+    {
+      "texto": "de",
+      "inicio": 6.373,
+      "fin": 6.48
+    },
+    {
+      "texto": "datos",
+      "inicio": 6.587,
+      "fin": 7.12
+    },
+    {
+      "texto": "ganó",
+      "inicio": 7.22,
+      "fin": 7.6
+    },
+    {
+      "texto": "Claude.",
+      "inicio": 7.669,
+      "fin": 8.16
+    },
+    {
+      "texto": "En",
+      "inicio": 8.48,
+      "fin": 9.12
+    },
+    {
+      "texto": "rapidez",
+      "inicio": 9.189,
+      "fin": 10.0
+    },
+    {
+      "texto": "ganó",
+      "inicio": 10.14,
+      "fin": 10.64
+    },
+    {
+      "texto": "ChatGPT.",
+      "inicio": 10.736,
+      "fin": 11.6
+    },
+    {
+      "texto": "Pero",
+      "inicio": 11.808,
+      "fin": 12.64
+    },
+    {
+      "texto": "la",
+      "inicio": 12.667,
+      "fin": 12.72
+    },
+    {
+      "texto": "mejor",
+      "inicio": 12.8,
+      "fin": 13.2
+    },
+    {
+      "texto": "inteligencia",
+      "inicio": 13.27,
+      "fin": 14.0
+    },
+    {
+      "texto": "artificial",
+      "inicio": 14.08,
+      "fin": 14.88
+    },
+    {
+      "texto": "es",
+      "inicio": 15.067,
+      "fin": 15.44
+    },
+    {
+      "texto": "la",
+      "inicio": 15.493,
+      "fin": 15.6
+    },
+    {
+      "texto": "que",
+      "inicio": 15.64,
+      "fin": 15.76
+    },
+    {
+      "texto": "tú",
+      "inicio": 15.84,
+      "fin": 16.0
+    },
+    {
+      "texto": "verificas.",
+      "inicio": 16.14,
+      "fin": 17.28
+    },
+    {
+      "texto": "Si",
+      "inicio": 18.222,
+      "fin": 18.24
+    },
+    {
+      "texto": "no",
+      "inicio": 18.293,
+      "fin": 18.4
+    },
+    {
+      "texto": "lo",
+      "inicio": 18.427,
+      "fin": 18.48
+    },
+    {
+      "texto": "aprendes",
+      "inicio": 18.526,
+      "fin": 18.96
+    },
+    {
+      "texto": "ahora,",
+      "inicio": 19.027,
+      "fin": 20.0
+    },
+    {
+      "texto": "te",
+      "inicio": 20.027,
+      "fin": 20.08
+    },
+    {
+      "texto": "extingues.",
+      "inicio": 20.14,
+      "fin": 20.8
+    }
+  ]
+}

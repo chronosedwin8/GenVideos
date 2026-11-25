@@ -1,0 +1,305 @@
+{
+  "num": "17",
+  "titulo": "¿Es seguro?",
+  "texto": "¿Y la seguridad? Según la documentación, tu computador solo hace conexiones de salida por HTTPS y nunca abre puertos de entrada. Tus archivos y la ejecución se quedan en tu máquina, aunque la conversación sí se guarda en los servidores de Anthropic mientras está conectada. Y si quieres más protección, puedes exigir que solo se conecten dispositivos de confianza.",
+  "texto_tts": "¿Y la seguridad? Según la documentación, tu computador solo hace conexiones de salida por HTTPS y nunca abre puertos de entrada. Tus archivos y la ejecución se quedan en tu máquina, aunque la conversación sí se guarda en los servidores de Anthropic mientras está conectada. Y si quieres más protección, puedes exigir que solo se conecten dispositivos de confianza.",
+  "modelo": "eleven_v3",
+  "duracion": 24.72,
+  "palabras": [
+    {
+      "texto": "¿Y",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "la",
+      "inicio": 0.133,
+      "fin": 0.24
+    },
+    {
+      "texto": "seguridad?",
+      "inicio": 0.296,
+      "fin": 0.88
+    },
+    {
+      "texto": "Según",
+      "inicio": 1.08,
+      "fin": 1.76
+    },
+    {
+      "texto": "la",
+      "inicio": 1.813,
+      "fin": 1.92
+    },
+    {
+      "texto": "documentación,",
+      "inicio": 1.982,
+      "fin": 3.04
+    },
+    {
+      "texto": "tu",
+      "inicio": 3.067,
+      "fin": 3.12
+    },
+    {
+      "texto": "computador",
+      "inicio": 3.177,
+      "fin": 3.76
+    },
+    {
+      "texto": "solo",
+      "inicio": 3.84,
+      "fin": 4.16
+    },
+    {
+      "texto": "hace",
+      "inicio": 4.208,
+      "fin": 4.4
+    },
+    {
+      "texto": "conexiones",
+      "inicio": 4.467,
+      "fin": 5.04
+    },
+    {
+      "texto": "de",
+      "inicio": 5.067,
+      "fin": 5.12
+    },
+    {
+      "texto": "salida",
+      "inicio": 5.2,
+      "fin": 5.68
+    },
+    {
+      "texto": "por",
+      "inicio": 5.74,
+      "fin": 5.92
+    },
+    {
+      "texto": "HTTPS",
+      "inicio": 6.16,
+      "fin": 7.36
+    },
+    {
+      "texto": "y",
+      "inicio": 7.56,
+      "fin": 7.76
+    },
+    {
+      "texto": "nunca",
+      "inicio": 7.827,
+      "fin": 8.16
+    },
+    {
+      "texto": "abre",
+      "inicio": 8.208,
+      "fin": 8.4
+    },
+    {
+      "texto": "puertos",
+      "inicio": 8.453,
+      "fin": 8.8
+    },
+    {
+      "texto": "de",
+      "inicio": 8.827,
+      "fin": 8.88
+    },
+    {
+      "texto": "entrada.",
+      "inicio": 8.94,
+      "fin": 9.44
+    },
+    {
+      "texto": "Tus",
+      "inicio": 9.64,
+      "fin": 10.24
+    },
+    {
+      "texto": "archivos",
+      "inicio": 10.302,
+      "fin": 10.8
+    },
+    {
+      "texto": "y",
+      "inicio": 10.84,
+      "fin": 10.88
+    },
+    {
+      "texto": "la",
+      "inicio": 10.907,
+      "fin": 10.96
+    },
+    {
+      "texto": "ejecución",
+      "inicio": 11.008,
+      "fin": 11.68
+    },
+    {
+      "texto": "se",
+      "inicio": 11.76,
+      "fin": 11.92
+    },
+    {
+      "texto": "quedan",
+      "inicio": 11.968,
+      "fin": 12.24
+    },
+    {
+      "texto": "en",
+      "inicio": 12.267,
+      "fin": 12.32
+    },
+    {
+      "texto": "tu",
+      "inicio": 12.4,
+      "fin": 12.56
+    },
+    {
+      "texto": "máquina,",
+      "inicio": 12.64,
+      "fin": 13.44
+    },
+    {
+      "texto": "aunque",
+      "inicio": 13.486,
+      "fin": 13.76
+    },
+    {
+      "texto": "la",
+      "inicio": 13.787,
+      "fin": 13.84
+    },
+    {
+      "texto": "conversación",
+      "inicio": 13.89,
+      "fin": 14.8
+    },
+    {
+      "texto": "sí",
+      "inicio": 14.933,
+      "fin": 15.2
+    },
+    {
+      "texto": "se",
+      "inicio": 15.28,
+      "fin": 15.44
+    },
+    {
+      "texto": "guarda",
+      "inicio": 15.486,
+      "fin": 15.76
+    },
+    {
+      "texto": "en",
+      "inicio": 15.787,
+      "fin": 15.84
+    },
+    {
+      "texto": "los",
+      "inicio": 15.86,
+      "fin": 15.92
+    },
+    {
+      "texto": "servidores",
+      "inicio": 15.968,
+      "fin": 16.4
+    },
+    {
+      "texto": "de",
+      "inicio": 16.427,
+      "fin": 16.48
+    },
+    {
+      "texto": "Anthropic",
+      "inicio": 16.528,
+      "fin": 17.12
+    },
+    {
+      "texto": "mientras",
+      "inicio": 17.164,
+      "fin": 17.52
+    },
+    {
+      "texto": "está",
+      "inicio": 17.568,
+      "fin": 17.76
+    },
+    {
+      "texto": "conectada.",
+      "inicio": 17.817,
+      "fin": 18.56
+    },
+    {
+      "texto": "Y",
+      "inicio": 18.88,
+      "fin": 19.2
+    },
+    {
+      "texto": "si",
+      "inicio": 19.253,
+      "fin": 19.36
+    },
+    {
+      "texto": "quieres",
+      "inicio": 19.41,
+      "fin": 19.76
+    },
+    {
+      "texto": "más",
+      "inicio": 19.82,
+      "fin": 20.0
+    },
+    {
+      "texto": "protección,",
+      "inicio": 20.053,
+      "fin": 21.12
+    },
+    {
+      "texto": "puedes",
+      "inicio": 21.166,
+      "fin": 21.44
+    },
+    {
+      "texto": "exigir",
+      "inicio": 21.504,
+      "fin": 21.92
+    },
+    {
+      "texto": "que",
+      "inicio": 21.96,
+      "fin": 22.08
+    },
+    {
+      "texto": "solo",
+      "inicio": 22.16,
+      "fin": 22.48
+    },
+    {
+      "texto": "se",
+      "inicio": 22.533,
+      "fin": 22.64
+    },
+    {
+      "texto": "conecten",
+      "inicio": 22.697,
+      "fin": 23.12
+    },
+    {
+      "texto": "dispositivos",
+      "inicio": 23.173,
+      "fin": 23.84
+    },
+    {
+      "texto": "de",
+      "inicio": 23.867,
+      "fin": 23.92
+    },
+    {
+      "texto": "confianza.",
+      "inicio": 23.984,
+      "fin": 24.72
+    }
+  ]
+}

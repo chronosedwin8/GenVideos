@@ -1,0 +1,325 @@
+{
+  "num": "20",
+  "titulo": "Cierre y siguiente video",
+  "texto": "Y mira este QR: te lleva directo a mi tienda, en edwinortiz punto net, donde encuentras plantillas de Excel listas para usar; el enlace también está abajo. En el próximo video te explico qué es Power Query y para qué sirve: la herramienta que limpia tus datos sola. Suscríbete para no perdértelo. El poder de la tecnología te va a cambiar el mundo.",
+  "texto_tts": "Y mira este QR: te lleva directo a mi tienda, en edwinortiz punto net, donde encuentras plantillas de Excel listas para usar; el enlace también está abajo. En el próximo video te explico qué es Power Query y para qué sirve: la herramienta que limpia tus datos sola. Suscríbete para no perdértelo. [excited] El poder de la tecnología te va a cambiar el mundo.",
+  "modelo": "eleven_v3",
+  "duracion": 22.8,
+  "palabras": [
+    {
+      "texto": "Y",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "mira",
+      "inicio": 0.12,
+      "fin": 0.32
+    },
+    {
+      "texto": "este",
+      "inicio": 0.384,
+      "fin": 0.64
+    },
+    {
+      "texto": "QR:",
+      "inicio": 0.827,
+      "fin": 1.28
+    },
+    {
+      "texto": "te",
+      "inicio": 1.36,
+      "fin": 1.52
+    },
+    {
+      "texto": "lleva",
+      "inicio": 1.552,
+      "fin": 1.76
+    },
+    {
+      "texto": "directo",
+      "inicio": 1.829,
+      "fin": 2.32
+    },
+    {
+      "texto": "a",
+      "inicio": 2.44,
+      "fin": 2.56
+    },
+    {
+      "texto": "mi",
+      "inicio": 2.613,
+      "fin": 2.72
+    },
+    {
+      "texto": "tienda,",
+      "inicio": 2.773,
+      "fin": 3.36
+    },
+    {
+      "texto": "en",
+      "inicio": 3.413,
+      "fin": 3.52
+    },
+    {
+      "texto": "edwinortiz",
+      "inicio": 3.573,
+      "fin": 4.16
+    },
+    {
+      "texto": "punto",
+      "inicio": 4.213,
+      "fin": 4.48
+    },
+    {
+      "texto": "net,",
+      "inicio": 4.54,
+      "fin": 4.88
+    },
+    {
+      "texto": "donde",
+      "inicio": 4.973,
+      "fin": 5.44
+    },
+    {
+      "texto": "encuentras",
+      "inicio": 5.48,
+      "fin": 6.0
+    },
+    {
+      "texto": "plantillas",
+      "inicio": 6.053,
+      "fin": 6.56
+    },
+    {
+      "texto": "de",
+      "inicio": 6.587,
+      "fin": 6.64
+    },
+    {
+      "texto": "Excel",
+      "inicio": 6.707,
+      "fin": 7.04
+    },
+    {
+      "texto": "listas",
+      "inicio": 7.136,
+      "fin": 7.6
+    },
+    {
+      "texto": "para",
+      "inicio": 7.632,
+      "fin": 7.76
+    },
+    {
+      "texto": "usar;",
+      "inicio": 7.824,
+      "fin": 8.32
+    },
+    {
+      "texto": "el",
+      "inicio": 8.347,
+      "fin": 8.4
+    },
+    {
+      "texto": "enlace",
+      "inicio": 8.453,
+      "fin": 8.88
+    },
+    {
+      "texto": "también",
+      "inicio": 8.94,
+      "fin": 9.36
+    },
+    {
+      "texto": "está",
+      "inicio": 9.408,
+      "fin": 9.6
+    },
+    {
+      "texto": "abajo.",
+      "inicio": 9.627,
+      "fin": 10.4
+    },
+    {
+      "texto": "En",
+      "inicio": 10.507,
+      "fin": 10.72
+    },
+    {
+      "texto": "el",
+      "inicio": 10.773,
+      "fin": 10.88
+    },
+    {
+      "texto": "próximo",
+      "inicio": 10.93,
+      "fin": 11.28
+    },
+    {
+      "texto": "video",
+      "inicio": 11.333,
+      "fin": 11.6
+    },
+    {
+      "texto": "te",
+      "inicio": 11.627,
+      "fin": 11.68
+    },
+    {
+      "texto": "explico",
+      "inicio": 11.74,
+      "fin": 12.16
+    },
+    {
+      "texto": "qué",
+      "inicio": 12.22,
+      "fin": 12.4
+    },
+    {
+      "texto": "es",
+      "inicio": 12.453,
+      "fin": 12.56
+    },
+    {
+      "texto": "Power",
+      "inicio": 12.613,
+      "fin": 12.88
+    },
+    {
+      "texto": "Query",
+      "inicio": 12.96,
+      "fin": 13.36
+    },
+    {
+      "texto": "y",
+      "inicio": 13.44,
+      "fin": 13.52
+    },
+    {
+      "texto": "para",
+      "inicio": 13.568,
+      "fin": 13.76
+    },
+    {
+      "texto": "qué",
+      "inicio": 13.8,
+      "fin": 13.92
+    },
+    {
+      "texto": "sirve:",
+      "inicio": 14.0,
+      "fin": 14.8
+    },
+    {
+      "texto": "la",
+      "inicio": 14.827,
+      "fin": 14.88
+    },
+    {
+      "texto": "herramienta",
+      "inicio": 14.924,
+      "fin": 15.44
+    },
+    {
+      "texto": "que",
+      "inicio": 15.48,
+      "fin": 15.6
+    },
+    {
+      "texto": "limpia",
+      "inicio": 15.664,
+      "fin": 16.0
+    },
+    {
+      "texto": "tus",
+      "inicio": 16.04,
+      "fin": 16.16
+    },
+    {
+      "texto": "datos",
+      "inicio": 16.24,
+      "fin": 16.64
+    },
+    {
+      "texto": "sola.",
+      "inicio": 16.752,
+      "fin": 17.6
+    },
+    {
+      "texto": "Suscríbete",
+      "inicio": 17.7,
+      "fin": 18.4
+    },
+    {
+      "texto": "para",
+      "inicio": 18.464,
+      "fin": 18.72
+    },
+    {
+      "texto": "no",
+      "inicio": 18.773,
+      "fin": 18.88
+    },
+    {
+      "texto": "perdértelo.",
+      "inicio": 18.928,
+      "fin": 19.68
+    },
+    {
+      "texto": "El",
+      "inicio": 20.147,
+      "fin": 20.16
+    },
+    {
+      "texto": "poder",
+      "inicio": 20.227,
+      "fin": 20.56
+    },
+    {
+      "texto": "de",
+      "inicio": 20.587,
+      "fin": 20.64
+    },
+    {
+      "texto": "la",
+      "inicio": 20.693,
+      "fin": 20.8
+    },
+    {
+      "texto": "tecnología",
+      "inicio": 20.848,
+      "fin": 21.52
+    },
+    {
+      "texto": "te",
+      "inicio": 21.6,
+      "fin": 21.76
+    },
+    {
+      "texto": "va",
+      "inicio": 21.787,
+      "fin": 21.84
+    },
+    {
+      "texto": "a",
+      "inicio": 21.88,
+      "fin": 21.92
+    },
+    {
+      "texto": "cambiar",
+      "inicio": 21.97,
+      "fin": 22.32
+    },
+    {
+      "texto": "el",
+      "inicio": 22.347,
+      "fin": 22.4
+    },
+    {
+      "texto": "mundo.",
+      "inicio": 22.453,
+      "fin": 22.8
+    }
+  ]
+}

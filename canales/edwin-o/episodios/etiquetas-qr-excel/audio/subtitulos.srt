@@ -1,0 +1,923 @@
+1
+00:00:00,139 --> 00:00:02,480
+Seis etiquetas de inventario, cada una con
+
+2
+00:00:02,560 --> 00:00:04,560
+su código QR y su código de
+
+3
+00:00:04,592 --> 00:00:07,200
+barras, hechas en Excel en menos de
+
+4
+00:00:07,240 --> 00:00:08,000
+dos minutos.
+
+5
+00:00:08,200 --> 00:00:10,720
+Las escaneas con el celular y te
+
+6
+00:00:10,760 --> 00:00:12,800
+dicen qué es y dónde está.
+
+7
+00:00:13,020 --> 00:00:15,440
+Sin programas raros, sin pagar
+
+8
+00:00:15,500 --> 00:00:16,320
+licencias.
+
+9
+00:00:16,792 --> 00:00:19,200
+¡Bienvenidos, amigos del canal!
+
+10
+00:00:19,600 --> 00:00:22,320
+Vamos en busca del poder
+
+11
+00:00:22,400 --> 00:00:23,680
+tecnológico.
+
+12
+00:00:23,820 --> 00:00:26,720
+Hoy vas a crear códigos QR
+
+13
+00:00:26,840 --> 00:00:29,680
+y códigos de barras directamente en las
+
+14
+00:00:29,760 --> 00:00:32,440
+celdas de Excel, armar una hoja de
+
+15
+00:00:32,473 --> 00:00:35,200
+etiquetas lista para imprimir, y
+
+16
+00:00:35,280 --> 00:00:38,240
+usar un lector para buscar cualquier producto
+
+17
+00:00:38,400 --> 00:00:39,680
+en un segundo.
+
+18
+00:00:40,080 --> 00:00:40,960
+¿Por qué ahora?
+
+19
+00:00:41,020 --> 00:00:43,440
+Porque el mundo del comercio está cambiando
+
+20
+00:00:43,493 --> 00:00:44,880
+de código.
+
+21
+00:00:45,120 --> 00:00:47,840
+GS1, la organización que administra los
+
+22
+00:00:47,880 --> 00:00:50,640
+códigos de barras de los productos, impulsa
+
+23
+00:00:50,680 --> 00:00:53,200
+una iniciativa llamada Sunrise dos mil
+
+24
+00:00:53,253 --> 00:00:54,000
+veintisiete:
+
+25
+00:00:54,260 --> 00:00:57,200
+que las cajas registradoras puedan leer
+
+26
+00:00:57,280 --> 00:00:59,360
+códigos de dos dimensiones, como el
+
+27
+00:00:59,520 --> 00:01:02,320
+QR, para finales de dos mil veintisiete.
+
+28
+00:01:02,880 --> 00:01:05,360
+Y mientras llega ese momento, se
+
+29
+00:01:05,440 --> 00:01:06,720
+imprimen los dos.
+
+30
+00:01:06,944 --> 00:01:09,440
+Justo lo que vamos a hacer hoy.
+
+31
+00:01:09,840 --> 00:01:12,640
+Yo he desarrollado sistemas de inventario para
+
+32
+00:01:12,764 --> 00:01:15,680
+empresas y para colegios, y
+
+33
+00:01:15,733 --> 00:01:18,480
+te digo algo que aprendí:
+
+34
+00:01:18,533 --> 00:01:20,480
+el mejor programa no sirve si las
+
+35
+00:01:20,533 --> 00:01:22,280
+etiquetas están mal.
+
+36
+00:01:22,480 --> 00:01:24,640
+Si la etiqueta se borra o nadie
+
+37
+00:01:24,693 --> 00:01:26,880
+la puede leer, el inventario se cae.
+
+38
+00:01:27,100 --> 00:01:29,600
+Por eso me gusta tanto esta técnica:
+
+39
+00:01:29,653 --> 00:01:32,480
+etiquetas claras, legibles y
+
+40
+00:01:32,560 --> 00:01:34,080
+hechas en minutos.
+
+41
+00:01:34,480 --> 00:01:35,600
+Lo que necesitas:
+
+42
+00:01:35,707 --> 00:01:38,640
+Excel para Microsoft trescientos sesenta y
+
+43
+00:01:38,707 --> 00:01:41,520
+cinco o Excel dos mil veinticuatro, porque
+
+44
+00:01:41,560 --> 00:01:44,320
+vamos a usar la función IMAGEN,
+
+45
+00:01:44,560 --> 00:01:46,240
+y conexión a internet.
+
+46
+00:01:46,440 --> 00:01:49,040
+Excel no tiene una función de QR
+
+47
+00:01:49,120 --> 00:01:50,160
+propia:
+
+48
+00:01:50,187 --> 00:01:52,160
+lo que hacemos es pedirle la imagen
+
+49
+00:01:52,240 --> 00:01:54,120
+a un servicio gratuito.
+
+50
+00:01:54,293 --> 00:01:56,240
+Si tienes Excel dos mil veintiuno o
+
+51
+00:01:56,302 --> 00:01:59,040
+anterior, quédate, porque al final te doy
+
+52
+00:01:59,136 --> 00:02:00,000
+otra forma.
+
+53
+00:02:00,400 --> 00:02:01,440
+Estos son los datos:
+
+54
+00:02:01,760 --> 00:02:04,720
+un inventario con seis activos.
+
+55
+00:02:05,093 --> 00:02:08,080
+En la columna A está el código,
+
+56
+00:02:08,133 --> 00:02:10,480
+de INV cero cero uno a INV
+
+57
+00:02:10,640 --> 00:02:12,040
+cero cero seis.
+
+58
+00:02:12,240 --> 00:02:14,880
+En la B el producto, en la
+
+59
+00:02:15,080 --> 00:02:17,760
+C la ubicación y en la D
+
+60
+00:02:17,840 --> 00:02:18,640
+la cantidad.
+
+61
+00:02:18,940 --> 00:02:21,520
+Los códigos QR van a ir en
+
+62
+00:02:21,547 --> 00:02:24,400
+la columna F y los códigos de
+
+63
+00:02:24,448 --> 00:02:25,920
+barras en la G.
+
+64
+00:02:26,320 --> 00:02:27,040
+Paso uno:
+
+65
+00:02:27,253 --> 00:02:29,360
+tu primer código QR.
+
+66
+00:02:29,707 --> 00:02:31,840
+En la celda F2
+
+67
+00:02:32,027 --> 00:02:34,640
+escribe igual, IMAGEN,
+
+68
+00:02:34,832 --> 00:02:37,680
+abre paréntesis, y entre comillas
+
+69
+00:02:37,867 --> 00:02:40,720
+la dirección del servicio de códigos QR
+
+70
+00:02:40,820 --> 00:02:42,640
+que te dejo en la descripción.
+
+71
+00:02:42,777 --> 00:02:45,440
+Termina en data igual.
+
+72
+00:02:45,733 --> 00:02:48,480
+Cierra comillas, y con el ampersand
+
+73
+00:02:48,587 --> 00:02:50,640
+le pegas el código de la celda
+
+74
+00:02:50,920 --> 00:02:51,840
+A2.
+
+75
+00:02:52,053 --> 00:02:54,000
+Cierra paréntesis,
+
+76
+00:02:54,107 --> 00:02:56,160
+Enter… ¡Y ahí está tu
+
+77
+00:02:56,347 --> 00:02:58,480
+QR, dentro de la celda!
+
+78
+00:02:58,880 --> 00:03:01,040
+Entiende la fórmula, que es muy sencilla.
+
+79
+00:03:01,200 --> 00:03:04,080
+IMAGEN trae una
+
+80
+00:03:04,137 --> 00:03:06,320
+imagen de internet y la pone dentro
+
+81
+00:03:06,347 --> 00:03:07,600
+de la celda.
+
+82
+00:03:07,813 --> 00:03:09,920
+La dirección es de un generador de
+
+83
+00:03:10,187 --> 00:03:12,720
+QR gratuito:
+
+84
+00:03:12,848 --> 00:03:15,280
+size dice el tamaño en píxeles,
+
+85
+00:03:15,680 --> 00:03:17,440
+y lo que va después de data
+
+86
+00:03:17,573 --> 00:03:18,640
+es lo que va a guardar el
+
+87
+00:03:18,709 --> 00:03:19,760
+código.
+
+88
+00:03:20,080 --> 00:03:22,560
+Y con el ampersand A2,
+
+89
+00:03:22,704 --> 00:03:24,960
+cada fila genera el QR de su
+
+90
+00:03:25,006 --> 00:03:25,920
+propio producto.
+
+91
+00:03:26,320 --> 00:03:27,040
+Paso dos:
+
+92
+00:03:27,131 --> 00:03:28,960
+guarda más información.
+
+93
+00:03:29,280 --> 00:03:31,600
+Quiero que el QR diga el
+
+94
+00:03:31,680 --> 00:03:34,640
+código, el producto y la ubicación.
+
+95
+00:03:34,900 --> 00:03:37,760
+Uno los tres con ampersand
+
+96
+00:03:38,000 --> 00:03:39,520
+y una barra en medio.
+
+97
+00:03:39,568 --> 00:03:40,720
+Pero ojo:
+
+98
+00:03:40,740 --> 00:03:43,040
+las direcciones de internet no aceptan
+
+99
+00:03:43,100 --> 00:03:45,520
+espacios, por eso lo envuelvo en la
+
+100
+00:03:45,590 --> 00:03:46,080
+función
+
+101
+00:03:46,380 --> 00:03:49,360
+URLCODIF, que
+
+102
+00:03:49,400 --> 00:03:51,040
+los convierte a un formato que la
+
+103
+00:03:51,100 --> 00:03:51,920
+web entiende.
+
+104
+00:03:52,293 --> 00:03:55,280
+Ahora, si escaneas el QR con el
+
+105
+00:03:55,350 --> 00:03:58,000
+celular, te muestra los tres datos.
+
+106
+00:03:58,400 --> 00:03:59,280
+Paso tres:
+
+107
+00:03:59,520 --> 00:04:02,160
+arrastra la fórmula hasta la fila
+
+108
+00:04:02,280 --> 00:04:05,200
+siete, y cada producto tendrá su
+
+109
+00:04:05,387 --> 00:04:05,920
+QR.
+
+110
+00:04:06,213 --> 00:04:08,640
+Si se ven pequeños, agranda las
+
+111
+00:04:08,720 --> 00:04:09,440
+filas:
+
+112
+00:04:09,600 --> 00:04:11,520
+en la pestaña Inicio,
+
+113
+00:04:11,680 --> 00:04:14,480
+Formato, Alto de fila,
+
+114
+00:04:14,600 --> 00:04:16,240
+y pon ochenta.
+
+115
+00:04:16,453 --> 00:04:19,360
+La imagen se ajusta sola al tamaño
+
+116
+00:04:19,387 --> 00:04:21,920
+de la celda, sin deformarse.
+
+117
+00:04:22,320 --> 00:04:23,200
+Paso cuatro:
+
+118
+00:04:23,333 --> 00:04:24,720
+el código de barras.
+
+119
+00:04:24,987 --> 00:04:27,520
+Es la misma idea, con otro servicio
+
+120
+00:04:27,582 --> 00:04:28,160
+gratuito.
+
+121
+00:04:28,400 --> 00:04:30,960
+En G2 escribe IMAGEN
+
+122
+00:04:31,200 --> 00:04:33,440
+y la dirección del generador, también en
+
+123
+00:04:33,467 --> 00:04:34,320
+la descripción.
+
+124
+00:04:34,880 --> 00:04:37,760
+bcid igual code
+
+125
+00:04:37,840 --> 00:04:40,800
+ciento veintiocho es el tipo de código,
+
+126
+00:04:40,853 --> 00:04:42,400
+el más usado en inventarios.
+
+127
+00:04:42,640 --> 00:04:45,280
+Text es el código del producto,
+
+128
+00:04:45,640 --> 00:04:48,400
+y include text pone el número debajo
+
+129
+00:04:48,427 --> 00:04:50,720
+de las barras, para que también lo
+
+130
+00:04:50,773 --> 00:04:52,000
+pueda leer una persona.
+
+131
+00:04:52,580 --> 00:04:53,680
+Y así queda tu inventario:
+
+132
+00:04:53,824 --> 00:04:56,560
+cada activo con su código QR y
+
+133
+00:04:56,613 --> 00:04:59,520
+su código de barras, generados con dos
+
+134
+00:04:59,680 --> 00:05:00,560
+fórmulas.
+
+135
+00:05:00,773 --> 00:05:03,600
+Si mañana agregas un producto nuevo,
+
+136
+00:05:03,640 --> 00:05:05,040
+copias la fórmula en la fila de
+
+137
+00:05:05,093 --> 00:05:06,320
+abajo y listo.
+
+138
+00:05:06,600 --> 00:05:08,080
+Y si cambias el nombre o la
+
+139
+00:05:08,128 --> 00:05:10,560
+ubicación, el QR se actualiza
+
+140
+00:05:10,688 --> 00:05:11,280
+solo.
+
+141
+00:05:11,680 --> 00:05:12,480
+Paso cinco:
+
+142
+00:05:12,600 --> 00:05:14,640
+las etiquetas para imprimir.
+
+143
+00:05:14,933 --> 00:05:17,280
+Arma una hoja con una celda por
+
+144
+00:05:17,360 --> 00:05:18,240
+dato:
+
+145
+00:05:18,293 --> 00:05:20,640
+el QR, el código, el
+
+146
+00:05:20,720 --> 00:05:23,680
+producto, la ubicación y el código de
+
+147
+00:05:23,728 --> 00:05:26,240
+barras, con un borde punteado para
+
+148
+00:05:26,300 --> 00:05:27,040
+recortar.
+
+149
+00:05:27,333 --> 00:05:30,240
+En Diseño de página pon márgenes
+
+150
+00:05:30,300 --> 00:05:32,960
+estrechos, y ajusta todo a una
+
+151
+00:05:33,017 --> 00:05:34,080
+página de ancho.
+
+152
+00:05:34,453 --> 00:05:36,560
+Imprime en papel adhesivo,
+
+153
+00:05:36,720 --> 00:05:38,720
+recorta, y a pegar.
+
+154
+00:05:39,120 --> 00:05:39,840
+Nivel pro.
+
+155
+00:05:40,107 --> 00:05:42,720
+Si solo necesitas los QR en una
+
+156
+00:05:42,747 --> 00:05:45,680
+cuadrícula, hazlo con una sola fórmula.
+
+157
+00:05:45,893 --> 00:05:48,320
+Le pasas a IMAGEN todo el rango
+
+158
+00:05:48,373 --> 00:05:50,800
+de códigos de una vez, y lo
+
+159
+00:05:50,860 --> 00:05:53,840
+envuelves en AJUSTARFILAS con un tres.
+
+160
+00:05:54,027 --> 00:05:56,800
+Excel acomoda los seis QR
+
+161
+00:05:56,907 --> 00:05:58,160
+en filas de tres.
+
+162
+00:05:58,427 --> 00:06:00,960
+Agregas códigos y la cuadrícula
+
+163
+00:06:01,060 --> 00:06:02,400
+crece sola.
+
+164
+00:06:02,800 --> 00:06:04,240
+Y el truco que más me gusta.
+
+165
+00:06:04,480 --> 00:06:07,360
+Un lector de código de barras USB
+
+166
+00:06:07,502 --> 00:06:10,160
+funciona como un teclado:
+
+167
+00:06:10,213 --> 00:06:12,400
+escribe el código donde esté el cursor.
+
+168
+00:06:12,773 --> 00:06:15,040
+Así que en una hoja de consulta
+
+169
+00:06:15,280 --> 00:06:18,000
+pongo el cursor en B1, escaneo la
+
+170
+00:06:18,053 --> 00:06:20,480
+etiqueta… y BUSCARX me trae el
+
+171
+00:06:20,542 --> 00:06:23,360
+producto, la ubicación y la cantidad.
+
+172
+00:06:23,680 --> 00:06:26,320
+Si el código no existe, me dice
+
+173
+00:06:26,520 --> 00:06:27,360
+"No existe".
+
+174
+00:06:27,760 --> 00:06:29,520
+Una advertencia importante.
+
+175
+00:06:29,620 --> 00:06:32,000
+Con este método, el texto que pones
+
+176
+00:06:32,027 --> 00:06:34,240
+en el QR viaja a un servicio
+
+177
+00:06:34,309 --> 00:06:36,080
+externo para crear la imagen.
+
+178
+00:06:36,208 --> 00:06:38,480
+Para códigos y nombres de productos no
+
+179
+00:06:38,500 --> 00:06:39,360
+hay problema.
+
+180
+00:06:39,440 --> 00:06:41,920
+Pero no pongas ahí datos personales,
+
+181
+00:06:41,973 --> 00:06:44,720
+contraseñas ni información confidencial de tu
+
+182
+00:06:44,780 --> 00:06:45,360
+empresa.
+
+183
+00:06:45,472 --> 00:06:48,000
+Para eso, usa la opción sin internet
+
+184
+00:06:48,060 --> 00:06:49,200
+que te muestro ahora.
+
+185
+00:06:49,600 --> 00:06:51,280
+La opción sin internet:
+
+186
+00:06:51,340 --> 00:06:53,200
+una fuente de código de barras.
+
+187
+00:06:53,344 --> 00:06:56,320
+Descarga gratis la fuente Libre Barcode treinta
+
+188
+00:06:56,400 --> 00:06:58,640
+y nueve de Google Fonts e instálala.
+
+189
+00:06:58,880 --> 00:07:00,960
+En una celda escribe igual,
+
+190
+00:07:01,060 --> 00:07:03,840
+comillas, asterisco, comillas, ampersand
+
+191
+00:07:04,000 --> 00:07:06,800
+A2, ampersand, y otra vez el asterisco.
+
+192
+00:07:06,960 --> 00:07:09,200
+Los asteriscos marcan el inicio y el
+
+193
+00:07:09,280 --> 00:07:10,160
+fin del código.
+
+194
+00:07:10,352 --> 00:07:13,120
+Cambias la fuente de esa celda… y
+
+195
+00:07:13,147 --> 00:07:15,280
+el texto se convierte en barras.
+
+196
+00:07:15,408 --> 00:07:17,360
+Funciona en cualquier Excel.
+
+197
+00:07:17,760 --> 00:07:18,800
+Si no te funcionó:
+
+198
+00:07:18,900 --> 00:07:21,840
+numeral nombre significa que tu versión no
+
+199
+00:07:21,907 --> 00:07:24,400
+tiene la función IMAGEN; usa la
+
+200
+00:07:24,453 --> 00:07:24,960
+fuente.
+
+201
+00:07:25,280 --> 00:07:28,000
+Numeral conectar es un problema de
+
+202
+00:07:28,071 --> 00:07:28,800
+internet.
+
+203
+00:07:29,100 --> 00:07:32,080
+Numeral bloqueado aparece cuando tu
+
+204
+00:07:32,147 --> 00:07:34,880
+Excel tiene bloqueadas las imágenes vinculadas,
+
+205
+00:07:35,200 --> 00:07:36,960
+y se activa en el Centro de
+
+206
+00:07:37,024 --> 00:07:37,760
+confianza.
+
+207
+00:07:38,280 --> 00:07:40,640
+Y recuerda que la dirección debe empezar
+
+208
+00:07:40,700 --> 00:07:43,680
+con h t t p s, porque
+
+209
+00:07:43,760 --> 00:07:46,240
+Excel bloquea las direcciones que redirigen.
+
+210
+00:07:46,640 --> 00:07:47,720
+En resumen:
+
+211
+00:07:47,810 --> 00:07:50,480
+con IMAGEN y un servicio gratuito
+
+212
+00:07:50,560 --> 00:07:53,120
+creas códigos QR y de barras
+
+213
+00:07:53,189 --> 00:07:55,040
+dentro de las celdas.
+
+214
+00:07:55,180 --> 00:07:58,080
+Usa URLCODIF cuando el
+
+215
+00:07:58,173 --> 00:08:00,080
+texto lleve espacios.
+
+216
+00:08:00,400 --> 00:08:02,720
+Y con un lector USB y
+
+217
+00:08:02,800 --> 00:08:05,680
+BUSCARX, consultas cualquier
+
+218
+00:08:05,751 --> 00:08:08,200
+producto en un segundo.
+
+219
+00:08:08,862 --> 00:08:10,960
+Si no lo aprendes ahora, te
+
+220
+00:08:11,040 --> 00:08:12,000
+extingues.
+
+221
+00:08:12,400 --> 00:08:13,680
+Y mira este QR:
+
+222
+00:08:13,760 --> 00:08:15,920
+te lleva directo a mi tienda, en
+
+223
+00:08:15,973 --> 00:08:18,960
+edwinortiz punto net, donde encuentras plantillas
+
+224
+00:08:18,987 --> 00:08:21,280
+de Excel listas para usar; el enlace
+
+225
+00:08:21,340 --> 00:08:22,800
+también está abajo.
+
+226
+00:08:22,907 --> 00:08:24,800
+En el próximo video te explico qué
+
+227
+00:08:24,853 --> 00:08:27,200
+es Power Query y para qué sirve:
+
+228
+00:08:27,227 --> 00:08:30,000
+la herramienta que limpia tus datos sola.
+
+229
+00:08:30,100 --> 00:08:32,080
+Suscríbete para no perdértelo.
+
+230
+00:08:32,547 --> 00:08:34,240
+El poder de la tecnología te va
+
+231
+00:08:34,280 --> 00:08:35,200
+a cambiar el mundo.

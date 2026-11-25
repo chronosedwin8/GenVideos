@@ -1,0 +1,52 @@
+{
+  "titulo": "Combina datos en Excel con IA como un profesional (la varita mágica)",
+  "descripcion": "Con un buen prompt, la IA te da una fórmula que junta dos meses de ventas y trae el nombre y la ciudad de cada cliente. Te la explico pieza por pieza (APILARV, ESPACIOS, BUSCARX, APILARH), resolvemos el misterio del cliente fantasma y vemos otras 3 varitas: la IA dentro de Excel, Power Query y Python.\n\nEn este video aprenderás:\n✅ El prompt exacto (la varita)\n✅ La fórmula pieza por pieza\n✅ El cliente fantasma y el espacio invisible\n✅ Resumen por ciudad con AGRUPARPOR\n✅ La IA dentro de Excel, Power Query y Python\n✅ Las reglas del profesional\n\nFórmulas del video (probadas en Excel 365):\n=LET(datos;APILARV(Ene!A2:C7;Feb!A2:C7);ids;ESPACIOS(ELEGIRCOLS(datos;2));APILARH(ELEGIRCOLS(datos;1);ids;ELEGIRCOLS(datos;3);BUSCARX(ids;Clientes!A2:A6;Clientes!B2:B6;\"No encontrado\");BUSCARX(ids;Clientes!A2:A6;Clientes!C2:C6;\"No encontrado\")))\n=AGRUPARPOR(ELEGIRCOLS(A2#;5);ELEGIRCOLS(A2#;3);SUMA)\nRequiere Excel para Microsoft 365.\n\nCapítulos\n0:00 Tres hojas, una tabla\n0:52 2026: la IA entra a Excel\n1:20 El error número uno\n1:44 Los datos\n2:03 La varita: el prompt\n2:39 La fórmula de la IA\n2:56 Pieza 1: APILARV\n3:19 Pieza 2: ESPACIOS\n3:37 Pieza 3: BUSCARX\n4:03 Pieza 4: APILARH\n4:23 El resultado\n4:48 El misterio del cliente fantasma\n5:27 Bonus: resumen por ciudad\n5:59 Varita 2: la IA dentro de Excel\n6:23 Varita 3: Power Query\n6:41 Varita 4: Python\n7:03 Reglas del profesional\n7:31 Si no te funcionó\n\n📊 Guías de Excel en el blog: https://www.edwinortiz.net/excel/\n🌐 Plantillas y cursos: https://www.edwinortiz.net\n\nFuentes\nOpenAI, ChatGPT for Excel: https://openai.com/index/chatgpt-for-excel/\nClaude for Excel (Microsoft Marketplace): https://marketplace.microsoft.com/en-us/product/WA200009404\nMicrosoft Support, Combinar consultas (Power Query): https://support.microsoft.com/es-es/office/combinar-consultas-power-query-fd157620-5470-4c0f-b132-7ca2616d17f9\n\nLa voz de este video es la voz de Edwin, clonada con inteligencia artificial (ElevenLabs).\n\nVamos en busca del poder tecnológico. 🚀\n#Excel #InteligenciaArtificial #ChatGPT\n\n🛒 Tienda de plantillas y recursos: https://www.edwinortiz.net/tienda/\n\nPuedes encontrar mucha más información en mi página web https://www.edwinortiz.net/ ademas también podrás ingresar a mi plataforma online de aprendizaje donde podrás realizar cursos acordes a tus necesidades en  https://www.miaulaweb.com/\n\nTe invito a que me sigas en twitter en @chronosedwin8  y en Instagram https://www.instagram.com/edwinortizherazo/\n\n\n►MI BLOG: https://www.edwinortiz.net/\n►AULA EN LINEA: https://aula.miaulaweb.com/\n►2do CANAL: https://www.youtube.com/user/chronosedwin8\n►FANPAGE: https://www.facebook.com/EdwinOrtizHerazo\n►TWITTER:https://twitter.com/chronosedwin8\n►MI EMPRESA: https://www.miaulaweb.com/\n►¿QUIÉN SOY?: https://www.linkedin.com/in/edwin-ortiz-herazo-a3714a47?trk=nav_responsive_tab_profile",
+  "tags": [
+    "combinar datos excel",
+    "unir tablas excel",
+    "combinar hojas excel",
+    "excel con ia",
+    "chatgpt excel",
+    "apilarv excel",
+    "buscarx",
+    "prompt para excel",
+    "copilot excel",
+    "claude excel",
+    "analista de datos",
+    "edwin o"
+  ],
+  "categoria": 27,
+  "idioma": "es",
+  "creado_para_ninos": false,
+  "contenido_sintetico": true,
+  "privacidad": "public",
+  "programar": "2027-01-07 07:00",
+  "playlist": "Excel con IA",
+  "archivo": "render/combinar-datos-ia.mp4",
+  "miniatura": "miniatura.png",
+  "subtitulos": "audio/subtitulos.srt",
+  "shorts": [
+    {
+      "id": "short-1",
+      "titulo": "El misterio del CLIENTE FANTASMA en Excel 👻 #shorts",
+      "descripcion": "C-06 compró 820… pero no existe en Clientes. Video completo en el canal.",
+      "tags": [
+        "excel ia",
+        "shorts"
+      ],
+      "programar": "2027-01-08 12:00",
+      "archivo": "render/short-1.mp4"
+    },
+    {
+      "id": "short-2",
+      "titulo": "El prompt que COMBINA TUS DATOS en Excel #shorts",
+      "descripcion": "Versión, dónde están los datos, qué quieres y \"dime si ves problemas\". Video completo en el canal.",
+      "tags": [
+        "prompt excel",
+        "shorts"
+      ],
+      "programar": "2027-01-11 12:00",
+      "archivo": "render/short-2.mp4"
+    }
+  ]
+}

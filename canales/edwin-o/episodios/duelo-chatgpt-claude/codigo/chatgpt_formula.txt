@@ -1,0 +1,11 @@
+=LET(
+datos;APILARV(Ene!A2:C7;Feb!A2:C7);
+ids;ESPACIOS(ELEGIRCOLS(datos;2));
+APILARH(
+ELEGIRCOLS(datos;1);
+ids;
+ELEGIRCOLS(datos;3);
+BUSCARX(ids;Clientes!A2:A6;Clientes!B2:B6;"No encontrado");
+BUSCARX(ids;Clientes!A2:A6;Clientes!C2:C6;"No encontrado")
+)
+)

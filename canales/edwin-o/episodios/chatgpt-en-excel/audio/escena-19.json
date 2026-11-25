@@ -1,0 +1,280 @@
+{
+  "num": "19",
+  "titulo": "Si no te funcionó",
+  "texto": "Si no te funcionó: si no aparece en Complementos, puede que tu empresa tenga bloqueada la tienda; el administrador lo puede instalar por ti. Si te dice que se acabó el uso, es el límite del plan gratuito. Y si no hace lo que pediste, sé más específico, y menciona las hojas con arroba.",
+  "texto_tts": "Si no te funcionó: si no aparece en Complementos, puede que tu empresa tenga bloqueada la tienda; el administrador lo puede instalar por ti. Si te dice que se acabó el uso, es el límite del plan gratuito. Y si no hace lo que pediste, sé más específico, y menciona las hojas con arroba.",
+  "modelo": "eleven_v3",
+  "duracion": 19.92,
+  "palabras": [
+    {
+      "texto": "Si",
+      "inicio": 0.0,
+      "fin": 0.16
+    },
+    {
+      "texto": "no",
+      "inicio": 0.213,
+      "fin": 0.32
+    },
+    {
+      "texto": "te",
+      "inicio": 0.373,
+      "fin": 0.48
+    },
+    {
+      "texto": "funcionó:",
+      "inicio": 0.53,
+      "fin": 1.12
+    },
+    {
+      "texto": "si",
+      "inicio": 1.6,
+      "fin": 2.56
+    },
+    {
+      "texto": "no",
+      "inicio": 2.613,
+      "fin": 2.72
+    },
+    {
+      "texto": "aparece",
+      "inicio": 2.76,
+      "fin": 3.12
+    },
+    {
+      "texto": "en",
+      "inicio": 3.147,
+      "fin": 3.2
+    },
+    {
+      "texto": "Complementos,",
+      "inicio": 3.26,
+      "fin": 4.08
+    },
+    {
+      "texto": "puede",
+      "inicio": 4.12,
+      "fin": 4.32
+    },
+    {
+      "texto": "que",
+      "inicio": 4.34,
+      "fin": 4.4
+    },
+    {
+      "texto": "tu",
+      "inicio": 4.453,
+      "fin": 4.56
+    },
+    {
+      "texto": "empresa",
+      "inicio": 4.61,
+      "fin": 4.96
+    },
+    {
+      "texto": "tenga",
+      "inicio": 5.013,
+      "fin": 5.28
+    },
+    {
+      "texto": "bloqueada",
+      "inicio": 5.337,
+      "fin": 5.84
+    },
+    {
+      "texto": "la",
+      "inicio": 5.893,
+      "fin": 6.0
+    },
+    {
+      "texto": "tienda;",
+      "inicio": 6.053,
+      "fin": 6.64
+    },
+    {
+      "texto": "el",
+      "inicio": 6.827,
+      "fin": 7.2
+    },
+    {
+      "texto": "administrador",
+      "inicio": 7.248,
+      "fin": 7.92
+    },
+    {
+      "texto": "lo",
+      "inicio": 7.973,
+      "fin": 8.08
+    },
+    {
+      "texto": "puede",
+      "inicio": 8.107,
+      "fin": 8.24
+    },
+    {
+      "texto": "instalar",
+      "inicio": 8.288,
+      "fin": 8.64
+    },
+    {
+      "texto": "por",
+      "inicio": 8.7,
+      "fin": 8.88
+    },
+    {
+      "texto": "ti.",
+      "inicio": 8.96,
+      "fin": 9.28
+    },
+    {
+      "texto": "Si",
+      "inicio": 9.6,
+      "fin": 10.24
+    },
+    {
+      "texto": "te",
+      "inicio": 10.293,
+      "fin": 10.4
+    },
+    {
+      "texto": "dice",
+      "inicio": 10.464,
+      "fin": 10.72
+    },
+    {
+      "texto": "que",
+      "inicio": 10.76,
+      "fin": 10.88
+    },
+    {
+      "texto": "se",
+      "inicio": 10.907,
+      "fin": 10.96
+    },
+    {
+      "texto": "acabó",
+      "inicio": 11.024,
+      "fin": 11.36
+    },
+    {
+      "texto": "el",
+      "inicio": 11.387,
+      "fin": 11.44
+    },
+    {
+      "texto": "uso,",
+      "inicio": 11.52,
+      "fin": 12.0
+    },
+    {
+      "texto": "es",
+      "inicio": 12.053,
+      "fin": 12.16
+    },
+    {
+      "texto": "el",
+      "inicio": 12.187,
+      "fin": 12.24
+    },
+    {
+      "texto": "límite",
+      "inicio": 12.293,
+      "fin": 12.64
+    },
+    {
+      "texto": "del",
+      "inicio": 12.68,
+      "fin": 12.8
+    },
+    {
+      "texto": "plan",
+      "inicio": 12.848,
+      "fin": 13.04
+    },
+    {
+      "texto": "gratuito.",
+      "inicio": 13.102,
+      "fin": 13.76
+    },
+    {
+      "texto": "Y",
+      "inicio": 14.08,
+      "fin": 14.4
+    },
+    {
+      "texto": "si",
+      "inicio": 14.427,
+      "fin": 14.48
+    },
+    {
+      "texto": "no",
+      "inicio": 14.533,
+      "fin": 14.64
+    },
+    {
+      "texto": "hace",
+      "inicio": 14.688,
+      "fin": 14.88
+    },
+    {
+      "texto": "lo",
+      "inicio": 14.907,
+      "fin": 14.96
+    },
+    {
+      "texto": "que",
+      "inicio": 15.0,
+      "fin": 15.12
+    },
+    {
+      "texto": "pediste,",
+      "inicio": 15.18,
+      "fin": 15.84
+    },
+    {
+      "texto": "sé",
+      "inicio": 15.893,
+      "fin": 16.0
+    },
+    {
+      "texto": "más",
+      "inicio": 16.06,
+      "fin": 16.24
+    },
+    {
+      "texto": "específico,",
+      "inicio": 16.31,
+      "fin": 17.12
+    },
+    {
+      "texto": "y",
+      "inicio": 17.4,
+      "fin": 17.68
+    },
+    {
+      "texto": "menciona",
+      "inicio": 17.728,
+      "fin": 18.16
+    },
+    {
+      "texto": "las",
+      "inicio": 18.2,
+      "fin": 18.32
+    },
+    {
+      "texto": "hojas",
+      "inicio": 18.4,
+      "fin": 18.8
+    },
+    {
+      "texto": "con",
+      "inicio": 18.88,
+      "fin": 19.12
+    },
+    {
+      "texto": "arroba.",
+      "inicio": 19.253,
+      "fin": 19.92
+    }
+  ]
+}

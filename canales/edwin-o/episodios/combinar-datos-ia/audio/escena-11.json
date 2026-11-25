@@ -1,0 +1,240 @@
+{
+  "num": "11",
+  "titulo": "Pieza 4: APILARH arma la tabla",
+  "texto": "Pieza cuatro: APILARH pega las columnas una al lado de la otra: el pedido, el código limpio, el monto, el nombre y la ciudad. Pones los encabezados en la fila uno, la fórmula en A2, Enter… y la tabla se desborda sola hasta la fila trece.",
+  "texto_tts": "Pieza cuatro: APILARH pega las columnas una al lado de la otra: el pedido, el código limpio, el monto, el nombre y la ciudad. Pones los encabezados en la fila uno, la fórmula en A2, Enter… y la tabla se desborda sola hasta la fila trece.",
+  "modelo": "eleven_v3",
+  "duracion": 19.92,
+  "palabras": [
+    {
+      "texto": "Pieza",
+      "inicio": 0.0,
+      "fin": 0.24
+    },
+    {
+      "texto": "cuatro:",
+      "inicio": 0.309,
+      "fin": 0.88
+    },
+    {
+      "texto": "APILARH",
+      "inicio": 1.013,
+      "fin": 1.76
+    },
+    {
+      "texto": "pega",
+      "inicio": 2.08,
+      "fin": 2.56
+    },
+    {
+      "texto": "las",
+      "inicio": 2.6,
+      "fin": 2.72
+    },
+    {
+      "texto": "columnas",
+      "inicio": 2.777,
+      "fin": 3.36
+    },
+    {
+      "texto": "una",
+      "inicio": 3.46,
+      "fin": 3.76
+    },
+    {
+      "texto": "al",
+      "inicio": 3.84,
+      "fin": 4.0
+    },
+    {
+      "texto": "lado",
+      "inicio": 4.064,
+      "fin": 4.32
+    },
+    {
+      "texto": "de",
+      "inicio": 4.347,
+      "fin": 4.4
+    },
+    {
+      "texto": "la",
+      "inicio": 4.427,
+      "fin": 4.48
+    },
+    {
+      "texto": "otra:",
+      "inicio": 4.56,
+      "fin": 5.52
+    },
+    {
+      "texto": "el",
+      "inicio": 5.573,
+      "fin": 5.68
+    },
+    {
+      "texto": "pedido,",
+      "inicio": 5.76,
+      "fin": 6.72
+    },
+    {
+      "texto": "el",
+      "inicio": 6.747,
+      "fin": 6.8
+    },
+    {
+      "texto": "código",
+      "inicio": 6.857,
+      "fin": 7.2
+    },
+    {
+      "texto": "limpio,",
+      "inicio": 7.28,
+      "fin": 8.0
+    },
+    {
+      "texto": "el",
+      "inicio": 8.027,
+      "fin": 8.08
+    },
+    {
+      "texto": "monto,",
+      "inicio": 8.16,
+      "fin": 8.88
+    },
+    {
+      "texto": "el",
+      "inicio": 8.933,
+      "fin": 9.04
+    },
+    {
+      "texto": "nombre",
+      "inicio": 9.12,
+      "fin": 9.6
+    },
+    {
+      "texto": "y",
+      "inicio": 9.72,
+      "fin": 9.84
+    },
+    {
+      "texto": "la",
+      "inicio": 9.893,
+      "fin": 10.0
+    },
+    {
+      "texto": "ciudad.",
+      "inicio": 10.08,
+      "fin": 11.0
+    },
+    {
+      "texto": "Pones",
+      "inicio": 11.22,
+      "fin": 11.6
+    },
+    {
+      "texto": "los",
+      "inicio": 11.64,
+      "fin": 11.76
+    },
+    {
+      "texto": "encabezados",
+      "inicio": 11.82,
+      "fin": 12.4
+    },
+    {
+      "texto": "en",
+      "inicio": 12.427,
+      "fin": 12.48
+    },
+    {
+      "texto": "la",
+      "inicio": 12.533,
+      "fin": 12.64
+    },
+    {
+      "texto": "fila",
+      "inicio": 12.688,
+      "fin": 12.88
+    },
+    {
+      "texto": "uno,",
+      "inicio": 12.98,
+      "fin": 13.36
+    },
+    {
+      "texto": "la",
+      "inicio": 13.573,
+      "fin": 14.0
+    },
+    {
+      "texto": "fórmula",
+      "inicio": 14.08,
+      "fin": 14.48
+    },
+    {
+      "texto": "en",
+      "inicio": 14.533,
+      "fin": 14.64
+    },
+    {
+      "texto": "A2,",
+      "inicio": 14.76,
+      "fin": 15.76
+    },
+    {
+      "texto": "Enter…",
+      "inicio": 15.84,
+      "fin": 16.48
+    },
+    {
+      "texto": "y",
+      "inicio": 16.76,
+      "fin": 17.04
+    },
+    {
+      "texto": "la",
+      "inicio": 17.093,
+      "fin": 17.2
+    },
+    {
+      "texto": "tabla",
+      "inicio": 17.253,
+      "fin": 17.52
+    },
+    {
+      "texto": "se",
+      "inicio": 17.573,
+      "fin": 17.68
+    },
+    {
+      "texto": "desborda",
+      "inicio": 17.74,
+      "fin": 18.24
+    },
+    {
+      "texto": "sola",
+      "inicio": 18.32,
+      "fin": 18.64
+    },
+    {
+      "texto": "hasta",
+      "inicio": 18.707,
+      "fin": 19.04
+    },
+    {
+      "texto": "la",
+      "inicio": 19.067,
+      "fin": 19.12
+    },
+    {
+      "texto": "fila",
+      "inicio": 19.184,
+      "fin": 19.44
+    },
+    {
+      "texto": "trece.",
+      "inicio": 19.48,
+      "fin": 19.92
+    }
+  ]
+}

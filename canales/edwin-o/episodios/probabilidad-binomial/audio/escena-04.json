@@ -1,0 +1,280 @@
+{
+  "num": "04",
+  "titulo": "El aporte de Edwin",
+  "texto": "Yo soy licenciado en Matemáticas y Física, y te confieso algo: en el aula, la distribución binomial es el tema que más asusta. Muchas fórmulas, factoriales, combinaciones. Pero es de lo que más sirve en el trabajo. Y la buena noticia es que con Excel no tienes que hacer ni una cuenta a mano.",
+  "texto_tts": "Yo soy licenciado en Matemáticas y Física, y te confieso algo: en el aula, la distribución binomial es el tema que más asusta. Muchas fórmulas, factoriales, combinaciones. Pero es de lo que más sirve en el trabajo. Y la buena noticia es que con Excel no tienes que hacer ni una cuenta a mano.",
+  "modelo": "eleven_v3",
+  "duracion": 24.88,
+  "palabras": [
+    {
+      "texto": "Yo",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "soy",
+      "inicio": 0.14,
+      "fin": 0.32
+    },
+    {
+      "texto": "licenciado",
+      "inicio": 0.36,
+      "fin": 0.88
+    },
+    {
+      "texto": "en",
+      "inicio": 0.907,
+      "fin": 0.96
+    },
+    {
+      "texto": "Matemáticas",
+      "inicio": 1.02,
+      "fin": 1.84
+    },
+    {
+      "texto": "y",
+      "inicio": 1.96,
+      "fin": 2.08
+    },
+    {
+      "texto": "Física,",
+      "inicio": 2.12,
+      "fin": 3.44
+    },
+    {
+      "texto": "y",
+      "inicio": 3.48,
+      "fin": 3.52
+    },
+    {
+      "texto": "te",
+      "inicio": 3.573,
+      "fin": 3.68
+    },
+    {
+      "texto": "confieso",
+      "inicio": 3.728,
+      "fin": 4.4
+    },
+    {
+      "texto": "algo:",
+      "inicio": 4.448,
+      "fin": 4.72
+    },
+    {
+      "texto": "en",
+      "inicio": 5.013,
+      "fin": 5.6
+    },
+    {
+      "texto": "el",
+      "inicio": 5.627,
+      "fin": 5.68
+    },
+    {
+      "texto": "aula,",
+      "inicio": 5.76,
+      "fin": 6.48
+    },
+    {
+      "texto": "la",
+      "inicio": 6.533,
+      "fin": 6.64
+    },
+    {
+      "texto": "distribución",
+      "inicio": 6.69,
+      "fin": 7.36
+    },
+    {
+      "texto": "binomial",
+      "inicio": 7.42,
+      "fin": 8.16
+    },
+    {
+      "texto": "es",
+      "inicio": 8.293,
+      "fin": 8.56
+    },
+    {
+      "texto": "el",
+      "inicio": 8.613,
+      "fin": 8.72
+    },
+    {
+      "texto": "tema",
+      "inicio": 8.784,
+      "fin": 9.04
+    },
+    {
+      "texto": "que",
+      "inicio": 9.12,
+      "fin": 9.36
+    },
+    {
+      "texto": "más",
+      "inicio": 9.44,
+      "fin": 9.68
+    },
+    {
+      "texto": "asusta.",
+      "inicio": 9.787,
+      "fin": 10.48
+    },
+    {
+      "texto": "Muchas",
+      "inicio": 10.704,
+      "fin": 11.76
+    },
+    {
+      "texto": "fórmulas,",
+      "inicio": 11.8,
+      "fin": 12.56
+    },
+    {
+      "texto": "factoriales,",
+      "inicio": 12.617,
+      "fin": 13.68
+    },
+    {
+      "texto": "combinaciones.",
+      "inicio": 13.726,
+      "fin": 14.8
+    },
+    {
+      "texto": "Pero",
+      "inicio": 15.024,
+      "fin": 15.92
+    },
+    {
+      "texto": "es",
+      "inicio": 15.947,
+      "fin": 16.0
+    },
+    {
+      "texto": "de",
+      "inicio": 16.053,
+      "fin": 16.16
+    },
+    {
+      "texto": "lo",
+      "inicio": 16.187,
+      "fin": 16.24
+    },
+    {
+      "texto": "que",
+      "inicio": 16.3,
+      "fin": 16.48
+    },
+    {
+      "texto": "más",
+      "inicio": 16.58,
+      "fin": 16.88
+    },
+    {
+      "texto": "sirve",
+      "inicio": 16.98,
+      "fin": 17.36
+    },
+    {
+      "texto": "en",
+      "inicio": 17.413,
+      "fin": 17.52
+    },
+    {
+      "texto": "el",
+      "inicio": 17.547,
+      "fin": 17.6
+    },
+    {
+      "texto": "trabajo.",
+      "inicio": 17.68,
+      "fin": 18.8
+    },
+    {
+      "texto": "Y",
+      "inicio": 19.08,
+      "fin": 19.36
+    },
+    {
+      "texto": "la",
+      "inicio": 19.387,
+      "fin": 19.44
+    },
+    {
+      "texto": "buena",
+      "inicio": 19.48,
+      "fin": 19.68
+    },
+    {
+      "texto": "noticia",
+      "inicio": 19.76,
+      "fin": 20.32
+    },
+    {
+      "texto": "es",
+      "inicio": 20.453,
+      "fin": 20.72
+    },
+    {
+      "texto": "que",
+      "inicio": 20.74,
+      "fin": 20.8
+    },
+    {
+      "texto": "con",
+      "inicio": 20.86,
+      "fin": 21.04
+    },
+    {
+      "texto": "Excel",
+      "inicio": 21.147,
+      "fin": 21.68
+    },
+    {
+      "texto": "no",
+      "inicio": 21.787,
+      "fin": 22.0
+    },
+    {
+      "texto": "tienes",
+      "inicio": 22.046,
+      "fin": 22.32
+    },
+    {
+      "texto": "que",
+      "inicio": 22.34,
+      "fin": 22.4
+    },
+    {
+      "texto": "hacer",
+      "inicio": 22.467,
+      "fin": 22.8
+    },
+    {
+      "texto": "ni",
+      "inicio": 22.96,
+      "fin": 23.28
+    },
+    {
+      "texto": "una",
+      "inicio": 23.34,
+      "fin": 23.52
+    },
+    {
+      "texto": "cuenta",
+      "inicio": 23.623,
+      "fin": 24.24
+    },
+    {
+      "texto": "a",
+      "inicio": 24.36,
+      "fin": 24.48
+    },
+    {
+      "texto": "mano.",
+      "inicio": 24.56,
+      "fin": 24.88
+    }
+  ]
+}

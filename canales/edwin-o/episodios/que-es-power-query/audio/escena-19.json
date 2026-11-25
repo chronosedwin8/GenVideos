@@ -1,0 +1,360 @@
+{
+  "num": "19",
+  "titulo": "¿Qué más puede hacer?",
+  "texto": "¿Y qué más puede hacer? Muchísimo. Juntar cincuenta archivos de una carpeta en una sola tabla. Unir dos tablas, como ventas y clientes. Apilar los meses uno debajo del otro. Convertir columnas de meses en filas, para analizarlas. Traer tablas de una página web. Y lo que aprendas aquí, te sirve igual en Power BI. Varias de estas cosas las vamos a ver en los próximos videos de esta serie.",
+  "texto_tts": "¿Y qué más puede hacer? Muchísimo. Juntar cincuenta archivos de una carpeta en una sola tabla. Unir dos tablas, como ventas y clientes. Apilar los meses uno debajo del otro. Convertir columnas de meses en filas, para analizarlas. Traer tablas de una página web. Y lo que aprendas aquí, te sirve igual en Power BI. Varias de estas cosas las vamos a ver en los próximos videos de esta serie.",
+  "modelo": "eleven_v3",
+  "duracion": 34.64,
+  "palabras": [
+    {
+      "texto": "¿Y",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "qué",
+      "inicio": 0.14,
+      "fin": 0.32
+    },
+    {
+      "texto": "más",
+      "inicio": 0.38,
+      "fin": 0.56
+    },
+    {
+      "texto": "puede",
+      "inicio": 0.6,
+      "fin": 0.8
+    },
+    {
+      "texto": "hacer?",
+      "inicio": 0.867,
+      "fin": 1.44
+    },
+    {
+      "texto": "Muchísimo.",
+      "inicio": 1.488,
+      "fin": 2.24
+    },
+    {
+      "texto": "Juntar",
+      "inicio": 2.36,
+      "fin": 3.36
+    },
+    {
+      "texto": "cincuenta",
+      "inicio": 3.6,
+      "fin": 4.32
+    },
+    {
+      "texto": "archivos",
+      "inicio": 4.373,
+      "fin": 4.8
+    },
+    {
+      "texto": "de",
+      "inicio": 4.827,
+      "fin": 4.88
+    },
+    {
+      "texto": "una",
+      "inicio": 4.92,
+      "fin": 5.04
+    },
+    {
+      "texto": "carpeta",
+      "inicio": 5.104,
+      "fin": 5.68
+    },
+    {
+      "texto": "en",
+      "inicio": 5.76,
+      "fin": 5.92
+    },
+    {
+      "texto": "una",
+      "inicio": 5.98,
+      "fin": 6.16
+    },
+    {
+      "texto": "sola",
+      "inicio": 6.224,
+      "fin": 6.48
+    },
+    {
+      "texto": "tabla.",
+      "inicio": 6.56,
+      "fin": 7.2
+    },
+    {
+      "texto": "Unir",
+      "inicio": 7.44,
+      "fin": 8.08
+    },
+    {
+      "texto": "dos",
+      "inicio": 8.16,
+      "fin": 8.4
+    },
+    {
+      "texto": "tablas,",
+      "inicio": 8.48,
+      "fin": 9.52
+    },
+    {
+      "texto": "como",
+      "inicio": 9.6,
+      "fin": 9.92
+    },
+    {
+      "texto": "ventas",
+      "inicio": 10.0,
+      "fin": 10.48
+    },
+    {
+      "texto": "y",
+      "inicio": 10.52,
+      "fin": 10.56
+    },
+    {
+      "texto": "clientes.",
+      "inicio": 10.658,
+      "fin": 11.76
+    },
+    {
+      "texto": "Apilar",
+      "inicio": 12.0,
+      "fin": 12.8
+    },
+    {
+      "texto": "los",
+      "inicio": 12.84,
+      "fin": 12.96
+    },
+    {
+      "texto": "meses",
+      "inicio": 13.053,
+      "fin": 13.52
+    },
+    {
+      "texto": "uno",
+      "inicio": 13.62,
+      "fin": 13.92
+    },
+    {
+      "texto": "debajo",
+      "inicio": 13.98,
+      "fin": 14.32
+    },
+    {
+      "texto": "del",
+      "inicio": 14.38,
+      "fin": 14.56
+    },
+    {
+      "texto": "otro.",
+      "inicio": 14.624,
+      "fin": 15.12
+    },
+    {
+      "texto": "Convertir",
+      "inicio": 15.25,
+      "fin": 16.24
+    },
+    {
+      "texto": "columnas",
+      "inicio": 16.32,
+      "fin": 16.88
+    },
+    {
+      "texto": "de",
+      "inicio": 16.907,
+      "fin": 16.96
+    },
+    {
+      "texto": "meses",
+      "inicio": 17.067,
+      "fin": 17.6
+    },
+    {
+      "texto": "en",
+      "inicio": 17.733,
+      "fin": 18.0
+    },
+    {
+      "texto": "filas,",
+      "inicio": 18.1,
+      "fin": 19.04
+    },
+    {
+      "texto": "para",
+      "inicio": 19.12,
+      "fin": 19.44
+    },
+    {
+      "texto": "analizarlas.",
+      "inicio": 19.504,
+      "fin": 20.48
+    },
+    {
+      "texto": "Traer",
+      "inicio": 20.72,
+      "fin": 21.52
+    },
+    {
+      "texto": "tablas",
+      "inicio": 21.62,
+      "fin": 22.16
+    },
+    {
+      "texto": "de",
+      "inicio": 22.187,
+      "fin": 22.24
+    },
+    {
+      "texto": "una",
+      "inicio": 22.28,
+      "fin": 22.4
+    },
+    {
+      "texto": "página",
+      "inicio": 22.469,
+      "fin": 22.88
+    },
+    {
+      "texto": "web.",
+      "inicio": 22.98,
+      "fin": 23.52
+    },
+    {
+      "texto": "Y",
+      "inicio": 23.84,
+      "fin": 24.16
+    },
+    {
+      "texto": "lo",
+      "inicio": 24.213,
+      "fin": 24.32
+    },
+    {
+      "texto": "que",
+      "inicio": 24.34,
+      "fin": 24.4
+    },
+    {
+      "texto": "aprendas",
+      "inicio": 24.457,
+      "fin": 24.88
+    },
+    {
+      "texto": "aquí,",
+      "inicio": 24.96,
+      "fin": 25.36
+    },
+    {
+      "texto": "te",
+      "inicio": 25.573,
+      "fin": 26.0
+    },
+    {
+      "texto": "sirve",
+      "inicio": 26.08,
+      "fin": 26.48
+    },
+    {
+      "texto": "igual",
+      "inicio": 26.56,
+      "fin": 26.96
+    },
+    {
+      "texto": "en",
+      "inicio": 27.12,
+      "fin": 27.44
+    },
+    {
+      "texto": "Power",
+      "inicio": 27.52,
+      "fin": 27.92
+    },
+    {
+      "texto": "BI.",
+      "inicio": 28.053,
+      "fin": 28.4
+    },
+    {
+      "texto": "Varias",
+      "inicio": 28.656,
+      "fin": 29.76
+    },
+    {
+      "texto": "de",
+      "inicio": 29.787,
+      "fin": 29.84
+    },
+    {
+      "texto": "estas",
+      "inicio": 29.88,
+      "fin": 30.08
+    },
+    {
+      "texto": "cosas",
+      "inicio": 30.213,
+      "fin": 30.88
+    },
+    {
+      "texto": "las",
+      "inicio": 30.92,
+      "fin": 31.04
+    },
+    {
+      "texto": "vamos",
+      "inicio": 31.093,
+      "fin": 31.36
+    },
+    {
+      "texto": "a",
+      "inicio": 31.4,
+      "fin": 31.44
+    },
+    {
+      "texto": "ver",
+      "inicio": 31.5,
+      "fin": 31.68
+    },
+    {
+      "texto": "en",
+      "inicio": 31.813,
+      "fin": 32.08
+    },
+    {
+      "texto": "los",
+      "inicio": 32.12,
+      "fin": 32.24
+    },
+    {
+      "texto": "próximos",
+      "inicio": 32.3,
+      "fin": 32.8
+    },
+    {
+      "texto": "videos",
+      "inicio": 32.869,
+      "fin": 33.28
+    },
+    {
+      "texto": "de",
+      "inicio": 33.413,
+      "fin": 33.68
+    },
+    {
+      "texto": "esta",
+      "inicio": 33.744,
+      "fin": 34.0
+    },
+    {
+      "texto": "serie.",
+      "inicio": 34.067,
+      "fin": 34.64
+    }
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "num": "09",
+  "titulo": "Tarea 2: el resumen por categoría",
+  "texto": "Tarea dos: el resumen. Le pido: crea una hoja Resumen, con el total por categoría y su porcentaje. Resultado: Oficina, trescientos treinta mil, casi la mitad del gasto. Alimentación, doscientos quince mil. Transporte, ciento cinco mil. Y Tecnología, setenta y cinco mil. Y un detalle: pídele que lo haga con fórmulas, no con números pegados, así el resumen se actualiza si cambian los datos.",
+  "texto_tts": "Tarea dos: el resumen. Le pido: crea una hoja Resumen, con el total por categoría y su porcentaje. Resultado: Oficina, trescientos treinta mil, casi la mitad del gasto. Alimentación, doscientos quince mil. Transporte, ciento cinco mil. Y Tecnología, setenta y cinco mil. Y un detalle: pídele que lo haga con fórmulas, no con números pegados, así el resumen se actualiza si cambian los datos.",
+  "modelo": "eleven_v3",
+  "duracion": 31.28,
+  "palabras": [
+    {
+      "texto": "Tarea",
+      "inicio": 0.0,
+      "fin": 0.32
+    },
+    {
+      "texto": "dos:",
+      "inicio": 0.42,
+      "fin": 0.8
+    },
+    {
+      "texto": "el",
+      "inicio": 0.907,
+      "fin": 1.12
+    },
+    {
+      "texto": "resumen.",
+      "inicio": 1.18,
+      "fin": 1.76
+    },
+    {
+      "texto": "Le",
+      "inicio": 1.867,
+      "fin": 2.08
+    },
+    {
+      "texto": "pido:",
+      "inicio": 2.16,
+      "fin": 2.56
+    },
+    {
+      "texto": "crea",
+      "inicio": 2.736,
+      "fin": 3.44
+    },
+    {
+      "texto": "una",
+      "inicio": 3.52,
+      "fin": 3.76
+    },
+    {
+      "texto": "hoja",
+      "inicio": 3.84,
+      "fin": 4.16
+    },
+    {
+      "texto": "Resumen,",
+      "inicio": 4.24,
+      "fin": 5.12
+    },
+    {
+      "texto": "con",
+      "inicio": 5.16,
+      "fin": 5.28
+    },
+    {
+      "texto": "el",
+      "inicio": 5.307,
+      "fin": 5.36
+    },
+    {
+      "texto": "total",
+      "inicio": 5.44,
+      "fin": 5.84
+    },
+    {
+      "texto": "por",
+      "inicio": 5.9,
+      "fin": 6.08
+    },
+    {
+      "texto": "categoría",
+      "inicio": 6.14,
+      "fin": 6.8
+    },
+    {
+      "texto": "y",
+      "inicio": 6.92,
+      "fin": 7.04
+    },
+    {
+      "texto": "su",
+      "inicio": 7.093,
+      "fin": 7.2
+    },
+    {
+      "texto": "porcentaje.",
+      "inicio": 7.26,
+      "fin": 8.16
+    },
+    {
+      "texto": "Resultado:",
+      "inicio": 8.366,
+      "fin": 10.0
+    },
+    {
+      "texto": "Oficina,",
+      "inicio": 10.32,
+      "fin": 11.44
+    },
+    {
+      "texto": "trescientos",
+      "inicio": 11.504,
+      "fin": 12.0
+    },
+    {
+      "texto": "treinta",
+      "inicio": 12.06,
+      "fin": 12.4
+    },
+    {
+      "texto": "mil,",
+      "inicio": 12.48,
+      "fin": 13.12
+    },
+    {
+      "texto": "casi",
+      "inicio": 13.184,
+      "fin": 13.44
+    },
+    {
+      "texto": "la",
+      "inicio": 13.467,
+      "fin": 13.52
+    },
+    {
+      "texto": "mitad",
+      "inicio": 13.58,
+      "fin": 13.84
+    },
+    {
+      "texto": "del",
+      "inicio": 13.88,
+      "fin": 14.0
+    },
+    {
+      "texto": "gasto.",
+      "inicio": 14.04,
+      "fin": 14.64
+    },
+    {
+      "texto": "Alimentación,",
+      "inicio": 14.88,
+      "fin": 16.24
+    },
+    {
+      "texto": "doscientos",
+      "inicio": 16.3,
+      "fin": 16.72
+    },
+    {
+      "texto": "quince",
+      "inicio": 16.773,
+      "fin": 17.12
+    },
+    {
+      "texto": "mil.",
+      "inicio": 17.18,
+      "fin": 17.76
+    },
+    {
+      "texto": "Transporte,",
+      "inicio": 17.84,
+      "fin": 18.88
+    },
+    {
+      "texto": "ciento",
+      "inicio": 18.92,
+      "fin": 19.2
+    },
+    {
+      "texto": "cinco",
+      "inicio": 19.267,
+      "fin": 19.6
+    },
+    {
+      "texto": "mil.",
+      "inicio": 19.68,
+      "fin": 20.4
+    },
+    {
+      "texto": "Y",
+      "inicio": 20.44,
+      "fin": 20.48
+    },
+    {
+      "texto": "Tecnología,",
+      "inicio": 20.544,
+      "fin": 21.36
+    },
+    {
+      "texto": "setenta",
+      "inicio": 21.42,
+      "fin": 21.76
+    },
+    {
+      "texto": "y",
+      "inicio": 21.84,
+      "fin": 21.92
+    },
+    {
+      "texto": "cinco",
+      "inicio": 21.973,
+      "fin": 22.24
+    },
+    {
+      "texto": "mil.",
+      "inicio": 22.32,
+      "fin": 22.8
+    },
+    {
+      "texto": "Y",
+      "inicio": 23.08,
+      "fin": 23.36
+    },
+    {
+      "texto": "un",
+      "inicio": 23.413,
+      "fin": 23.52
+    },
+    {
+      "texto": "detalle:",
+      "inicio": 23.58,
+      "fin": 24.08
+    },
+    {
+      "texto": "pídele",
+      "inicio": 24.36,
+      "fin": 24.96
+    },
+    {
+      "texto": "que",
+      "inicio": 25.0,
+      "fin": 25.12
+    },
+    {
+      "texto": "lo",
+      "inicio": 25.147,
+      "fin": 25.2
+    },
+    {
+      "texto": "haga",
+      "inicio": 25.24,
+      "fin": 25.44
+    },
+    {
+      "texto": "con",
+      "inicio": 25.5,
+      "fin": 25.68
+    },
+    {
+      "texto": "fórmulas,",
+      "inicio": 25.76,
+      "fin": 26.48
+    },
+    {
+      "texto": "no",
+      "inicio": 26.533,
+      "fin": 26.64
+    },
+    {
+      "texto": "con",
+      "inicio": 26.68,
+      "fin": 26.8
+    },
+    {
+      "texto": "números",
+      "inicio": 26.85,
+      "fin": 27.2
+    },
+    {
+      "texto": "pegados,",
+      "inicio": 27.26,
+      "fin": 28.24
+    },
+    {
+      "texto": "así",
+      "inicio": 28.32,
+      "fin": 28.56
+    },
+    {
+      "texto": "el",
+      "inicio": 28.587,
+      "fin": 28.64
+    },
+    {
+      "texto": "resumen",
+      "inicio": 28.7,
+      "fin": 29.12
+    },
+    {
+      "texto": "se",
+      "inicio": 29.173,
+      "fin": 29.28
+    },
+    {
+      "texto": "actualiza",
+      "inicio": 29.326,
+      "fin": 29.84
+    },
+    {
+      "texto": "si",
+      "inicio": 29.893,
+      "fin": 30.0
+    },
+    {
+      "texto": "cambian",
+      "inicio": 30.048,
+      "fin": 30.4
+    },
+    {
+      "texto": "los",
+      "inicio": 30.44,
+      "fin": 30.56
+    },
+    {
+      "texto": "datos.",
+      "inicio": 30.64,
+      "fin": 31.28
+    }
+  ]
+}

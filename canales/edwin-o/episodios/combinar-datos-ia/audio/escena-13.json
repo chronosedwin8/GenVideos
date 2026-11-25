@@ -1,0 +1,385 @@
+{
+  "num": "13",
+  "titulo": "El misterio del cliente fantasma",
+  "texto": "Aquí está el misterio. El cliente C cero seis compró ochocientos veinte, pero no existe en la lista de clientes: es un cliente fantasma, y alguien tiene que registrarlo. Y la IA encontró algo más: en febrero, el código C cero dos tenía un espacio invisible al final. Sin la función ESPACIOS, ese pedido de seiscientos cuarenta se habría perdido, y Medellín habría salido con tres mil trescientos ochenta en vez de cuatro mil veinte.",
+  "texto_tts": "Aquí está el misterio. El cliente C cero seis compró ochocientos veinte, pero no existe en la lista de clientes: es un cliente fantasma, y alguien tiene que registrarlo. Y la IA encontró algo más: en febrero, el código C cero dos tenía un espacio invisible al final. Sin la función ESPACIOS, ese pedido de seiscientos cuarenta se habría perdido, y Medellín habría salido con tres mil trescientos ochenta en vez de cuatro mil veinte.",
+  "modelo": "eleven_v3",
+  "duracion": 38.0,
+  "palabras": [
+    {
+      "texto": "Aquí",
+      "inicio": 0.0,
+      "fin": 0.36
+    },
+    {
+      "texto": "está",
+      "inicio": 0.384,
+      "fin": 0.48
+    },
+    {
+      "texto": "el",
+      "inicio": 0.507,
+      "fin": 0.56
+    },
+    {
+      "texto": "misterio.",
+      "inicio": 0.66,
+      "fin": 1.52
+    },
+    {
+      "texto": "El",
+      "inicio": 1.653,
+      "fin": 1.92
+    },
+    {
+      "texto": "cliente",
+      "inicio": 1.99,
+      "fin": 2.48
+    },
+    {
+      "texto": "C",
+      "inicio": 2.6,
+      "fin": 2.72
+    },
+    {
+      "texto": "cero",
+      "inicio": 2.8,
+      "fin": 2.96
+    },
+    {
+      "texto": "seis",
+      "inicio": 3.04,
+      "fin": 3.36
+    },
+    {
+      "texto": "compró",
+      "inicio": 3.467,
+      "fin": 4.08
+    },
+    {
+      "texto": "ochocientos",
+      "inicio": 4.16,
+      "fin": 5.04
+    },
+    {
+      "texto": "veinte,",
+      "inicio": 5.093,
+      "fin": 6.24
+    },
+    {
+      "texto": "pero",
+      "inicio": 6.288,
+      "fin": 6.48
+    },
+    {
+      "texto": "no",
+      "inicio": 6.56,
+      "fin": 6.72
+    },
+    {
+      "texto": "existe",
+      "inicio": 6.823,
+      "fin": 7.44
+    },
+    {
+      "texto": "en",
+      "inicio": 7.467,
+      "fin": 7.52
+    },
+    {
+      "texto": "la",
+      "inicio": 7.573,
+      "fin": 7.68
+    },
+    {
+      "texto": "lista",
+      "inicio": 7.76,
+      "fin": 8.16
+    },
+    {
+      "texto": "de",
+      "inicio": 8.187,
+      "fin": 8.24
+    },
+    {
+      "texto": "clientes:",
+      "inicio": 8.338,
+      "fin": 10.08
+    },
+    {
+      "texto": "es",
+      "inicio": 10.16,
+      "fin": 10.32
+    },
+    {
+      "texto": "un",
+      "inicio": 10.4,
+      "fin": 10.56
+    },
+    {
+      "texto": "cliente",
+      "inicio": 10.64,
+      "fin": 11.2
+    },
+    {
+      "texto": "fantasma,",
+      "inicio": 11.312,
+      "fin": 13.36
+    },
+    {
+      "texto": "y",
+      "inicio": 13.44,
+      "fin": 13.52
+    },
+    {
+      "texto": "alguien",
+      "inicio": 13.58,
+      "fin": 14.0
+    },
+    {
+      "texto": "tiene",
+      "inicio": 14.08,
+      "fin": 14.48
+    },
+    {
+      "texto": "que",
+      "inicio": 14.52,
+      "fin": 14.64
+    },
+    {
+      "texto": "registrarlo.",
+      "inicio": 14.71,
+      "fin": 15.68
+    },
+    {
+      "texto": "Y",
+      "inicio": 16.16,
+      "fin": 16.64
+    },
+    {
+      "texto": "la",
+      "inicio": 16.693,
+      "fin": 16.8
+    },
+    {
+      "texto": "IA",
+      "inicio": 16.96,
+      "fin": 17.28
+    },
+    {
+      "texto": "encontró",
+      "inicio": 17.36,
+      "fin": 18.04
+    },
+    {
+      "texto": "algo",
+      "inicio": 18.064,
+      "fin": 18.16
+    },
+    {
+      "texto": "más:",
+      "inicio": 18.26,
+      "fin": 18.72
+    },
+    {
+      "texto": "en",
+      "inicio": 18.773,
+      "fin": 18.88
+    },
+    {
+      "texto": "febrero,",
+      "inicio": 18.987,
+      "fin": 20.16
+    },
+    {
+      "texto": "el",
+      "inicio": 20.213,
+      "fin": 20.32
+    },
+    {
+      "texto": "código",
+      "inicio": 20.4,
+      "fin": 20.88
+    },
+    {
+      "texto": "C",
+      "inicio": 21.04,
+      "fin": 21.2
+    },
+    {
+      "texto": "cero",
+      "inicio": 21.24,
+      "fin": 21.44
+    },
+    {
+      "texto": "dos",
+      "inicio": 21.5,
+      "fin": 21.68
+    },
+    {
+      "texto": "tenía",
+      "inicio": 21.773,
+      "fin": 22.24
+    },
+    {
+      "texto": "un",
+      "inicio": 22.267,
+      "fin": 22.32
+    },
+    {
+      "texto": "espacio",
+      "inicio": 22.38,
+      "fin": 22.8
+    },
+    {
+      "texto": "invisible",
+      "inicio": 22.864,
+      "fin": 23.44
+    },
+    {
+      "texto": "al",
+      "inicio": 23.467,
+      "fin": 23.52
+    },
+    {
+      "texto": "final.",
+      "inicio": 23.6,
+      "fin": 24.08
+    },
+    {
+      "texto": "Sin",
+      "inicio": 24.32,
+      "fin": 25.04
+    },
+    {
+      "texto": "la",
+      "inicio": 25.067,
+      "fin": 25.12
+    },
+    {
+      "texto": "función",
+      "inicio": 25.2,
+      "fin": 25.76
+    },
+    {
+      "texto": "ESPACIOS,",
+      "inicio": 25.9,
+      "fin": 27.28
+    },
+    {
+      "texto": "ese",
+      "inicio": 27.36,
+      "fin": 27.6
+    },
+    {
+      "texto": "pedido",
+      "inicio": 27.669,
+      "fin": 28.08
+    },
+    {
+      "texto": "de",
+      "inicio": 28.133,
+      "fin": 28.24
+    },
+    {
+      "texto": "seiscientos",
+      "inicio": 28.293,
+      "fin": 28.88
+    },
+    {
+      "texto": "cuarenta",
+      "inicio": 28.96,
+      "fin": 29.72
+    },
+    {
+      "texto": "se",
+      "inicio": 29.787,
+      "fin": 29.92
+    },
+    {
+      "texto": "habría",
+      "inicio": 29.96,
+      "fin": 30.24
+    },
+    {
+      "texto": "perdido,",
+      "inicio": 30.304,
+      "fin": 30.88
+    },
+    {
+      "texto": "y",
+      "inicio": 31.16,
+      "fin": 31.44
+    },
+    {
+      "texto": "Medellín",
+      "inicio": 31.5,
+      "fin": 32.08
+    },
+    {
+      "texto": "habría",
+      "inicio": 32.18,
+      "fin": 32.64
+    },
+    {
+      "texto": "salido",
+      "inicio": 32.72,
+      "fin": 33.2
+    },
+    {
+      "texto": "con",
+      "inicio": 33.26,
+      "fin": 33.44
+    },
+    {
+      "texto": "tres",
+      "inicio": 33.504,
+      "fin": 33.76
+    },
+    {
+      "texto": "mil",
+      "inicio": 33.84,
+      "fin": 34.08
+    },
+    {
+      "texto": "trescientos",
+      "inicio": 34.176,
+      "fin": 35.04
+    },
+    {
+      "texto": "ochenta",
+      "inicio": 35.1,
+      "fin": 35.68
+    },
+    {
+      "texto": "en",
+      "inicio": 35.92,
+      "fin": 36.4
+    },
+    {
+      "texto": "vez",
+      "inicio": 36.46,
+      "fin": 36.64
+    },
+    {
+      "texto": "de",
+      "inicio": 36.693,
+      "fin": 36.8
+    },
+    {
+      "texto": "cuatro",
+      "inicio": 36.834,
+      "fin": 37.04
+    },
+    {
+      "texto": "mil",
+      "inicio": 37.1,
+      "fin": 37.28
+    },
+    {
+      "texto": "veinte.",
+      "inicio": 37.36,
+      "fin": 38.0
+    }
+  ]
+}

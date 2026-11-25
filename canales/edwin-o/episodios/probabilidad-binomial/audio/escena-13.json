@@ -1,0 +1,265 @@
+{
+  "num": "13",
+  "titulo": "El truco del \"al menos\"",
+  "texto": "Apréndete este truco, que es el que más se usa: \"al menos cinco\" es igual a uno, menos \"como máximo cuatro\". Por eso pusimos cuatro y no cinco. Y si prefieres no restar, DISTR punto BINOM punto SERIE de cinco a veinte da exactamente lo mismo: cero coma veintiséis por ciento.",
+  "texto_tts": "Apréndete este truco, que es el que más se usa: \"al menos cinco\" es igual a uno, menos \"como máximo cuatro\". Por eso pusimos cuatro y no cinco. Y si prefieres no restar, DISTR punto BINOM punto SERIE de cinco a veinte da exactamente lo mismo: cero coma veintiséis por ciento.",
+  "modelo": "eleven_v3",
+  "duracion": 22.88,
+  "palabras": [
+    {
+      "texto": "Apréndete",
+      "inicio": 0.0,
+      "fin": 0.56
+    },
+    {
+      "texto": "este",
+      "inicio": 0.592,
+      "fin": 0.72
+    },
+    {
+      "texto": "truco,",
+      "inicio": 0.773,
+      "fin": 1.2
+    },
+    {
+      "texto": "que",
+      "inicio": 1.22,
+      "fin": 1.28
+    },
+    {
+      "texto": "es",
+      "inicio": 1.307,
+      "fin": 1.36
+    },
+    {
+      "texto": "el",
+      "inicio": 1.387,
+      "fin": 1.44
+    },
+    {
+      "texto": "que",
+      "inicio": 1.48,
+      "fin": 1.6
+    },
+    {
+      "texto": "más",
+      "inicio": 1.64,
+      "fin": 1.76
+    },
+    {
+      "texto": "se",
+      "inicio": 1.813,
+      "fin": 1.92
+    },
+    {
+      "texto": "usa:",
+      "inicio": 2.02,
+      "fin": 3.12
+    },
+    {
+      "texto": "\"al",
+      "inicio": 3.16,
+      "fin": 3.28
+    },
+    {
+      "texto": "menos",
+      "inicio": 3.333,
+      "fin": 3.6
+    },
+    {
+      "texto": "cinco\"",
+      "inicio": 3.68,
+      "fin": 4.16
+    },
+    {
+      "texto": "es",
+      "inicio": 4.267,
+      "fin": 4.48
+    },
+    {
+      "texto": "igual",
+      "inicio": 4.533,
+      "fin": 4.8
+    },
+    {
+      "texto": "a",
+      "inicio": 4.84,
+      "fin": 4.88
+    },
+    {
+      "texto": "uno,",
+      "inicio": 4.96,
+      "fin": 5.44
+    },
+    {
+      "texto": "menos",
+      "inicio": 5.547,
+      "fin": 6.08
+    },
+    {
+      "texto": "\"como",
+      "inicio": 6.28,
+      "fin": 6.72
+    },
+    {
+      "texto": "máximo",
+      "inicio": 6.789,
+      "fin": 7.2
+    },
+    {
+      "texto": "cuatro\".",
+      "inicio": 7.269,
+      "fin": 7.76
+    },
+    {
+      "texto": "Por",
+      "inicio": 7.84,
+      "fin": 8.08
+    },
+    {
+      "texto": "eso",
+      "inicio": 8.12,
+      "fin": 8.24
+    },
+    {
+      "texto": "pusimos",
+      "inicio": 8.3,
+      "fin": 8.64
+    },
+    {
+      "texto": "cuatro",
+      "inicio": 8.709,
+      "fin": 9.12
+    },
+    {
+      "texto": "y",
+      "inicio": 9.24,
+      "fin": 9.36
+    },
+    {
+      "texto": "no",
+      "inicio": 9.413,
+      "fin": 9.52
+    },
+    {
+      "texto": "cinco.",
+      "inicio": 9.587,
+      "fin": 10.08
+    },
+    {
+      "texto": "Y",
+      "inicio": 10.36,
+      "fin": 10.64
+    },
+    {
+      "texto": "si",
+      "inicio": 10.693,
+      "fin": 10.8
+    },
+    {
+      "texto": "prefieres",
+      "inicio": 10.848,
+      "fin": 11.28
+    },
+    {
+      "texto": "no",
+      "inicio": 11.333,
+      "fin": 11.44
+    },
+    {
+      "texto": "restar,",
+      "inicio": 11.504,
+      "fin": 12.0
+    },
+    {
+      "texto": "DISTR",
+      "inicio": 12.36,
+      "fin": 14.08
+    },
+    {
+      "texto": "punto",
+      "inicio": 14.187,
+      "fin": 14.72
+    },
+    {
+      "texto": "BINOM",
+      "inicio": 14.84,
+      "fin": 15.44
+    },
+    {
+      "texto": "punto",
+      "inicio": 15.587,
+      "fin": 16.32
+    },
+    {
+      "texto": "SERIE",
+      "inicio": 16.42,
+      "fin": 16.8
+    },
+    {
+      "texto": "de",
+      "inicio": 16.853,
+      "fin": 16.96
+    },
+    {
+      "texto": "cinco",
+      "inicio": 17.013,
+      "fin": 17.28
+    },
+    {
+      "texto": "a",
+      "inicio": 17.36,
+      "fin": 17.44
+    },
+    {
+      "texto": "veinte",
+      "inicio": 17.467,
+      "fin": 17.84
+    },
+    {
+      "texto": "da",
+      "inicio": 18.027,
+      "fin": 18.4
+    },
+    {
+      "texto": "exactamente",
+      "inicio": 18.52,
+      "fin": 19.52
+    },
+    {
+      "texto": "lo",
+      "inicio": 19.573,
+      "fin": 19.68
+    },
+    {
+      "texto": "mismo:",
+      "inicio": 19.747,
+      "fin": 20.64
+    },
+    {
+      "texto": "cero",
+      "inicio": 20.68,
+      "fin": 20.88
+    },
+    {
+      "texto": "coma",
+      "inicio": 20.944,
+      "fin": 21.2
+    },
+    {
+      "texto": "veintiséis",
+      "inicio": 21.333,
+      "fin": 22.24
+    },
+    {
+      "texto": "por",
+      "inicio": 22.28,
+      "fin": 22.4
+    },
+    {
+      "texto": "ciento.",
+      "inicio": 22.44,
+      "fin": 22.88
+    }
+  ]
+}

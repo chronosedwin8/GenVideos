@@ -1,0 +1,265 @@
+{
+  "num": "17",
+  "titulo": "En Python",
+  "texto": "¿Y en Python? Ni siquiera necesitas instalar nada. Con comb, de la biblioteca math, escribes la fórmula de la binomial en una línea: las combinaciones, por la probabilidad elevada a los éxitos, por la probabilidad contraria elevada a los fracasos. Lo ejecuto… y salen los mismos tres resultados que en Excel.",
+  "texto_tts": "¿Y en Python? Ni siquiera necesitas instalar nada. Con comb, de la biblioteca math, escribes la fórmula de la binomial en una línea: las combinaciones, por la probabilidad elevada a los éxitos, por la probabilidad contraria elevada a los fracasos. Lo ejecuto… y salen los mismos tres resultados que en Excel.",
+  "modelo": "eleven_v3",
+  "duracion": 19.04,
+  "palabras": [
+    {
+      "texto": "¿Y",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "en",
+      "inicio": 0.107,
+      "fin": 0.16
+    },
+    {
+      "texto": "Python?",
+      "inicio": 0.229,
+      "fin": 0.72
+    },
+    {
+      "texto": "Ni",
+      "inicio": 0.827,
+      "fin": 1.04
+    },
+    {
+      "texto": "siquiera",
+      "inicio": 1.093,
+      "fin": 1.44
+    },
+    {
+      "texto": "necesitas",
+      "inicio": 1.467,
+      "fin": 1.92
+    },
+    {
+      "texto": "instalar",
+      "inicio": 1.968,
+      "fin": 2.32
+    },
+    {
+      "texto": "nada.",
+      "inicio": 2.384,
+      "fin": 2.72
+    },
+    {
+      "texto": "Con",
+      "inicio": 2.82,
+      "fin": 3.12
+    },
+    {
+      "texto": "comb,",
+      "inicio": 3.232,
+      "fin": 3.92
+    },
+    {
+      "texto": "de",
+      "inicio": 3.947,
+      "fin": 4.0
+    },
+    {
+      "texto": "la",
+      "inicio": 4.027,
+      "fin": 4.08
+    },
+    {
+      "texto": "biblioteca",
+      "inicio": 4.12,
+      "fin": 4.56
+    },
+    {
+      "texto": "math,",
+      "inicio": 4.64,
+      "fin": 5.44
+    },
+    {
+      "texto": "escribes",
+      "inicio": 5.493,
+      "fin": 5.84
+    },
+    {
+      "texto": "la",
+      "inicio": 5.867,
+      "fin": 5.92
+    },
+    {
+      "texto": "fórmula",
+      "inicio": 6.0,
+      "fin": 6.32
+    },
+    {
+      "texto": "de",
+      "inicio": 6.347,
+      "fin": 6.4
+    },
+    {
+      "texto": "la",
+      "inicio": 6.427,
+      "fin": 6.48
+    },
+    {
+      "texto": "binomial",
+      "inicio": 6.54,
+      "fin": 7.04
+    },
+    {
+      "texto": "en",
+      "inicio": 7.147,
+      "fin": 7.36
+    },
+    {
+      "texto": "una",
+      "inicio": 7.4,
+      "fin": 7.52
+    },
+    {
+      "texto": "línea:",
+      "inicio": 7.573,
+      "fin": 8.4
+    },
+    {
+      "texto": "las",
+      "inicio": 8.44,
+      "fin": 8.56
+    },
+    {
+      "texto": "combinaciones,",
+      "inicio": 8.617,
+      "fin": 9.68
+    },
+    {
+      "texto": "por",
+      "inicio": 9.72,
+      "fin": 9.84
+    },
+    {
+      "texto": "la",
+      "inicio": 9.867,
+      "fin": 9.92
+    },
+    {
+      "texto": "probabilidad",
+      "inicio": 9.968,
+      "fin": 10.48
+    },
+    {
+      "texto": "elevada",
+      "inicio": 10.528,
+      "fin": 10.8
+    },
+    {
+      "texto": "a",
+      "inicio": 10.84,
+      "fin": 10.88
+    },
+    {
+      "texto": "los",
+      "inicio": 10.92,
+      "fin": 11.04
+    },
+    {
+      "texto": "éxitos,",
+      "inicio": 11.12,
+      "fin": 11.76
+    },
+    {
+      "texto": "por",
+      "inicio": 11.8,
+      "fin": 11.92
+    },
+    {
+      "texto": "la",
+      "inicio": 11.947,
+      "fin": 12.0
+    },
+    {
+      "texto": "probabilidad",
+      "inicio": 12.048,
+      "fin": 12.48
+    },
+    {
+      "texto": "contraria",
+      "inicio": 12.533,
+      "fin": 13.12
+    },
+    {
+      "texto": "elevada",
+      "inicio": 13.184,
+      "fin": 13.52
+    },
+    {
+      "texto": "a",
+      "inicio": 13.56,
+      "fin": 13.6
+    },
+    {
+      "texto": "los",
+      "inicio": 13.62,
+      "fin": 13.68
+    },
+    {
+      "texto": "fracasos.",
+      "inicio": 13.728,
+      "fin": 14.4
+    },
+    {
+      "texto": "Lo",
+      "inicio": 14.667,
+      "fin": 15.2
+    },
+    {
+      "texto": "ejecuto…",
+      "inicio": 15.264,
+      "fin": 16.48
+    },
+    {
+      "texto": "y",
+      "inicio": 16.52,
+      "fin": 16.56
+    },
+    {
+      "texto": "salen",
+      "inicio": 16.62,
+      "fin": 16.88
+    },
+    {
+      "texto": "los",
+      "inicio": 16.92,
+      "fin": 17.04
+    },
+    {
+      "texto": "mismos",
+      "inicio": 17.12,
+      "fin": 17.52
+    },
+    {
+      "texto": "tres",
+      "inicio": 17.584,
+      "fin": 17.84
+    },
+    {
+      "texto": "resultados",
+      "inicio": 17.891,
+      "fin": 18.4
+    },
+    {
+      "texto": "que",
+      "inicio": 18.42,
+      "fin": 18.48
+    },
+    {
+      "texto": "en",
+      "inicio": 18.507,
+      "fin": 18.56
+    },
+    {
+      "texto": "Excel.",
+      "inicio": 18.627,
+      "fin": 19.04
+    }
+  ]
+}

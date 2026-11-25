@@ -1,0 +1,285 @@
+{
+  "num": "16",
+  "titulo": "Ojo con la privacidad",
+  "texto": "Una advertencia importante. Con este método, el texto que pones en el QR viaja a un servicio externo para crear la imagen. Para códigos y nombres de productos no hay problema. Pero no pongas ahí datos personales, contraseñas ni información confidencial de tu empresa. Para eso, usa la opción sin internet que te muestro ahora.",
+  "texto_tts": "Una advertencia importante. Con este método, el texto que pones en el QR viaja a un servicio externo para crear la imagen. Para códigos y nombres de productos no hay problema. Pero no pongas ahí datos personales, contraseñas ni información confidencial de tu empresa. Para eso, usa la opción sin internet que te muestro ahora.",
+  "modelo": "eleven_v3",
+  "duracion": 21.44,
+  "palabras": [
+    {
+      "texto": "Una",
+      "inicio": 0.0,
+      "fin": 0.16
+    },
+    {
+      "texto": "advertencia",
+      "inicio": 0.206,
+      "fin": 0.8
+    },
+    {
+      "texto": "importante.",
+      "inicio": 0.88,
+      "fin": 1.76
+    },
+    {
+      "texto": "Con",
+      "inicio": 1.86,
+      "fin": 2.16
+    },
+    {
+      "texto": "este",
+      "inicio": 2.208,
+      "fin": 2.4
+    },
+    {
+      "texto": "método,",
+      "inicio": 2.457,
+      "fin": 3.04
+    },
+    {
+      "texto": "el",
+      "inicio": 3.093,
+      "fin": 3.2
+    },
+    {
+      "texto": "texto",
+      "inicio": 3.28,
+      "fin": 3.68
+    },
+    {
+      "texto": "que",
+      "inicio": 3.74,
+      "fin": 3.92
+    },
+    {
+      "texto": "pones",
+      "inicio": 3.96,
+      "fin": 4.24
+    },
+    {
+      "texto": "en",
+      "inicio": 4.267,
+      "fin": 4.32
+    },
+    {
+      "texto": "el",
+      "inicio": 4.347,
+      "fin": 4.4
+    },
+    {
+      "texto": "QR",
+      "inicio": 4.587,
+      "fin": 4.96
+    },
+    {
+      "texto": "viaja",
+      "inicio": 5.14,
+      "fin": 5.84
+    },
+    {
+      "texto": "a",
+      "inicio": 5.92,
+      "fin": 6.0
+    },
+    {
+      "texto": "un",
+      "inicio": 6.027,
+      "fin": 6.08
+    },
+    {
+      "texto": "servicio",
+      "inicio": 6.124,
+      "fin": 6.48
+    },
+    {
+      "texto": "externo",
+      "inicio": 6.549,
+      "fin": 7.04
+    },
+    {
+      "texto": "para",
+      "inicio": 7.088,
+      "fin": 7.28
+    },
+    {
+      "texto": "crear",
+      "inicio": 7.333,
+      "fin": 7.6
+    },
+    {
+      "texto": "la",
+      "inicio": 7.627,
+      "fin": 7.68
+    },
+    {
+      "texto": "imagen.",
+      "inicio": 7.737,
+      "fin": 8.32
+    },
+    {
+      "texto": "Para",
+      "inicio": 8.448,
+      "fin": 8.96
+    },
+    {
+      "texto": "códigos",
+      "inicio": 9.04,
+      "fin": 9.6
+    },
+    {
+      "texto": "y",
+      "inicio": 9.64,
+      "fin": 9.68
+    },
+    {
+      "texto": "nombres",
+      "inicio": 9.72,
+      "fin": 10.0
+    },
+    {
+      "texto": "de",
+      "inicio": 10.027,
+      "fin": 10.08
+    },
+    {
+      "texto": "productos",
+      "inicio": 10.128,
+      "fin": 10.56
+    },
+    {
+      "texto": "no",
+      "inicio": 10.613,
+      "fin": 10.72
+    },
+    {
+      "texto": "hay",
+      "inicio": 10.74,
+      "fin": 10.8
+    },
+    {
+      "texto": "problema.",
+      "inicio": 10.862,
+      "fin": 11.6
+    },
+    {
+      "texto": "Pero",
+      "inicio": 11.68,
+      "fin": 12.0
+    },
+    {
+      "texto": "no",
+      "inicio": 12.053,
+      "fin": 12.16
+    },
+    {
+      "texto": "pongas",
+      "inicio": 12.208,
+      "fin": 12.56
+    },
+    {
+      "texto": "ahí",
+      "inicio": 12.64,
+      "fin": 12.88
+    },
+    {
+      "texto": "datos",
+      "inicio": 12.947,
+      "fin": 13.28
+    },
+    {
+      "texto": "personales,",
+      "inicio": 13.337,
+      "fin": 14.16
+    },
+    {
+      "texto": "contraseñas",
+      "inicio": 14.213,
+      "fin": 15.04
+    },
+    {
+      "texto": "ni",
+      "inicio": 15.227,
+      "fin": 15.6
+    },
+    {
+      "texto": "información",
+      "inicio": 15.647,
+      "fin": 16.16
+    },
+    {
+      "texto": "confidencial",
+      "inicio": 16.208,
+      "fin": 16.8
+    },
+    {
+      "texto": "de",
+      "inicio": 16.827,
+      "fin": 16.88
+    },
+    {
+      "texto": "tu",
+      "inicio": 16.907,
+      "fin": 16.96
+    },
+    {
+      "texto": "empresa.",
+      "inicio": 17.02,
+      "fin": 17.6
+    },
+    {
+      "texto": "Para",
+      "inicio": 17.712,
+      "fin": 18.16
+    },
+    {
+      "texto": "eso,",
+      "inicio": 18.26,
+      "fin": 18.76
+    },
+    {
+      "texto": "usa",
+      "inicio": 18.81,
+      "fin": 18.96
+    },
+    {
+      "texto": "la",
+      "inicio": 18.987,
+      "fin": 19.04
+    },
+    {
+      "texto": "opción",
+      "inicio": 19.086,
+      "fin": 19.36
+    },
+    {
+      "texto": "sin",
+      "inicio": 19.44,
+      "fin": 19.68
+    },
+    {
+      "texto": "internet",
+      "inicio": 19.742,
+      "fin": 20.24
+    },
+    {
+      "texto": "que",
+      "inicio": 20.3,
+      "fin": 20.48
+    },
+    {
+      "texto": "te",
+      "inicio": 20.507,
+      "fin": 20.56
+    },
+    {
+      "texto": "muestro",
+      "inicio": 20.6,
+      "fin": 20.88
+    },
+    {
+      "texto": "ahora.",
+      "inicio": 20.947,
+      "fin": 21.44
+    }
+  ]
+}

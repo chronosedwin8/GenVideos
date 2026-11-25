@@ -1,0 +1,220 @@
+{
+  "num": "20",
+  "titulo": "Resumen",
+  "texto": "En resumen: Claude Code sigue corriendo en tu computador, con tus archivos. Escribes barra r c, escaneas el QR o entras a Code en la app, y listo. Y tú decides qué puede hacer, con los modos de permisos y las notificaciones.",
+  "texto_tts": "En resumen: Claude Code sigue corriendo en tu computador, con tus archivos. Escribes barra r c, escaneas el QR o entras a Code en la app, y listo. Y tú decides qué puede hacer, con los modos de permisos y las notificaciones.",
+  "modelo": "eleven_v3",
+  "duracion": 17.12,
+  "palabras": [
+    {
+      "texto": "En",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "resumen:",
+      "inicio": 0.12,
+      "fin": 0.64
+    },
+    {
+      "texto": "Claude",
+      "inicio": 0.731,
+      "fin": 1.28
+    },
+    {
+      "texto": "Code",
+      "inicio": 1.344,
+      "fin": 1.6
+    },
+    {
+      "texto": "sigue",
+      "inicio": 1.667,
+      "fin": 2.0
+    },
+    {
+      "texto": "corriendo",
+      "inicio": 2.04,
+      "fin": 2.44
+    },
+    {
+      "texto": "en",
+      "inicio": 2.453,
+      "fin": 2.48
+    },
+    {
+      "texto": "tu",
+      "inicio": 2.533,
+      "fin": 2.64
+    },
+    {
+      "texto": "computador,",
+      "inicio": 2.697,
+      "fin": 3.44
+    },
+    {
+      "texto": "con",
+      "inicio": 3.52,
+      "fin": 3.76
+    },
+    {
+      "texto": "tus",
+      "inicio": 3.82,
+      "fin": 4.0
+    },
+    {
+      "texto": "archivos.",
+      "inicio": 4.071,
+      "fin": 4.72
+    },
+    {
+      "texto": "Escribes",
+      "inicio": 4.933,
+      "fin": 5.76
+    },
+    {
+      "texto": "barra",
+      "inicio": 5.84,
+      "fin": 6.2
+    },
+    {
+      "texto": "r",
+      "inicio": 6.26,
+      "fin": 6.32
+    },
+    {
+      "texto": "c,",
+      "inicio": 6.44,
+      "fin": 6.64
+    },
+    {
+      "texto": "escaneas",
+      "inicio": 6.8,
+      "fin": 7.68
+    },
+    {
+      "texto": "el",
+      "inicio": 7.707,
+      "fin": 7.76
+    },
+    {
+      "texto": "QR",
+      "inicio": 8.027,
+      "fin": 8.56
+    },
+    {
+      "texto": "o",
+      "inicio": 8.68,
+      "fin": 8.8
+    },
+    {
+      "texto": "entras",
+      "inicio": 8.848,
+      "fin": 9.2
+    },
+    {
+      "texto": "a",
+      "inicio": 9.24,
+      "fin": 9.28
+    },
+    {
+      "texto": "Code",
+      "inicio": 9.36,
+      "fin": 9.68
+    },
+    {
+      "texto": "en",
+      "inicio": 9.733,
+      "fin": 9.84
+    },
+    {
+      "texto": "la",
+      "inicio": 9.867,
+      "fin": 9.92
+    },
+    {
+      "texto": "app,",
+      "inicio": 10.0,
+      "fin": 10.48
+    },
+    {
+      "texto": "y",
+      "inicio": 10.6,
+      "fin": 10.72
+    },
+    {
+      "texto": "listo.",
+      "inicio": 10.784,
+      "fin": 11.52
+    },
+    {
+      "texto": "Y",
+      "inicio": 11.64,
+      "fin": 11.76
+    },
+    {
+      "texto": "tú",
+      "inicio": 11.84,
+      "fin": 12.0
+    },
+    {
+      "texto": "decides",
+      "inicio": 12.07,
+      "fin": 12.56
+    },
+    {
+      "texto": "qué",
+      "inicio": 12.66,
+      "fin": 12.96
+    },
+    {
+      "texto": "puede",
+      "inicio": 13.013,
+      "fin": 13.28
+    },
+    {
+      "texto": "hacer,",
+      "inicio": 13.333,
+      "fin": 13.92
+    },
+    {
+      "texto": "con",
+      "inicio": 14.0,
+      "fin": 14.24
+    },
+    {
+      "texto": "los",
+      "inicio": 14.26,
+      "fin": 14.32
+    },
+    {
+      "texto": "modos",
+      "inicio": 14.38,
+      "fin": 14.64
+    },
+    {
+      "texto": "de",
+      "inicio": 14.667,
+      "fin": 14.72
+    },
+    {
+      "texto": "permisos",
+      "inicio": 14.784,
+      "fin": 15.44
+    },
+    {
+      "texto": "y",
+      "inicio": 15.6,
+      "fin": 15.76
+    },
+    {
+      "texto": "las",
+      "inicio": 15.8,
+      "fin": 15.92
+    },
+    {
+      "texto": "notificaciones.",
+      "inicio": 15.96,
+      "fin": 17.12
+    }
+  ]
+}

@@ -1,0 +1,325 @@
+{
+  "num": "10",
+  "titulo": "Tarea 3: explícame esta fórmula",
+  "texto": "Tarea tres: entender una hoja ajena. Esta columna tiene una fórmula que dejó alguien más. Le pregunto: ¿qué hace la fórmula de la columna E? Y me explica, en español sencillo: marca como \"Revisar\" los gastos mayores de cien mil. En este caso, la papelería, el almuerzo de equipo y el tóner. Perfecto para cuando heredas un archivo y nadie te explicó nada.",
+  "texto_tts": "Tarea tres: entender una hoja ajena. Esta columna tiene una fórmula que dejó alguien más. Le pregunto: ¿qué hace la fórmula de la columna E? Y me explica, en español sencillo: marca como \"Revisar\" los gastos mayores de cien mil. En este caso, la papelería, el almuerzo de equipo y el tóner. Perfecto para cuando heredas un archivo y nadie te explicó nada.",
+  "modelo": "eleven_v3",
+  "duracion": 24.56,
+  "palabras": [
+    {
+      "texto": "Tarea",
+      "inicio": 0.0,
+      "fin": 0.24
+    },
+    {
+      "texto": "tres:",
+      "inicio": 0.32,
+      "fin": 0.72
+    },
+    {
+      "texto": "entender",
+      "inicio": 0.791,
+      "fin": 1.36
+    },
+    {
+      "texto": "una",
+      "inicio": 1.46,
+      "fin": 1.76
+    },
+    {
+      "texto": "hoja",
+      "inicio": 1.84,
+      "fin": 2.16
+    },
+    {
+      "texto": "ajena.",
+      "inicio": 2.293,
+      "fin": 2.88
+    },
+    {
+      "texto": "Esta",
+      "inicio": 3.168,
+      "fin": 4.32
+    },
+    {
+      "texto": "columna",
+      "inicio": 4.37,
+      "fin": 4.72
+    },
+    {
+      "texto": "tiene",
+      "inicio": 4.76,
+      "fin": 4.96
+    },
+    {
+      "texto": "una",
+      "inicio": 5.0,
+      "fin": 5.12
+    },
+    {
+      "texto": "fórmula",
+      "inicio": 5.16,
+      "fin": 5.52
+    },
+    {
+      "texto": "que",
+      "inicio": 5.56,
+      "fin": 5.68
+    },
+    {
+      "texto": "dejó",
+      "inicio": 5.72,
+      "fin": 5.92
+    },
+    {
+      "texto": "alguien",
+      "inicio": 5.95,
+      "fin": 6.16
+    },
+    {
+      "texto": "más.",
+      "inicio": 6.26,
+      "fin": 6.64
+    },
+    {
+      "texto": "Le",
+      "inicio": 6.747,
+      "fin": 6.96
+    },
+    {
+      "texto": "pregunto:",
+      "inicio": 7.0,
+      "fin": 7.68
+    },
+    {
+      "texto": "¿qué",
+      "inicio": 7.88,
+      "fin": 8.16
+    },
+    {
+      "texto": "hace",
+      "inicio": 8.192,
+      "fin": 8.32
+    },
+    {
+      "texto": "la",
+      "inicio": 8.347,
+      "fin": 8.4
+    },
+    {
+      "texto": "fórmula",
+      "inicio": 8.48,
+      "fin": 8.8
+    },
+    {
+      "texto": "de",
+      "inicio": 8.853,
+      "fin": 8.96
+    },
+    {
+      "texto": "la",
+      "inicio": 8.987,
+      "fin": 9.04
+    },
+    {
+      "texto": "columna",
+      "inicio": 9.09,
+      "fin": 9.44
+    },
+    {
+      "texto": "E?",
+      "inicio": 9.56,
+      "fin": 9.76
+    },
+    {
+      "texto": "Y",
+      "inicio": 10.04,
+      "fin": 10.32
+    },
+    {
+      "texto": "me",
+      "inicio": 10.347,
+      "fin": 10.4
+    },
+    {
+      "texto": "explica,",
+      "inicio": 10.46,
+      "fin": 11.12
+    },
+    {
+      "texto": "en",
+      "inicio": 11.147,
+      "fin": 11.2
+    },
+    {
+      "texto": "español",
+      "inicio": 11.26,
+      "fin": 11.68
+    },
+    {
+      "texto": "sencillo:",
+      "inicio": 11.78,
+      "fin": 12.24
+    },
+    {
+      "texto": "marca",
+      "inicio": 12.427,
+      "fin": 13.36
+    },
+    {
+      "texto": "como",
+      "inicio": 13.392,
+      "fin": 13.52
+    },
+    {
+      "texto": "\"Revisar\"",
+      "inicio": 13.56,
+      "fin": 14.24
+    },
+    {
+      "texto": "los",
+      "inicio": 14.28,
+      "fin": 14.4
+    },
+    {
+      "texto": "gastos",
+      "inicio": 14.44,
+      "fin": 14.72
+    },
+    {
+      "texto": "mayores",
+      "inicio": 14.76,
+      "fin": 15.04
+    },
+    {
+      "texto": "de",
+      "inicio": 15.093,
+      "fin": 15.2
+    },
+    {
+      "texto": "cien",
+      "inicio": 15.24,
+      "fin": 15.36
+    },
+    {
+      "texto": "mil.",
+      "inicio": 15.44,
+      "fin": 15.76
+    },
+    {
+      "texto": "En",
+      "inicio": 16.0,
+      "fin": 16.48
+    },
+    {
+      "texto": "este",
+      "inicio": 16.528,
+      "fin": 16.72
+    },
+    {
+      "texto": "caso,",
+      "inicio": 16.8,
+      "fin": 17.2
+    },
+    {
+      "texto": "la",
+      "inicio": 17.28,
+      "fin": 17.44
+    },
+    {
+      "texto": "papelería,",
+      "inicio": 17.5,
+      "fin": 18.24
+    },
+    {
+      "texto": "el",
+      "inicio": 18.347,
+      "fin": 18.56
+    },
+    {
+      "texto": "almuerzo",
+      "inicio": 18.62,
+      "fin": 19.12
+    },
+    {
+      "texto": "de",
+      "inicio": 19.147,
+      "fin": 19.2
+    },
+    {
+      "texto": "equipo",
+      "inicio": 19.257,
+      "fin": 19.6
+    },
+    {
+      "texto": "y",
+      "inicio": 19.68,
+      "fin": 19.76
+    },
+    {
+      "texto": "el",
+      "inicio": 19.813,
+      "fin": 19.92
+    },
+    {
+      "texto": "tóner.",
+      "inicio": 20.0,
+      "fin": 20.4
+    },
+    {
+      "texto": "Perfecto",
+      "inicio": 20.57,
+      "fin": 21.84
+    },
+    {
+      "texto": "para",
+      "inicio": 21.888,
+      "fin": 22.08
+    },
+    {
+      "texto": "cuando",
+      "inicio": 22.114,
+      "fin": 22.32
+    },
+    {
+      "texto": "heredas",
+      "inicio": 22.36,
+      "fin": 22.64
+    },
+    {
+      "texto": "un",
+      "inicio": 22.667,
+      "fin": 22.72
+    },
+    {
+      "texto": "archivo",
+      "inicio": 22.78,
+      "fin": 23.2
+    },
+    {
+      "texto": "y",
+      "inicio": 23.28,
+      "fin": 23.36
+    },
+    {
+      "texto": "nadie",
+      "inicio": 23.42,
+      "fin": 23.68
+    },
+    {
+      "texto": "te",
+      "inicio": 23.707,
+      "fin": 23.76
+    },
+    {
+      "texto": "explicó",
+      "inicio": 23.806,
+      "fin": 24.16
+    },
+    {
+      "texto": "nada.",
+      "inicio": 24.208,
+      "fin": 24.56
+    }
+  ]
+}

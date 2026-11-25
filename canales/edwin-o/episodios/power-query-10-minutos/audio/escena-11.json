@@ -1,0 +1,250 @@
+{
+  "num": "11",
+  "titulo": "Movimiento 5: dividir columna",
+  "texto": "Movimiento cinco: dividir columna. Selecciona Vendedor, Dividir columna, Por delimitador, elige espacio, y en las opciones indica que divida solo en el primer espacio, para que un apellido compuesto no se parta en tres. Ahora tienes Nombre y Apellido por separado, perfecto para un saludo en un correo.",
+  "texto_tts": "Movimiento cinco: dividir columna. Selecciona Vendedor, Dividir columna, Por delimitador, elige espacio, y en las opciones indica que divida solo en el primer espacio, para que un apellido compuesto no se parta en tres. Ahora tienes Nombre y Apellido por separado, perfecto para un saludo en un correo.",
+  "modelo": "eleven_v3",
+  "duracion": 20.88,
+  "palabras": [
+    {
+      "texto": "Movimiento",
+      "inicio": 0.0,
+      "fin": 0.48
+    },
+    {
+      "texto": "cinco:",
+      "inicio": 0.547,
+      "fin": 1.04
+    },
+    {
+      "texto": "dividir",
+      "inicio": 1.107,
+      "fin": 1.52
+    },
+    {
+      "texto": "columna.",
+      "inicio": 1.59,
+      "fin": 2.16
+    },
+    {
+      "texto": "Selecciona",
+      "inicio": 2.24,
+      "fin": 2.84
+    },
+    {
+      "texto": "Vendedor,",
+      "inicio": 2.86,
+      "fin": 3.84
+    },
+    {
+      "texto": "Dividir",
+      "inicio": 3.94,
+      "fin": 4.4
+    },
+    {
+      "texto": "columna,",
+      "inicio": 4.47,
+      "fin": 5.12
+    },
+    {
+      "texto": "Por",
+      "inicio": 5.26,
+      "fin": 5.68
+    },
+    {
+      "texto": "delimitador,",
+      "inicio": 5.72,
+      "fin": 6.56
+    },
+    {
+      "texto": "elige",
+      "inicio": 6.667,
+      "fin": 7.04
+    },
+    {
+      "texto": "espacio,",
+      "inicio": 7.12,
+      "fin": 8.0
+    },
+    {
+      "texto": "y",
+      "inicio": 8.24,
+      "fin": 8.48
+    },
+    {
+      "texto": "en",
+      "inicio": 8.533,
+      "fin": 8.64
+    },
+    {
+      "texto": "las",
+      "inicio": 8.68,
+      "fin": 8.8
+    },
+    {
+      "texto": "opciones",
+      "inicio": 8.853,
+      "fin": 9.28
+    },
+    {
+      "texto": "indica",
+      "inicio": 9.349,
+      "fin": 9.76
+    },
+    {
+      "texto": "que",
+      "inicio": 9.8,
+      "fin": 9.92
+    },
+    {
+      "texto": "divida",
+      "inicio": 9.98,
+      "fin": 10.4
+    },
+    {
+      "texto": "solo",
+      "inicio": 10.496,
+      "fin": 10.88
+    },
+    {
+      "texto": "en",
+      "inicio": 10.907,
+      "fin": 10.96
+    },
+    {
+      "texto": "el",
+      "inicio": 11.013,
+      "fin": 11.12
+    },
+    {
+      "texto": "primer",
+      "inicio": 11.166,
+      "fin": 11.44
+    },
+    {
+      "texto": "espacio,",
+      "inicio": 11.5,
+      "fin": 12.4
+    },
+    {
+      "texto": "para",
+      "inicio": 12.448,
+      "fin": 12.64
+    },
+    {
+      "texto": "que",
+      "inicio": 12.66,
+      "fin": 12.72
+    },
+    {
+      "texto": "un",
+      "inicio": 12.747,
+      "fin": 12.8
+    },
+    {
+      "texto": "apellido",
+      "inicio": 12.853,
+      "fin": 13.28
+    },
+    {
+      "texto": "compuesto",
+      "inicio": 13.344,
+      "fin": 14.0
+    },
+    {
+      "texto": "no",
+      "inicio": 14.08,
+      "fin": 14.24
+    },
+    {
+      "texto": "se",
+      "inicio": 14.293,
+      "fin": 14.4
+    },
+    {
+      "texto": "parta",
+      "inicio": 14.448,
+      "fin": 14.72
+    },
+    {
+      "texto": "en",
+      "inicio": 14.747,
+      "fin": 14.8
+    },
+    {
+      "texto": "tres.",
+      "inicio": 14.88,
+      "fin": 15.44
+    },
+    {
+      "texto": "Ahora",
+      "inicio": 15.707,
+      "fin": 16.32
+    },
+    {
+      "texto": "tienes",
+      "inicio": 16.366,
+      "fin": 16.64
+    },
+    {
+      "texto": "Nombre",
+      "inicio": 16.697,
+      "fin": 17.04
+    },
+    {
+      "texto": "y",
+      "inicio": 17.08,
+      "fin": 17.12
+    },
+    {
+      "texto": "Apellido",
+      "inicio": 17.173,
+      "fin": 17.52
+    },
+    {
+      "texto": "por",
+      "inicio": 17.56,
+      "fin": 17.68
+    },
+    {
+      "texto": "separado,",
+      "inicio": 17.733,
+      "fin": 18.56
+    },
+    {
+      "texto": "perfecto",
+      "inicio": 18.62,
+      "fin": 19.12
+    },
+    {
+      "texto": "para",
+      "inicio": 19.152,
+      "fin": 19.28
+    },
+    {
+      "texto": "un",
+      "inicio": 19.307,
+      "fin": 19.36
+    },
+    {
+      "texto": "saludo",
+      "inicio": 19.42,
+      "fin": 19.84
+    },
+    {
+      "texto": "en",
+      "inicio": 19.92,
+      "fin": 20.08
+    },
+    {
+      "texto": "un",
+      "inicio": 20.133,
+      "fin": 20.24
+    },
+    {
+      "texto": "correo.",
+      "inicio": 20.309,
+      "fin": 20.88
+    }
+  ]
+}

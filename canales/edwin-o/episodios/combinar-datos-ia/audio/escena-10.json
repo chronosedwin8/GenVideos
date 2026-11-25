@@ -1,0 +1,240 @@
+{
+  "num": "10",
+  "titulo": "Pieza 3: BUSCARX trae nombre y ciudad",
+  "texto": "Pieza tres: dos BUSCARX. El primero busca cada código en la hoja Clientes y trae el nombre. El segundo trae la ciudad. Y el cuarto argumento, \"No encontrado\", es lo que se muestra si el cliente no existe, en lugar del feo numeral N, barra, D.",
+  "texto_tts": "Pieza tres: dos BUSCARX. El primero busca cada código en la hoja Clientes y trae el nombre. El segundo trae la ciudad. Y el cuarto argumento, \"No encontrado\", es lo que se muestra si el cliente no existe, en lugar del feo numeral N, barra, D.",
+  "modelo": "eleven_v3",
+  "duracion": 25.04,
+  "palabras": [
+    {
+      "texto": "Pieza",
+      "inicio": 0.0,
+      "fin": 0.4
+    },
+    {
+      "texto": "tres:",
+      "inicio": 0.48,
+      "fin": 0.96
+    },
+    {
+      "texto": "dos",
+      "inicio": 1.16,
+      "fin": 1.76
+    },
+    {
+      "texto": "BUSCARX.",
+      "inicio": 1.96,
+      "fin": 4.16
+    },
+    {
+      "texto": "El",
+      "inicio": 4.347,
+      "fin": 4.72
+    },
+    {
+      "texto": "primero",
+      "inicio": 4.78,
+      "fin": 5.2
+    },
+    {
+      "texto": "busca",
+      "inicio": 5.293,
+      "fin": 5.76
+    },
+    {
+      "texto": "cada",
+      "inicio": 5.84,
+      "fin": 6.16
+    },
+    {
+      "texto": "código",
+      "inicio": 6.24,
+      "fin": 6.72
+    },
+    {
+      "texto": "en",
+      "inicio": 6.827,
+      "fin": 7.04
+    },
+    {
+      "texto": "la",
+      "inicio": 7.067,
+      "fin": 7.12
+    },
+    {
+      "texto": "hoja",
+      "inicio": 7.173,
+      "fin": 7.44
+    },
+    {
+      "texto": "Clientes",
+      "inicio": 7.531,
+      "fin": 8.32
+    },
+    {
+      "texto": "y",
+      "inicio": 8.44,
+      "fin": 8.56
+    },
+    {
+      "texto": "trae",
+      "inicio": 8.64,
+      "fin": 8.96
+    },
+    {
+      "texto": "el",
+      "inicio": 9.013,
+      "fin": 9.12
+    },
+    {
+      "texto": "nombre.",
+      "inicio": 9.189,
+      "fin": 9.84
+    },
+    {
+      "texto": "El",
+      "inicio": 10.133,
+      "fin": 10.72
+    },
+    {
+      "texto": "segundo",
+      "inicio": 10.8,
+      "fin": 11.36
+    },
+    {
+      "texto": "trae",
+      "inicio": 11.493,
+      "fin": 11.92
+    },
+    {
+      "texto": "la",
+      "inicio": 11.947,
+      "fin": 12.0
+    },
+    {
+      "texto": "ciudad.",
+      "inicio": 12.08,
+      "fin": 12.88
+    },
+    {
+      "texto": "Y",
+      "inicio": 13.28,
+      "fin": 13.68
+    },
+    {
+      "texto": "el",
+      "inicio": 13.733,
+      "fin": 13.84
+    },
+    {
+      "texto": "cuarto",
+      "inicio": 13.92,
+      "fin": 14.32
+    },
+    {
+      "texto": "argumento,",
+      "inicio": 14.382,
+      "fin": 15.28
+    },
+    {
+      "texto": "\"No",
+      "inicio": 15.36,
+      "fin": 15.6
+    },
+    {
+      "texto": "encontrado\",",
+      "inicio": 15.68,
+      "fin": 17.04
+    },
+    {
+      "texto": "es",
+      "inicio": 17.093,
+      "fin": 17.2
+    },
+    {
+      "texto": "lo",
+      "inicio": 17.227,
+      "fin": 17.28
+    },
+    {
+      "texto": "que",
+      "inicio": 17.32,
+      "fin": 17.44
+    },
+    {
+      "texto": "se",
+      "inicio": 17.493,
+      "fin": 17.6
+    },
+    {
+      "texto": "muestra",
+      "inicio": 17.66,
+      "fin": 18.08
+    },
+    {
+      "texto": "si",
+      "inicio": 18.16,
+      "fin": 18.32
+    },
+    {
+      "texto": "el",
+      "inicio": 18.347,
+      "fin": 18.4
+    },
+    {
+      "texto": "cliente",
+      "inicio": 18.48,
+      "fin": 19.04
+    },
+    {
+      "texto": "no",
+      "inicio": 19.173,
+      "fin": 19.44
+    },
+    {
+      "texto": "existe,",
+      "inicio": 19.543,
+      "fin": 20.4
+    },
+    {
+      "texto": "en",
+      "inicio": 20.56,
+      "fin": 20.88
+    },
+    {
+      "texto": "lugar",
+      "inicio": 20.947,
+      "fin": 21.28
+    },
+    {
+      "texto": "del",
+      "inicio": 21.38,
+      "fin": 21.68
+    },
+    {
+      "texto": "feo",
+      "inicio": 21.813,
+      "fin": 22.16
+    },
+    {
+      "texto": "numeral",
+      "inicio": 22.23,
+      "fin": 22.72
+    },
+    {
+      "texto": "N,",
+      "inicio": 23.08,
+      "fin": 23.76
+    },
+    {
+      "texto": "barra,",
+      "inicio": 23.84,
+      "fin": 24.24
+    },
+    {
+      "texto": "D.",
+      "inicio": 24.48,
+      "fin": 25.04
+    }
+  ]
+}

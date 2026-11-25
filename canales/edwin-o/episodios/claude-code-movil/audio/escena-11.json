@@ -1,0 +1,255 @@
+{
+  "num": "11",
+  "titulo": "Paso 5: mándale una tarea",
+  "texto": "Paso cinco: mándale una tarea de verdad. Yo le escribo: ejecuta reportes punto p y, y dime cuántos reportes salieron. Es el programa de Python del video donde automatizamos Excel. Claude lee la carpeta, entiende qué hace el script, y lo ejecuta en mi computador, no en el celular.",
+  "texto_tts": "Paso cinco: mándale una tarea de verdad. Yo le escribo: ejecuta reportes punto p y, y dime cuántos reportes salieron. Es el programa de Python del video donde automatizamos Excel. Claude lee la carpeta, entiende qué hace el script, y lo ejecuta en mi computador, no en el celular.",
+  "modelo": "eleven_v3",
+  "duracion": 19.2,
+  "palabras": [
+    {
+      "texto": "Paso",
+      "inicio": 0.0,
+      "fin": 0.32
+    },
+    {
+      "texto": "cinco:",
+      "inicio": 0.387,
+      "fin": 0.8
+    },
+    {
+      "texto": "mándale",
+      "inicio": 0.907,
+      "fin": 1.36
+    },
+    {
+      "texto": "una",
+      "inicio": 1.4,
+      "fin": 1.52
+    },
+    {
+      "texto": "tarea",
+      "inicio": 1.587,
+      "fin": 1.92
+    },
+    {
+      "texto": "de",
+      "inicio": 2.027,
+      "fin": 2.24
+    },
+    {
+      "texto": "verdad.",
+      "inicio": 2.297,
+      "fin": 2.72
+    },
+    {
+      "texto": "Yo",
+      "inicio": 2.827,
+      "fin": 3.04
+    },
+    {
+      "texto": "le",
+      "inicio": 3.093,
+      "fin": 3.2
+    },
+    {
+      "texto": "escribo:",
+      "inicio": 3.253,
+      "fin": 3.76
+    },
+    {
+      "texto": "ejecuta",
+      "inicio": 3.824,
+      "fin": 4.32
+    },
+    {
+      "texto": "reportes",
+      "inicio": 4.389,
+      "fin": 4.96
+    },
+    {
+      "texto": "punto",
+      "inicio": 5.04,
+      "fin": 5.44
+    },
+    {
+      "texto": "p",
+      "inicio": 5.6,
+      "fin": 5.76
+    },
+    {
+      "texto": "y,",
+      "inicio": 6.24,
+      "fin": 6.88
+    },
+    {
+      "texto": "y",
+      "inicio": 6.92,
+      "fin": 6.96
+    },
+    {
+      "texto": "dime",
+      "inicio": 7.024,
+      "fin": 7.28
+    },
+    {
+      "texto": "cuántos",
+      "inicio": 7.333,
+      "fin": 7.68
+    },
+    {
+      "texto": "reportes",
+      "inicio": 7.726,
+      "fin": 8.08
+    },
+    {
+      "texto": "salieron.",
+      "inicio": 8.12,
+      "fin": 8.68
+    },
+    {
+      "texto": "Es",
+      "inicio": 8.72,
+      "fin": 8.8
+    },
+    {
+      "texto": "el",
+      "inicio": 8.853,
+      "fin": 8.96
+    },
+    {
+      "texto": "programa",
+      "inicio": 9.004,
+      "fin": 9.36
+    },
+    {
+      "texto": "de",
+      "inicio": 9.387,
+      "fin": 9.44
+    },
+    {
+      "texto": "Python",
+      "inicio": 9.52,
+      "fin": 10.0
+    },
+    {
+      "texto": "del",
+      "inicio": 10.06,
+      "fin": 10.24
+    },
+    {
+      "texto": "video",
+      "inicio": 10.307,
+      "fin": 10.64
+    },
+    {
+      "texto": "donde",
+      "inicio": 10.693,
+      "fin": 10.96
+    },
+    {
+      "texto": "automatizamos",
+      "inicio": 11.01,
+      "fin": 11.68
+    },
+    {
+      "texto": "Excel.",
+      "inicio": 11.747,
+      "fin": 12.32
+    },
+    {
+      "texto": "Claude",
+      "inicio": 12.469,
+      "fin": 13.36
+    },
+    {
+      "texto": "lee",
+      "inicio": 13.44,
+      "fin": 13.68
+    },
+    {
+      "texto": "la",
+      "inicio": 13.707,
+      "fin": 13.76
+    },
+    {
+      "texto": "carpeta,",
+      "inicio": 13.824,
+      "fin": 14.56
+    },
+    {
+      "texto": "entiende",
+      "inicio": 14.64,
+      "fin": 15.12
+    },
+    {
+      "texto": "qué",
+      "inicio": 15.16,
+      "fin": 15.28
+    },
+    {
+      "texto": "hace",
+      "inicio": 15.312,
+      "fin": 15.44
+    },
+    {
+      "texto": "el",
+      "inicio": 15.467,
+      "fin": 15.52
+    },
+    {
+      "texto": "script,",
+      "inicio": 15.589,
+      "fin": 16.16
+    },
+    {
+      "texto": "y",
+      "inicio": 16.32,
+      "fin": 16.48
+    },
+    {
+      "texto": "lo",
+      "inicio": 16.507,
+      "fin": 16.56
+    },
+    {
+      "texto": "ejecuta",
+      "inicio": 16.608,
+      "fin": 16.96
+    },
+    {
+      "texto": "en",
+      "inicio": 17.04,
+      "fin": 17.2
+    },
+    {
+      "texto": "mi",
+      "inicio": 17.28,
+      "fin": 17.44
+    },
+    {
+      "texto": "computador,",
+      "inicio": 17.486,
+      "fin": 18.24
+    },
+    {
+      "texto": "no",
+      "inicio": 18.293,
+      "fin": 18.4
+    },
+    {
+      "texto": "en",
+      "inicio": 18.427,
+      "fin": 18.48
+    },
+    {
+      "texto": "el",
+      "inicio": 18.507,
+      "fin": 18.56
+    },
+    {
+      "texto": "celular.",
+      "inicio": 18.62,
+      "fin": 19.2
+    }
+  ]
+}

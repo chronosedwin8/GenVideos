@@ -1,0 +1,85 @@
+{
+  "titulo": "ChatGPT vs Claude en Excel: los puse a combinar datos (y probé todo)",
+  "titulos_alternativos": [
+    "¿ChatGPT o Claude para Excel? Duelo con datos reales",
+    "Duelo de IA en Excel: ChatGPT vs Claude"
+  ],
+  "intro": "Misma pregunta y mismos datos para ChatGPT (plan gratuito) y Claude (plan Pro, Opus 5.5). Probé cada fórmula en Excel 365 y cada código en Python: 5 rondas, marcador final y cuál te conviene a ti. Prueba real del 25 de noviembre de 2026; no es un estudio científico.",
+  "aprenderas": [
+    "Las reglas del duelo (y por qué no son planes iguales)",
+    "Ronda 1: la fórmula",
+    "Ronda 2: problemas en los datos",
+    "Ronda 3: total por ciudad",
+    "Ronda 4: el código de Python",
+    "Ronda 5: la pregunta de analista",
+    "Cuál usar según lo que necesites"
+  ],
+  "bloque": "Marcador: Claude 2 · ChatGPT 1 · 3 empates.\nFórmulas: las dos funcionan en Excel 365. Código Python: el de ChatGPT falló (KeyError: 'Cliente') y lo corrigió en la misma respuesta; el de Claude funcionó a la primera.\nLa mejor IA es la que verificas.",
+  "capitulos": {
+    "01": "ChatGPT contra Claude",
+    "03": "Las reglas",
+    "04": "El reto",
+    "05": "El mensaje exacto",
+    "06": "Mi criterio",
+    "07": "Ronda 1: la fórmula",
+    "08": "La prueba en Excel",
+    "09": "Ronda 2: problemas en los datos",
+    "10": "Ronda 3: total por ciudad",
+    "11": "Ronda 4: el código de Python",
+    "12": "Para ser justos",
+    "13": "Ronda 5: la pregunta de analista",
+    "14": "Rapidez y presentación",
+    "15": "El marcador final",
+    "16": "Lo que hay que decir",
+    "17": "La gran lección",
+    "18": "¿Cuál usar?",
+    "19": "Pon tú el próximo reto"
+  },
+  "fuentes": [
+    "Prueba propia del 25 nov 2026 (ChatGPT plan gratuito; Claude plan Pro, Opus 5.5)."
+  ],
+  "hashtags": [
+    "#ChatGPT",
+    "#Claude",
+    "#Excel"
+  ],
+  "tags": [
+    "chatgpt vs claude",
+    "chatgpt vs claude excel",
+    "mejor ia para excel",
+    "chatgpt excel",
+    "claude excel",
+    "ia para excel",
+    "formulas con ia",
+    "python con ia",
+    "comparativa ia",
+    "inteligencia artificial",
+    "edwin o"
+  ],
+  "playlist": "Excel con IA",
+  "programar": "2027-01-12 07:00",
+  "shorts": [
+    {
+      "id": "short-1",
+      "titulo": "El código de ChatGPT FALLÓ (y el de Claude no) #shorts",
+      "descripcion": "Ejecuté el código de las dos IA con el mismo archivo. Video completo en el canal.",
+      "tags": [
+        "chatgpt vs claude"
+      ],
+      "programar": "2027-01-13 12:00"
+    },
+    {
+      "id": "short-2",
+      "titulo": "ChatGPT vs Claude: EL MARCADOR #shorts",
+      "descripcion": "Claude 2 · ChatGPT 1 · 3 empates. La mejor IA es la que verificas. Video completo en el canal.",
+      "tags": [
+        "chatgpt vs claude"
+      ],
+      "programar": "2027-01-16 12:00"
+    }
+  ],
+  "enlaces": [
+    "📊 Guías de Excel en el blog: https://www.edwinortiz.net/excel/",
+    "🌐 Plantillas y cursos: https://www.edwinortiz.net"
+  ]
+}

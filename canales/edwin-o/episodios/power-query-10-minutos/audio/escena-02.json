@@ -1,0 +1,230 @@
+{
+  "num": "02",
+  "titulo": "Presentación",
+  "texto": "¡Bienvenidos, amigos del canal! Vamos en busca del poder tecnológico. En el video de qué es Power Query vimos lo básico. Hoy vamos en serio: diez movimientos, uno tras otro, para que domines Power Query. Toma nota, porque cada uno resuelve un problema real.",
+  "texto_tts": "[excited] ¡Bienvenidos, amigos del canal! Vamos en busca del poder tecnológico. En el video de qué es Power Query vimos lo básico. Hoy vamos en serio: diez movimientos, uno tras otro, para que domines Power Query. Toma nota, porque cada uno resuelve un problema real.",
+  "modelo": "eleven_v3",
+  "duracion": 20.64,
+  "palabras": [
+    {
+      "texto": "¡Bienvenidos,",
+      "inicio": 0.072,
+      "fin": 1.08
+    },
+    {
+      "texto": "amigos",
+      "inicio": 1.109,
+      "fin": 1.28
+    },
+    {
+      "texto": "del",
+      "inicio": 1.32,
+      "fin": 1.44
+    },
+    {
+      "texto": "canal!",
+      "inicio": 1.507,
+      "fin": 2.0
+    },
+    {
+      "texto": "Vamos",
+      "inicio": 2.24,
+      "fin": 2.8
+    },
+    {
+      "texto": "en",
+      "inicio": 2.853,
+      "fin": 2.96
+    },
+    {
+      "texto": "busca",
+      "inicio": 3.013,
+      "fin": 3.28
+    },
+    {
+      "texto": "del",
+      "inicio": 3.34,
+      "fin": 3.52
+    },
+    {
+      "texto": "poder",
+      "inicio": 3.613,
+      "fin": 4.08
+    },
+    {
+      "texto": "tecnológico.",
+      "inicio": 4.144,
+      "fin": 5.12
+    },
+    {
+      "texto": "En",
+      "inicio": 5.307,
+      "fin": 5.68
+    },
+    {
+      "texto": "el",
+      "inicio": 5.733,
+      "fin": 5.84
+    },
+    {
+      "texto": "video",
+      "inicio": 5.907,
+      "fin": 6.24
+    },
+    {
+      "texto": "de",
+      "inicio": 6.32,
+      "fin": 6.48
+    },
+    {
+      "texto": "qué",
+      "inicio": 6.58,
+      "fin": 6.88
+    },
+    {
+      "texto": "es",
+      "inicio": 7.013,
+      "fin": 7.28
+    },
+    {
+      "texto": "Power",
+      "inicio": 7.36,
+      "fin": 7.76
+    },
+    {
+      "texto": "Query",
+      "inicio": 7.84,
+      "fin": 8.24
+    },
+    {
+      "texto": "vimos",
+      "inicio": 8.4,
+      "fin": 8.8
+    },
+    {
+      "texto": "lo",
+      "inicio": 8.853,
+      "fin": 8.96
+    },
+    {
+      "texto": "básico.",
+      "inicio": 9.02,
+      "fin": 9.52
+    },
+    {
+      "texto": "Hoy",
+      "inicio": 9.64,
+      "fin": 10.0
+    },
+    {
+      "texto": "vamos",
+      "inicio": 10.093,
+      "fin": 10.56
+    },
+    {
+      "texto": "en",
+      "inicio": 10.613,
+      "fin": 10.72
+    },
+    {
+      "texto": "serio:",
+      "inicio": 10.78,
+      "fin": 11.6
+    },
+    {
+      "texto": "diez",
+      "inicio": 11.66,
+      "fin": 11.92
+    },
+    {
+      "texto": "movimientos,",
+      "inicio": 11.96,
+      "fin": 12.96
+    },
+    {
+      "texto": "uno",
+      "inicio": 13.02,
+      "fin": 13.2
+    },
+    {
+      "texto": "tras",
+      "inicio": 13.248,
+      "fin": 13.44
+    },
+    {
+      "texto": "otro,",
+      "inicio": 13.52,
+      "fin": 14.16
+    },
+    {
+      "texto": "para",
+      "inicio": 14.208,
+      "fin": 14.4
+    },
+    {
+      "texto": "que",
+      "inicio": 14.44,
+      "fin": 14.56
+    },
+    {
+      "texto": "domines",
+      "inicio": 14.6,
+      "fin": 15.12
+    },
+    {
+      "texto": "Power",
+      "inicio": 15.213,
+      "fin": 15.68
+    },
+    {
+      "texto": "Query.",
+      "inicio": 15.747,
+      "fin": 16.16
+    },
+    {
+      "texto": "Toma",
+      "inicio": 16.36,
+      "fin": 16.72
+    },
+    {
+      "texto": "nota,",
+      "inicio": 16.8,
+      "fin": 17.2
+    },
+    {
+      "texto": "porque",
+      "inicio": 17.234,
+      "fin": 17.44
+    },
+    {
+      "texto": "cada",
+      "inicio": 17.52,
+      "fin": 17.84
+    },
+    {
+      "texto": "uno",
+      "inicio": 17.94,
+      "fin": 18.24
+    },
+    {
+      "texto": "resuelve",
+      "inicio": 18.36,
+      "fin": 19.04
+    },
+    {
+      "texto": "un",
+      "inicio": 19.147,
+      "fin": 19.36
+    },
+    {
+      "texto": "problema",
+      "inicio": 19.422,
+      "fin": 19.92
+    },
+    {
+      "texto": "real.",
+      "inicio": 20.016,
+      "fin": 20.64
+    }
+  ]
+}

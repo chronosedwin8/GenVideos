@@ -1,0 +1,340 @@
+{
+  "num": "21",
+  "titulo": "Cierre y siguiente video",
+  "texto": "Visita mi página, edwinortiz punto net, y la tienda, donde tienes plantillas de Excel listas para usar; te dejo el enlace abajo. Y en el próximo video, pongo a pelear a ChatGPT contra Claude con este mismo problema: misma pregunta, mismos datos, y probamos todo en Excel. ¿Cuál será más inteligente? Suscríbete para no perdértelo. El poder de la tecnología te va a cambiar el mundo.",
+  "texto_tts": "Visita mi página, edwinortiz punto net, y la tienda, donde tienes plantillas de Excel listas para usar; te dejo el enlace abajo. Y en el próximo video, pongo a pelear a ChatGPT contra Claude con este mismo problema: misma pregunta, mismos datos, y probamos todo en Excel. ¿Cuál será más inteligente? Suscríbete para no perdértelo. [excited] El poder de la tecnología te va a cambiar el mundo.",
+  "modelo": "eleven_v3",
+  "duracion": 33.92,
+  "palabras": [
+    {
+      "texto": "Visita",
+      "inicio": 0.0,
+      "fin": 0.4
+    },
+    {
+      "texto": "mi",
+      "inicio": 0.48,
+      "fin": 0.64
+    },
+    {
+      "texto": "página,",
+      "inicio": 0.72,
+      "fin": 1.52
+    },
+    {
+      "texto": "edwinortiz",
+      "inicio": 1.6,
+      "fin": 2.48
+    },
+    {
+      "texto": "punto",
+      "inicio": 2.547,
+      "fin": 2.88
+    },
+    {
+      "texto": "net,",
+      "inicio": 2.98,
+      "fin": 3.44
+    },
+    {
+      "texto": "y",
+      "inicio": 3.76,
+      "fin": 4.08
+    },
+    {
+      "texto": "la",
+      "inicio": 4.133,
+      "fin": 4.24
+    },
+    {
+      "texto": "tienda,",
+      "inicio": 4.32,
+      "fin": 4.96
+    },
+    {
+      "texto": "donde",
+      "inicio": 5.093,
+      "fin": 5.76
+    },
+    {
+      "texto": "tienes",
+      "inicio": 5.829,
+      "fin": 6.24
+    },
+    {
+      "texto": "plantillas",
+      "inicio": 6.307,
+      "fin": 6.88
+    },
+    {
+      "texto": "de",
+      "inicio": 6.907,
+      "fin": 6.96
+    },
+    {
+      "texto": "Excel",
+      "inicio": 7.053,
+      "fin": 7.52
+    },
+    {
+      "texto": "listas",
+      "inicio": 7.632,
+      "fin": 8.16
+    },
+    {
+      "texto": "para",
+      "inicio": 8.208,
+      "fin": 8.4
+    },
+    {
+      "texto": "usar;",
+      "inicio": 8.48,
+      "fin": 9.44
+    },
+    {
+      "texto": "te",
+      "inicio": 9.467,
+      "fin": 9.52
+    },
+    {
+      "texto": "dejo",
+      "inicio": 9.6,
+      "fin": 9.84
+    },
+    {
+      "texto": "el",
+      "inicio": 9.867,
+      "fin": 9.92
+    },
+    {
+      "texto": "enlace",
+      "inicio": 10.0,
+      "fin": 10.4
+    },
+    {
+      "texto": "abajo.",
+      "inicio": 10.453,
+      "fin": 11.28
+    },
+    {
+      "texto": "Y",
+      "inicio": 11.52,
+      "fin": 11.76
+    },
+    {
+      "texto": "en",
+      "inicio": 11.787,
+      "fin": 11.84
+    },
+    {
+      "texto": "el",
+      "inicio": 11.893,
+      "fin": 12.0
+    },
+    {
+      "texto": "próximo",
+      "inicio": 12.07,
+      "fin": 12.56
+    },
+    {
+      "texto": "video,",
+      "inicio": 12.64,
+      "fin": 13.76
+    },
+    {
+      "texto": "pongo",
+      "inicio": 13.8,
+      "fin": 14.08
+    },
+    {
+      "texto": "a",
+      "inicio": 14.12,
+      "fin": 14.16
+    },
+    {
+      "texto": "pelear",
+      "inicio": 14.24,
+      "fin": 14.72
+    },
+    {
+      "texto": "a",
+      "inicio": 14.88,
+      "fin": 15.04
+    },
+    {
+      "texto": "ChatGPT",
+      "inicio": 15.12,
+      "fin": 16.0
+    },
+    {
+      "texto": "contra",
+      "inicio": 16.069,
+      "fin": 16.48
+    },
+    {
+      "texto": "Claude",
+      "inicio": 16.571,
+      "fin": 17.12
+    },
+    {
+      "texto": "con",
+      "inicio": 17.24,
+      "fin": 17.6
+    },
+    {
+      "texto": "este",
+      "inicio": 17.648,
+      "fin": 17.84
+    },
+    {
+      "texto": "mismo",
+      "inicio": 17.907,
+      "fin": 18.24
+    },
+    {
+      "texto": "problema:",
+      "inicio": 18.302,
+      "fin": 19.6
+    },
+    {
+      "texto": "misma",
+      "inicio": 19.667,
+      "fin": 20.0
+    },
+    {
+      "texto": "pregunta,",
+      "inicio": 20.08,
+      "fin": 20.88
+    },
+    {
+      "texto": "mismos",
+      "inicio": 21.04,
+      "fin": 21.76
+    },
+    {
+      "texto": "datos,",
+      "inicio": 21.867,
+      "fin": 22.401
+    },
+    {
+      "texto": "y",
+      "inicio": 22.6,
+      "fin": 22.8
+    },
+    {
+      "texto": "probamos",
+      "inicio": 22.864,
+      "fin": 23.36
+    },
+    {
+      "texto": "todo",
+      "inicio": 23.424,
+      "fin": 23.68
+    },
+    {
+      "texto": "en",
+      "inicio": 23.707,
+      "fin": 23.76
+    },
+    {
+      "texto": "Excel.",
+      "inicio": 23.84,
+      "fin": 24.4
+    },
+    {
+      "texto": "¿Cuál",
+      "inicio": 24.8,
+      "fin": 25.36
+    },
+    {
+      "texto": "será",
+      "inicio": 25.424,
+      "fin": 25.68
+    },
+    {
+      "texto": "más",
+      "inicio": 25.74,
+      "fin": 25.92
+    },
+    {
+      "texto": "inteligente?",
+      "inicio": 25.99,
+      "fin": 26.96
+    },
+    {
+      "texto": "Suscríbete",
+      "inicio": 27.16,
+      "fin": 28.24
+    },
+    {
+      "texto": "para",
+      "inicio": 28.32,
+      "fin": 28.64
+    },
+    {
+      "texto": "no",
+      "inicio": 28.693,
+      "fin": 28.8
+    },
+    {
+      "texto": "perdértelo.",
+      "inicio": 28.864,
+      "fin": 30.04
+    },
+    {
+      "texto": "El",
+      "inicio": 30.613,
+      "fin": 30.64
+    },
+    {
+      "texto": "poder",
+      "inicio": 30.707,
+      "fin": 31.04
+    },
+    {
+      "texto": "de",
+      "inicio": 31.093,
+      "fin": 31.2
+    },
+    {
+      "texto": "la",
+      "inicio": 31.227,
+      "fin": 31.28
+    },
+    {
+      "texto": "tecnología",
+      "inicio": 31.36,
+      "fin": 32.16
+    },
+    {
+      "texto": "te",
+      "inicio": 32.32,
+      "fin": 32.64
+    },
+    {
+      "texto": "va",
+      "inicio": 32.667,
+      "fin": 32.72
+    },
+    {
+      "texto": "a",
+      "inicio": 32.76,
+      "fin": 32.8
+    },
+    {
+      "texto": "cambiar",
+      "inicio": 32.85,
+      "fin": 33.2
+    },
+    {
+      "texto": "el",
+      "inicio": 33.253,
+      "fin": 33.36
+    },
+    {
+      "texto": "mundo.",
+      "inicio": 33.427,
+      "fin": 33.92
+    }
+  ]
+}

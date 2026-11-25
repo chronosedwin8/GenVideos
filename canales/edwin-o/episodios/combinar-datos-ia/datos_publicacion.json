@@ -1,0 +1,87 @@
+{
+  "titulo": "Combina datos en Excel con IA como un profesional (la varita mágica)",
+  "titulos_alternativos": [
+    "El prompt que combina tus hojas de Excel",
+    "Junta varias hojas de Excel con IA (y descubre el cliente fantasma)"
+  ],
+  "intro": "Con un buen prompt, la IA te da una fórmula que junta dos meses de ventas y trae el nombre y la ciudad de cada cliente. Te la explico pieza por pieza (APILARV, ESPACIOS, BUSCARX, APILARH), resolvemos el misterio del cliente fantasma y vemos otras 3 varitas: la IA dentro de Excel, Power Query y Python.",
+  "aprenderas": [
+    "El prompt exacto (la varita)",
+    "La fórmula pieza por pieza",
+    "El cliente fantasma y el espacio invisible",
+    "Resumen por ciudad con AGRUPARPOR",
+    "La IA dentro de Excel, Power Query y Python",
+    "Las reglas del profesional"
+  ],
+  "bloque": "Fórmulas del video (probadas en Excel 365):\n=LET(datos;APILARV(Ene!A2:C7;Feb!A2:C7);ids;ESPACIOS(ELEGIRCOLS(datos;2));APILARH(ELEGIRCOLS(datos;1);ids;ELEGIRCOLS(datos;3);BUSCARX(ids;Clientes!A2:A6;Clientes!B2:B6;\"No encontrado\");BUSCARX(ids;Clientes!A2:A6;Clientes!C2:C6;\"No encontrado\")))\n=AGRUPARPOR(ELEGIRCOLS(A2#;5);ELEGIRCOLS(A2#;3);SUMA)\nRequiere Excel para Microsoft 365.",
+  "capitulos": {
+    "01": "Tres hojas, una tabla",
+    "03": "2026: la IA entra a Excel",
+    "04": "El error número uno",
+    "05": "Los datos",
+    "06": "La varita: el prompt",
+    "07": "La fórmula de la IA",
+    "08": "Pieza 1: APILARV",
+    "09": "Pieza 2: ESPACIOS",
+    "10": "Pieza 3: BUSCARX",
+    "11": "Pieza 4: APILARH",
+    "12": "El resultado",
+    "13": "El misterio del cliente fantasma",
+    "14": "Bonus: resumen por ciudad",
+    "15": "Varita 2: la IA dentro de Excel",
+    "16": "Varita 3: Power Query",
+    "17": "Varita 4: Python",
+    "18": "Reglas del profesional",
+    "19": "Si no te funcionó"
+  },
+  "fuentes": [
+    "OpenAI, ChatGPT for Excel: https://openai.com/index/chatgpt-for-excel/",
+    "Claude for Excel (Microsoft Marketplace): https://marketplace.microsoft.com/en-us/product/WA200009404",
+    "Microsoft Support, Combinar consultas (Power Query): https://support.microsoft.com/es-es/office/combinar-consultas-power-query-fd157620-5470-4c0f-b132-7ca2616d17f9"
+  ],
+  "hashtags": [
+    "#Excel",
+    "#InteligenciaArtificial",
+    "#ChatGPT"
+  ],
+  "tags": [
+    "combinar datos excel",
+    "unir tablas excel",
+    "combinar hojas excel",
+    "excel con ia",
+    "chatgpt excel",
+    "apilarv excel",
+    "buscarx",
+    "prompt para excel",
+    "copilot excel",
+    "claude excel",
+    "analista de datos",
+    "edwin o"
+  ],
+  "playlist": "Excel con IA",
+  "programar": "2027-01-07 07:00",
+  "shorts": [
+    {
+      "id": "short-1",
+      "titulo": "El misterio del CLIENTE FANTASMA en Excel 👻 #shorts",
+      "descripcion": "C-06 compró 820… pero no existe en Clientes. Video completo en el canal.",
+      "tags": [
+        "excel ia"
+      ],
+      "programar": "2027-01-08 12:00"
+    },
+    {
+      "id": "short-2",
+      "titulo": "El prompt que COMBINA TUS DATOS en Excel #shorts",
+      "descripcion": "Versión, dónde están los datos, qué quieres y \"dime si ves problemas\". Video completo en el canal.",
+      "tags": [
+        "prompt excel"
+      ],
+      "programar": "2027-01-11 12:00"
+    }
+  ],
+  "enlaces": [
+    "📊 Guías de Excel en el blog: https://www.edwinortiz.net/excel/",
+    "🌐 Plantillas y cursos: https://www.edwinortiz.net"
+  ]
+}

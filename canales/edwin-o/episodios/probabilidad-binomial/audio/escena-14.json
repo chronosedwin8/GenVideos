@@ -1,0 +1,295 @@
+{
+  "num": "14",
+  "titulo": "¿Y lo normal?",
+  "texto": "Para comparar, ¿qué sería lo normal? Con un cinco por ciento real, lo más probable es encontrar cero defectuosas, treinta y cinco coma ocho por ciento, o una, treinta y siete coma siete. Y dos o menos pasa el noventa y dos coma cinco por ciento de las veces. Cinco está muy, muy lejos de lo normal.",
+  "texto_tts": "Para comparar, ¿qué sería lo normal? Con un cinco por ciento real, lo más probable es encontrar cero defectuosas, treinta y cinco coma ocho por ciento, o una, treinta y siete coma siete. Y dos o menos pasa el noventa y dos coma cinco por ciento de las veces. Cinco está muy, muy lejos de lo normal.",
+  "modelo": "eleven_v3",
+  "duracion": 21.92,
+  "palabras": [
+    {
+      "texto": "Para",
+      "inicio": 0.0,
+      "fin": 0.16
+    },
+    {
+      "texto": "comparar,",
+      "inicio": 0.217,
+      "fin": 0.72
+    },
+    {
+      "texto": "¿qué",
+      "inicio": 0.74,
+      "fin": 0.8
+    },
+    {
+      "texto": "sería",
+      "inicio": 0.86,
+      "fin": 1.12
+    },
+    {
+      "texto": "lo",
+      "inicio": 1.147,
+      "fin": 1.2
+    },
+    {
+      "texto": "normal?",
+      "inicio": 1.28,
+      "fin": 1.84
+    },
+    {
+      "texto": "Con",
+      "inicio": 2.04,
+      "fin": 2.64
+    },
+    {
+      "texto": "un",
+      "inicio": 2.667,
+      "fin": 2.72
+    },
+    {
+      "texto": "cinco",
+      "inicio": 2.773,
+      "fin": 3.04
+    },
+    {
+      "texto": "por",
+      "inicio": 3.1,
+      "fin": 3.28
+    },
+    {
+      "texto": "ciento",
+      "inicio": 3.32,
+      "fin": 3.52
+    },
+    {
+      "texto": "real,",
+      "inicio": 3.6,
+      "fin": 4.4
+    },
+    {
+      "texto": "lo",
+      "inicio": 4.427,
+      "fin": 4.48
+    },
+    {
+      "texto": "más",
+      "inicio": 4.54,
+      "fin": 4.72
+    },
+    {
+      "texto": "probable",
+      "inicio": 4.747,
+      "fin": 4.96
+    },
+    {
+      "texto": "es",
+      "inicio": 5.013,
+      "fin": 5.12
+    },
+    {
+      "texto": "encontrar",
+      "inicio": 5.184,
+      "fin": 5.76
+    },
+    {
+      "texto": "cero",
+      "inicio": 5.92,
+      "fin": 6.24
+    },
+    {
+      "texto": "defectuosas,",
+      "inicio": 6.297,
+      "fin": 8.08
+    },
+    {
+      "texto": "treinta",
+      "inicio": 8.12,
+      "fin": 8.4
+    },
+    {
+      "texto": "y",
+      "inicio": 8.44,
+      "fin": 8.48
+    },
+    {
+      "texto": "cinco",
+      "inicio": 8.533,
+      "fin": 8.8
+    },
+    {
+      "texto": "coma",
+      "inicio": 8.864,
+      "fin": 9.12
+    },
+    {
+      "texto": "ocho",
+      "inicio": 9.2,
+      "fin": 9.36
+    },
+    {
+      "texto": "por",
+      "inicio": 9.42,
+      "fin": 9.6
+    },
+    {
+      "texto": "ciento,",
+      "inicio": 9.64,
+      "fin": 10.24
+    },
+    {
+      "texto": "o",
+      "inicio": 10.44,
+      "fin": 10.64
+    },
+    {
+      "texto": "una,",
+      "inicio": 10.78,
+      "fin": 11.2
+    },
+    {
+      "texto": "treinta",
+      "inicio": 11.32,
+      "fin": 11.84
+    },
+    {
+      "texto": "y",
+      "inicio": 11.92,
+      "fin": 12.0
+    },
+    {
+      "texto": "siete",
+      "inicio": 12.04,
+      "fin": 12.24
+    },
+    {
+      "texto": "coma",
+      "inicio": 12.304,
+      "fin": 12.56
+    },
+    {
+      "texto": "siete.",
+      "inicio": 12.64,
+      "fin": 13.12
+    },
+    {
+      "texto": "Y",
+      "inicio": 13.64,
+      "fin": 14.16
+    },
+    {
+      "texto": "dos",
+      "inicio": 14.24,
+      "fin": 14.48
+    },
+    {
+      "texto": "o",
+      "inicio": 14.6,
+      "fin": 14.72
+    },
+    {
+      "texto": "menos",
+      "inicio": 14.8,
+      "fin": 15.2
+    },
+    {
+      "texto": "pasa",
+      "inicio": 15.328,
+      "fin": 15.84
+    },
+    {
+      "texto": "el",
+      "inicio": 15.867,
+      "fin": 15.92
+    },
+    {
+      "texto": "noventa",
+      "inicio": 15.973,
+      "fin": 16.4
+    },
+    {
+      "texto": "y",
+      "inicio": 16.48,
+      "fin": 16.56
+    },
+    {
+      "texto": "dos",
+      "inicio": 16.58,
+      "fin": 16.64
+    },
+    {
+      "texto": "coma",
+      "inicio": 16.704,
+      "fin": 16.96
+    },
+    {
+      "texto": "cinco",
+      "inicio": 17.013,
+      "fin": 17.28
+    },
+    {
+      "texto": "por",
+      "inicio": 17.32,
+      "fin": 17.44
+    },
+    {
+      "texto": "ciento",
+      "inicio": 17.48,
+      "fin": 17.76
+    },
+    {
+      "texto": "de",
+      "inicio": 17.787,
+      "fin": 17.84
+    },
+    {
+      "texto": "las",
+      "inicio": 17.86,
+      "fin": 17.92
+    },
+    {
+      "texto": "veces.",
+      "inicio": 18.0,
+      "fin": 18.48
+    },
+    {
+      "texto": "Cinco",
+      "inicio": 18.68,
+      "fin": 19.44
+    },
+    {
+      "texto": "está",
+      "inicio": 19.536,
+      "fin": 19.92
+    },
+    {
+      "texto": "muy,",
+      "inicio": 20.06,
+      "fin": 20.64
+    },
+    {
+      "texto": "muy",
+      "inicio": 20.68,
+      "fin": 20.8
+    },
+    {
+      "texto": "lejos",
+      "inicio": 20.88,
+      "fin": 21.2
+    },
+    {
+      "texto": "de",
+      "inicio": 21.227,
+      "fin": 21.28
+    },
+    {
+      "texto": "lo",
+      "inicio": 21.307,
+      "fin": 21.36
+    },
+    {
+      "texto": "normal.",
+      "inicio": 21.429,
+      "fin": 21.92
+    }
+  ]
+}

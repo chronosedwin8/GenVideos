@@ -4,7 +4,7 @@ import type {Bloque, Cue, EspecEpisodio, EspecEscena} from './motor-tipos';
 
 /* ───────── Resolución de "cues" (palabra → segundo) ───────── */
 
-const TIEMPOS = new Set(['en', 'hasta', 'desde', 'fondoDesde', 'enter', 'aparece', 'elegidoDesde', 'suscribir']);
+const TIEMPOS = new Set(['en', 'hasta', 'desde', 'fondoDesde', 'enter', 'aparece', 'elegidoDesde', 'suscribir', 'web']);
 const CUE_RE = /^(.+?)(?:#(\d+))?([+-]\d+(?:\.\d+)?)?$/;
 
 /** Convierte 'palabra', 'palabra#2', 'palabra+0.5', 'palabra#2-0.3' o un número en segundos de la escena. */

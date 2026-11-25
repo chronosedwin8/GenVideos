@@ -1,0 +1,85 @@
+{
+  "titulo": "Cómo crear etiquetas de inventario con código QR y código de barras en Excel",
+  "titulos_alternativos": [
+    "Código QR y código de barras en Excel (gratis y fácil)",
+    "Etiquetas de inventario con QR en Excel en 2 minutos"
+  ],
+  "intro": "Crea códigos QR y códigos de barras dentro de las celdas de Excel con la función IMAGEN, arma una hoja de etiquetas para imprimir y busca cualquier producto con un lector USB y BUSCARX. Además, la opción sin internet con una fuente gratuita.",
+  "aprenderas": [
+    "Tu primer QR con IMAGEN",
+    "QR con varios datos (URLCODIF)",
+    "Código de barras Code 128",
+    "Hoja de etiquetas lista para imprimir",
+    "Cuadrícula automática con AJUSTARFILAS",
+    "Escanear y buscar con BUSCARX",
+    "Sin internet: fuente Libre Barcode 39"
+  ],
+  "bloque": "Fórmulas del video:\nQR: =IMAGEN(\"https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=\"&URLCODIF(A2&\" | \"&B2&\" | \"&C2))\nCódigo de barras: =IMAGEN(\"https://bwipjs-api.metafloor.com/?bcid=code128&text=\"&URLCODIF(A2)&\"&includetext\")\nCuadrícula: =AJUSTARFILAS(IMAGEN(\"https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=\"&URLCODIF(Inventario!A2:A7));3)\nBuscar: =BUSCARX(B1;Inventario!A2:A7;Inventario!B2:D7;\"No existe\")\nSin internet (fuente Libre Barcode 39): =\"*\"&A2&\"*\"\nIMAGEN requiere Excel para Microsoft 365 o Excel 2024. El texto del QR viaja al servicio externo: no codifiques datos confidenciales.",
+  "capitulos": {
+    "01": "Etiquetas con QR en 2 minutos",
+    "03": "Sunrise 2027: el cambio al código 2D",
+    "05": "Lo que necesitas",
+    "06": "Los datos",
+    "07": "Paso 1: tu primer QR",
+    "08": "Entiende la fórmula",
+    "09": "Paso 2: más datos en el QR",
+    "10": "Paso 3: rellena las filas",
+    "11": "Paso 4: el código de barras",
+    "13": "Paso 5: la hoja de etiquetas",
+    "14": "Nivel pro: cuadrícula automática",
+    "15": "Nivel pro 2: escanea y busca",
+    "16": "Ojo con la privacidad",
+    "17": "Sin internet: la fuente",
+    "18": "Si no te funcionó"
+  },
+  "fuentes": [
+    "Microsoft Support, función IMAGEN: https://support.microsoft.com/es-es/office/funci%C3%B3n-imagen-7e112975-5e52-4f2a-b9da-1d913d51f5d5",
+    "GS1, QR codes with GS1 standards (2024): https://gs1.org/sites/gs1/files/2024-06/global-industry-endorsement-statement-qr-codes-with-gs1-standards.pdf",
+    "Fuente Libre Barcode 39 (Google Fonts): https://fonts.google.com/specimen/Libre+Barcode+39"
+  ],
+  "hashtags": [
+    "#Excel",
+    "#CodigoQR",
+    "#Inventario"
+  ],
+  "tags": [
+    "codigo qr en excel",
+    "codigo de barras en excel",
+    "etiquetas de inventario excel",
+    "funcion imagen excel",
+    "generar qr excel",
+    "inventario en excel",
+    "activos fijos excel",
+    "code 128 excel",
+    "libre barcode 39",
+    "planilla de inventario",
+    "trucos de excel",
+    "edwin o"
+  ],
+  "playlist": "Excel para la oficina",
+  "programar": "2026-12-31 07:00",
+  "shorts": [
+    {
+      "id": "short-1",
+      "titulo": "Un código QR DENTRO de Excel #shorts",
+      "descripcion": "=IMAGEN(\"https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=\"&A2) Video completo en el canal.",
+      "tags": [
+        "codigo qr excel"
+      ],
+      "programar": "2027-01-01 12:00"
+    },
+    {
+      "id": "short-2",
+      "titulo": "Escanea y Excel te dice TODO (BUSCARX) #shorts",
+      "descripcion": "Un lector USB escribe el código y BUSCARX trae el producto. Video completo en el canal.",
+      "tags": [
+        "codigo de barras excel"
+      ],
+      "programar": "2027-01-04 12:00"
+    }
+  ],
+  "enlaces": [
+    "📊 Guías de Excel en el blog: https://www.edwinortiz.net/excel/",
+    "🌐 Plantillas y cursos: https://www.edwinortiz.net"
+  ]
+}

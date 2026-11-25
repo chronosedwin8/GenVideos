@@ -3,7 +3,7 @@ nombre: Edwin O
 slug: edwin-o
 handle: "@edwino"
 channel_id: UCdCwWiuiJ-stJcZoGoUDCMA
-ritmo_ppm: 134            # voz clonada "Edwin" en eleven_v3 mide ~134 ppm
+ritmo_ppm: 140            # voz clonada "Edwin" (acento latinoamericano desde 25 nov 2026) mide ~140 ppm
 trato: tú
 variante: español neutro latinoamericano
 zona_horaria_utc: -5
@@ -19,6 +19,8 @@ Chile 6,2 % y España 4,9 %. Son empresarios, emprendedores, auxiliares administ
 docentes y universitarios. El 66 % ve desde computador, normalmente mientras trabaja: llega buscando una solución concreta.
 Nivel de entrada: de básico a intermedio.
 **Voz:** `ELEVENLABS_VOICE_ID_EDWIN_O` → **"Edwin" (clon de la voz de Edwin, IFyYw2wOOJPqKpxnYQow)**, modelo `eleven_v3`.
+Desde el 25 nov 2026 la voz tiene el acento **español latinoamericano** (`es-latin-american`, ajustado por Edwin en ElevenLabs)
+y el script pide `language_code: es`.
 Tono cercano, enérgico, radiante y con ritmo de creador de contenido.
 **Lo que diferencia al canal:** Edwin Ortiz Herazo es licenciado en Matemáticas y Física (Universidad del Atlántico,
 1997, mejor promedio) y magíster en Recursos Digitales Aplicados a la Educación (Universidad de Cartagena, 2026).
@@ -81,6 +83,12 @@ de Microsoft o de Python, o se ejecuta, antes de aprobar el guion.
 - Fuentes: documentación oficial de Microsoft Support y Learn, docs.python.org, artículos del blog edwinortiz.net,
   y estudios o noticias de medios reconocidos para los casos actuales.
 - Enlazar en la descripción el artículo relacionado del blog y, si existe, la plantilla de la tienda.
+- **Invitación a la web y a la tienda en TODOS los videos** (pedido de Edwin, 25 nov 2026): en la voz, al menos una vez
+  (normalmente en el cierre) se invita a visitar edwinortiz.net y la tienda (https://www.edwinortiz.net/tienda/), y en
+  pantalla se muestra la dirección. En la descripción va un enlace "🛒 Tienda" a https://www.edwinortiz.net/tienda/.
+- Temas del canal (nov 2026): Excel, Python e IA conectados entre sí; Data Analyst (consejos, tutoriales, trucos, con
+  Excel, Python, IA y Claude); productividad y profesionalismo con IA; historias graciosas o de misterio resueltas con
+  Excel o Python; mitos de la IA en Excel y la productividad.
 - Temas que NO se tocan: política, religión, contenido para niños, piratería ni cracks.
 - Audiencia infantil: no aplica (`creado_para_ninos: false`).
 - Uso de IA: la voz en off es un **clon de la voz de Edwin** (ElevenLabs, con su consentimiento). YouTube pide declarar
@@ -104,4 +112,5 @@ de Microsoft o de Python, o se ejecuta, antes de aprobar el guion.
   video del martes → miércoles y sábado; video del jueves → viernes y lunes siguiente.
 - Producción por lotes de 4 semanas (8 videos + 16 Shorts). Calendario vigente: `calendario.md`.
 - Publicar desde Claude: sí (`/conectar-youtube`). Monetización: sí (el canal ya está en el Programa de socios).
-- Web y tienda: https://www.edwinortiz.net · Blog de Excel: https://www.edwinortiz.net/excel/
+- Web: https://www.edwinortiz.net · Tienda: https://www.edwinortiz.net/tienda/ · Blog de Excel: https://www.edwinortiz.net/excel/
+- Al final de cada descripción va el texto de siempre de Edwin (enlaces a blog, aula, redes): `plantillas/pie-descripcion-edwin-o.txt`.

@@ -1,0 +1,250 @@
+{
+  "num": "15",
+  "titulo": "Movimiento 9: el porcentaje de cumplimiento",
+  "texto": "Movimiento nueve: otra columna personalizada. Cumplimiento: corchete Monto, dividido entre corchete Meta, y le das tipo porcentaje. Resultado: el Norte cumplió el cien coma cuatro por ciento, el Sur se quedó en noventa y siete coma dos, y el Centro, la sorpresa, ciento siete coma cinco por ciento.",
+  "texto_tts": "Movimiento nueve: otra columna personalizada. Cumplimiento: corchete Monto, dividido entre corchete Meta, y le das tipo porcentaje. Resultado: el Norte cumplió el cien coma cuatro por ciento, el Sur se quedó en noventa y siete coma dos, y el Centro, la sorpresa, ciento siete coma cinco por ciento.",
+  "modelo": "eleven_v3",
+  "duracion": 26.72,
+  "palabras": [
+    {
+      "texto": "Movimiento",
+      "inicio": 0.0,
+      "fin": 0.64
+    },
+    {
+      "texto": "nueve:",
+      "inicio": 0.72,
+      "fin": 1.84
+    },
+    {
+      "texto": "otra",
+      "inicio": 1.92,
+      "fin": 2.24
+    },
+    {
+      "texto": "columna",
+      "inicio": 2.31,
+      "fin": 2.8
+    },
+    {
+      "texto": "personalizada.",
+      "inicio": 2.853,
+      "fin": 4.28
+    },
+    {
+      "texto": "Cumplimiento:",
+      "inicio": 4.39,
+      "fin": 5.44
+    },
+    {
+      "texto": "corchete",
+      "inicio": 5.56,
+      "fin": 6.24
+    },
+    {
+      "texto": "Monto,",
+      "inicio": 6.4,
+      "fin": 7.28
+    },
+    {
+      "texto": "dividido",
+      "inicio": 7.387,
+      "fin": 8.16
+    },
+    {
+      "texto": "entre",
+      "inicio": 8.227,
+      "fin": 8.56
+    },
+    {
+      "texto": "corchete",
+      "inicio": 8.66,
+      "fin": 9.36
+    },
+    {
+      "texto": "Meta,",
+      "inicio": 9.488,
+      "fin": 10.32
+    },
+    {
+      "texto": "y",
+      "inicio": 10.52,
+      "fin": 10.72
+    },
+    {
+      "texto": "le",
+      "inicio": 10.773,
+      "fin": 10.88
+    },
+    {
+      "texto": "das",
+      "inicio": 10.94,
+      "fin": 11.12
+    },
+    {
+      "texto": "tipo",
+      "inicio": 11.2,
+      "fin": 11.52
+    },
+    {
+      "texto": "porcentaje.",
+      "inicio": 11.62,
+      "fin": 12.8
+    },
+    {
+      "texto": "Resultado:",
+      "inicio": 12.937,
+      "fin": 14.16
+    },
+    {
+      "texto": "el",
+      "inicio": 14.373,
+      "fin": 14.8
+    },
+    {
+      "texto": "Norte",
+      "inicio": 14.867,
+      "fin": 15.2
+    },
+    {
+      "texto": "cumplió",
+      "inicio": 15.253,
+      "fin": 15.76
+    },
+    {
+      "texto": "el",
+      "inicio": 15.84,
+      "fin": 16.0
+    },
+    {
+      "texto": "cien",
+      "inicio": 16.08,
+      "fin": 16.24
+    },
+    {
+      "texto": "coma",
+      "inicio": 16.288,
+      "fin": 16.48
+    },
+    {
+      "texto": "cuatro",
+      "inicio": 16.526,
+      "fin": 16.8
+    },
+    {
+      "texto": "por",
+      "inicio": 16.84,
+      "fin": 16.96
+    },
+    {
+      "texto": "ciento,",
+      "inicio": 17.04,
+      "fin": 17.6
+    },
+    {
+      "texto": "el",
+      "inicio": 17.867,
+      "fin": 18.4
+    },
+    {
+      "texto": "Sur",
+      "inicio": 18.48,
+      "fin": 18.72
+    },
+    {
+      "texto": "se",
+      "inicio": 18.773,
+      "fin": 18.88
+    },
+    {
+      "texto": "quedó",
+      "inicio": 18.912,
+      "fin": 19.2
+    },
+    {
+      "texto": "en",
+      "inicio": 19.28,
+      "fin": 19.44
+    },
+    {
+      "texto": "noventa",
+      "inicio": 19.493,
+      "fin": 19.84
+    },
+    {
+      "texto": "y",
+      "inicio": 19.92,
+      "fin": 20.0
+    },
+    {
+      "texto": "siete",
+      "inicio": 20.08,
+      "fin": 20.24
+    },
+    {
+      "texto": "coma",
+      "inicio": 20.304,
+      "fin": 20.56
+    },
+    {
+      "texto": "dos,",
+      "inicio": 20.62,
+      "fin": 21.28
+    },
+    {
+      "texto": "y",
+      "inicio": 21.48,
+      "fin": 21.68
+    },
+    {
+      "texto": "el",
+      "inicio": 21.733,
+      "fin": 21.84
+    },
+    {
+      "texto": "Centro,",
+      "inicio": 21.931,
+      "fin": 22.64
+    },
+    {
+      "texto": "la",
+      "inicio": 22.667,
+      "fin": 22.72
+    },
+    {
+      "texto": "sorpresa,",
+      "inicio": 22.8,
+      "fin": 23.52
+    },
+    {
+      "texto": "ciento",
+      "inicio": 23.88,
+      "fin": 24.56
+    },
+    {
+      "texto": "siete",
+      "inicio": 24.64,
+      "fin": 24.96
+    },
+    {
+      "texto": "coma",
+      "inicio": 25.056,
+      "fin": 25.44
+    },
+    {
+      "texto": "cinco",
+      "inicio": 25.507,
+      "fin": 25.84
+    },
+    {
+      "texto": "por",
+      "inicio": 25.9,
+      "fin": 26.08
+    },
+    {
+      "texto": "ciento.",
+      "inicio": 26.12,
+      "fin": 26.72
+    }
+  ]
+}

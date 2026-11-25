@@ -1,0 +1,255 @@
+{
+  "num": "19",
+  "titulo": "Pon tú el próximo reto",
+  "texto": "Y ahora te toca a ti. Escríbeme en los comentarios qué reto le pondrías a la inteligencia artificial en el próximo duelo: una fórmula difícil, una tabla dinámica, un gráfico, un macro. Los retos más votados los pruebo en un próximo video, con la misma regla: todo se comprueba.",
+  "texto_tts": "Y ahora te toca a ti. Escríbeme en los comentarios qué reto le pondrías a la inteligencia artificial en el próximo duelo: una fórmula difícil, una tabla dinámica, un gráfico, un macro. Los retos más votados los pruebo en un próximo video, con la misma regla: todo se comprueba.",
+  "modelo": "eleven_v3",
+  "duracion": 21.36,
+  "palabras": [
+    {
+      "texto": "Y",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "ahora",
+      "inicio": 0.147,
+      "fin": 0.48
+    },
+    {
+      "texto": "te",
+      "inicio": 0.587,
+      "fin": 0.8
+    },
+    {
+      "texto": "toca",
+      "inicio": 0.853,
+      "fin": 1.04
+    },
+    {
+      "texto": "a",
+      "inicio": 1.12,
+      "fin": 1.2
+    },
+    {
+      "texto": "ti.",
+      "inicio": 1.253,
+      "fin": 1.44
+    },
+    {
+      "texto": "Escríbeme",
+      "inicio": 1.62,
+      "fin": 2.4
+    },
+    {
+      "texto": "en",
+      "inicio": 2.427,
+      "fin": 2.48
+    },
+    {
+      "texto": "los",
+      "inicio": 2.52,
+      "fin": 2.64
+    },
+    {
+      "texto": "comentarios",
+      "inicio": 2.7,
+      "fin": 3.36
+    },
+    {
+      "texto": "qué",
+      "inicio": 3.46,
+      "fin": 3.76
+    },
+    {
+      "texto": "reto",
+      "inicio": 3.84,
+      "fin": 4.16
+    },
+    {
+      "texto": "le",
+      "inicio": 4.293,
+      "fin": 4.56
+    },
+    {
+      "texto": "pondrías",
+      "inicio": 4.608,
+      "fin": 5.12
+    },
+    {
+      "texto": "a",
+      "inicio": 5.16,
+      "fin": 5.2
+    },
+    {
+      "texto": "la",
+      "inicio": 5.227,
+      "fin": 5.28
+    },
+    {
+      "texto": "inteligencia",
+      "inicio": 5.33,
+      "fin": 5.84
+    },
+    {
+      "texto": "artificial",
+      "inicio": 5.898,
+      "fin": 6.48
+    },
+    {
+      "texto": "en",
+      "inicio": 6.667,
+      "fin": 7.04
+    },
+    {
+      "texto": "el",
+      "inicio": 7.067,
+      "fin": 7.12
+    },
+    {
+      "texto": "próximo",
+      "inicio": 7.18,
+      "fin": 7.6
+    },
+    {
+      "texto": "duelo:",
+      "inicio": 7.653,
+      "fin": 8.08
+    },
+    {
+      "texto": "una",
+      "inicio": 8.32,
+      "fin": 9.04
+    },
+    {
+      "texto": "fórmula",
+      "inicio": 9.12,
+      "fin": 9.52
+    },
+    {
+      "texto": "difícil,",
+      "inicio": 9.59,
+      "fin": 10.16
+    },
+    {
+      "texto": "una",
+      "inicio": 10.32,
+      "fin": 10.8
+    },
+    {
+      "texto": "tabla",
+      "inicio": 10.853,
+      "fin": 11.12
+    },
+    {
+      "texto": "dinámica,",
+      "inicio": 11.16,
+      "fin": 12.08
+    },
+    {
+      "texto": "un",
+      "inicio": 12.187,
+      "fin": 12.4
+    },
+    {
+      "texto": "gráfico,",
+      "inicio": 12.453,
+      "fin": 13.2
+    },
+    {
+      "texto": "un",
+      "inicio": 13.333,
+      "fin": 13.6
+    },
+    {
+      "texto": "macro.",
+      "inicio": 13.693,
+      "fin": 14.24
+    },
+    {
+      "texto": "Los",
+      "inicio": 14.42,
+      "fin": 14.96
+    },
+    {
+      "texto": "retos",
+      "inicio": 15.02,
+      "fin": 15.28
+    },
+    {
+      "texto": "más",
+      "inicio": 15.32,
+      "fin": 15.44
+    },
+    {
+      "texto": "votados",
+      "inicio": 15.5,
+      "fin": 16.08
+    },
+    {
+      "texto": "los",
+      "inicio": 16.14,
+      "fin": 16.32
+    },
+    {
+      "texto": "pruebo",
+      "inicio": 16.373,
+      "fin": 16.72
+    },
+    {
+      "texto": "en",
+      "inicio": 16.827,
+      "fin": 17.04
+    },
+    {
+      "texto": "un",
+      "inicio": 17.067,
+      "fin": 17.12
+    },
+    {
+      "texto": "próximo",
+      "inicio": 17.18,
+      "fin": 17.6
+    },
+    {
+      "texto": "video,",
+      "inicio": 17.667,
+      "fin": 18.4
+    },
+    {
+      "texto": "con",
+      "inicio": 18.42,
+      "fin": 18.48
+    },
+    {
+      "texto": "la",
+      "inicio": 18.533,
+      "fin": 18.64
+    },
+    {
+      "texto": "misma",
+      "inicio": 18.693,
+      "fin": 18.96
+    },
+    {
+      "texto": "regla:",
+      "inicio": 19.02,
+      "fin": 20.0
+    },
+    {
+      "texto": "todo",
+      "inicio": 20.064,
+      "fin": 20.32
+    },
+    {
+      "texto": "se",
+      "inicio": 20.453,
+      "fin": 20.72
+    },
+    {
+      "texto": "comprueba.",
+      "inicio": 20.773,
+      "fin": 21.36
+    }
+  ]
+}

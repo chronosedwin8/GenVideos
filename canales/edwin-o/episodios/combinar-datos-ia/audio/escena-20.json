@@ -1,0 +1,225 @@
+{
+  "num": "20",
+  "titulo": "Resumen",
+  "texto": "En resumen: la varita mágica es un buen prompt, con tu versión, tus datos y lo que necesitas. Entiende la fórmula pieza por pieza antes de usarla. Y verifica siempre el total y los \"No encontrado\". Si no lo aprendes ahora, te extingues.",
+  "texto_tts": "En resumen: la varita mágica es un buen prompt, con tu versión, tus datos y lo que necesitas. Entiende la fórmula pieza por pieza antes de usarla. Y verifica siempre el total y los \"No encontrado\". [serious] Si no lo aprendes ahora, te extingues.",
+  "modelo": "eleven_v3",
+  "duracion": 17.12,
+  "palabras": [
+    {
+      "texto": "En",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "resumen:",
+      "inicio": 0.12,
+      "fin": 0.8
+    },
+    {
+      "texto": "la",
+      "inicio": 0.827,
+      "fin": 0.88
+    },
+    {
+      "texto": "varita",
+      "inicio": 0.92,
+      "fin": 1.2
+    },
+    {
+      "texto": "mágica",
+      "inicio": 1.28,
+      "fin": 1.76
+    },
+    {
+      "texto": "es",
+      "inicio": 1.893,
+      "fin": 2.16
+    },
+    {
+      "texto": "un",
+      "inicio": 2.187,
+      "fin": 2.24
+    },
+    {
+      "texto": "buen",
+      "inicio": 2.288,
+      "fin": 2.48
+    },
+    {
+      "texto": "prompt,",
+      "inicio": 2.549,
+      "fin": 3.04
+    },
+    {
+      "texto": "con",
+      "inicio": 3.2,
+      "fin": 3.68
+    },
+    {
+      "texto": "tu",
+      "inicio": 3.733,
+      "fin": 3.84
+    },
+    {
+      "texto": "versión,",
+      "inicio": 3.9,
+      "fin": 4.56
+    },
+    {
+      "texto": "tus",
+      "inicio": 4.6,
+      "fin": 4.72
+    },
+    {
+      "texto": "datos",
+      "inicio": 4.8,
+      "fin": 5.2
+    },
+    {
+      "texto": "y",
+      "inicio": 5.28,
+      "fin": 5.36
+    },
+    {
+      "texto": "lo",
+      "inicio": 5.413,
+      "fin": 5.52
+    },
+    {
+      "texto": "que",
+      "inicio": 5.54,
+      "fin": 5.6
+    },
+    {
+      "texto": "necesitas.",
+      "inicio": 5.653,
+      "fin": 6.48
+    },
+    {
+      "texto": "Entiende",
+      "inicio": 6.64,
+      "fin": 7.36
+    },
+    {
+      "texto": "la",
+      "inicio": 7.387,
+      "fin": 7.44
+    },
+    {
+      "texto": "fórmula",
+      "inicio": 7.52,
+      "fin": 7.92
+    },
+    {
+      "texto": "pieza",
+      "inicio": 8.0,
+      "fin": 8.4
+    },
+    {
+      "texto": "por",
+      "inicio": 8.46,
+      "fin": 8.64
+    },
+    {
+      "texto": "pieza",
+      "inicio": 8.72,
+      "fin": 9.12
+    },
+    {
+      "texto": "antes",
+      "inicio": 9.2,
+      "fin": 9.6
+    },
+    {
+      "texto": "de",
+      "inicio": 9.627,
+      "fin": 9.68
+    },
+    {
+      "texto": "usarla.",
+      "inicio": 9.744,
+      "fin": 10.48
+    },
+    {
+      "texto": "Y",
+      "inicio": 10.64,
+      "fin": 10.8
+    },
+    {
+      "texto": "verifica",
+      "inicio": 10.871,
+      "fin": 11.44
+    },
+    {
+      "texto": "siempre",
+      "inicio": 11.49,
+      "fin": 11.84
+    },
+    {
+      "texto": "el",
+      "inicio": 11.867,
+      "fin": 11.92
+    },
+    {
+      "texto": "total",
+      "inicio": 11.987,
+      "fin": 12.32
+    },
+    {
+      "texto": "y",
+      "inicio": 12.44,
+      "fin": 12.56
+    },
+    {
+      "texto": "los",
+      "inicio": 12.6,
+      "fin": 12.72
+    },
+    {
+      "texto": "\"No",
+      "inicio": 12.76,
+      "fin": 12.88
+    },
+    {
+      "texto": "encontrado\".",
+      "inicio": 12.938,
+      "fin": 13.6
+    },
+    {
+      "texto": "Si",
+      "inicio": 14.462,
+      "fin": 14.48
+    },
+    {
+      "texto": "no",
+      "inicio": 14.533,
+      "fin": 14.64
+    },
+    {
+      "texto": "lo",
+      "inicio": 14.667,
+      "fin": 14.72
+    },
+    {
+      "texto": "aprendes",
+      "inicio": 14.766,
+      "fin": 15.2
+    },
+    {
+      "texto": "ahora,",
+      "inicio": 15.253,
+      "fin": 16.08
+    },
+    {
+      "texto": "te",
+      "inicio": 16.133,
+      "fin": 16.24
+    },
+    {
+      "texto": "extingues.",
+      "inicio": 16.3,
+      "fin": 17.12
+    }
+  ]
+}

@@ -1,0 +1,290 @@
+{
+  "num": "07",
+  "titulo": "Tarea 1: limpia la hoja",
+  "texto": "Tarea uno: limpiar. Le escribo: quita los gastos duplicados y pon el monto con formato de moneda. Y fíjate en algo muy importante: antes de tocar mi hoja, ChatGPT me muestra lo que va a hacer, y me pide permiso. Según OpenAI, así puedes revisar cada paso y deshacer los cambios si algo no te gusta.",
+  "texto_tts": "Tarea uno: limpiar. Le escribo: quita los gastos duplicados y pon el monto con formato de moneda. Y fíjate en algo muy importante: antes de tocar mi hoja, ChatGPT me muestra lo que va a hacer, y me pide permiso. Según OpenAI, así puedes revisar cada paso y deshacer los cambios si algo no te gusta.",
+  "modelo": "eleven_v3",
+  "duracion": 23.04,
+  "palabras": [
+    {
+      "texto": "Tarea",
+      "inicio": 0.0,
+      "fin": 0.32
+    },
+    {
+      "texto": "uno:",
+      "inicio": 0.4,
+      "fin": 0.72
+    },
+    {
+      "texto": "limpiar.",
+      "inicio": 0.8,
+      "fin": 1.52
+    },
+    {
+      "texto": "Le",
+      "inicio": 1.76,
+      "fin": 2.24
+    },
+    {
+      "texto": "escribo:",
+      "inicio": 2.28,
+      "fin": 2.8
+    },
+    {
+      "texto": "quita",
+      "inicio": 3.067,
+      "fin": 3.76
+    },
+    {
+      "texto": "los",
+      "inicio": 3.8,
+      "fin": 3.92
+    },
+    {
+      "texto": "gastos",
+      "inicio": 3.96,
+      "fin": 4.32
+    },
+    {
+      "texto": "duplicados",
+      "inicio": 4.377,
+      "fin": 5.04
+    },
+    {
+      "texto": "y",
+      "inicio": 5.16,
+      "fin": 5.28
+    },
+    {
+      "texto": "pon",
+      "inicio": 5.34,
+      "fin": 5.52
+    },
+    {
+      "texto": "el",
+      "inicio": 5.573,
+      "fin": 5.68
+    },
+    {
+      "texto": "monto",
+      "inicio": 5.72,
+      "fin": 6.08
+    },
+    {
+      "texto": "con",
+      "inicio": 6.12,
+      "fin": 6.24
+    },
+    {
+      "texto": "formato",
+      "inicio": 6.3,
+      "fin": 6.72
+    },
+    {
+      "texto": "de",
+      "inicio": 6.747,
+      "fin": 6.8
+    },
+    {
+      "texto": "moneda.",
+      "inicio": 6.86,
+      "fin": 7.36
+    },
+    {
+      "texto": "Y",
+      "inicio": 7.92,
+      "fin": 8.48
+    },
+    {
+      "texto": "fíjate",
+      "inicio": 8.52,
+      "fin": 8.8
+    },
+    {
+      "texto": "en",
+      "inicio": 8.853,
+      "fin": 8.96
+    },
+    {
+      "texto": "algo",
+      "inicio": 8.992,
+      "fin": 9.12
+    },
+    {
+      "texto": "muy",
+      "inicio": 9.18,
+      "fin": 9.36
+    },
+    {
+      "texto": "importante:",
+      "inicio": 9.425,
+      "fin": 10.8
+    },
+    {
+      "texto": "antes",
+      "inicio": 10.853,
+      "fin": 11.12
+    },
+    {
+      "texto": "de",
+      "inicio": 11.147,
+      "fin": 11.2
+    },
+    {
+      "texto": "tocar",
+      "inicio": 11.253,
+      "fin": 11.6
+    },
+    {
+      "texto": "mi",
+      "inicio": 11.653,
+      "fin": 11.76
+    },
+    {
+      "texto": "hoja,",
+      "inicio": 11.813,
+      "fin": 12.64
+    },
+    {
+      "texto": "ChatGPT",
+      "inicio": 12.688,
+      "fin": 13.28
+    },
+    {
+      "texto": "me",
+      "inicio": 13.307,
+      "fin": 13.36
+    },
+    {
+      "texto": "muestra",
+      "inicio": 13.42,
+      "fin": 13.84
+    },
+    {
+      "texto": "lo",
+      "inicio": 13.893,
+      "fin": 14.0
+    },
+    {
+      "texto": "que",
+      "inicio": 14.02,
+      "fin": 14.08
+    },
+    {
+      "texto": "va",
+      "inicio": 14.107,
+      "fin": 14.16
+    },
+    {
+      "texto": "a",
+      "inicio": 14.2,
+      "fin": 14.24
+    },
+    {
+      "texto": "hacer,",
+      "inicio": 14.28,
+      "fin": 14.56
+    },
+    {
+      "texto": "y",
+      "inicio": 14.8,
+      "fin": 15.04
+    },
+    {
+      "texto": "me",
+      "inicio": 15.093,
+      "fin": 15.2
+    },
+    {
+      "texto": "pide",
+      "inicio": 15.24,
+      "fin": 15.44
+    },
+    {
+      "texto": "permiso.",
+      "inicio": 15.504,
+      "fin": 16.08
+    },
+    {
+      "texto": "Según",
+      "inicio": 16.38,
+      "fin": 17.44
+    },
+    {
+      "texto": "OpenAI,",
+      "inicio": 17.504,
+      "fin": 18.48
+    },
+    {
+      "texto": "así",
+      "inicio": 18.54,
+      "fin": 18.72
+    },
+    {
+      "texto": "puedes",
+      "inicio": 18.766,
+      "fin": 19.04
+    },
+    {
+      "texto": "revisar",
+      "inicio": 19.093,
+      "fin": 19.44
+    },
+    {
+      "texto": "cada",
+      "inicio": 19.52,
+      "fin": 19.84
+    },
+    {
+      "texto": "paso",
+      "inicio": 19.952,
+      "fin": 20.4
+    },
+    {
+      "texto": "y",
+      "inicio": 20.6,
+      "fin": 20.8
+    },
+    {
+      "texto": "deshacer",
+      "inicio": 20.84,
+      "fin": 21.2
+    },
+    {
+      "texto": "los",
+      "inicio": 21.24,
+      "fin": 21.36
+    },
+    {
+      "texto": "cambios",
+      "inicio": 21.43,
+      "fin": 21.92
+    },
+    {
+      "texto": "si",
+      "inicio": 22.0,
+      "fin": 22.16
+    },
+    {
+      "texto": "algo",
+      "inicio": 22.192,
+      "fin": 22.32
+    },
+    {
+      "texto": "no",
+      "inicio": 22.373,
+      "fin": 22.48
+    },
+    {
+      "texto": "te",
+      "inicio": 22.507,
+      "fin": 22.56
+    },
+    {
+      "texto": "gusta.",
+      "inicio": 22.627,
+      "fin": 23.04
+    }
+  ]
+}

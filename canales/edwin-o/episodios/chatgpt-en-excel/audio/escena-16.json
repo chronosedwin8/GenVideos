@@ -1,0 +1,295 @@
+{
+  "num": "16",
+  "titulo": "ChatGPT, Copilot o Claude",
+  "texto": "¿Y cuál elegir? ChatGPT para Excel está en todos sus planes, incluso el gratuito, con límites. Copilot viene integrado en Microsoft trescientos sesenta y cinco. Y Claude tiene su complemento para los planes de pago. En el duelo que hice entre ChatGPT y Claude viste que los dos aciertan en fórmulas, y que hay que verificar siempre.",
+  "texto_tts": "¿Y cuál elegir? ChatGPT para Excel está en todos sus planes, incluso el gratuito, con límites. Copilot viene integrado en Microsoft trescientos sesenta y cinco. Y Claude tiene su complemento para los planes de pago. En el duelo que hice entre ChatGPT y Claude viste que los dos aciertan en fórmulas, y que hay que verificar siempre.",
+  "modelo": "eleven_v3",
+  "duracion": 20.4,
+  "palabras": [
+    {
+      "texto": "¿Y",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "cuál",
+      "inicio": 0.107,
+      "fin": 0.24
+    },
+    {
+      "texto": "elegir?",
+      "inicio": 0.304,
+      "fin": 0.88
+    },
+    {
+      "texto": "ChatGPT",
+      "inicio": 1.024,
+      "fin": 2.0
+    },
+    {
+      "texto": "para",
+      "inicio": 2.032,
+      "fin": 2.16
+    },
+    {
+      "texto": "Excel",
+      "inicio": 2.213,
+      "fin": 2.48
+    },
+    {
+      "texto": "está",
+      "inicio": 2.528,
+      "fin": 2.72
+    },
+    {
+      "texto": "en",
+      "inicio": 2.773,
+      "fin": 2.88
+    },
+    {
+      "texto": "todos",
+      "inicio": 2.92,
+      "fin": 3.12
+    },
+    {
+      "texto": "sus",
+      "inicio": 3.18,
+      "fin": 3.36
+    },
+    {
+      "texto": "planes,",
+      "inicio": 3.417,
+      "fin": 3.92
+    },
+    {
+      "texto": "incluso",
+      "inicio": 3.98,
+      "fin": 4.4
+    },
+    {
+      "texto": "el",
+      "inicio": 4.427,
+      "fin": 4.48
+    },
+    {
+      "texto": "gratuito,",
+      "inicio": 4.542,
+      "fin": 5.2
+    },
+    {
+      "texto": "con",
+      "inicio": 5.24,
+      "fin": 5.36
+    },
+    {
+      "texto": "límites.",
+      "inicio": 5.44,
+      "fin": 6.24
+    },
+    {
+      "texto": "Copilot",
+      "inicio": 6.36,
+      "fin": 7.04
+    },
+    {
+      "texto": "viene",
+      "inicio": 7.093,
+      "fin": 7.36
+    },
+    {
+      "texto": "integrado",
+      "inicio": 7.406,
+      "fin": 7.84
+    },
+    {
+      "texto": "en",
+      "inicio": 7.867,
+      "fin": 7.92
+    },
+    {
+      "texto": "Microsoft",
+      "inicio": 7.968,
+      "fin": 8.4
+    },
+    {
+      "texto": "trescientos",
+      "inicio": 8.448,
+      "fin": 8.88
+    },
+    {
+      "texto": "sesenta",
+      "inicio": 8.94,
+      "fin": 9.28
+    },
+    {
+      "texto": "y",
+      "inicio": 9.36,
+      "fin": 9.44
+    },
+    {
+      "texto": "cinco.",
+      "inicio": 9.493,
+      "fin": 10.16
+    },
+    {
+      "texto": "Y",
+      "inicio": 10.24,
+      "fin": 10.32
+    },
+    {
+      "texto": "Claude",
+      "inicio": 10.4,
+      "fin": 10.88
+    },
+    {
+      "texto": "tiene",
+      "inicio": 10.933,
+      "fin": 11.2
+    },
+    {
+      "texto": "su",
+      "inicio": 11.227,
+      "fin": 11.28
+    },
+    {
+      "texto": "complemento",
+      "inicio": 11.331,
+      "fin": 11.92
+    },
+    {
+      "texto": "para",
+      "inicio": 11.952,
+      "fin": 12.08
+    },
+    {
+      "texto": "los",
+      "inicio": 12.1,
+      "fin": 12.16
+    },
+    {
+      "texto": "planes",
+      "inicio": 12.206,
+      "fin": 12.48
+    },
+    {
+      "texto": "de",
+      "inicio": 12.507,
+      "fin": 12.56
+    },
+    {
+      "texto": "pago.",
+      "inicio": 12.656,
+      "fin": 13.12
+    },
+    {
+      "texto": "En",
+      "inicio": 13.36,
+      "fin": 13.84
+    },
+    {
+      "texto": "el",
+      "inicio": 13.867,
+      "fin": 13.92
+    },
+    {
+      "texto": "duelo",
+      "inicio": 13.973,
+      "fin": 14.24
+    },
+    {
+      "texto": "que",
+      "inicio": 14.28,
+      "fin": 14.4
+    },
+    {
+      "texto": "hice",
+      "inicio": 14.44,
+      "fin": 14.64
+    },
+    {
+      "texto": "entre",
+      "inicio": 14.693,
+      "fin": 14.96
+    },
+    {
+      "texto": "ChatGPT",
+      "inicio": 15.024,
+      "fin": 15.68
+    },
+    {
+      "texto": "y",
+      "inicio": 15.72,
+      "fin": 15.76
+    },
+    {
+      "texto": "Claude",
+      "inicio": 15.84,
+      "fin": 16.32
+    },
+    {
+      "texto": "viste",
+      "inicio": 16.48,
+      "fin": 16.8
+    },
+    {
+      "texto": "que",
+      "inicio": 16.84,
+      "fin": 16.96
+    },
+    {
+      "texto": "los",
+      "inicio": 17.0,
+      "fin": 17.12
+    },
+    {
+      "texto": "dos",
+      "inicio": 17.16,
+      "fin": 17.28
+    },
+    {
+      "texto": "aciertan",
+      "inicio": 17.36,
+      "fin": 17.76
+    },
+    {
+      "texto": "en",
+      "inicio": 17.787,
+      "fin": 17.84
+    },
+    {
+      "texto": "fórmulas,",
+      "inicio": 17.92,
+      "fin": 18.8
+    },
+    {
+      "texto": "y",
+      "inicio": 18.84,
+      "fin": 18.88
+    },
+    {
+      "texto": "que",
+      "inicio": 18.92,
+      "fin": 19.04
+    },
+    {
+      "texto": "hay",
+      "inicio": 19.06,
+      "fin": 19.12
+    },
+    {
+      "texto": "que",
+      "inicio": 19.16,
+      "fin": 19.28
+    },
+    {
+      "texto": "verificar",
+      "inicio": 19.328,
+      "fin": 19.76
+    },
+    {
+      "texto": "siempre.",
+      "inicio": 19.82,
+      "fin": 20.4
+    }
+  ]
+}

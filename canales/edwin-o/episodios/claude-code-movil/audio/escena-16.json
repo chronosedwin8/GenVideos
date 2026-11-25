@@ -1,0 +1,325 @@
+{
+  "num": "16",
+  "titulo": "También desde el navegador",
+  "texto": "Y no solo es el celular. Si estás en otro computador, en la casa o en una tablet, abre el navegador, entra a claude punto ai barra code, y busca tu sesión por el nombre. Es la misma conversación, con el mismo historial. Por eso te recomiendo ponerle un nombre claro a cada sesión, como \"reportes de ventas\", para encontrarla rápido entre todas.",
+  "texto_tts": "Y no solo es el celular. Si estás en otro computador, en la casa o en una tablet, abre el navegador, entra a claude punto ai barra code, y busca tu sesión por el nombre. Es la misma conversación, con el mismo historial. Por eso te recomiendo ponerle un nombre claro a cada sesión, como \"reportes de ventas\", para encontrarla rápido entre todas.",
+  "modelo": "eleven_v3",
+  "duracion": 26.4,
+  "palabras": [
+    {
+      "texto": "Y",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "no",
+      "inicio": 0.16,
+      "fin": 0.32
+    },
+    {
+      "texto": "solo",
+      "inicio": 0.368,
+      "fin": 0.56
+    },
+    {
+      "texto": "es",
+      "inicio": 0.587,
+      "fin": 0.64
+    },
+    {
+      "texto": "el",
+      "inicio": 0.693,
+      "fin": 0.8
+    },
+    {
+      "texto": "celular.",
+      "inicio": 0.86,
+      "fin": 1.36
+    },
+    {
+      "texto": "Si",
+      "inicio": 1.52,
+      "fin": 1.84
+    },
+    {
+      "texto": "estás",
+      "inicio": 1.9,
+      "fin": 2.24
+    },
+    {
+      "texto": "en",
+      "inicio": 2.267,
+      "fin": 2.32
+    },
+    {
+      "texto": "otro",
+      "inicio": 2.384,
+      "fin": 2.64
+    },
+    {
+      "texto": "computador,",
+      "inicio": 2.697,
+      "fin": 3.44
+    },
+    {
+      "texto": "en",
+      "inicio": 3.467,
+      "fin": 3.52
+    },
+    {
+      "texto": "la",
+      "inicio": 3.547,
+      "fin": 3.6
+    },
+    {
+      "texto": "casa",
+      "inicio": 3.696,
+      "fin": 4.08
+    },
+    {
+      "texto": "o",
+      "inicio": 4.16,
+      "fin": 4.24
+    },
+    {
+      "texto": "en",
+      "inicio": 4.267,
+      "fin": 4.32
+    },
+    {
+      "texto": "una",
+      "inicio": 4.38,
+      "fin": 4.56
+    },
+    {
+      "texto": "tablet,",
+      "inicio": 4.64,
+      "fin": 5.68
+    },
+    {
+      "texto": "abre",
+      "inicio": 5.728,
+      "fin": 5.92
+    },
+    {
+      "texto": "el",
+      "inicio": 5.947,
+      "fin": 6.0
+    },
+    {
+      "texto": "navegador,",
+      "inicio": 6.064,
+      "fin": 7.12
+    },
+    {
+      "texto": "entra",
+      "inicio": 7.2,
+      "fin": 7.6
+    },
+    {
+      "texto": "a",
+      "inicio": 7.68,
+      "fin": 7.76
+    },
+    {
+      "texto": "claude",
+      "inicio": 7.84,
+      "fin": 8.56
+    },
+    {
+      "texto": "punto",
+      "inicio": 8.693,
+      "fin": 9.36
+    },
+    {
+      "texto": "ai",
+      "inicio": 9.6,
+      "fin": 10.08
+    },
+    {
+      "texto": "barra",
+      "inicio": 10.24,
+      "fin": 10.8
+    },
+    {
+      "texto": "code,",
+      "inicio": 10.944,
+      "fin": 11.6
+    },
+    {
+      "texto": "y",
+      "inicio": 12.08,
+      "fin": 12.56
+    },
+    {
+      "texto": "busca",
+      "inicio": 12.627,
+      "fin": 12.96
+    },
+    {
+      "texto": "tu",
+      "inicio": 13.013,
+      "fin": 13.12
+    },
+    {
+      "texto": "sesión",
+      "inicio": 13.177,
+      "fin": 13.52
+    },
+    {
+      "texto": "por",
+      "inicio": 13.58,
+      "fin": 13.76
+    },
+    {
+      "texto": "el",
+      "inicio": 13.787,
+      "fin": 13.84
+    },
+    {
+      "texto": "nombre.",
+      "inicio": 13.897,
+      "fin": 14.4
+    },
+    {
+      "texto": "Es",
+      "inicio": 14.613,
+      "fin": 15.04
+    },
+    {
+      "texto": "la",
+      "inicio": 15.067,
+      "fin": 15.12
+    },
+    {
+      "texto": "misma",
+      "inicio": 15.173,
+      "fin": 15.44
+    },
+    {
+      "texto": "conversación,",
+      "inicio": 15.49,
+      "fin": 16.72
+    },
+    {
+      "texto": "con",
+      "inicio": 16.76,
+      "fin": 16.88
+    },
+    {
+      "texto": "el",
+      "inicio": 16.933,
+      "fin": 17.04
+    },
+    {
+      "texto": "mismo",
+      "inicio": 17.093,
+      "fin": 17.36
+    },
+    {
+      "texto": "historial.",
+      "inicio": 17.406,
+      "fin": 18.08
+    },
+    {
+      "texto": "Por",
+      "inicio": 18.24,
+      "fin": 18.72
+    },
+    {
+      "texto": "eso",
+      "inicio": 18.78,
+      "fin": 18.96
+    },
+    {
+      "texto": "te",
+      "inicio": 18.987,
+      "fin": 19.04
+    },
+    {
+      "texto": "recomiendo",
+      "inicio": 19.093,
+      "fin": 19.6
+    },
+    {
+      "texto": "ponerle",
+      "inicio": 19.667,
+      "fin": 20.08
+    },
+    {
+      "texto": "un",
+      "inicio": 20.107,
+      "fin": 20.16
+    },
+    {
+      "texto": "nombre",
+      "inicio": 20.206,
+      "fin": 20.48
+    },
+    {
+      "texto": "claro",
+      "inicio": 20.573,
+      "fin": 21.04
+    },
+    {
+      "texto": "a",
+      "inicio": 21.12,
+      "fin": 21.2
+    },
+    {
+      "texto": "cada",
+      "inicio": 21.264,
+      "fin": 21.52
+    },
+    {
+      "texto": "sesión,",
+      "inicio": 21.589,
+      "fin": 22.64
+    },
+    {
+      "texto": "como",
+      "inicio": 22.688,
+      "fin": 22.88
+    },
+    {
+      "texto": "\"reportes",
+      "inicio": 22.96,
+      "fin": 23.52
+    },
+    {
+      "texto": "de",
+      "inicio": 23.547,
+      "fin": 23.6
+    },
+    {
+      "texto": "ventas\",",
+      "inicio": 23.68,
+      "fin": 24.24
+    },
+    {
+      "texto": "para",
+      "inicio": 24.288,
+      "fin": 24.48
+    },
+    {
+      "texto": "encontrarla",
+      "inicio": 24.528,
+      "fin": 25.12
+    },
+    {
+      "texto": "rápido",
+      "inicio": 25.177,
+      "fin": 25.52
+    },
+    {
+      "texto": "entre",
+      "inicio": 25.56,
+      "fin": 25.76
+    },
+    {
+      "texto": "todas.",
+      "inicio": 25.84,
+      "fin": 26.4
+    }
+  ]
+}

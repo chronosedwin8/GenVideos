@@ -1,0 +1,355 @@
+{
+  "num": "03",
+  "titulo": "Las reglas del duelo",
+  "texto": "Las reglas, para que sea justo. El veinticinco de noviembre de dos mil veintiséis abrí un chat nuevo en cada una y les pegué exactamente el mismo mensaje. Y te lo digo con transparencia: ChatGPT estaba en el plan gratuito, con su modelo por defecto, y Claude en el plan Pro, con el modelo Opus cinco punto cinco. No son planes iguales, y lo vamos a tener en cuenta.",
+  "texto_tts": "Las reglas, para que sea justo. El veinticinco de noviembre de dos mil veintiséis abrí un chat nuevo en cada una y les pegué exactamente el mismo mensaje. Y te lo digo con transparencia: ChatGPT estaba en el plan gratuito, con su modelo por defecto, y Claude en el plan Pro, con el modelo Opus cinco punto cinco. No son planes iguales, y lo vamos a tener en cuenta.",
+  "modelo": "eleven_v3",
+  "duracion": 30.48,
+  "palabras": [
+    {
+      "texto": "Las",
+      "inicio": 0.0,
+      "fin": 0.16
+    },
+    {
+      "texto": "reglas,",
+      "inicio": 0.22,
+      "fin": 0.64
+    },
+    {
+      "texto": "para",
+      "inicio": 0.672,
+      "fin": 0.8
+    },
+    {
+      "texto": "que",
+      "inicio": 0.84,
+      "fin": 0.96
+    },
+    {
+      "texto": "sea",
+      "inicio": 1.02,
+      "fin": 1.2
+    },
+    {
+      "texto": "justo.",
+      "inicio": 1.267,
+      "fin": 1.68
+    },
+    {
+      "texto": "El",
+      "inicio": 1.893,
+      "fin": 2.32
+    },
+    {
+      "texto": "veinticinco",
+      "inicio": 2.373,
+      "fin": 3.04
+    },
+    {
+      "texto": "de",
+      "inicio": 3.067,
+      "fin": 3.12
+    },
+    {
+      "texto": "noviembre",
+      "inicio": 3.18,
+      "fin": 3.68
+    },
+    {
+      "texto": "de",
+      "inicio": 3.733,
+      "fin": 3.84
+    },
+    {
+      "texto": "dos",
+      "inicio": 3.86,
+      "fin": 3.92
+    },
+    {
+      "texto": "mil",
+      "inicio": 3.98,
+      "fin": 4.16
+    },
+    {
+      "texto": "veintiséis",
+      "inicio": 4.213,
+      "fin": 5.2
+    },
+    {
+      "texto": "abrí",
+      "inicio": 5.44,
+      "fin": 6.08
+    },
+    {
+      "texto": "un",
+      "inicio": 6.133,
+      "fin": 6.24
+    },
+    {
+      "texto": "chat",
+      "inicio": 6.304,
+      "fin": 6.56
+    },
+    {
+      "texto": "nuevo",
+      "inicio": 6.613,
+      "fin": 6.88
+    },
+    {
+      "texto": "en",
+      "inicio": 6.933,
+      "fin": 7.04
+    },
+    {
+      "texto": "cada",
+      "inicio": 7.104,
+      "fin": 7.36
+    },
+    {
+      "texto": "una",
+      "inicio": 7.48,
+      "fin": 7.84
+    },
+    {
+      "texto": "y",
+      "inicio": 8.4,
+      "fin": 8.96
+    },
+    {
+      "texto": "les",
+      "inicio": 9.02,
+      "fin": 9.2
+    },
+    {
+      "texto": "pegué",
+      "inicio": 9.24,
+      "fin": 9.44
+    },
+    {
+      "texto": "exactamente",
+      "inicio": 9.533,
+      "fin": 10.4
+    },
+    {
+      "texto": "el",
+      "inicio": 10.48,
+      "fin": 10.64
+    },
+    {
+      "texto": "mismo",
+      "inicio": 10.707,
+      "fin": 11.04
+    },
+    {
+      "texto": "mensaje.",
+      "inicio": 11.12,
+      "fin": 11.76
+    },
+    {
+      "texto": "Y",
+      "inicio": 12.12,
+      "fin": 12.48
+    },
+    {
+      "texto": "te",
+      "inicio": 12.533,
+      "fin": 12.64
+    },
+    {
+      "texto": "lo",
+      "inicio": 12.667,
+      "fin": 12.72
+    },
+    {
+      "texto": "digo",
+      "inicio": 12.78,
+      "fin": 13.08
+    },
+    {
+      "texto": "con",
+      "inicio": 13.11,
+      "fin": 13.2
+    },
+    {
+      "texto": "transparencia:",
+      "inicio": 13.267,
+      "fin": 14.4
+    },
+    {
+      "texto": "ChatGPT",
+      "inicio": 14.576,
+      "fin": 15.84
+    },
+    {
+      "texto": "estaba",
+      "inicio": 15.92,
+      "fin": 16.4
+    },
+    {
+      "texto": "en",
+      "inicio": 16.453,
+      "fin": 16.56
+    },
+    {
+      "texto": "el",
+      "inicio": 16.587,
+      "fin": 16.64
+    },
+    {
+      "texto": "plan",
+      "inicio": 16.704,
+      "fin": 16.96
+    },
+    {
+      "texto": "gratuito,",
+      "inicio": 17.04,
+      "fin": 17.84
+    },
+    {
+      "texto": "con",
+      "inicio": 18.0,
+      "fin": 18.48
+    },
+    {
+      "texto": "su",
+      "inicio": 18.56,
+      "fin": 18.72
+    },
+    {
+      "texto": "modelo",
+      "inicio": 18.789,
+      "fin": 19.2
+    },
+    {
+      "texto": "por",
+      "inicio": 19.28,
+      "fin": 19.52
+    },
+    {
+      "texto": "defecto,",
+      "inicio": 19.611,
+      "fin": 21.04
+    },
+    {
+      "texto": "y",
+      "inicio": 21.08,
+      "fin": 21.12
+    },
+    {
+      "texto": "Claude",
+      "inicio": 21.2,
+      "fin": 21.68
+    },
+    {
+      "texto": "en",
+      "inicio": 21.76,
+      "fin": 21.92
+    },
+    {
+      "texto": "el",
+      "inicio": 21.947,
+      "fin": 22.0
+    },
+    {
+      "texto": "plan",
+      "inicio": 22.08,
+      "fin": 22.4
+    },
+    {
+      "texto": "Pro,",
+      "inicio": 22.5,
+      "fin": 23.28
+    },
+    {
+      "texto": "con",
+      "inicio": 23.32,
+      "fin": 23.44
+    },
+    {
+      "texto": "el",
+      "inicio": 23.467,
+      "fin": 23.52
+    },
+    {
+      "texto": "modelo",
+      "inicio": 23.589,
+      "fin": 24.0
+    },
+    {
+      "texto": "Opus",
+      "inicio": 24.16,
+      "fin": 24.64
+    },
+    {
+      "texto": "cinco",
+      "inicio": 24.747,
+      "fin": 25.28
+    },
+    {
+      "texto": "punto",
+      "inicio": 25.347,
+      "fin": 25.68
+    },
+    {
+      "texto": "cinco.",
+      "inicio": 25.747,
+      "fin": 26.32
+    },
+    {
+      "texto": "No",
+      "inicio": 26.507,
+      "fin": 26.88
+    },
+    {
+      "texto": "son",
+      "inicio": 26.96,
+      "fin": 27.2
+    },
+    {
+      "texto": "planes",
+      "inicio": 27.269,
+      "fin": 27.68
+    },
+    {
+      "texto": "iguales,",
+      "inicio": 27.76,
+      "fin": 28.64
+    },
+    {
+      "texto": "y",
+      "inicio": 28.76,
+      "fin": 28.88
+    },
+    {
+      "texto": "lo",
+      "inicio": 28.907,
+      "fin": 28.96
+    },
+    {
+      "texto": "vamos",
+      "inicio": 29.027,
+      "fin": 29.36
+    },
+    {
+      "texto": "a",
+      "inicio": 29.4,
+      "fin": 29.44
+    },
+    {
+      "texto": "tener",
+      "inicio": 29.493,
+      "fin": 29.76
+    },
+    {
+      "texto": "en",
+      "inicio": 29.787,
+      "fin": 29.84
+    },
+    {
+      "texto": "cuenta.",
+      "inicio": 29.92,
+      "fin": 30.48
+    }
+  ]
+}

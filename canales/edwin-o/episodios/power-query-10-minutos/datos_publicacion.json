@@ -1,0 +1,90 @@
+{
+  "titulo": "Domina Power Query en 10 minutos: 10 movimientos que usarás toda la vida",
+  "titulos_alternativos": [
+    "Power Query tutorial: de meses en columnas a reporte de metas",
+    "10 trucos de Power Query que debes conocer"
+  ],
+  "intro": "Convierte una tabla con los meses en columnas en un reporte de cumplimiento de metas por región con 10 movimientos de Power Query: rellenar, anular dinamización, dividir, columna personalizada, agrupar, combinar consultas y actualizar con un clic.",
+  "aprenderas": [
+    "Rellenar hacia abajo",
+    "Anular dinamización de otras columnas",
+    "Nombres y tipos de datos",
+    "Dividir columna",
+    "Columna personalizada",
+    "Agrupar por (en una Referencia)",
+    "Combinar consultas (Externa izquierda)",
+    "Porcentaje de cumplimiento y Actualizar todo",
+    "El lenguaje M y Columna a partir de los ejemplos"
+  ],
+  "bloque": "Columnas personalizadas del video:\nComisión = [Monto] * 0.05\nCumplimiento = [Monto] / [Meta]\nResultado: Norte 100,4 % · Sur 97,2 % · Centro 107,5 % (120 % al actualizar).",
+  "capitulos": {
+    "01": "De meses en columnas a reporte",
+    "03": "Power Query sigue creciendo",
+    "04": "El peor formato para analizar",
+    "05": "Los datos",
+    "06": "3 reglas de oro",
+    "07": "1: Entra a Power Query",
+    "08": "2: Rellenar hacia abajo",
+    "09": "3: Anular dinamización",
+    "10": "4: Nombres y tipos",
+    "11": "5: Dividir columna",
+    "12": "6: Columna personalizada",
+    "13": "7: Agrupar por",
+    "14": "8: Combinar consultas",
+    "15": "9: % de cumplimiento",
+    "16": "10: Cargar y actualizar",
+    "17": "Tu receta completa",
+    "18": "El lenguaje M",
+    "19": "Bonus: columna a partir de ejemplos",
+    "20": "Si no te funcionó"
+  },
+  "fuentes": [
+    "Microsoft Support, Acerca de Power Query en Excel: https://support.microsoft.com/es-es/office/acerca-de-power-query-en-excel-7104fbee-9e62-4cb9-a02e-5bfb1a6c536a",
+    "Microsoft Support, Combinar consultas: https://support.microsoft.com/es-es/office/combinar-consultas-power-query-fd157620-5470-4c0f-b132-7ca2616d17f9",
+    "Microsoft Support, Anular dinamización de columnas: https://support.microsoft.com/es-es/office/0f7bad4b-9ea1-49c1-9d95-f588221c7098"
+  ],
+  "hashtags": [
+    "#Excel",
+    "#PowerQuery",
+    "#DataAnalyst"
+  ],
+  "tags": [
+    "power query tutorial",
+    "power query desde cero",
+    "anular dinamizacion de columnas",
+    "combinar consultas excel",
+    "agrupar por power query",
+    "rellenar hacia abajo excel",
+    "columna personalizada power query",
+    "lenguaje m",
+    "analista de datos",
+    "excel avanzado",
+    "edwin o"
+  ],
+  "playlist": "Power Query y datos",
+  "programar": "2027-01-19 07:00",
+  "shorts": [
+    {
+      "id": "short-1",
+      "titulo": "¿Meses en columnas? ARRÉGLALO EN 1 CLIC #shorts",
+      "descripcion": "Power Query: Anular dinamización de otras columnas. Video completo en el canal.",
+      "tags": [
+        "power query"
+      ],
+      "programar": "2027-01-20 12:00"
+    },
+    {
+      "id": "short-2",
+      "titulo": "Rellena celdas vacías CON POWER QUERY #shorts",
+      "descripcion": "Transformar → Rellenar → Abajo. Video completo en el canal.",
+      "tags": [
+        "power query"
+      ],
+      "programar": "2027-01-23 12:00"
+    }
+  ],
+  "enlaces": [
+    "📊 Guías de Excel en el blog: https://www.edwinortiz.net/excel/",
+    "🌐 Plantillas y cursos: https://www.edwinortiz.net"
+  ]
+}

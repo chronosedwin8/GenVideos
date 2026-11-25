@@ -1,0 +1,215 @@
+{
+  "num": "20",
+  "titulo": "Resumen",
+  "texto": "En resumen: si hay intentos fijos, dos resultados, la misma probabilidad y no se afectan entre sí, es binomial. FALSO es \"exactamente\", VERDADERO es \"como máximo\". Y \"al menos\" es uno menos el acumulado. Si no lo aprendes ahora, te extingues.",
+  "texto_tts": "En resumen: si hay intentos fijos, dos resultados, la misma probabilidad y no se afectan entre sí, es binomial. FALSO es \"exactamente\", VERDADERO es \"como máximo\". Y \"al menos\" es uno menos el acumulado. [serious] Si no lo aprendes ahora, te extingues.",
+  "modelo": "eleven_v3",
+  "duracion": 18.32,
+  "palabras": [
+    {
+      "texto": "En",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "resumen:",
+      "inicio": 0.14,
+      "fin": 0.72
+    },
+    {
+      "texto": "si",
+      "inicio": 0.773,
+      "fin": 0.88
+    },
+    {
+      "texto": "hay",
+      "inicio": 0.92,
+      "fin": 1.04
+    },
+    {
+      "texto": "intentos",
+      "inicio": 1.109,
+      "fin": 1.6
+    },
+    {
+      "texto": "fijos,",
+      "inicio": 1.64,
+      "fin": 2.56
+    },
+    {
+      "texto": "dos",
+      "inicio": 2.62,
+      "fin": 2.8
+    },
+    {
+      "texto": "resultados,",
+      "inicio": 2.858,
+      "fin": 3.48
+    },
+    {
+      "texto": "la",
+      "inicio": 3.493,
+      "fin": 3.52
+    },
+    {
+      "texto": "misma",
+      "inicio": 3.573,
+      "fin": 3.84
+    },
+    {
+      "texto": "probabilidad",
+      "inicio": 3.888,
+      "fin": 4.4
+    },
+    {
+      "texto": "y",
+      "inicio": 4.52,
+      "fin": 4.64
+    },
+    {
+      "texto": "no",
+      "inicio": 4.667,
+      "fin": 4.72
+    },
+    {
+      "texto": "se",
+      "inicio": 4.773,
+      "fin": 4.88
+    },
+    {
+      "texto": "afectan",
+      "inicio": 4.933,
+      "fin": 5.28
+    },
+    {
+      "texto": "entre",
+      "inicio": 5.333,
+      "fin": 5.6
+    },
+    {
+      "texto": "sí,",
+      "inicio": 5.68,
+      "fin": 6.0
+    },
+    {
+      "texto": "es",
+      "inicio": 6.053,
+      "fin": 6.16
+    },
+    {
+      "texto": "binomial.",
+      "inicio": 6.2,
+      "fin": 6.8
+    },
+    {
+      "texto": "FALSO",
+      "inicio": 7.2,
+      "fin": 8.08
+    },
+    {
+      "texto": "es",
+      "inicio": 8.187,
+      "fin": 8.4
+    },
+    {
+      "texto": "\"exactamente\",",
+      "inicio": 8.48,
+      "fin": 9.6
+    },
+    {
+      "texto": "VERDADERO",
+      "inicio": 9.74,
+      "fin": 10.56
+    },
+    {
+      "texto": "es",
+      "inicio": 10.613,
+      "fin": 10.72
+    },
+    {
+      "texto": "\"como",
+      "inicio": 10.8,
+      "fin": 11.12
+    },
+    {
+      "texto": "máximo\".",
+      "inicio": 11.2,
+      "fin": 11.84
+    },
+    {
+      "texto": "Y",
+      "inicio": 12.08,
+      "fin": 12.32
+    },
+    {
+      "texto": "\"al",
+      "inicio": 12.36,
+      "fin": 12.48
+    },
+    {
+      "texto": "menos\"",
+      "inicio": 12.547,
+      "fin": 12.96
+    },
+    {
+      "texto": "es",
+      "inicio": 13.04,
+      "fin": 13.2
+    },
+    {
+      "texto": "uno",
+      "inicio": 13.3,
+      "fin": 13.6
+    },
+    {
+      "texto": "menos",
+      "inicio": 13.667,
+      "fin": 14.0
+    },
+    {
+      "texto": "el",
+      "inicio": 14.053,
+      "fin": 14.16
+    },
+    {
+      "texto": "acumulado.",
+      "inicio": 14.224,
+      "fin": 14.88
+    },
+    {
+      "texto": "Si",
+      "inicio": 15.822,
+      "fin": 15.84
+    },
+    {
+      "texto": "no",
+      "inicio": 15.893,
+      "fin": 16.0
+    },
+    {
+      "texto": "lo",
+      "inicio": 16.027,
+      "fin": 16.08
+    },
+    {
+      "texto": "aprendes",
+      "inicio": 16.126,
+      "fin": 16.56
+    },
+    {
+      "texto": "ahora,",
+      "inicio": 16.627,
+      "fin": 17.04
+    },
+    {
+      "texto": "te",
+      "inicio": 17.12,
+      "fin": 17.28
+    },
+    {
+      "texto": "extingues.",
+      "inicio": 17.36,
+      "fin": 18.32
+    }
+  ]
+}

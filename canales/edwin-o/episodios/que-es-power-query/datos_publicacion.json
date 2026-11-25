@@ -1,0 +1,87 @@
+{
+  "titulo": "¿Qué es Power Query y para qué sirve? Limpia tus datos de Excel en 1 clic",
+  "titulos_alternativos": [
+    "Power Query desde cero: limpia datos en Excel automáticamente",
+    "Deja de limpiar Excel a mano: Power Query"
+  ],
+  "intro": "Power Query es la grabadora de pasos de Excel: obtiene tus datos, los limpia y los carga en una hoja, y repite toda la receta con Actualizar todo. En este video ves qué es, dónde está y una limpieza completa paso a paso.",
+  "aprenderas": [
+    "Qué es Power Query (obtener, transformar, cargar)",
+    "Dónde está: Datos → Desde tabla o rango",
+    "Quitar filas en blanco y duplicados",
+    "Recortar y Poner En Mayúsculas Cada Palabra",
+    "Dividir columna por delimitador",
+    "Tipos de datos y Pasos aplicados",
+    "Cerrar y cargar + Actualizar todo"
+  ],
+  "bloque": "Ruta de cada paso (Excel 365 en español):\nDatos → Desde tabla o rango\nInicio → Quitar filas → Quitar filas en blanco\nTransformar → Formato → Recortar / Poner En Mayúsculas Cada Palabra\nInicio → Dividir columna → Por delimitador\nInicio → Quitar filas → Quitar duplicados\nInicio → Cerrar y cargar\nDatos → Actualizar todo",
+  "capitulos": {
+    "01": "El archivo de cada lunes",
+    "03": "Power Query está en todas partes",
+    "05": "¿Qué es Power Query?",
+    "06": "¿Dónde está?",
+    "07": "Los datos",
+    "08": "Paso 1: Desde tabla o rango",
+    "09": "Conoce el editor",
+    "10": "Paso 2: filas en blanco",
+    "11": "Paso 3: limpia los nombres",
+    "12": "Paso 4: dividir columna",
+    "13": "Paso 5: duplicados",
+    "14": "Paso 6: tipos de datos",
+    "15": "La grabadora de pasos",
+    "16": "Paso 7: cerrar y cargar",
+    "17": "La magia: Actualizar todo",
+    "18": "¿Power Query o fórmulas?",
+    "19": "¿Qué más puede hacer?",
+    "20": "Si no te funcionó"
+  },
+  "fuentes": [
+    "Microsoft Support, Acerca de Power Query en Excel: https://support.microsoft.com/es-es/office/acerca-de-power-query-en-excel-7104fbee-9e62-4cb9-a02e-5bfb1a6c536a",
+    "Microsoft Learn, ¿Qué es Power Query?: https://learn.microsoft.com/es-es/power-query/power-query-what-is-power-query"
+  ],
+  "hashtags": [
+    "#Excel",
+    "#PowerQuery",
+    "#AnalisisDeDatos"
+  ],
+  "tags": [
+    "que es power query",
+    "power query excel",
+    "para que sirve power query",
+    "limpiar datos en excel",
+    "power query desde cero",
+    "quitar duplicados excel",
+    "dividir columna excel",
+    "actualizar todo excel",
+    "power bi",
+    "analista de datos",
+    "excel para empresas",
+    "edwin o"
+  ],
+  "playlist": "Power Query y datos",
+  "programar": "2027-01-05 07:00",
+  "shorts": [
+    {
+      "id": "short-1",
+      "titulo": "Limpia tu Excel CON 1 CLIC (Power Query) #shorts",
+      "descripcion": "Pegas los datos nuevos, Actualizar todo y listo. Video completo en el canal.",
+      "tags": [
+        "power query"
+      ],
+      "programar": "2027-01-06 12:00"
+    },
+    {
+      "id": "short-2",
+      "titulo": "Quita duplicados COMO PRO en Excel #shorts",
+      "descripcion": "Power Query: limpia los nombres primero y luego Quitar duplicados. Video completo en el canal.",
+      "tags": [
+        "quitar duplicados excel"
+      ],
+      "programar": "2027-01-09 12:00"
+    }
+  ],
+  "enlaces": [
+    "📊 Guías de Excel en el blog: https://www.edwinortiz.net/excel/",
+    "🌐 Plantillas y cursos: https://www.edwinortiz.net"
+  ]
+}

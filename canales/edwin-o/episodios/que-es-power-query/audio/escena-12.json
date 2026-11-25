@@ -1,0 +1,235 @@
+{
+  "num": "12",
+  "titulo": "Paso 4: separa producto y región",
+  "texto": "Paso cuatro: separa lo que viene junto. Selecciona la columna Producto guion Región, y en Dividir columna elige Por delimitador. Escribe el separador: espacio, guion, espacio. Aceptar, y ahora tienes dos columnas. Haz doble clic en cada encabezado para cambiarle el nombre: Producto y Región.",
+  "texto_tts": "Paso cuatro: separa lo que viene junto. Selecciona la columna Producto guion Región, y en Dividir columna elige Por delimitador. Escribe el separador: espacio, guion, espacio. Aceptar, y ahora tienes dos columnas. Haz doble clic en cada encabezado para cambiarle el nombre: Producto y Región.",
+  "modelo": "eleven_v3",
+  "duracion": 24.4,
+  "palabras": [
+    {
+      "texto": "Paso",
+      "inicio": 0.0,
+      "fin": 0.24
+    },
+    {
+      "texto": "cuatro:",
+      "inicio": 0.309,
+      "fin": 1.12
+    },
+    {
+      "texto": "separa",
+      "inicio": 1.187,
+      "fin": 1.6
+    },
+    {
+      "texto": "lo",
+      "inicio": 1.653,
+      "fin": 1.76
+    },
+    {
+      "texto": "que",
+      "inicio": 1.8,
+      "fin": 1.92
+    },
+    {
+      "texto": "viene",
+      "inicio": 1.96,
+      "fin": 2.16
+    },
+    {
+      "texto": "junto.",
+      "inicio": 2.253,
+      "fin": 2.8
+    },
+    {
+      "texto": "Selecciona",
+      "inicio": 3.12,
+      "fin": 4.24
+    },
+    {
+      "texto": "la",
+      "inicio": 4.293,
+      "fin": 4.4
+    },
+    {
+      "texto": "columna",
+      "inicio": 4.46,
+      "fin": 4.88
+    },
+    {
+      "texto": "Producto",
+      "inicio": 4.969,
+      "fin": 5.68
+    },
+    {
+      "texto": "guion",
+      "inicio": 5.787,
+      "fin": 6.24
+    },
+    {
+      "texto": "Región,",
+      "inicio": 6.34,
+      "fin": 7.12
+    },
+    {
+      "texto": "y",
+      "inicio": 7.16,
+      "fin": 7.2
+    },
+    {
+      "texto": "en",
+      "inicio": 7.253,
+      "fin": 7.36
+    },
+    {
+      "texto": "Dividir",
+      "inicio": 7.4,
+      "fin": 7.76
+    },
+    {
+      "texto": "columna",
+      "inicio": 7.83,
+      "fin": 8.32
+    },
+    {
+      "texto": "elige",
+      "inicio": 8.427,
+      "fin": 8.88
+    },
+    {
+      "texto": "Por",
+      "inicio": 9.0,
+      "fin": 9.36
+    },
+    {
+      "texto": "delimitador.",
+      "inicio": 9.42,
+      "fin": 10.4
+    },
+    {
+      "texto": "Escribe",
+      "inicio": 10.68,
+      "fin": 11.28
+    },
+    {
+      "texto": "el",
+      "inicio": 11.307,
+      "fin": 11.36
+    },
+    {
+      "texto": "separador:",
+      "inicio": 11.427,
+      "fin": 12.08
+    },
+    {
+      "texto": "espacio,",
+      "inicio": 12.2,
+      "fin": 13.28
+    },
+    {
+      "texto": "guion,",
+      "inicio": 13.307,
+      "fin": 13.84
+    },
+    {
+      "texto": "espacio.",
+      "inicio": 13.92,
+      "fin": 14.64
+    },
+    {
+      "texto": "Aceptar,",
+      "inicio": 14.96,
+      "fin": 16.08
+    },
+    {
+      "texto": "y",
+      "inicio": 16.12,
+      "fin": 16.16
+    },
+    {
+      "texto": "ahora",
+      "inicio": 16.227,
+      "fin": 16.56
+    },
+    {
+      "texto": "tienes",
+      "inicio": 16.617,
+      "fin": 16.96
+    },
+    {
+      "texto": "dos",
+      "inicio": 17.02,
+      "fin": 17.2
+    },
+    {
+      "texto": "columnas.",
+      "inicio": 17.257,
+      "fin": 18.16
+    },
+    {
+      "texto": "Haz",
+      "inicio": 18.34,
+      "fin": 18.88
+    },
+    {
+      "texto": "doble",
+      "inicio": 18.933,
+      "fin": 19.2
+    },
+    {
+      "texto": "clic",
+      "inicio": 19.264,
+      "fin": 19.52
+    },
+    {
+      "texto": "en",
+      "inicio": 19.6,
+      "fin": 19.76
+    },
+    {
+      "texto": "cada",
+      "inicio": 19.824,
+      "fin": 20.08
+    },
+    {
+      "texto": "encabezado",
+      "inicio": 20.12,
+      "fin": 20.88
+    },
+    {
+      "texto": "para",
+      "inicio": 20.928,
+      "fin": 21.12
+    },
+    {
+      "texto": "cambiarle",
+      "inicio": 21.18,
+      "fin": 21.64
+    },
+    {
+      "texto": "el",
+      "inicio": 21.653,
+      "fin": 21.68
+    },
+    {
+      "texto": "nombre:",
+      "inicio": 21.749,
+      "fin": 22.72
+    },
+    {
+      "texto": "Producto",
+      "inicio": 22.791,
+      "fin": 23.36
+    },
+    {
+      "texto": "y",
+      "inicio": 23.52,
+      "fin": 23.68
+    },
+    {
+      "texto": "Región.",
+      "inicio": 23.76,
+      "fin": 24.4
+    }
+  ]
+}

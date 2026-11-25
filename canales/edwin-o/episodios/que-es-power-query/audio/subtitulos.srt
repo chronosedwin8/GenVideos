@@ -1,0 +1,967 @@
+1
+00:00:00,230 --> 00:00:02,240
+Cada lunes te llega el mismo archivo
+
+2
+00:00:02,300 --> 00:00:03,840
+desordenado:
+
+3
+00:00:03,890 --> 00:00:06,640
+nombres con espacios, mayúsculas por todos
+
+4
+00:00:06,680 --> 00:00:09,600
+lados, filas repetidas… y pierdes
+
+5
+00:00:09,660 --> 00:00:11,280
+una hora limpiándolo a mano.
+
+6
+00:00:12,493 --> 00:00:14,400
+¿Y si lo limpias una sola vez,
+
+7
+00:00:14,600 --> 00:00:16,400
+y desde ese día, con un solo
+
+8
+00:00:16,464 --> 00:00:18,080
+clic, se limpia solo?
+
+9
+00:00:18,720 --> 00:00:20,400
+¡Bienvenidos, amigos del canal!
+
+10
+00:00:20,680 --> 00:00:22,960
+Vamos en busca del poder
+
+11
+00:00:23,008 --> 00:00:23,840
+tecnológico.
+
+12
+00:00:24,040 --> 00:00:26,560
+Hoy te explico qué es Power
+
+13
+00:00:26,627 --> 00:00:29,520
+Query, la herramienta de Excel que limpia
+
+14
+00:00:29,580 --> 00:00:31,120
+tus datos sola.
+
+15
+00:00:31,240 --> 00:00:33,680
+Vas a ver dónde está, cómo funciona
+
+16
+00:00:33,740 --> 00:00:36,640
+por dentro, una limpieza completa paso
+
+17
+00:00:36,720 --> 00:00:38,880
+a paso, y el momento mágico:
+
+18
+00:00:38,975 --> 00:00:41,840
+actualizar todo con un clic.
+
+19
+00:00:42,240 --> 00:00:44,160
+Power Query no es nuevo, pero hoy
+
+20
+00:00:44,192 --> 00:00:45,440
+está en todas partes.
+
+21
+00:00:45,560 --> 00:00:48,160
+Según Microsoft, está en Excel para Windows,
+
+22
+00:00:48,192 --> 00:00:50,160
+para Mac y para la Web, y
+
+23
+00:00:50,213 --> 00:00:52,160
+desde dos mil veinticinco la versión web
+
+24
+00:00:52,213 --> 00:00:54,240
+ya puede actualizar consultas de orígenes con
+
+25
+00:00:54,313 --> 00:00:55,440
+contraseña.
+
+26
+00:00:55,640 --> 00:00:56,880
+Y algo que pocos saben:
+
+27
+00:00:57,067 --> 00:00:59,200
+es el mismo motor que usa Power
+
+28
+00:00:59,333 --> 00:00:59,680
+BI.
+
+29
+00:00:59,893 --> 00:01:02,040
+Si lo aprendes en Excel, ya diste
+
+30
+00:01:02,053 --> 00:01:04,160
+el primer paso como analista de datos.
+
+31
+00:01:04,560 --> 00:01:06,720
+En mis capacitaciones veo esto todo el
+
+32
+00:01:06,789 --> 00:01:07,760
+tiempo:
+
+33
+00:01:07,829 --> 00:01:10,480
+secretarias y auxiliares que cada lunes
+
+34
+00:01:10,560 --> 00:01:13,520
+reciben el mismo reporte del sistema, y
+
+35
+00:01:13,573 --> 00:01:16,320
+lo limpian a mano, celda por celda.
+
+36
+00:01:16,520 --> 00:01:18,720
+Una hora, cada semana,
+
+37
+00:01:18,827 --> 00:01:21,760
+haciendo exactamente lo mismo.
+
+38
+00:01:21,829 --> 00:01:24,640
+Cuando les muestro Power Query, la reacción
+
+39
+00:01:24,690 --> 00:01:25,760
+siempre es la misma:
+
+40
+00:01:26,080 --> 00:01:28,160
+¿y por qué nadie me había enseñado
+
+41
+00:01:28,224 --> 00:01:29,200
+esto antes?
+
+42
+00:01:29,600 --> 00:01:30,920
+Entonces, ¿qué es?
+
+43
+00:01:31,013 --> 00:01:33,840
+Piensa en Power Query como una grabadora
+
+44
+00:01:33,867 --> 00:01:34,720
+de pasos.
+
+45
+00:01:35,008 --> 00:01:38,000
+Primero obtiene los datos, de un
+
+46
+00:01:38,060 --> 00:01:41,000
+archivo, una carpeta o una página web.
+
+47
+00:01:41,150 --> 00:01:42,960
+Después los transforma:
+
+48
+00:01:43,184 --> 00:01:45,760
+limpia, divide y une.
+
+49
+00:01:46,040 --> 00:01:48,160
+Y al final los carga en una
+
+50
+00:01:48,213 --> 00:01:48,560
+hoja.
+
+51
+00:01:48,960 --> 00:01:51,680
+Lo mejor es que recuerda cada
+
+52
+00:01:51,744 --> 00:01:54,160
+paso que hiciste, para repetirlo
+
+53
+00:01:54,267 --> 00:01:55,760
+cuantas veces quieras.
+
+54
+00:01:56,160 --> 00:01:56,800
+¿Dónde está?
+
+55
+00:01:56,827 --> 00:01:59,200
+En la pestaña Datos, a la izquierda.
+
+56
+00:01:59,387 --> 00:02:02,160
+Ahí ves Obtener datos, con
+
+57
+00:02:02,200 --> 00:02:04,240
+todas las fuentes posibles, y Desde tabla
+
+58
+00:02:04,280 --> 00:02:05,520
+o rango, que es el que más
+
+59
+00:02:05,580 --> 00:02:08,000
+vas a usar, para trabajar con datos
+
+60
+00:02:08,040 --> 00:02:09,360
+que ya están en tu hoja.
+
+61
+00:02:09,573 --> 00:02:11,600
+No necesitas instalar nada:
+
+62
+00:02:11,627 --> 00:02:13,680
+en Excel moderno ya viene incluido.
+
+63
+00:02:14,080 --> 00:02:15,760
+Este es el archivo que exporta el
+
+64
+00:02:15,800 --> 00:02:16,800
+sistema de ventas.
+
+65
+00:02:16,840 --> 00:02:18,400
+Mira los problemas:
+
+66
+00:02:18,440 --> 00:02:20,240
+nombres con espacios al principio o al
+
+67
+00:02:20,307 --> 00:02:22,800
+final, unos en mayúsculas y otros en
+
+68
+00:02:22,840 --> 00:02:23,600
+minúsculas.
+
+69
+00:02:23,813 --> 00:02:26,000
+El producto y la región vienen juntos
+
+70
+00:02:26,080 --> 00:02:27,280
+en una sola columna.
+
+71
+00:02:27,420 --> 00:02:29,440
+Hay una fila en blanco, y esta
+
+72
+00:02:29,493 --> 00:02:31,680
+venta de Ana Torres está repetida.
+
+73
+00:02:32,080 --> 00:02:32,800
+Paso uno.
+
+74
+00:02:32,940 --> 00:02:34,960
+Haz clic en cualquier celda de los
+
+75
+00:02:35,040 --> 00:02:37,760
+datos, ve a la pestaña Datos, y
+
+76
+00:02:37,860 --> 00:02:40,320
+pulsa Desde tabla o rango.
+
+77
+00:02:40,560 --> 00:02:43,360
+Excel te pide confirmar el rango y
+
+78
+00:02:43,400 --> 00:02:45,040
+que tiene encabezados:
+
+79
+00:02:45,120 --> 00:02:46,080
+aceptas.
+
+80
+00:02:46,480 --> 00:02:48,560
+Y se abre una ventana nueva:
+
+81
+00:02:48,613 --> 00:02:50,160
+el editor de Power Query.
+
+82
+00:02:50,360 --> 00:02:53,200
+Tus datos originales no se tocan.
+
+83
+00:02:53,600 --> 00:02:55,240
+Conoce el editor.
+
+84
+00:02:55,493 --> 00:02:58,000
+Arriba, la cinta, con las
+
+85
+00:02:58,040 --> 00:03:01,040
+pestañas Inicio, Transformar y Agregar
+
+86
+00:03:01,100 --> 00:03:01,600
+columna.
+
+87
+00:03:01,893 --> 00:03:04,160
+En el centro, la vista previa de
+
+88
+00:03:04,200 --> 00:03:05,120
+tus datos.
+
+89
+00:03:05,400 --> 00:03:07,120
+Y a la derecha, el panel más
+
+90
+00:03:07,193 --> 00:03:08,560
+importante:
+
+91
+00:03:08,620 --> 00:03:10,160
+Pasos aplicados.
+
+92
+00:03:10,320 --> 00:03:12,000
+Ahí se va a grabar cada cosa
+
+93
+00:03:12,040 --> 00:03:14,720
+que hagas, en orden, como una receta.
+
+94
+00:03:15,120 --> 00:03:15,920
+Paso dos:
+
+95
+00:03:16,040 --> 00:03:17,920
+fuera las filas vacías.
+
+96
+00:03:18,240 --> 00:03:21,200
+En la pestaña Inicio, abre
+
+97
+00:03:21,320 --> 00:03:24,320
+Quitar filas, y elige Quitar
+
+98
+00:03:24,380 --> 00:03:25,440
+filas en blanco.
+
+99
+00:03:25,792 --> 00:03:28,480
+Listo, la fila vacía
+
+100
+00:03:28,560 --> 00:03:29,760
+desapareció.
+
+101
+00:03:30,200 --> 00:03:32,080
+Y mira el panel de la derecha:
+
+102
+00:03:32,213 --> 00:03:34,480
+apareció un paso nuevo.
+
+103
+00:03:34,760 --> 00:03:36,960
+Esa es la grabadora trabajando.
+
+104
+00:03:37,360 --> 00:03:38,160
+Paso tres:
+
+105
+00:03:38,320 --> 00:03:40,480
+limpia los nombres.
+
+106
+00:03:40,640 --> 00:03:43,600
+Selecciona la columna Vendedor, ve a
+
+107
+00:03:43,672 --> 00:03:45,520
+Transformar, abre
+
+108
+00:03:45,600 --> 00:03:47,200
+Formato, y elige
+
+109
+00:03:47,340 --> 00:03:48,960
+Recortar:
+
+110
+00:03:49,013 --> 00:03:50,800
+se van los espacios del principio y
+
+111
+00:03:50,840 --> 00:03:51,520
+del final.
+
+112
+00:03:51,960 --> 00:03:54,560
+Y otra vez en Formato, elige
+
+113
+00:03:54,720 --> 00:03:57,120
+Poner en mayúsculas cada palabra.
+
+114
+00:03:57,467 --> 00:04:00,320
+Ahora todos se ven iguales:
+
+115
+00:04:00,380 --> 00:04:03,040
+Ana Torres, Luis Gómez, Sara
+
+116
+00:04:03,152 --> 00:04:03,840
+Ruiz.
+
+117
+00:04:04,240 --> 00:04:05,360
+Paso cuatro:
+
+118
+00:04:05,427 --> 00:04:07,040
+separa lo que viene junto.
+
+119
+00:04:07,360 --> 00:04:09,920
+Selecciona la columna Producto
+
+120
+00:04:10,027 --> 00:04:12,560
+guion Región, y en Dividir columna
+
+121
+00:04:12,667 --> 00:04:14,640
+elige Por delimitador.
+
+122
+00:04:14,920 --> 00:04:16,320
+Escribe el separador:
+
+123
+00:04:16,440 --> 00:04:18,880
+espacio, guion, espacio.
+
+124
+00:04:19,200 --> 00:04:21,440
+Aceptar, y ahora tienes dos
+
+125
+00:04:21,497 --> 00:04:22,400
+columnas.
+
+126
+00:04:22,580 --> 00:04:25,360
+Haz doble clic en cada encabezado para
+
+127
+00:04:25,420 --> 00:04:26,960
+cambiarle el nombre:
+
+128
+00:04:27,031 --> 00:04:28,640
+Producto y Región.
+
+129
+00:04:29,040 --> 00:04:29,840
+Paso cinco:
+
+130
+00:04:29,900 --> 00:04:31,320
+los duplicados.
+
+131
+00:04:31,440 --> 00:04:34,000
+Selecciona todas las columnas con Control
+
+132
+00:04:34,120 --> 00:04:36,640
+más A, y en Quitar filas
+
+133
+00:04:36,773 --> 00:04:39,200
+elige Quitar duplicados.
+
+134
+00:04:39,467 --> 00:04:41,680
+La venta repetida de Ana Torres
+
+135
+00:04:41,780 --> 00:04:42,720
+desaparece.
+
+136
+00:04:43,240 --> 00:04:45,920
+¿Ves por qué limpiamos los nombres primero?
+
+137
+00:04:46,107 --> 00:04:48,640
+Si no, con los espacios, Power
+
+138
+00:04:48,720 --> 00:04:51,040
+Query no habría visto que eran iguales.
+
+139
+00:04:51,440 --> 00:04:52,320
+Paso seis:
+
+140
+00:04:52,400 --> 00:04:53,680
+los tipos de datos.
+
+141
+00:04:54,120 --> 00:04:56,160
+Fíjate en el ícono a la izquierda
+
+142
+00:04:56,187 --> 00:04:57,280
+de cada encabezado.
+
+143
+00:04:57,387 --> 00:04:59,760
+La fecha debe ser fecha, y el
+
+144
+00:04:59,840 --> 00:05:01,360
+monto, un número.
+
+145
+00:05:01,493 --> 00:05:03,120
+Si no lo son, haz clic en
+
+146
+00:05:03,147 --> 00:05:05,120
+el ícono y elige el tipo correcto.
+
+147
+00:05:05,328 --> 00:05:07,200
+Esto es clave:
+
+148
+00:05:07,253 --> 00:05:09,760
+si el monto queda como texto, después
+
+149
+00:05:09,867 --> 00:05:11,440
+no lo vas a poder sumar.
+
+150
+00:05:11,840 --> 00:05:13,520
+Mira el panel de pasos aplicados:
+
+151
+00:05:13,573 --> 00:05:16,160
+ahí está toda tu limpieza, en orden.
+
+152
+00:05:16,533 --> 00:05:19,280
+Si haces clic en un paso anterior,
+
+153
+00:05:19,340 --> 00:05:20,880
+ves cómo estaban los datos en ese
+
+154
+00:05:20,940 --> 00:05:21,520
+momento.
+
+155
+00:05:21,880 --> 00:05:24,320
+Y si te equivocaste, borras el paso
+
+156
+00:05:24,340 --> 00:05:25,120
+con la equis.
+
+157
+00:05:25,520 --> 00:05:27,440
+Nada se pierde:
+
+158
+00:05:27,480 --> 00:05:29,920
+tus datos originales siguen intactos en la
+
+159
+00:05:30,000 --> 00:05:30,320
+hoja.
+
+160
+00:05:30,720 --> 00:05:31,760
+Paso siete:
+
+161
+00:05:31,813 --> 00:05:34,640
+en la pestaña Inicio, pulsa Cerrar y
+
+162
+00:05:34,709 --> 00:05:35,360
+cargar.
+
+163
+00:05:35,600 --> 00:05:38,480
+Power Query crea una hoja nueva
+
+164
+00:05:38,520 --> 00:05:40,080
+con una tabla limpia:
+
+165
+00:05:40,128 --> 00:05:42,560
+seis ventas, con los nombres bien escritos
+
+166
+00:05:42,640 --> 00:05:44,800
+y el producto y la región separados.
+
+167
+00:05:45,200 --> 00:05:47,600
+A la derecha ves la consulta, con
+
+168
+00:05:47,653 --> 00:05:49,360
+el número de filas que cargó.
+
+169
+00:05:49,832 --> 00:05:51,520
+Y ahora, la magia.
+
+170
+00:05:52,080 --> 00:05:55,040
+Llega la semana siguiente, y
+
+171
+00:05:55,067 --> 00:05:58,000
+el sistema exporta dos ventas nuevas,
+
+172
+00:05:58,053 --> 00:05:59,440
+igual de desordenadas.
+
+173
+00:05:59,720 --> 00:06:01,680
+Las pegas debajo de los datos
+
+174
+00:06:01,728 --> 00:06:04,560
+originales, vas a Datos, y
+
+175
+00:06:04,640 --> 00:06:07,080
+pulsas Actualizar todo.
+
+176
+00:06:07,207 --> 00:06:09,520
+Power Query repite toda la receta en
+
+177
+00:06:09,547 --> 00:06:10,960
+un segundo:
+
+178
+00:06:11,040 --> 00:06:13,920
+ocho ventas limpias, y el total sube
+
+179
+00:06:14,040 --> 00:06:16,480
+a cuatro mil cuatrocientos cincuenta.
+
+180
+00:06:16,693 --> 00:06:18,960
+Ya no limpias nunca más.
+
+181
+00:06:19,360 --> 00:06:21,040
+Una pregunta que siempre me hacen:
+
+182
+00:06:21,120 --> 00:06:22,880
+¿entonces ya no uso fórmulas?
+
+183
+00:06:23,067 --> 00:06:24,080
+Claro que sí.
+
+184
+00:06:24,260 --> 00:06:27,040
+Las fórmulas son para calcular:
+
+185
+00:06:27,120 --> 00:06:28,720
+sumas, búsquedas,
+
+186
+00:06:28,780 --> 00:06:31,600
+porcentajes, y se actualizan apenas
+
+187
+00:06:31,653 --> 00:06:32,400
+escribes.
+
+188
+00:06:32,573 --> 00:06:35,360
+Power Query es para preparar los datos
+
+189
+00:06:35,480 --> 00:06:36,640
+antes:
+
+190
+00:06:36,720 --> 00:06:39,280
+limpiar, separar, unir y
+
+191
+00:06:39,347 --> 00:06:42,320
+repetir esa receta cada semana, aunque sean
+
+192
+00:06:42,400 --> 00:06:43,600
+miles de filas.
+
+193
+00:06:43,920 --> 00:06:46,720
+Lo ideal es usar los dos:
+
+194
+00:06:46,787 --> 00:06:49,600
+Power Query deja los datos limpios, y
+
+195
+00:06:49,640 --> 00:06:51,760
+las fórmulas hacen los cálculos.
+
+196
+00:06:52,160 --> 00:06:53,600
+¿Y qué más puede hacer?
+
+197
+00:06:53,648 --> 00:06:54,400
+Muchísimo.
+
+198
+00:06:54,520 --> 00:06:57,200
+Juntar cincuenta archivos de una
+
+199
+00:06:57,264 --> 00:06:59,360
+carpeta en una sola tabla.
+
+200
+00:06:59,600 --> 00:07:02,080
+Unir dos tablas, como
+
+201
+00:07:02,160 --> 00:07:03,920
+ventas y clientes.
+
+202
+00:07:04,160 --> 00:07:06,720
+Apilar los meses uno debajo del
+
+203
+00:07:06,784 --> 00:07:07,280
+otro.
+
+204
+00:07:07,410 --> 00:07:10,160
+Convertir columnas de meses en
+
+205
+00:07:10,260 --> 00:07:12,640
+filas, para analizarlas.
+
+206
+00:07:12,880 --> 00:07:15,680
+Traer tablas de una página web.
+
+207
+00:07:16,000 --> 00:07:18,640
+Y lo que aprendas aquí, te sirve
+
+208
+00:07:18,720 --> 00:07:20,560
+igual en Power BI.
+
+209
+00:07:20,816 --> 00:07:23,600
+Varias de estas cosas las vamos a
+
+210
+00:07:23,660 --> 00:07:26,160
+ver en los próximos videos de esta
+
+211
+00:07:26,227 --> 00:07:26,800
+serie.
+
+212
+00:07:27,200 --> 00:07:28,320
+Si no te funcionó:
+
+213
+00:07:28,693 --> 00:07:31,120
+si no ves Desde tabla o rango,
+
+214
+00:07:31,160 --> 00:07:32,880
+puede que tengas Excel dos mil diez
+
+215
+00:07:32,960 --> 00:07:35,200
+o dos mil trece, donde era un
+
+216
+00:07:35,251 --> 00:07:37,840
+complemento aparte; lo ideal es
+
+217
+00:07:37,898 --> 00:07:38,560
+actualizar.
+
+218
+00:07:38,907 --> 00:07:41,040
+Si al actualizar sale un error de
+
+219
+00:07:41,090 --> 00:07:43,840
+columna no encontrada, alguien le cambió el
+
+220
+00:07:43,886 --> 00:07:45,520
+nombre a un encabezado en el archivo
+
+221
+00:07:45,591 --> 00:07:46,240
+original.
+
+222
+00:07:46,760 --> 00:07:49,400
+Y si el monto no suma, revisa
+
+223
+00:07:49,413 --> 00:07:50,560
+el tipo de datos.
+
+224
+00:07:50,960 --> 00:07:52,320
+En resumen:
+
+225
+00:07:52,373 --> 00:07:55,120
+Power Query obtiene, transforma y
+
+226
+00:07:55,200 --> 00:07:56,240
+carga tus datos.
+
+227
+00:07:56,560 --> 00:07:59,200
+Cada paso queda grabado en una receta.
+
+228
+00:07:59,600 --> 00:08:02,160
+Y con Actualizar todo, lo que antes
+
+229
+00:08:02,187 --> 00:08:04,640
+te tomaba una hora cada lunes, ahora
+
+230
+00:08:04,693 --> 00:08:06,000
+toma un segundo.
+
+231
+00:08:07,164 --> 00:08:09,680
+Si no lo aprendes ahora, te extingues.
+
+232
+00:08:10,080 --> 00:08:11,920
+Te recuerdo que en mi página, edwinortiz
+
+233
+00:08:11,973 --> 00:08:14,400
+punto net, y en la tienda, tienes
+
+234
+00:08:14,453 --> 00:08:17,200
+plantillas de Excel listas para usar; el
+
+235
+00:08:17,253 --> 00:08:18,640
+enlace está en la descripción.
+
+236
+00:08:18,907 --> 00:08:21,040
+En el próximo video te muestro la
+
+237
+00:08:21,080 --> 00:08:23,040
+varita mágica de Excel:
+
+238
+00:08:23,072 --> 00:08:25,440
+cómo usar la inteligencia artificial para combinar
+
+239
+00:08:25,520 --> 00:08:26,960
+datos como un profesional.
+
+240
+00:08:27,180 --> 00:08:29,360
+Suscríbete para no perdértelo.
+
+241
+00:08:30,227 --> 00:08:32,320
+El poder de la tecnología te va
+
+242
+00:08:32,420 --> 00:08:33,280
+a cambiar el mundo.

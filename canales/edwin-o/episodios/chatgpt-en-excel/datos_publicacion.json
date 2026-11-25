@@ -1,0 +1,86 @@
+{
+  "titulo": "ChatGPT en Excel: cómo instalarlo y automatizar tus hojas de cálculo",
+  "titulos_alternativos": [
+    "ChatGPT dentro de Excel: 5 tareas que te ahorran horas",
+    "Así funciona ChatGPT para Excel (gratis con límite)"
+  ],
+  "intro": "ChatGPT para Excel está disponible en todos los planes de ChatGPT desde mayo de 2026 (el gratuito con uso limitado). Te enseño a instalarlo, 5 tareas reales de oficina, cómo funcionan los permisos, qué pasa con tus datos y cuándo te conviene más Copilot o Claude. La interfaz del complemento se muestra como recreación.",
+  "aprenderas": [
+    "Instalarlo: Inicio → Complementos → ChatGPT",
+    "Limpiar una hoja (con permiso)",
+    "Resumen por categoría con fórmulas",
+    "Entender una hoja ajena",
+    "Escenarios ¿y si…?",
+    "Mencionar hojas con @",
+    "Seguridad, privacidad y límites"
+  ],
+  "bloque": "5 prompts para copiar:\n1) Limpia esta hoja: espacios, mayúsculas y duplicados.\n2) Crea una tabla de amortización para un préstamo de [monto] al [tasa] en [meses] meses.\n3) Explícame esta hoja como si yo fuera nuevo en la empresa.\n4) ¿Qué fórmulas de esta hoja dan error y por qué?\n5) Hazme un presupuesto mensual con categorías.",
+  "capitulos": {
+    "01": "Le escribes a Excel",
+    "03": "La historia de ChatGPT para Excel",
+    "04": "¿Es seguro con mis datos?",
+    "05": "Paso 1: instálalo",
+    "06": "La hoja de gastos",
+    "07": "Tarea 1: limpia la hoja",
+    "08": "Compruébalo",
+    "09": "Tarea 2: resumen por categoría",
+    "10": "Tarea 3: entender una hoja ajena",
+    "11": "Tarea 4: ¿y si…?",
+    "12": "Tarea 5: menciona hojas con @",
+    "13": "Reglas de seguridad",
+    "14": "¿Y mis datos?",
+    "15": "Lo que todavía no hace bien",
+    "16": "¿ChatGPT, Copilot o Claude?",
+    "17": "Mis 4 hábitos",
+    "18": "5 prompts para copiar",
+    "19": "Si no te funcionó"
+  },
+  "fuentes": [
+    "OpenAI, Introducing ChatGPT for Excel: https://openai.com/index/chatgpt-for-excel/",
+    "OpenAI Help Center, ChatGPT for Excel and Google Sheets: https://help.openai.com/en/articles/20001063-chatgpt-for-excel-and-google-sheets"
+  ],
+  "hashtags": [
+    "#ChatGPT",
+    "#Excel",
+    "#InteligenciaArtificial"
+  ],
+  "tags": [
+    "chatgpt en excel",
+    "chatgpt para excel",
+    "chatgpt excel complemento",
+    "automatizar excel con chatgpt",
+    "chatgpt excel gratis",
+    "ia en excel",
+    "copilot excel",
+    "claude excel",
+    "excel con ia",
+    "productividad con ia",
+    "edwin o"
+  ],
+  "playlist": "Excel con IA",
+  "programar": "2027-01-21 07:00",
+  "shorts": [
+    {
+      "id": "short-1",
+      "titulo": "ChatGPT limpia TU EXCEL (y te pide permiso) #shorts",
+      "descripcion": "Te muestra su plan y pide permiso antes de cambiar la hoja. Video completo en el canal.",
+      "tags": [
+        "chatgpt excel"
+      ],
+      "programar": "2027-01-22 12:00"
+    },
+    {
+      "id": "short-2",
+      "titulo": "¿Heredaste un Excel QUE NO ENTIENDES? #shorts",
+      "descripcion": "Pregúntale a ChatGPT qué hace cada fórmula. Video completo en el canal.",
+      "tags": [
+        "chatgpt excel"
+      ],
+      "programar": "2027-01-25 12:00"
+    }
+  ],
+  "enlaces": [
+    "📊 Guías de Excel en el blog: https://www.edwinortiz.net/excel/",
+    "🌐 Plantillas y cursos: https://www.edwinortiz.net"
+  ]
+}

@@ -1,0 +1,325 @@
+{
+  "num": "22",
+  "titulo": "Cierre y siguiente video",
+  "texto": "Te recuerdo que en mi página, edwinortiz punto net, y en la tienda, tienes plantillas de Excel listas para usar; el enlace está en la descripción. En el próximo video te muestro la varita mágica de Excel: cómo usar la inteligencia artificial para combinar datos como un profesional. Suscríbete para no perdértelo. El poder de la tecnología te va a cambiar el mundo.",
+  "texto_tts": "Te recuerdo que en mi página, edwinortiz punto net, y en la tienda, tienes plantillas de Excel listas para usar; el enlace está en la descripción. En el próximo video te muestro la varita mágica de Excel: cómo usar la inteligencia artificial para combinar datos como un profesional. Suscríbete para no perdértelo. [excited] El poder de la tecnología te va a cambiar el mundo.",
+  "modelo": "eleven_v3",
+  "duracion": 23.2,
+  "palabras": [
+    {
+      "texto": "Te",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "recuerdo",
+      "inicio": 0.12,
+      "fin": 0.4
+    },
+    {
+      "texto": "que",
+      "inicio": 0.44,
+      "fin": 0.56
+    },
+    {
+      "texto": "en",
+      "inicio": 0.587,
+      "fin": 0.64
+    },
+    {
+      "texto": "mi",
+      "inicio": 0.667,
+      "fin": 0.72
+    },
+    {
+      "texto": "página,",
+      "inicio": 0.777,
+      "fin": 1.2
+    },
+    {
+      "texto": "edwinortiz",
+      "inicio": 1.227,
+      "fin": 1.84
+    },
+    {
+      "texto": "punto",
+      "inicio": 1.893,
+      "fin": 2.16
+    },
+    {
+      "texto": "net,",
+      "inicio": 2.24,
+      "fin": 2.56
+    },
+    {
+      "texto": "y",
+      "inicio": 2.64,
+      "fin": 2.72
+    },
+    {
+      "texto": "en",
+      "inicio": 2.747,
+      "fin": 2.8
+    },
+    {
+      "texto": "la",
+      "inicio": 2.853,
+      "fin": 2.96
+    },
+    {
+      "texto": "tienda,",
+      "inicio": 3.04,
+      "fin": 4.0
+    },
+    {
+      "texto": "tienes",
+      "inicio": 4.046,
+      "fin": 4.32
+    },
+    {
+      "texto": "plantillas",
+      "inicio": 4.373,
+      "fin": 4.88
+    },
+    {
+      "texto": "de",
+      "inicio": 4.907,
+      "fin": 4.96
+    },
+    {
+      "texto": "Excel",
+      "inicio": 5.027,
+      "fin": 5.36
+    },
+    {
+      "texto": "listas",
+      "inicio": 5.44,
+      "fin": 5.84
+    },
+    {
+      "texto": "para",
+      "inicio": 5.888,
+      "fin": 6.08
+    },
+    {
+      "texto": "usar;",
+      "inicio": 6.16,
+      "fin": 6.96
+    },
+    {
+      "texto": "el",
+      "inicio": 7.013,
+      "fin": 7.12
+    },
+    {
+      "texto": "enlace",
+      "inicio": 7.173,
+      "fin": 7.52
+    },
+    {
+      "texto": "está",
+      "inicio": 7.552,
+      "fin": 7.68
+    },
+    {
+      "texto": "en",
+      "inicio": 7.707,
+      "fin": 7.76
+    },
+    {
+      "texto": "la",
+      "inicio": 7.827,
+      "fin": 7.96
+    },
+    {
+      "texto": "descripción.",
+      "inicio": 7.989,
+      "fin": 8.56
+    },
+    {
+      "texto": "En",
+      "inicio": 8.827,
+      "fin": 9.36
+    },
+    {
+      "texto": "el",
+      "inicio": 9.387,
+      "fin": 9.44
+    },
+    {
+      "texto": "próximo",
+      "inicio": 9.49,
+      "fin": 9.84
+    },
+    {
+      "texto": "video",
+      "inicio": 9.907,
+      "fin": 10.24
+    },
+    {
+      "texto": "te",
+      "inicio": 10.32,
+      "fin": 10.48
+    },
+    {
+      "texto": "muestro",
+      "inicio": 10.52,
+      "fin": 10.8
+    },
+    {
+      "texto": "la",
+      "inicio": 10.853,
+      "fin": 10.96
+    },
+    {
+      "texto": "varita",
+      "inicio": 11.0,
+      "fin": 11.28
+    },
+    {
+      "texto": "mágica",
+      "inicio": 11.36,
+      "fin": 11.76
+    },
+    {
+      "texto": "de",
+      "inicio": 11.787,
+      "fin": 11.84
+    },
+    {
+      "texto": "Excel:",
+      "inicio": 11.92,
+      "fin": 12.96
+    },
+    {
+      "texto": "cómo",
+      "inicio": 12.992,
+      "fin": 13.12
+    },
+    {
+      "texto": "usar",
+      "inicio": 13.184,
+      "fin": 13.44
+    },
+    {
+      "texto": "la",
+      "inicio": 13.467,
+      "fin": 13.52
+    },
+    {
+      "texto": "inteligencia",
+      "inicio": 13.57,
+      "fin": 14.08
+    },
+    {
+      "texto": "artificial",
+      "inicio": 14.138,
+      "fin": 14.72
+    },
+    {
+      "texto": "para",
+      "inicio": 14.768,
+      "fin": 14.96
+    },
+    {
+      "texto": "combinar",
+      "inicio": 15.008,
+      "fin": 15.36
+    },
+    {
+      "texto": "datos",
+      "inicio": 15.44,
+      "fin": 15.84
+    },
+    {
+      "texto": "como",
+      "inicio": 15.872,
+      "fin": 16.0
+    },
+    {
+      "texto": "un",
+      "inicio": 16.027,
+      "fin": 16.08
+    },
+    {
+      "texto": "profesional.",
+      "inicio": 16.14,
+      "fin": 16.88
+    },
+    {
+      "texto": "Suscríbete",
+      "inicio": 17.1,
+      "fin": 18.16
+    },
+    {
+      "texto": "para",
+      "inicio": 18.208,
+      "fin": 18.4
+    },
+    {
+      "texto": "no",
+      "inicio": 18.427,
+      "fin": 18.48
+    },
+    {
+      "texto": "perdértelo.",
+      "inicio": 18.544,
+      "fin": 19.28
+    },
+    {
+      "texto": "El",
+      "inicio": 20.147,
+      "fin": 20.16
+    },
+    {
+      "texto": "poder",
+      "inicio": 20.227,
+      "fin": 20.56
+    },
+    {
+      "texto": "de",
+      "inicio": 20.587,
+      "fin": 20.64
+    },
+    {
+      "texto": "la",
+      "inicio": 20.667,
+      "fin": 20.72
+    },
+    {
+      "texto": "tecnología",
+      "inicio": 20.784,
+      "fin": 21.52
+    },
+    {
+      "texto": "te",
+      "inicio": 21.707,
+      "fin": 22.08
+    },
+    {
+      "texto": "va",
+      "inicio": 22.133,
+      "fin": 22.24
+    },
+    {
+      "texto": "a",
+      "inicio": 22.34,
+      "fin": 22.44
+    },
+    {
+      "texto": "cambiar",
+      "inicio": 22.465,
+      "fin": 22.64
+    },
+    {
+      "texto": "el",
+      "inicio": 22.667,
+      "fin": 22.72
+    },
+    {
+      "texto": "mundo.",
+      "inicio": 22.773,
+      "fin": 23.2
+    }
+  ]
+}

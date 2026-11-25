@@ -1,0 +1,345 @@
+{
+  "num": "17",
+  "titulo": "Sin internet: la fuente de código de barras",
+  "texto": "La opción sin internet: una fuente de código de barras. Descarga gratis la fuente Libre Barcode treinta y nueve de Google Fonts e instálala. En una celda escribe igual, comillas, asterisco, comillas, ampersand A2, ampersand, y otra vez el asterisco. Los asteriscos marcan el inicio y el fin del código. Cambias la fuente de esa celda… y el texto se convierte en barras. Funciona en cualquier Excel.",
+  "texto_tts": "La opción sin internet: una fuente de código de barras. Descarga gratis la fuente Libre Barcode treinta y nueve de Google Fonts e instálala. En una celda escribe igual, comillas, asterisco, comillas, ampersand A2, ampersand, y otra vez el asterisco. Los asteriscos marcan el inicio y el fin del código. Cambias la fuente de esa celda… y el texto se convierte en barras. Funciona en cualquier Excel.",
+  "modelo": "eleven_v3",
+  "duracion": 27.76,
+  "palabras": [
+    {
+      "texto": "La",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "opción",
+      "inicio": 0.126,
+      "fin": 0.4
+    },
+    {
+      "texto": "sin",
+      "inicio": 0.46,
+      "fin": 0.64
+    },
+    {
+      "texto": "internet:",
+      "inicio": 0.702,
+      "fin": 1.68
+    },
+    {
+      "texto": "una",
+      "inicio": 1.74,
+      "fin": 1.92
+    },
+    {
+      "texto": "fuente",
+      "inicio": 1.973,
+      "fin": 2.4
+    },
+    {
+      "texto": "de",
+      "inicio": 2.427,
+      "fin": 2.48
+    },
+    {
+      "texto": "código",
+      "inicio": 2.537,
+      "fin": 2.88
+    },
+    {
+      "texto": "de",
+      "inicio": 2.907,
+      "fin": 2.96
+    },
+    {
+      "texto": "barras.",
+      "inicio": 3.008,
+      "fin": 3.6
+    },
+    {
+      "texto": "Descarga",
+      "inicio": 3.744,
+      "fin": 4.56
+    },
+    {
+      "texto": "gratis",
+      "inicio": 4.617,
+      "fin": 4.96
+    },
+    {
+      "texto": "la",
+      "inicio": 4.987,
+      "fin": 5.04
+    },
+    {
+      "texto": "fuente",
+      "inicio": 5.093,
+      "fin": 5.52
+    },
+    {
+      "texto": "Libre",
+      "inicio": 5.587,
+      "fin": 5.92
+    },
+    {
+      "texto": "Barcode",
+      "inicio": 5.98,
+      "fin": 6.4
+    },
+    {
+      "texto": "treinta",
+      "inicio": 6.44,
+      "fin": 6.72
+    },
+    {
+      "texto": "y",
+      "inicio": 6.8,
+      "fin": 6.88
+    },
+    {
+      "texto": "nueve",
+      "inicio": 6.92,
+      "fin": 7.12
+    },
+    {
+      "texto": "de",
+      "inicio": 7.2,
+      "fin": 7.36
+    },
+    {
+      "texto": "Google",
+      "inicio": 7.406,
+      "fin": 7.68
+    },
+    {
+      "texto": "Fonts",
+      "inicio": 7.76,
+      "fin": 8.16
+    },
+    {
+      "texto": "e",
+      "inicio": 8.24,
+      "fin": 8.32
+    },
+    {
+      "texto": "instálala.",
+      "inicio": 8.384,
+      "fin": 9.04
+    },
+    {
+      "texto": "En",
+      "inicio": 9.28,
+      "fin": 9.76
+    },
+    {
+      "texto": "una",
+      "inicio": 9.82,
+      "fin": 10.0
+    },
+    {
+      "texto": "celda",
+      "inicio": 10.04,
+      "fin": 10.32
+    },
+    {
+      "texto": "escribe",
+      "inicio": 10.373,
+      "fin": 10.72
+    },
+    {
+      "texto": "igual,",
+      "inicio": 10.813,
+      "fin": 11.36
+    },
+    {
+      "texto": "comillas,",
+      "inicio": 11.46,
+      "fin": 12.4
+    },
+    {
+      "texto": "asterisco,",
+      "inicio": 12.44,
+      "fin": 12.96
+    },
+    {
+      "texto": "comillas,",
+      "inicio": 13.0,
+      "fin": 13.68
+    },
+    {
+      "texto": "ampersand",
+      "inicio": 13.74,
+      "fin": 14.24
+    },
+    {
+      "texto": "A2,",
+      "inicio": 14.4,
+      "fin": 15.2
+    },
+    {
+      "texto": "ampersand,",
+      "inicio": 15.26,
+      "fin": 15.92
+    },
+    {
+      "texto": "y",
+      "inicio": 15.98,
+      "fin": 16.04
+    },
+    {
+      "texto": "otra",
+      "inicio": 16.064,
+      "fin": 16.16
+    },
+    {
+      "texto": "vez",
+      "inicio": 16.22,
+      "fin": 16.4
+    },
+    {
+      "texto": "el",
+      "inicio": 16.427,
+      "fin": 16.48
+    },
+    {
+      "texto": "asterisco.",
+      "inicio": 16.52,
+      "fin": 17.2
+    },
+    {
+      "texto": "Los",
+      "inicio": 17.36,
+      "fin": 17.84
+    },
+    {
+      "texto": "asteriscos",
+      "inicio": 17.88,
+      "fin": 18.4
+    },
+    {
+      "texto": "marcan",
+      "inicio": 18.44,
+      "fin": 18.8
+    },
+    {
+      "texto": "el",
+      "inicio": 18.827,
+      "fin": 18.88
+    },
+    {
+      "texto": "inicio",
+      "inicio": 18.949,
+      "fin": 19.36
+    },
+    {
+      "texto": "y",
+      "inicio": 19.44,
+      "fin": 19.52
+    },
+    {
+      "texto": "el",
+      "inicio": 19.547,
+      "fin": 19.6
+    },
+    {
+      "texto": "fin",
+      "inicio": 19.68,
+      "fin": 19.92
+    },
+    {
+      "texto": "del",
+      "inicio": 19.96,
+      "fin": 20.08
+    },
+    {
+      "texto": "código.",
+      "inicio": 20.137,
+      "fin": 20.56
+    },
+    {
+      "texto": "Cambias",
+      "inicio": 20.752,
+      "fin": 21.68
+    },
+    {
+      "texto": "la",
+      "inicio": 21.707,
+      "fin": 21.76
+    },
+    {
+      "texto": "fuente",
+      "inicio": 21.813,
+      "fin": 22.16
+    },
+    {
+      "texto": "de",
+      "inicio": 22.187,
+      "fin": 22.24
+    },
+    {
+      "texto": "esa",
+      "inicio": 22.3,
+      "fin": 22.48
+    },
+    {
+      "texto": "celda…",
+      "inicio": 22.56,
+      "fin": 23.44
+    },
+    {
+      "texto": "y",
+      "inicio": 23.48,
+      "fin": 23.52
+    },
+    {
+      "texto": "el",
+      "inicio": 23.547,
+      "fin": 23.6
+    },
+    {
+      "texto": "texto",
+      "inicio": 23.68,
+      "fin": 24.08
+    },
+    {
+      "texto": "se",
+      "inicio": 24.133,
+      "fin": 24.24
+    },
+    {
+      "texto": "convierte",
+      "inicio": 24.288,
+      "fin": 24.8
+    },
+    {
+      "texto": "en",
+      "inicio": 24.88,
+      "fin": 25.04
+    },
+    {
+      "texto": "barras.",
+      "inicio": 25.104,
+      "fin": 25.68
+    },
+    {
+      "texto": "Funciona",
+      "inicio": 25.808,
+      "fin": 26.64
+    },
+    {
+      "texto": "en",
+      "inicio": 26.72,
+      "fin": 26.88
+    },
+    {
+      "texto": "cualquier",
+      "inicio": 26.92,
+      "fin": 27.28
+    },
+    {
+      "texto": "Excel.",
+      "inicio": 27.347,
+      "fin": 27.76
+    }
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "num": "16",
+  "titulo": "Movimiento 10: cargar y actualizar",
+  "texto": "Movimiento diez: Cerrar y cargar. Y ahora la prueba de fuego. Vuelvo a la tabla original y cambio la venta de Marta Díaz en marzo: de mil novecientos a dos mil cuatrocientos. Datos, Actualizar todo… y el Centro sube a cuatro mil ochocientos, con un ciento veinte por ciento de cumplimiento. Todos los pasos se repitieron solos.",
+  "texto_tts": "[excited] Movimiento diez: Cerrar y cargar. Y ahora la prueba de fuego. Vuelvo a la tabla original y cambio la venta de Marta Díaz en marzo: de mil novecientos a dos mil cuatrocientos. Datos, Actualizar todo… y el Centro sube a cuatro mil ochocientos, con un ciento veinte por ciento de cumplimiento. Todos los pasos se repitieron solos.",
+  "modelo": "eleven_v3",
+  "duracion": 30.4,
+  "palabras": [
+    {
+      "texto": "Movimiento",
+      "inicio": 0.204,
+      "fin": 0.72
+    },
+    {
+      "texto": "diez:",
+      "inicio": 0.78,
+      "fin": 1.28
+    },
+    {
+      "texto": "Cerrar",
+      "inicio": 1.52,
+      "fin": 2.08
+    },
+    {
+      "texto": "y",
+      "inicio": 2.12,
+      "fin": 2.16
+    },
+    {
+      "texto": "cargar.",
+      "inicio": 2.24,
+      "fin": 2.8
+    },
+    {
+      "texto": "Y",
+      "inicio": 3.2,
+      "fin": 3.6
+    },
+    {
+      "texto": "ahora",
+      "inicio": 3.667,
+      "fin": 4.0
+    },
+    {
+      "texto": "la",
+      "inicio": 4.187,
+      "fin": 4.56
+    },
+    {
+      "texto": "prueba",
+      "inicio": 4.606,
+      "fin": 4.88
+    },
+    {
+      "texto": "de",
+      "inicio": 4.907,
+      "fin": 4.96
+    },
+    {
+      "texto": "fuego.",
+      "inicio": 5.02,
+      "fin": 5.76
+    },
+    {
+      "texto": "Vuelvo",
+      "inicio": 5.88,
+      "fin": 6.2
+    },
+    {
+      "texto": "a",
+      "inicio": 6.22,
+      "fin": 6.24
+    },
+    {
+      "texto": "la",
+      "inicio": 6.267,
+      "fin": 6.32
+    },
+    {
+      "texto": "tabla",
+      "inicio": 6.373,
+      "fin": 6.64
+    },
+    {
+      "texto": "original",
+      "inicio": 6.711,
+      "fin": 7.28
+    },
+    {
+      "texto": "y",
+      "inicio": 7.8,
+      "fin": 8.32
+    },
+    {
+      "texto": "cambio",
+      "inicio": 8.469,
+      "fin": 9.36
+    },
+    {
+      "texto": "la",
+      "inicio": 9.467,
+      "fin": 9.68
+    },
+    {
+      "texto": "venta",
+      "inicio": 9.747,
+      "fin": 10.08
+    },
+    {
+      "texto": "de",
+      "inicio": 10.107,
+      "fin": 10.16
+    },
+    {
+      "texto": "Marta",
+      "inicio": 10.224,
+      "fin": 10.56
+    },
+    {
+      "texto": "Díaz",
+      "inicio": 10.64,
+      "fin": 10.88
+    },
+    {
+      "texto": "en",
+      "inicio": 10.96,
+      "fin": 11.12
+    },
+    {
+      "texto": "marzo:",
+      "inicio": 11.187,
+      "fin": 11.76
+    },
+    {
+      "texto": "de",
+      "inicio": 11.787,
+      "fin": 11.84
+    },
+    {
+      "texto": "mil",
+      "inicio": 11.88,
+      "fin": 12.0
+    },
+    {
+      "texto": "novecientos",
+      "inicio": 12.08,
+      "fin": 13.36
+    },
+    {
+      "texto": "a",
+      "inicio": 13.52,
+      "fin": 13.68
+    },
+    {
+      "texto": "dos",
+      "inicio": 13.72,
+      "fin": 13.84
+    },
+    {
+      "texto": "mil",
+      "inicio": 13.9,
+      "fin": 14.08
+    },
+    {
+      "texto": "cuatrocientos.",
+      "inicio": 14.149,
+      "fin": 15.84
+    },
+    {
+      "texto": "Datos,",
+      "inicio": 15.96,
+      "fin": 16.88
+    },
+    {
+      "texto": "Actualizar",
+      "inicio": 16.983,
+      "fin": 17.92
+    },
+    {
+      "texto": "todo…",
+      "inicio": 18.016,
+      "fin": 18.48
+    },
+    {
+      "texto": "y",
+      "inicio": 19.04,
+      "fin": 19.6
+    },
+    {
+      "texto": "el",
+      "inicio": 19.653,
+      "fin": 19.76
+    },
+    {
+      "texto": "Centro",
+      "inicio": 19.851,
+      "fin": 20.4
+    },
+    {
+      "texto": "sube",
+      "inicio": 20.58,
+      "fin": 21.2
+    },
+    {
+      "texto": "a",
+      "inicio": 21.4,
+      "fin": 21.6
+    },
+    {
+      "texto": "cuatro",
+      "inicio": 21.657,
+      "fin": 22.0
+    },
+    {
+      "texto": "mil",
+      "inicio": 22.06,
+      "fin": 22.24
+    },
+    {
+      "texto": "ochocientos,",
+      "inicio": 22.3,
+      "fin": 23.84
+    },
+    {
+      "texto": "con",
+      "inicio": 23.88,
+      "fin": 24.0
+    },
+    {
+      "texto": "un",
+      "inicio": 24.027,
+      "fin": 24.08
+    },
+    {
+      "texto": "ciento",
+      "inicio": 24.2,
+      "fin": 24.64
+    },
+    {
+      "texto": "veinte",
+      "inicio": 24.693,
+      "fin": 25.04
+    },
+    {
+      "texto": "por",
+      "inicio": 25.12,
+      "fin": 25.36
+    },
+    {
+      "texto": "ciento",
+      "inicio": 25.4,
+      "fin": 25.76
+    },
+    {
+      "texto": "de",
+      "inicio": 25.813,
+      "fin": 25.92
+    },
+    {
+      "texto": "cumplimiento.",
+      "inicio": 25.987,
+      "fin": 26.96
+    },
+    {
+      "texto": "Todos",
+      "inicio": 27.16,
+      "fin": 28.16
+    },
+    {
+      "texto": "los",
+      "inicio": 28.2,
+      "fin": 28.32
+    },
+    {
+      "texto": "pasos",
+      "inicio": 28.4,
+      "fin": 28.8
+    },
+    {
+      "texto": "se",
+      "inicio": 28.853,
+      "fin": 28.96
+    },
+    {
+      "texto": "repitieron",
+      "inicio": 29.02,
+      "fin": 29.52
+    },
+    {
+      "texto": "solos.",
+      "inicio": 29.6,
+      "fin": 30.4
+    }
+  ]
+}

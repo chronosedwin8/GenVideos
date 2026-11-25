@@ -1,0 +1,240 @@
+{
+  "num": "20",
+  "titulo": "Si no te funcionó",
+  "texto": "Si no te funcionó: si Rellenar hacia abajo no hace nada, esas celdas no están vacías, tienen espacios. Si al combinar consultas no aparece la meta, las regiones no coinciden exactamente: revisa mayúsculas y espacios. Y si la suma sale rara, el monto quedó como texto.",
+  "texto_tts": "Si no te funcionó: si Rellenar hacia abajo no hace nada, esas celdas no están vacías, tienen espacios. Si al combinar consultas no aparece la meta, las regiones no coinciden exactamente: revisa mayúsculas y espacios. Y si la suma sale rara, el monto quedó como texto.",
+  "modelo": "eleven_v3",
+  "duracion": 19.6,
+  "palabras": [
+    {
+      "texto": "Si",
+      "inicio": 0.0,
+      "fin": 0.16
+    },
+    {
+      "texto": "no",
+      "inicio": 0.213,
+      "fin": 0.32
+    },
+    {
+      "texto": "te",
+      "inicio": 0.373,
+      "fin": 0.48
+    },
+    {
+      "texto": "funcionó:",
+      "inicio": 0.53,
+      "fin": 1.12
+    },
+    {
+      "texto": "si",
+      "inicio": 1.147,
+      "fin": 1.2
+    },
+    {
+      "texto": "Rellenar",
+      "inicio": 1.28,
+      "fin": 1.68
+    },
+    {
+      "texto": "hacia",
+      "inicio": 1.72,
+      "fin": 1.92
+    },
+    {
+      "texto": "abajo",
+      "inicio": 1.973,
+      "fin": 2.32
+    },
+    {
+      "texto": "no",
+      "inicio": 2.373,
+      "fin": 2.48
+    },
+    {
+      "texto": "hace",
+      "inicio": 2.528,
+      "fin": 2.72
+    },
+    {
+      "texto": "nada,",
+      "inicio": 2.8,
+      "fin": 3.28
+    },
+    {
+      "texto": "esas",
+      "inicio": 3.344,
+      "fin": 3.6
+    },
+    {
+      "texto": "celdas",
+      "inicio": 3.66,
+      "fin": 3.92
+    },
+    {
+      "texto": "no",
+      "inicio": 3.947,
+      "fin": 4.0
+    },
+    {
+      "texto": "están",
+      "inicio": 4.04,
+      "fin": 4.24
+    },
+    {
+      "texto": "vacías,",
+      "inicio": 4.3,
+      "fin": 4.96
+    },
+    {
+      "texto": "tienen",
+      "inicio": 5.006,
+      "fin": 5.28
+    },
+    {
+      "texto": "espacios.",
+      "inicio": 5.34,
+      "fin": 6.08
+    },
+    {
+      "texto": "Si",
+      "inicio": 6.453,
+      "fin": 7.2
+    },
+    {
+      "texto": "al",
+      "inicio": 7.253,
+      "fin": 7.36
+    },
+    {
+      "texto": "combinar",
+      "inicio": 7.408,
+      "fin": 7.84
+    },
+    {
+      "texto": "consultas",
+      "inicio": 7.91,
+      "fin": 8.64
+    },
+    {
+      "texto": "no",
+      "inicio": 8.72,
+      "fin": 8.88
+    },
+    {
+      "texto": "aparece",
+      "inicio": 8.933,
+      "fin": 9.28
+    },
+    {
+      "texto": "la",
+      "inicio": 9.333,
+      "fin": 9.44
+    },
+    {
+      "texto": "meta,",
+      "inicio": 9.52,
+      "fin": 10.48
+    },
+    {
+      "texto": "las",
+      "inicio": 10.52,
+      "fin": 10.64
+    },
+    {
+      "texto": "regiones",
+      "inicio": 10.697,
+      "fin": 11.2
+    },
+    {
+      "texto": "no",
+      "inicio": 11.253,
+      "fin": 11.36
+    },
+    {
+      "texto": "coinciden",
+      "inicio": 11.413,
+      "fin": 11.92
+    },
+    {
+      "texto": "exactamente:",
+      "inicio": 11.987,
+      "fin": 12.96
+    },
+    {
+      "texto": "revisa",
+      "inicio": 13.093,
+      "fin": 13.92
+    },
+    {
+      "texto": "mayúsculas",
+      "inicio": 13.96,
+      "fin": 14.48
+    },
+    {
+      "texto": "y",
+      "inicio": 14.52,
+      "fin": 14.56
+    },
+    {
+      "texto": "espacios.",
+      "inicio": 14.62,
+      "fin": 15.28
+    },
+    {
+      "texto": "Y",
+      "inicio": 15.72,
+      "fin": 16.16
+    },
+    {
+      "texto": "si",
+      "inicio": 16.213,
+      "fin": 16.32
+    },
+    {
+      "texto": "la",
+      "inicio": 16.347,
+      "fin": 16.4
+    },
+    {
+      "texto": "suma",
+      "inicio": 16.464,
+      "fin": 16.72
+    },
+    {
+      "texto": "sale",
+      "inicio": 16.784,
+      "fin": 17.04
+    },
+    {
+      "texto": "rara,",
+      "inicio": 17.12,
+      "fin": 17.92
+    },
+    {
+      "texto": "el",
+      "inicio": 17.947,
+      "fin": 18.0
+    },
+    {
+      "texto": "monto",
+      "inicio": 18.08,
+      "fin": 18.48
+    },
+    {
+      "texto": "quedó",
+      "inicio": 18.528,
+      "fin": 18.8
+    },
+    {
+      "texto": "como",
+      "inicio": 18.848,
+      "fin": 19.04
+    },
+    {
+      "texto": "texto.",
+      "inicio": 19.12,
+      "fin": 19.6
+    }
+  ]
+}

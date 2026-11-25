@@ -1,0 +1,325 @@
+{
+  "num": "14",
+  "titulo": "Rapidez y presentación",
+  "texto": "Y una categoría extra: rapidez y presentación. Aquí gana ChatGPT. Respondió casi al instante, con tablas muy visuales y fáciles de leer. Claude se tomó su tiempo para razonar y ejecutar el código. Si necesitas una idea rápida, eso pesa. Y en el día a día, cuando estás en una reunión y necesitas una fórmula ya, esos segundos se notan. Punto para ChatGPT.",
+  "texto_tts": "Y una categoría extra: rapidez y presentación. Aquí gana ChatGPT. Respondió casi al instante, con tablas muy visuales y fáciles de leer. Claude se tomó su tiempo para razonar y ejecutar el código. Si necesitas una idea rápida, eso pesa. Y en el día a día, cuando estás en una reunión y necesitas una fórmula ya, esos segundos se notan. Punto para ChatGPT.",
+  "modelo": "eleven_v3",
+  "duracion": 30.88,
+  "palabras": [
+    {
+      "texto": "Y",
+      "inicio": 0.0,
+      "fin": 0.16
+    },
+    {
+      "texto": "una",
+      "inicio": 0.24,
+      "fin": 0.48
+    },
+    {
+      "texto": "categoría",
+      "inicio": 0.55,
+      "fin": 1.2
+    },
+    {
+      "texto": "extra:",
+      "inicio": 1.28,
+      "fin": 1.76
+    },
+    {
+      "texto": "rapidez",
+      "inicio": 1.874,
+      "fin": 2.8
+    },
+    {
+      "texto": "y",
+      "inicio": 2.92,
+      "fin": 3.04
+    },
+    {
+      "texto": "presentación.",
+      "inicio": 3.11,
+      "fin": 4.16
+    },
+    {
+      "texto": "Aquí",
+      "inicio": 4.42,
+      "fin": 5.28
+    },
+    {
+      "texto": "gana",
+      "inicio": 5.32,
+      "fin": 5.68
+    },
+    {
+      "texto": "ChatGPT.",
+      "inicio": 5.808,
+      "fin": 6.96
+    },
+    {
+      "texto": "Respondió",
+      "inicio": 7.07,
+      "fin": 8.0
+    },
+    {
+      "texto": "casi",
+      "inicio": 8.08,
+      "fin": 8.4
+    },
+    {
+      "texto": "al",
+      "inicio": 8.453,
+      "fin": 8.56
+    },
+    {
+      "texto": "instante,",
+      "inicio": 8.624,
+      "fin": 9.84
+    },
+    {
+      "texto": "con",
+      "inicio": 9.88,
+      "fin": 10.0
+    },
+    {
+      "texto": "tablas",
+      "inicio": 10.08,
+      "fin": 10.48
+    },
+    {
+      "texto": "muy",
+      "inicio": 10.56,
+      "fin": 10.8
+    },
+    {
+      "texto": "visuales",
+      "inicio": 10.86,
+      "fin": 11.52
+    },
+    {
+      "texto": "y",
+      "inicio": 11.64,
+      "fin": 11.76
+    },
+    {
+      "texto": "fáciles",
+      "inicio": 11.84,
+      "fin": 12.32
+    },
+    {
+      "texto": "de",
+      "inicio": 12.347,
+      "fin": 12.4
+    },
+    {
+      "texto": "leer.",
+      "inicio": 12.48,
+      "fin": 12.96
+    },
+    {
+      "texto": "Claude",
+      "inicio": 13.109,
+      "fin": 14.0
+    },
+    {
+      "texto": "se",
+      "inicio": 14.107,
+      "fin": 14.32
+    },
+    {
+      "texto": "tomó",
+      "inicio": 14.38,
+      "fin": 14.64
+    },
+    {
+      "texto": "su",
+      "inicio": 14.667,
+      "fin": 14.72
+    },
+    {
+      "texto": "tiempo",
+      "inicio": 14.811,
+      "fin": 15.36
+    },
+    {
+      "texto": "para",
+      "inicio": 15.44,
+      "fin": 15.76
+    },
+    {
+      "texto": "razonar",
+      "inicio": 15.8,
+      "fin": 16.4
+    },
+    {
+      "texto": "y",
+      "inicio": 16.52,
+      "fin": 16.64
+    },
+    {
+      "texto": "ejecutar",
+      "inicio": 16.704,
+      "fin": 17.2
+    },
+    {
+      "texto": "el",
+      "inicio": 17.227,
+      "fin": 17.28
+    },
+    {
+      "texto": "código.",
+      "inicio": 17.36,
+      "fin": 17.92
+    },
+    {
+      "texto": "Si",
+      "inicio": 18.16,
+      "fin": 18.64
+    },
+    {
+      "texto": "necesitas",
+      "inicio": 18.707,
+      "fin": 19.36
+    },
+    {
+      "texto": "una",
+      "inicio": 19.38,
+      "fin": 19.44
+    },
+    {
+      "texto": "idea",
+      "inicio": 19.504,
+      "fin": 19.76
+    },
+    {
+      "texto": "rápida,",
+      "inicio": 19.84,
+      "fin": 20.8
+    },
+    {
+      "texto": "eso",
+      "inicio": 20.88,
+      "fin": 21.12
+    },
+    {
+      "texto": "pesa.",
+      "inicio": 21.2,
+      "fin": 21.6
+    },
+    {
+      "texto": "Y",
+      "inicio": 22.08,
+      "fin": 22.56
+    },
+    {
+      "texto": "en",
+      "inicio": 22.587,
+      "fin": 22.64
+    },
+    {
+      "texto": "el",
+      "inicio": 22.693,
+      "fin": 22.8
+    },
+    {
+      "texto": "día",
+      "inicio": 22.84,
+      "fin": 22.96
+    },
+    {
+      "texto": "a",
+      "inicio": 23.04,
+      "fin": 23.12
+    },
+    {
+      "texto": "día,",
+      "inicio": 23.18,
+      "fin": 23.6
+    },
+    {
+      "texto": "cuando",
+      "inicio": 23.634,
+      "fin": 23.84
+    },
+    {
+      "texto": "estás",
+      "inicio": 23.88,
+      "fin": 24.08
+    },
+    {
+      "texto": "en",
+      "inicio": 24.133,
+      "fin": 24.24
+    },
+    {
+      "texto": "una",
+      "inicio": 24.28,
+      "fin": 24.4
+    },
+    {
+      "texto": "reunión",
+      "inicio": 24.464,
+      "fin": 25.04
+    },
+    {
+      "texto": "y",
+      "inicio": 25.16,
+      "fin": 25.28
+    },
+    {
+      "texto": "necesitas",
+      "inicio": 25.347,
+      "fin": 25.92
+    },
+    {
+      "texto": "una",
+      "inicio": 25.96,
+      "fin": 26.08
+    },
+    {
+      "texto": "fórmula",
+      "inicio": 26.16,
+      "fin": 26.56
+    },
+    {
+      "texto": "ya,",
+      "inicio": 26.667,
+      "fin": 27.04
+    },
+    {
+      "texto": "esos",
+      "inicio": 27.2,
+      "fin": 27.84
+    },
+    {
+      "texto": "segundos",
+      "inicio": 27.884,
+      "fin": 28.24
+    },
+    {
+      "texto": "se",
+      "inicio": 28.293,
+      "fin": 28.4
+    },
+    {
+      "texto": "notan.",
+      "inicio": 28.46,
+      "fin": 28.88
+    },
+    {
+      "texto": "Punto",
+      "inicio": 29.08,
+      "fin": 29.6
+    },
+    {
+      "texto": "para",
+      "inicio": 29.68,
+      "fin": 30.0
+    },
+    {
+      "texto": "ChatGPT.",
+      "inicio": 30.064,
+      "fin": 30.88
+    }
+  ]
+}

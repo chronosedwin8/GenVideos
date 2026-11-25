@@ -1,0 +1,260 @@
+{
+  "num": "18",
+  "titulo": "Las reglas del profesional",
+  "texto": "Ahora, las reglas del profesional. Uno: comprueba el total. Enero sumaba cinco mil ciento noventa, febrero cinco mil quinientos ochenta: diez mil setecientos setenta, igual que el resumen. Dos: revisa cada \"No encontrado\". Tres: pide que te explique la fórmula. Y cuatro: no pegues datos confidenciales en un chat público.",
+  "texto_tts": "Ahora, las reglas del profesional. Uno: comprueba el total. Enero sumaba cinco mil ciento noventa, febrero cinco mil quinientos ochenta: diez mil setecientos setenta, igual que el resumen. Dos: revisa cada \"No encontrado\". Tres: pide que te explique la fórmula. Y cuatro: no pegues datos confidenciales en un chat público.",
+  "modelo": "eleven_v3",
+  "duracion": 26.8,
+  "palabras": [
+    {
+      "texto": "Ahora,",
+      "inicio": 0.0,
+      "fin": 0.48
+    },
+    {
+      "texto": "las",
+      "inicio": 0.52,
+      "fin": 0.64
+    },
+    {
+      "texto": "reglas",
+      "inicio": 0.7,
+      "fin": 0.96
+    },
+    {
+      "texto": "del",
+      "inicio": 1.0,
+      "fin": 1.12
+    },
+    {
+      "texto": "profesional.",
+      "inicio": 1.173,
+      "fin": 1.92
+    },
+    {
+      "texto": "Uno:",
+      "inicio": 1.98,
+      "fin": 3.04
+    },
+    {
+      "texto": "comprueba",
+      "inicio": 3.093,
+      "fin": 3.52
+    },
+    {
+      "texto": "el",
+      "inicio": 3.547,
+      "fin": 3.6
+    },
+    {
+      "texto": "total.",
+      "inicio": 3.68,
+      "fin": 4.16
+    },
+    {
+      "texto": "Enero",
+      "inicio": 4.52,
+      "fin": 5.12
+    },
+    {
+      "texto": "sumaba",
+      "inicio": 5.16,
+      "fin": 5.52
+    },
+    {
+      "texto": "cinco",
+      "inicio": 5.56,
+      "fin": 5.76
+    },
+    {
+      "texto": "mil",
+      "inicio": 5.82,
+      "fin": 6.0
+    },
+    {
+      "texto": "ciento",
+      "inicio": 6.08,
+      "fin": 6.32
+    },
+    {
+      "texto": "noventa,",
+      "inicio": 6.4,
+      "fin": 7.04
+    },
+    {
+      "texto": "febrero",
+      "inicio": 7.093,
+      "fin": 7.68
+    },
+    {
+      "texto": "cinco",
+      "inicio": 7.72,
+      "fin": 7.92
+    },
+    {
+      "texto": "mil",
+      "inicio": 7.96,
+      "fin": 8.08
+    },
+    {
+      "texto": "quinientos",
+      "inicio": 8.133,
+      "fin": 8.56
+    },
+    {
+      "texto": "ochenta:",
+      "inicio": 8.64,
+      "fin": 9.76
+    },
+    {
+      "texto": "diez",
+      "inicio": 9.78,
+      "fin": 9.92
+    },
+    {
+      "texto": "mil",
+      "inicio": 9.96,
+      "fin": 10.08
+    },
+    {
+      "texto": "setecientos",
+      "inicio": 10.14,
+      "fin": 10.88
+    },
+    {
+      "texto": "setenta,",
+      "inicio": 10.92,
+      "fin": 11.6
+    },
+    {
+      "texto": "igual",
+      "inicio": 11.667,
+      "fin": 12.0
+    },
+    {
+      "texto": "que",
+      "inicio": 12.02,
+      "fin": 12.08
+    },
+    {
+      "texto": "el",
+      "inicio": 12.107,
+      "fin": 12.16
+    },
+    {
+      "texto": "resumen.",
+      "inicio": 12.22,
+      "fin": 13.52
+    },
+    {
+      "texto": "Dos:",
+      "inicio": 13.62,
+      "fin": 14.08
+    },
+    {
+      "texto": "revisa",
+      "inicio": 14.253,
+      "fin": 15.28
+    },
+    {
+      "texto": "cada",
+      "inicio": 15.376,
+      "fin": 15.76
+    },
+    {
+      "texto": "\"No",
+      "inicio": 15.92,
+      "fin": 16.24
+    },
+    {
+      "texto": "encontrado\".",
+      "inicio": 16.32,
+      "fin": 17.28
+    },
+    {
+      "texto": "Tres:",
+      "inicio": 17.76,
+      "fin": 18.72
+    },
+    {
+      "texto": "pide",
+      "inicio": 19.12,
+      "fin": 19.68
+    },
+    {
+      "texto": "que",
+      "inicio": 19.72,
+      "fin": 19.84
+    },
+    {
+      "texto": "te",
+      "inicio": 19.867,
+      "fin": 19.92
+    },
+    {
+      "texto": "explique",
+      "inicio": 19.984,
+      "fin": 20.48
+    },
+    {
+      "texto": "la",
+      "inicio": 20.56,
+      "fin": 20.72
+    },
+    {
+      "texto": "fórmula.",
+      "inicio": 20.8,
+      "fin": 21.44
+    },
+    {
+      "texto": "Y",
+      "inicio": 21.76,
+      "fin": 22.08
+    },
+    {
+      "texto": "cuatro:",
+      "inicio": 22.16,
+      "fin": 22.72
+    },
+    {
+      "texto": "no",
+      "inicio": 23.013,
+      "fin": 23.6
+    },
+    {
+      "texto": "pegues",
+      "inicio": 23.68,
+      "fin": 24.08
+    },
+    {
+      "texto": "datos",
+      "inicio": 24.133,
+      "fin": 24.4
+    },
+    {
+      "texto": "confidenciales",
+      "inicio": 24.448,
+      "fin": 25.36
+    },
+    {
+      "texto": "en",
+      "inicio": 25.413,
+      "fin": 25.52
+    },
+    {
+      "texto": "un",
+      "inicio": 25.573,
+      "fin": 25.68
+    },
+    {
+      "texto": "chat",
+      "inicio": 25.76,
+      "fin": 26.08
+    },
+    {
+      "texto": "público.",
+      "inicio": 26.17,
+      "fin": 26.8
+    }
+  ]
+}

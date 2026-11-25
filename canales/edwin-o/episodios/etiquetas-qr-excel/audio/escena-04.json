@@ -1,0 +1,285 @@
+{
+  "num": "04",
+  "titulo": "El aporte de Edwin",
+  "texto": "Yo he desarrollado sistemas de inventario para empresas y para colegios, y te digo algo que aprendí: el mejor programa no sirve si las etiquetas están mal. Si la etiqueta se borra o nadie la puede leer, el inventario se cae. Por eso me gusta tanto esta técnica: etiquetas claras, legibles y hechas en minutos.",
+  "texto_tts": "Yo he desarrollado sistemas de inventario para empresas y para colegios, y te digo algo que aprendí: el mejor programa no sirve si las etiquetas están mal. Si la etiqueta se borra o nadie la puede leer, el inventario se cae. Por eso me gusta tanto esta técnica: etiquetas claras, legibles y hechas en minutos.",
+  "modelo": "eleven_v3",
+  "duracion": 24.24,
+  "palabras": [
+    {
+      "texto": "Yo",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "he",
+      "inicio": 0.107,
+      "fin": 0.16
+    },
+    {
+      "texto": "desarrollado",
+      "inicio": 0.2,
+      "fin": 0.8
+    },
+    {
+      "texto": "sistemas",
+      "inicio": 0.871,
+      "fin": 1.44
+    },
+    {
+      "texto": "de",
+      "inicio": 1.467,
+      "fin": 1.52
+    },
+    {
+      "texto": "inventario",
+      "inicio": 1.577,
+      "fin": 2.32
+    },
+    {
+      "texto": "para",
+      "inicio": 2.416,
+      "fin": 2.8
+    },
+    {
+      "texto": "empresas",
+      "inicio": 2.924,
+      "fin": 3.92
+    },
+    {
+      "texto": "y",
+      "inicio": 4.32,
+      "fin": 4.72
+    },
+    {
+      "texto": "para",
+      "inicio": 4.768,
+      "fin": 4.96
+    },
+    {
+      "texto": "colegios,",
+      "inicio": 5.027,
+      "fin": 5.76
+    },
+    {
+      "texto": "y",
+      "inicio": 5.8,
+      "fin": 5.84
+    },
+    {
+      "texto": "te",
+      "inicio": 5.893,
+      "fin": 6.0
+    },
+    {
+      "texto": "digo",
+      "inicio": 6.06,
+      "fin": 6.32
+    },
+    {
+      "texto": "algo",
+      "inicio": 6.416,
+      "fin": 6.8
+    },
+    {
+      "texto": "que",
+      "inicio": 6.82,
+      "fin": 6.88
+    },
+    {
+      "texto": "aprendí:",
+      "inicio": 6.937,
+      "fin": 8.64
+    },
+    {
+      "texto": "el",
+      "inicio": 8.693,
+      "fin": 8.8
+    },
+    {
+      "texto": "mejor",
+      "inicio": 8.867,
+      "fin": 9.2
+    },
+    {
+      "texto": "programa",
+      "inicio": 9.262,
+      "fin": 9.76
+    },
+    {
+      "texto": "no",
+      "inicio": 9.813,
+      "fin": 9.92
+    },
+    {
+      "texto": "sirve",
+      "inicio": 9.98,
+      "fin": 10.32
+    },
+    {
+      "texto": "si",
+      "inicio": 10.373,
+      "fin": 10.48
+    },
+    {
+      "texto": "las",
+      "inicio": 10.52,
+      "fin": 10.64
+    },
+    {
+      "texto": "etiquetas",
+      "inicio": 10.693,
+      "fin": 11.2
+    },
+    {
+      "texto": "están",
+      "inicio": 11.253,
+      "fin": 11.52
+    },
+    {
+      "texto": "mal.",
+      "inicio": 11.6,
+      "fin": 12.44
+    },
+    {
+      "texto": "Si",
+      "inicio": 12.64,
+      "fin": 13.04
+    },
+    {
+      "texto": "la",
+      "inicio": 13.067,
+      "fin": 13.12
+    },
+    {
+      "texto": "etiqueta",
+      "inicio": 13.173,
+      "fin": 13.6
+    },
+    {
+      "texto": "se",
+      "inicio": 13.68,
+      "fin": 13.84
+    },
+    {
+      "texto": "borra",
+      "inicio": 13.92,
+      "fin": 14.32
+    },
+    {
+      "texto": "o",
+      "inicio": 14.44,
+      "fin": 14.56
+    },
+    {
+      "texto": "nadie",
+      "inicio": 14.6,
+      "fin": 14.8
+    },
+    {
+      "texto": "la",
+      "inicio": 14.853,
+      "fin": 14.96
+    },
+    {
+      "texto": "puede",
+      "inicio": 15.0,
+      "fin": 15.2
+    },
+    {
+      "texto": "leer,",
+      "inicio": 15.264,
+      "fin": 15.76
+    },
+    {
+      "texto": "el",
+      "inicio": 15.787,
+      "fin": 15.84
+    },
+    {
+      "texto": "inventario",
+      "inicio": 15.897,
+      "fin": 16.4
+    },
+    {
+      "texto": "se",
+      "inicio": 16.453,
+      "fin": 16.56
+    },
+    {
+      "texto": "cae.",
+      "inicio": 16.64,
+      "fin": 17.04
+    },
+    {
+      "texto": "Por",
+      "inicio": 17.26,
+      "fin": 17.92
+    },
+    {
+      "texto": "eso",
+      "inicio": 17.98,
+      "fin": 18.16
+    },
+    {
+      "texto": "me",
+      "inicio": 18.187,
+      "fin": 18.24
+    },
+    {
+      "texto": "gusta",
+      "inicio": 18.293,
+      "fin": 18.56
+    },
+    {
+      "texto": "tanto",
+      "inicio": 18.613,
+      "fin": 18.88
+    },
+    {
+      "texto": "esta",
+      "inicio": 18.912,
+      "fin": 19.04
+    },
+    {
+      "texto": "técnica:",
+      "inicio": 19.104,
+      "fin": 19.76
+    },
+    {
+      "texto": "etiquetas",
+      "inicio": 19.813,
+      "fin": 20.32
+    },
+    {
+      "texto": "claras,",
+      "inicio": 20.416,
+      "fin": 21.2
+    },
+    {
+      "texto": "legibles",
+      "inicio": 21.28,
+      "fin": 22.24
+    },
+    {
+      "texto": "y",
+      "inicio": 22.44,
+      "fin": 22.64
+    },
+    {
+      "texto": "hechas",
+      "inicio": 22.72,
+      "fin": 23.12
+    },
+    {
+      "texto": "en",
+      "inicio": 23.227,
+      "fin": 23.44
+    },
+    {
+      "texto": "minutos.",
+      "inicio": 23.52,
+      "fin": 24.24
+    }
+  ]
+}

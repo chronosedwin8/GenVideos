@@ -1,0 +1,290 @@
+{
+  "num": "07",
+  "titulo": "Paso 1: los cinco penales",
+  "texto": "Paso uno: los cinco penales. En una celda escribe igual, DISTR punto BINOM punto N. Cinco éxitos, punto y coma, cinco intentos, punto y coma, cero coma sesenta y cinco, punto y coma, FALSO. Enter, y dale formato de porcentaje: once coma seis por ciento. Meter los cinco es mucho más difícil de lo que parece.",
+  "texto_tts": "Paso uno: los cinco penales. En una celda escribe igual, DISTR punto BINOM punto N. Cinco éxitos, punto y coma, cinco intentos, punto y coma, cero coma sesenta y cinco, punto y coma, FALSO. Enter, y dale formato de porcentaje: once coma seis por ciento. Meter los cinco es mucho más difícil de lo que parece.",
+  "modelo": "eleven_v3",
+  "duracion": 35.12,
+  "palabras": [
+    {
+      "texto": "Paso",
+      "inicio": 0.0,
+      "fin": 0.32
+    },
+    {
+      "texto": "uno:",
+      "inicio": 0.42,
+      "fin": 0.8
+    },
+    {
+      "texto": "los",
+      "inicio": 1.0,
+      "fin": 1.6
+    },
+    {
+      "texto": "cinco",
+      "inicio": 1.653,
+      "fin": 1.92
+    },
+    {
+      "texto": "penales.",
+      "inicio": 2.0,
+      "fin": 3.36
+    },
+    {
+      "texto": "En",
+      "inicio": 3.6,
+      "fin": 4.08
+    },
+    {
+      "texto": "una",
+      "inicio": 4.12,
+      "fin": 4.24
+    },
+    {
+      "texto": "celda",
+      "inicio": 4.32,
+      "fin": 4.8
+    },
+    {
+      "texto": "escribe",
+      "inicio": 4.907,
+      "fin": 5.36
+    },
+    {
+      "texto": "igual,",
+      "inicio": 5.413,
+      "fin": 6.16
+    },
+    {
+      "texto": "DISTR",
+      "inicio": 6.4,
+      "fin": 8.0
+    },
+    {
+      "texto": "punto",
+      "inicio": 8.12,
+      "fin": 8.72
+    },
+    {
+      "texto": "BINOM",
+      "inicio": 8.92,
+      "fin": 9.76
+    },
+    {
+      "texto": "punto",
+      "inicio": 9.88,
+      "fin": 10.48
+    },
+    {
+      "texto": "N.",
+      "inicio": 10.8,
+      "fin": 11.36
+    },
+    {
+      "texto": "Cinco",
+      "inicio": 11.72,
+      "fin": 12.96
+    },
+    {
+      "texto": "éxitos,",
+      "inicio": 13.04,
+      "fin": 13.96
+    },
+    {
+      "texto": "punto",
+      "inicio": 14.007,
+      "fin": 14.24
+    },
+    {
+      "texto": "y",
+      "inicio": 14.28,
+      "fin": 14.32
+    },
+    {
+      "texto": "coma,",
+      "inicio": 14.4,
+      "fin": 14.96
+    },
+    {
+      "texto": "cinco",
+      "inicio": 15.133,
+      "fin": 16.0
+    },
+    {
+      "texto": "intentos,",
+      "inicio": 16.08,
+      "fin": 17.16
+    },
+    {
+      "texto": "punto",
+      "inicio": 17.207,
+      "fin": 17.44
+    },
+    {
+      "texto": "y",
+      "inicio": 17.48,
+      "fin": 17.52
+    },
+    {
+      "texto": "coma,",
+      "inicio": 17.584,
+      "fin": 18.24
+    },
+    {
+      "texto": "cero",
+      "inicio": 18.64,
+      "fin": 19.2
+    },
+    {
+      "texto": "coma",
+      "inicio": 19.28,
+      "fin": 19.6
+    },
+    {
+      "texto": "sesenta",
+      "inicio": 19.72,
+      "fin": 20.32
+    },
+    {
+      "texto": "y",
+      "inicio": 20.36,
+      "fin": 20.4
+    },
+    {
+      "texto": "cinco,",
+      "inicio": 20.507,
+      "fin": 21.36
+    },
+    {
+      "texto": "punto",
+      "inicio": 21.427,
+      "fin": 21.76
+    },
+    {
+      "texto": "y",
+      "inicio": 21.8,
+      "fin": 21.84
+    },
+    {
+      "texto": "coma,",
+      "inicio": 21.92,
+      "fin": 22.241
+    },
+    {
+      "texto": "FALSO.",
+      "inicio": 22.56,
+      "fin": 23.6
+    },
+    {
+      "texto": "Enter,",
+      "inicio": 23.813,
+      "fin": 25.28
+    },
+    {
+      "texto": "y",
+      "inicio": 25.48,
+      "fin": 25.68
+    },
+    {
+      "texto": "dale",
+      "inicio": 25.72,
+      "fin": 26.0
+    },
+    {
+      "texto": "formato",
+      "inicio": 26.07,
+      "fin": 26.56
+    },
+    {
+      "texto": "de",
+      "inicio": 26.587,
+      "fin": 26.64
+    },
+    {
+      "texto": "porcentaje:",
+      "inicio": 26.7,
+      "fin": 28.08
+    },
+    {
+      "texto": "once",
+      "inicio": 28.176,
+      "fin": 28.56
+    },
+    {
+      "texto": "coma",
+      "inicio": 28.624,
+      "fin": 28.88
+    },
+    {
+      "texto": "seis",
+      "inicio": 28.96,
+      "fin": 29.28
+    },
+    {
+      "texto": "por",
+      "inicio": 29.34,
+      "fin": 29.52
+    },
+    {
+      "texto": "ciento.",
+      "inicio": 29.6,
+      "fin": 30.16
+    },
+    {
+      "texto": "Meter",
+      "inicio": 30.44,
+      "fin": 31.84
+    },
+    {
+      "texto": "los",
+      "inicio": 31.88,
+      "fin": 32.0
+    },
+    {
+      "texto": "cinco",
+      "inicio": 32.093,
+      "fin": 32.56
+    },
+    {
+      "texto": "es",
+      "inicio": 32.693,
+      "fin": 32.96
+    },
+    {
+      "texto": "mucho",
+      "inicio": 33.04,
+      "fin": 33.44
+    },
+    {
+      "texto": "más",
+      "inicio": 33.48,
+      "fin": 33.6
+    },
+    {
+      "texto": "difícil",
+      "inicio": 33.66,
+      "fin": 34.08
+    },
+    {
+      "texto": "de",
+      "inicio": 34.133,
+      "fin": 34.24
+    },
+    {
+      "texto": "lo",
+      "inicio": 34.267,
+      "fin": 34.32
+    },
+    {
+      "texto": "que",
+      "inicio": 34.34,
+      "fin": 34.4
+    },
+    {
+      "texto": "parece.",
+      "inicio": 34.48,
+      "fin": 35.12
+    }
+  ]
+}

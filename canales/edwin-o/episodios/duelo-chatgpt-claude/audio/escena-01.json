@@ -1,0 +1,265 @@
+{
+  "num": "01",
+  "titulo": "Gancho",
+  "texto": "ChatGPT contra Claude. La misma pregunta, los mismos datos, y yo probé cada respuesta en Excel y en Python, de verdad. Las dos encontraron al cliente fantasma… pero una de ellas me entregó un código que no funcionaba. ¿Cuál? Quédate, porque el resultado no es el que todo el mundo espera.",
+  "texto_tts": "[excited] ChatGPT contra Claude. La misma pregunta, los mismos datos, y yo probé cada respuesta en Excel y en Python, de verdad. Las dos encontraron al cliente fantasma… pero una de ellas me entregó un código que no funcionaba. ¿Cuál? Quédate, porque el resultado no es el que todo el mundo espera.",
+  "modelo": "eleven_v3",
+  "duracion": 23.52,
+  "palabras": [
+    {
+      "texto": "ChatGPT",
+      "inicio": 0.269,
+      "fin": 0.8
+    },
+    {
+      "texto": "contra",
+      "inicio": 0.88,
+      "fin": 1.36
+    },
+    {
+      "texto": "Claude.",
+      "inicio": 1.429,
+      "fin": 1.84
+    },
+    {
+      "texto": "La",
+      "inicio": 2.213,
+      "fin": 2.96
+    },
+    {
+      "texto": "misma",
+      "inicio": 3.013,
+      "fin": 3.28
+    },
+    {
+      "texto": "pregunta,",
+      "inicio": 3.351,
+      "fin": 4.24
+    },
+    {
+      "texto": "los",
+      "inicio": 4.3,
+      "fin": 4.48
+    },
+    {
+      "texto": "mismos",
+      "inicio": 4.544,
+      "fin": 4.88
+    },
+    {
+      "texto": "datos,",
+      "inicio": 4.973,
+      "fin": 5.88
+    },
+    {
+      "texto": "y",
+      "inicio": 6.1,
+      "fin": 6.32
+    },
+    {
+      "texto": "yo",
+      "inicio": 6.4,
+      "fin": 6.56
+    },
+    {
+      "texto": "probé",
+      "inicio": 6.624,
+      "fin": 6.96
+    },
+    {
+      "texto": "cada",
+      "inicio": 7.056,
+      "fin": 7.44
+    },
+    {
+      "texto": "respuesta",
+      "inicio": 7.504,
+      "fin": 8.08
+    },
+    {
+      "texto": "en",
+      "inicio": 8.16,
+      "fin": 8.32
+    },
+    {
+      "texto": "Excel",
+      "inicio": 8.387,
+      "fin": 8.72
+    },
+    {
+      "texto": "y",
+      "inicio": 8.8,
+      "fin": 8.88
+    },
+    {
+      "texto": "en",
+      "inicio": 8.907,
+      "fin": 8.96
+    },
+    {
+      "texto": "Python,",
+      "inicio": 9.051,
+      "fin": 9.84
+    },
+    {
+      "texto": "de",
+      "inicio": 9.867,
+      "fin": 9.92
+    },
+    {
+      "texto": "verdad.",
+      "inicio": 9.989,
+      "fin": 10.64
+    },
+    {
+      "texto": "Las",
+      "inicio": 10.82,
+      "fin": 11.36
+    },
+    {
+      "texto": "dos",
+      "inicio": 11.44,
+      "fin": 11.68
+    },
+    {
+      "texto": "encontraron",
+      "inicio": 11.75,
+      "fin": 12.48
+    },
+    {
+      "texto": "al",
+      "inicio": 12.533,
+      "fin": 12.64
+    },
+    {
+      "texto": "cliente",
+      "inicio": 12.69,
+      "fin": 13.04
+    },
+    {
+      "texto": "fantasma…",
+      "inicio": 13.104,
+      "fin": 14.64
+    },
+    {
+      "texto": "pero",
+      "inicio": 14.688,
+      "fin": 14.88
+    },
+    {
+      "texto": "una",
+      "inicio": 14.94,
+      "fin": 15.12
+    },
+    {
+      "texto": "de",
+      "inicio": 15.173,
+      "fin": 15.28
+    },
+    {
+      "texto": "ellas",
+      "inicio": 15.347,
+      "fin": 15.68
+    },
+    {
+      "texto": "me",
+      "inicio": 15.76,
+      "fin": 15.92
+    },
+    {
+      "texto": "entregó",
+      "inicio": 15.966,
+      "fin": 16.32
+    },
+    {
+      "texto": "un",
+      "inicio": 16.347,
+      "fin": 16.4
+    },
+    {
+      "texto": "código",
+      "inicio": 16.457,
+      "fin": 16.8
+    },
+    {
+      "texto": "que",
+      "inicio": 16.84,
+      "fin": 16.96
+    },
+    {
+      "texto": "no",
+      "inicio": 17.013,
+      "fin": 17.12
+    },
+    {
+      "texto": "funcionaba.",
+      "inicio": 17.17,
+      "fin": 18.08
+    },
+    {
+      "texto": "¿Cuál?",
+      "inicio": 18.44,
+      "fin": 19.2
+    },
+    {
+      "texto": "Quédate,",
+      "inicio": 19.46,
+      "fin": 20.64
+    },
+    {
+      "texto": "porque",
+      "inicio": 20.674,
+      "fin": 20.88
+    },
+    {
+      "texto": "el",
+      "inicio": 20.907,
+      "fin": 20.96
+    },
+    {
+      "texto": "resultado",
+      "inicio": 21.016,
+      "fin": 21.52
+    },
+    {
+      "texto": "no",
+      "inicio": 21.653,
+      "fin": 21.92
+    },
+    {
+      "texto": "es",
+      "inicio": 21.973,
+      "fin": 22.08
+    },
+    {
+      "texto": "el",
+      "inicio": 22.133,
+      "fin": 22.24
+    },
+    {
+      "texto": "que",
+      "inicio": 22.26,
+      "fin": 22.32
+    },
+    {
+      "texto": "todo",
+      "inicio": 22.368,
+      "fin": 22.56
+    },
+    {
+      "texto": "el",
+      "inicio": 22.587,
+      "fin": 22.64
+    },
+    {
+      "texto": "mundo",
+      "inicio": 22.667,
+      "fin": 22.8
+    },
+    {
+      "texto": "espera.",
+      "inicio": 22.857,
+      "fin": 23.52
+    }
+  ]
+}

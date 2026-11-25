@@ -1,0 +1,345 @@
+{
+  "num": "09",
+  "titulo": "Paso 2: más información en el QR",
+  "texto": "Paso dos: guarda más información. Quiero que el QR diga el código, el producto y la ubicación. Uno los tres con ampersand y una barra en medio. Pero ojo: las direcciones de internet no aceptan espacios, por eso lo envuelvo en la función URLCODIF, que los convierte a un formato que la web entiende. Ahora, si escaneas el QR con el celular, te muestra los tres datos.",
+  "texto_tts": "Paso dos: guarda más información. Quiero que el QR diga el código, el producto y la ubicación. Uno los tres con ampersand y una barra en medio. Pero ojo: las direcciones de internet no aceptan espacios, por eso lo envuelvo en la función URLCODIF, que los convierte a un formato que la web entiende. Ahora, si escaneas el QR con el celular, te muestra los tres datos.",
+  "modelo": "eleven_v3",
+  "duracion": 31.68,
+  "palabras": [
+    {
+      "texto": "Paso",
+      "inicio": 0.0,
+      "fin": 0.24
+    },
+    {
+      "texto": "dos:",
+      "inicio": 0.32,
+      "fin": 0.72
+    },
+    {
+      "texto": "guarda",
+      "inicio": 0.811,
+      "fin": 1.36
+    },
+    {
+      "texto": "más",
+      "inicio": 1.44,
+      "fin": 1.68
+    },
+    {
+      "texto": "información.",
+      "inicio": 1.753,
+      "fin": 2.64
+    },
+    {
+      "texto": "Quiero",
+      "inicio": 2.96,
+      "fin": 3.76
+    },
+    {
+      "texto": "que",
+      "inicio": 3.78,
+      "fin": 3.84
+    },
+    {
+      "texto": "el",
+      "inicio": 3.893,
+      "fin": 4.0
+    },
+    {
+      "texto": "QR",
+      "inicio": 4.16,
+      "fin": 4.48
+    },
+    {
+      "texto": "diga",
+      "inicio": 4.58,
+      "fin": 4.96
+    },
+    {
+      "texto": "el",
+      "inicio": 5.067,
+      "fin": 5.28
+    },
+    {
+      "texto": "código,",
+      "inicio": 5.36,
+      "fin": 6.24
+    },
+    {
+      "texto": "el",
+      "inicio": 6.293,
+      "fin": 6.4
+    },
+    {
+      "texto": "producto",
+      "inicio": 6.471,
+      "fin": 7.04
+    },
+    {
+      "texto": "y",
+      "inicio": 7.2,
+      "fin": 7.36
+    },
+    {
+      "texto": "la",
+      "inicio": 7.387,
+      "fin": 7.44
+    },
+    {
+      "texto": "ubicación.",
+      "inicio": 7.504,
+      "fin": 8.32
+    },
+    {
+      "texto": "Uno",
+      "inicio": 8.58,
+      "fin": 9.36
+    },
+    {
+      "texto": "los",
+      "inicio": 9.42,
+      "fin": 9.6
+    },
+    {
+      "texto": "tres",
+      "inicio": 9.696,
+      "fin": 10.08
+    },
+    {
+      "texto": "con",
+      "inicio": 10.18,
+      "fin": 10.48
+    },
+    {
+      "texto": "ampersand",
+      "inicio": 10.56,
+      "fin": 11.44
+    },
+    {
+      "texto": "y",
+      "inicio": 11.68,
+      "fin": 11.92
+    },
+    {
+      "texto": "una",
+      "inicio": 11.98,
+      "fin": 12.16
+    },
+    {
+      "texto": "barra",
+      "inicio": 12.22,
+      "fin": 12.48
+    },
+    {
+      "texto": "en",
+      "inicio": 12.507,
+      "fin": 12.56
+    },
+    {
+      "texto": "medio.",
+      "inicio": 12.627,
+      "fin": 13.2
+    },
+    {
+      "texto": "Pero",
+      "inicio": 13.248,
+      "fin": 13.44
+    },
+    {
+      "texto": "ojo:",
+      "inicio": 13.52,
+      "fin": 14.4
+    },
+    {
+      "texto": "las",
+      "inicio": 14.42,
+      "fin": 14.48
+    },
+    {
+      "texto": "direcciones",
+      "inicio": 14.528,
+      "fin": 15.04
+    },
+    {
+      "texto": "de",
+      "inicio": 15.067,
+      "fin": 15.12
+    },
+    {
+      "texto": "internet",
+      "inicio": 15.191,
+      "fin": 15.76
+    },
+    {
+      "texto": "no",
+      "inicio": 15.867,
+      "fin": 16.08
+    },
+    {
+      "texto": "aceptan",
+      "inicio": 16.16,
+      "fin": 16.72
+    },
+    {
+      "texto": "espacios,",
+      "inicio": 16.78,
+      "fin": 17.84
+    },
+    {
+      "texto": "por",
+      "inicio": 17.88,
+      "fin": 18.0
+    },
+    {
+      "texto": "eso",
+      "inicio": 18.06,
+      "fin": 18.24
+    },
+    {
+      "texto": "lo",
+      "inicio": 18.267,
+      "fin": 18.32
+    },
+    {
+      "texto": "envuelvo",
+      "inicio": 18.38,
+      "fin": 18.88
+    },
+    {
+      "texto": "en",
+      "inicio": 18.96,
+      "fin": 19.12
+    },
+    {
+      "texto": "la",
+      "inicio": 19.147,
+      "fin": 19.2
+    },
+    {
+      "texto": "función",
+      "inicio": 19.27,
+      "fin": 19.76
+    },
+    {
+      "texto": "URLCODIF,",
+      "inicio": 20.06,
+      "fin": 22.96
+    },
+    {
+      "texto": "que",
+      "inicio": 22.98,
+      "fin": 23.04
+    },
+    {
+      "texto": "los",
+      "inicio": 23.08,
+      "fin": 23.2
+    },
+    {
+      "texto": "convierte",
+      "inicio": 23.248,
+      "fin": 23.68
+    },
+    {
+      "texto": "a",
+      "inicio": 23.72,
+      "fin": 23.76
+    },
+    {
+      "texto": "un",
+      "inicio": 23.787,
+      "fin": 23.84
+    },
+    {
+      "texto": "formato",
+      "inicio": 23.92,
+      "fin": 24.48
+    },
+    {
+      "texto": "que",
+      "inicio": 24.5,
+      "fin": 24.56
+    },
+    {
+      "texto": "la",
+      "inicio": 24.613,
+      "fin": 24.72
+    },
+    {
+      "texto": "web",
+      "inicio": 24.78,
+      "fin": 24.96
+    },
+    {
+      "texto": "entiende.",
+      "inicio": 25.02,
+      "fin": 25.6
+    },
+    {
+      "texto": "Ahora,",
+      "inicio": 25.973,
+      "fin": 27.44
+    },
+    {
+      "texto": "si",
+      "inicio": 27.493,
+      "fin": 27.6
+    },
+    {
+      "texto": "escaneas",
+      "inicio": 27.64,
+      "fin": 28.16
+    },
+    {
+      "texto": "el",
+      "inicio": 28.187,
+      "fin": 28.24
+    },
+    {
+      "texto": "QR",
+      "inicio": 28.4,
+      "fin": 28.72
+    },
+    {
+      "texto": "con",
+      "inicio": 28.76,
+      "fin": 28.88
+    },
+    {
+      "texto": "el",
+      "inicio": 28.907,
+      "fin": 28.96
+    },
+    {
+      "texto": "celular,",
+      "inicio": 29.03,
+      "fin": 29.92
+    },
+    {
+      "texto": "te",
+      "inicio": 29.973,
+      "fin": 30.08
+    },
+    {
+      "texto": "muestra",
+      "inicio": 30.13,
+      "fin": 30.48
+    },
+    {
+      "texto": "los",
+      "inicio": 30.54,
+      "fin": 30.72
+    },
+    {
+      "texto": "tres",
+      "inicio": 30.768,
+      "fin": 30.96
+    },
+    {
+      "texto": "datos.",
+      "inicio": 31.053,
+      "fin": 31.68
+    }
+  ]
+}

@@ -1,0 +1,270 @@
+{
+  "num": "13",
+  "titulo": "Movimiento 7: agrupar por",
+  "texto": "Movimiento siete: agrupar. Para no perder el detalle, clic derecho en la consulta, y elige Referencia: es una copia que depende de la original. En la copia, ve a Agrupar por, elige Región, y la operación Suma del Monto. Norte, siete mil treinta. Sur, seis mil trescientos veinte. Centro, cuatro mil trescientos.",
+  "texto_tts": "Movimiento siete: agrupar. Para no perder el detalle, clic derecho en la consulta, y elige Referencia: es una copia que depende de la original. En la copia, ve a Agrupar por, elige Región, y la operación Suma del Monto. Norte, siete mil treinta. Sur, seis mil trescientos veinte. Centro, cuatro mil trescientos.",
+  "modelo": "eleven_v3",
+  "duracion": 24.0,
+  "palabras": [
+    {
+      "texto": "Movimiento",
+      "inicio": 0.0,
+      "fin": 0.56
+    },
+    {
+      "texto": "siete:",
+      "inicio": 0.64,
+      "fin": 1.04
+    },
+    {
+      "texto": "agrupar.",
+      "inicio": 1.14,
+      "fin": 1.84
+    },
+    {
+      "texto": "Para",
+      "inicio": 1.952,
+      "fin": 2.4
+    },
+    {
+      "texto": "no",
+      "inicio": 2.453,
+      "fin": 2.56
+    },
+    {
+      "texto": "perder",
+      "inicio": 2.617,
+      "fin": 2.96
+    },
+    {
+      "texto": "el",
+      "inicio": 2.987,
+      "fin": 3.04
+    },
+    {
+      "texto": "detalle,",
+      "inicio": 3.11,
+      "fin": 3.84
+    },
+    {
+      "texto": "clic",
+      "inicio": 3.888,
+      "fin": 4.08
+    },
+    {
+      "texto": "derecho",
+      "inicio": 4.15,
+      "fin": 4.64
+    },
+    {
+      "texto": "en",
+      "inicio": 4.693,
+      "fin": 4.8
+    },
+    {
+      "texto": "la",
+      "inicio": 4.853,
+      "fin": 4.96
+    },
+    {
+      "texto": "consulta,",
+      "inicio": 5.031,
+      "fin": 5.76
+    },
+    {
+      "texto": "y",
+      "inicio": 5.8,
+      "fin": 5.84
+    },
+    {
+      "texto": "elige",
+      "inicio": 5.92,
+      "fin": 6.32
+    },
+    {
+      "texto": "Referencia:",
+      "inicio": 6.4,
+      "fin": 7.28
+    },
+    {
+      "texto": "es",
+      "inicio": 7.44,
+      "fin": 7.76
+    },
+    {
+      "texto": "una",
+      "inicio": 7.82,
+      "fin": 8.0
+    },
+    {
+      "texto": "copia",
+      "inicio": 8.06,
+      "fin": 8.32
+    },
+    {
+      "texto": "que",
+      "inicio": 8.36,
+      "fin": 8.48
+    },
+    {
+      "texto": "depende",
+      "inicio": 8.537,
+      "fin": 8.96
+    },
+    {
+      "texto": "de",
+      "inicio": 8.987,
+      "fin": 9.04
+    },
+    {
+      "texto": "la",
+      "inicio": 9.133,
+      "fin": 9.32
+    },
+    {
+      "texto": "original.",
+      "inicio": 9.351,
+      "fin": 9.92
+    },
+    {
+      "texto": "En",
+      "inicio": 10.133,
+      "fin": 10.56
+    },
+    {
+      "texto": "la",
+      "inicio": 10.613,
+      "fin": 10.72
+    },
+    {
+      "texto": "copia,",
+      "inicio": 10.8,
+      "fin": 11.36
+    },
+    {
+      "texto": "ve",
+      "inicio": 11.44,
+      "fin": 11.6
+    },
+    {
+      "texto": "a",
+      "inicio": 11.64,
+      "fin": 11.68
+    },
+    {
+      "texto": "Agrupar",
+      "inicio": 11.74,
+      "fin": 12.16
+    },
+    {
+      "texto": "por,",
+      "inicio": 12.26,
+      "fin": 12.88
+    },
+    {
+      "texto": "elige",
+      "inicio": 13.067,
+      "fin": 13.6
+    },
+    {
+      "texto": "Región,",
+      "inicio": 13.68,
+      "fin": 14.24
+    },
+    {
+      "texto": "y",
+      "inicio": 14.4,
+      "fin": 14.56
+    },
+    {
+      "texto": "la",
+      "inicio": 14.587,
+      "fin": 14.64
+    },
+    {
+      "texto": "operación",
+      "inicio": 14.688,
+      "fin": 15.2
+    },
+    {
+      "texto": "Suma",
+      "inicio": 15.32,
+      "fin": 15.76
+    },
+    {
+      "texto": "del",
+      "inicio": 15.8,
+      "fin": 15.92
+    },
+    {
+      "texto": "Monto.",
+      "inicio": 15.984,
+      "fin": 16.56
+    },
+    {
+      "texto": "Norte,",
+      "inicio": 16.733,
+      "fin": 17.76
+    },
+    {
+      "texto": "siete",
+      "inicio": 17.84,
+      "fin": 18.0
+    },
+    {
+      "texto": "mil",
+      "inicio": 18.06,
+      "fin": 18.24
+    },
+    {
+      "texto": "treinta.",
+      "inicio": 18.3,
+      "fin": 18.96
+    },
+    {
+      "texto": "Sur,",
+      "inicio": 19.12,
+      "fin": 19.68
+    },
+    {
+      "texto": "seis",
+      "inicio": 19.744,
+      "fin": 20.0
+    },
+    {
+      "texto": "mil",
+      "inicio": 20.06,
+      "fin": 20.24
+    },
+    {
+      "texto": "trescientos",
+      "inicio": 20.288,
+      "fin": 20.8
+    },
+    {
+      "texto": "veinte.",
+      "inicio": 20.853,
+      "fin": 21.6
+    },
+    {
+      "texto": "Centro,",
+      "inicio": 21.714,
+      "fin": 22.56
+    },
+    {
+      "texto": "cuatro",
+      "inicio": 22.594,
+      "fin": 22.8
+    },
+    {
+      "texto": "mil",
+      "inicio": 22.84,
+      "fin": 22.96
+    },
+    {
+      "texto": "trescientos.",
+      "inicio": 23.024,
+      "fin": 24.0
+    }
+  ]
+}

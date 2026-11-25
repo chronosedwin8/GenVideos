@@ -1,0 +1,285 @@
+{
+  "num": "10",
+  "titulo": "Paso 4: conéctate desde el celular",
+  "texto": "Paso cuatro: toma tu celular. Tienes dos caminos. Escanea el código QR con la cámara, o abre la app de Claude, toca Code, y busca tu sesión: tiene un ícono de computador con un punto verde, que significa que está en línea. Tócala, y verás la misma conversación que tienes en la pantalla del computador.",
+  "texto_tts": "Paso cuatro: toma tu celular. Tienes dos caminos. Escanea el código QR con la cámara, o abre la app de Claude, toca Code, y busca tu sesión: tiene un ícono de computador con un punto verde, que significa que está en línea. Tócala, y verás la misma conversación que tienes en la pantalla del computador.",
+  "modelo": "eleven_v3",
+  "duracion": 25.68,
+  "palabras": [
+    {
+      "texto": "Paso",
+      "inicio": 0.0,
+      "fin": 0.32
+    },
+    {
+      "texto": "cuatro:",
+      "inicio": 0.389,
+      "fin": 0.96
+    },
+    {
+      "texto": "toma",
+      "inicio": 1.28,
+      "fin": 2.0
+    },
+    {
+      "texto": "tu",
+      "inicio": 2.053,
+      "fin": 2.16
+    },
+    {
+      "texto": "celular.",
+      "inicio": 2.23,
+      "fin": 2.8
+    },
+    {
+      "texto": "Tienes",
+      "inicio": 3.32,
+      "fin": 4.08
+    },
+    {
+      "texto": "dos",
+      "inicio": 4.14,
+      "fin": 4.32
+    },
+    {
+      "texto": "caminos.",
+      "inicio": 4.38,
+      "fin": 5.12
+    },
+    {
+      "texto": "Escanea",
+      "inicio": 5.42,
+      "fin": 6.56
+    },
+    {
+      "texto": "el",
+      "inicio": 6.587,
+      "fin": 6.64
+    },
+    {
+      "texto": "código",
+      "inicio": 6.709,
+      "fin": 7.12
+    },
+    {
+      "texto": "QR",
+      "inicio": 7.307,
+      "fin": 7.68
+    },
+    {
+      "texto": "con",
+      "inicio": 7.72,
+      "fin": 7.84
+    },
+    {
+      "texto": "la",
+      "inicio": 7.893,
+      "fin": 8.0
+    },
+    {
+      "texto": "cámara,",
+      "inicio": 8.04,
+      "fin": 8.56
+    },
+    {
+      "texto": "o",
+      "inicio": 9.0,
+      "fin": 9.44
+    },
+    {
+      "texto": "abre",
+      "inicio": 9.504,
+      "fin": 9.76
+    },
+    {
+      "texto": "la",
+      "inicio": 9.813,
+      "fin": 9.92
+    },
+    {
+      "texto": "app",
+      "inicio": 9.96,
+      "fin": 10.08
+    },
+    {
+      "texto": "de",
+      "inicio": 10.133,
+      "fin": 10.24
+    },
+    {
+      "texto": "Claude,",
+      "inicio": 10.32,
+      "fin": 11.52
+    },
+    {
+      "texto": "toca",
+      "inicio": 11.6,
+      "fin": 11.92
+    },
+    {
+      "texto": "Code,",
+      "inicio": 12.016,
+      "fin": 12.48
+    },
+    {
+      "texto": "y",
+      "inicio": 12.84,
+      "fin": 13.2
+    },
+    {
+      "texto": "busca",
+      "inicio": 13.267,
+      "fin": 13.6
+    },
+    {
+      "texto": "tu",
+      "inicio": 13.653,
+      "fin": 13.76
+    },
+    {
+      "texto": "sesión:",
+      "inicio": 13.84,
+      "fin": 14.4
+    },
+    {
+      "texto": "tiene",
+      "inicio": 14.547,
+      "fin": 15.28
+    },
+    {
+      "texto": "un",
+      "inicio": 15.307,
+      "fin": 15.36
+    },
+    {
+      "texto": "ícono",
+      "inicio": 15.44,
+      "fin": 15.76
+    },
+    {
+      "texto": "de",
+      "inicio": 15.787,
+      "fin": 15.84
+    },
+    {
+      "texto": "computador",
+      "inicio": 15.897,
+      "fin": 16.56
+    },
+    {
+      "texto": "con",
+      "inicio": 16.62,
+      "fin": 16.8
+    },
+    {
+      "texto": "un",
+      "inicio": 16.827,
+      "fin": 16.88
+    },
+    {
+      "texto": "punto",
+      "inicio": 16.947,
+      "fin": 17.28
+    },
+    {
+      "texto": "verde,",
+      "inicio": 17.347,
+      "fin": 18.16
+    },
+    {
+      "texto": "que",
+      "inicio": 18.18,
+      "fin": 18.24
+    },
+    {
+      "texto": "significa",
+      "inicio": 18.304,
+      "fin": 18.88
+    },
+    {
+      "texto": "que",
+      "inicio": 18.9,
+      "fin": 18.96
+    },
+    {
+      "texto": "está",
+      "inicio": 19.008,
+      "fin": 19.2
+    },
+    {
+      "texto": "en",
+      "inicio": 19.227,
+      "fin": 19.28
+    },
+    {
+      "texto": "línea.",
+      "inicio": 19.347,
+      "fin": 19.84
+    },
+    {
+      "texto": "Tócala,",
+      "inicio": 20.28,
+      "fin": 21.2
+    },
+    {
+      "texto": "y",
+      "inicio": 21.52,
+      "fin": 21.84
+    },
+    {
+      "texto": "verás",
+      "inicio": 21.9,
+      "fin": 22.24
+    },
+    {
+      "texto": "la",
+      "inicio": 22.267,
+      "fin": 22.32
+    },
+    {
+      "texto": "misma",
+      "inicio": 22.4,
+      "fin": 22.8
+    },
+    {
+      "texto": "conversación",
+      "inicio": 22.85,
+      "fin": 23.52
+    },
+    {
+      "texto": "que",
+      "inicio": 23.56,
+      "fin": 23.68
+    },
+    {
+      "texto": "tienes",
+      "inicio": 23.737,
+      "fin": 24.08
+    },
+    {
+      "texto": "en",
+      "inicio": 24.107,
+      "fin": 24.16
+    },
+    {
+      "texto": "la",
+      "inicio": 24.213,
+      "fin": 24.32
+    },
+    {
+      "texto": "pantalla",
+      "inicio": 24.373,
+      "fin": 24.8
+    },
+    {
+      "texto": "del",
+      "inicio": 24.84,
+      "fin": 24.96
+    },
+    {
+      "texto": "computador.",
+      "inicio": 25.017,
+      "fin": 25.68
+    }
+  ]
+}

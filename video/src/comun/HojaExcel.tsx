@@ -1,5 +1,5 @@
 import React from 'react';
-import {AbsoluteFill, useVideoConfig} from 'remotion';
+import {AbsoluteFill, Img, staticFile, useVideoConfig} from 'remotion';
 import type {Tema} from './tipos';
 import {entrada, progreso, useSegundos} from './tiempo';
 
@@ -27,6 +27,11 @@ export type CeldaExcel = {
   fondoDesde?: number;
   /** La celda desaparece en este segundo (para reemplazar un valor por otro). */
   hasta?: number;
+  /** Imagen dentro de la celda (ruta en public/), como el resultado de =IMAGEN(). */
+  imagen?: string;
+  /** Fuente de la celda (p. ej. la de código de barras) y tamaño de letra. */
+  fuente?: string;
+  tamano?: number;
 };
 
 export type HojaExcelProps = {
@@ -346,18 +351,22 @@ export const HojaExcel: React.FC<HojaExcelProps> = (p) => {
                   display: 'flex',
                   alignItems: 'center',
                   justifyContent: c.alinear === 'center' ? 'center' : c.alinear === 'left' || enEdicion || !esNumero ? 'flex-start' : 'flex-end',
-                  fontSize: 25,
+                  fontSize: c.tamano ?? 25,
                   fontWeight: c.negrita ? 700 : 400,
                   color: (c.fondoDesde === undefined || fondoActivo ? c.color : undefined) ?? '#111',
                   background: enEdicion ? 'white' : fondoActivo ?? (destello > 0 ? `rgba(255,229,0,${0.7 * destello})` : 'transparent'),
                   whiteSpace: 'nowrap',
                   overflow: enEdicion ? 'visible' : 'hidden',
-                  fontFamily: enEdicion ? 'Consolas, JetBrains Mono, monospace' : undefined, fontVariantLigatures: 'none',
+                  fontFamily: enEdicion ? 'Consolas, JetBrains Mono, monospace' : c.fuente, fontVariantLigatures: 'none',
                   zIndex: enEdicion ? 5 : 1,
                   boxSizing: 'border-box',
                 }}
               >
-                {contenido}
+                {c.imagen && !enEdicion ? (
+                  <Img src={staticFile(c.imagen)} style={{height: caja.h - 6, width: caja.w - 20, objectFit: 'contain', margin: '0 auto'}} />
+                ) : (
+                  contenido
+                )}
               </div>
             );
           })}

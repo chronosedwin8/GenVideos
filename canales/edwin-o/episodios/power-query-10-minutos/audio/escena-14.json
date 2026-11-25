@@ -1,0 +1,260 @@
+{
+  "num": "14",
+  "titulo": "Movimiento 8: combinar consultas",
+  "texto": "Movimiento ocho: combinar consultas, el BUSCARX de Power Query. En Inicio, Combinar consultas. Arriba, tu tabla agrupada; abajo, Metas. Haz clic en la columna Región en las dos, y en el tipo de combinación deja Externa izquierda. Aceptas, expandes la columna nueva, y cada región tiene su meta al lado.",
+  "texto_tts": "Movimiento ocho: combinar consultas, el BUSCARX de Power Query. En Inicio, Combinar consultas. Arriba, tu tabla agrupada; abajo, Metas. Haz clic en la columna Región en las dos, y en el tipo de combinación deja Externa izquierda. Aceptas, expandes la columna nueva, y cada región tiene su meta al lado.",
+  "modelo": "eleven_v3",
+  "duracion": 25.2,
+  "palabras": [
+    {
+      "texto": "Movimiento",
+      "inicio": 0.0,
+      "fin": 0.64
+    },
+    {
+      "texto": "ocho:",
+      "inicio": 0.76,
+      "fin": 1.12
+    },
+    {
+      "texto": "combinar",
+      "inicio": 1.232,
+      "fin": 1.92
+    },
+    {
+      "texto": "consultas,",
+      "inicio": 1.99,
+      "fin": 2.88
+    },
+    {
+      "texto": "el",
+      "inicio": 2.907,
+      "fin": 2.96
+    },
+    {
+      "texto": "BUSCARX",
+      "inicio": 3.04,
+      "fin": 4.08
+    },
+    {
+      "texto": "de",
+      "inicio": 4.133,
+      "fin": 4.24
+    },
+    {
+      "texto": "Power",
+      "inicio": 4.293,
+      "fin": 4.56
+    },
+    {
+      "texto": "Query.",
+      "inicio": 4.627,
+      "fin": 5.04
+    },
+    {
+      "texto": "En",
+      "inicio": 5.333,
+      "fin": 5.92
+    },
+    {
+      "texto": "Inicio,",
+      "inicio": 5.947,
+      "fin": 6.4
+    },
+    {
+      "texto": "Combinar",
+      "inicio": 6.5,
+      "fin": 6.96
+    },
+    {
+      "texto": "consultas.",
+      "inicio": 7.03,
+      "fin": 8.0
+    },
+    {
+      "texto": "Arriba,",
+      "inicio": 8.187,
+      "fin": 8.88
+    },
+    {
+      "texto": "tu",
+      "inicio": 9.013,
+      "fin": 9.28
+    },
+    {
+      "texto": "tabla",
+      "inicio": 9.32,
+      "fin": 9.52
+    },
+    {
+      "texto": "agrupada;",
+      "inicio": 9.56,
+      "fin": 10.16
+    },
+    {
+      "texto": "abajo,",
+      "inicio": 10.373,
+      "fin": 11.12
+    },
+    {
+      "texto": "Metas.",
+      "inicio": 11.24,
+      "fin": 12.16
+    },
+    {
+      "texto": "Haz",
+      "inicio": 12.28,
+      "fin": 12.64
+    },
+    {
+      "texto": "clic",
+      "inicio": 12.688,
+      "fin": 12.88
+    },
+    {
+      "texto": "en",
+      "inicio": 12.933,
+      "fin": 13.04
+    },
+    {
+      "texto": "la",
+      "inicio": 13.067,
+      "fin": 13.12
+    },
+    {
+      "texto": "columna",
+      "inicio": 13.18,
+      "fin": 13.6
+    },
+    {
+      "texto": "Región",
+      "inicio": 13.68,
+      "fin": 14.16
+    },
+    {
+      "texto": "en",
+      "inicio": 14.24,
+      "fin": 14.4
+    },
+    {
+      "texto": "las",
+      "inicio": 14.44,
+      "fin": 14.56
+    },
+    {
+      "texto": "dos,",
+      "inicio": 14.66,
+      "fin": 15.28
+    },
+    {
+      "texto": "y",
+      "inicio": 15.44,
+      "fin": 15.6
+    },
+    {
+      "texto": "en",
+      "inicio": 15.653,
+      "fin": 15.76
+    },
+    {
+      "texto": "el",
+      "inicio": 15.787,
+      "fin": 15.84
+    },
+    {
+      "texto": "tipo",
+      "inicio": 15.904,
+      "fin": 16.16
+    },
+    {
+      "texto": "de",
+      "inicio": 16.187,
+      "fin": 16.24
+    },
+    {
+      "texto": "combinación",
+      "inicio": 16.286,
+      "fin": 16.96
+    },
+    {
+      "texto": "deja",
+      "inicio": 17.056,
+      "fin": 17.44
+    },
+    {
+      "texto": "Externa",
+      "inicio": 17.6,
+      "fin": 18.24
+    },
+    {
+      "texto": "izquierda.",
+      "inicio": 18.373,
+      "fin": 19.28
+    },
+    {
+      "texto": "Aceptas,",
+      "inicio": 19.64,
+      "fin": 20.96
+    },
+    {
+      "texto": "expandes",
+      "inicio": 21.017,
+      "fin": 21.44
+    },
+    {
+      "texto": "la",
+      "inicio": 21.467,
+      "fin": 21.52
+    },
+    {
+      "texto": "columna",
+      "inicio": 21.56,
+      "fin": 21.84
+    },
+    {
+      "texto": "nueva,",
+      "inicio": 21.907,
+      "fin": 22.56
+    },
+    {
+      "texto": "y",
+      "inicio": 22.68,
+      "fin": 22.8
+    },
+    {
+      "texto": "cada",
+      "inicio": 22.848,
+      "fin": 23.04
+    },
+    {
+      "texto": "región",
+      "inicio": 23.1,
+      "fin": 23.44
+    },
+    {
+      "texto": "tiene",
+      "inicio": 23.507,
+      "fin": 23.84
+    },
+    {
+      "texto": "su",
+      "inicio": 23.893,
+      "fin": 24.0
+    },
+    {
+      "texto": "meta",
+      "inicio": 24.08,
+      "fin": 24.4
+    },
+    {
+      "texto": "al",
+      "inicio": 24.453,
+      "fin": 24.56
+    },
+    {
+      "texto": "lado.",
+      "inicio": 24.624,
+      "fin": 25.2
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "num": "09",
+  "titulo": "Paso 3: activa el control remoto",
+  "texto": "Paso tres, el importante. Dentro de Claude Code escribe barra remote control, o la versión corta, barra r c. La primera vez te pregunta si quieres activarlo: dile que sí. Te aparece un enlace y un código QR. Y abajo verás el indicador de que el control remoto está activo. Tu sesión ya se puede manejar desde otro dispositivo.",
+  "texto_tts": "Paso tres, el importante. Dentro de Claude Code escribe barra remote control, o la versión corta, barra r c. La primera vez te pregunta si quieres activarlo: dile que sí. Te aparece un enlace y un código QR. Y abajo verás el indicador de que el control remoto está activo. Tu sesión ya se puede manejar desde otro dispositivo.",
+  "modelo": "eleven_v3",
+  "duracion": 25.84,
+  "palabras": [
+    {
+      "texto": "Paso",
+      "inicio": 0.0,
+      "fin": 0.32
+    },
+    {
+      "texto": "tres,",
+      "inicio": 0.4,
+      "fin": 0.8
+    },
+    {
+      "texto": "el",
+      "inicio": 0.88,
+      "fin": 1.04
+    },
+    {
+      "texto": "importante.",
+      "inicio": 1.113,
+      "fin": 1.92
+    },
+    {
+      "texto": "Dentro",
+      "inicio": 2.144,
+      "fin": 3.12
+    },
+    {
+      "texto": "de",
+      "inicio": 3.173,
+      "fin": 3.28
+    },
+    {
+      "texto": "Claude",
+      "inicio": 3.314,
+      "fin": 3.52
+    },
+    {
+      "texto": "Code",
+      "inicio": 3.616,
+      "fin": 4.0
+    },
+    {
+      "texto": "escribe",
+      "inicio": 4.053,
+      "fin": 4.48
+    },
+    {
+      "texto": "barra",
+      "inicio": 4.6,
+      "fin": 5.04
+    },
+    {
+      "texto": "remote",
+      "inicio": 5.154,
+      "fin": 5.84
+    },
+    {
+      "texto": "control,",
+      "inicio": 5.92,
+      "fin": 6.8
+    },
+    {
+      "texto": "o",
+      "inicio": 6.84,
+      "fin": 6.88
+    },
+    {
+      "texto": "la",
+      "inicio": 6.907,
+      "fin": 6.96
+    },
+    {
+      "texto": "versión",
+      "inicio": 7.01,
+      "fin": 7.36
+    },
+    {
+      "texto": "corta,",
+      "inicio": 7.424,
+      "fin": 8.0
+    },
+    {
+      "texto": "barra",
+      "inicio": 8.06,
+      "fin": 8.4
+    },
+    {
+      "texto": "r",
+      "inicio": 8.64,
+      "fin": 8.88
+    },
+    {
+      "texto": "c.",
+      "inicio": 9.04,
+      "fin": 9.36
+    },
+    {
+      "texto": "La",
+      "inicio": 9.707,
+      "fin": 10.4
+    },
+    {
+      "texto": "primera",
+      "inicio": 10.45,
+      "fin": 10.8
+    },
+    {
+      "texto": "vez",
+      "inicio": 10.84,
+      "fin": 10.96
+    },
+    {
+      "texto": "te",
+      "inicio": 11.013,
+      "fin": 11.12
+    },
+    {
+      "texto": "pregunta",
+      "inicio": 11.173,
+      "fin": 11.6
+    },
+    {
+      "texto": "si",
+      "inicio": 11.653,
+      "fin": 11.76
+    },
+    {
+      "texto": "quieres",
+      "inicio": 11.8,
+      "fin": 12.08
+    },
+    {
+      "texto": "activarlo:",
+      "inicio": 12.133,
+      "fin": 13.2
+    },
+    {
+      "texto": "dile",
+      "inicio": 13.248,
+      "fin": 13.44
+    },
+    {
+      "texto": "que",
+      "inicio": 13.48,
+      "fin": 13.6
+    },
+    {
+      "texto": "sí.",
+      "inicio": 13.707,
+      "fin": 14.0
+    },
+    {
+      "texto": "Te",
+      "inicio": 14.293,
+      "fin": 14.88
+    },
+    {
+      "texto": "aparece",
+      "inicio": 14.92,
+      "fin": 15.2
+    },
+    {
+      "texto": "un",
+      "inicio": 15.227,
+      "fin": 15.28
+    },
+    {
+      "texto": "enlace",
+      "inicio": 15.36,
+      "fin": 15.84
+    },
+    {
+      "texto": "y",
+      "inicio": 15.96,
+      "fin": 16.08
+    },
+    {
+      "texto": "un",
+      "inicio": 16.107,
+      "fin": 16.16
+    },
+    {
+      "texto": "código",
+      "inicio": 16.24,
+      "fin": 16.72
+    },
+    {
+      "texto": "QR.",
+      "inicio": 16.907,
+      "fin": 17.36
+    },
+    {
+      "texto": "Y",
+      "inicio": 17.76,
+      "fin": 18.16
+    },
+    {
+      "texto": "abajo",
+      "inicio": 18.213,
+      "fin": 18.64
+    },
+    {
+      "texto": "verás",
+      "inicio": 18.72,
+      "fin": 19.12
+    },
+    {
+      "texto": "el",
+      "inicio": 19.147,
+      "fin": 19.2
+    },
+    {
+      "texto": "indicador",
+      "inicio": 19.253,
+      "fin": 19.84
+    },
+    {
+      "texto": "de",
+      "inicio": 19.867,
+      "fin": 19.92
+    },
+    {
+      "texto": "que",
+      "inicio": 19.94,
+      "fin": 20.0
+    },
+    {
+      "texto": "el",
+      "inicio": 20.053,
+      "fin": 20.16
+    },
+    {
+      "texto": "control",
+      "inicio": 20.21,
+      "fin": 20.56
+    },
+    {
+      "texto": "remoto",
+      "inicio": 20.62,
+      "fin": 20.96
+    },
+    {
+      "texto": "está",
+      "inicio": 21.008,
+      "fin": 21.2
+    },
+    {
+      "texto": "activo.",
+      "inicio": 21.267,
+      "fin": 21.84
+    },
+    {
+      "texto": "Tu",
+      "inicio": 22.053,
+      "fin": 22.48
+    },
+    {
+      "texto": "sesión",
+      "inicio": 22.56,
+      "fin": 23.04
+    },
+    {
+      "texto": "ya",
+      "inicio": 23.147,
+      "fin": 23.36
+    },
+    {
+      "texto": "se",
+      "inicio": 23.413,
+      "fin": 23.52
+    },
+    {
+      "texto": "puede",
+      "inicio": 23.56,
+      "fin": 23.76
+    },
+    {
+      "texto": "manejar",
+      "inicio": 23.824,
+      "fin": 24.24
+    },
+    {
+      "texto": "desde",
+      "inicio": 24.293,
+      "fin": 24.56
+    },
+    {
+      "texto": "otro",
+      "inicio": 24.624,
+      "fin": 24.88
+    },
+    {
+      "texto": "dispositivo.",
+      "inicio": 24.953,
+      "fin": 25.84
+    }
+  ]
+}

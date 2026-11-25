@@ -1,0 +1,255 @@
+{
+  "num": "10",
+  "titulo": "Ronda 3: el total por ciudad",
+  "texto": "Ronda tres: el total por ciudad. Las dos dieron los números correctos: Bogotá cuatro mil trescientos ochenta, Medellín cuatro mil veinte, Cali mil quinientos cincuenta, y ochocientos veinte sin ciudad. ChatGPT propuso SUMAR.SI escribiendo las ciudades a mano; Claude, un AGRUPARPOR que se actualiza solo. Los dos funcionan. Empate.",
+  "texto_tts": "Ronda tres: el total por ciudad. Las dos dieron los números correctos: Bogotá cuatro mil trescientos ochenta, Medellín cuatro mil veinte, Cali mil quinientos cincuenta, y ochocientos veinte sin ciudad. ChatGPT propuso SUMAR.SI escribiendo las ciudades a mano; Claude, un AGRUPARPOR que se actualiza solo. Los dos funcionan. Empate.",
+  "modelo": "eleven_v3",
+  "duracion": 30.88,
+  "palabras": [
+    {
+      "texto": "Ronda",
+      "inicio": 0.0,
+      "fin": 0.4
+    },
+    {
+      "texto": "tres:",
+      "inicio": 0.48,
+      "fin": 0.88
+    },
+    {
+      "texto": "el",
+      "inicio": 1.04,
+      "fin": 1.36
+    },
+    {
+      "texto": "total",
+      "inicio": 1.427,
+      "fin": 1.76
+    },
+    {
+      "texto": "por",
+      "inicio": 1.82,
+      "fin": 2.0
+    },
+    {
+      "texto": "ciudad.",
+      "inicio": 2.069,
+      "fin": 2.56
+    },
+    {
+      "texto": "Las",
+      "inicio": 2.7,
+      "fin": 3.12
+    },
+    {
+      "texto": "dos",
+      "inicio": 3.16,
+      "fin": 3.28
+    },
+    {
+      "texto": "dieron",
+      "inicio": 3.32,
+      "fin": 3.6
+    },
+    {
+      "texto": "los",
+      "inicio": 3.64,
+      "fin": 3.76
+    },
+    {
+      "texto": "números",
+      "inicio": 3.8,
+      "fin": 4.08
+    },
+    {
+      "texto": "correctos:",
+      "inicio": 4.15,
+      "fin": 4.96
+    },
+    {
+      "texto": "Bogotá",
+      "inicio": 5.0,
+      "fin": 5.76
+    },
+    {
+      "texto": "cuatro",
+      "inicio": 5.886,
+      "fin": 6.64
+    },
+    {
+      "texto": "mil",
+      "inicio": 6.7,
+      "fin": 6.88
+    },
+    {
+      "texto": "trescientos",
+      "inicio": 6.944,
+      "fin": 7.52
+    },
+    {
+      "texto": "ochenta,",
+      "inicio": 7.6,
+      "fin": 8.56
+    },
+    {
+      "texto": "Medellín",
+      "inicio": 8.6,
+      "fin": 9.12
+    },
+    {
+      "texto": "cuatro",
+      "inicio": 9.166,
+      "fin": 9.44
+    },
+    {
+      "texto": "mil",
+      "inicio": 9.5,
+      "fin": 9.68
+    },
+    {
+      "texto": "veinte,",
+      "inicio": 9.76,
+      "fin": 10.48
+    },
+    {
+      "texto": "Cali",
+      "inicio": 10.68,
+      "fin": 11.44
+    },
+    {
+      "texto": "mil",
+      "inicio": 11.52,
+      "fin": 11.76
+    },
+    {
+      "texto": "quinientos",
+      "inicio": 11.84,
+      "fin": 12.48
+    },
+    {
+      "texto": "cincuenta,",
+      "inicio": 12.52,
+      "fin": 13.52
+    },
+    {
+      "texto": "y",
+      "inicio": 13.8,
+      "fin": 14.08
+    },
+    {
+      "texto": "ochocientos",
+      "inicio": 14.18,
+      "fin": 15.04
+    },
+    {
+      "texto": "veinte",
+      "inicio": 15.12,
+      "fin": 15.6
+    },
+    {
+      "texto": "sin",
+      "inicio": 15.76,
+      "fin": 16.24
+    },
+    {
+      "texto": "ciudad.",
+      "inicio": 16.309,
+      "fin": 16.88
+    },
+    {
+      "texto": "ChatGPT",
+      "inicio": 17.152,
+      "fin": 18.72
+    },
+    {
+      "texto": "propuso",
+      "inicio": 18.784,
+      "fin": 19.36
+    },
+    {
+      "texto": "SUMAR.SI",
+      "inicio": 19.5,
+      "fin": 21.12
+    },
+    {
+      "texto": "escribiendo",
+      "inicio": 21.253,
+      "fin": 22.24
+    },
+    {
+      "texto": "las",
+      "inicio": 22.26,
+      "fin": 22.32
+    },
+    {
+      "texto": "ciudades",
+      "inicio": 22.373,
+      "fin": 22.8
+    },
+    {
+      "texto": "a",
+      "inicio": 22.84,
+      "fin": 22.88
+    },
+    {
+      "texto": "mano;",
+      "inicio": 22.96,
+      "fin": 23.96
+    },
+    {
+      "texto": "Claude,",
+      "inicio": 24.057,
+      "fin": 25.12
+    },
+    {
+      "texto": "un",
+      "inicio": 25.2,
+      "fin": 25.36
+    },
+    {
+      "texto": "AGRUPARPOR",
+      "inicio": 25.52,
+      "fin": 26.4
+    },
+    {
+      "texto": "que",
+      "inicio": 26.46,
+      "fin": 26.64
+    },
+    {
+      "texto": "se",
+      "inicio": 26.693,
+      "fin": 26.8
+    },
+    {
+      "texto": "actualiza",
+      "inicio": 26.857,
+      "fin": 27.36
+    },
+    {
+      "texto": "solo.",
+      "inicio": 27.456,
+      "fin": 27.92
+    },
+    {
+      "texto": "Los",
+      "inicio": 28.18,
+      "fin": 28.96
+    },
+    {
+      "texto": "dos",
+      "inicio": 29.0,
+      "fin": 29.12
+    },
+    {
+      "texto": "funcionan.",
+      "inicio": 29.19,
+      "fin": 29.92
+    },
+    {
+      "texto": "Empate.",
+      "inicio": 30.06,
+      "fin": 30.88
+    }
+  ]
+}

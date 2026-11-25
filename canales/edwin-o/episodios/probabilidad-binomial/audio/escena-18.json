@@ -1,0 +1,250 @@
+{
+  "num": "18",
+  "titulo": "Detrás de la fórmula",
+  "texto": "Si te da curiosidad qué hay detrás: COMBINAT de cinco en tres da diez. Son las diez formas distintas de meter tres penales de cinco. Cada forma tiene su probabilidad, y la binomial las suma todas. Eso es lo que hace la función por ti, en un instante.",
+  "texto_tts": "Si te da curiosidad qué hay detrás: COMBINAT de cinco en tres da diez. Son las diez formas distintas de meter tres penales de cinco. Cada forma tiene su probabilidad, y la binomial las suma todas. Eso es lo que hace la función por ti, en un instante.",
+  "modelo": "eleven_v3",
+  "duracion": 19.92,
+  "palabras": [
+    {
+      "texto": "Si",
+      "inicio": 0.0,
+      "fin": 0.16
+    },
+    {
+      "texto": "te",
+      "inicio": 0.187,
+      "fin": 0.24
+    },
+    {
+      "texto": "da",
+      "inicio": 0.293,
+      "fin": 0.4
+    },
+    {
+      "texto": "curiosidad",
+      "inicio": 0.44,
+      "fin": 1.12
+    },
+    {
+      "texto": "qué",
+      "inicio": 1.2,
+      "fin": 1.44
+    },
+    {
+      "texto": "hay",
+      "inicio": 1.48,
+      "fin": 1.6
+    },
+    {
+      "texto": "detrás:",
+      "inicio": 1.648,
+      "fin": 2.72
+    },
+    {
+      "texto": "COMBINAT",
+      "inicio": 2.76,
+      "fin": 3.28
+    },
+    {
+      "texto": "de",
+      "inicio": 3.36,
+      "fin": 3.52
+    },
+    {
+      "texto": "cinco",
+      "inicio": 3.587,
+      "fin": 3.92
+    },
+    {
+      "texto": "en",
+      "inicio": 3.973,
+      "fin": 4.08
+    },
+    {
+      "texto": "tres",
+      "inicio": 4.144,
+      "fin": 4.4
+    },
+    {
+      "texto": "da",
+      "inicio": 4.533,
+      "fin": 4.8
+    },
+    {
+      "texto": "diez.",
+      "inicio": 4.86,
+      "fin": 5.36
+    },
+    {
+      "texto": "Son",
+      "inicio": 5.56,
+      "fin": 6.16
+    },
+    {
+      "texto": "las",
+      "inicio": 6.2,
+      "fin": 6.32
+    },
+    {
+      "texto": "diez",
+      "inicio": 6.38,
+      "fin": 6.8
+    },
+    {
+      "texto": "formas",
+      "inicio": 6.834,
+      "fin": 7.04
+    },
+    {
+      "texto": "distintas",
+      "inicio": 7.11,
+      "fin": 7.76
+    },
+    {
+      "texto": "de",
+      "inicio": 7.84,
+      "fin": 8.0
+    },
+    {
+      "texto": "meter",
+      "inicio": 8.067,
+      "fin": 8.4
+    },
+    {
+      "texto": "tres",
+      "inicio": 8.448,
+      "fin": 8.64
+    },
+    {
+      "texto": "penales",
+      "inicio": 8.7,
+      "fin": 9.12
+    },
+    {
+      "texto": "de",
+      "inicio": 9.147,
+      "fin": 9.2
+    },
+    {
+      "texto": "cinco.",
+      "inicio": 9.28,
+      "fin": 9.76
+    },
+    {
+      "texto": "Cada",
+      "inicio": 10.24,
+      "fin": 10.88
+    },
+    {
+      "texto": "forma",
+      "inicio": 10.96,
+      "fin": 11.36
+    },
+    {
+      "texto": "tiene",
+      "inicio": 11.427,
+      "fin": 11.76
+    },
+    {
+      "texto": "su",
+      "inicio": 11.787,
+      "fin": 11.84
+    },
+    {
+      "texto": "probabilidad,",
+      "inicio": 11.904,
+      "fin": 13.28
+    },
+    {
+      "texto": "y",
+      "inicio": 13.32,
+      "fin": 13.36
+    },
+    {
+      "texto": "la",
+      "inicio": 13.413,
+      "fin": 13.52
+    },
+    {
+      "texto": "binomial",
+      "inicio": 13.58,
+      "fin": 14.32
+    },
+    {
+      "texto": "las",
+      "inicio": 14.38,
+      "fin": 14.56
+    },
+    {
+      "texto": "suma",
+      "inicio": 14.624,
+      "fin": 14.88
+    },
+    {
+      "texto": "todas.",
+      "inicio": 14.96,
+      "fin": 15.88
+    },
+    {
+      "texto": "Eso",
+      "inicio": 16.14,
+      "fin": 16.64
+    },
+    {
+      "texto": "es",
+      "inicio": 16.72,
+      "fin": 16.88
+    },
+    {
+      "texto": "lo",
+      "inicio": 16.933,
+      "fin": 17.04
+    },
+    {
+      "texto": "que",
+      "inicio": 17.06,
+      "fin": 17.12
+    },
+    {
+      "texto": "hace",
+      "inicio": 17.168,
+      "fin": 17.36
+    },
+    {
+      "texto": "la",
+      "inicio": 17.387,
+      "fin": 17.44
+    },
+    {
+      "texto": "función",
+      "inicio": 17.49,
+      "fin": 17.84
+    },
+    {
+      "texto": "por",
+      "inicio": 17.9,
+      "fin": 18.08
+    },
+    {
+      "texto": "ti,",
+      "inicio": 18.16,
+      "fin": 18.88
+    },
+    {
+      "texto": "en",
+      "inicio": 18.933,
+      "fin": 19.04
+    },
+    {
+      "texto": "un",
+      "inicio": 19.093,
+      "fin": 19.2
+    },
+    {
+      "texto": "instante.",
+      "inicio": 19.248,
+      "fin": 19.92
+    }
+  ]
+}

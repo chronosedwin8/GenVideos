@@ -1,0 +1,215 @@
+{
+  "num": "21",
+  "titulo": "Resumen",
+  "texto": "En resumen: Power Query obtiene, transforma y carga tus datos. Cada paso queda grabado en una receta. Y con Actualizar todo, lo que antes te tomaba una hora cada lunes, ahora toma un segundo. Si no lo aprendes ahora, te extingues.",
+  "texto_tts": "En resumen: Power Query obtiene, transforma y carga tus datos. Cada paso queda grabado en una receta. Y con Actualizar todo, lo que antes te tomaba una hora cada lunes, ahora toma un segundo. [serious] Si no lo aprendes ahora, te extingues.",
+  "modelo": "eleven_v3",
+  "duracion": 18.72,
+  "palabras": [
+    {
+      "texto": "En",
+      "inicio": 0.0,
+      "fin": 0.16
+    },
+    {
+      "texto": "resumen:",
+      "inicio": 0.22,
+      "fin": 1.36
+    },
+    {
+      "texto": "Power",
+      "inicio": 1.413,
+      "fin": 1.68
+    },
+    {
+      "texto": "Query",
+      "inicio": 1.747,
+      "fin": 2.08
+    },
+    {
+      "texto": "obtiene,",
+      "inicio": 2.22,
+      "fin": 3.2
+    },
+    {
+      "texto": "transforma",
+      "inicio": 3.264,
+      "fin": 3.92
+    },
+    {
+      "texto": "y",
+      "inicio": 4.04,
+      "fin": 4.16
+    },
+    {
+      "texto": "carga",
+      "inicio": 4.24,
+      "fin": 4.64
+    },
+    {
+      "texto": "tus",
+      "inicio": 4.66,
+      "fin": 4.72
+    },
+    {
+      "texto": "datos.",
+      "inicio": 4.8,
+      "fin": 5.28
+    },
+    {
+      "texto": "Cada",
+      "inicio": 5.6,
+      "fin": 6.08
+    },
+    {
+      "texto": "paso",
+      "inicio": 6.16,
+      "fin": 6.48
+    },
+    {
+      "texto": "queda",
+      "inicio": 6.533,
+      "fin": 6.8
+    },
+    {
+      "texto": "grabado",
+      "inicio": 6.848,
+      "fin": 7.28
+    },
+    {
+      "texto": "en",
+      "inicio": 7.36,
+      "fin": 7.52
+    },
+    {
+      "texto": "una",
+      "inicio": 7.56,
+      "fin": 7.68
+    },
+    {
+      "texto": "receta.",
+      "inicio": 7.74,
+      "fin": 8.24
+    },
+    {
+      "texto": "Y",
+      "inicio": 8.64,
+      "fin": 9.04
+    },
+    {
+      "texto": "con",
+      "inicio": 9.08,
+      "fin": 9.2
+    },
+    {
+      "texto": "Actualizar",
+      "inicio": 9.246,
+      "fin": 9.76
+    },
+    {
+      "texto": "todo,",
+      "inicio": 9.84,
+      "fin": 10.64
+    },
+    {
+      "texto": "lo",
+      "inicio": 10.667,
+      "fin": 10.72
+    },
+    {
+      "texto": "que",
+      "inicio": 10.76,
+      "fin": 10.88
+    },
+    {
+      "texto": "antes",
+      "inicio": 10.933,
+      "fin": 11.2
+    },
+    {
+      "texto": "te",
+      "inicio": 11.227,
+      "fin": 11.28
+    },
+    {
+      "texto": "tomaba",
+      "inicio": 11.32,
+      "fin": 11.68
+    },
+    {
+      "texto": "una",
+      "inicio": 11.76,
+      "fin": 12.0
+    },
+    {
+      "texto": "hora",
+      "inicio": 12.064,
+      "fin": 12.32
+    },
+    {
+      "texto": "cada",
+      "inicio": 12.384,
+      "fin": 12.64
+    },
+    {
+      "texto": "lunes,",
+      "inicio": 12.68,
+      "fin": 13.36
+    },
+    {
+      "texto": "ahora",
+      "inicio": 13.413,
+      "fin": 13.68
+    },
+    {
+      "texto": "toma",
+      "inicio": 13.733,
+      "fin": 14.0
+    },
+    {
+      "texto": "un",
+      "inicio": 14.133,
+      "fin": 14.4
+    },
+    {
+      "texto": "segundo.",
+      "inicio": 14.47,
+      "fin": 15.04
+    },
+    {
+      "texto": "Si",
+      "inicio": 16.204,
+      "fin": 16.24
+    },
+    {
+      "texto": "no",
+      "inicio": 16.293,
+      "fin": 16.4
+    },
+    {
+      "texto": "lo",
+      "inicio": 16.427,
+      "fin": 16.48
+    },
+    {
+      "texto": "aprendes",
+      "inicio": 16.526,
+      "fin": 16.88
+    },
+    {
+      "texto": "ahora,",
+      "inicio": 16.947,
+      "fin": 17.76
+    },
+    {
+      "texto": "te",
+      "inicio": 17.787,
+      "fin": 17.84
+    },
+    {
+      "texto": "extingues.",
+      "inicio": 17.92,
+      "fin": 18.72
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "num": "15",
+  "titulo": "La grabadora de pasos",
+  "texto": "Mira el panel de pasos aplicados: ahí está toda tu limpieza, en orden. Si haces clic en un paso anterior, ves cómo estaban los datos en ese momento. Y si te equivocaste, borras el paso con la equis. Nada se pierde: tus datos originales siguen intactos en la hoja.",
+  "texto_tts": "Mira el panel de pasos aplicados: ahí está toda tu limpieza, en orden. Si haces clic en un paso anterior, ves cómo estaban los datos en ese momento. Y si te equivocaste, borras el paso con la equis. Nada se pierde: tus datos originales siguen intactos en la hoja.",
+  "modelo": "eleven_v3",
+  "duracion": 18.48,
+  "palabras": [
+    {
+      "texto": "Mira",
+      "inicio": 0.0,
+      "fin": 0.16
+    },
+    {
+      "texto": "el",
+      "inicio": 0.187,
+      "fin": 0.24
+    },
+    {
+      "texto": "panel",
+      "inicio": 0.293,
+      "fin": 0.56
+    },
+    {
+      "texto": "de",
+      "inicio": 0.587,
+      "fin": 0.64
+    },
+    {
+      "texto": "pasos",
+      "inicio": 0.7,
+      "fin": 0.96
+    },
+    {
+      "texto": "aplicados:",
+      "inicio": 1.013,
+      "fin": 1.68
+    },
+    {
+      "texto": "ahí",
+      "inicio": 1.733,
+      "fin": 2.0
+    },
+    {
+      "texto": "está",
+      "inicio": 2.032,
+      "fin": 2.16
+    },
+    {
+      "texto": "toda",
+      "inicio": 2.256,
+      "fin": 2.64
+    },
+    {
+      "texto": "tu",
+      "inicio": 2.693,
+      "fin": 2.8
+    },
+    {
+      "texto": "limpieza,",
+      "inicio": 2.86,
+      "fin": 3.6
+    },
+    {
+      "texto": "en",
+      "inicio": 3.653,
+      "fin": 3.76
+    },
+    {
+      "texto": "orden.",
+      "inicio": 3.84,
+      "fin": 4.32
+    },
+    {
+      "texto": "Si",
+      "inicio": 4.693,
+      "fin": 5.44
+    },
+    {
+      "texto": "haces",
+      "inicio": 5.48,
+      "fin": 5.76
+    },
+    {
+      "texto": "clic",
+      "inicio": 5.808,
+      "fin": 6.0
+    },
+    {
+      "texto": "en",
+      "inicio": 6.027,
+      "fin": 6.08
+    },
+    {
+      "texto": "un",
+      "inicio": 6.133,
+      "fin": 6.24
+    },
+    {
+      "texto": "paso",
+      "inicio": 6.288,
+      "fin": 6.48
+    },
+    {
+      "texto": "anterior,",
+      "inicio": 6.533,
+      "fin": 7.44
+    },
+    {
+      "texto": "ves",
+      "inicio": 7.5,
+      "fin": 7.68
+    },
+    {
+      "texto": "cómo",
+      "inicio": 7.712,
+      "fin": 7.84
+    },
+    {
+      "texto": "estaban",
+      "inicio": 7.88,
+      "fin": 8.24
+    },
+    {
+      "texto": "los",
+      "inicio": 8.26,
+      "fin": 8.32
+    },
+    {
+      "texto": "datos",
+      "inicio": 8.387,
+      "fin": 8.72
+    },
+    {
+      "texto": "en",
+      "inicio": 8.747,
+      "fin": 8.8
+    },
+    {
+      "texto": "ese",
+      "inicio": 8.86,
+      "fin": 9.04
+    },
+    {
+      "texto": "momento.",
+      "inicio": 9.1,
+      "fin": 9.68
+    },
+    {
+      "texto": "Y",
+      "inicio": 10.04,
+      "fin": 10.4
+    },
+    {
+      "texto": "si",
+      "inicio": 10.453,
+      "fin": 10.56
+    },
+    {
+      "texto": "te",
+      "inicio": 10.587,
+      "fin": 10.64
+    },
+    {
+      "texto": "equivocaste,",
+      "inicio": 10.68,
+      "fin": 11.76
+    },
+    {
+      "texto": "borras",
+      "inicio": 11.8,
+      "fin": 12.08
+    },
+    {
+      "texto": "el",
+      "inicio": 12.107,
+      "fin": 12.16
+    },
+    {
+      "texto": "paso",
+      "inicio": 12.224,
+      "fin": 12.48
+    },
+    {
+      "texto": "con",
+      "inicio": 12.5,
+      "fin": 12.56
+    },
+    {
+      "texto": "la",
+      "inicio": 12.613,
+      "fin": 12.72
+    },
+    {
+      "texto": "equis.",
+      "inicio": 12.8,
+      "fin": 13.28
+    },
+    {
+      "texto": "Nada",
+      "inicio": 13.68,
+      "fin": 14.32
+    },
+    {
+      "texto": "se",
+      "inicio": 14.4,
+      "fin": 14.56
+    },
+    {
+      "texto": "pierde:",
+      "inicio": 14.624,
+      "fin": 15.6
+    },
+    {
+      "texto": "tus",
+      "inicio": 15.64,
+      "fin": 15.76
+    },
+    {
+      "texto": "datos",
+      "inicio": 15.813,
+      "fin": 16.08
+    },
+    {
+      "texto": "originales",
+      "inicio": 16.128,
+      "fin": 16.8
+    },
+    {
+      "texto": "siguen",
+      "inicio": 16.88,
+      "fin": 17.28
+    },
+    {
+      "texto": "intactos",
+      "inicio": 17.349,
+      "fin": 17.84
+    },
+    {
+      "texto": "en",
+      "inicio": 17.893,
+      "fin": 18.0
+    },
+    {
+      "texto": "la",
+      "inicio": 18.027,
+      "fin": 18.08
+    },
+    {
+      "texto": "hoja.",
+      "inicio": 18.16,
+      "fin": 18.48
+    }
+  ]
+}

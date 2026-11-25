@@ -1,0 +1,285 @@
+{
+  "num": "15",
+  "titulo": "Varita 2: la IA dentro de Excel",
+  "texto": "Segunda varita: la IA dentro de Excel. Con Copilot, con ChatGPT para Excel o con Claude para Excel, escribes el mismo pedido en un panel al lado de tu hoja, y la IA hace los cambios directamente. ChatGPT, por ejemplo, te pide permiso antes de modificar tu libro. Aun así, revisa siempre lo que cambió.",
+  "texto_tts": "Segunda varita: la IA dentro de Excel. Con Copilot, con ChatGPT para Excel o con Claude para Excel, escribes el mismo pedido en un panel al lado de tu hoja, y la IA hace los cambios directamente. ChatGPT, por ejemplo, te pide permiso antes de modificar tu libro. Aun así, revisa siempre lo que cambió.",
+  "modelo": "eleven_v3",
+  "duracion": 22.88,
+  "palabras": [
+    {
+      "texto": "Segunda",
+      "inicio": 0.0,
+      "fin": 0.32
+    },
+    {
+      "texto": "varita:",
+      "inicio": 0.36,
+      "fin": 0.88
+    },
+    {
+      "texto": "la",
+      "inicio": 1.04,
+      "fin": 1.36
+    },
+    {
+      "texto": "IA",
+      "inicio": 1.493,
+      "fin": 1.76
+    },
+    {
+      "texto": "dentro",
+      "inicio": 1.851,
+      "fin": 2.4
+    },
+    {
+      "texto": "de",
+      "inicio": 2.427,
+      "fin": 2.48
+    },
+    {
+      "texto": "Excel.",
+      "inicio": 2.547,
+      "fin": 3.04
+    },
+    {
+      "texto": "Con",
+      "inicio": 3.32,
+      "fin": 4.16
+    },
+    {
+      "texto": "Copilot,",
+      "inicio": 4.26,
+      "fin": 5.04
+    },
+    {
+      "texto": "con",
+      "inicio": 5.1,
+      "fin": 5.28
+    },
+    {
+      "texto": "ChatGPT",
+      "inicio": 5.36,
+      "fin": 6.08
+    },
+    {
+      "texto": "para",
+      "inicio": 6.112,
+      "fin": 6.24
+    },
+    {
+      "texto": "Excel",
+      "inicio": 6.32,
+      "fin": 6.72
+    },
+    {
+      "texto": "o",
+      "inicio": 6.84,
+      "fin": 6.96
+    },
+    {
+      "texto": "con",
+      "inicio": 7.02,
+      "fin": 7.2
+    },
+    {
+      "texto": "Claude",
+      "inicio": 7.269,
+      "fin": 7.68
+    },
+    {
+      "texto": "para",
+      "inicio": 7.728,
+      "fin": 7.92
+    },
+    {
+      "texto": "Excel,",
+      "inicio": 7.987,
+      "fin": 8.56
+    },
+    {
+      "texto": "escribes",
+      "inicio": 8.773,
+      "fin": 9.52
+    },
+    {
+      "texto": "el",
+      "inicio": 9.573,
+      "fin": 9.68
+    },
+    {
+      "texto": "mismo",
+      "inicio": 9.747,
+      "fin": 10.08
+    },
+    {
+      "texto": "pedido",
+      "inicio": 10.149,
+      "fin": 10.56
+    },
+    {
+      "texto": "en",
+      "inicio": 10.667,
+      "fin": 10.88
+    },
+    {
+      "texto": "un",
+      "inicio": 10.907,
+      "fin": 10.96
+    },
+    {
+      "texto": "panel",
+      "inicio": 11.027,
+      "fin": 11.36
+    },
+    {
+      "texto": "al",
+      "inicio": 11.44,
+      "fin": 11.6
+    },
+    {
+      "texto": "lado",
+      "inicio": 11.648,
+      "fin": 11.84
+    },
+    {
+      "texto": "de",
+      "inicio": 11.867,
+      "fin": 11.92
+    },
+    {
+      "texto": "tu",
+      "inicio": 11.973,
+      "fin": 12.08
+    },
+    {
+      "texto": "hoja,",
+      "inicio": 12.133,
+      "fin": 13.04
+    },
+    {
+      "texto": "y",
+      "inicio": 13.08,
+      "fin": 13.12
+    },
+    {
+      "texto": "la",
+      "inicio": 13.173,
+      "fin": 13.28
+    },
+    {
+      "texto": "IA",
+      "inicio": 13.387,
+      "fin": 13.6
+    },
+    {
+      "texto": "hace",
+      "inicio": 13.664,
+      "fin": 13.92
+    },
+    {
+      "texto": "los",
+      "inicio": 13.94,
+      "fin": 14.0
+    },
+    {
+      "texto": "cambios",
+      "inicio": 14.05,
+      "fin": 14.4
+    },
+    {
+      "texto": "directamente.",
+      "inicio": 14.446,
+      "fin": 15.28
+    },
+    {
+      "texto": "ChatGPT,",
+      "inicio": 15.504,
+      "fin": 16.72
+    },
+    {
+      "texto": "por",
+      "inicio": 16.74,
+      "fin": 16.8
+    },
+    {
+      "texto": "ejemplo,",
+      "inicio": 16.86,
+      "fin": 17.44
+    },
+    {
+      "texto": "te",
+      "inicio": 17.467,
+      "fin": 17.52
+    },
+    {
+      "texto": "pide",
+      "inicio": 17.56,
+      "fin": 17.76
+    },
+    {
+      "texto": "permiso",
+      "inicio": 17.824,
+      "fin": 18.4
+    },
+    {
+      "texto": "antes",
+      "inicio": 18.467,
+      "fin": 18.8
+    },
+    {
+      "texto": "de",
+      "inicio": 18.827,
+      "fin": 18.88
+    },
+    {
+      "texto": "modificar",
+      "inicio": 18.928,
+      "fin": 19.36
+    },
+    {
+      "texto": "tu",
+      "inicio": 19.413,
+      "fin": 19.52
+    },
+    {
+      "texto": "libro.",
+      "inicio": 19.587,
+      "fin": 20.28
+    },
+    {
+      "texto": "Aun",
+      "inicio": 20.46,
+      "fin": 20.72
+    },
+    {
+      "texto": "así,",
+      "inicio": 20.8,
+      "fin": 21.2
+    },
+    {
+      "texto": "revisa",
+      "inicio": 21.253,
+      "fin": 21.6
+    },
+    {
+      "texto": "siempre",
+      "inicio": 21.66,
+      "fin": 22.08
+    },
+    {
+      "texto": "lo",
+      "inicio": 22.16,
+      "fin": 22.32
+    },
+    {
+      "texto": "que",
+      "inicio": 22.34,
+      "fin": 22.4
+    },
+    {
+      "texto": "cambió.",
+      "inicio": 22.448,
+      "fin": 22.88
+    }
+  ]
+}

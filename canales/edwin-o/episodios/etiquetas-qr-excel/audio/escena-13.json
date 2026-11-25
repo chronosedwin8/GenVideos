@@ -1,0 +1,290 @@
+{
+  "num": "13",
+  "titulo": "Paso 5: la hoja de etiquetas",
+  "texto": "Paso cinco: las etiquetas para imprimir. Arma una hoja con una celda por dato: el QR, el código, el producto, la ubicación y el código de barras, con un borde punteado para recortar. En Diseño de página pon márgenes estrechos, y ajusta todo a una página de ancho. Imprime en papel adhesivo, recorta, y a pegar.",
+  "texto_tts": "Paso cinco: las etiquetas para imprimir. Arma una hoja con una celda por dato: el QR, el código, el producto, la ubicación y el código de barras, con un borde punteado para recortar. En Diseño de página pon márgenes estrechos, y ajusta todo a una página de ancho. Imprime en papel adhesivo, recorta, y a pegar.",
+  "modelo": "eleven_v3",
+  "duracion": 27.04,
+  "palabras": [
+    {
+      "texto": "Paso",
+      "inicio": 0.0,
+      "fin": 0.32
+    },
+    {
+      "texto": "cinco:",
+      "inicio": 0.387,
+      "fin": 0.8
+    },
+    {
+      "texto": "las",
+      "inicio": 0.92,
+      "fin": 1.28
+    },
+    {
+      "texto": "etiquetas",
+      "inicio": 1.347,
+      "fin": 1.92
+    },
+    {
+      "texto": "para",
+      "inicio": 1.984,
+      "fin": 2.24
+    },
+    {
+      "texto": "imprimir.",
+      "inicio": 2.302,
+      "fin": 2.96
+    },
+    {
+      "texto": "Arma",
+      "inicio": 3.253,
+      "fin": 4.0
+    },
+    {
+      "texto": "una",
+      "inicio": 4.04,
+      "fin": 4.16
+    },
+    {
+      "texto": "hoja",
+      "inicio": 4.213,
+      "fin": 4.48
+    },
+    {
+      "texto": "con",
+      "inicio": 4.56,
+      "fin": 4.8
+    },
+    {
+      "texto": "una",
+      "inicio": 4.84,
+      "fin": 4.96
+    },
+    {
+      "texto": "celda",
+      "inicio": 5.04,
+      "fin": 5.44
+    },
+    {
+      "texto": "por",
+      "inicio": 5.48,
+      "fin": 5.6
+    },
+    {
+      "texto": "dato:",
+      "inicio": 5.68,
+      "fin": 6.56
+    },
+    {
+      "texto": "el",
+      "inicio": 6.613,
+      "fin": 6.72
+    },
+    {
+      "texto": "QR,",
+      "inicio": 6.907,
+      "fin": 7.68
+    },
+    {
+      "texto": "el",
+      "inicio": 7.707,
+      "fin": 7.76
+    },
+    {
+      "texto": "código,",
+      "inicio": 7.851,
+      "fin": 8.88
+    },
+    {
+      "texto": "el",
+      "inicio": 8.907,
+      "fin": 8.96
+    },
+    {
+      "texto": "producto,",
+      "inicio": 9.04,
+      "fin": 10.08
+    },
+    {
+      "texto": "la",
+      "inicio": 10.107,
+      "fin": 10.16
+    },
+    {
+      "texto": "ubicación",
+      "inicio": 10.224,
+      "fin": 10.88
+    },
+    {
+      "texto": "y",
+      "inicio": 11.12,
+      "fin": 11.36
+    },
+    {
+      "texto": "el",
+      "inicio": 11.387,
+      "fin": 11.44
+    },
+    {
+      "texto": "código",
+      "inicio": 11.497,
+      "fin": 11.84
+    },
+    {
+      "texto": "de",
+      "inicio": 11.893,
+      "fin": 12.0
+    },
+    {
+      "texto": "barras,",
+      "inicio": 12.048,
+      "fin": 12.48
+    },
+    {
+      "texto": "con",
+      "inicio": 12.68,
+      "fin": 13.28
+    },
+    {
+      "texto": "un",
+      "inicio": 13.333,
+      "fin": 13.44
+    },
+    {
+      "texto": "borde",
+      "inicio": 13.5,
+      "fin": 13.76
+    },
+    {
+      "texto": "punteado",
+      "inicio": 13.82,
+      "fin": 14.32
+    },
+    {
+      "texto": "para",
+      "inicio": 14.368,
+      "fin": 14.56
+    },
+    {
+      "texto": "recortar.",
+      "inicio": 14.62,
+      "fin": 15.36
+    },
+    {
+      "texto": "En",
+      "inicio": 15.653,
+      "fin": 16.24
+    },
+    {
+      "texto": "Diseño",
+      "inicio": 16.288,
+      "fin": 16.64
+    },
+    {
+      "texto": "de",
+      "inicio": 16.667,
+      "fin": 16.72
+    },
+    {
+      "texto": "página",
+      "inicio": 16.8,
+      "fin": 17.28
+    },
+    {
+      "texto": "pon",
+      "inicio": 17.44,
+      "fin": 17.92
+    },
+    {
+      "texto": "márgenes",
+      "inicio": 18.0,
+      "fin": 18.56
+    },
+    {
+      "texto": "estrechos,",
+      "inicio": 18.62,
+      "fin": 19.52
+    },
+    {
+      "texto": "y",
+      "inicio": 19.72,
+      "fin": 19.92
+    },
+    {
+      "texto": "ajusta",
+      "inicio": 19.987,
+      "fin": 20.4
+    },
+    {
+      "texto": "todo",
+      "inicio": 20.48,
+      "fin": 20.8
+    },
+    {
+      "texto": "a",
+      "inicio": 20.92,
+      "fin": 21.04
+    },
+    {
+      "texto": "una",
+      "inicio": 21.1,
+      "fin": 21.28
+    },
+    {
+      "texto": "página",
+      "inicio": 21.337,
+      "fin": 21.68
+    },
+    {
+      "texto": "de",
+      "inicio": 21.707,
+      "fin": 21.76
+    },
+    {
+      "texto": "ancho.",
+      "inicio": 21.867,
+      "fin": 22.4
+    },
+    {
+      "texto": "Imprime",
+      "inicio": 22.773,
+      "fin": 23.76
+    },
+    {
+      "texto": "en",
+      "inicio": 23.813,
+      "fin": 23.92
+    },
+    {
+      "texto": "papel",
+      "inicio": 23.96,
+      "fin": 24.16
+    },
+    {
+      "texto": "adhesivo,",
+      "inicio": 24.213,
+      "fin": 24.88
+    },
+    {
+      "texto": "recorta,",
+      "inicio": 25.04,
+      "fin": 25.92
+    },
+    {
+      "texto": "y",
+      "inicio": 26.12,
+      "fin": 26.32
+    },
+    {
+      "texto": "a",
+      "inicio": 26.36,
+      "fin": 26.4
+    },
+    {
+      "texto": "pegar.",
+      "inicio": 26.46,
+      "fin": 27.04
+    }
+  ]
+}

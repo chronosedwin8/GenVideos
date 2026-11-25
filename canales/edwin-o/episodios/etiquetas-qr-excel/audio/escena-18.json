@@ -1,0 +1,330 @@
+{
+  "num": "18",
+  "titulo": "Si no te funcionó",
+  "texto": "Si no te funcionó: numeral nombre significa que tu versión no tiene la función IMAGEN; usa la fuente. Numeral conectar es un problema de internet. Numeral bloqueado aparece cuando tu Excel tiene bloqueadas las imágenes vinculadas, y se activa en el Centro de confianza. Y recuerda que la dirección debe empezar con h t t p s, porque Excel bloquea las direcciones que redirigen.",
+  "texto_tts": "Si no te funcionó: numeral nombre significa que tu versión no tiene la función IMAGEN; usa la fuente. Numeral conectar es un problema de internet. Numeral bloqueado aparece cuando tu Excel tiene bloqueadas las imágenes vinculadas, y se activa en el Centro de confianza. Y recuerda que la dirección debe empezar con h t t p s, porque Excel bloquea las direcciones que redirigen.",
+  "modelo": "eleven_v3",
+  "duracion": 28.48,
+  "palabras": [
+    {
+      "texto": "Si",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "no",
+      "inicio": 0.133,
+      "fin": 0.24
+    },
+    {
+      "texto": "te",
+      "inicio": 0.293,
+      "fin": 0.4
+    },
+    {
+      "texto": "funcionó:",
+      "inicio": 0.46,
+      "fin": 1.04
+    },
+    {
+      "texto": "numeral",
+      "inicio": 1.14,
+      "fin": 1.84
+    },
+    {
+      "texto": "nombre",
+      "inicio": 1.909,
+      "fin": 2.32
+    },
+    {
+      "texto": "significa",
+      "inicio": 2.392,
+      "fin": 3.04
+    },
+    {
+      "texto": "que",
+      "inicio": 3.06,
+      "fin": 3.12
+    },
+    {
+      "texto": "tu",
+      "inicio": 3.173,
+      "fin": 3.28
+    },
+    {
+      "texto": "versión",
+      "inicio": 3.33,
+      "fin": 3.68
+    },
+    {
+      "texto": "no",
+      "inicio": 3.813,
+      "fin": 4.08
+    },
+    {
+      "texto": "tiene",
+      "inicio": 4.147,
+      "fin": 4.48
+    },
+    {
+      "texto": "la",
+      "inicio": 4.507,
+      "fin": 4.56
+    },
+    {
+      "texto": "función",
+      "inicio": 4.61,
+      "fin": 4.96
+    },
+    {
+      "texto": "IMAGEN;",
+      "inicio": 5.013,
+      "fin": 6.24
+    },
+    {
+      "texto": "usa",
+      "inicio": 6.3,
+      "fin": 6.48
+    },
+    {
+      "texto": "la",
+      "inicio": 6.533,
+      "fin": 6.64
+    },
+    {
+      "texto": "fuente.",
+      "inicio": 6.693,
+      "fin": 7.2
+    },
+    {
+      "texto": "Numeral",
+      "inicio": 7.52,
+      "fin": 8.64
+    },
+    {
+      "texto": "conectar",
+      "inicio": 8.711,
+      "fin": 9.28
+    },
+    {
+      "texto": "es",
+      "inicio": 9.413,
+      "fin": 9.68
+    },
+    {
+      "texto": "un",
+      "inicio": 9.707,
+      "fin": 9.76
+    },
+    {
+      "texto": "problema",
+      "inicio": 9.804,
+      "fin": 10.16
+    },
+    {
+      "texto": "de",
+      "inicio": 10.187,
+      "fin": 10.24
+    },
+    {
+      "texto": "internet.",
+      "inicio": 10.311,
+      "fin": 11.04
+    },
+    {
+      "texto": "Numeral",
+      "inicio": 11.34,
+      "fin": 12.4
+    },
+    {
+      "texto": "bloqueado",
+      "inicio": 12.457,
+      "fin": 13.12
+    },
+    {
+      "texto": "aparece",
+      "inicio": 13.227,
+      "fin": 13.92
+    },
+    {
+      "texto": "cuando",
+      "inicio": 13.954,
+      "fin": 14.16
+    },
+    {
+      "texto": "tu",
+      "inicio": 14.213,
+      "fin": 14.32
+    },
+    {
+      "texto": "Excel",
+      "inicio": 14.387,
+      "fin": 14.72
+    },
+    {
+      "texto": "tiene",
+      "inicio": 14.773,
+      "fin": 15.04
+    },
+    {
+      "texto": "bloqueadas",
+      "inicio": 15.086,
+      "fin": 15.6
+    },
+    {
+      "texto": "las",
+      "inicio": 15.64,
+      "fin": 15.76
+    },
+    {
+      "texto": "imágenes",
+      "inicio": 15.813,
+      "fin": 16.24
+    },
+    {
+      "texto": "vinculadas,",
+      "inicio": 16.288,
+      "fin": 17.12
+    },
+    {
+      "texto": "y",
+      "inicio": 17.44,
+      "fin": 17.76
+    },
+    {
+      "texto": "se",
+      "inicio": 17.813,
+      "fin": 17.92
+    },
+    {
+      "texto": "activa",
+      "inicio": 17.973,
+      "fin": 18.32
+    },
+    {
+      "texto": "en",
+      "inicio": 18.427,
+      "fin": 18.64
+    },
+    {
+      "texto": "el",
+      "inicio": 18.667,
+      "fin": 18.72
+    },
+    {
+      "texto": "Centro",
+      "inicio": 18.777,
+      "fin": 19.12
+    },
+    {
+      "texto": "de",
+      "inicio": 19.147,
+      "fin": 19.2
+    },
+    {
+      "texto": "confianza.",
+      "inicio": 19.264,
+      "fin": 20.0
+    },
+    {
+      "texto": "Y",
+      "inicio": 20.52,
+      "fin": 21.04
+    },
+    {
+      "texto": "recuerda",
+      "inicio": 21.1,
+      "fin": 21.52
+    },
+    {
+      "texto": "que",
+      "inicio": 21.54,
+      "fin": 21.6
+    },
+    {
+      "texto": "la",
+      "inicio": 21.627,
+      "fin": 21.68
+    },
+    {
+      "texto": "dirección",
+      "inicio": 21.736,
+      "fin": 22.24
+    },
+    {
+      "texto": "debe",
+      "inicio": 22.288,
+      "fin": 22.48
+    },
+    {
+      "texto": "empezar",
+      "inicio": 22.533,
+      "fin": 22.88
+    },
+    {
+      "texto": "con",
+      "inicio": 22.94,
+      "fin": 23.12
+    },
+    {
+      "texto": "h",
+      "inicio": 23.4,
+      "fin": 23.68
+    },
+    {
+      "texto": "t",
+      "inicio": 23.8,
+      "fin": 23.92
+    },
+    {
+      "texto": "t",
+      "inicio": 24.04,
+      "fin": 24.16
+    },
+    {
+      "texto": "p",
+      "inicio": 24.32,
+      "fin": 24.48
+    },
+    {
+      "texto": "s,",
+      "inicio": 24.64,
+      "fin": 25.04
+    },
+    {
+      "texto": "porque",
+      "inicio": 25.166,
+      "fin": 25.92
+    },
+    {
+      "texto": "Excel",
+      "inicio": 26.0,
+      "fin": 26.4
+    },
+    {
+      "texto": "bloquea",
+      "inicio": 26.469,
+      "fin": 26.96
+    },
+    {
+      "texto": "las",
+      "inicio": 26.98,
+      "fin": 27.04
+    },
+    {
+      "texto": "direcciones",
+      "inicio": 27.088,
+      "fin": 27.68
+    },
+    {
+      "texto": "que",
+      "inicio": 27.7,
+      "fin": 27.76
+    },
+    {
+      "texto": "redirigen.",
+      "inicio": 27.82,
+      "fin": 28.48
+    }
+  ]
+}

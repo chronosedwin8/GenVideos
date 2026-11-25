@@ -1,0 +1,285 @@
+{
+  "num": "05",
+  "titulo": "Los datos",
+  "texto": "Estos son los datos. En la hoja Ene hay seis pedidos, con el número de pedido, el código del cliente y el monto. En la hoja Feb, otros seis, con la misma estructura. Y en la hoja Clientes, cinco clientes, con su código, su nombre y su ciudad. Queremos juntar todo en una sola tabla.",
+  "texto_tts": "Estos son los datos. En la hoja Ene hay seis pedidos, con el número de pedido, el código del cliente y el monto. En la hoja Feb, otros seis, con la misma estructura. Y en la hoja Clientes, cinco clientes, con su código, su nombre y su ciudad. Queremos juntar todo en una sola tabla.",
+  "modelo": "eleven_v3",
+  "duracion": 19.04,
+  "palabras": [
+    {
+      "texto": "Estos",
+      "inicio": 0.0,
+      "fin": 0.24
+    },
+    {
+      "texto": "son",
+      "inicio": 0.28,
+      "fin": 0.4
+    },
+    {
+      "texto": "los",
+      "inicio": 0.44,
+      "fin": 0.56
+    },
+    {
+      "texto": "datos.",
+      "inicio": 0.653,
+      "fin": 1.48
+    },
+    {
+      "texto": "En",
+      "inicio": 1.6,
+      "fin": 1.84
+    },
+    {
+      "texto": "la",
+      "inicio": 1.867,
+      "fin": 1.92
+    },
+    {
+      "texto": "hoja",
+      "inicio": 1.973,
+      "fin": 2.24
+    },
+    {
+      "texto": "Ene",
+      "inicio": 2.36,
+      "fin": 2.64
+    },
+    {
+      "texto": "hay",
+      "inicio": 2.72,
+      "fin": 2.96
+    },
+    {
+      "texto": "seis",
+      "inicio": 3.024,
+      "fin": 3.28
+    },
+    {
+      "texto": "pedidos,",
+      "inicio": 3.34,
+      "fin": 4.08
+    },
+    {
+      "texto": "con",
+      "inicio": 4.12,
+      "fin": 4.24
+    },
+    {
+      "texto": "el",
+      "inicio": 4.267,
+      "fin": 4.32
+    },
+    {
+      "texto": "número",
+      "inicio": 4.366,
+      "fin": 4.64
+    },
+    {
+      "texto": "de",
+      "inicio": 4.693,
+      "fin": 4.8
+    },
+    {
+      "texto": "pedido,",
+      "inicio": 4.869,
+      "fin": 5.44
+    },
+    {
+      "texto": "el",
+      "inicio": 5.493,
+      "fin": 5.6
+    },
+    {
+      "texto": "código",
+      "inicio": 5.657,
+      "fin": 6.0
+    },
+    {
+      "texto": "del",
+      "inicio": 6.02,
+      "fin": 6.08
+    },
+    {
+      "texto": "cliente",
+      "inicio": 6.14,
+      "fin": 6.56
+    },
+    {
+      "texto": "y",
+      "inicio": 6.6,
+      "fin": 6.64
+    },
+    {
+      "texto": "el",
+      "inicio": 6.693,
+      "fin": 6.8
+    },
+    {
+      "texto": "monto.",
+      "inicio": 6.84,
+      "fin": 7.36
+    },
+    {
+      "texto": "En",
+      "inicio": 7.547,
+      "fin": 7.92
+    },
+    {
+      "texto": "la",
+      "inicio": 7.947,
+      "fin": 8.0
+    },
+    {
+      "texto": "hoja",
+      "inicio": 8.053,
+      "fin": 8.32
+    },
+    {
+      "texto": "Feb,",
+      "inicio": 8.4,
+      "fin": 8.88
+    },
+    {
+      "texto": "otros",
+      "inicio": 8.947,
+      "fin": 9.28
+    },
+    {
+      "texto": "seis,",
+      "inicio": 9.344,
+      "fin": 9.68
+    },
+    {
+      "texto": "con",
+      "inicio": 9.72,
+      "fin": 9.84
+    },
+    {
+      "texto": "la",
+      "inicio": 9.867,
+      "fin": 9.92
+    },
+    {
+      "texto": "misma",
+      "inicio": 9.973,
+      "fin": 10.24
+    },
+    {
+      "texto": "estructura.",
+      "inicio": 10.29,
+      "fin": 10.96
+    },
+    {
+      "texto": "Y",
+      "inicio": 11.24,
+      "fin": 11.52
+    },
+    {
+      "texto": "en",
+      "inicio": 11.547,
+      "fin": 11.6
+    },
+    {
+      "texto": "la",
+      "inicio": 11.627,
+      "fin": 11.68
+    },
+    {
+      "texto": "hoja",
+      "inicio": 11.733,
+      "fin": 11.92
+    },
+    {
+      "texto": "Clientes,",
+      "inicio": 11.989,
+      "fin": 12.8
+    },
+    {
+      "texto": "cinco",
+      "inicio": 12.867,
+      "fin": 13.2
+    },
+    {
+      "texto": "clientes,",
+      "inicio": 13.271,
+      "fin": 13.92
+    },
+    {
+      "texto": "con",
+      "inicio": 13.96,
+      "fin": 14.08
+    },
+    {
+      "texto": "su",
+      "inicio": 14.133,
+      "fin": 14.24
+    },
+    {
+      "texto": "código,",
+      "inicio": 14.309,
+      "fin": 14.88
+    },
+    {
+      "texto": "su",
+      "inicio": 14.933,
+      "fin": 15.04
+    },
+    {
+      "texto": "nombre",
+      "inicio": 15.109,
+      "fin": 15.52
+    },
+    {
+      "texto": "y",
+      "inicio": 15.6,
+      "fin": 15.68
+    },
+    {
+      "texto": "su",
+      "inicio": 15.733,
+      "fin": 15.84
+    },
+    {
+      "texto": "ciudad.",
+      "inicio": 15.909,
+      "fin": 16.4
+    },
+    {
+      "texto": "Queremos",
+      "inicio": 16.667,
+      "fin": 17.44
+    },
+    {
+      "texto": "juntar",
+      "inicio": 17.48,
+      "fin": 17.76
+    },
+    {
+      "texto": "todo",
+      "inicio": 17.824,
+      "fin": 18.08
+    },
+    {
+      "texto": "en",
+      "inicio": 18.107,
+      "fin": 18.16
+    },
+    {
+      "texto": "una",
+      "inicio": 18.2,
+      "fin": 18.32
+    },
+    {
+      "texto": "sola",
+      "inicio": 18.368,
+      "fin": 18.56
+    },
+    {
+      "texto": "tabla.",
+      "inicio": 18.64,
+      "fin": 19.04
+    }
+  ]
+}

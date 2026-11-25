@@ -1,0 +1,280 @@
+{
+  "num": "15",
+  "titulo": "La binomial y la IA",
+  "texto": "Y esto conecta con el video del duelo entre ChatGPT y Claude. Supón que una inteligencia artificial acierta el noventa por ciento de las fórmulas que le pides. ¿Qué probabilidad hay de que te dé diez fórmulas seguidas todas buenas? Solo treinta y cuatro coma nueve por ciento. Por eso siempre hay que verificar.",
+  "texto_tts": "Y esto conecta con el video del duelo entre ChatGPT y Claude. Supón que una inteligencia artificial acierta el noventa por ciento de las fórmulas que le pides. ¿Qué probabilidad hay de que te dé diez fórmulas seguidas todas buenas? Solo treinta y cuatro coma nueve por ciento. Por eso siempre hay que verificar.",
+  "modelo": "eleven_v3",
+  "duracion": 25.44,
+  "palabras": [
+    {
+      "texto": "Y",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "esto",
+      "inicio": 0.144,
+      "fin": 0.4
+    },
+    {
+      "texto": "conecta",
+      "inicio": 0.469,
+      "fin": 1.04
+    },
+    {
+      "texto": "con",
+      "inicio": 1.24,
+      "fin": 1.84
+    },
+    {
+      "texto": "el",
+      "inicio": 1.893,
+      "fin": 2.0
+    },
+    {
+      "texto": "video",
+      "inicio": 2.093,
+      "fin": 2.56
+    },
+    {
+      "texto": "del",
+      "inicio": 2.66,
+      "fin": 2.96
+    },
+    {
+      "texto": "duelo",
+      "inicio": 3.04,
+      "fin": 3.44
+    },
+    {
+      "texto": "entre",
+      "inicio": 3.52,
+      "fin": 3.92
+    },
+    {
+      "texto": "ChatGPT",
+      "inicio": 4.0,
+      "fin": 4.96
+    },
+    {
+      "texto": "y",
+      "inicio": 5.0,
+      "fin": 5.04
+    },
+    {
+      "texto": "Claude.",
+      "inicio": 5.12,
+      "fin": 5.68
+    },
+    {
+      "texto": "Supón",
+      "inicio": 5.98,
+      "fin": 7.12
+    },
+    {
+      "texto": "que",
+      "inicio": 7.18,
+      "fin": 7.36
+    },
+    {
+      "texto": "una",
+      "inicio": 7.4,
+      "fin": 7.52
+    },
+    {
+      "texto": "inteligencia",
+      "inicio": 7.57,
+      "fin": 8.16
+    },
+    {
+      "texto": "artificial",
+      "inicio": 8.225,
+      "fin": 8.88
+    },
+    {
+      "texto": "acierta",
+      "inicio": 8.987,
+      "fin": 9.52
+    },
+    {
+      "texto": "el",
+      "inicio": 9.547,
+      "fin": 9.6
+    },
+    {
+      "texto": "noventa",
+      "inicio": 9.653,
+      "fin": 10.08
+    },
+    {
+      "texto": "por",
+      "inicio": 10.14,
+      "fin": 10.32
+    },
+    {
+      "texto": "ciento",
+      "inicio": 10.4,
+      "fin": 10.72
+    },
+    {
+      "texto": "de",
+      "inicio": 10.773,
+      "fin": 10.88
+    },
+    {
+      "texto": "las",
+      "inicio": 10.9,
+      "fin": 10.96
+    },
+    {
+      "texto": "fórmulas",
+      "inicio": 11.04,
+      "fin": 11.52
+    },
+    {
+      "texto": "que",
+      "inicio": 11.54,
+      "fin": 11.6
+    },
+    {
+      "texto": "le",
+      "inicio": 11.653,
+      "fin": 11.76
+    },
+    {
+      "texto": "pides.",
+      "inicio": 11.84,
+      "fin": 12.48
+    },
+    {
+      "texto": "¿Qué",
+      "inicio": 12.96,
+      "fin": 13.52
+    },
+    {
+      "texto": "probabilidad",
+      "inicio": 13.584,
+      "fin": 14.32
+    },
+    {
+      "texto": "hay",
+      "inicio": 14.38,
+      "fin": 14.56
+    },
+    {
+      "texto": "de",
+      "inicio": 14.667,
+      "fin": 14.88
+    },
+    {
+      "texto": "que",
+      "inicio": 14.9,
+      "fin": 14.96
+    },
+    {
+      "texto": "te",
+      "inicio": 15.04,
+      "fin": 15.2
+    },
+    {
+      "texto": "dé",
+      "inicio": 15.28,
+      "fin": 15.44
+    },
+    {
+      "texto": "diez",
+      "inicio": 15.5,
+      "fin": 15.681
+    },
+    {
+      "texto": "fórmulas",
+      "inicio": 15.76,
+      "fin": 16.24
+    },
+    {
+      "texto": "seguidas",
+      "inicio": 16.32,
+      "fin": 17.12
+    },
+    {
+      "texto": "todas",
+      "inicio": 17.187,
+      "fin": 17.52
+    },
+    {
+      "texto": "buenas?",
+      "inicio": 17.573,
+      "fin": 18.08
+    },
+    {
+      "texto": "Solo",
+      "inicio": 18.368,
+      "fin": 19.52
+    },
+    {
+      "texto": "treinta",
+      "inicio": 19.6,
+      "fin": 20.0
+    },
+    {
+      "texto": "y",
+      "inicio": 20.08,
+      "fin": 20.16
+    },
+    {
+      "texto": "cuatro",
+      "inicio": 20.206,
+      "fin": 20.48
+    },
+    {
+      "texto": "coma",
+      "inicio": 20.56,
+      "fin": 20.88
+    },
+    {
+      "texto": "nueve",
+      "inicio": 20.94,
+      "fin": 21.2
+    },
+    {
+      "texto": "por",
+      "inicio": 21.26,
+      "fin": 21.44
+    },
+    {
+      "texto": "ciento.",
+      "inicio": 21.52,
+      "fin": 22.48
+    },
+    {
+      "texto": "Por",
+      "inicio": 22.6,
+      "fin": 22.96
+    },
+    {
+      "texto": "eso",
+      "inicio": 23.06,
+      "fin": 23.36
+    },
+    {
+      "texto": "siempre",
+      "inicio": 23.45,
+      "fin": 24.08
+    },
+    {
+      "texto": "hay",
+      "inicio": 24.18,
+      "fin": 24.48
+    },
+    {
+      "texto": "que",
+      "inicio": 24.52,
+      "fin": 24.64
+    },
+    {
+      "texto": "verificar.",
+      "inicio": 24.712,
+      "fin": 25.44
+    }
+  ]
+}

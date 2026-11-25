@@ -1,0 +1,220 @@
+{
+  "num": "01",
+  "titulo": "Gancho",
+  "texto": "Seis etiquetas de inventario, cada una con su código QR y su código de barras, hechas en Excel en menos de dos minutos. Las escaneas con el celular y te dicen qué es y dónde está. Sin programas raros, sin pagar licencias.",
+  "texto_tts": "[excited] Seis etiquetas de inventario, cada una con su código QR y su código de barras, hechas en Excel en menos de dos minutos. Las escaneas con el celular y te dicen qué es y dónde está. Sin programas raros, sin pagar licencias.",
+  "modelo": "eleven_v3",
+  "duracion": 16.32,
+  "palabras": [
+    {
+      "texto": "Seis",
+      "inicio": 0.139,
+      "fin": 0.24
+    },
+    {
+      "texto": "etiquetas",
+      "inicio": 0.307,
+      "fin": 0.8
+    },
+    {
+      "texto": "de",
+      "inicio": 0.827,
+      "fin": 0.88
+    },
+    {
+      "texto": "inventario,",
+      "inicio": 0.926,
+      "fin": 1.84
+    },
+    {
+      "texto": "cada",
+      "inicio": 1.888,
+      "fin": 2.08
+    },
+    {
+      "texto": "una",
+      "inicio": 2.14,
+      "fin": 2.32
+    },
+    {
+      "texto": "con",
+      "inicio": 2.36,
+      "fin": 2.48
+    },
+    {
+      "texto": "su",
+      "inicio": 2.56,
+      "fin": 2.72
+    },
+    {
+      "texto": "código",
+      "inicio": 2.777,
+      "fin": 3.12
+    },
+    {
+      "texto": "QR",
+      "inicio": 3.307,
+      "fin": 3.68
+    },
+    {
+      "texto": "y",
+      "inicio": 3.8,
+      "fin": 3.92
+    },
+    {
+      "texto": "su",
+      "inicio": 3.973,
+      "fin": 4.08
+    },
+    {
+      "texto": "código",
+      "inicio": 4.126,
+      "fin": 4.4
+    },
+    {
+      "texto": "de",
+      "inicio": 4.453,
+      "fin": 4.56
+    },
+    {
+      "texto": "barras,",
+      "inicio": 4.592,
+      "fin": 5.44
+    },
+    {
+      "texto": "hechas",
+      "inicio": 5.467,
+      "fin": 5.76
+    },
+    {
+      "texto": "en",
+      "inicio": 5.787,
+      "fin": 5.84
+    },
+    {
+      "texto": "Excel",
+      "inicio": 5.92,
+      "fin": 6.32
+    },
+    {
+      "texto": "en",
+      "inicio": 6.48,
+      "fin": 6.8
+    },
+    {
+      "texto": "menos",
+      "inicio": 6.84,
+      "fin": 7.04
+    },
+    {
+      "texto": "de",
+      "inicio": 7.093,
+      "fin": 7.2
+    },
+    {
+      "texto": "dos",
+      "inicio": 7.24,
+      "fin": 7.36
+    },
+    {
+      "texto": "minutos.",
+      "inicio": 7.43,
+      "fin": 8.0
+    },
+    {
+      "texto": "Las",
+      "inicio": 8.2,
+      "fin": 8.8
+    },
+    {
+      "texto": "escaneas",
+      "inicio": 8.84,
+      "fin": 9.2
+    },
+    {
+      "texto": "con",
+      "inicio": 9.24,
+      "fin": 9.36
+    },
+    {
+      "texto": "el",
+      "inicio": 9.387,
+      "fin": 9.44
+    },
+    {
+      "texto": "celular",
+      "inicio": 9.52,
+      "fin": 10.08
+    },
+    {
+      "texto": "y",
+      "inicio": 10.32,
+      "fin": 10.56
+    },
+    {
+      "texto": "te",
+      "inicio": 10.613,
+      "fin": 10.72
+    },
+    {
+      "texto": "dicen",
+      "inicio": 10.76,
+      "fin": 11.04
+    },
+    {
+      "texto": "qué",
+      "inicio": 11.14,
+      "fin": 11.44
+    },
+    {
+      "texto": "es",
+      "inicio": 11.547,
+      "fin": 11.76
+    },
+    {
+      "texto": "y",
+      "inicio": 11.92,
+      "fin": 12.08
+    },
+    {
+      "texto": "dónde",
+      "inicio": 12.133,
+      "fin": 12.32
+    },
+    {
+      "texto": "está.",
+      "inicio": 12.384,
+      "fin": 12.8
+    },
+    {
+      "texto": "Sin",
+      "inicio": 13.02,
+      "fin": 13.68
+    },
+    {
+      "texto": "programas",
+      "inicio": 13.728,
+      "fin": 14.16
+    },
+    {
+      "texto": "raros,",
+      "inicio": 14.22,
+      "fin": 14.88
+    },
+    {
+      "texto": "sin",
+      "inicio": 14.94,
+      "fin": 15.12
+    },
+    {
+      "texto": "pagar",
+      "inicio": 15.173,
+      "fin": 15.44
+    },
+    {
+      "texto": "licencias.",
+      "inicio": 15.5,
+      "fin": 16.32
+    }
+  ]
+}

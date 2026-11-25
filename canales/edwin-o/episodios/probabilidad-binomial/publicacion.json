@@ -1,0 +1,51 @@
+{
+  "titulo": "Probabilidad binomial en Excel al instante (DISTR.BINOM.N + Python)",
+  "descripcion": "Calcula la probabilidad binomial en un segundo con DISTR.BINOM.N y DISTR.BINOM.SERIE: los penales del Mundial 2026, el misterio de un proveedor sospechoso y cuántas fórmulas seguidas acierta una IA. También en Python, sin instalar nada.\n\nEn este video aprenderás:\n✅ Las 4 condiciones de la binomial\n✅ DISTR.BINOM.N: exactamente y como máximo\n✅ DISTR.BINOM.SERIE para un rango\n✅ La tabla completa con SECUENCIA\n✅ El truco del \"al menos\"\n✅ La binomial en Python (math.comb)\n\nFórmulas del video (verificadas en Excel 365):\n=DISTR.BINOM.N(5;5;0,65;FALSO) → 11,6 %\n=DISTR.BINOM.SERIE(5;0,65;4;5) → 42,8 %\n=DISTR.BINOM.N(SECUENCIA(6;1;0);5;0,65;FALSO)\n=1-DISTR.BINOM.N(4;20;0,05;VERDADERO) → 0,26 %\n=DISTR.BINOM.N(10;10;0,9;FALSO) → 34,9 %\n=COMBINAT(5;3) → 10\n\nCapítulos\n0:00 ¿5 de 5 penales?\n0:47 El dato del Mundial 2026\n1:35 ¿Cuándo es binomial?\n2:03 La función DISTR.BINOM.N\n2:32 Paso 1: los cinco penales\n3:07 ¿Por qué tan bajo?\n3:30 Paso 2: \"al menos\"\n3:56 Paso 3: la tabla completa\n4:19 El misterio del proveedor\n4:40 Resolviendo el misterio\n5:17 El truco del \"al menos\"\n5:40 ¿Qué es lo normal?\n6:02 La binomial y la IA\n6:28 Dónde la usa un analista\n6:55 En Python\n7:15 Detrás de la fórmula\n7:35 Si no te funcionó\n\n📊 Guías de Excel en el blog: https://www.edwinortiz.net/excel/\n🌐 Plantillas y cursos: https://www.edwinortiz.net\n\nFuentes\nMicrosoft Support, DISTR.BINOM.N: https://support.microsoft.com/es-es/office/distr-binom-n-funci%C3%B3n-distr-binom-n-c5ae37b6-f39c-4be2-94c2-509a1480770c\nMicrosoft Support, DISTR.BINOM.SERIE: https://support.microsoft.com/es-es/office/distr-binom-serie-funci%C3%B3n-distr-binom-serie-17331329-74c7-4053-bb4c-6653a7421595\nPrensa Latina, 11 jul 2026, El Mundial de los penales fallados: https://www.prensa-latina.cu/2026/07/11/el-mundial-de-los-penales-fallados/\n\nLa voz de este video es la voz de Edwin, clonada con inteligencia artificial (ElevenLabs).\n\nVamos en busca del poder tecnológico. 🚀\n#Excel #Estadistica #DataAnalyst\n\n🛒 Tienda de plantillas y recursos: https://www.edwinortiz.net/tienda/\n\nPuedes encontrar mucha más información en mi página web https://www.edwinortiz.net/ ademas también podrás ingresar a mi plataforma online de aprendizaje donde podrás realizar cursos acordes a tus necesidades en  https://www.miaulaweb.com/\n\nTe invito a que me sigas en twitter en @chronosedwin8  y en Instagram https://www.instagram.com/edwinortizherazo/\n\n\n►MI BLOG: https://www.edwinortiz.net/\n►AULA EN LINEA: https://aula.miaulaweb.com/\n►2do CANAL: https://www.youtube.com/user/chronosedwin8\n►FANPAGE: https://www.facebook.com/EdwinOrtizHerazo\n►TWITTER:https://twitter.com/chronosedwin8\n►MI EMPRESA: https://www.miaulaweb.com/\n►¿QUIÉN SOY?: https://www.linkedin.com/in/edwin-ortiz-herazo-a3714a47?trk=nav_responsive_tab_profile",
+  "tags": [
+    "probabilidad binomial excel",
+    "distr.binom.n",
+    "distribucion binomial",
+    "distribucion binomial ejemplos",
+    "binomial python",
+    "estadistica en excel",
+    "analista de datos",
+    "data analyst",
+    "control de calidad excel",
+    "probabilidad excel",
+    "edwin o"
+  ],
+  "categoria": 27,
+  "idioma": "es",
+  "creado_para_ninos": false,
+  "contenido_sintetico": true,
+  "privacidad": "public",
+  "programar": "2027-01-14 07:00",
+  "playlist": "Data Analyst",
+  "archivo": "render/probabilidad-binomial.mp4",
+  "miniatura": "miniatura.png",
+  "subtitulos": "audio/subtitulos.srt",
+  "shorts": [
+    {
+      "id": "short-1",
+      "titulo": "¿Meter 5 de 5 PENALES? Excel te lo dice #shorts",
+      "descripcion": "=DISTR.BINOM.N(5;5;0,65;FALSO) → 11,6 % Video completo en el canal.",
+      "tags": [
+        "probabilidad binomial",
+        "shorts"
+      ],
+      "programar": "2027-01-15 12:00",
+      "archivo": "render/short-1.mp4"
+    },
+    {
+      "id": "short-2",
+      "titulo": "¿Tu proveedor TE MIENTE? (probabilidad) #shorts",
+      "descripcion": "=1-DISTR.BINOM.N(4;20;0,05;VERDADERO) → 0,26 % Video completo en el canal.",
+      "tags": [
+        "distribucion binomial",
+        "shorts"
+      ],
+      "programar": "2027-01-18 12:00",
+      "archivo": "render/short-2.mp4"
+    }
+  ]
+}

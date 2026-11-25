@@ -1,0 +1,270 @@
+{
+  "num": "13",
+  "titulo": "Revisa siempre",
+  "texto": "Ahora, las reglas de seguridad, que vienen de la propia ayuda de OpenAI. Revisa las fórmulas y las celdas que cambió antes de confiar en el resultado. Si el trabajo es importante, duplica el archivo antes. Y no lo olvides: la misma OpenAI advierte que las respuestas pueden ser incompletas o incorrectas.",
+  "texto_tts": "Ahora, las reglas de seguridad, que vienen de la propia ayuda de OpenAI. Revisa las fórmulas y las celdas que cambió antes de confiar en el resultado. Si el trabajo es importante, duplica el archivo antes. Y no lo olvides: la misma OpenAI advierte que las respuestas pueden ser incompletas o incorrectas.",
+  "modelo": "eleven_v3",
+  "duracion": 19.36,
+  "palabras": [
+    {
+      "texto": "Ahora,",
+      "inicio": 0.0,
+      "fin": 0.32
+    },
+    {
+      "texto": "las",
+      "inicio": 0.36,
+      "fin": 0.48
+    },
+    {
+      "texto": "reglas",
+      "inicio": 0.54,
+      "fin": 0.8
+    },
+    {
+      "texto": "de",
+      "inicio": 0.827,
+      "fin": 0.88
+    },
+    {
+      "texto": "seguridad,",
+      "inicio": 0.944,
+      "fin": 2.08
+    },
+    {
+      "texto": "que",
+      "inicio": 2.1,
+      "fin": 2.16
+    },
+    {
+      "texto": "vienen",
+      "inicio": 2.213,
+      "fin": 2.48
+    },
+    {
+      "texto": "de",
+      "inicio": 2.507,
+      "fin": 2.56
+    },
+    {
+      "texto": "la",
+      "inicio": 2.613,
+      "fin": 2.72
+    },
+    {
+      "texto": "propia",
+      "inicio": 2.777,
+      "fin": 3.12
+    },
+    {
+      "texto": "ayuda",
+      "inicio": 3.173,
+      "fin": 3.44
+    },
+    {
+      "texto": "de",
+      "inicio": 3.467,
+      "fin": 3.52
+    },
+    {
+      "texto": "OpenAI.",
+      "inicio": 3.584,
+      "fin": 4.24
+    },
+    {
+      "texto": "Revisa",
+      "inicio": 4.507,
+      "fin": 5.28
+    },
+    {
+      "texto": "las",
+      "inicio": 5.34,
+      "fin": 5.52
+    },
+    {
+      "texto": "fórmulas",
+      "inicio": 5.56,
+      "fin": 6.0
+    },
+    {
+      "texto": "y",
+      "inicio": 6.04,
+      "fin": 6.08
+    },
+    {
+      "texto": "las",
+      "inicio": 6.12,
+      "fin": 6.24
+    },
+    {
+      "texto": "celdas",
+      "inicio": 6.28,
+      "fin": 6.64
+    },
+    {
+      "texto": "que",
+      "inicio": 6.66,
+      "fin": 6.72
+    },
+    {
+      "texto": "cambió",
+      "inicio": 6.784,
+      "fin": 7.2
+    },
+    {
+      "texto": "antes",
+      "inicio": 7.267,
+      "fin": 7.6
+    },
+    {
+      "texto": "de",
+      "inicio": 7.653,
+      "fin": 7.76
+    },
+    {
+      "texto": "confiar",
+      "inicio": 7.808,
+      "fin": 8.08
+    },
+    {
+      "texto": "en",
+      "inicio": 8.133,
+      "fin": 8.24
+    },
+    {
+      "texto": "el",
+      "inicio": 8.267,
+      "fin": 8.32
+    },
+    {
+      "texto": "resultado.",
+      "inicio": 8.376,
+      "fin": 9.04
+    },
+    {
+      "texto": "Si",
+      "inicio": 9.253,
+      "fin": 9.68
+    },
+    {
+      "texto": "el",
+      "inicio": 9.707,
+      "fin": 9.76
+    },
+    {
+      "texto": "trabajo",
+      "inicio": 9.81,
+      "fin": 10.16
+    },
+    {
+      "texto": "es",
+      "inicio": 10.187,
+      "fin": 10.24
+    },
+    {
+      "texto": "importante,",
+      "inicio": 10.305,
+      "fin": 11.12
+    },
+    {
+      "texto": "duplica",
+      "inicio": 11.177,
+      "fin": 11.56
+    },
+    {
+      "texto": "el",
+      "inicio": 11.573,
+      "fin": 11.6
+    },
+    {
+      "texto": "archivo",
+      "inicio": 11.66,
+      "fin": 12.08
+    },
+    {
+      "texto": "antes.",
+      "inicio": 12.16,
+      "fin": 12.72
+    },
+    {
+      "texto": "Y",
+      "inicio": 12.96,
+      "fin": 13.2
+    },
+    {
+      "texto": "no",
+      "inicio": 13.253,
+      "fin": 13.36
+    },
+    {
+      "texto": "lo",
+      "inicio": 13.387,
+      "fin": 13.44
+    },
+    {
+      "texto": "olvides:",
+      "inicio": 13.493,
+      "fin": 14.08
+    },
+    {
+      "texto": "la",
+      "inicio": 14.133,
+      "fin": 14.24
+    },
+    {
+      "texto": "misma",
+      "inicio": 14.293,
+      "fin": 14.56
+    },
+    {
+      "texto": "OpenAI",
+      "inicio": 14.64,
+      "fin": 15.52
+    },
+    {
+      "texto": "advierte",
+      "inicio": 15.62,
+      "fin": 16.16
+    },
+    {
+      "texto": "que",
+      "inicio": 16.18,
+      "fin": 16.24
+    },
+    {
+      "texto": "las",
+      "inicio": 16.28,
+      "fin": 16.4
+    },
+    {
+      "texto": "respuestas",
+      "inicio": 16.464,
+      "fin": 16.96
+    },
+    {
+      "texto": "pueden",
+      "inicio": 17.006,
+      "fin": 17.28
+    },
+    {
+      "texto": "ser",
+      "inicio": 17.32,
+      "fin": 17.44
+    },
+    {
+      "texto": "incompletas",
+      "inicio": 17.507,
+      "fin": 18.24
+    },
+    {
+      "texto": "o",
+      "inicio": 18.32,
+      "fin": 18.4
+    },
+    {
+      "texto": "incorrectas.",
+      "inicio": 18.464,
+      "fin": 19.36
+    }
+  ]
+}

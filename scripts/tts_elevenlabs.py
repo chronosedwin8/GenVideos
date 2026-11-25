@@ -131,6 +131,8 @@ def tts(texto, cfg, previo="", siguiente=""):
         ajustes["style"] = cfg["style"]
         ajustes["use_speaker_boost"] = True
     cuerpo = {"text": texto, "model_id": cfg["model_id"], "voice_settings": ajustes}
+    if cfg.get("language_code"):  # p. ej. "es": fija el idioma (la variante la da el acento de la voz)
+        cuerpo["language_code"] = cfg["language_code"]
     # Contexto de las escenas vecinas para que la entonación fluya entre escenas (v3 no lo admite:
     # su expresividad se controla con etiquetas como [excited] dentro del texto)
     if previo and not v3:
@@ -231,6 +233,7 @@ def main():
         "stability": float(env("ELEVENLABS_STABILITY", "0.5")),
         "similarity": float(env("ELEVENLABS_SIMILARITY", "0.75")),
         "style": float(env("ELEVENLABS_STYLE", "0.0")),
+        "language_code": env("ELEVENLABS_LANGUAGE_CODE"),
     }
     if not cfg["api_key"] or not cfg["voice_id"] or "pega_aqui" in cfg["api_key"] + cfg["voice_id"]:
         sys.exit(f"Configura ELEVENLABS_API_KEY y ELEVENLABS_VOICE_ID{sufijo} en .env (ver .env.example)")

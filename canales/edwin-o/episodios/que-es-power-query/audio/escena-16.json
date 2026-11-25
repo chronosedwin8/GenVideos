@@ -1,0 +1,245 @@
+{
+  "num": "16",
+  "titulo": "Paso 7: cerrar y cargar",
+  "texto": "Paso siete: en la pestaña Inicio, pulsa Cerrar y cargar. Power Query crea una hoja nueva con una tabla limpia: seis ventas, con los nombres bien escritos y el producto y la región separados. A la derecha ves la consulta, con el número de filas que cargó.",
+  "texto_tts": "Paso siete: en la pestaña Inicio, pulsa Cerrar y cargar. Power Query crea una hoja nueva con una tabla limpia: seis ventas, con los nombres bien escritos y el producto y la región separados. A la derecha ves la consulta, con el número de filas que cargó.",
+  "modelo": "eleven_v3",
+  "duracion": 18.64,
+  "palabras": [
+    {
+      "texto": "Paso",
+      "inicio": 0.0,
+      "fin": 0.32
+    },
+    {
+      "texto": "siete:",
+      "inicio": 0.36,
+      "fin": 1.04
+    },
+    {
+      "texto": "en",
+      "inicio": 1.093,
+      "fin": 1.2
+    },
+    {
+      "texto": "la",
+      "inicio": 1.227,
+      "fin": 1.28
+    },
+    {
+      "texto": "pestaña",
+      "inicio": 1.32,
+      "fin": 1.84
+    },
+    {
+      "texto": "Inicio,",
+      "inicio": 1.973,
+      "fin": 2.88
+    },
+    {
+      "texto": "pulsa",
+      "inicio": 2.94,
+      "fin": 3.2
+    },
+    {
+      "texto": "Cerrar",
+      "inicio": 3.28,
+      "fin": 3.68
+    },
+    {
+      "texto": "y",
+      "inicio": 3.8,
+      "fin": 3.92
+    },
+    {
+      "texto": "cargar.",
+      "inicio": 3.989,
+      "fin": 4.64
+    },
+    {
+      "texto": "Power",
+      "inicio": 4.88,
+      "fin": 6.08
+    },
+    {
+      "texto": "Query",
+      "inicio": 6.147,
+      "fin": 6.48
+    },
+    {
+      "texto": "crea",
+      "inicio": 6.56,
+      "fin": 6.88
+    },
+    {
+      "texto": "una",
+      "inicio": 6.94,
+      "fin": 7.12
+    },
+    {
+      "texto": "hoja",
+      "inicio": 7.173,
+      "fin": 7.36
+    },
+    {
+      "texto": "nueva",
+      "inicio": 7.427,
+      "fin": 7.76
+    },
+    {
+      "texto": "con",
+      "inicio": 7.8,
+      "fin": 7.92
+    },
+    {
+      "texto": "una",
+      "inicio": 7.96,
+      "fin": 8.08
+    },
+    {
+      "texto": "tabla",
+      "inicio": 8.133,
+      "fin": 8.4
+    },
+    {
+      "texto": "limpia:",
+      "inicio": 8.48,
+      "fin": 9.36
+    },
+    {
+      "texto": "seis",
+      "inicio": 9.408,
+      "fin": 9.6
+    },
+    {
+      "texto": "ventas,",
+      "inicio": 9.68,
+      "fin": 10.24
+    },
+    {
+      "texto": "con",
+      "inicio": 10.28,
+      "fin": 10.4
+    },
+    {
+      "texto": "los",
+      "inicio": 10.44,
+      "fin": 10.56
+    },
+    {
+      "texto": "nombres",
+      "inicio": 10.61,
+      "fin": 10.96
+    },
+    {
+      "texto": "bien",
+      "inicio": 11.008,
+      "fin": 11.2
+    },
+    {
+      "texto": "escritos",
+      "inicio": 11.257,
+      "fin": 11.84
+    },
+    {
+      "texto": "y",
+      "inicio": 11.92,
+      "fin": 12.0
+    },
+    {
+      "texto": "el",
+      "inicio": 12.027,
+      "fin": 12.08
+    },
+    {
+      "texto": "producto",
+      "inicio": 12.151,
+      "fin": 12.72
+    },
+    {
+      "texto": "y",
+      "inicio": 12.76,
+      "fin": 12.8
+    },
+    {
+      "texto": "la",
+      "inicio": 12.827,
+      "fin": 12.88
+    },
+    {
+      "texto": "región",
+      "inicio": 12.94,
+      "fin": 13.28
+    },
+    {
+      "texto": "separados.",
+      "inicio": 13.333,
+      "fin": 14.08
+    },
+    {
+      "texto": "A",
+      "inicio": 14.48,
+      "fin": 14.88
+    },
+    {
+      "texto": "la",
+      "inicio": 14.933,
+      "fin": 15.04
+    },
+    {
+      "texto": "derecha",
+      "inicio": 15.088,
+      "fin": 15.52
+    },
+    {
+      "texto": "ves",
+      "inicio": 15.58,
+      "fin": 15.76
+    },
+    {
+      "texto": "la",
+      "inicio": 15.813,
+      "fin": 15.92
+    },
+    {
+      "texto": "consulta,",
+      "inicio": 15.991,
+      "fin": 16.64
+    },
+    {
+      "texto": "con",
+      "inicio": 16.7,
+      "fin": 16.88
+    },
+    {
+      "texto": "el",
+      "inicio": 16.933,
+      "fin": 17.04
+    },
+    {
+      "texto": "número",
+      "inicio": 17.086,
+      "fin": 17.36
+    },
+    {
+      "texto": "de",
+      "inicio": 17.387,
+      "fin": 17.44
+    },
+    {
+      "texto": "filas",
+      "inicio": 17.52,
+      "fin": 17.84
+    },
+    {
+      "texto": "que",
+      "inicio": 17.88,
+      "fin": 18.0
+    },
+    {
+      "texto": "cargó.",
+      "inicio": 18.064,
+      "fin": 18.64
+    }
+  ]
+}

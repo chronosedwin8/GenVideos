@@ -1,0 +1,260 @@
+{
+  "num": "05",
+  "titulo": "Los datos",
+  "texto": "Estos son los datos: cinco vendedores, con sus ventas de enero, febrero y marzo. La región solo está escrita en el primer vendedor de cada grupo; las de abajo están vacías. Y en otra tabla, las metas de cada región. Objetivo: saber qué porcentaje de la meta cumplió cada región.",
+  "texto_tts": "Estos son los datos: cinco vendedores, con sus ventas de enero, febrero y marzo. La región solo está escrita en el primer vendedor de cada grupo; las de abajo están vacías. Y en otra tabla, las metas de cada región. Objetivo: saber qué porcentaje de la meta cumplió cada región.",
+  "modelo": "eleven_v3",
+  "duracion": 23.92,
+  "palabras": [
+    {
+      "texto": "Estos",
+      "inicio": 0.0,
+      "fin": 0.24
+    },
+    {
+      "texto": "son",
+      "inicio": 0.28,
+      "fin": 0.4
+    },
+    {
+      "texto": "los",
+      "inicio": 0.42,
+      "fin": 0.48
+    },
+    {
+      "texto": "datos:",
+      "inicio": 0.56,
+      "fin": 1.84
+    },
+    {
+      "texto": "cinco",
+      "inicio": 1.893,
+      "fin": 2.16
+    },
+    {
+      "texto": "vendedores,",
+      "inicio": 2.2,
+      "fin": 3.04
+    },
+    {
+      "texto": "con",
+      "inicio": 3.24,
+      "fin": 3.84
+    },
+    {
+      "texto": "sus",
+      "inicio": 3.9,
+      "fin": 4.08
+    },
+    {
+      "texto": "ventas",
+      "inicio": 4.137,
+      "fin": 4.48
+    },
+    {
+      "texto": "de",
+      "inicio": 4.533,
+      "fin": 4.64
+    },
+    {
+      "texto": "enero,",
+      "inicio": 4.747,
+      "fin": 5.52
+    },
+    {
+      "texto": "febrero",
+      "inicio": 5.573,
+      "fin": 6.0
+    },
+    {
+      "texto": "y",
+      "inicio": 6.12,
+      "fin": 6.24
+    },
+    {
+      "texto": "marzo.",
+      "inicio": 6.32,
+      "fin": 6.8
+    },
+    {
+      "texto": "La",
+      "inicio": 7.173,
+      "fin": 7.92
+    },
+    {
+      "texto": "región",
+      "inicio": 8.0,
+      "fin": 8.48
+    },
+    {
+      "texto": "solo",
+      "inicio": 8.656,
+      "fin": 9.36
+    },
+    {
+      "texto": "está",
+      "inicio": 9.392,
+      "fin": 9.52
+    },
+    {
+      "texto": "escrita",
+      "inicio": 9.577,
+      "fin": 10.0
+    },
+    {
+      "texto": "en",
+      "inicio": 10.107,
+      "fin": 10.32
+    },
+    {
+      "texto": "el",
+      "inicio": 10.347,
+      "fin": 10.4
+    },
+    {
+      "texto": "primer",
+      "inicio": 10.469,
+      "fin": 10.88
+    },
+    {
+      "texto": "vendedor",
+      "inicio": 10.92,
+      "fin": 11.36
+    },
+    {
+      "texto": "de",
+      "inicio": 11.387,
+      "fin": 11.44
+    },
+    {
+      "texto": "cada",
+      "inicio": 11.504,
+      "fin": 11.76
+    },
+    {
+      "texto": "grupo;",
+      "inicio": 11.827,
+      "fin": 12.24
+    },
+    {
+      "texto": "las",
+      "inicio": 12.42,
+      "fin": 12.96
+    },
+    {
+      "texto": "de",
+      "inicio": 13.013,
+      "fin": 13.12
+    },
+    {
+      "texto": "abajo",
+      "inicio": 13.147,
+      "fin": 13.44
+    },
+    {
+      "texto": "están",
+      "inicio": 13.48,
+      "fin": 13.68
+    },
+    {
+      "texto": "vacías.",
+      "inicio": 13.74,
+      "fin": 14.88
+    },
+    {
+      "texto": "Y",
+      "inicio": 15.16,
+      "fin": 15.44
+    },
+    {
+      "texto": "en",
+      "inicio": 15.467,
+      "fin": 15.52
+    },
+    {
+      "texto": "otra",
+      "inicio": 15.568,
+      "fin": 15.76
+    },
+    {
+      "texto": "tabla,",
+      "inicio": 15.827,
+      "fin": 16.32
+    },
+    {
+      "texto": "las",
+      "inicio": 16.44,
+      "fin": 16.8
+    },
+    {
+      "texto": "metas",
+      "inicio": 16.88,
+      "fin": 17.28
+    },
+    {
+      "texto": "de",
+      "inicio": 17.307,
+      "fin": 17.36
+    },
+    {
+      "texto": "cada",
+      "inicio": 17.408,
+      "fin": 17.6
+    },
+    {
+      "texto": "región.",
+      "inicio": 17.66,
+      "fin": 18.72
+    },
+    {
+      "texto": "Objetivo:",
+      "inicio": 18.933,
+      "fin": 20.4
+    },
+    {
+      "texto": "saber",
+      "inicio": 20.453,
+      "fin": 20.72
+    },
+    {
+      "texto": "qué",
+      "inicio": 20.78,
+      "fin": 20.96
+    },
+    {
+      "texto": "porcentaje",
+      "inicio": 21.04,
+      "fin": 21.76
+    },
+    {
+      "texto": "de",
+      "inicio": 21.787,
+      "fin": 21.84
+    },
+    {
+      "texto": "la",
+      "inicio": 21.893,
+      "fin": 22.0
+    },
+    {
+      "texto": "meta",
+      "inicio": 22.08,
+      "fin": 22.4
+    },
+    {
+      "texto": "cumplió",
+      "inicio": 22.467,
+      "fin": 22.96
+    },
+    {
+      "texto": "cada",
+      "inicio": 23.056,
+      "fin": 23.44
+    },
+    {
+      "texto": "región.",
+      "inicio": 23.5,
+      "fin": 23.92
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "num": "17",
+  "titulo": "Tu receta completa",
+  "texto": "Mira tu receta completa en Pasos aplicados. Cada movimiento quedó grabado, en orden. El próximo trimestre, cuando llegue el archivo con abril, mayo y junio, solo reemplazas los datos y le das Actualizar todo. Lo que antes era una mañana de trabajo, ahora es un clic.",
+  "texto_tts": "Mira tu receta completa en Pasos aplicados. Cada movimiento quedó grabado, en orden. El próximo trimestre, cuando llegue el archivo con abril, mayo y junio, solo reemplazas los datos y le das Actualizar todo. Lo que antes era una mañana de trabajo, ahora es un clic.",
+  "modelo": "eleven_v3",
+  "duracion": 21.76,
+  "palabras": [
+    {
+      "texto": "Mira",
+      "inicio": 0.0,
+      "fin": 0.24
+    },
+    {
+      "texto": "tu",
+      "inicio": 0.293,
+      "fin": 0.4
+    },
+    {
+      "texto": "receta",
+      "inicio": 0.46,
+      "fin": 0.88
+    },
+    {
+      "texto": "completa",
+      "inicio": 0.951,
+      "fin": 1.52
+    },
+    {
+      "texto": "en",
+      "inicio": 1.627,
+      "fin": 1.84
+    },
+    {
+      "texto": "Pasos",
+      "inicio": 1.92,
+      "fin": 2.24
+    },
+    {
+      "texto": "aplicados.",
+      "inicio": 2.307,
+      "fin": 3.28
+    },
+    {
+      "texto": "Cada",
+      "inicio": 3.64,
+      "fin": 4.16
+    },
+    {
+      "texto": "movimiento",
+      "inicio": 4.233,
+      "fin": 4.96
+    },
+    {
+      "texto": "quedó",
+      "inicio": 5.008,
+      "fin": 5.36
+    },
+    {
+      "texto": "grabado,",
+      "inicio": 5.392,
+      "fin": 6.08
+    },
+    {
+      "texto": "en",
+      "inicio": 6.133,
+      "fin": 6.24
+    },
+    {
+      "texto": "orden.",
+      "inicio": 6.32,
+      "fin": 6.8
+    },
+    {
+      "texto": "El",
+      "inicio": 7.093,
+      "fin": 7.68
+    },
+    {
+      "texto": "próximo",
+      "inicio": 7.74,
+      "fin": 8.16
+    },
+    {
+      "texto": "trimestre,",
+      "inicio": 8.23,
+      "fin": 9.36
+    },
+    {
+      "texto": "cuando",
+      "inicio": 9.406,
+      "fin": 9.68
+    },
+    {
+      "texto": "llegue",
+      "inicio": 9.712,
+      "fin": 9.92
+    },
+    {
+      "texto": "el",
+      "inicio": 9.947,
+      "fin": 10.0
+    },
+    {
+      "texto": "archivo",
+      "inicio": 10.07,
+      "fin": 10.56
+    },
+    {
+      "texto": "con",
+      "inicio": 10.6,
+      "fin": 10.72
+    },
+    {
+      "texto": "abril,",
+      "inicio": 10.787,
+      "fin": 11.28
+    },
+    {
+      "texto": "mayo",
+      "inicio": 11.328,
+      "fin": 11.52
+    },
+    {
+      "texto": "y",
+      "inicio": 11.56,
+      "fin": 11.6
+    },
+    {
+      "texto": "junio,",
+      "inicio": 11.7,
+      "fin": 12.32
+    },
+    {
+      "texto": "solo",
+      "inicio": 12.448,
+      "fin": 12.96
+    },
+    {
+      "texto": "reemplazas",
+      "inicio": 13.013,
+      "fin": 13.68
+    },
+    {
+      "texto": "los",
+      "inicio": 13.72,
+      "fin": 13.84
+    },
+    {
+      "texto": "datos",
+      "inicio": 13.933,
+      "fin": 14.4
+    },
+    {
+      "texto": "y",
+      "inicio": 14.52,
+      "fin": 14.64
+    },
+    {
+      "texto": "le",
+      "inicio": 14.667,
+      "fin": 14.72
+    },
+    {
+      "texto": "das",
+      "inicio": 14.82,
+      "fin": 15.12
+    },
+    {
+      "texto": "Actualizar",
+      "inicio": 15.2,
+      "fin": 15.92
+    },
+    {
+      "texto": "todo.",
+      "inicio": 16.016,
+      "fin": 16.56
+    },
+    {
+      "texto": "Lo",
+      "inicio": 16.88,
+      "fin": 17.52
+    },
+    {
+      "texto": "que",
+      "inicio": 17.56,
+      "fin": 17.68
+    },
+    {
+      "texto": "antes",
+      "inicio": 17.747,
+      "fin": 18.08
+    },
+    {
+      "texto": "era",
+      "inicio": 18.12,
+      "fin": 18.24
+    },
+    {
+      "texto": "una",
+      "inicio": 18.28,
+      "fin": 18.4
+    },
+    {
+      "texto": "mañana",
+      "inicio": 18.457,
+      "fin": 18.8
+    },
+    {
+      "texto": "de",
+      "inicio": 18.827,
+      "fin": 18.88
+    },
+    {
+      "texto": "trabajo,",
+      "inicio": 18.96,
+      "fin": 20.0
+    },
+    {
+      "texto": "ahora",
+      "inicio": 20.08,
+      "fin": 20.48
+    },
+    {
+      "texto": "es",
+      "inicio": 20.613,
+      "fin": 20.88
+    },
+    {
+      "texto": "un",
+      "inicio": 20.933,
+      "fin": 21.04
+    },
+    {
+      "texto": "clic.",
+      "inicio": 21.152,
+      "fin": 21.76
+    }
+  ]
+}

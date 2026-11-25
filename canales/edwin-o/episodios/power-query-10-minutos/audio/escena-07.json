@@ -1,0 +1,260 @@
+{
+  "num": "07",
+  "titulo": "Movimiento 1: entra a Power Query",
+  "texto": "Movimiento uno: entra. Clic en los datos, pestaña Datos, Desde tabla o rango. Y ya estás en el editor. Haz lo mismo con la tabla de metas, y al cerrar, usa Cerrar y cargar en, para crear solo la conexión, sin otra hoja, porque la vamos a usar más adelante.",
+  "texto_tts": "Movimiento uno: entra. Clic en los datos, pestaña Datos, Desde tabla o rango. Y ya estás en el editor. Haz lo mismo con la tabla de metas, y al cerrar, usa Cerrar y cargar en, para crear solo la conexión, sin otra hoja, porque la vamos a usar más adelante.",
+  "modelo": "eleven_v3",
+  "duracion": 21.76,
+  "palabras": [
+    {
+      "texto": "Movimiento",
+      "inicio": 0.0,
+      "fin": 0.56
+    },
+    {
+      "texto": "uno:",
+      "inicio": 0.64,
+      "fin": 1.52
+    },
+    {
+      "texto": "entra.",
+      "inicio": 1.6,
+      "fin": 2.08
+    },
+    {
+      "texto": "Clic",
+      "inicio": 2.52,
+      "fin": 3.2
+    },
+    {
+      "texto": "en",
+      "inicio": 3.227,
+      "fin": 3.28
+    },
+    {
+      "texto": "los",
+      "inicio": 3.34,
+      "fin": 3.52
+    },
+    {
+      "texto": "datos,",
+      "inicio": 3.6,
+      "fin": 4.08
+    },
+    {
+      "texto": "pestaña",
+      "inicio": 4.28,
+      "fin": 4.96
+    },
+    {
+      "texto": "Datos,",
+      "inicio": 5.053,
+      "fin": 5.68
+    },
+    {
+      "texto": "Desde",
+      "inicio": 5.787,
+      "fin": 6.32
+    },
+    {
+      "texto": "tabla",
+      "inicio": 6.4,
+      "fin": 6.8
+    },
+    {
+      "texto": "o",
+      "inicio": 6.92,
+      "fin": 7.04
+    },
+    {
+      "texto": "rango.",
+      "inicio": 7.12,
+      "fin": 7.68
+    },
+    {
+      "texto": "Y",
+      "inicio": 7.96,
+      "fin": 8.24
+    },
+    {
+      "texto": "ya",
+      "inicio": 8.293,
+      "fin": 8.4
+    },
+    {
+      "texto": "estás",
+      "inicio": 8.46,
+      "fin": 8.8
+    },
+    {
+      "texto": "en",
+      "inicio": 8.827,
+      "fin": 8.88
+    },
+    {
+      "texto": "el",
+      "inicio": 8.907,
+      "fin": 8.96
+    },
+    {
+      "texto": "editor.",
+      "inicio": 9.029,
+      "fin": 9.52
+    },
+    {
+      "texto": "Haz",
+      "inicio": 9.74,
+      "fin": 10.4
+    },
+    {
+      "texto": "lo",
+      "inicio": 10.453,
+      "fin": 10.56
+    },
+    {
+      "texto": "mismo",
+      "inicio": 10.613,
+      "fin": 10.88
+    },
+    {
+      "texto": "con",
+      "inicio": 10.92,
+      "fin": 11.04
+    },
+    {
+      "texto": "la",
+      "inicio": 11.067,
+      "fin": 11.12
+    },
+    {
+      "texto": "tabla",
+      "inicio": 11.173,
+      "fin": 11.44
+    },
+    {
+      "texto": "de",
+      "inicio": 11.493,
+      "fin": 11.6
+    },
+    {
+      "texto": "metas,",
+      "inicio": 11.66,
+      "fin": 12.16
+    },
+    {
+      "texto": "y",
+      "inicio": 12.32,
+      "fin": 12.48
+    },
+    {
+      "texto": "al",
+      "inicio": 12.507,
+      "fin": 12.56
+    },
+    {
+      "texto": "cerrar,",
+      "inicio": 12.608,
+      "fin": 13.6
+    },
+    {
+      "texto": "usa",
+      "inicio": 13.68,
+      "fin": 13.92
+    },
+    {
+      "texto": "Cerrar",
+      "inicio": 14.12,
+      "fin": 14.72
+    },
+    {
+      "texto": "y",
+      "inicio": 14.84,
+      "fin": 14.96
+    },
+    {
+      "texto": "cargar",
+      "inicio": 15.029,
+      "fin": 15.44
+    },
+    {
+      "texto": "en,",
+      "inicio": 15.573,
+      "fin": 15.92
+    },
+    {
+      "texto": "para",
+      "inicio": 16.064,
+      "fin": 16.64
+    },
+    {
+      "texto": "crear",
+      "inicio": 16.693,
+      "fin": 16.96
+    },
+    {
+      "texto": "solo",
+      "inicio": 17.024,
+      "fin": 17.28
+    },
+    {
+      "texto": "la",
+      "inicio": 17.333,
+      "fin": 17.44
+    },
+    {
+      "texto": "conexión,",
+      "inicio": 17.502,
+      "fin": 18.24
+    },
+    {
+      "texto": "sin",
+      "inicio": 18.3,
+      "fin": 18.48
+    },
+    {
+      "texto": "otra",
+      "inicio": 18.544,
+      "fin": 18.8
+    },
+    {
+      "texto": "hoja,",
+      "inicio": 18.853,
+      "fin": 19.6
+    },
+    {
+      "texto": "porque",
+      "inicio": 19.634,
+      "fin": 19.84
+    },
+    {
+      "texto": "la",
+      "inicio": 19.893,
+      "fin": 20.0
+    },
+    {
+      "texto": "vamos",
+      "inicio": 20.04,
+      "fin": 20.24
+    },
+    {
+      "texto": "a",
+      "inicio": 20.28,
+      "fin": 20.32
+    },
+    {
+      "texto": "usar",
+      "inicio": 20.384,
+      "fin": 20.64
+    },
+    {
+      "texto": "más",
+      "inicio": 20.76,
+      "fin": 21.12
+    },
+    {
+      "texto": "adelante.",
+      "inicio": 21.168,
+      "fin": 21.76
+    }
+  ]
+}

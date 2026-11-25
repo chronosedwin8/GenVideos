@@ -1,0 +1,430 @@
+{
+  "num": "19",
+  "titulo": "Ideas para tu trabajo",
+  "texto": "¿Para qué te sirve en la oficina? Para generar reportes, correr tus programas de Python, limpiar un archivo que te llegó desordenado, resumir un documento largo, o revisar por qué una hoja de Excel da resultados raros. Imagina que estás en una reunión y te piden un dato: le pides a Claude que lo calcule con tus archivos, y en un minuto lo tienes en el celular. Si no lo aprendes ahora, te extingues: los que trabajan con agentes van a rendir el doble.",
+  "texto_tts": "¿Para qué te sirve en la oficina? Para generar reportes, correr tus programas de Python, limpiar un archivo que te llegó desordenado, resumir un documento largo, o revisar por qué una hoja de Excel da resultados raros. Imagina que estás en una reunión y te piden un dato: le pides a Claude que lo calcule con tus archivos, y en un minuto lo tienes en el celular. [serious] Si no lo aprendes ahora, te extingues: los que trabajan con agentes van a rendir el doble.",
+  "modelo": "eleven_v3",
+  "duracion": 29.605,
+  "palabras": [
+    {
+      "texto": "¿Para",
+      "inicio": 0.0,
+      "fin": 0.16
+    },
+    {
+      "texto": "qué",
+      "inicio": 0.2,
+      "fin": 0.32
+    },
+    {
+      "texto": "te",
+      "inicio": 0.347,
+      "fin": 0.4
+    },
+    {
+      "texto": "sirve",
+      "inicio": 0.44,
+      "fin": 0.64
+    },
+    {
+      "texto": "en",
+      "inicio": 0.667,
+      "fin": 0.72
+    },
+    {
+      "texto": "la",
+      "inicio": 0.747,
+      "fin": 0.8
+    },
+    {
+      "texto": "oficina?",
+      "inicio": 0.827,
+      "fin": 1.28
+    },
+    {
+      "texto": "Para",
+      "inicio": 1.312,
+      "fin": 1.44
+    },
+    {
+      "texto": "generar",
+      "inicio": 1.49,
+      "fin": 1.84
+    },
+    {
+      "texto": "reportes,",
+      "inicio": 1.909,
+      "fin": 2.96
+    },
+    {
+      "texto": "correr",
+      "inicio": 3.0,
+      "fin": 3.28
+    },
+    {
+      "texto": "tus",
+      "inicio": 3.32,
+      "fin": 3.44
+    },
+    {
+      "texto": "programas",
+      "inicio": 3.48,
+      "fin": 3.84
+    },
+    {
+      "texto": "de",
+      "inicio": 3.867,
+      "fin": 3.92
+    },
+    {
+      "texto": "Python,",
+      "inicio": 4.023,
+      "fin": 5.04
+    },
+    {
+      "texto": "limpiar",
+      "inicio": 5.14,
+      "fin": 5.68
+    },
+    {
+      "texto": "un",
+      "inicio": 5.707,
+      "fin": 5.76
+    },
+    {
+      "texto": "archivo",
+      "inicio": 5.81,
+      "fin": 6.16
+    },
+    {
+      "texto": "que",
+      "inicio": 6.2,
+      "fin": 6.32
+    },
+    {
+      "texto": "te",
+      "inicio": 6.373,
+      "fin": 6.48
+    },
+    {
+      "texto": "llegó",
+      "inicio": 6.528,
+      "fin": 6.96
+    },
+    {
+      "texto": "desordenado,",
+      "inicio": 7.06,
+      "fin": 8.56
+    },
+    {
+      "texto": "resumir",
+      "inicio": 8.62,
+      "fin": 9.04
+    },
+    {
+      "texto": "un",
+      "inicio": 9.067,
+      "fin": 9.12
+    },
+    {
+      "texto": "documento",
+      "inicio": 9.176,
+      "fin": 9.68
+    },
+    {
+      "texto": "largo,",
+      "inicio": 9.76,
+      "fin": 10.56
+    },
+    {
+      "texto": "o",
+      "inicio": 10.6,
+      "fin": 10.64
+    },
+    {
+      "texto": "revisar",
+      "inicio": 10.707,
+      "fin": 11.12
+    },
+    {
+      "texto": "por",
+      "inicio": 11.16,
+      "fin": 11.28
+    },
+    {
+      "texto": "qué",
+      "inicio": 11.32,
+      "fin": 11.44
+    },
+    {
+      "texto": "una",
+      "inicio": 11.5,
+      "fin": 11.68
+    },
+    {
+      "texto": "hoja",
+      "inicio": 11.733,
+      "fin": 11.92
+    },
+    {
+      "texto": "de",
+      "inicio": 11.947,
+      "fin": 12.0
+    },
+    {
+      "texto": "Excel",
+      "inicio": 12.107,
+      "fin": 12.64
+    },
+    {
+      "texto": "da",
+      "inicio": 12.773,
+      "fin": 13.04
+    },
+    {
+      "texto": "resultados",
+      "inicio": 13.091,
+      "fin": 13.6
+    },
+    {
+      "texto": "raros.",
+      "inicio": 13.66,
+      "fin": 14.48
+    },
+    {
+      "texto": "Imagina",
+      "inicio": 14.56,
+      "fin": 15.04
+    },
+    {
+      "texto": "que",
+      "inicio": 15.06,
+      "fin": 15.12
+    },
+    {
+      "texto": "estás",
+      "inicio": 15.16,
+      "fin": 15.36
+    },
+    {
+      "texto": "en",
+      "inicio": 15.387,
+      "fin": 15.44
+    },
+    {
+      "texto": "una",
+      "inicio": 15.48,
+      "fin": 15.6
+    },
+    {
+      "texto": "reunión",
+      "inicio": 15.648,
+      "fin": 16.32
+    },
+    {
+      "texto": "y",
+      "inicio": 16.44,
+      "fin": 16.56
+    },
+    {
+      "texto": "te",
+      "inicio": 16.613,
+      "fin": 16.72
+    },
+    {
+      "texto": "piden",
+      "inicio": 16.76,
+      "fin": 17.04
+    },
+    {
+      "texto": "un",
+      "inicio": 17.067,
+      "fin": 17.12
+    },
+    {
+      "texto": "dato:",
+      "inicio": 17.2,
+      "fin": 18.08
+    },
+    {
+      "texto": "le",
+      "inicio": 18.107,
+      "fin": 18.16
+    },
+    {
+      "texto": "pides",
+      "inicio": 18.24,
+      "fin": 18.56
+    },
+    {
+      "texto": "a",
+      "inicio": 18.6,
+      "fin": 18.64
+    },
+    {
+      "texto": "Claude",
+      "inicio": 18.697,
+      "fin": 19.04
+    },
+    {
+      "texto": "que",
+      "inicio": 19.08,
+      "fin": 19.2
+    },
+    {
+      "texto": "lo",
+      "inicio": 19.227,
+      "fin": 19.28
+    },
+    {
+      "texto": "calcule",
+      "inicio": 19.344,
+      "fin": 19.76
+    },
+    {
+      "texto": "con",
+      "inicio": 19.78,
+      "fin": 19.84
+    },
+    {
+      "texto": "tus",
+      "inicio": 19.9,
+      "fin": 20.08
+    },
+    {
+      "texto": "archivos,",
+      "inicio": 20.133,
+      "fin": 21.04
+    },
+    {
+      "texto": "y",
+      "inicio": 21.08,
+      "fin": 21.12
+    },
+    {
+      "texto": "en",
+      "inicio": 21.173,
+      "fin": 21.28
+    },
+    {
+      "texto": "un",
+      "inicio": 21.307,
+      "fin": 21.36
+    },
+    {
+      "texto": "minuto",
+      "inicio": 21.4,
+      "fin": 21.84
+    },
+    {
+      "texto": "lo",
+      "inicio": 21.947,
+      "fin": 22.16
+    },
+    {
+      "texto": "tienes",
+      "inicio": 22.206,
+      "fin": 22.48
+    },
+    {
+      "texto": "en",
+      "inicio": 22.507,
+      "fin": 22.56
+    },
+    {
+      "texto": "el",
+      "inicio": 22.587,
+      "fin": 22.64
+    },
+    {
+      "texto": "celular.",
+      "inicio": 22.7,
+      "fin": 23.28
+    },
+    {
+      "texto": "Si",
+      "inicio": 23.898,
+      "fin": 23.925
+    },
+    {
+      "texto": "no",
+      "inicio": 23.978,
+      "fin": 24.085
+    },
+    {
+      "texto": "lo",
+      "inicio": 24.112,
+      "fin": 24.165
+    },
+    {
+      "texto": "aprendes",
+      "inicio": 24.199,
+      "fin": 24.565
+    },
+    {
+      "texto": "ahora,",
+      "inicio": 24.632,
+      "fin": 25.205
+    },
+    {
+      "texto": "te",
+      "inicio": 25.232,
+      "fin": 25.285
+    },
+    {
+      "texto": "extingues:",
+      "inicio": 25.345,
+      "fin": 26.645
+    },
+    {
+      "texto": "los",
+      "inicio": 26.665,
+      "fin": 26.725
+    },
+    {
+      "texto": "que",
+      "inicio": 26.765,
+      "fin": 26.885
+    },
+    {
+      "texto": "trabajan",
+      "inicio": 26.931,
+      "fin": 27.285
+    },
+    {
+      "texto": "con",
+      "inicio": 27.325,
+      "fin": 27.445
+    },
+    {
+      "texto": "agentes",
+      "inicio": 27.512,
+      "fin": 28.085
+    },
+    {
+      "texto": "van",
+      "inicio": 28.185,
+      "fin": 28.485
+    },
+    {
+      "texto": "a",
+      "inicio": 28.525,
+      "fin": 28.565
+    },
+    {
+      "texto": "rendir",
+      "inicio": 28.613,
+      "fin": 28.885
+    },
+    {
+      "texto": "el",
+      "inicio": 28.938,
+      "fin": 29.045
+    },
+    {
+      "texto": "doble.",
+      "inicio": 29.098,
+      "fin": 29.605
+    }
+  ]
+}

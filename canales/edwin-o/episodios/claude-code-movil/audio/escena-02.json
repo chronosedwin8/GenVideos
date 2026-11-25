@@ -1,0 +1,240 @@
+{
+  "num": "02",
+  "titulo": "Presentación",
+  "texto": "¡Bienvenidos, amigos del canal! Vamos en busca del poder tecnológico. Hoy te enseño a controlar Claude Code desde tu celular con una función que se llama Remote Control. Vas a ver cómo instalarlo, cómo conectar el teléfono, cómo mandarle tareas reales y qué cuidar en seguridad.",
+  "texto_tts": "[excited] ¡Bienvenidos, amigos del canal! Vamos en busca del poder tecnológico. Hoy te enseño a controlar Claude Code desde tu celular con una función que se llama Remote Control. Vas a ver cómo instalarlo, cómo conectar el teléfono, cómo mandarle tareas reales y qué cuidar en seguridad.",
+  "modelo": "eleven_v3",
+  "duracion": 18.96,
+  "palabras": [
+    {
+      "texto": "¡Bienvenidos,",
+      "inicio": 0.18,
+      "fin": 0.8
+    },
+    {
+      "texto": "amigos",
+      "inicio": 0.823,
+      "fin": 0.96
+    },
+    {
+      "texto": "del",
+      "inicio": 1.0,
+      "fin": 1.12
+    },
+    {
+      "texto": "canal!",
+      "inicio": 1.187,
+      "fin": 1.68
+    },
+    {
+      "texto": "Vamos",
+      "inicio": 1.72,
+      "fin": 2.0
+    },
+    {
+      "texto": "en",
+      "inicio": 2.053,
+      "fin": 2.16
+    },
+    {
+      "texto": "busca",
+      "inicio": 2.227,
+      "fin": 2.56
+    },
+    {
+      "texto": "del",
+      "inicio": 2.6,
+      "fin": 2.72
+    },
+    {
+      "texto": "poder",
+      "inicio": 2.8,
+      "fin": 3.2
+    },
+    {
+      "texto": "tecnológico.",
+      "inicio": 3.264,
+      "fin": 4.56
+    },
+    {
+      "texto": "Hoy",
+      "inicio": 4.62,
+      "fin": 4.8
+    },
+    {
+      "texto": "te",
+      "inicio": 4.827,
+      "fin": 4.88
+    },
+    {
+      "texto": "enseño",
+      "inicio": 4.944,
+      "fin": 5.28
+    },
+    {
+      "texto": "a",
+      "inicio": 5.32,
+      "fin": 5.36
+    },
+    {
+      "texto": "controlar",
+      "inicio": 5.41,
+      "fin": 5.92
+    },
+    {
+      "texto": "Claude",
+      "inicio": 5.989,
+      "fin": 6.4
+    },
+    {
+      "texto": "Code",
+      "inicio": 6.48,
+      "fin": 6.8
+    },
+    {
+      "texto": "desde",
+      "inicio": 6.88,
+      "fin": 7.28
+    },
+    {
+      "texto": "tu",
+      "inicio": 7.333,
+      "fin": 7.44
+    },
+    {
+      "texto": "celular",
+      "inicio": 7.51,
+      "fin": 8.0
+    },
+    {
+      "texto": "con",
+      "inicio": 8.14,
+      "fin": 8.56
+    },
+    {
+      "texto": "una",
+      "inicio": 8.62,
+      "fin": 8.8
+    },
+    {
+      "texto": "función",
+      "inicio": 8.85,
+      "fin": 9.2
+    },
+    {
+      "texto": "que",
+      "inicio": 9.24,
+      "fin": 9.36
+    },
+    {
+      "texto": "se",
+      "inicio": 9.413,
+      "fin": 9.52
+    },
+    {
+      "texto": "llama",
+      "inicio": 9.573,
+      "fin": 9.84
+    },
+    {
+      "texto": "Remote",
+      "inicio": 9.943,
+      "fin": 10.56
+    },
+    {
+      "texto": "Control.",
+      "inicio": 10.65,
+      "fin": 11.6
+    },
+    {
+      "texto": "Vas",
+      "inicio": 11.68,
+      "fin": 11.92
+    },
+    {
+      "texto": "a",
+      "inicio": 11.96,
+      "fin": 12.0
+    },
+    {
+      "texto": "ver",
+      "inicio": 12.06,
+      "fin": 12.24
+    },
+    {
+      "texto": "cómo",
+      "inicio": 12.304,
+      "fin": 12.56
+    },
+    {
+      "texto": "instalarlo,",
+      "inicio": 12.592,
+      "fin": 13.36
+    },
+    {
+      "texto": "cómo",
+      "inicio": 13.392,
+      "fin": 13.52
+    },
+    {
+      "texto": "conectar",
+      "inicio": 13.573,
+      "fin": 14.0
+    },
+    {
+      "texto": "el",
+      "inicio": 14.027,
+      "fin": 14.08
+    },
+    {
+      "texto": "teléfono,",
+      "inicio": 14.12,
+      "fin": 15.04
+    },
+    {
+      "texto": "cómo",
+      "inicio": 15.088,
+      "fin": 15.28
+    },
+    {
+      "texto": "mandarle",
+      "inicio": 15.328,
+      "fin": 15.76
+    },
+    {
+      "texto": "tareas",
+      "inicio": 15.84,
+      "fin": 16.24
+    },
+    {
+      "texto": "reales",
+      "inicio": 16.347,
+      "fin": 16.96
+    },
+    {
+      "texto": "y",
+      "inicio": 17.08,
+      "fin": 17.2
+    },
+    {
+      "texto": "qué",
+      "inicio": 17.28,
+      "fin": 17.52
+    },
+    {
+      "texto": "cuidar",
+      "inicio": 17.584,
+      "fin": 17.92
+    },
+    {
+      "texto": "en",
+      "inicio": 17.973,
+      "fin": 18.08
+    },
+    {
+      "texto": "seguridad.",
+      "inicio": 18.144,
+      "fin": 18.96
+    }
+  ]
+}

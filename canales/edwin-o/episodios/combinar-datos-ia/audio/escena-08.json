@@ -1,0 +1,225 @@
+{
+  "num": "08",
+  "titulo": "Pieza 1: APILARV junta los meses",
+  "texto": "Pieza uno: APILARV. Toma los pedidos de enero y pone debajo los de febrero, como apilar dos cajas. Resultado: una sola tabla de doce filas. LET le pone a esa tabla un nombre, \"datos\", para no tener que repetir todo eso cada vez.",
+  "texto_tts": "Pieza uno: APILARV. Toma los pedidos de enero y pone debajo los de febrero, como apilar dos cajas. Resultado: una sola tabla de doce filas. LET le pone a esa tabla un nombre, \"datos\", para no tener que repetir todo eso cada vez.",
+  "modelo": "eleven_v3",
+  "duracion": 21.84,
+  "palabras": [
+    {
+      "texto": "Pieza",
+      "inicio": 0.0,
+      "fin": 0.32
+    },
+    {
+      "texto": "uno:",
+      "inicio": 0.42,
+      "fin": 0.8
+    },
+    {
+      "texto": "APILARV.",
+      "inicio": 1.173,
+      "fin": 2.48
+    },
+    {
+      "texto": "Toma",
+      "inicio": 3.04,
+      "fin": 3.84
+    },
+    {
+      "texto": "los",
+      "inicio": 3.88,
+      "fin": 4.0
+    },
+    {
+      "texto": "pedidos",
+      "inicio": 4.06,
+      "fin": 4.4
+    },
+    {
+      "texto": "de",
+      "inicio": 4.427,
+      "fin": 4.48
+    },
+    {
+      "texto": "enero",
+      "inicio": 4.533,
+      "fin": 4.96
+    },
+    {
+      "texto": "y",
+      "inicio": 5.16,
+      "fin": 5.36
+    },
+    {
+      "texto": "pone",
+      "inicio": 5.44,
+      "fin": 5.68
+    },
+    {
+      "texto": "debajo",
+      "inicio": 5.74,
+      "fin": 6.16
+    },
+    {
+      "texto": "los",
+      "inicio": 6.2,
+      "fin": 6.32
+    },
+    {
+      "texto": "de",
+      "inicio": 6.347,
+      "fin": 6.4
+    },
+    {
+      "texto": "febrero,",
+      "inicio": 6.48,
+      "fin": 7.12
+    },
+    {
+      "texto": "como",
+      "inicio": 7.264,
+      "fin": 7.84
+    },
+    {
+      "texto": "apilar",
+      "inicio": 7.893,
+      "fin": 8.24
+    },
+    {
+      "texto": "dos",
+      "inicio": 8.28,
+      "fin": 8.4
+    },
+    {
+      "texto": "cajas.",
+      "inicio": 8.48,
+      "fin": 9.12
+    },
+    {
+      "texto": "Resultado:",
+      "inicio": 9.28,
+      "fin": 10.64
+    },
+    {
+      "texto": "una",
+      "inicio": 10.86,
+      "fin": 11.52
+    },
+    {
+      "texto": "sola",
+      "inicio": 11.584,
+      "fin": 11.84
+    },
+    {
+      "texto": "tabla",
+      "inicio": 11.92,
+      "fin": 12.32
+    },
+    {
+      "texto": "de",
+      "inicio": 12.373,
+      "fin": 12.48
+    },
+    {
+      "texto": "doce",
+      "inicio": 12.56,
+      "fin": 12.8
+    },
+    {
+      "texto": "filas.",
+      "inicio": 12.88,
+      "fin": 13.6
+    },
+    {
+      "texto": "LET",
+      "inicio": 14.0,
+      "fin": 15.2
+    },
+    {
+      "texto": "le",
+      "inicio": 15.253,
+      "fin": 15.36
+    },
+    {
+      "texto": "pone",
+      "inicio": 15.44,
+      "fin": 15.68
+    },
+    {
+      "texto": "a",
+      "inicio": 15.74,
+      "fin": 15.8
+    },
+    {
+      "texto": "esa",
+      "inicio": 15.83,
+      "fin": 15.92
+    },
+    {
+      "texto": "tabla",
+      "inicio": 15.973,
+      "fin": 16.24
+    },
+    {
+      "texto": "un",
+      "inicio": 16.293,
+      "fin": 16.4
+    },
+    {
+      "texto": "nombre,",
+      "inicio": 16.469,
+      "fin": 17.44
+    },
+    {
+      "texto": "\"datos\",",
+      "inicio": 17.48,
+      "fin": 18.24
+    },
+    {
+      "texto": "para",
+      "inicio": 18.352,
+      "fin": 18.8
+    },
+    {
+      "texto": "no",
+      "inicio": 18.827,
+      "fin": 18.88
+    },
+    {
+      "texto": "tener",
+      "inicio": 18.933,
+      "fin": 19.2
+    },
+    {
+      "texto": "que",
+      "inicio": 19.24,
+      "fin": 19.36
+    },
+    {
+      "texto": "repetir",
+      "inicio": 19.427,
+      "fin": 19.92
+    },
+    {
+      "texto": "todo",
+      "inicio": 20.016,
+      "fin": 20.4
+    },
+    {
+      "texto": "eso",
+      "inicio": 20.5,
+      "fin": 20.8
+    },
+    {
+      "texto": "cada",
+      "inicio": 20.896,
+      "fin": 21.28
+    },
+    {
+      "texto": "vez.",
+      "inicio": 21.38,
+      "fin": 21.84
+    }
+  ]
+}

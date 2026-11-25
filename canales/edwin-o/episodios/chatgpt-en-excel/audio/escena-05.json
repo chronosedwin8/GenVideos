@@ -1,0 +1,310 @@
+{
+  "num": "05",
+  "titulo": "Paso 1: instálalo",
+  "texto": "Paso uno: instálalo. Funciona en Excel de escritorio y en Excel para la web. Ve a la pestaña Inicio, busca el botón Complementos, y escribe ChatGPT en el buscador. Lo agregas, y aparece un botón de ChatGPT en la cinta. Lo abres, inicias sesión con tu cuenta de ChatGPT, y se abre un panel a la derecha de tu hoja.",
+  "texto_tts": "Paso uno: instálalo. Funciona en Excel de escritorio y en Excel para la web. Ve a la pestaña Inicio, busca el botón Complementos, y escribe ChatGPT en el buscador. Lo agregas, y aparece un botón de ChatGPT en la cinta. Lo abres, inicias sesión con tu cuenta de ChatGPT, y se abre un panel a la derecha de tu hoja.",
+  "modelo": "eleven_v3",
+  "duracion": 26.4,
+  "palabras": [
+    {
+      "texto": "Paso",
+      "inicio": 0.0,
+      "fin": 0.24
+    },
+    {
+      "texto": "uno:",
+      "inicio": 0.32,
+      "fin": 0.64
+    },
+    {
+      "texto": "instálalo.",
+      "inicio": 0.8,
+      "fin": 2.48
+    },
+    {
+      "texto": "Funciona",
+      "inicio": 2.592,
+      "fin": 3.28
+    },
+    {
+      "texto": "en",
+      "inicio": 3.387,
+      "fin": 3.6
+    },
+    {
+      "texto": "Excel",
+      "inicio": 3.667,
+      "fin": 4.0
+    },
+    {
+      "texto": "de",
+      "inicio": 4.053,
+      "fin": 4.16
+    },
+    {
+      "texto": "escritorio",
+      "inicio": 4.217,
+      "fin": 4.8
+    },
+    {
+      "texto": "y",
+      "inicio": 4.92,
+      "fin": 5.04
+    },
+    {
+      "texto": "en",
+      "inicio": 5.067,
+      "fin": 5.12
+    },
+    {
+      "texto": "Excel",
+      "inicio": 5.2,
+      "fin": 5.6
+    },
+    {
+      "texto": "para",
+      "inicio": 5.648,
+      "fin": 5.84
+    },
+    {
+      "texto": "la",
+      "inicio": 5.893,
+      "fin": 6.0
+    },
+    {
+      "texto": "web.",
+      "inicio": 6.08,
+      "fin": 6.4
+    },
+    {
+      "texto": "Ve",
+      "inicio": 6.693,
+      "fin": 7.28
+    },
+    {
+      "texto": "a",
+      "inicio": 7.32,
+      "fin": 7.36
+    },
+    {
+      "texto": "la",
+      "inicio": 7.387,
+      "fin": 7.44
+    },
+    {
+      "texto": "pestaña",
+      "inicio": 7.48,
+      "fin": 8.08
+    },
+    {
+      "texto": "Inicio,",
+      "inicio": 8.213,
+      "fin": 9.44
+    },
+    {
+      "texto": "busca",
+      "inicio": 9.507,
+      "fin": 9.84
+    },
+    {
+      "texto": "el",
+      "inicio": 9.893,
+      "fin": 10.0
+    },
+    {
+      "texto": "botón",
+      "inicio": 10.06,
+      "fin": 10.4
+    },
+    {
+      "texto": "Complementos,",
+      "inicio": 10.5,
+      "fin": 12.0
+    },
+    {
+      "texto": "y",
+      "inicio": 12.04,
+      "fin": 12.08
+    },
+    {
+      "texto": "escribe",
+      "inicio": 12.133,
+      "fin": 12.64
+    },
+    {
+      "texto": "ChatGPT",
+      "inicio": 12.736,
+      "fin": 13.6
+    },
+    {
+      "texto": "en",
+      "inicio": 13.68,
+      "fin": 13.84
+    },
+    {
+      "texto": "el",
+      "inicio": 13.867,
+      "fin": 13.92
+    },
+    {
+      "texto": "buscador.",
+      "inicio": 13.968,
+      "fin": 14.56
+    },
+    {
+      "texto": "Lo",
+      "inicio": 14.773,
+      "fin": 15.2
+    },
+    {
+      "texto": "agregas,",
+      "inicio": 15.267,
+      "fin": 15.84
+    },
+    {
+      "texto": "y",
+      "inicio": 16.04,
+      "fin": 16.24
+    },
+    {
+      "texto": "aparece",
+      "inicio": 16.28,
+      "fin": 16.64
+    },
+    {
+      "texto": "un",
+      "inicio": 16.667,
+      "fin": 16.72
+    },
+    {
+      "texto": "botón",
+      "inicio": 16.78,
+      "fin": 17.12
+    },
+    {
+      "texto": "de",
+      "inicio": 17.173,
+      "fin": 17.28
+    },
+    {
+      "texto": "ChatGPT",
+      "inicio": 17.36,
+      "fin": 18.08
+    },
+    {
+      "texto": "en",
+      "inicio": 18.16,
+      "fin": 18.32
+    },
+    {
+      "texto": "la",
+      "inicio": 18.373,
+      "fin": 18.48
+    },
+    {
+      "texto": "cinta.",
+      "inicio": 18.56,
+      "fin": 19.04
+    },
+    {
+      "texto": "Lo",
+      "inicio": 19.28,
+      "fin": 19.76
+    },
+    {
+      "texto": "abres,",
+      "inicio": 19.84,
+      "fin": 20.64
+    },
+    {
+      "texto": "inicias",
+      "inicio": 20.693,
+      "fin": 21.04
+    },
+    {
+      "texto": "sesión",
+      "inicio": 21.097,
+      "fin": 21.44
+    },
+    {
+      "texto": "con",
+      "inicio": 21.48,
+      "fin": 21.6
+    },
+    {
+      "texto": "tu",
+      "inicio": 21.653,
+      "fin": 21.76
+    },
+    {
+      "texto": "cuenta",
+      "inicio": 21.817,
+      "fin": 22.16
+    },
+    {
+      "texto": "de",
+      "inicio": 22.24,
+      "fin": 22.4
+    },
+    {
+      "texto": "ChatGPT,",
+      "inicio": 22.464,
+      "fin": 23.52
+    },
+    {
+      "texto": "y",
+      "inicio": 23.64,
+      "fin": 23.76
+    },
+    {
+      "texto": "se",
+      "inicio": 23.813,
+      "fin": 23.92
+    },
+    {
+      "texto": "abre",
+      "inicio": 24.0,
+      "fin": 24.32
+    },
+    {
+      "texto": "un",
+      "inicio": 24.373,
+      "fin": 24.48
+    },
+    {
+      "texto": "panel",
+      "inicio": 24.573,
+      "fin": 25.04
+    },
+    {
+      "texto": "a",
+      "inicio": 25.08,
+      "fin": 25.12
+    },
+    {
+      "texto": "la",
+      "inicio": 25.173,
+      "fin": 25.28
+    },
+    {
+      "texto": "derecha",
+      "inicio": 25.328,
+      "fin": 25.68
+    },
+    {
+      "texto": "de",
+      "inicio": 25.707,
+      "fin": 25.76
+    },
+    {
+      "texto": "tu",
+      "inicio": 25.84,
+      "fin": 26.0
+    },
+    {
+      "texto": "hoja.",
+      "inicio": 26.053,
+      "fin": 26.4
+    }
+  ]
+}

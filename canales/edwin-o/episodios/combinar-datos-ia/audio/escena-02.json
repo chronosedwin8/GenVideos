@@ -1,0 +1,280 @@
+{
+  "num": "02",
+  "titulo": "Presentación",
+  "texto": "¡Bienvenidos, amigos del canal! Vamos en busca del poder tecnológico. Hoy te enseño la varita mágica de Excel: cómo pedirle a la inteligencia artificial que combine tus datos como un profesional. Vas a ver el prompt exacto, la fórmula pieza por pieza, el misterio del cliente fantasma, y otras tres varitas que puedes usar.",
+  "texto_tts": "[excited] ¡Bienvenidos, amigos del canal! Vamos en busca del poder tecnológico. Hoy te enseño la varita mágica de Excel: cómo pedirle a la inteligencia artificial que combine tus datos como un profesional. Vas a ver el prompt exacto, la fórmula pieza por pieza, el misterio del cliente fantasma, y otras tres varitas que puedes usar.",
+  "modelo": "eleven_v3",
+  "duracion": 28.56,
+  "palabras": [
+    {
+      "texto": "¡Bienvenidos,",
+      "inicio": 0.18,
+      "fin": 1.0
+    },
+    {
+      "texto": "amigos",
+      "inicio": 1.029,
+      "fin": 1.2
+    },
+    {
+      "texto": "del",
+      "inicio": 1.24,
+      "fin": 1.36
+    },
+    {
+      "texto": "canal!",
+      "inicio": 1.453,
+      "fin": 2.0
+    },
+    {
+      "texto": "Vamos",
+      "inicio": 2.2,
+      "fin": 2.72
+    },
+    {
+      "texto": "en",
+      "inicio": 2.8,
+      "fin": 2.96
+    },
+    {
+      "texto": "busca",
+      "inicio": 3.04,
+      "fin": 3.44
+    },
+    {
+      "texto": "del",
+      "inicio": 3.58,
+      "fin": 4.0
+    },
+    {
+      "texto": "poder",
+      "inicio": 4.107,
+      "fin": 4.64
+    },
+    {
+      "texto": "tecnológico.",
+      "inicio": 4.736,
+      "fin": 6.08
+    },
+    {
+      "texto": "Hoy",
+      "inicio": 6.22,
+      "fin": 6.64
+    },
+    {
+      "texto": "te",
+      "inicio": 6.667,
+      "fin": 6.72
+    },
+    {
+      "texto": "enseño",
+      "inicio": 6.8,
+      "fin": 7.36
+    },
+    {
+      "texto": "la",
+      "inicio": 7.52,
+      "fin": 7.84
+    },
+    {
+      "texto": "varita",
+      "inicio": 7.92,
+      "fin": 8.4
+    },
+    {
+      "texto": "mágica",
+      "inicio": 8.52,
+      "fin": 9.04
+    },
+    {
+      "texto": "de",
+      "inicio": 9.093,
+      "fin": 9.2
+    },
+    {
+      "texto": "Excel:",
+      "inicio": 9.28,
+      "fin": 10.64
+    },
+    {
+      "texto": "cómo",
+      "inicio": 10.704,
+      "fin": 10.96
+    },
+    {
+      "texto": "pedirle",
+      "inicio": 11.02,
+      "fin": 11.6
+    },
+    {
+      "texto": "a",
+      "inicio": 11.72,
+      "fin": 11.84
+    },
+    {
+      "texto": "la",
+      "inicio": 11.867,
+      "fin": 11.92
+    },
+    {
+      "texto": "inteligencia",
+      "inicio": 11.99,
+      "fin": 12.72
+    },
+    {
+      "texto": "artificial",
+      "inicio": 12.822,
+      "fin": 13.84
+    },
+    {
+      "texto": "que",
+      "inicio": 13.92,
+      "fin": 14.16
+    },
+    {
+      "texto": "combine",
+      "inicio": 14.23,
+      "fin": 14.72
+    },
+    {
+      "texto": "tus",
+      "inicio": 14.76,
+      "fin": 14.88
+    },
+    {
+      "texto": "datos",
+      "inicio": 14.987,
+      "fin": 15.52
+    },
+    {
+      "texto": "como",
+      "inicio": 15.616,
+      "fin": 16.0
+    },
+    {
+      "texto": "un",
+      "inicio": 16.053,
+      "fin": 16.16
+    },
+    {
+      "texto": "profesional.",
+      "inicio": 16.227,
+      "fin": 17.2
+    },
+    {
+      "texto": "Vas",
+      "inicio": 17.38,
+      "fin": 17.92
+    },
+    {
+      "texto": "a",
+      "inicio": 17.96,
+      "fin": 18.0
+    },
+    {
+      "texto": "ver",
+      "inicio": 18.06,
+      "fin": 18.24
+    },
+    {
+      "texto": "el",
+      "inicio": 18.347,
+      "fin": 18.56
+    },
+    {
+      "texto": "prompt",
+      "inicio": 18.629,
+      "fin": 19.04
+    },
+    {
+      "texto": "exacto,",
+      "inicio": 19.133,
+      "fin": 20.0
+    },
+    {
+      "texto": "la",
+      "inicio": 20.053,
+      "fin": 20.16
+    },
+    {
+      "texto": "fórmula",
+      "inicio": 20.28,
+      "fin": 20.88
+    },
+    {
+      "texto": "pieza",
+      "inicio": 21.0,
+      "fin": 21.6
+    },
+    {
+      "texto": "por",
+      "inicio": 21.64,
+      "fin": 21.76
+    },
+    {
+      "texto": "pieza,",
+      "inicio": 21.84,
+      "fin": 22.64
+    },
+    {
+      "texto": "el",
+      "inicio": 22.747,
+      "fin": 22.96
+    },
+    {
+      "texto": "misterio",
+      "inicio": 23.0,
+      "fin": 23.6
+    },
+    {
+      "texto": "del",
+      "inicio": 23.64,
+      "fin": 23.76
+    },
+    {
+      "texto": "cliente",
+      "inicio": 23.82,
+      "fin": 24.24
+    },
+    {
+      "texto": "fantasma,",
+      "inicio": 24.32,
+      "fin": 25.28
+    },
+    {
+      "texto": "y",
+      "inicio": 25.48,
+      "fin": 25.68
+    },
+    {
+      "texto": "otras",
+      "inicio": 25.747,
+      "fin": 26.08
+    },
+    {
+      "texto": "tres",
+      "inicio": 26.144,
+      "fin": 26.4
+    },
+    {
+      "texto": "varitas",
+      "inicio": 26.46,
+      "fin": 27.12
+    },
+    {
+      "texto": "que",
+      "inicio": 27.18,
+      "fin": 27.36
+    },
+    {
+      "texto": "puedes",
+      "inicio": 27.429,
+      "fin": 27.84
+    },
+    {
+      "texto": "usar.",
+      "inicio": 27.936,
+      "fin": 28.56
+    }
+  ]
+}

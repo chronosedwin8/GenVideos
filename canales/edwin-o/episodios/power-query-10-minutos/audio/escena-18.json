@@ -1,0 +1,355 @@
+{
+  "num": "18",
+  "titulo": "Detrás de escena: el lenguaje M",
+  "texto": "¿Y qué hay detrás? Si vas a la pestaña Vista y abres el Editor avanzado, verás que cada clic que diste se convirtió en una línea de código, en un lenguaje que se llama M. No necesitas aprenderlo para usar Power Query. Pero si algún día quieres ir más lejos, ya sabes dónde mirar. Y también puedes activar la barra de fórmulas, para ver la línea de cada paso.",
+  "texto_tts": "¿Y qué hay detrás? Si vas a la pestaña Vista y abres el Editor avanzado, verás que cada clic que diste se convirtió en una línea de código, en un lenguaje que se llama M. No necesitas aprenderlo para usar Power Query. Pero si algún día quieres ir más lejos, ya sabes dónde mirar. Y también puedes activar la barra de fórmulas, para ver la línea de cada paso.",
+  "modelo": "eleven_v3",
+  "duracion": 27.12,
+  "palabras": [
+    {
+      "texto": "¿Y",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "qué",
+      "inicio": 0.12,
+      "fin": 0.24
+    },
+    {
+      "texto": "hay",
+      "inicio": 0.28,
+      "fin": 0.4
+    },
+    {
+      "texto": "detrás?",
+      "inicio": 0.464,
+      "fin": 0.96
+    },
+    {
+      "texto": "Si",
+      "inicio": 1.093,
+      "fin": 1.36
+    },
+    {
+      "texto": "vas",
+      "inicio": 1.42,
+      "fin": 1.6
+    },
+    {
+      "texto": "a",
+      "inicio": 1.64,
+      "fin": 1.68
+    },
+    {
+      "texto": "la",
+      "inicio": 1.733,
+      "fin": 1.84
+    },
+    {
+      "texto": "pestaña",
+      "inicio": 1.88,
+      "fin": 2.4
+    },
+    {
+      "texto": "Vista",
+      "inicio": 2.48,
+      "fin": 2.88
+    },
+    {
+      "texto": "y",
+      "inicio": 3.0,
+      "fin": 3.12
+    },
+    {
+      "texto": "abres",
+      "inicio": 3.2,
+      "fin": 3.6
+    },
+    {
+      "texto": "el",
+      "inicio": 3.627,
+      "fin": 3.68
+    },
+    {
+      "texto": "Editor",
+      "inicio": 3.737,
+      "fin": 4.08
+    },
+    {
+      "texto": "avanzado,",
+      "inicio": 4.147,
+      "fin": 5.52
+    },
+    {
+      "texto": "verás",
+      "inicio": 5.56,
+      "fin": 5.84
+    },
+    {
+      "texto": "que",
+      "inicio": 5.88,
+      "fin": 6.0
+    },
+    {
+      "texto": "cada",
+      "inicio": 6.064,
+      "fin": 6.32
+    },
+    {
+      "texto": "clic",
+      "inicio": 6.384,
+      "fin": 6.64
+    },
+    {
+      "texto": "que",
+      "inicio": 6.68,
+      "fin": 6.8
+    },
+    {
+      "texto": "diste",
+      "inicio": 6.88,
+      "fin": 7.44
+    },
+    {
+      "texto": "se",
+      "inicio": 7.627,
+      "fin": 8.0
+    },
+    {
+      "texto": "convirtió",
+      "inicio": 8.048,
+      "fin": 8.48
+    },
+    {
+      "texto": "en",
+      "inicio": 8.507,
+      "fin": 8.56
+    },
+    {
+      "texto": "una",
+      "inicio": 8.6,
+      "fin": 8.72
+    },
+    {
+      "texto": "línea",
+      "inicio": 8.787,
+      "fin": 9.12
+    },
+    {
+      "texto": "de",
+      "inicio": 9.147,
+      "fin": 9.2
+    },
+    {
+      "texto": "código,",
+      "inicio": 9.28,
+      "fin": 10.24
+    },
+    {
+      "texto": "en",
+      "inicio": 10.267,
+      "fin": 10.32
+    },
+    {
+      "texto": "un",
+      "inicio": 10.373,
+      "fin": 10.48
+    },
+    {
+      "texto": "lenguaje",
+      "inicio": 10.52,
+      "fin": 11.12
+    },
+    {
+      "texto": "que",
+      "inicio": 11.2,
+      "fin": 11.44
+    },
+    {
+      "texto": "se",
+      "inicio": 11.493,
+      "fin": 11.6
+    },
+    {
+      "texto": "llama",
+      "inicio": 11.693,
+      "fin": 12.16
+    },
+    {
+      "texto": "M.",
+      "inicio": 12.4,
+      "fin": 12.72
+    },
+    {
+      "texto": "No",
+      "inicio": 13.093,
+      "fin": 13.84
+    },
+    {
+      "texto": "necesitas",
+      "inicio": 13.907,
+      "fin": 14.48
+    },
+    {
+      "texto": "aprenderlo",
+      "inicio": 14.542,
+      "fin": 15.12
+    },
+    {
+      "texto": "para",
+      "inicio": 15.168,
+      "fin": 15.36
+    },
+    {
+      "texto": "usar",
+      "inicio": 15.408,
+      "fin": 15.6
+    },
+    {
+      "texto": "Power",
+      "inicio": 15.667,
+      "fin": 16.0
+    },
+    {
+      "texto": "Query.",
+      "inicio": 16.08,
+      "fin": 16.92
+    },
+    {
+      "texto": "Pero",
+      "inicio": 17.008,
+      "fin": 17.36
+    },
+    {
+      "texto": "si",
+      "inicio": 17.387,
+      "fin": 17.44
+    },
+    {
+      "texto": "algún",
+      "inicio": 17.493,
+      "fin": 17.76
+    },
+    {
+      "texto": "día",
+      "inicio": 17.84,
+      "fin": 18.08
+    },
+    {
+      "texto": "quieres",
+      "inicio": 18.13,
+      "fin": 18.48
+    },
+    {
+      "texto": "ir",
+      "inicio": 18.507,
+      "fin": 18.56
+    },
+    {
+      "texto": "más",
+      "inicio": 18.62,
+      "fin": 18.8
+    },
+    {
+      "texto": "lejos,",
+      "inicio": 18.88,
+      "fin": 19.92
+    },
+    {
+      "texto": "ya",
+      "inicio": 19.973,
+      "fin": 20.08
+    },
+    {
+      "texto": "sabes",
+      "inicio": 20.14,
+      "fin": 20.48
+    },
+    {
+      "texto": "dónde",
+      "inicio": 20.507,
+      "fin": 20.72
+    },
+    {
+      "texto": "mirar.",
+      "inicio": 20.78,
+      "fin": 21.2
+    },
+    {
+      "texto": "Y",
+      "inicio": 21.68,
+      "fin": 22.16
+    },
+    {
+      "texto": "también",
+      "inicio": 22.21,
+      "fin": 22.56
+    },
+    {
+      "texto": "puedes",
+      "inicio": 22.617,
+      "fin": 22.96
+    },
+    {
+      "texto": "activar",
+      "inicio": 23.013,
+      "fin": 23.44
+    },
+    {
+      "texto": "la",
+      "inicio": 23.493,
+      "fin": 23.6
+    },
+    {
+      "texto": "barra",
+      "inicio": 23.64,
+      "fin": 23.84
+    },
+    {
+      "texto": "de",
+      "inicio": 23.893,
+      "fin": 24.0
+    },
+    {
+      "texto": "fórmulas,",
+      "inicio": 24.04,
+      "fin": 25.12
+    },
+    {
+      "texto": "para",
+      "inicio": 25.152,
+      "fin": 25.28
+    },
+    {
+      "texto": "ver",
+      "inicio": 25.32,
+      "fin": 25.44
+    },
+    {
+      "texto": "la",
+      "inicio": 25.493,
+      "fin": 25.6
+    },
+    {
+      "texto": "línea",
+      "inicio": 25.667,
+      "fin": 26.0
+    },
+    {
+      "texto": "de",
+      "inicio": 26.08,
+      "fin": 26.24
+    },
+    {
+      "texto": "cada",
+      "inicio": 26.304,
+      "fin": 26.56
+    },
+    {
+      "texto": "paso.",
+      "inicio": 26.64,
+      "fin": 27.12
+    }
+  ]
+}

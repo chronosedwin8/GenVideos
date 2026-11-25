@@ -1,0 +1,315 @@
+{
+  "num": "21",
+  "titulo": "Cierre y siguiente video",
+  "texto": "Si te gustan estos retos, visita mi página, edwinortiz punto net, y la tienda, con plantillas de Excel listas para usar; el enlace está abajo. En el próximo video calculamos la probabilidad binomial al instante, con Excel y con Python, y resolvemos un misterio con números. Suscríbete para no perdértelo. El poder de la tecnología te va a cambiar el mundo.",
+  "texto_tts": "Si te gustan estos retos, visita mi página, edwinortiz punto net, y la tienda, con plantillas de Excel listas para usar; el enlace está abajo. En el próximo video calculamos la probabilidad binomial al instante, con Excel y con Python, y resolvemos un misterio con números. Suscríbete para no perdértelo. [excited] El poder de la tecnología te va a cambiar el mundo.",
+  "modelo": "eleven_v3",
+  "duracion": 22.086,
+  "palabras": [
+    {
+      "texto": "Si",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "te",
+      "inicio": 0.133,
+      "fin": 0.24
+    },
+    {
+      "texto": "gustan",
+      "inicio": 0.272,
+      "fin": 0.56
+    },
+    {
+      "texto": "estos",
+      "inicio": 0.6,
+      "fin": 0.8
+    },
+    {
+      "texto": "retos,",
+      "inicio": 0.88,
+      "fin": 1.28
+    },
+    {
+      "texto": "visita",
+      "inicio": 1.326,
+      "fin": 1.6
+    },
+    {
+      "texto": "mi",
+      "inicio": 1.653,
+      "fin": 1.76
+    },
+    {
+      "texto": "página,",
+      "inicio": 1.817,
+      "fin": 2.32
+    },
+    {
+      "texto": "edwinortiz",
+      "inicio": 2.373,
+      "fin": 3.12
+    },
+    {
+      "texto": "punto",
+      "inicio": 3.16,
+      "fin": 3.36
+    },
+    {
+      "texto": "net,",
+      "inicio": 3.44,
+      "fin": 3.76
+    },
+    {
+      "texto": "y",
+      "inicio": 3.88,
+      "fin": 4.0
+    },
+    {
+      "texto": "la",
+      "inicio": 4.027,
+      "fin": 4.08
+    },
+    {
+      "texto": "tienda,",
+      "inicio": 4.16,
+      "fin": 4.8
+    },
+    {
+      "texto": "con",
+      "inicio": 4.82,
+      "fin": 4.88
+    },
+    {
+      "texto": "plantillas",
+      "inicio": 4.933,
+      "fin": 5.36
+    },
+    {
+      "texto": "de",
+      "inicio": 5.387,
+      "fin": 5.44
+    },
+    {
+      "texto": "Excel",
+      "inicio": 5.507,
+      "fin": 5.84
+    },
+    {
+      "texto": "listas",
+      "inicio": 5.92,
+      "fin": 6.32
+    },
+    {
+      "texto": "para",
+      "inicio": 6.352,
+      "fin": 6.48
+    },
+    {
+      "texto": "usar;",
+      "inicio": 6.56,
+      "fin": 7.12
+    },
+    {
+      "texto": "el",
+      "inicio": 7.147,
+      "fin": 7.2
+    },
+    {
+      "texto": "enlace",
+      "inicio": 7.253,
+      "fin": 7.68
+    },
+    {
+      "texto": "está",
+      "inicio": 7.76,
+      "fin": 8.08
+    },
+    {
+      "texto": "abajo.",
+      "inicio": 8.107,
+      "fin": 8.48
+    },
+    {
+      "texto": "En",
+      "inicio": 8.587,
+      "fin": 8.8
+    },
+    {
+      "texto": "el",
+      "inicio": 8.853,
+      "fin": 8.96
+    },
+    {
+      "texto": "próximo",
+      "inicio": 9.01,
+      "fin": 9.36
+    },
+    {
+      "texto": "video",
+      "inicio": 9.413,
+      "fin": 9.68
+    },
+    {
+      "texto": "calculamos",
+      "inicio": 9.726,
+      "fin": 10.24
+    },
+    {
+      "texto": "la",
+      "inicio": 10.293,
+      "fin": 10.4
+    },
+    {
+      "texto": "probabilidad",
+      "inicio": 10.448,
+      "fin": 11.04
+    },
+    {
+      "texto": "binomial",
+      "inicio": 11.08,
+      "fin": 11.52
+    },
+    {
+      "texto": "al",
+      "inicio": 11.6,
+      "fin": 11.76
+    },
+    {
+      "texto": "instante,",
+      "inicio": 11.824,
+      "fin": 12.8
+    },
+    {
+      "texto": "con",
+      "inicio": 12.82,
+      "fin": 12.88
+    },
+    {
+      "texto": "Excel",
+      "inicio": 12.96,
+      "fin": 13.36
+    },
+    {
+      "texto": "y",
+      "inicio": 13.48,
+      "fin": 13.6
+    },
+    {
+      "texto": "con",
+      "inicio": 13.64,
+      "fin": 13.76
+    },
+    {
+      "texto": "Python,",
+      "inicio": 13.829,
+      "fin": 14.56
+    },
+    {
+      "texto": "y",
+      "inicio": 14.6,
+      "fin": 14.64
+    },
+    {
+      "texto": "resolvemos",
+      "inicio": 14.7,
+      "fin": 15.28
+    },
+    {
+      "texto": "un",
+      "inicio": 15.36,
+      "fin": 15.52
+    },
+    {
+      "texto": "misterio",
+      "inicio": 15.56,
+      "fin": 16.0
+    },
+    {
+      "texto": "con",
+      "inicio": 16.04,
+      "fin": 16.16
+    },
+    {
+      "texto": "números.",
+      "inicio": 16.23,
+      "fin": 16.8
+    },
+    {
+      "texto": "Suscríbete",
+      "inicio": 16.96,
+      "fin": 17.84
+    },
+    {
+      "texto": "para",
+      "inicio": 17.888,
+      "fin": 18.08
+    },
+    {
+      "texto": "no",
+      "inicio": 18.107,
+      "fin": 18.16
+    },
+    {
+      "texto": "perdértelo.",
+      "inicio": 18.224,
+      "fin": 18.88
+    },
+    {
+      "texto": "El",
+      "inicio": 19.313,
+      "fin": 19.366
+    },
+    {
+      "texto": "poder",
+      "inicio": 19.433,
+      "fin": 19.766
+    },
+    {
+      "texto": "de",
+      "inicio": 19.793,
+      "fin": 19.846
+    },
+    {
+      "texto": "la",
+      "inicio": 19.873,
+      "fin": 19.926
+    },
+    {
+      "texto": "tecnología",
+      "inicio": 19.99,
+      "fin": 20.646
+    },
+    {
+      "texto": "te",
+      "inicio": 20.753,
+      "fin": 20.966
+    },
+    {
+      "texto": "va",
+      "inicio": 21.019,
+      "fin": 21.126
+    },
+    {
+      "texto": "a",
+      "inicio": 21.246,
+      "fin": 21.366
+    },
+    {
+      "texto": "cambiar",
+      "inicio": 21.396,
+      "fin": 21.606
+    },
+    {
+      "texto": "el",
+      "inicio": 21.633,
+      "fin": 21.686
+    },
+    {
+      "texto": "mundo.",
+      "inicio": 21.739,
+      "fin": 22.086
+    }
+  ]
+}

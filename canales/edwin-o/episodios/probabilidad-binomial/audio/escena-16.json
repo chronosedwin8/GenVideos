@@ -1,0 +1,385 @@
+{
+  "num": "16",
+  "titulo": "Dónde la usa un analista de datos",
+  "texto": "¿Dónde la usa un analista de datos en la vida real? En control de calidad, como el caso del proveedor. En campañas: si mandas doscientos correos y cada uno tiene cierta probabilidad de respuesta, la binomial te dice qué resultado es normal y cuál es una señal de alarma. En ventas por llamadas, en pruebas A B, en ausentismo… En todos los casos, la pregunta es la misma: ¿esto es normal, o está pasando algo?",
+  "texto_tts": "¿Dónde la usa un analista de datos en la vida real? En control de calidad, como el caso del proveedor. En campañas: si mandas doscientos correos y cada uno tiene cierta probabilidad de respuesta, la binomial te dice qué resultado es normal y cuál es una señal de alarma. En ventas por llamadas, en pruebas A B, en ausentismo… En todos los casos, la pregunta es la misma: ¿esto es normal, o está pasando algo?",
+  "modelo": "eleven_v3",
+  "duracion": 26.72,
+  "palabras": [
+    {
+      "texto": "¿Dónde",
+      "inicio": 0.0,
+      "fin": 0.24
+    },
+    {
+      "texto": "la",
+      "inicio": 0.293,
+      "fin": 0.4
+    },
+    {
+      "texto": "usa",
+      "inicio": 0.46,
+      "fin": 0.64
+    },
+    {
+      "texto": "un",
+      "inicio": 0.667,
+      "fin": 0.72
+    },
+    {
+      "texto": "analista",
+      "inicio": 0.768,
+      "fin": 1.2
+    },
+    {
+      "texto": "de",
+      "inicio": 1.227,
+      "fin": 1.28
+    },
+    {
+      "texto": "datos",
+      "inicio": 1.333,
+      "fin": 1.6
+    },
+    {
+      "texto": "en",
+      "inicio": 1.653,
+      "fin": 1.76
+    },
+    {
+      "texto": "la",
+      "inicio": 1.787,
+      "fin": 1.84
+    },
+    {
+      "texto": "vida",
+      "inicio": 1.888,
+      "fin": 2.08
+    },
+    {
+      "texto": "real?",
+      "inicio": 2.144,
+      "fin": 2.48
+    },
+    {
+      "texto": "En",
+      "inicio": 2.613,
+      "fin": 2.88
+    },
+    {
+      "texto": "control",
+      "inicio": 2.93,
+      "fin": 3.28
+    },
+    {
+      "texto": "de",
+      "inicio": 3.307,
+      "fin": 3.36
+    },
+    {
+      "texto": "calidad,",
+      "inicio": 3.41,
+      "fin": 4.0
+    },
+    {
+      "texto": "como",
+      "inicio": 4.032,
+      "fin": 4.16
+    },
+    {
+      "texto": "el",
+      "inicio": 4.187,
+      "fin": 4.24
+    },
+    {
+      "texto": "caso",
+      "inicio": 4.288,
+      "fin": 4.48
+    },
+    {
+      "texto": "del",
+      "inicio": 4.52,
+      "fin": 4.64
+    },
+    {
+      "texto": "proveedor.",
+      "inicio": 4.693,
+      "fin": 5.28
+    },
+    {
+      "texto": "En",
+      "inicio": 5.493,
+      "fin": 5.92
+    },
+    {
+      "texto": "campañas:",
+      "inicio": 5.984,
+      "fin": 6.8
+    },
+    {
+      "texto": "si",
+      "inicio": 6.987,
+      "fin": 7.36
+    },
+    {
+      "texto": "mandas",
+      "inicio": 7.424,
+      "fin": 7.84
+    },
+    {
+      "texto": "doscientos",
+      "inicio": 7.92,
+      "fin": 8.48
+    },
+    {
+      "texto": "correos",
+      "inicio": 8.547,
+      "fin": 9.04
+    },
+    {
+      "texto": "y",
+      "inicio": 9.12,
+      "fin": 9.2
+    },
+    {
+      "texto": "cada",
+      "inicio": 9.264,
+      "fin": 9.52
+    },
+    {
+      "texto": "uno",
+      "inicio": 9.58,
+      "fin": 9.76
+    },
+    {
+      "texto": "tiene",
+      "inicio": 9.8,
+      "fin": 10.0
+    },
+    {
+      "texto": "cierta",
+      "inicio": 10.053,
+      "fin": 10.4
+    },
+    {
+      "texto": "probabilidad",
+      "inicio": 10.432,
+      "fin": 10.96
+    },
+    {
+      "texto": "de",
+      "inicio": 10.987,
+      "fin": 11.04
+    },
+    {
+      "texto": "respuesta,",
+      "inicio": 11.096,
+      "fin": 12.08
+    },
+    {
+      "texto": "la",
+      "inicio": 12.107,
+      "fin": 12.16
+    },
+    {
+      "texto": "binomial",
+      "inicio": 12.22,
+      "fin": 12.72
+    },
+    {
+      "texto": "te",
+      "inicio": 12.773,
+      "fin": 12.88
+    },
+    {
+      "texto": "dice",
+      "inicio": 12.928,
+      "fin": 13.12
+    },
+    {
+      "texto": "qué",
+      "inicio": 13.22,
+      "fin": 13.52
+    },
+    {
+      "texto": "resultado",
+      "inicio": 13.576,
+      "fin": 14.08
+    },
+    {
+      "texto": "es",
+      "inicio": 14.107,
+      "fin": 14.16
+    },
+    {
+      "texto": "normal",
+      "inicio": 14.24,
+      "fin": 14.72
+    },
+    {
+      "texto": "y",
+      "inicio": 14.92,
+      "fin": 15.12
+    },
+    {
+      "texto": "cuál",
+      "inicio": 15.173,
+      "fin": 15.36
+    },
+    {
+      "texto": "es",
+      "inicio": 15.413,
+      "fin": 15.52
+    },
+    {
+      "texto": "una",
+      "inicio": 15.56,
+      "fin": 15.68
+    },
+    {
+      "texto": "señal",
+      "inicio": 15.74,
+      "fin": 16.0
+    },
+    {
+      "texto": "de",
+      "inicio": 16.027,
+      "fin": 16.08
+    },
+    {
+      "texto": "alarma.",
+      "inicio": 16.133,
+      "fin": 16.72
+    },
+    {
+      "texto": "En",
+      "inicio": 16.987,
+      "fin": 17.52
+    },
+    {
+      "texto": "ventas",
+      "inicio": 17.577,
+      "fin": 17.92
+    },
+    {
+      "texto": "por",
+      "inicio": 17.96,
+      "fin": 18.08
+    },
+    {
+      "texto": "llamadas,",
+      "inicio": 18.128,
+      "fin": 18.88
+    },
+    {
+      "texto": "en",
+      "inicio": 18.907,
+      "fin": 18.96
+    },
+    {
+      "texto": "pruebas",
+      "inicio": 19.04,
+      "fin": 19.44
+    },
+    {
+      "texto": "A",
+      "inicio": 19.48,
+      "fin": 19.52
+    },
+    {
+      "texto": "B,",
+      "inicio": 19.68,
+      "fin": 19.92
+    },
+    {
+      "texto": "en",
+      "inicio": 20.053,
+      "fin": 20.32
+    },
+    {
+      "texto": "ausentismo…",
+      "inicio": 20.38,
+      "fin": 21.28
+    },
+    {
+      "texto": "En",
+      "inicio": 21.52,
+      "fin": 22.0
+    },
+    {
+      "texto": "todos",
+      "inicio": 22.067,
+      "fin": 22.4
+    },
+    {
+      "texto": "los",
+      "inicio": 22.44,
+      "fin": 22.56
+    },
+    {
+      "texto": "casos,",
+      "inicio": 22.613,
+      "fin": 22.92
+    },
+    {
+      "texto": "la",
+      "inicio": 22.933,
+      "fin": 22.96
+    },
+    {
+      "texto": "pregunta",
+      "inicio": 23.013,
+      "fin": 23.44
+    },
+    {
+      "texto": "es",
+      "inicio": 23.467,
+      "fin": 23.52
+    },
+    {
+      "texto": "la",
+      "inicio": 23.547,
+      "fin": 23.6
+    },
+    {
+      "texto": "misma:",
+      "inicio": 23.667,
+      "fin": 24.16
+    },
+    {
+      "texto": "¿esto",
+      "inicio": 24.32,
+      "fin": 24.72
+    },
+    {
+      "texto": "es",
+      "inicio": 24.747,
+      "fin": 24.8
+    },
+    {
+      "texto": "normal,",
+      "inicio": 24.857,
+      "fin": 25.28
+    },
+    {
+      "texto": "o",
+      "inicio": 25.48,
+      "fin": 25.68
+    },
+    {
+      "texto": "está",
+      "inicio": 25.728,
+      "fin": 25.92
+    },
+    {
+      "texto": "pasando",
+      "inicio": 25.98,
+      "fin": 26.4
+    },
+    {
+      "texto": "algo?",
+      "inicio": 26.464,
+      "fin": 26.72
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "num": "21",
+  "titulo": "Resumen",
+  "texto": "En resumen, los diez movimientos: entrar, rellenar, anular la dinamización, nombres y tipos, dividir, columna personalizada, agrupar, combinar, calcular el porcentaje, y cargar y actualizar. Practícalos con tus propios datos esta semana. Si no lo aprendes ahora, te extingues.",
+  "texto_tts": "En resumen, los diez movimientos: entrar, rellenar, anular la dinamización, nombres y tipos, dividir, columna personalizada, agrupar, combinar, calcular el porcentaje, y cargar y actualizar. Practícalos con tus propios datos esta semana. [serious] Si no lo aprendes ahora, te extingues.",
+  "modelo": "eleven_v3",
+  "duracion": 27.286,
+  "palabras": [
+    {
+      "texto": "En",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "resumen,",
+      "inicio": 0.14,
+      "fin": 0.88
+    },
+    {
+      "texto": "los",
+      "inicio": 0.92,
+      "fin": 1.04
+    },
+    {
+      "texto": "diez",
+      "inicio": 1.08,
+      "fin": 1.32
+    },
+    {
+      "texto": "movimientos:",
+      "inicio": 1.35,
+      "fin": 2.56
+    },
+    {
+      "texto": "entrar,",
+      "inicio": 2.651,
+      "fin": 3.28
+    },
+    {
+      "texto": "rellenar,",
+      "inicio": 3.547,
+      "fin": 4.64
+    },
+    {
+      "texto": "anular",
+      "inicio": 4.933,
+      "fin": 5.84
+    },
+    {
+      "texto": "la",
+      "inicio": 5.893,
+      "fin": 6.0
+    },
+    {
+      "texto": "dinamización,",
+      "inicio": 6.04,
+      "fin": 7.56
+    },
+    {
+      "texto": "nombres",
+      "inicio": 7.635,
+      "fin": 8.16
+    },
+    {
+      "texto": "y",
+      "inicio": 8.2,
+      "fin": 8.24
+    },
+    {
+      "texto": "tipos,",
+      "inicio": 8.347,
+      "fin": 8.96
+    },
+    {
+      "texto": "dividir,",
+      "inicio": 9.107,
+      "fin": 10.24
+    },
+    {
+      "texto": "columna",
+      "inicio": 10.38,
+      "fin": 11.36
+    },
+    {
+      "texto": "personalizada,",
+      "inicio": 11.413,
+      "fin": 12.4
+    },
+    {
+      "texto": "agrupar,",
+      "inicio": 12.66,
+      "fin": 13.92
+    },
+    {
+      "texto": "combinar,",
+      "inicio": 14.144,
+      "fin": 16.16
+    },
+    {
+      "texto": "calcular",
+      "inicio": 16.222,
+      "fin": 16.72
+    },
+    {
+      "texto": "el",
+      "inicio": 16.747,
+      "fin": 16.8
+    },
+    {
+      "texto": "porcentaje,",
+      "inicio": 16.86,
+      "fin": 17.84
+    },
+    {
+      "texto": "y",
+      "inicio": 18.12,
+      "fin": 18.4
+    },
+    {
+      "texto": "cargar",
+      "inicio": 18.457,
+      "fin": 18.8
+    },
+    {
+      "texto": "y",
+      "inicio": 18.84,
+      "fin": 18.88
+    },
+    {
+      "texto": "actualizar.",
+      "inicio": 18.953,
+      "fin": 19.76
+    },
+    {
+      "texto": "Practícalos",
+      "inicio": 19.96,
+      "fin": 21.28
+    },
+    {
+      "texto": "con",
+      "inicio": 21.32,
+      "fin": 21.44
+    },
+    {
+      "texto": "tus",
+      "inicio": 21.48,
+      "fin": 21.6
+    },
+    {
+      "texto": "propios",
+      "inicio": 21.648,
+      "fin": 22.0
+    },
+    {
+      "texto": "datos",
+      "inicio": 22.053,
+      "fin": 22.32
+    },
+    {
+      "texto": "esta",
+      "inicio": 22.384,
+      "fin": 22.64
+    },
+    {
+      "texto": "semana.",
+      "inicio": 22.72,
+      "fin": 23.28
+    },
+    {
+      "texto": "Si",
+      "inicio": 24.273,
+      "fin": 24.326
+    },
+    {
+      "texto": "no",
+      "inicio": 24.379,
+      "fin": 24.486
+    },
+    {
+      "texto": "lo",
+      "inicio": 24.513,
+      "fin": 24.566
+    },
+    {
+      "texto": "aprendes",
+      "inicio": 24.623,
+      "fin": 25.126
+    },
+    {
+      "texto": "ahora,",
+      "inicio": 25.193,
+      "fin": 25.606
+    },
+    {
+      "texto": "te",
+      "inicio": 25.846,
+      "fin": 26.326
+    },
+    {
+      "texto": "extingues.",
+      "inicio": 26.406,
+      "fin": 27.286
+    }
+  ]
+}

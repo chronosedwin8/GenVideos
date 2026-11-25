@@ -35,6 +35,14 @@ Todos los tiempos internos (`desde`, `hasta`, `enter`, `fondoDesde`…) aceptan 
 genérico; `panel: true` = panel lateral tipo Copilot) · `comparar` (A vs B) · `formula` (fórmula grande con partes
 explicadas) · `cronologia` · `teclas` · `barras` (gráfico estilo matplotlib) · `cortinilla` · `cierre` · `resumen` ·
 `errores` (✗/✓) · `logo` · `pildora`. Texto entre `comillas invertidas` se muestra como código.
+Desde ene 2027 (`Bloques2.tsx`): `imagenes` (PNG reales de `public/`, p. ej. QR) · `etiquetas` (hoja de etiquetas con QR y código de
+barras) · `movil` (celular con la app: `items` = lista de sesiones, `mensajes` = chat, `notas` a la derecha, `qr` a la izquierda) ·
+`editorpq` (Editor de Power Query: `estados` de la tabla en el tiempo, `pasos` aplicados, `botones` = comando pulsado) · `tienda`
+(tarjeta con QR real a edwinortiz.net/tienda). `cierre` acepta `web: 'cue'` para la píldora "edwinortiz.net/tienda".
+Celdas de `HojaExcel`: `imagen` (resultado de `=IMAGEN()`), `fuente` (p. ej. 'Libre Barcode 39') y `tamano`.
+Un `chat` con `panel: true` y `capa: true` se superpone a la hoja (panel lateral tipo complemento: deja la hoja en las columnas A–E).
+Con etiqueta `paso`, las píldoras de arriba bajan solas para no chocar con ella. **Toda escena final lleva `tienda` + `cierre` con `web`.**
+Interfaces que no se ejecutaron (paneles de IA, Claude Code) llevan una píldora "Recreación" o el título "(recreación)".
 
 **HojaExcel:** `celdas` (con `desde`/`hasta` para reemplazar valores), `escritura` (fórmula que se escribe sola; `enter` =
 cuándo aparece el resultado), `resaltes`, `seleccion`, `zoom`, `cursor` ('C5', 'tab:Fórmulas', 'btn:Insertar Python'),

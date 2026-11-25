@@ -1,0 +1,295 @@
+{
+  "num": "03",
+  "titulo": "El caso",
+  "texto": "El dato es real. Según Prensa Latina, a mitad del Mundial dos mil veintiséis, se habían cobrado sesenta penales, entre los del partido y los de las tandas, y se habían fallado veintiuno. Un treinta y cinco por ciento. O sea, en ese momento, la probabilidad de meter un penal era del sesenta y cinco por ciento.",
+  "texto_tts": "El dato es real. Según Prensa Latina, a mitad del Mundial dos mil veintiséis, se habían cobrado sesenta penales, entre los del partido y los de las tandas, y se habían fallado veintiuno. Un treinta y cinco por ciento. O sea, en ese momento, la probabilidad de meter un penal era del sesenta y cinco por ciento.",
+  "modelo": "eleven_v3",
+  "duracion": 21.52,
+  "palabras": [
+    {
+      "texto": "El",
+      "inicio": 0.0,
+      "fin": 0.16
+    },
+    {
+      "texto": "dato",
+      "inicio": 0.208,
+      "fin": 0.4
+    },
+    {
+      "texto": "es",
+      "inicio": 0.453,
+      "fin": 0.56
+    },
+    {
+      "texto": "real.",
+      "inicio": 0.64,
+      "fin": 1.28
+    },
+    {
+      "texto": "Según",
+      "inicio": 1.36,
+      "fin": 1.76
+    },
+    {
+      "texto": "Prensa",
+      "inicio": 1.84,
+      "fin": 2.16
+    },
+    {
+      "texto": "Latina,",
+      "inicio": 2.24,
+      "fin": 2.96
+    },
+    {
+      "texto": "a",
+      "inicio": 3.0,
+      "fin": 3.04
+    },
+    {
+      "texto": "mitad",
+      "inicio": 3.12,
+      "fin": 3.52
+    },
+    {
+      "texto": "del",
+      "inicio": 3.54,
+      "fin": 3.6
+    },
+    {
+      "texto": "Mundial",
+      "inicio": 3.664,
+      "fin": 4.08
+    },
+    {
+      "texto": "dos",
+      "inicio": 4.12,
+      "fin": 4.24
+    },
+    {
+      "texto": "mil",
+      "inicio": 4.28,
+      "fin": 4.4
+    },
+    {
+      "texto": "veintiséis,",
+      "inicio": 4.453,
+      "fin": 5.6
+    },
+    {
+      "texto": "se",
+      "inicio": 5.627,
+      "fin": 5.68
+    },
+    {
+      "texto": "habían",
+      "inicio": 5.7,
+      "fin": 6.0
+    },
+    {
+      "texto": "cobrado",
+      "inicio": 6.06,
+      "fin": 6.56
+    },
+    {
+      "texto": "sesenta",
+      "inicio": 6.68,
+      "fin": 7.28
+    },
+    {
+      "texto": "penales,",
+      "inicio": 7.36,
+      "fin": 8.16
+    },
+    {
+      "texto": "entre",
+      "inicio": 8.213,
+      "fin": 8.48
+    },
+    {
+      "texto": "los",
+      "inicio": 8.52,
+      "fin": 8.64
+    },
+    {
+      "texto": "del",
+      "inicio": 8.68,
+      "fin": 8.8
+    },
+    {
+      "texto": "partido",
+      "inicio": 8.87,
+      "fin": 9.36
+    },
+    {
+      "texto": "y",
+      "inicio": 9.48,
+      "fin": 9.6
+    },
+    {
+      "texto": "los",
+      "inicio": 9.64,
+      "fin": 9.76
+    },
+    {
+      "texto": "de",
+      "inicio": 9.787,
+      "fin": 9.84
+    },
+    {
+      "texto": "las",
+      "inicio": 9.88,
+      "fin": 10.0
+    },
+    {
+      "texto": "tandas,",
+      "inicio": 10.064,
+      "fin": 10.96
+    },
+    {
+      "texto": "y",
+      "inicio": 11.0,
+      "fin": 11.04
+    },
+    {
+      "texto": "se",
+      "inicio": 11.093,
+      "fin": 11.2
+    },
+    {
+      "texto": "habían",
+      "inicio": 11.22,
+      "fin": 11.52
+    },
+    {
+      "texto": "fallado",
+      "inicio": 11.552,
+      "fin": 11.92
+    },
+    {
+      "texto": "veintiuno.",
+      "inicio": 11.973,
+      "fin": 12.8
+    },
+    {
+      "texto": "Un",
+      "inicio": 12.987,
+      "fin": 13.36
+    },
+    {
+      "texto": "treinta",
+      "inicio": 13.42,
+      "fin": 13.84
+    },
+    {
+      "texto": "y",
+      "inicio": 13.88,
+      "fin": 13.92
+    },
+    {
+      "texto": "cinco",
+      "inicio": 13.987,
+      "fin": 14.32
+    },
+    {
+      "texto": "por",
+      "inicio": 14.36,
+      "fin": 14.48
+    },
+    {
+      "texto": "ciento.",
+      "inicio": 14.56,
+      "fin": 15.04
+    },
+    {
+      "texto": "O",
+      "inicio": 15.36,
+      "fin": 15.68
+    },
+    {
+      "texto": "sea,",
+      "inicio": 15.76,
+      "fin": 16.16
+    },
+    {
+      "texto": "en",
+      "inicio": 16.213,
+      "fin": 16.32
+    },
+    {
+      "texto": "ese",
+      "inicio": 16.38,
+      "fin": 16.56
+    },
+    {
+      "texto": "momento,",
+      "inicio": 16.62,
+      "fin": 17.44
+    },
+    {
+      "texto": "la",
+      "inicio": 17.493,
+      "fin": 17.6
+    },
+    {
+      "texto": "probabilidad",
+      "inicio": 17.648,
+      "fin": 18.32
+    },
+    {
+      "texto": "de",
+      "inicio": 18.347,
+      "fin": 18.4
+    },
+    {
+      "texto": "meter",
+      "inicio": 18.453,
+      "fin": 18.72
+    },
+    {
+      "texto": "un",
+      "inicio": 18.747,
+      "fin": 18.8
+    },
+    {
+      "texto": "penal",
+      "inicio": 18.867,
+      "fin": 19.2
+    },
+    {
+      "texto": "era",
+      "inicio": 19.32,
+      "fin": 19.68
+    },
+    {
+      "texto": "del",
+      "inicio": 19.72,
+      "fin": 19.84
+    },
+    {
+      "texto": "sesenta",
+      "inicio": 19.9,
+      "fin": 20.32
+    },
+    {
+      "texto": "y",
+      "inicio": 20.4,
+      "fin": 20.48
+    },
+    {
+      "texto": "cinco",
+      "inicio": 20.52,
+      "fin": 20.72
+    },
+    {
+      "texto": "por",
+      "inicio": 20.78,
+      "fin": 20.96
+    },
+    {
+      "texto": "ciento.",
+      "inicio": 21.0,
+      "fin": 21.52
+    }
+  ]
+}

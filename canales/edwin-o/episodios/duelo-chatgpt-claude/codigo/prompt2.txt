@@ -1,0 +1,3 @@
+Dos retos más:
+4) Escribe un código de Python con pandas que lea el archivo ventas.xlsx (con las hojas Ene, Feb y Clientes, tal como te las di) y haga lo mismo: junte los pedidos, agregue el nombre y la ciudad, y muestre el total vendido por ciudad.
+5) ¿Qué cliente compró más en febrero, y en qué porcentaje cambiaron sus compras frente a enero?

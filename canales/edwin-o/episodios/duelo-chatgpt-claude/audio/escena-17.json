@@ -1,0 +1,295 @@
+{
+  "num": "17",
+  "titulo": "La gran lección",
+  "texto": "La gran lección del duelo es esta: las dos se pueden equivocar. Así que prueba cada fórmula antes de usarla, ejecuta el código con datos de prueba, y comprueba el total. Y un truco que aprendí aquí: pídele a cualquier IA que pruebe su código antes de responderte. Ese pedido solo, te ahorra muchos dolores de cabeza.",
+  "texto_tts": "La gran lección del duelo es esta: las dos se pueden equivocar. Así que prueba cada fórmula antes de usarla, ejecuta el código con datos de prueba, y comprueba el total. Y un truco que aprendí aquí: pídele a cualquier IA que pruebe su código antes de responderte. Ese pedido solo, te ahorra muchos dolores de cabeza.",
+  "modelo": "eleven_v3",
+  "duracion": 24.48,
+  "palabras": [
+    {
+      "texto": "La",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "gran",
+      "inicio": 0.128,
+      "fin": 0.32
+    },
+    {
+      "texto": "lección",
+      "inicio": 0.373,
+      "fin": 0.72
+    },
+    {
+      "texto": "del",
+      "inicio": 0.76,
+      "fin": 0.88
+    },
+    {
+      "texto": "duelo",
+      "inicio": 0.933,
+      "fin": 1.2
+    },
+    {
+      "texto": "es",
+      "inicio": 1.253,
+      "fin": 1.36
+    },
+    {
+      "texto": "esta:",
+      "inicio": 1.424,
+      "fin": 1.76
+    },
+    {
+      "texto": "las",
+      "inicio": 2.04,
+      "fin": 2.88
+    },
+    {
+      "texto": "dos",
+      "inicio": 2.96,
+      "fin": 3.2
+    },
+    {
+      "texto": "se",
+      "inicio": 3.333,
+      "fin": 3.6
+    },
+    {
+      "texto": "pueden",
+      "inicio": 3.634,
+      "fin": 3.84
+    },
+    {
+      "texto": "equivocar.",
+      "inicio": 3.893,
+      "fin": 4.56
+    },
+    {
+      "texto": "Así",
+      "inicio": 4.96,
+      "fin": 5.84
+    },
+    {
+      "texto": "que",
+      "inicio": 5.86,
+      "fin": 5.92
+    },
+    {
+      "texto": "prueba",
+      "inicio": 5.966,
+      "fin": 6.24
+    },
+    {
+      "texto": "cada",
+      "inicio": 6.304,
+      "fin": 6.56
+    },
+    {
+      "texto": "fórmula",
+      "inicio": 6.64,
+      "fin": 7.2
+    },
+    {
+      "texto": "antes",
+      "inicio": 7.253,
+      "fin": 7.52
+    },
+    {
+      "texto": "de",
+      "inicio": 7.547,
+      "fin": 7.6
+    },
+    {
+      "texto": "usarla,",
+      "inicio": 7.664,
+      "fin": 8.72
+    },
+    {
+      "texto": "ejecuta",
+      "inicio": 8.8,
+      "fin": 9.28
+    },
+    {
+      "texto": "el",
+      "inicio": 9.307,
+      "fin": 9.36
+    },
+    {
+      "texto": "código",
+      "inicio": 9.44,
+      "fin": 9.92
+    },
+    {
+      "texto": "con",
+      "inicio": 9.96,
+      "fin": 10.08
+    },
+    {
+      "texto": "datos",
+      "inicio": 10.133,
+      "fin": 10.4
+    },
+    {
+      "texto": "de",
+      "inicio": 10.427,
+      "fin": 10.48
+    },
+    {
+      "texto": "prueba,",
+      "inicio": 10.549,
+      "fin": 11.04
+    },
+    {
+      "texto": "y",
+      "inicio": 11.32,
+      "fin": 11.6
+    },
+    {
+      "texto": "comprueba",
+      "inicio": 11.653,
+      "fin": 12.08
+    },
+    {
+      "texto": "el",
+      "inicio": 12.107,
+      "fin": 12.16
+    },
+    {
+      "texto": "total.",
+      "inicio": 12.227,
+      "fin": 12.64
+    },
+    {
+      "texto": "Y",
+      "inicio": 13.16,
+      "fin": 13.68
+    },
+    {
+      "texto": "un",
+      "inicio": 13.733,
+      "fin": 13.84
+    },
+    {
+      "texto": "truco",
+      "inicio": 13.893,
+      "fin": 14.24
+    },
+    {
+      "texto": "que",
+      "inicio": 14.26,
+      "fin": 14.32
+    },
+    {
+      "texto": "aprendí",
+      "inicio": 14.366,
+      "fin": 14.72
+    },
+    {
+      "texto": "aquí:",
+      "inicio": 14.784,
+      "fin": 16.0
+    },
+    {
+      "texto": "pídele",
+      "inicio": 16.02,
+      "fin": 16.32
+    },
+    {
+      "texto": "a",
+      "inicio": 16.46,
+      "fin": 16.6
+    },
+    {
+      "texto": "cualquier",
+      "inicio": 16.628,
+      "fin": 16.88
+    },
+    {
+      "texto": "IA",
+      "inicio": 17.067,
+      "fin": 17.44
+    },
+    {
+      "texto": "que",
+      "inicio": 17.52,
+      "fin": 17.76
+    },
+    {
+      "texto": "pruebe",
+      "inicio": 17.813,
+      "fin": 18.16
+    },
+    {
+      "texto": "su",
+      "inicio": 18.187,
+      "fin": 18.24
+    },
+    {
+      "texto": "código",
+      "inicio": 18.32,
+      "fin": 18.8
+    },
+    {
+      "texto": "antes",
+      "inicio": 18.893,
+      "fin": 19.36
+    },
+    {
+      "texto": "de",
+      "inicio": 19.387,
+      "fin": 19.44
+    },
+    {
+      "texto": "responderte.",
+      "inicio": 19.49,
+      "fin": 20.72
+    },
+    {
+      "texto": "Ese",
+      "inicio": 20.96,
+      "fin": 21.28
+    },
+    {
+      "texto": "pedido",
+      "inicio": 21.349,
+      "fin": 21.76
+    },
+    {
+      "texto": "solo,",
+      "inicio": 21.84,
+      "fin": 22.24
+    },
+    {
+      "texto": "te",
+      "inicio": 22.347,
+      "fin": 22.56
+    },
+    {
+      "texto": "ahorra",
+      "inicio": 22.6,
+      "fin": 22.88
+    },
+    {
+      "texto": "muchos",
+      "inicio": 22.96,
+      "fin": 23.44
+    },
+    {
+      "texto": "dolores",
+      "inicio": 23.5,
+      "fin": 23.84
+    },
+    {
+      "texto": "de",
+      "inicio": 23.867,
+      "fin": 23.92
+    },
+    {
+      "texto": "cabeza.",
+      "inicio": 23.989,
+      "fin": 24.48
+    }
+  ]
+}

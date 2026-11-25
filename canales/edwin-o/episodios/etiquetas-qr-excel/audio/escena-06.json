@@ -1,0 +1,310 @@
+{
+  "num": "06",
+  "titulo": "Los datos",
+  "texto": "Estos son los datos: un inventario con seis activos. En la columna A está el código, de INV cero cero uno a INV cero cero seis. En la B el producto, en la C la ubicación y en la D la cantidad. Los códigos QR van a ir en la columna F y los códigos de barras en la G.",
+  "texto_tts": "Estos son los datos: un inventario con seis activos. En la columna A está el código, de INV cero cero uno a INV cero cero seis. En la B el producto, en la C la ubicación y en la D la cantidad. Los códigos QR van a ir en la columna F y los códigos de barras en la G.",
+  "modelo": "eleven_v3",
+  "duracion": 25.52,
+  "palabras": [
+    {
+      "texto": "Estos",
+      "inicio": 0.0,
+      "fin": 0.24
+    },
+    {
+      "texto": "son",
+      "inicio": 0.26,
+      "fin": 0.32
+    },
+    {
+      "texto": "los",
+      "inicio": 0.36,
+      "fin": 0.48
+    },
+    {
+      "texto": "datos:",
+      "inicio": 0.56,
+      "fin": 1.04
+    },
+    {
+      "texto": "un",
+      "inicio": 1.36,
+      "fin": 2.0
+    },
+    {
+      "texto": "inventario",
+      "inicio": 2.046,
+      "fin": 2.64
+    },
+    {
+      "texto": "con",
+      "inicio": 2.76,
+      "fin": 3.12
+    },
+    {
+      "texto": "seis",
+      "inicio": 3.2,
+      "fin": 3.52
+    },
+    {
+      "texto": "activos.",
+      "inicio": 3.6,
+      "fin": 4.32
+    },
+    {
+      "texto": "En",
+      "inicio": 4.693,
+      "fin": 5.44
+    },
+    {
+      "texto": "la",
+      "inicio": 5.493,
+      "fin": 5.6
+    },
+    {
+      "texto": "columna",
+      "inicio": 5.65,
+      "fin": 6.0
+    },
+    {
+      "texto": "A",
+      "inicio": 6.12,
+      "fin": 6.24
+    },
+    {
+      "texto": "está",
+      "inicio": 6.336,
+      "fin": 6.72
+    },
+    {
+      "texto": "el",
+      "inicio": 6.747,
+      "fin": 6.8
+    },
+    {
+      "texto": "código,",
+      "inicio": 6.869,
+      "fin": 7.68
+    },
+    {
+      "texto": "de",
+      "inicio": 7.733,
+      "fin": 7.84
+    },
+    {
+      "texto": "INV",
+      "inicio": 7.96,
+      "fin": 8.32
+    },
+    {
+      "texto": "cero",
+      "inicio": 8.44,
+      "fin": 8.64
+    },
+    {
+      "texto": "cero",
+      "inicio": 8.72,
+      "fin": 8.88
+    },
+    {
+      "texto": "uno",
+      "inicio": 8.96,
+      "fin": 9.2
+    },
+    {
+      "texto": "a",
+      "inicio": 9.4,
+      "fin": 9.6
+    },
+    {
+      "texto": "INV",
+      "inicio": 9.72,
+      "fin": 10.08
+    },
+    {
+      "texto": "cero",
+      "inicio": 10.24,
+      "fin": 10.48
+    },
+    {
+      "texto": "cero",
+      "inicio": 10.56,
+      "fin": 10.72
+    },
+    {
+      "texto": "seis.",
+      "inicio": 10.784,
+      "fin": 11.64
+    },
+    {
+      "texto": "En",
+      "inicio": 11.84,
+      "fin": 12.24
+    },
+    {
+      "texto": "la",
+      "inicio": 12.293,
+      "fin": 12.4
+    },
+    {
+      "texto": "B",
+      "inicio": 12.52,
+      "fin": 12.64
+    },
+    {
+      "texto": "el",
+      "inicio": 12.72,
+      "fin": 12.88
+    },
+    {
+      "texto": "producto,",
+      "inicio": 12.951,
+      "fin": 14.16
+    },
+    {
+      "texto": "en",
+      "inicio": 14.213,
+      "fin": 14.32
+    },
+    {
+      "texto": "la",
+      "inicio": 14.373,
+      "fin": 14.48
+    },
+    {
+      "texto": "C",
+      "inicio": 14.68,
+      "fin": 14.88
+    },
+    {
+      "texto": "la",
+      "inicio": 14.987,
+      "fin": 15.2
+    },
+    {
+      "texto": "ubicación",
+      "inicio": 15.264,
+      "fin": 16.32
+    },
+    {
+      "texto": "y",
+      "inicio": 16.56,
+      "fin": 16.8
+    },
+    {
+      "texto": "en",
+      "inicio": 16.827,
+      "fin": 16.88
+    },
+    {
+      "texto": "la",
+      "inicio": 16.933,
+      "fin": 17.04
+    },
+    {
+      "texto": "D",
+      "inicio": 17.2,
+      "fin": 17.36
+    },
+    {
+      "texto": "la",
+      "inicio": 17.44,
+      "fin": 17.6
+    },
+    {
+      "texto": "cantidad.",
+      "inicio": 17.662,
+      "fin": 18.24
+    },
+    {
+      "texto": "Los",
+      "inicio": 18.54,
+      "fin": 19.44
+    },
+    {
+      "texto": "códigos",
+      "inicio": 19.48,
+      "fin": 19.84
+    },
+    {
+      "texto": "QR",
+      "inicio": 20.053,
+      "fin": 20.48
+    },
+    {
+      "texto": "van",
+      "inicio": 20.56,
+      "fin": 20.8
+    },
+    {
+      "texto": "a",
+      "inicio": 20.84,
+      "fin": 20.88
+    },
+    {
+      "texto": "ir",
+      "inicio": 20.933,
+      "fin": 21.04
+    },
+    {
+      "texto": "en",
+      "inicio": 21.067,
+      "fin": 21.12
+    },
+    {
+      "texto": "la",
+      "inicio": 21.147,
+      "fin": 21.2
+    },
+    {
+      "texto": "columna",
+      "inicio": 21.26,
+      "fin": 21.68
+    },
+    {
+      "texto": "F",
+      "inicio": 22.2,
+      "fin": 22.72
+    },
+    {
+      "texto": "y",
+      "inicio": 23.04,
+      "fin": 23.36
+    },
+    {
+      "texto": "los",
+      "inicio": 23.4,
+      "fin": 23.52
+    },
+    {
+      "texto": "códigos",
+      "inicio": 23.56,
+      "fin": 23.92
+    },
+    {
+      "texto": "de",
+      "inicio": 23.947,
+      "fin": 24.0
+    },
+    {
+      "texto": "barras",
+      "inicio": 24.048,
+      "fin": 24.48
+    },
+    {
+      "texto": "en",
+      "inicio": 24.587,
+      "fin": 24.8
+    },
+    {
+      "texto": "la",
+      "inicio": 24.853,
+      "fin": 24.96
+    },
+    {
+      "texto": "G.",
+      "inicio": 25.12,
+      "fin": 25.52
+    }
+  ]
+}

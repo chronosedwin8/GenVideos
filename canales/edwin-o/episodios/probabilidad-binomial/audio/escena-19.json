@@ -1,0 +1,270 @@
+{
+  "num": "19",
+  "titulo": "Si no te funcionó",
+  "texto": "Si no te funcionó: numeral NUM casi siempre es porque escribiste sesenta y cinco en lugar de cero coma sesenta y cinco; la probabilidad va entre cero y uno. Numeral valor, hay un texto donde debería ir un número. Y si el resultado te parece raro, revisa si pusiste FALSO o VERDADERO.",
+  "texto_tts": "Si no te funcionó: numeral NUM casi siempre es porque escribiste sesenta y cinco en lugar de cero coma sesenta y cinco; la probabilidad va entre cero y uno. Numeral valor, hay un texto donde debería ir un número. Y si el resultado te parece raro, revisa si pusiste FALSO o VERDADERO.",
+  "modelo": "eleven_v3",
+  "duracion": 22.88,
+  "palabras": [
+    {
+      "texto": "Si",
+      "inicio": 0.0,
+      "fin": 0.16
+    },
+    {
+      "texto": "no",
+      "inicio": 0.187,
+      "fin": 0.24
+    },
+    {
+      "texto": "te",
+      "inicio": 0.293,
+      "fin": 0.4
+    },
+    {
+      "texto": "funcionó:",
+      "inicio": 0.46,
+      "fin": 1.12
+    },
+    {
+      "texto": "numeral",
+      "inicio": 1.2,
+      "fin": 1.76
+    },
+    {
+      "texto": "NUM",
+      "inicio": 1.92,
+      "fin": 2.4
+    },
+    {
+      "texto": "casi",
+      "inicio": 2.512,
+      "fin": 2.96
+    },
+    {
+      "texto": "siempre",
+      "inicio": 3.01,
+      "fin": 3.36
+    },
+    {
+      "texto": "es",
+      "inicio": 3.387,
+      "fin": 3.44
+    },
+    {
+      "texto": "porque",
+      "inicio": 3.486,
+      "fin": 3.76
+    },
+    {
+      "texto": "escribiste",
+      "inicio": 3.8,
+      "fin": 4.4
+    },
+    {
+      "texto": "sesenta",
+      "inicio": 4.46,
+      "fin": 4.88
+    },
+    {
+      "texto": "y",
+      "inicio": 4.92,
+      "fin": 4.96
+    },
+    {
+      "texto": "cinco",
+      "inicio": 5.04,
+      "fin": 5.44
+    },
+    {
+      "texto": "en",
+      "inicio": 5.547,
+      "fin": 5.76
+    },
+    {
+      "texto": "lugar",
+      "inicio": 5.813,
+      "fin": 6.08
+    },
+    {
+      "texto": "de",
+      "inicio": 6.133,
+      "fin": 6.24
+    },
+    {
+      "texto": "cero",
+      "inicio": 6.44,
+      "fin": 6.72
+    },
+    {
+      "texto": "coma",
+      "inicio": 6.816,
+      "fin": 7.2
+    },
+    {
+      "texto": "sesenta",
+      "inicio": 7.24,
+      "fin": 7.6
+    },
+    {
+      "texto": "y",
+      "inicio": 7.68,
+      "fin": 7.76
+    },
+    {
+      "texto": "cinco;",
+      "inicio": 7.813,
+      "fin": 8.081
+    },
+    {
+      "texto": "la",
+      "inicio": 8.373,
+      "fin": 8.96
+    },
+    {
+      "texto": "probabilidad",
+      "inicio": 9.008,
+      "fin": 9.76
+    },
+    {
+      "texto": "va",
+      "inicio": 9.867,
+      "fin": 10.08
+    },
+    {
+      "texto": "entre",
+      "inicio": 10.16,
+      "fin": 10.56
+    },
+    {
+      "texto": "cero",
+      "inicio": 10.68,
+      "fin": 11.04
+    },
+    {
+      "texto": "y",
+      "inicio": 11.2,
+      "fin": 11.36
+    },
+    {
+      "texto": "uno.",
+      "inicio": 11.44,
+      "fin": 11.76
+    },
+    {
+      "texto": "Numeral",
+      "inicio": 12.12,
+      "fin": 13.44
+    },
+    {
+      "texto": "valor,",
+      "inicio": 13.547,
+      "fin": 14.16
+    },
+    {
+      "texto": "hay",
+      "inicio": 14.26,
+      "fin": 14.56
+    },
+    {
+      "texto": "un",
+      "inicio": 14.613,
+      "fin": 14.72
+    },
+    {
+      "texto": "texto",
+      "inicio": 14.813,
+      "fin": 15.28
+    },
+    {
+      "texto": "donde",
+      "inicio": 15.347,
+      "fin": 15.68
+    },
+    {
+      "texto": "debería",
+      "inicio": 15.733,
+      "fin": 16.16
+    },
+    {
+      "texto": "ir",
+      "inicio": 16.213,
+      "fin": 16.32
+    },
+    {
+      "texto": "un",
+      "inicio": 16.4,
+      "fin": 16.56
+    },
+    {
+      "texto": "número.",
+      "inicio": 16.629,
+      "fin": 17.6
+    },
+    {
+      "texto": "Y",
+      "inicio": 17.88,
+      "fin": 18.16
+    },
+    {
+      "texto": "si",
+      "inicio": 18.187,
+      "fin": 18.24
+    },
+    {
+      "texto": "el",
+      "inicio": 18.267,
+      "fin": 18.32
+    },
+    {
+      "texto": "resultado",
+      "inicio": 18.376,
+      "fin": 18.88
+    },
+    {
+      "texto": "te",
+      "inicio": 18.933,
+      "fin": 19.04
+    },
+    {
+      "texto": "parece",
+      "inicio": 19.097,
+      "fin": 19.44
+    },
+    {
+      "texto": "raro,",
+      "inicio": 19.48,
+      "fin": 20.08
+    },
+    {
+      "texto": "revisa",
+      "inicio": 20.147,
+      "fin": 20.56
+    },
+    {
+      "texto": "si",
+      "inicio": 20.613,
+      "fin": 20.72
+    },
+    {
+      "texto": "pusiste",
+      "inicio": 20.78,
+      "fin": 21.28
+    },
+    {
+      "texto": "FALSO",
+      "inicio": 21.4,
+      "fin": 22.0
+    },
+    {
+      "texto": "o",
+      "inicio": 22.12,
+      "fin": 22.24
+    },
+    {
+      "texto": "VERDADERO.",
+      "inicio": 22.32,
+      "fin": 22.88
+    }
+  ]
+}

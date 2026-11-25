@@ -1,0 +1,270 @@
+{
+  "num": "09",
+  "titulo": "Movimiento 3: anular la dinamización",
+  "texto": "Movimiento tres, el más poderoso. Selecciona Región y Vendedor, clic derecho, y elige Anular dinamización de otras columnas. Mira lo que pasa: los meses dejan de ser columnas y bajan a filas. De cinco filas pasamos a quince: cada vendedor con su mes y su monto. Ahora sí, datos listos para analizar.",
+  "texto_tts": "Movimiento tres, el más poderoso. Selecciona Región y Vendedor, clic derecho, y elige Anular dinamización de otras columnas. Mira lo que pasa: los meses dejan de ser columnas y bajan a filas. De cinco filas pasamos a quince: cada vendedor con su mes y su monto. Ahora sí, datos listos para analizar.",
+  "modelo": "eleven_v3",
+  "duracion": 24.4,
+  "palabras": [
+    {
+      "texto": "Movimiento",
+      "inicio": 0.0,
+      "fin": 0.56
+    },
+    {
+      "texto": "tres,",
+      "inicio": 0.672,
+      "fin": 1.52
+    },
+    {
+      "texto": "el",
+      "inicio": 1.573,
+      "fin": 1.68
+    },
+    {
+      "texto": "más",
+      "inicio": 1.74,
+      "fin": 1.92
+    },
+    {
+      "texto": "poderoso.",
+      "inicio": 1.987,
+      "fin": 2.72
+    },
+    {
+      "texto": "Selecciona",
+      "inicio": 2.88,
+      "fin": 3.68
+    },
+    {
+      "texto": "Región",
+      "inicio": 3.76,
+      "fin": 4.16
+    },
+    {
+      "texto": "y",
+      "inicio": 4.2,
+      "fin": 4.24
+    },
+    {
+      "texto": "Vendedor,",
+      "inicio": 4.28,
+      "fin": 5.2
+    },
+    {
+      "texto": "clic",
+      "inicio": 5.248,
+      "fin": 5.44
+    },
+    {
+      "texto": "derecho,",
+      "inicio": 5.51,
+      "fin": 6.08
+    },
+    {
+      "texto": "y",
+      "inicio": 6.2,
+      "fin": 6.32
+    },
+    {
+      "texto": "elige",
+      "inicio": 6.373,
+      "fin": 7.04
+    },
+    {
+      "texto": "Anular",
+      "inicio": 7.173,
+      "fin": 7.84
+    },
+    {
+      "texto": "dinamización",
+      "inicio": 7.94,
+      "fin": 8.8
+    },
+    {
+      "texto": "de",
+      "inicio": 8.827,
+      "fin": 8.88
+    },
+    {
+      "texto": "otras",
+      "inicio": 8.933,
+      "fin": 9.2
+    },
+    {
+      "texto": "columnas.",
+      "inicio": 9.257,
+      "fin": 10.0
+    },
+    {
+      "texto": "Mira",
+      "inicio": 10.24,
+      "fin": 10.56
+    },
+    {
+      "texto": "lo",
+      "inicio": 10.613,
+      "fin": 10.72
+    },
+    {
+      "texto": "que",
+      "inicio": 10.76,
+      "fin": 10.88
+    },
+    {
+      "texto": "pasa:",
+      "inicio": 10.944,
+      "fin": 11.76
+    },
+    {
+      "texto": "los",
+      "inicio": 11.82,
+      "fin": 12.0
+    },
+    {
+      "texto": "meses",
+      "inicio": 12.093,
+      "fin": 12.56
+    },
+    {
+      "texto": "dejan",
+      "inicio": 12.64,
+      "fin": 12.96
+    },
+    {
+      "texto": "de",
+      "inicio": 12.987,
+      "fin": 13.04
+    },
+    {
+      "texto": "ser",
+      "inicio": 13.1,
+      "fin": 13.28
+    },
+    {
+      "texto": "columnas",
+      "inicio": 13.349,
+      "fin": 14.0
+    },
+    {
+      "texto": "y",
+      "inicio": 14.12,
+      "fin": 14.24
+    },
+    {
+      "texto": "bajan",
+      "inicio": 14.32,
+      "fin": 14.64
+    },
+    {
+      "texto": "a",
+      "inicio": 14.68,
+      "fin": 14.72
+    },
+    {
+      "texto": "filas.",
+      "inicio": 14.8,
+      "fin": 15.44
+    },
+    {
+      "texto": "De",
+      "inicio": 15.653,
+      "fin": 16.08
+    },
+    {
+      "texto": "cinco",
+      "inicio": 16.147,
+      "fin": 16.48
+    },
+    {
+      "texto": "filas",
+      "inicio": 16.56,
+      "fin": 17.04
+    },
+    {
+      "texto": "pasamos",
+      "inicio": 17.12,
+      "fin": 17.6
+    },
+    {
+      "texto": "a",
+      "inicio": 17.64,
+      "fin": 17.68
+    },
+    {
+      "texto": "quince:",
+      "inicio": 17.76,
+      "fin": 18.96
+    },
+    {
+      "texto": "cada",
+      "inicio": 19.008,
+      "fin": 19.2
+    },
+    {
+      "texto": "vendedor",
+      "inicio": 19.24,
+      "fin": 19.68
+    },
+    {
+      "texto": "con",
+      "inicio": 19.72,
+      "fin": 19.84
+    },
+    {
+      "texto": "su",
+      "inicio": 19.92,
+      "fin": 20.08
+    },
+    {
+      "texto": "mes",
+      "inicio": 20.16,
+      "fin": 20.4
+    },
+    {
+      "texto": "y",
+      "inicio": 20.52,
+      "fin": 20.64
+    },
+    {
+      "texto": "su",
+      "inicio": 20.693,
+      "fin": 20.8
+    },
+    {
+      "texto": "monto.",
+      "inicio": 20.88,
+      "fin": 21.44
+    },
+    {
+      "texto": "Ahora",
+      "inicio": 21.573,
+      "fin": 21.92
+    },
+    {
+      "texto": "sí,",
+      "inicio": 22.027,
+      "fin": 22.4
+    },
+    {
+      "texto": "datos",
+      "inicio": 22.52,
+      "fin": 23.12
+    },
+    {
+      "texto": "listos",
+      "inicio": 23.184,
+      "fin": 23.6
+    },
+    {
+      "texto": "para",
+      "inicio": 23.632,
+      "fin": 23.76
+    },
+    {
+      "texto": "analizar.",
+      "inicio": 23.808,
+      "fin": 24.4
+    }
+  ]
+}

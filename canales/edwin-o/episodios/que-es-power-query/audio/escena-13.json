@@ -1,0 +1,240 @@
+{
+  "num": "13",
+  "titulo": "Paso 5: quita los duplicados",
+  "texto": "Paso cinco: los duplicados. Selecciona todas las columnas con Control más A, y en Quitar filas elige Quitar duplicados. La venta repetida de Ana Torres desaparece. ¿Ves por qué limpiamos los nombres primero? Si no, con los espacios, Power Query no habría visto que eran iguales.",
+  "texto_tts": "Paso cinco: los duplicados. Selecciona todas las columnas con Control más A, y en Quitar filas elige Quitar duplicados. La venta repetida de Ana Torres desaparece. ¿Ves por qué limpiamos los nombres primero? Si no, con los espacios, Power Query no habría visto que eran iguales.",
+  "modelo": "eleven_v3",
+  "duracion": 22.0,
+  "palabras": [
+    {
+      "texto": "Paso",
+      "inicio": 0.0,
+      "fin": 0.24
+    },
+    {
+      "texto": "cinco:",
+      "inicio": 0.307,
+      "fin": 0.8
+    },
+    {
+      "texto": "los",
+      "inicio": 0.86,
+      "fin": 1.04
+    },
+    {
+      "texto": "duplicados.",
+      "inicio": 1.097,
+      "fin": 2.28
+    },
+    {
+      "texto": "Selecciona",
+      "inicio": 2.4,
+      "fin": 3.12
+    },
+    {
+      "texto": "todas",
+      "inicio": 3.187,
+      "fin": 3.52
+    },
+    {
+      "texto": "las",
+      "inicio": 3.56,
+      "fin": 3.68
+    },
+    {
+      "texto": "columnas",
+      "inicio": 3.726,
+      "fin": 4.16
+    },
+    {
+      "texto": "con",
+      "inicio": 4.2,
+      "fin": 4.32
+    },
+    {
+      "texto": "Control",
+      "inicio": 4.4,
+      "fin": 4.96
+    },
+    {
+      "texto": "más",
+      "inicio": 5.08,
+      "fin": 5.44
+    },
+    {
+      "texto": "A,",
+      "inicio": 5.64,
+      "fin": 5.92
+    },
+    {
+      "texto": "y",
+      "inicio": 6.24,
+      "fin": 6.56
+    },
+    {
+      "texto": "en",
+      "inicio": 6.613,
+      "fin": 6.72
+    },
+    {
+      "texto": "Quitar",
+      "inicio": 6.76,
+      "fin": 7.12
+    },
+    {
+      "texto": "filas",
+      "inicio": 7.2,
+      "fin": 7.6
+    },
+    {
+      "texto": "elige",
+      "inicio": 7.733,
+      "fin": 8.24
+    },
+    {
+      "texto": "Quitar",
+      "inicio": 8.44,
+      "fin": 9.04
+    },
+    {
+      "texto": "duplicados.",
+      "inicio": 9.109,
+      "fin": 10.16
+    },
+    {
+      "texto": "La",
+      "inicio": 10.427,
+      "fin": 10.96
+    },
+    {
+      "texto": "venta",
+      "inicio": 11.013,
+      "fin": 11.28
+    },
+    {
+      "texto": "repetida",
+      "inicio": 11.347,
+      "fin": 11.92
+    },
+    {
+      "texto": "de",
+      "inicio": 11.947,
+      "fin": 12.0
+    },
+    {
+      "texto": "Ana",
+      "inicio": 12.04,
+      "fin": 12.16
+    },
+    {
+      "texto": "Torres",
+      "inicio": 12.229,
+      "fin": 12.64
+    },
+    {
+      "texto": "desaparece.",
+      "inicio": 12.74,
+      "fin": 13.68
+    },
+    {
+      "texto": "¿Ves",
+      "inicio": 14.2,
+      "fin": 14.88
+    },
+    {
+      "texto": "por",
+      "inicio": 14.9,
+      "fin": 14.96
+    },
+    {
+      "texto": "qué",
+      "inicio": 15.02,
+      "fin": 15.2
+    },
+    {
+      "texto": "limpiamos",
+      "inicio": 15.24,
+      "fin": 15.68
+    },
+    {
+      "texto": "los",
+      "inicio": 15.72,
+      "fin": 15.84
+    },
+    {
+      "texto": "nombres",
+      "inicio": 15.88,
+      "fin": 16.16
+    },
+    {
+      "texto": "primero?",
+      "inicio": 16.21,
+      "fin": 16.88
+    },
+    {
+      "texto": "Si",
+      "inicio": 17.067,
+      "fin": 17.44
+    },
+    {
+      "texto": "no,",
+      "inicio": 17.52,
+      "fin": 17.76
+    },
+    {
+      "texto": "con",
+      "inicio": 17.84,
+      "fin": 18.08
+    },
+    {
+      "texto": "los",
+      "inicio": 18.12,
+      "fin": 18.24
+    },
+    {
+      "texto": "espacios,",
+      "inicio": 18.3,
+      "fin": 19.2
+    },
+    {
+      "texto": "Power",
+      "inicio": 19.267,
+      "fin": 19.6
+    },
+    {
+      "texto": "Query",
+      "inicio": 19.68,
+      "fin": 20.08
+    },
+    {
+      "texto": "no",
+      "inicio": 20.133,
+      "fin": 20.24
+    },
+    {
+      "texto": "habría",
+      "inicio": 20.28,
+      "fin": 20.56
+    },
+    {
+      "texto": "visto",
+      "inicio": 20.627,
+      "fin": 20.96
+    },
+    {
+      "texto": "que",
+      "inicio": 20.98,
+      "fin": 21.04
+    },
+    {
+      "texto": "eran",
+      "inicio": 21.067,
+      "fin": 21.28
+    },
+    {
+      "texto": "iguales.",
+      "inicio": 21.333,
+      "fin": 22.0
+    }
+  ]
+}

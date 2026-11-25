@@ -1,0 +1,240 @@
+{
+  "num": "20",
+  "titulo": "Resumen",
+  "texto": "En resumen: instálalo desde Inicio, Complementos. Te pide permiso antes de cambiar tu hoja, y te explica lo que hace. Pero tú verificas las fórmulas y los totales. Es el compañero de trabajo más rápido que vas a tener. Si no lo aprendes ahora, te extingues.",
+  "texto_tts": "En resumen: instálalo desde Inicio, Complementos. Te pide permiso antes de cambiar tu hoja, y te explica lo que hace. Pero tú verificas las fórmulas y los totales. Es el compañero de trabajo más rápido que vas a tener. [serious] Si no lo aprendes ahora, te extingues.",
+  "modelo": "eleven_v3",
+  "duracion": 18.486,
+  "palabras": [
+    {
+      "texto": "En",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "resumen:",
+      "inicio": 0.12,
+      "fin": 0.64
+    },
+    {
+      "texto": "instálalo",
+      "inicio": 0.736,
+      "fin": 1.44
+    },
+    {
+      "texto": "desde",
+      "inicio": 1.493,
+      "fin": 1.76
+    },
+    {
+      "texto": "Inicio,",
+      "inicio": 1.813,
+      "fin": 2.32
+    },
+    {
+      "texto": "Complementos.",
+      "inicio": 2.42,
+      "fin": 3.52
+    },
+    {
+      "texto": "Te",
+      "inicio": 3.707,
+      "fin": 4.08
+    },
+    {
+      "texto": "pide",
+      "inicio": 4.16,
+      "fin": 4.4
+    },
+    {
+      "texto": "permiso",
+      "inicio": 4.448,
+      "fin": 4.96
+    },
+    {
+      "texto": "antes",
+      "inicio": 5.04,
+      "fin": 5.44
+    },
+    {
+      "texto": "de",
+      "inicio": 5.467,
+      "fin": 5.52
+    },
+    {
+      "texto": "cambiar",
+      "inicio": 5.56,
+      "fin": 5.84
+    },
+    {
+      "texto": "tu",
+      "inicio": 5.92,
+      "fin": 6.08
+    },
+    {
+      "texto": "hoja,",
+      "inicio": 6.133,
+      "fin": 6.64
+    },
+    {
+      "texto": "y",
+      "inicio": 6.8,
+      "fin": 6.96
+    },
+    {
+      "texto": "te",
+      "inicio": 6.987,
+      "fin": 7.04
+    },
+    {
+      "texto": "explica",
+      "inicio": 7.1,
+      "fin": 7.52
+    },
+    {
+      "texto": "lo",
+      "inicio": 7.547,
+      "fin": 7.6
+    },
+    {
+      "texto": "que",
+      "inicio": 7.64,
+      "fin": 7.76
+    },
+    {
+      "texto": "hace.",
+      "inicio": 7.84,
+      "fin": 8.24
+    },
+    {
+      "texto": "Pero",
+      "inicio": 8.384,
+      "fin": 8.96
+    },
+    {
+      "texto": "tú",
+      "inicio": 9.04,
+      "fin": 9.2
+    },
+    {
+      "texto": "verificas",
+      "inicio": 9.28,
+      "fin": 9.84
+    },
+    {
+      "texto": "las",
+      "inicio": 9.88,
+      "fin": 10.0
+    },
+    {
+      "texto": "fórmulas",
+      "inicio": 10.04,
+      "fin": 10.64
+    },
+    {
+      "texto": "y",
+      "inicio": 10.68,
+      "fin": 10.72
+    },
+    {
+      "texto": "los",
+      "inicio": 10.76,
+      "fin": 10.88
+    },
+    {
+      "texto": "totales.",
+      "inicio": 10.94,
+      "fin": 11.76
+    },
+    {
+      "texto": "Es",
+      "inicio": 11.973,
+      "fin": 12.4
+    },
+    {
+      "texto": "el",
+      "inicio": 12.427,
+      "fin": 12.48
+    },
+    {
+      "texto": "compañero",
+      "inicio": 12.537,
+      "fin": 12.96
+    },
+    {
+      "texto": "de",
+      "inicio": 12.987,
+      "fin": 13.04
+    },
+    {
+      "texto": "trabajo",
+      "inicio": 13.1,
+      "fin": 13.52
+    },
+    {
+      "texto": "más",
+      "inicio": 13.62,
+      "fin": 13.92
+    },
+    {
+      "texto": "rápido",
+      "inicio": 13.989,
+      "fin": 14.4
+    },
+    {
+      "texto": "que",
+      "inicio": 14.42,
+      "fin": 14.48
+    },
+    {
+      "texto": "vas",
+      "inicio": 14.52,
+      "fin": 14.64
+    },
+    {
+      "texto": "a",
+      "inicio": 14.68,
+      "fin": 14.72
+    },
+    {
+      "texto": "tener.",
+      "inicio": 14.787,
+      "fin": 15.36
+    },
+    {
+      "texto": "Si",
+      "inicio": 15.953,
+      "fin": 16.006
+    },
+    {
+      "texto": "no",
+      "inicio": 16.059,
+      "fin": 16.166
+    },
+    {
+      "texto": "lo",
+      "inicio": 16.193,
+      "fin": 16.246
+    },
+    {
+      "texto": "aprendes",
+      "inicio": 16.292,
+      "fin": 16.646
+    },
+    {
+      "texto": "ahora,",
+      "inicio": 16.713,
+      "fin": 17.446
+    },
+    {
+      "texto": "te",
+      "inicio": 17.473,
+      "fin": 17.526
+    },
+    {
+      "texto": "extingues.",
+      "inicio": 17.606,
+      "fin": 18.486
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "num": "05",
+  "titulo": "¿Cuándo es binomial?",
+  "texto": "Primero, ¿cuándo se usa? Cuando se cumplen cuatro condiciones. Un número fijo de intentos: cinco penales. Solo dos resultados posibles: gol o no gol. La misma probabilidad en cada intento: sesenta y cinco por ciento. Y que un intento no afecte al otro. Si se cumplen las cuatro, es binomial.",
+  "texto_tts": "Primero, ¿cuándo se usa? Cuando se cumplen cuatro condiciones. Un número fijo de intentos: cinco penales. Solo dos resultados posibles: gol o no gol. La misma probabilidad en cada intento: sesenta y cinco por ciento. Y que un intento no afecte al otro. Si se cumplen las cuatro, es binomial.",
+  "modelo": "eleven_v3",
+  "duracion": 27.76,
+  "palabras": [
+    {
+      "texto": "Primero,",
+      "inicio": 0.0,
+      "fin": 0.48
+    },
+    {
+      "texto": "¿cuándo",
+      "inicio": 0.56,
+      "fin": 0.88
+    },
+    {
+      "texto": "se",
+      "inicio": 0.933,
+      "fin": 1.04
+    },
+    {
+      "texto": "usa?",
+      "inicio": 1.16,
+      "fin": 1.6
+    },
+    {
+      "texto": "Cuando",
+      "inicio": 1.749,
+      "fin": 2.64
+    },
+    {
+      "texto": "se",
+      "inicio": 2.693,
+      "fin": 2.8
+    },
+    {
+      "texto": "cumplen",
+      "inicio": 2.867,
+      "fin": 3.28
+    },
+    {
+      "texto": "cuatro",
+      "inicio": 3.36,
+      "fin": 3.84
+    },
+    {
+      "texto": "condiciones.",
+      "inicio": 3.913,
+      "fin": 4.88
+    },
+    {
+      "texto": "Un",
+      "inicio": 5.2,
+      "fin": 5.84
+    },
+    {
+      "texto": "número",
+      "inicio": 5.909,
+      "fin": 6.32
+    },
+    {
+      "texto": "fijo",
+      "inicio": 6.44,
+      "fin": 6.8
+    },
+    {
+      "texto": "de",
+      "inicio": 6.853,
+      "fin": 6.96
+    },
+    {
+      "texto": "intentos:",
+      "inicio": 7.04,
+      "fin": 7.92
+    },
+    {
+      "texto": "cinco",
+      "inicio": 8.04,
+      "fin": 8.64
+    },
+    {
+      "texto": "penales.",
+      "inicio": 8.68,
+      "fin": 9.28
+    },
+    {
+      "texto": "Solo",
+      "inicio": 9.584,
+      "fin": 10.8
+    },
+    {
+      "texto": "dos",
+      "inicio": 10.9,
+      "fin": 11.2
+    },
+    {
+      "texto": "resultados",
+      "inicio": 11.265,
+      "fin": 11.92
+    },
+    {
+      "texto": "posibles:",
+      "inicio": 12.0,
+      "fin": 12.88
+    },
+    {
+      "texto": "gol",
+      "inicio": 13.04,
+      "fin": 13.52
+    },
+    {
+      "texto": "o",
+      "inicio": 13.76,
+      "fin": 14.0
+    },
+    {
+      "texto": "no",
+      "inicio": 14.053,
+      "fin": 14.16
+    },
+    {
+      "texto": "gol.",
+      "inicio": 14.26,
+      "fin": 14.561
+    },
+    {
+      "texto": "La",
+      "inicio": 15.04,
+      "fin": 16.0
+    },
+    {
+      "texto": "misma",
+      "inicio": 16.067,
+      "fin": 16.4
+    },
+    {
+      "texto": "probabilidad",
+      "inicio": 16.464,
+      "fin": 17.28
+    },
+    {
+      "texto": "en",
+      "inicio": 17.36,
+      "fin": 17.52
+    },
+    {
+      "texto": "cada",
+      "inicio": 17.568,
+      "fin": 17.76
+    },
+    {
+      "texto": "intento:",
+      "inicio": 17.851,
+      "fin": 18.88
+    },
+    {
+      "texto": "sesenta",
+      "inicio": 18.92,
+      "fin": 19.28
+    },
+    {
+      "texto": "y",
+      "inicio": 19.36,
+      "fin": 19.44
+    },
+    {
+      "texto": "cinco",
+      "inicio": 19.48,
+      "fin": 19.68
+    },
+    {
+      "texto": "por",
+      "inicio": 19.74,
+      "fin": 19.92
+    },
+    {
+      "texto": "ciento.",
+      "inicio": 19.96,
+      "fin": 20.48
+    },
+    {
+      "texto": "Y",
+      "inicio": 20.96,
+      "fin": 21.44
+    },
+    {
+      "texto": "que",
+      "inicio": 21.5,
+      "fin": 21.68
+    },
+    {
+      "texto": "un",
+      "inicio": 21.733,
+      "fin": 21.84
+    },
+    {
+      "texto": "intento",
+      "inicio": 21.931,
+      "fin": 22.56
+    },
+    {
+      "texto": "no",
+      "inicio": 22.667,
+      "fin": 22.88
+    },
+    {
+      "texto": "afecte",
+      "inicio": 22.947,
+      "fin": 23.36
+    },
+    {
+      "texto": "al",
+      "inicio": 23.413,
+      "fin": 23.52
+    },
+    {
+      "texto": "otro.",
+      "inicio": 23.584,
+      "fin": 23.92
+    },
+    {
+      "texto": "Si",
+      "inicio": 24.32,
+      "fin": 25.12
+    },
+    {
+      "texto": "se",
+      "inicio": 25.173,
+      "fin": 25.28
+    },
+    {
+      "texto": "cumplen",
+      "inicio": 25.333,
+      "fin": 25.68
+    },
+    {
+      "texto": "las",
+      "inicio": 25.72,
+      "fin": 25.84
+    },
+    {
+      "texto": "cuatro,",
+      "inicio": 25.909,
+      "fin": 26.4
+    },
+    {
+      "texto": "es",
+      "inicio": 26.64,
+      "fin": 27.12
+    },
+    {
+      "texto": "binomial.",
+      "inicio": 27.16,
+      "fin": 27.76
+    }
+  ]
+}

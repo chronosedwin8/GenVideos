@@ -1,0 +1,270 @@
+{
+  "num": "07",
+  "titulo": "Los datos",
+  "texto": "Este es el archivo que exporta el sistema de ventas. Mira los problemas: nombres con espacios al principio o al final, unos en mayúsculas y otros en minúsculas. El producto y la región vienen juntos en una sola columna. Hay una fila en blanco, y esta venta de Ana Torres está repetida.",
+  "texto_tts": "Este es el archivo que exporta el sistema de ventas. Mira los problemas: nombres con espacios al principio o al final, unos en mayúsculas y otros en minúsculas. El producto y la región vienen juntos en una sola columna. Hay una fila en blanco, y esta venta de Ana Torres está repetida.",
+  "modelo": "eleven_v3",
+  "duracion": 17.6,
+  "palabras": [
+    {
+      "texto": "Este",
+      "inicio": 0.0,
+      "fin": 0.16
+    },
+    {
+      "texto": "es",
+      "inicio": 0.187,
+      "fin": 0.24
+    },
+    {
+      "texto": "el",
+      "inicio": 0.267,
+      "fin": 0.32
+    },
+    {
+      "texto": "archivo",
+      "inicio": 0.38,
+      "fin": 0.8
+    },
+    {
+      "texto": "que",
+      "inicio": 0.86,
+      "fin": 1.04
+    },
+    {
+      "texto": "exporta",
+      "inicio": 1.109,
+      "fin": 1.6
+    },
+    {
+      "texto": "el",
+      "inicio": 1.627,
+      "fin": 1.68
+    },
+    {
+      "texto": "sistema",
+      "inicio": 1.72,
+      "fin": 2.0
+    },
+    {
+      "texto": "de",
+      "inicio": 2.027,
+      "fin": 2.08
+    },
+    {
+      "texto": "ventas.",
+      "inicio": 2.16,
+      "fin": 2.72
+    },
+    {
+      "texto": "Mira",
+      "inicio": 2.76,
+      "fin": 2.88
+    },
+    {
+      "texto": "los",
+      "inicio": 2.92,
+      "fin": 3.04
+    },
+    {
+      "texto": "problemas:",
+      "inicio": 3.096,
+      "fin": 4.32
+    },
+    {
+      "texto": "nombres",
+      "inicio": 4.36,
+      "fin": 4.64
+    },
+    {
+      "texto": "con",
+      "inicio": 4.68,
+      "fin": 4.8
+    },
+    {
+      "texto": "espacios",
+      "inicio": 4.86,
+      "fin": 5.28
+    },
+    {
+      "texto": "al",
+      "inicio": 5.333,
+      "fin": 5.44
+    },
+    {
+      "texto": "principio",
+      "inicio": 5.496,
+      "fin": 6.0
+    },
+    {
+      "texto": "o",
+      "inicio": 6.04,
+      "fin": 6.08
+    },
+    {
+      "texto": "al",
+      "inicio": 6.107,
+      "fin": 6.16
+    },
+    {
+      "texto": "final,",
+      "inicio": 6.227,
+      "fin": 7.12
+    },
+    {
+      "texto": "unos",
+      "inicio": 7.168,
+      "fin": 7.36
+    },
+    {
+      "texto": "en",
+      "inicio": 7.413,
+      "fin": 7.52
+    },
+    {
+      "texto": "mayúsculas",
+      "inicio": 7.58,
+      "fin": 8.24
+    },
+    {
+      "texto": "y",
+      "inicio": 8.32,
+      "fin": 8.4
+    },
+    {
+      "texto": "otros",
+      "inicio": 8.44,
+      "fin": 8.64
+    },
+    {
+      "texto": "en",
+      "inicio": 8.667,
+      "fin": 8.72
+    },
+    {
+      "texto": "minúsculas.",
+      "inicio": 8.76,
+      "fin": 9.52
+    },
+    {
+      "texto": "El",
+      "inicio": 9.733,
+      "fin": 10.16
+    },
+    {
+      "texto": "producto",
+      "inicio": 10.204,
+      "fin": 10.56
+    },
+    {
+      "texto": "y",
+      "inicio": 10.6,
+      "fin": 10.64
+    },
+    {
+      "texto": "la",
+      "inicio": 10.667,
+      "fin": 10.72
+    },
+    {
+      "texto": "región",
+      "inicio": 10.78,
+      "fin": 11.12
+    },
+    {
+      "texto": "vienen",
+      "inicio": 11.147,
+      "fin": 11.44
+    },
+    {
+      "texto": "juntos",
+      "inicio": 11.48,
+      "fin": 11.92
+    },
+    {
+      "texto": "en",
+      "inicio": 12.0,
+      "fin": 12.16
+    },
+    {
+      "texto": "una",
+      "inicio": 12.2,
+      "fin": 12.32
+    },
+    {
+      "texto": "sola",
+      "inicio": 12.368,
+      "fin": 12.56
+    },
+    {
+      "texto": "columna.",
+      "inicio": 12.63,
+      "fin": 13.2
+    },
+    {
+      "texto": "Hay",
+      "inicio": 13.34,
+      "fin": 13.76
+    },
+    {
+      "texto": "una",
+      "inicio": 13.8,
+      "fin": 13.92
+    },
+    {
+      "texto": "fila",
+      "inicio": 13.968,
+      "fin": 14.16
+    },
+    {
+      "texto": "en",
+      "inicio": 14.213,
+      "fin": 14.32
+    },
+    {
+      "texto": "blanco,",
+      "inicio": 14.389,
+      "fin": 15.04
+    },
+    {
+      "texto": "y",
+      "inicio": 15.08,
+      "fin": 15.12
+    },
+    {
+      "texto": "esta",
+      "inicio": 15.168,
+      "fin": 15.36
+    },
+    {
+      "texto": "venta",
+      "inicio": 15.413,
+      "fin": 15.68
+    },
+    {
+      "texto": "de",
+      "inicio": 15.707,
+      "fin": 15.76
+    },
+    {
+      "texto": "Ana",
+      "inicio": 15.82,
+      "fin": 16.0
+    },
+    {
+      "texto": "Torres",
+      "inicio": 16.08,
+      "fin": 16.56
+    },
+    {
+      "texto": "está",
+      "inicio": 16.608,
+      "fin": 16.8
+    },
+    {
+      "texto": "repetida.",
+      "inicio": 16.853,
+      "fin": 17.6
+    }
+  ]
+}

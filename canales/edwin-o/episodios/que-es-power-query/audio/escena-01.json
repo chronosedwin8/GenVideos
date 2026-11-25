@@ -1,0 +1,220 @@
+{
+  "num": "01",
+  "titulo": "Gancho",
+  "texto": "Cada lunes te llega el mismo archivo desordenado: nombres con espacios, mayúsculas por todos lados, filas repetidas… y pierdes una hora limpiándolo a mano. ¿Y si lo limpias una sola vez, y desde ese día, con un solo clic, se limpia solo?",
+  "texto_tts": "[curious] Cada lunes te llega el mismo archivo desordenado: nombres con espacios, mayúsculas por todos lados, filas repetidas… y pierdes una hora limpiándolo a mano. [excited] ¿Y si lo limpias una sola vez, y desde ese día, con un solo clic, se limpia solo?",
+  "modelo": "eleven_v3",
+  "duracion": 18.08,
+  "palabras": [
+    {
+      "texto": "Cada",
+      "inicio": 0.23,
+      "fin": 0.32
+    },
+    {
+      "texto": "lunes",
+      "inicio": 0.36,
+      "fin": 0.8
+    },
+    {
+      "texto": "te",
+      "inicio": 0.907,
+      "fin": 1.12
+    },
+    {
+      "texto": "llega",
+      "inicio": 1.168,
+      "fin": 1.44
+    },
+    {
+      "texto": "el",
+      "inicio": 1.467,
+      "fin": 1.52
+    },
+    {
+      "texto": "mismo",
+      "inicio": 1.573,
+      "fin": 1.84
+    },
+    {
+      "texto": "archivo",
+      "inicio": 1.89,
+      "fin": 2.24
+    },
+    {
+      "texto": "desordenado:",
+      "inicio": 2.3,
+      "fin": 3.84
+    },
+    {
+      "texto": "nombres",
+      "inicio": 3.89,
+      "fin": 4.24
+    },
+    {
+      "texto": "con",
+      "inicio": 4.28,
+      "fin": 4.4
+    },
+    {
+      "texto": "espacios,",
+      "inicio": 4.46,
+      "fin": 5.44
+    },
+    {
+      "texto": "mayúsculas",
+      "inicio": 5.5,
+      "fin": 6.16
+    },
+    {
+      "texto": "por",
+      "inicio": 6.18,
+      "fin": 6.24
+    },
+    {
+      "texto": "todos",
+      "inicio": 6.307,
+      "fin": 6.64
+    },
+    {
+      "texto": "lados,",
+      "inicio": 6.68,
+      "fin": 7.28
+    },
+    {
+      "texto": "filas",
+      "inicio": 7.34,
+      "fin": 7.6
+    },
+    {
+      "texto": "repetidas…",
+      "inicio": 7.667,
+      "fin": 9.04
+    },
+    {
+      "texto": "y",
+      "inicio": 9.08,
+      "fin": 9.12
+    },
+    {
+      "texto": "pierdes",
+      "inicio": 9.168,
+      "fin": 9.6
+    },
+    {
+      "texto": "una",
+      "inicio": 9.66,
+      "fin": 9.84
+    },
+    {
+      "texto": "hora",
+      "inicio": 9.888,
+      "fin": 10.08
+    },
+    {
+      "texto": "limpiándolo",
+      "inicio": 10.16,
+      "fin": 10.8
+    },
+    {
+      "texto": "a",
+      "inicio": 10.84,
+      "fin": 10.88
+    },
+    {
+      "texto": "mano.",
+      "inicio": 10.944,
+      "fin": 11.28
+    },
+    {
+      "texto": "¿Y",
+      "inicio": 12.493,
+      "fin": 12.533
+    },
+    {
+      "texto": "si",
+      "inicio": 12.542,
+      "fin": 12.56
+    },
+    {
+      "texto": "lo",
+      "inicio": 12.613,
+      "fin": 12.72
+    },
+    {
+      "texto": "limpias",
+      "inicio": 12.76,
+      "fin": 13.28
+    },
+    {
+      "texto": "una",
+      "inicio": 13.38,
+      "fin": 13.68
+    },
+    {
+      "texto": "sola",
+      "inicio": 13.744,
+      "fin": 14.0
+    },
+    {
+      "texto": "vez,",
+      "inicio": 14.08,
+      "fin": 14.4
+    },
+    {
+      "texto": "y",
+      "inicio": 14.6,
+      "fin": 14.8
+    },
+    {
+      "texto": "desde",
+      "inicio": 14.84,
+      "fin": 15.04
+    },
+    {
+      "texto": "ese",
+      "inicio": 15.1,
+      "fin": 15.28
+    },
+    {
+      "texto": "día,",
+      "inicio": 15.36,
+      "fin": 15.76
+    },
+    {
+      "texto": "con",
+      "inicio": 15.8,
+      "fin": 15.92
+    },
+    {
+      "texto": "un",
+      "inicio": 15.973,
+      "fin": 16.08
+    },
+    {
+      "texto": "solo",
+      "inicio": 16.144,
+      "fin": 16.4
+    },
+    {
+      "texto": "clic,",
+      "inicio": 16.464,
+      "fin": 16.96
+    },
+    {
+      "texto": "se",
+      "inicio": 17.013,
+      "fin": 17.12
+    },
+    {
+      "texto": "limpia",
+      "inicio": 17.168,
+      "fin": 17.52
+    },
+    {
+      "texto": "solo?",
+      "inicio": 17.6,
+      "fin": 18.08
+    }
+  ]
+}

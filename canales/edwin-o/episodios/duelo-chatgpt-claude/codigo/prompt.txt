@@ -1,0 +1,32 @@
+Tengo un libro de Excel 365 en español (el separador de argumentos es punto y coma).
+
+Hoja "Ene", rango A1:C7:
+Pedido;Cliente;Monto
+P-101;C-01;1200
+P-102;C-03;450
+P-103;C-02;980
+P-104;C-05;300
+P-105;C-01;760
+P-106;C-04;1500
+
+Hoja "Feb", rango A1:C7 (misma estructura):
+Pedido;Cliente;Monto
+P-201;C-02 ;640
+P-202;C-06;820
+P-203;C-03;1100
+P-204;C-01;390
+P-205;C-05;2100
+P-206;C-04;530
+
+Hoja "Clientes", rango A1:C6:
+ID;Nombre;Ciudad
+C-01;Ana Torres;Bogotá
+C-02;Luis Gómez;Medellín
+C-03;Sara Ruiz;Cali
+C-04;Juan Pérez;Bogotá
+C-05;Marta Díaz;Medellín
+
+Necesito tres cosas:
+1) Una sola fórmula para poner en la celda A2 de una hoja nueva que junte los pedidos de Ene y Feb en una sola tabla y le agregue el Nombre y la Ciudad de cada cliente.
+2) Dime si ves algún problema en los datos que pueda dañar el resultado.
+3) ¿Cuánto se vendió en total por ciudad?

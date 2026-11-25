@@ -1,0 +1,255 @@
+{
+  "num": "19",
+  "titulo": "Bonus: columna a partir de ejemplos",
+  "texto": "Un bonus que parece magia: Columna a partir de los ejemplos. En vez de buscar qué transformación necesitas, escribes el resultado que quieres en la primera fila, por ejemplo, el apellido en mayúsculas, y Power Query adivina la regla y completa el resto. Siempre revisa que haya adivinado bien.",
+  "texto_tts": "Un bonus que parece magia: Columna a partir de los ejemplos. En vez de buscar qué transformación necesitas, escribes el resultado que quieres en la primera fila, por ejemplo, el apellido en mayúsculas, y Power Query adivina la regla y completa el resto. Siempre revisa que haya adivinado bien.",
+  "modelo": "eleven_v3",
+  "duracion": 19.36,
+  "palabras": [
+    {
+      "texto": "Un",
+      "inicio": 0.0,
+      "fin": 0.16
+    },
+    {
+      "texto": "bonus",
+      "inicio": 0.213,
+      "fin": 0.48
+    },
+    {
+      "texto": "que",
+      "inicio": 0.5,
+      "fin": 0.56
+    },
+    {
+      "texto": "parece",
+      "inicio": 0.617,
+      "fin": 0.96
+    },
+    {
+      "texto": "magia:",
+      "inicio": 1.04,
+      "fin": 1.6
+    },
+    {
+      "texto": "Columna",
+      "inicio": 1.669,
+      "fin": 2.16
+    },
+    {
+      "texto": "a",
+      "inicio": 2.24,
+      "fin": 2.32
+    },
+    {
+      "texto": "partir",
+      "inicio": 2.377,
+      "fin": 2.72
+    },
+    {
+      "texto": "de",
+      "inicio": 2.747,
+      "fin": 2.8
+    },
+    {
+      "texto": "los",
+      "inicio": 2.84,
+      "fin": 2.96
+    },
+    {
+      "texto": "ejemplos.",
+      "inicio": 3.013,
+      "fin": 3.76
+    },
+    {
+      "texto": "En",
+      "inicio": 3.973,
+      "fin": 4.4
+    },
+    {
+      "texto": "vez",
+      "inicio": 4.44,
+      "fin": 4.56
+    },
+    {
+      "texto": "de",
+      "inicio": 4.587,
+      "fin": 4.64
+    },
+    {
+      "texto": "buscar",
+      "inicio": 4.697,
+      "fin": 5.04
+    },
+    {
+      "texto": "qué",
+      "inicio": 5.1,
+      "fin": 5.28
+    },
+    {
+      "texto": "transformación",
+      "inicio": 5.32,
+      "fin": 5.92
+    },
+    {
+      "texto": "necesitas,",
+      "inicio": 5.987,
+      "fin": 6.8
+    },
+    {
+      "texto": "escribes",
+      "inicio": 6.96,
+      "fin": 7.6
+    },
+    {
+      "texto": "el",
+      "inicio": 7.653,
+      "fin": 7.76
+    },
+    {
+      "texto": "resultado",
+      "inicio": 7.832,
+      "fin": 8.48
+    },
+    {
+      "texto": "que",
+      "inicio": 8.52,
+      "fin": 8.64
+    },
+    {
+      "texto": "quieres",
+      "inicio": 8.69,
+      "fin": 9.04
+    },
+    {
+      "texto": "en",
+      "inicio": 9.093,
+      "fin": 9.2
+    },
+    {
+      "texto": "la",
+      "inicio": 9.253,
+      "fin": 9.36
+    },
+    {
+      "texto": "primera",
+      "inicio": 9.41,
+      "fin": 9.76
+    },
+    {
+      "texto": "fila,",
+      "inicio": 9.824,
+      "fin": 10.56
+    },
+    {
+      "texto": "por",
+      "inicio": 10.6,
+      "fin": 10.72
+    },
+    {
+      "texto": "ejemplo,",
+      "inicio": 10.78,
+      "fin": 11.36
+    },
+    {
+      "texto": "el",
+      "inicio": 11.387,
+      "fin": 11.44
+    },
+    {
+      "texto": "apellido",
+      "inicio": 11.502,
+      "fin": 12.0
+    },
+    {
+      "texto": "en",
+      "inicio": 12.027,
+      "fin": 12.08
+    },
+    {
+      "texto": "mayúsculas,",
+      "inicio": 12.12,
+      "fin": 13.28
+    },
+    {
+      "texto": "y",
+      "inicio": 13.32,
+      "fin": 13.36
+    },
+    {
+      "texto": "Power",
+      "inicio": 13.427,
+      "fin": 13.76
+    },
+    {
+      "texto": "Query",
+      "inicio": 13.84,
+      "fin": 14.24
+    },
+    {
+      "texto": "adivina",
+      "inicio": 14.32,
+      "fin": 14.8
+    },
+    {
+      "texto": "la",
+      "inicio": 14.827,
+      "fin": 14.88
+    },
+    {
+      "texto": "regla",
+      "inicio": 14.96,
+      "fin": 15.36
+    },
+    {
+      "texto": "y",
+      "inicio": 15.44,
+      "fin": 15.52
+    },
+    {
+      "texto": "completa",
+      "inicio": 15.582,
+      "fin": 16.08
+    },
+    {
+      "texto": "el",
+      "inicio": 16.107,
+      "fin": 16.16
+    },
+    {
+      "texto": "resto.",
+      "inicio": 16.24,
+      "fin": 16.72
+    },
+    {
+      "texto": "Siempre",
+      "inicio": 16.88,
+      "fin": 17.52
+    },
+    {
+      "texto": "revisa",
+      "inicio": 17.587,
+      "fin": 18.0
+    },
+    {
+      "texto": "que",
+      "inicio": 18.06,
+      "fin": 18.24
+    },
+    {
+      "texto": "haya",
+      "inicio": 18.288,
+      "fin": 18.48
+    },
+    {
+      "texto": "adivinado",
+      "inicio": 18.52,
+      "fin": 19.04
+    },
+    {
+      "texto": "bien.",
+      "inicio": 19.088,
+      "fin": 19.36
+    }
+  ]
+}

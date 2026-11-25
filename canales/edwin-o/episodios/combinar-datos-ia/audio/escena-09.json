@@ -1,0 +1,230 @@
+{
+  "num": "09",
+  "titulo": "Pieza 2: limpia el código del cliente",
+  "texto": "Pieza dos: ELEGIRCOLS toma la columna dos, la de los códigos de cliente. Y ESPACIOS les quita los espacios sobrantes. Guarda el resultado con el nombre \"ids\". Esta pieza parece un detalle, pero ya vas a ver que es la que salva el reporte.",
+  "texto_tts": "Pieza dos: ELEGIRCOLS toma la columna dos, la de los códigos de cliente. Y ESPACIOS les quita los espacios sobrantes. Guarda el resultado con el nombre \"ids\". Esta pieza parece un detalle, pero ya vas a ver que es la que salva el reporte.",
+  "modelo": "eleven_v3",
+  "duracion": 18.24,
+  "palabras": [
+    {
+      "texto": "Pieza",
+      "inicio": 0.0,
+      "fin": 0.32
+    },
+    {
+      "texto": "dos:",
+      "inicio": 0.42,
+      "fin": 0.8
+    },
+    {
+      "texto": "ELEGIRCOLS",
+      "inicio": 1.16,
+      "fin": 2.32
+    },
+    {
+      "texto": "toma",
+      "inicio": 2.453,
+      "fin": 2.8
+    },
+    {
+      "texto": "la",
+      "inicio": 2.853,
+      "fin": 2.96
+    },
+    {
+      "texto": "columna",
+      "inicio": 3.01,
+      "fin": 3.36
+    },
+    {
+      "texto": "dos,",
+      "inicio": 3.46,
+      "fin": 4.0
+    },
+    {
+      "texto": "la",
+      "inicio": 4.027,
+      "fin": 4.08
+    },
+    {
+      "texto": "de",
+      "inicio": 4.133,
+      "fin": 4.24
+    },
+    {
+      "texto": "los",
+      "inicio": 4.28,
+      "fin": 4.4
+    },
+    {
+      "texto": "códigos",
+      "inicio": 4.44,
+      "fin": 4.8
+    },
+    {
+      "texto": "de",
+      "inicio": 4.853,
+      "fin": 4.96
+    },
+    {
+      "texto": "cliente.",
+      "inicio": 5.03,
+      "fin": 5.6
+    },
+    {
+      "texto": "Y",
+      "inicio": 5.96,
+      "fin": 6.32
+    },
+    {
+      "texto": "ESPACIOS",
+      "inicio": 6.38,
+      "fin": 7.12
+    },
+    {
+      "texto": "les",
+      "inicio": 7.22,
+      "fin": 7.52
+    },
+    {
+      "texto": "quita",
+      "inicio": 7.547,
+      "fin": 7.76
+    },
+    {
+      "texto": "los",
+      "inicio": 7.82,
+      "fin": 8.0
+    },
+    {
+      "texto": "espacios",
+      "inicio": 8.06,
+      "fin": 8.48
+    },
+    {
+      "texto": "sobrantes.",
+      "inicio": 8.54,
+      "fin": 9.52
+    },
+    {
+      "texto": "Guarda",
+      "inicio": 9.627,
+      "fin": 10.2
+    },
+    {
+      "texto": "el",
+      "inicio": 10.213,
+      "fin": 10.24
+    },
+    {
+      "texto": "resultado",
+      "inicio": 10.296,
+      "fin": 10.8
+    },
+    {
+      "texto": "con",
+      "inicio": 10.86,
+      "fin": 11.04
+    },
+    {
+      "texto": "el",
+      "inicio": 11.093,
+      "fin": 11.2
+    },
+    {
+      "texto": "nombre",
+      "inicio": 11.257,
+      "fin": 11.6
+    },
+    {
+      "texto": "\"ids\".",
+      "inicio": 11.76,
+      "fin": 13.04
+    },
+    {
+      "texto": "Esta",
+      "inicio": 13.216,
+      "fin": 13.92
+    },
+    {
+      "texto": "pieza",
+      "inicio": 13.96,
+      "fin": 14.32
+    },
+    {
+      "texto": "parece",
+      "inicio": 14.366,
+      "fin": 14.64
+    },
+    {
+      "texto": "un",
+      "inicio": 14.667,
+      "fin": 14.72
+    },
+    {
+      "texto": "detalle,",
+      "inicio": 14.79,
+      "fin": 15.68
+    },
+    {
+      "texto": "pero",
+      "inicio": 15.712,
+      "fin": 15.84
+    },
+    {
+      "texto": "ya",
+      "inicio": 15.893,
+      "fin": 16.0
+    },
+    {
+      "texto": "vas",
+      "inicio": 16.06,
+      "fin": 16.24
+    },
+    {
+      "texto": "a",
+      "inicio": 16.28,
+      "fin": 16.32
+    },
+    {
+      "texto": "ver",
+      "inicio": 16.36,
+      "fin": 16.48
+    },
+    {
+      "texto": "que",
+      "inicio": 16.52,
+      "fin": 16.64
+    },
+    {
+      "texto": "es",
+      "inicio": 16.667,
+      "fin": 16.72
+    },
+    {
+      "texto": "la",
+      "inicio": 16.747,
+      "fin": 16.8
+    },
+    {
+      "texto": "que",
+      "inicio": 16.84,
+      "fin": 16.96
+    },
+    {
+      "texto": "salva",
+      "inicio": 17.04,
+      "fin": 17.36
+    },
+    {
+      "texto": "el",
+      "inicio": 17.387,
+      "fin": 17.44
+    },
+    {
+      "texto": "reporte.",
+      "inicio": 17.52,
+      "fin": 18.24
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "num": "12",
+  "titulo": "El resultado",
+  "texto": "¡Y mira! En el computador se ejecuta el programa: Arequipa, Barranquilla, Bogotá… hasta Santiago. Doce reportes de Excel, uno por ciudad. Y en el celular me llega el resumen. Los archivos quedan en mi computador, listos para cuando llegue a la oficina, o para que se los envíe a mi jefe.",
+  "texto_tts": "[excited] ¡Y mira! En el computador se ejecuta el programa: Arequipa, Barranquilla, Bogotá… hasta Santiago. Doce reportes de Excel, uno por ciudad. Y en el celular me llega el resumen. Los archivos quedan en mi computador, listos para cuando llegue a la oficina, o para que se los envíe a mi jefe.",
+  "modelo": "eleven_v3",
+  "duracion": 19.76,
+  "palabras": [
+    {
+      "texto": "¡Y",
+      "inicio": 0.136,
+      "fin": 0.16
+    },
+    {
+      "texto": "mira!",
+      "inicio": 0.24,
+      "fin": 0.72
+    },
+    {
+      "texto": "En",
+      "inicio": 0.827,
+      "fin": 1.04
+    },
+    {
+      "texto": "el",
+      "inicio": 1.067,
+      "fin": 1.12
+    },
+    {
+      "texto": "computador",
+      "inicio": 1.177,
+      "fin": 1.76
+    },
+    {
+      "texto": "se",
+      "inicio": 1.813,
+      "fin": 1.92
+    },
+    {
+      "texto": "ejecuta",
+      "inicio": 1.968,
+      "fin": 2.32
+    },
+    {
+      "texto": "el",
+      "inicio": 2.373,
+      "fin": 2.48
+    },
+    {
+      "texto": "programa:",
+      "inicio": 2.533,
+      "fin": 3.36
+    },
+    {
+      "texto": "Arequipa,",
+      "inicio": 3.44,
+      "fin": 4.32
+    },
+    {
+      "texto": "Barranquilla,",
+      "inicio": 4.368,
+      "fin": 5.44
+    },
+    {
+      "texto": "Bogotá…",
+      "inicio": 5.5,
+      "fin": 6.16
+    },
+    {
+      "texto": "hasta",
+      "inicio": 6.253,
+      "fin": 6.72
+    },
+    {
+      "texto": "Santiago.",
+      "inicio": 6.791,
+      "fin": 7.52
+    },
+    {
+      "texto": "Doce",
+      "inicio": 7.733,
+      "fin": 8.24
+    },
+    {
+      "texto": "reportes",
+      "inicio": 8.32,
+      "fin": 8.88
+    },
+    {
+      "texto": "de",
+      "inicio": 8.907,
+      "fin": 8.96
+    },
+    {
+      "texto": "Excel,",
+      "inicio": 9.04,
+      "fin": 9.76
+    },
+    {
+      "texto": "uno",
+      "inicio": 9.82,
+      "fin": 10.0
+    },
+    {
+      "texto": "por",
+      "inicio": 10.04,
+      "fin": 10.16
+    },
+    {
+      "texto": "ciudad.",
+      "inicio": 10.229,
+      "fin": 10.72
+    },
+    {
+      "texto": "Y",
+      "inicio": 11.04,
+      "fin": 11.36
+    },
+    {
+      "texto": "en",
+      "inicio": 11.387,
+      "fin": 11.44
+    },
+    {
+      "texto": "el",
+      "inicio": 11.493,
+      "fin": 11.6
+    },
+    {
+      "texto": "celular",
+      "inicio": 11.65,
+      "fin": 12.0
+    },
+    {
+      "texto": "me",
+      "inicio": 12.053,
+      "fin": 12.16
+    },
+    {
+      "texto": "llega",
+      "inicio": 12.192,
+      "fin": 12.4
+    },
+    {
+      "texto": "el",
+      "inicio": 12.427,
+      "fin": 12.48
+    },
+    {
+      "texto": "resumen.",
+      "inicio": 12.52,
+      "fin": 13.04
+    },
+    {
+      "texto": "Los",
+      "inicio": 13.22,
+      "fin": 13.76
+    },
+    {
+      "texto": "archivos",
+      "inicio": 13.822,
+      "fin": 14.32
+    },
+    {
+      "texto": "quedan",
+      "inicio": 14.368,
+      "fin": 14.72
+    },
+    {
+      "texto": "en",
+      "inicio": 14.747,
+      "fin": 14.8
+    },
+    {
+      "texto": "mi",
+      "inicio": 14.827,
+      "fin": 14.88
+    },
+    {
+      "texto": "computador,",
+      "inicio": 14.937,
+      "fin": 15.76
+    },
+    {
+      "texto": "listos",
+      "inicio": 15.872,
+      "fin": 16.48
+    },
+    {
+      "texto": "para",
+      "inicio": 16.512,
+      "fin": 16.64
+    },
+    {
+      "texto": "cuando",
+      "inicio": 16.674,
+      "fin": 16.88
+    },
+    {
+      "texto": "llegue",
+      "inicio": 16.912,
+      "fin": 17.12
+    },
+    {
+      "texto": "a",
+      "inicio": 17.14,
+      "fin": 17.16
+    },
+    {
+      "texto": "la",
+      "inicio": 17.173,
+      "fin": 17.2
+    },
+    {
+      "texto": "oficina,",
+      "inicio": 17.253,
+      "fin": 17.84
+    },
+    {
+      "texto": "o",
+      "inicio": 18.04,
+      "fin": 18.24
+    },
+    {
+      "texto": "para",
+      "inicio": 18.272,
+      "fin": 18.4
+    },
+    {
+      "texto": "que",
+      "inicio": 18.44,
+      "fin": 18.56
+    },
+    {
+      "texto": "se",
+      "inicio": 18.587,
+      "fin": 18.64
+    },
+    {
+      "texto": "los",
+      "inicio": 18.68,
+      "fin": 18.8
+    },
+    {
+      "texto": "envíe",
+      "inicio": 18.86,
+      "fin": 19.12
+    },
+    {
+      "texto": "a",
+      "inicio": 19.16,
+      "fin": 19.2
+    },
+    {
+      "texto": "mi",
+      "inicio": 19.227,
+      "fin": 19.28
+    },
+    {
+      "texto": "jefe.",
+      "inicio": 19.32,
+      "fin": 19.76
+    }
+  ]
+}

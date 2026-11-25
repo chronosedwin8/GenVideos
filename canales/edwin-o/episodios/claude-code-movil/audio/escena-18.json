@@ -1,0 +1,295 @@
+{
+  "num": "18",
+  "titulo": "Si no te funcionó",
+  "texto": "Si no te funcionó, revisa esto. Si cierras la terminal, la sesión se acaba: déjala abierta. Si el portátil se suspende o se cae el internet, tranquilo, se reconecta solo cuando vuelve. Si iniciaste sesión con una clave de API, cámbiala por tu cuenta con barra login. Y recuerda: con el plan gratuito no hay Claude Code.",
+  "texto_tts": "Si no te funcionó, revisa esto. Si cierras la terminal, la sesión se acaba: déjala abierta. Si el portátil se suspende o se cae el internet, tranquilo, se reconecta solo cuando vuelve. Si iniciaste sesión con una clave de API, cámbiala por tu cuenta con barra login. Y recuerda: con el plan gratuito no hay Claude Code.",
+  "modelo": "eleven_v3",
+  "duracion": 20.88,
+  "palabras": [
+    {
+      "texto": "Si",
+      "inicio": 0.0,
+      "fin": 0.16
+    },
+    {
+      "texto": "no",
+      "inicio": 0.213,
+      "fin": 0.32
+    },
+    {
+      "texto": "te",
+      "inicio": 0.347,
+      "fin": 0.4
+    },
+    {
+      "texto": "funcionó,",
+      "inicio": 0.46,
+      "fin": 1.28
+    },
+    {
+      "texto": "revisa",
+      "inicio": 1.347,
+      "fin": 1.88
+    },
+    {
+      "texto": "esto.",
+      "inicio": 1.92,
+      "fin": 2.16
+    },
+    {
+      "texto": "Si",
+      "inicio": 2.24,
+      "fin": 2.4
+    },
+    {
+      "texto": "cierras",
+      "inicio": 2.48,
+      "fin": 2.88
+    },
+    {
+      "texto": "la",
+      "inicio": 2.907,
+      "fin": 2.96
+    },
+    {
+      "texto": "terminal,",
+      "inicio": 3.013,
+      "fin": 3.52
+    },
+    {
+      "texto": "la",
+      "inicio": 3.547,
+      "fin": 3.6
+    },
+    {
+      "texto": "sesión",
+      "inicio": 3.646,
+      "fin": 3.92
+    },
+    {
+      "texto": "se",
+      "inicio": 3.947,
+      "fin": 4.0
+    },
+    {
+      "texto": "acaba:",
+      "inicio": 4.08,
+      "fin": 4.72
+    },
+    {
+      "texto": "déjala",
+      "inicio": 4.747,
+      "fin": 5.04
+    },
+    {
+      "texto": "abierta.",
+      "inicio": 5.067,
+      "fin": 5.52
+    },
+    {
+      "texto": "Si",
+      "inicio": 5.707,
+      "fin": 6.08
+    },
+    {
+      "texto": "el",
+      "inicio": 6.107,
+      "fin": 6.16
+    },
+    {
+      "texto": "portátil",
+      "inicio": 6.24,
+      "fin": 6.8
+    },
+    {
+      "texto": "se",
+      "inicio": 6.853,
+      "fin": 6.96
+    },
+    {
+      "texto": "suspende",
+      "inicio": 7.03,
+      "fin": 7.6
+    },
+    {
+      "texto": "o",
+      "inicio": 7.72,
+      "fin": 7.84
+    },
+    {
+      "texto": "se",
+      "inicio": 7.893,
+      "fin": 8.0
+    },
+    {
+      "texto": "cae",
+      "inicio": 8.053,
+      "fin": 8.24
+    },
+    {
+      "texto": "el",
+      "inicio": 8.267,
+      "fin": 8.32
+    },
+    {
+      "texto": "internet,",
+      "inicio": 8.373,
+      "fin": 9.12
+    },
+    {
+      "texto": "tranquilo,",
+      "inicio": 9.166,
+      "fin": 9.76
+    },
+    {
+      "texto": "se",
+      "inicio": 9.787,
+      "fin": 9.84
+    },
+    {
+      "texto": "reconecta",
+      "inicio": 9.893,
+      "fin": 10.4
+    },
+    {
+      "texto": "solo",
+      "inicio": 10.464,
+      "fin": 10.72
+    },
+    {
+      "texto": "cuando",
+      "inicio": 10.754,
+      "fin": 10.96
+    },
+    {
+      "texto": "vuelve.",
+      "inicio": 11.0,
+      "fin": 11.44
+    },
+    {
+      "texto": "Si",
+      "inicio": 11.707,
+      "fin": 12.24
+    },
+    {
+      "texto": "iniciaste",
+      "inicio": 12.293,
+      "fin": 12.8
+    },
+    {
+      "texto": "sesión",
+      "inicio": 12.846,
+      "fin": 13.12
+    },
+    {
+      "texto": "con",
+      "inicio": 13.16,
+      "fin": 13.28
+    },
+    {
+      "texto": "una",
+      "inicio": 13.32,
+      "fin": 13.44
+    },
+    {
+      "texto": "clave",
+      "inicio": 13.493,
+      "fin": 13.76
+    },
+    {
+      "texto": "de",
+      "inicio": 13.813,
+      "fin": 13.92
+    },
+    {
+      "texto": "API,",
+      "inicio": 14.0,
+      "fin": 14.48
+    },
+    {
+      "texto": "cámbiala",
+      "inicio": 14.533,
+      "fin": 14.96
+    },
+    {
+      "texto": "por",
+      "inicio": 14.98,
+      "fin": 15.04
+    },
+    {
+      "texto": "tu",
+      "inicio": 15.093,
+      "fin": 15.2
+    },
+    {
+      "texto": "cuenta",
+      "inicio": 15.246,
+      "fin": 15.52
+    },
+    {
+      "texto": "con",
+      "inicio": 15.58,
+      "fin": 15.76
+    },
+    {
+      "texto": "barra",
+      "inicio": 15.8,
+      "fin": 16.0
+    },
+    {
+      "texto": "login.",
+      "inicio": 16.067,
+      "fin": 16.48
+    },
+    {
+      "texto": "Y",
+      "inicio": 16.8,
+      "fin": 17.12
+    },
+    {
+      "texto": "recuerda:",
+      "inicio": 17.18,
+      "fin": 17.92
+    },
+    {
+      "texto": "con",
+      "inicio": 17.98,
+      "fin": 18.16
+    },
+    {
+      "texto": "el",
+      "inicio": 18.187,
+      "fin": 18.24
+    },
+    {
+      "texto": "plan",
+      "inicio": 18.304,
+      "fin": 18.56
+    },
+    {
+      "texto": "gratuito",
+      "inicio": 18.622,
+      "fin": 19.12
+    },
+    {
+      "texto": "no",
+      "inicio": 19.28,
+      "fin": 19.6
+    },
+    {
+      "texto": "hay",
+      "inicio": 19.66,
+      "fin": 19.84
+    },
+    {
+      "texto": "Claude",
+      "inicio": 19.909,
+      "fin": 20.32
+    },
+    {
+      "texto": "Code.",
+      "inicio": 20.4,
+      "fin": 20.88
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "num": "06",
+  "titulo": "El aporte de Edwin",
+  "texto": "Antes de empezar, mi criterio de profe para calificar. No gana la respuesta más bonita ni la más larga. Gana la que funciona cuando la pruebas. Por eso cada fórmula la pegué en Excel, y cada código lo ejecuté en Python. Nada de creerles a ciegas.",
+  "texto_tts": "Antes de empezar, mi criterio de profe para calificar. No gana la respuesta más bonita ni la más larga. Gana la que funciona cuando la pruebas. Por eso cada fórmula la pegué en Excel, y cada código lo ejecuté en Python. Nada de creerles a ciegas.",
+  "modelo": "eleven_v3",
+  "duracion": 18.64,
+  "palabras": [
+    {
+      "texto": "Antes",
+      "inicio": 0.0,
+      "fin": 0.24
+    },
+    {
+      "texto": "de",
+      "inicio": 0.267,
+      "fin": 0.32
+    },
+    {
+      "texto": "empezar,",
+      "inicio": 0.373,
+      "fin": 1.2
+    },
+    {
+      "texto": "mi",
+      "inicio": 1.227,
+      "fin": 1.28
+    },
+    {
+      "texto": "criterio",
+      "inicio": 1.349,
+      "fin": 1.84
+    },
+    {
+      "texto": "de",
+      "inicio": 1.867,
+      "fin": 1.92
+    },
+    {
+      "texto": "profe",
+      "inicio": 1.98,
+      "fin": 2.48
+    },
+    {
+      "texto": "para",
+      "inicio": 2.544,
+      "fin": 2.8
+    },
+    {
+      "texto": "calificar.",
+      "inicio": 2.86,
+      "fin": 3.6
+    },
+    {
+      "texto": "No",
+      "inicio": 3.893,
+      "fin": 4.48
+    },
+    {
+      "texto": "gana",
+      "inicio": 4.56,
+      "fin": 4.8
+    },
+    {
+      "texto": "la",
+      "inicio": 4.827,
+      "fin": 4.88
+    },
+    {
+      "texto": "respuesta",
+      "inicio": 4.936,
+      "fin": 5.44
+    },
+    {
+      "texto": "más",
+      "inicio": 5.5,
+      "fin": 5.68
+    },
+    {
+      "texto": "bonita",
+      "inicio": 5.72,
+      "fin": 6.32
+    },
+    {
+      "texto": "ni",
+      "inicio": 6.4,
+      "fin": 6.56
+    },
+    {
+      "texto": "la",
+      "inicio": 6.613,
+      "fin": 6.72
+    },
+    {
+      "texto": "más",
+      "inicio": 6.76,
+      "fin": 6.88
+    },
+    {
+      "texto": "larga.",
+      "inicio": 6.944,
+      "fin": 7.44
+    },
+    {
+      "texto": "Gana",
+      "inicio": 7.8,
+      "fin": 8.4
+    },
+    {
+      "texto": "la",
+      "inicio": 8.48,
+      "fin": 8.64
+    },
+    {
+      "texto": "que",
+      "inicio": 8.68,
+      "fin": 8.8
+    },
+    {
+      "texto": "funciona",
+      "inicio": 8.862,
+      "fin": 9.36
+    },
+    {
+      "texto": "cuando",
+      "inicio": 9.394,
+      "fin": 9.6
+    },
+    {
+      "texto": "la",
+      "inicio": 9.627,
+      "fin": 9.68
+    },
+    {
+      "texto": "pruebas.",
+      "inicio": 9.76,
+      "fin": 10.4
+    },
+    {
+      "texto": "Por",
+      "inicio": 10.6,
+      "fin": 11.2
+    },
+    {
+      "texto": "eso",
+      "inicio": 11.26,
+      "fin": 11.44
+    },
+    {
+      "texto": "cada",
+      "inicio": 11.488,
+      "fin": 11.68
+    },
+    {
+      "texto": "fórmula",
+      "inicio": 11.76,
+      "fin": 12.24
+    },
+    {
+      "texto": "la",
+      "inicio": 12.32,
+      "fin": 12.48
+    },
+    {
+      "texto": "pegué",
+      "inicio": 12.54,
+      "fin": 12.8
+    },
+    {
+      "texto": "en",
+      "inicio": 12.827,
+      "fin": 12.88
+    },
+    {
+      "texto": "Excel,",
+      "inicio": 12.947,
+      "fin": 13.84
+    },
+    {
+      "texto": "y",
+      "inicio": 13.88,
+      "fin": 13.92
+    },
+    {
+      "texto": "cada",
+      "inicio": 13.984,
+      "fin": 14.24
+    },
+    {
+      "texto": "código",
+      "inicio": 14.309,
+      "fin": 14.72
+    },
+    {
+      "texto": "lo",
+      "inicio": 14.827,
+      "fin": 15.04
+    },
+    {
+      "texto": "ejecuté",
+      "inicio": 15.088,
+      "fin": 15.44
+    },
+    {
+      "texto": "en",
+      "inicio": 15.467,
+      "fin": 15.52
+    },
+    {
+      "texto": "Python.",
+      "inicio": 15.611,
+      "fin": 16.56
+    },
+    {
+      "texto": "Nada",
+      "inicio": 16.76,
+      "fin": 17.12
+    },
+    {
+      "texto": "de",
+      "inicio": 17.2,
+      "fin": 17.36
+    },
+    {
+      "texto": "creerles",
+      "inicio": 17.42,
+      "fin": 17.84
+    },
+    {
+      "texto": "a",
+      "inicio": 17.88,
+      "fin": 17.92
+    },
+    {
+      "texto": "ciegas.",
+      "inicio": 18.0,
+      "fin": 18.64
+    }
+  ]
+}

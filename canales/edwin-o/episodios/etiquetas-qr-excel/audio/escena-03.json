@@ -1,0 +1,345 @@
+{
+  "num": "03",
+  "titulo": "El caso",
+  "texto": "¿Por qué ahora? Porque el mundo del comercio está cambiando de código. GS1, la organización que administra los códigos de barras de los productos, impulsa una iniciativa llamada Sunrise dos mil veintisiete: que las cajas registradoras puedan leer códigos de dos dimensiones, como el QR, para finales de dos mil veintisiete. Y mientras llega ese momento, se imprimen los dos. Justo lo que vamos a hacer hoy.",
+  "texto_tts": "¿Por qué ahora? Porque el mundo del comercio está cambiando de código. GS1, la organización que administra los códigos de barras de los productos, impulsa una iniciativa llamada Sunrise dos mil veintisiete: que las cajas registradoras puedan leer códigos de dos dimensiones, como el QR, para finales de dos mil veintisiete. Y mientras llega ese momento, se imprimen los dos. Justo lo que vamos a hacer hoy.",
+  "modelo": "eleven_v3",
+  "duracion": 29.36,
+  "palabras": [
+    {
+      "texto": "¿Por",
+      "inicio": 0.0,
+      "fin": 0.16
+    },
+    {
+      "texto": "qué",
+      "inicio": 0.22,
+      "fin": 0.4
+    },
+    {
+      "texto": "ahora?",
+      "inicio": 0.467,
+      "fin": 0.88
+    },
+    {
+      "texto": "Porque",
+      "inicio": 0.94,
+      "fin": 1.2
+    },
+    {
+      "texto": "el",
+      "inicio": 1.227,
+      "fin": 1.28
+    },
+    {
+      "texto": "mundo",
+      "inicio": 1.32,
+      "fin": 1.52
+    },
+    {
+      "texto": "del",
+      "inicio": 1.56,
+      "fin": 1.68
+    },
+    {
+      "texto": "comercio",
+      "inicio": 1.737,
+      "fin": 2.24
+    },
+    {
+      "texto": "está",
+      "inicio": 2.32,
+      "fin": 2.64
+    },
+    {
+      "texto": "cambiando",
+      "inicio": 2.707,
+      "fin": 3.36
+    },
+    {
+      "texto": "de",
+      "inicio": 3.413,
+      "fin": 3.52
+    },
+    {
+      "texto": "código.",
+      "inicio": 3.6,
+      "fin": 4.8
+    },
+    {
+      "texto": "GS1,",
+      "inicio": 5.04,
+      "fin": 6.08
+    },
+    {
+      "texto": "la",
+      "inicio": 6.107,
+      "fin": 6.16
+    },
+    {
+      "texto": "organización",
+      "inicio": 6.21,
+      "fin": 6.8
+    },
+    {
+      "texto": "que",
+      "inicio": 6.84,
+      "fin": 6.96
+    },
+    {
+      "texto": "administra",
+      "inicio": 7.013,
+      "fin": 7.6
+    },
+    {
+      "texto": "los",
+      "inicio": 7.64,
+      "fin": 7.76
+    },
+    {
+      "texto": "códigos",
+      "inicio": 7.8,
+      "fin": 8.24
+    },
+    {
+      "texto": "de",
+      "inicio": 8.267,
+      "fin": 8.32
+    },
+    {
+      "texto": "barras",
+      "inicio": 8.368,
+      "fin": 8.64
+    },
+    {
+      "texto": "de",
+      "inicio": 8.667,
+      "fin": 8.72
+    },
+    {
+      "texto": "los",
+      "inicio": 8.74,
+      "fin": 8.8
+    },
+    {
+      "texto": "productos,",
+      "inicio": 8.864,
+      "fin": 10.08
+    },
+    {
+      "texto": "impulsa",
+      "inicio": 10.14,
+      "fin": 10.56
+    },
+    {
+      "texto": "una",
+      "inicio": 10.6,
+      "fin": 10.72
+    },
+    {
+      "texto": "iniciativa",
+      "inicio": 10.76,
+      "fin": 11.28
+    },
+    {
+      "texto": "llamada",
+      "inicio": 11.328,
+      "fin": 11.68
+    },
+    {
+      "texto": "Sunrise",
+      "inicio": 11.81,
+      "fin": 12.72
+    },
+    {
+      "texto": "dos",
+      "inicio": 12.78,
+      "fin": 12.96
+    },
+    {
+      "texto": "mil",
+      "inicio": 13.0,
+      "fin": 13.12
+    },
+    {
+      "texto": "veintisiete:",
+      "inicio": 13.173,
+      "fin": 13.92
+    },
+    {
+      "texto": "que",
+      "inicio": 14.18,
+      "fin": 14.96
+    },
+    {
+      "texto": "las",
+      "inicio": 14.98,
+      "fin": 15.04
+    },
+    {
+      "texto": "cajas",
+      "inicio": 15.12,
+      "fin": 15.36
+    },
+    {
+      "texto": "registradoras",
+      "inicio": 15.41,
+      "fin": 16.24
+    },
+    {
+      "texto": "puedan",
+      "inicio": 16.336,
+      "fin": 16.8
+    },
+    {
+      "texto": "leer",
+      "inicio": 16.864,
+      "fin": 17.12
+    },
+    {
+      "texto": "códigos",
+      "inicio": 17.2,
+      "fin": 17.68
+    },
+    {
+      "texto": "de",
+      "inicio": 17.733,
+      "fin": 17.84
+    },
+    {
+      "texto": "dos",
+      "inicio": 17.9,
+      "fin": 18.08
+    },
+    {
+      "texto": "dimensiones,",
+      "inicio": 18.136,
+      "fin": 19.04
+    },
+    {
+      "texto": "como",
+      "inicio": 19.072,
+      "fin": 19.2
+    },
+    {
+      "texto": "el",
+      "inicio": 19.227,
+      "fin": 19.28
+    },
+    {
+      "texto": "QR,",
+      "inicio": 19.44,
+      "fin": 20.32
+    },
+    {
+      "texto": "para",
+      "inicio": 20.368,
+      "fin": 20.56
+    },
+    {
+      "texto": "finales",
+      "inicio": 20.62,
+      "fin": 21.04
+    },
+    {
+      "texto": "de",
+      "inicio": 21.093,
+      "fin": 21.2
+    },
+    {
+      "texto": "dos",
+      "inicio": 21.22,
+      "fin": 21.28
+    },
+    {
+      "texto": "mil",
+      "inicio": 21.32,
+      "fin": 21.44
+    },
+    {
+      "texto": "veintisiete.",
+      "inicio": 21.493,
+      "fin": 22.24
+    },
+    {
+      "texto": "Y",
+      "inicio": 22.8,
+      "fin": 23.36
+    },
+    {
+      "texto": "mientras",
+      "inicio": 23.404,
+      "fin": 23.76
+    },
+    {
+      "texto": "llega",
+      "inicio": 23.792,
+      "fin": 24.0
+    },
+    {
+      "texto": "ese",
+      "inicio": 24.04,
+      "fin": 24.16
+    },
+    {
+      "texto": "momento,",
+      "inicio": 24.23,
+      "fin": 25.2
+    },
+    {
+      "texto": "se",
+      "inicio": 25.227,
+      "fin": 25.28
+    },
+    {
+      "texto": "imprimen",
+      "inicio": 25.36,
+      "fin": 25.84
+    },
+    {
+      "texto": "los",
+      "inicio": 25.92,
+      "fin": 26.16
+    },
+    {
+      "texto": "dos.",
+      "inicio": 26.26,
+      "fin": 26.64
+    },
+    {
+      "texto": "Justo",
+      "inicio": 26.864,
+      "fin": 27.84
+    },
+    {
+      "texto": "lo",
+      "inicio": 27.92,
+      "fin": 28.08
+    },
+    {
+      "texto": "que",
+      "inicio": 28.12,
+      "fin": 28.24
+    },
+    {
+      "texto": "vamos",
+      "inicio": 28.28,
+      "fin": 28.48
+    },
+    {
+      "texto": "a",
+      "inicio": 28.52,
+      "fin": 28.56
+    },
+    {
+      "texto": "hacer",
+      "inicio": 28.6,
+      "fin": 28.8
+    },
+    {
+      "texto": "hoy.",
+      "inicio": 28.92,
+      "fin": 29.36
+    }
+  ]
+}

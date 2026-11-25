@@ -1,0 +1,240 @@
+{
+  "num": "08",
+  "titulo": "La prueba en Excel",
+  "texto": "Las pegué en Excel… y las dos funcionan. Doce pedidos, con nombre y ciudad, y el cliente fantasma marcado como \"No encontrado\". Un detalle: ChatGPT dijo que el resultado llegaba hasta la fila catorce, y en realidad llega hasta la trece. Error menor. Ronda uno: empate.",
+  "texto_tts": "Las pegué en Excel… y las dos funcionan. Doce pedidos, con nombre y ciudad, y el cliente fantasma marcado como \"No encontrado\". Un detalle: ChatGPT dijo que el resultado llegaba hasta la fila catorce, y en realidad llega hasta la trece. Error menor. Ronda uno: empate.",
+  "modelo": "eleven_v3",
+  "duracion": 19.52,
+  "palabras": [
+    {
+      "texto": "Las",
+      "inicio": 0.0,
+      "fin": 0.16
+    },
+    {
+      "texto": "pegué",
+      "inicio": 0.22,
+      "fin": 0.48
+    },
+    {
+      "texto": "en",
+      "inicio": 0.507,
+      "fin": 0.56
+    },
+    {
+      "texto": "Excel…",
+      "inicio": 0.653,
+      "fin": 1.2
+    },
+    {
+      "texto": "y",
+      "inicio": 1.6,
+      "fin": 2.0
+    },
+    {
+      "texto": "las",
+      "inicio": 2.04,
+      "fin": 2.16
+    },
+    {
+      "texto": "dos",
+      "inicio": 2.2,
+      "fin": 2.32
+    },
+    {
+      "texto": "funcionan.",
+      "inicio": 2.37,
+      "fin": 2.96
+    },
+    {
+      "texto": "Doce",
+      "inicio": 3.093,
+      "fin": 3.44
+    },
+    {
+      "texto": "pedidos,",
+      "inicio": 3.5,
+      "fin": 4.08
+    },
+    {
+      "texto": "con",
+      "inicio": 4.14,
+      "fin": 4.32
+    },
+    {
+      "texto": "nombre",
+      "inicio": 4.366,
+      "fin": 4.64
+    },
+    {
+      "texto": "y",
+      "inicio": 4.68,
+      "fin": 4.72
+    },
+    {
+      "texto": "ciudad,",
+      "inicio": 4.766,
+      "fin": 5.44
+    },
+    {
+      "texto": "y",
+      "inicio": 5.48,
+      "fin": 5.52
+    },
+    {
+      "texto": "el",
+      "inicio": 5.547,
+      "fin": 5.6
+    },
+    {
+      "texto": "cliente",
+      "inicio": 5.65,
+      "fin": 6.0
+    },
+    {
+      "texto": "fantasma",
+      "inicio": 6.064,
+      "fin": 6.56
+    },
+    {
+      "texto": "marcado",
+      "inicio": 6.624,
+      "fin": 7.04
+    },
+    {
+      "texto": "como",
+      "inicio": 7.088,
+      "fin": 7.28
+    },
+    {
+      "texto": "\"No",
+      "inicio": 7.32,
+      "fin": 7.44
+    },
+    {
+      "texto": "encontrado\".",
+      "inicio": 7.491,
+      "fin": 8.16
+    },
+    {
+      "texto": "Un",
+      "inicio": 8.4,
+      "fin": 8.88
+    },
+    {
+      "texto": "detalle:",
+      "inicio": 8.95,
+      "fin": 9.52
+    },
+    {
+      "texto": "ChatGPT",
+      "inicio": 9.68,
+      "fin": 10.8
+    },
+    {
+      "texto": "dijo",
+      "inicio": 10.864,
+      "fin": 11.12
+    },
+    {
+      "texto": "que",
+      "inicio": 11.14,
+      "fin": 11.2
+    },
+    {
+      "texto": "el",
+      "inicio": 11.227,
+      "fin": 11.28
+    },
+    {
+      "texto": "resultado",
+      "inicio": 11.352,
+      "fin": 12.0
+    },
+    {
+      "texto": "llegaba",
+      "inicio": 12.048,
+      "fin": 12.48
+    },
+    {
+      "texto": "hasta",
+      "inicio": 12.507,
+      "fin": 12.64
+    },
+    {
+      "texto": "la",
+      "inicio": 12.693,
+      "fin": 12.8
+    },
+    {
+      "texto": "fila",
+      "inicio": 12.848,
+      "fin": 13.04
+    },
+    {
+      "texto": "catorce,",
+      "inicio": 13.12,
+      "fin": 13.76
+    },
+    {
+      "texto": "y",
+      "inicio": 13.96,
+      "fin": 14.16
+    },
+    {
+      "texto": "en",
+      "inicio": 14.187,
+      "fin": 14.24
+    },
+    {
+      "texto": "realidad",
+      "inicio": 14.293,
+      "fin": 14.72
+    },
+    {
+      "texto": "llega",
+      "inicio": 14.768,
+      "fin": 15.04
+    },
+    {
+      "texto": "hasta",
+      "inicio": 15.067,
+      "fin": 15.2
+    },
+    {
+      "texto": "la",
+      "inicio": 15.227,
+      "fin": 15.28
+    },
+    {
+      "texto": "trece.",
+      "inicio": 15.34,
+      "fin": 15.84
+    },
+    {
+      "texto": "Error",
+      "inicio": 15.933,
+      "fin": 16.4
+    },
+    {
+      "texto": "menor.",
+      "inicio": 16.467,
+      "fin": 16.96
+    },
+    {
+      "texto": "Ronda",
+      "inicio": 17.36,
+      "fin": 18.0
+    },
+    {
+      "texto": "uno:",
+      "inicio": 18.08,
+      "fin": 18.8
+    },
+    {
+      "texto": "empate.",
+      "inicio": 18.88,
+      "fin": 19.52
+    }
+  ]
+}

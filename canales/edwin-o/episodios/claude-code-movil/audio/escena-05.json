@@ -1,0 +1,300 @@
+{
+  "num": "05",
+  "titulo": "Qué es y qué no es",
+  "texto": "Primero, entiende la idea. Con Remote Control, Claude Code sigue corriendo en tu computador, con tus archivos, tus programas y tus herramientas. El celular solo es el control remoto: ves la conversación y le das órdenes. Es distinto de Claude Code en la nube, que trabaja en servidores de Anthropic y no necesita que tu computador esté encendido.",
+  "texto_tts": "Primero, entiende la idea. Con Remote Control, Claude Code sigue corriendo en tu computador, con tus archivos, tus programas y tus herramientas. El celular solo es el control remoto: ves la conversación y le das órdenes. Es distinto de Claude Code en la nube, que trabaja en servidores de Anthropic y no necesita que tu computador esté encendido.",
+  "modelo": "eleven_v3",
+  "duracion": 23.2,
+  "palabras": [
+    {
+      "texto": "Primero,",
+      "inicio": 0.0,
+      "fin": 0.4
+    },
+    {
+      "texto": "entiende",
+      "inicio": 0.6,
+      "fin": 1.44
+    },
+    {
+      "texto": "la",
+      "inicio": 1.467,
+      "fin": 1.52
+    },
+    {
+      "texto": "idea.",
+      "inicio": 1.584,
+      "fin": 1.92
+    },
+    {
+      "texto": "Con",
+      "inicio": 2.1,
+      "fin": 2.64
+    },
+    {
+      "texto": "Remote",
+      "inicio": 2.686,
+      "fin": 2.96
+    },
+    {
+      "texto": "Control,",
+      "inicio": 3.02,
+      "fin": 3.76
+    },
+    {
+      "texto": "Claude",
+      "inicio": 3.806,
+      "fin": 4.08
+    },
+    {
+      "texto": "Code",
+      "inicio": 4.144,
+      "fin": 4.4
+    },
+    {
+      "texto": "sigue",
+      "inicio": 4.44,
+      "fin": 4.64
+    },
+    {
+      "texto": "corriendo",
+      "inicio": 4.68,
+      "fin": 5.12
+    },
+    {
+      "texto": "en",
+      "inicio": 5.147,
+      "fin": 5.2
+    },
+    {
+      "texto": "tu",
+      "inicio": 5.253,
+      "fin": 5.36
+    },
+    {
+      "texto": "computador,",
+      "inicio": 5.406,
+      "fin": 6.0
+    },
+    {
+      "texto": "con",
+      "inicio": 6.16,
+      "fin": 6.64
+    },
+    {
+      "texto": "tus",
+      "inicio": 6.7,
+      "fin": 6.88
+    },
+    {
+      "texto": "archivos,",
+      "inicio": 6.951,
+      "fin": 7.84
+    },
+    {
+      "texto": "tus",
+      "inicio": 7.86,
+      "fin": 7.92
+    },
+    {
+      "texto": "programas",
+      "inicio": 8.008,
+      "fin": 8.8
+    },
+    {
+      "texto": "y",
+      "inicio": 8.92,
+      "fin": 9.04
+    },
+    {
+      "texto": "tus",
+      "inicio": 9.1,
+      "fin": 9.28
+    },
+    {
+      "texto": "herramientas.",
+      "inicio": 9.338,
+      "fin": 10.16
+    },
+    {
+      "texto": "El",
+      "inicio": 10.373,
+      "fin": 10.8
+    },
+    {
+      "texto": "celular",
+      "inicio": 10.89,
+      "fin": 11.52
+    },
+    {
+      "texto": "solo",
+      "inicio": 11.584,
+      "fin": 11.84
+    },
+    {
+      "texto": "es",
+      "inicio": 11.893,
+      "fin": 12.0
+    },
+    {
+      "texto": "el",
+      "inicio": 12.027,
+      "fin": 12.08
+    },
+    {
+      "texto": "control",
+      "inicio": 12.13,
+      "fin": 12.48
+    },
+    {
+      "texto": "remoto:",
+      "inicio": 12.52,
+      "fin": 13.68
+    },
+    {
+      "texto": "ves",
+      "inicio": 13.72,
+      "fin": 13.84
+    },
+    {
+      "texto": "la",
+      "inicio": 13.867,
+      "fin": 13.92
+    },
+    {
+      "texto": "conversación",
+      "inicio": 13.97,
+      "fin": 14.72
+    },
+    {
+      "texto": "y",
+      "inicio": 14.88,
+      "fin": 15.04
+    },
+    {
+      "texto": "le",
+      "inicio": 15.093,
+      "fin": 15.2
+    },
+    {
+      "texto": "das",
+      "inicio": 15.24,
+      "fin": 15.36
+    },
+    {
+      "texto": "órdenes.",
+      "inicio": 15.4,
+      "fin": 16.0
+    },
+    {
+      "texto": "Es",
+      "inicio": 16.267,
+      "fin": 16.8
+    },
+    {
+      "texto": "distinto",
+      "inicio": 16.848,
+      "fin": 17.36
+    },
+    {
+      "texto": "de",
+      "inicio": 17.413,
+      "fin": 17.52
+    },
+    {
+      "texto": "Claude",
+      "inicio": 17.566,
+      "fin": 17.84
+    },
+    {
+      "texto": "Code",
+      "inicio": 17.888,
+      "fin": 18.08
+    },
+    {
+      "texto": "en",
+      "inicio": 18.107,
+      "fin": 18.16
+    },
+    {
+      "texto": "la",
+      "inicio": 18.187,
+      "fin": 18.24
+    },
+    {
+      "texto": "nube,",
+      "inicio": 18.32,
+      "fin": 18.88
+    },
+    {
+      "texto": "que",
+      "inicio": 18.9,
+      "fin": 18.96
+    },
+    {
+      "texto": "trabaja",
+      "inicio": 19.008,
+      "fin": 19.36
+    },
+    {
+      "texto": "en",
+      "inicio": 19.387,
+      "fin": 19.44
+    },
+    {
+      "texto": "servidores",
+      "inicio": 19.488,
+      "fin": 19.92
+    },
+    {
+      "texto": "de",
+      "inicio": 19.947,
+      "fin": 20.0
+    },
+    {
+      "texto": "Anthropic",
+      "inicio": 20.048,
+      "fin": 20.64
+    },
+    {
+      "texto": "y",
+      "inicio": 20.76,
+      "fin": 20.88
+    },
+    {
+      "texto": "no",
+      "inicio": 20.933,
+      "fin": 21.04
+    },
+    {
+      "texto": "necesita",
+      "inicio": 21.102,
+      "fin": 21.6
+    },
+    {
+      "texto": "que",
+      "inicio": 21.64,
+      "fin": 21.76
+    },
+    {
+      "texto": "tu",
+      "inicio": 21.787,
+      "fin": 21.84
+    },
+    {
+      "texto": "computador",
+      "inicio": 21.897,
+      "fin": 22.4
+    },
+    {
+      "texto": "esté",
+      "inicio": 22.44,
+      "fin": 22.64
+    },
+    {
+      "texto": "encendido.",
+      "inicio": 22.66,
+      "fin": 23.2
+    }
+  ]
+}

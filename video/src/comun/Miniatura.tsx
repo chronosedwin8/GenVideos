@@ -15,6 +15,23 @@ export type MiniaturaProps = {
   insignia?: string;
 };
 
+/** Ancho útil del título (px) y ancho medio de un carácter de la fuente de títulos (en em, con contorno). */
+const ANCHO_TITULO = 660;
+const EM_CARACTER = 0.56;
+
+/** Reduce cada línea para que quepa en el ancho del título (las palabras largas se salían del borde). */
+const ajustarLineas = (lineas: LineaTitulo[], altoUtil: number): LineaTitulo[] => {
+  const porAncho = lineas.map((l) => {
+    const base = l.tamano ?? 150;
+    const cabe = Math.floor(ANCHO_TITULO / (Math.max(l.texto.length, 1) * EM_CARACTER));
+    return {...l, tamano: Math.min(base, cabe)};
+  });
+  // Y que el bloque completo no choque con la píldora de abajo ni con la insignia de arriba.
+  const alto = porAncho.reduce((s, l) => s + (l.tamano ?? 150), 0);
+  const k = alto > altoUtil ? altoUtil / alto : 1;
+  return porAncho.map((l) => ({...l, tamano: Math.floor((l.tamano ?? 150) * k)}));
+};
+
 /** Miniatura 1280×720 con el estilo actual del canal (componer como Still). */
 export const Miniatura: React.FC<MiniaturaProps> = ({tema, lineas, pildora, foto, apoyo, insignia}) => (
   <AbsoluteFill>
@@ -26,8 +43,8 @@ export const Miniatura: React.FC<MiniaturaProps> = ({tema, lineas, pildora, foto
         <div style={{position: 'absolute', left: 30, top: 70, width: 520, height: 580, display: 'flex', alignItems: 'center', justifyContent: 'center'}}>{apoyo}</div>
       )}
     </AbsoluteFill>
-    <AbsoluteFill style={{left: 520, width: 760, alignItems: 'center', justifyContent: 'center', paddingBottom: pildora ? 110 : 0}}>
-      <TituloContorno tema={tema} lineas={lineas} tamano={150} rotacion={-4} desde={-5} />
+    <AbsoluteFill style={{left: 560, width: 720, alignItems: 'center', justifyContent: 'center', paddingBottom: pildora ? 110 : 0, paddingTop: insignia ? 80 : 0}}>
+      <TituloContorno tema={tema} lineas={ajustarLineas(lineas, 720 - (pildora ? 110 : 0) - (insignia ? 80 : 0) - 160)} tamano={150} rotacion={-4} desde={-5} />
     </AbsoluteFill>
     {pildora ? (
       <div style={{position: 'absolute', right: 40, bottom: 40}}>

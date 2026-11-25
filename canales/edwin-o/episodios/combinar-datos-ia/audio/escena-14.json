@@ -1,0 +1,280 @@
+{
+  "num": "14",
+  "titulo": "Bonus: el resumen por ciudad",
+  "texto": "Bonus: el resumen por ciudad. El numeral después de A2 significa \"toda la tabla que se desborda desde A2\". Con AGRUPARPOR agrupo por la columna cinco, la ciudad, y sumo la columna tres, el monto. Bogotá, cuatro mil trescientos ochenta; Cali, mil quinientos cincuenta; Medellín, cuatro mil veinte; y ochocientos veinte del cliente fantasma.",
+  "texto_tts": "Bonus: el resumen por ciudad. El numeral después de A2 significa \"toda la tabla que se desborda desde A2\". Con AGRUPARPOR agrupo por la columna cinco, la ciudad, y sumo la columna tres, el monto. Bogotá, cuatro mil trescientos ochenta; Cali, mil quinientos cincuenta; Medellín, cuatro mil veinte; y ochocientos veinte del cliente fantasma.",
+  "modelo": "eleven_v3",
+  "duracion": 32.16,
+  "palabras": [
+    {
+      "texto": "Bonus:",
+      "inicio": 0.0,
+      "fin": 0.56
+    },
+    {
+      "texto": "el",
+      "inicio": 0.747,
+      "fin": 1.12
+    },
+    {
+      "texto": "resumen",
+      "inicio": 1.18,
+      "fin": 1.68
+    },
+    {
+      "texto": "por",
+      "inicio": 1.78,
+      "fin": 2.08
+    },
+    {
+      "texto": "ciudad.",
+      "inicio": 2.149,
+      "fin": 2.64
+    },
+    {
+      "texto": "El",
+      "inicio": 2.987,
+      "fin": 3.68
+    },
+    {
+      "texto": "numeral",
+      "inicio": 3.73,
+      "fin": 4.08
+    },
+    {
+      "texto": "después",
+      "inicio": 4.13,
+      "fin": 4.48
+    },
+    {
+      "texto": "de",
+      "inicio": 4.56,
+      "fin": 4.72
+    },
+    {
+      "texto": "A2",
+      "inicio": 4.92,
+      "fin": 5.52
+    },
+    {
+      "texto": "significa",
+      "inicio": 5.632,
+      "fin": 6.64
+    },
+    {
+      "texto": "\"toda",
+      "inicio": 6.72,
+      "fin": 7.04
+    },
+    {
+      "texto": "la",
+      "inicio": 7.067,
+      "fin": 7.12
+    },
+    {
+      "texto": "tabla",
+      "inicio": 7.187,
+      "fin": 7.52
+    },
+    {
+      "texto": "que",
+      "inicio": 7.56,
+      "fin": 7.68
+    },
+    {
+      "texto": "se",
+      "inicio": 7.733,
+      "fin": 7.84
+    },
+    {
+      "texto": "desborda",
+      "inicio": 7.88,
+      "fin": 8.4
+    },
+    {
+      "texto": "desde",
+      "inicio": 8.493,
+      "fin": 8.96
+    },
+    {
+      "texto": "A2\".",
+      "inicio": 9.2,
+      "fin": 9.92
+    },
+    {
+      "texto": "Con",
+      "inicio": 10.26,
+      "fin": 11.28
+    },
+    {
+      "texto": "AGRUPARPOR",
+      "inicio": 11.4,
+      "fin": 12.64
+    },
+    {
+      "texto": "agrupo",
+      "inicio": 12.84,
+      "fin": 13.68
+    },
+    {
+      "texto": "por",
+      "inicio": 13.72,
+      "fin": 13.84
+    },
+    {
+      "texto": "la",
+      "inicio": 13.893,
+      "fin": 14.0
+    },
+    {
+      "texto": "columna",
+      "inicio": 14.06,
+      "fin": 14.48
+    },
+    {
+      "texto": "cinco,",
+      "inicio": 14.573,
+      "fin": 15.2
+    },
+    {
+      "texto": "la",
+      "inicio": 15.333,
+      "fin": 15.6
+    },
+    {
+      "texto": "ciudad,",
+      "inicio": 15.669,
+      "fin": 16.64
+    },
+    {
+      "texto": "y",
+      "inicio": 16.72,
+      "fin": 16.8
+    },
+    {
+      "texto": "sumo",
+      "inicio": 16.88,
+      "fin": 17.2
+    },
+    {
+      "texto": "la",
+      "inicio": 17.307,
+      "fin": 17.52
+    },
+    {
+      "texto": "columna",
+      "inicio": 17.59,
+      "fin": 18.08
+    },
+    {
+      "texto": "tres,",
+      "inicio": 18.176,
+      "fin": 18.64
+    },
+    {
+      "texto": "el",
+      "inicio": 18.773,
+      "fin": 19.04
+    },
+    {
+      "texto": "monto.",
+      "inicio": 19.12,
+      "fin": 20.16
+    },
+    {
+      "texto": "Bogotá,",
+      "inicio": 20.32,
+      "fin": 21.2
+    },
+    {
+      "texto": "cuatro",
+      "inicio": 21.28,
+      "fin": 21.76
+    },
+    {
+      "texto": "mil",
+      "inicio": 21.8,
+      "fin": 21.92
+    },
+    {
+      "texto": "trescientos",
+      "inicio": 21.984,
+      "fin": 22.48
+    },
+    {
+      "texto": "ochenta;",
+      "inicio": 22.56,
+      "fin": 23.2
+    },
+    {
+      "texto": "Cali,",
+      "inicio": 23.44,
+      "fin": 24.4
+    },
+    {
+      "texto": "mil",
+      "inicio": 24.52,
+      "fin": 24.88
+    },
+    {
+      "texto": "quinientos",
+      "inicio": 24.933,
+      "fin": 25.52
+    },
+    {
+      "texto": "cincuenta;",
+      "inicio": 25.56,
+      "fin": 26.24
+    },
+    {
+      "texto": "Medellín,",
+      "inicio": 26.44,
+      "fin": 27.6
+    },
+    {
+      "texto": "cuatro",
+      "inicio": 27.68,
+      "fin": 28.16
+    },
+    {
+      "texto": "mil",
+      "inicio": 28.2,
+      "fin": 28.32
+    },
+    {
+      "texto": "veinte;",
+      "inicio": 28.427,
+      "fin": 29.44
+    },
+    {
+      "texto": "y",
+      "inicio": 29.48,
+      "fin": 29.52
+    },
+    {
+      "texto": "ochocientos",
+      "inicio": 29.58,
+      "fin": 30.24
+    },
+    {
+      "texto": "veinte",
+      "inicio": 30.293,
+      "fin": 30.64
+    },
+    {
+      "texto": "del",
+      "inicio": 30.76,
+      "fin": 31.12
+    },
+    {
+      "texto": "cliente",
+      "inicio": 31.17,
+      "fin": 31.52
+    },
+    {
+      "texto": "fantasma.",
+      "inicio": 31.584,
+      "fin": 32.16
+    }
+  ]
+}

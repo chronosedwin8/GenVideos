@@ -1,0 +1,235 @@
+{
+  "num": "02",
+  "titulo": "Presentación",
+  "texto": "¡Bienvenidos, amigos del canal! Vamos en busca del poder tecnológico. Hoy vas a crear códigos QR y códigos de barras directamente en las celdas de Excel, armar una hoja de etiquetas lista para imprimir, y usar un lector para buscar cualquier producto en un segundo.",
+  "texto_tts": "[excited] ¡Bienvenidos, amigos del canal! Vamos en busca del poder tecnológico. Hoy vas a crear códigos QR y códigos de barras directamente en las celdas de Excel, armar una hoja de etiquetas lista para imprimir, y usar un lector para buscar cualquier producto en un segundo.",
+  "modelo": "eleven_v3",
+  "duracion": 22.96,
+  "palabras": [
+    {
+      "texto": "¡Bienvenidos,",
+      "inicio": 0.072,
+      "fin": 1.12
+    },
+    {
+      "texto": "amigos",
+      "inicio": 1.189,
+      "fin": 1.6
+    },
+    {
+      "texto": "del",
+      "inicio": 1.64,
+      "fin": 1.76
+    },
+    {
+      "texto": "canal!",
+      "inicio": 1.867,
+      "fin": 2.48
+    },
+    {
+      "texto": "Vamos",
+      "inicio": 2.88,
+      "fin": 3.68
+    },
+    {
+      "texto": "en",
+      "inicio": 3.733,
+      "fin": 3.84
+    },
+    {
+      "texto": "busca",
+      "inicio": 3.933,
+      "fin": 4.4
+    },
+    {
+      "texto": "del",
+      "inicio": 4.56,
+      "fin": 5.04
+    },
+    {
+      "texto": "poder",
+      "inicio": 5.133,
+      "fin": 5.6
+    },
+    {
+      "texto": "tecnológico.",
+      "inicio": 5.68,
+      "fin": 6.96
+    },
+    {
+      "texto": "Hoy",
+      "inicio": 7.1,
+      "fin": 7.52
+    },
+    {
+      "texto": "vas",
+      "inicio": 7.68,
+      "fin": 8.16
+    },
+    {
+      "texto": "a",
+      "inicio": 8.2,
+      "fin": 8.24
+    },
+    {
+      "texto": "crear",
+      "inicio": 8.307,
+      "fin": 8.64
+    },
+    {
+      "texto": "códigos",
+      "inicio": 8.8,
+      "fin": 9.36
+    },
+    {
+      "texto": "QR",
+      "inicio": 9.573,
+      "fin": 10.0
+    },
+    {
+      "texto": "y",
+      "inicio": 10.12,
+      "fin": 10.24
+    },
+    {
+      "texto": "códigos",
+      "inicio": 10.32,
+      "fin": 10.88
+    },
+    {
+      "texto": "de",
+      "inicio": 10.907,
+      "fin": 10.96
+    },
+    {
+      "texto": "barras",
+      "inicio": 11.008,
+      "fin": 11.44
+    },
+    {
+      "texto": "directamente",
+      "inicio": 11.566,
+      "fin": 12.72
+    },
+    {
+      "texto": "en",
+      "inicio": 12.747,
+      "fin": 12.8
+    },
+    {
+      "texto": "las",
+      "inicio": 12.84,
+      "fin": 12.96
+    },
+    {
+      "texto": "celdas",
+      "inicio": 13.04,
+      "fin": 13.44
+    },
+    {
+      "texto": "de",
+      "inicio": 13.467,
+      "fin": 13.52
+    },
+    {
+      "texto": "Excel,",
+      "inicio": 13.6,
+      "fin": 14.56
+    },
+    {
+      "texto": "armar",
+      "inicio": 14.64,
+      "fin": 15.04
+    },
+    {
+      "texto": "una",
+      "inicio": 15.08,
+      "fin": 15.2
+    },
+    {
+      "texto": "hoja",
+      "inicio": 15.253,
+      "fin": 15.52
+    },
+    {
+      "texto": "de",
+      "inicio": 15.587,
+      "fin": 15.72
+    },
+    {
+      "texto": "etiquetas",
+      "inicio": 15.753,
+      "fin": 16.32
+    },
+    {
+      "texto": "lista",
+      "inicio": 16.427,
+      "fin": 16.96
+    },
+    {
+      "texto": "para",
+      "inicio": 17.008,
+      "fin": 17.2
+    },
+    {
+      "texto": "imprimir,",
+      "inicio": 17.262,
+      "fin": 18.4
+    },
+    {
+      "texto": "y",
+      "inicio": 18.44,
+      "fin": 18.48
+    },
+    {
+      "texto": "usar",
+      "inicio": 18.56,
+      "fin": 18.88
+    },
+    {
+      "texto": "un",
+      "inicio": 18.907,
+      "fin": 18.96
+    },
+    {
+      "texto": "lector",
+      "inicio": 19.013,
+      "fin": 19.44
+    },
+    {
+      "texto": "para",
+      "inicio": 19.52,
+      "fin": 19.84
+    },
+    {
+      "texto": "buscar",
+      "inicio": 19.897,
+      "fin": 20.24
+    },
+    {
+      "texto": "cualquier",
+      "inicio": 20.296,
+      "fin": 20.8
+    },
+    {
+      "texto": "producto",
+      "inicio": 20.88,
+      "fin": 21.52
+    },
+    {
+      "texto": "en",
+      "inicio": 21.68,
+      "fin": 22.0
+    },
+    {
+      "texto": "un",
+      "inicio": 22.027,
+      "fin": 22.08
+    },
+    {
+      "texto": "segundo.",
+      "inicio": 22.16,
+      "fin": 22.96
+    }
+  ]
+}

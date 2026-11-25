@@ -1,0 +1,240 @@
+{
+  "num": "02",
+  "titulo": "Presentación",
+  "texto": "¡Bienvenidos, amigos del canal! Vamos en busca del poder tecnológico. Hoy aprendes a calcular la probabilidad binomial al instante. Vas a saber cuándo se usa, cómo calcularla en Excel con una sola función, cómo resolver el misterio de un proveedor sospechoso, y cómo hacerlo en Python.",
+  "texto_tts": "[excited] ¡Bienvenidos, amigos del canal! Vamos en busca del poder tecnológico. Hoy aprendes a calcular la probabilidad binomial al instante. Vas a saber cuándo se usa, cómo calcularla en Excel con una sola función, cómo resolver el misterio de un proveedor sospechoso, y cómo hacerlo en Python.",
+  "modelo": "eleven_v3",
+  "duracion": 25.76,
+  "palabras": [
+    {
+      "texto": "¡Bienvenidos,",
+      "inicio": 0.18,
+      "fin": 0.88
+    },
+    {
+      "texto": "amigos",
+      "inicio": 0.926,
+      "fin": 1.2
+    },
+    {
+      "texto": "del",
+      "inicio": 1.24,
+      "fin": 1.36
+    },
+    {
+      "texto": "canal!",
+      "inicio": 1.44,
+      "fin": 2.0
+    },
+    {
+      "texto": "Vamos",
+      "inicio": 2.24,
+      "fin": 2.88
+    },
+    {
+      "texto": "en",
+      "inicio": 2.987,
+      "fin": 3.2
+    },
+    {
+      "texto": "busca",
+      "inicio": 3.28,
+      "fin": 3.68
+    },
+    {
+      "texto": "del",
+      "inicio": 3.76,
+      "fin": 4.0
+    },
+    {
+      "texto": "poder",
+      "inicio": 4.067,
+      "fin": 4.4
+    },
+    {
+      "texto": "tecnológico.",
+      "inicio": 4.448,
+      "fin": 5.76
+    },
+    {
+      "texto": "Hoy",
+      "inicio": 5.9,
+      "fin": 6.32
+    },
+    {
+      "texto": "aprendes",
+      "inicio": 6.423,
+      "fin": 7.28
+    },
+    {
+      "texto": "a",
+      "inicio": 7.36,
+      "fin": 7.44
+    },
+    {
+      "texto": "calcular",
+      "inicio": 7.547,
+      "fin": 8.4
+    },
+    {
+      "texto": "la",
+      "inicio": 8.453,
+      "fin": 8.56
+    },
+    {
+      "texto": "probabilidad",
+      "inicio": 8.624,
+      "fin": 9.36
+    },
+    {
+      "texto": "binomial",
+      "inicio": 9.42,
+      "fin": 10.4
+    },
+    {
+      "texto": "al",
+      "inicio": 10.533,
+      "fin": 10.8
+    },
+    {
+      "texto": "instante.",
+      "inicio": 10.848,
+      "fin": 12.0
+    },
+    {
+      "texto": "Vas",
+      "inicio": 12.14,
+      "fin": 12.56
+    },
+    {
+      "texto": "a",
+      "inicio": 12.6,
+      "fin": 12.64
+    },
+    {
+      "texto": "saber",
+      "inicio": 12.76,
+      "fin": 13.36
+    },
+    {
+      "texto": "cuándo",
+      "inicio": 13.52,
+      "fin": 14.0
+    },
+    {
+      "texto": "se",
+      "inicio": 14.053,
+      "fin": 14.16
+    },
+    {
+      "texto": "usa,",
+      "inicio": 14.24,
+      "fin": 14.64
+    },
+    {
+      "texto": "cómo",
+      "inicio": 14.848,
+      "fin": 15.68
+    },
+    {
+      "texto": "calcularla",
+      "inicio": 15.742,
+      "fin": 16.32
+    },
+    {
+      "texto": "en",
+      "inicio": 16.347,
+      "fin": 16.4
+    },
+    {
+      "texto": "Excel",
+      "inicio": 16.48,
+      "fin": 16.88
+    },
+    {
+      "texto": "con",
+      "inicio": 16.94,
+      "fin": 17.12
+    },
+    {
+      "texto": "una",
+      "inicio": 17.2,
+      "fin": 17.44
+    },
+    {
+      "texto": "sola",
+      "inicio": 17.488,
+      "fin": 17.68
+    },
+    {
+      "texto": "función,",
+      "inicio": 17.75,
+      "fin": 19.28
+    },
+    {
+      "texto": "cómo",
+      "inicio": 19.328,
+      "fin": 19.52
+    },
+    {
+      "texto": "resolver",
+      "inicio": 19.582,
+      "fin": 20.08
+    },
+    {
+      "texto": "el",
+      "inicio": 20.187,
+      "fin": 20.4
+    },
+    {
+      "texto": "misterio",
+      "inicio": 20.44,
+      "fin": 21.12
+    },
+    {
+      "texto": "de",
+      "inicio": 21.173,
+      "fin": 21.28
+    },
+    {
+      "texto": "un",
+      "inicio": 21.307,
+      "fin": 21.36
+    },
+    {
+      "texto": "proveedor",
+      "inicio": 21.427,
+      "fin": 22.0
+    },
+    {
+      "texto": "sospechoso,",
+      "inicio": 22.06,
+      "fin": 23.12
+    },
+    {
+      "texto": "y",
+      "inicio": 23.36,
+      "fin": 23.6
+    },
+    {
+      "texto": "cómo",
+      "inicio": 23.648,
+      "fin": 23.84
+    },
+    {
+      "texto": "hacerlo",
+      "inicio": 23.907,
+      "fin": 24.4
+    },
+    {
+      "texto": "en",
+      "inicio": 24.587,
+      "fin": 24.96
+    },
+    {
+      "texto": "Python.",
+      "inicio": 25.051,
+      "fin": 25.76
+    }
+  ]
+}

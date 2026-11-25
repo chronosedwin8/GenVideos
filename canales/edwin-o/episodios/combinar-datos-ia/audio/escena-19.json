@@ -1,0 +1,265 @@
+{
+  "num": "19",
+  "titulo": "Si no te funcionó",
+  "texto": "Si no te funcionó: numeral nombre significa que tu Excel no tiene APILARV o BUSCARX; necesitas Microsoft trescientos sesenta y cinco. Desbordamiento: hay algo estorbando debajo de A2. Y si todo te sale \"No encontrado\", revisa espacios, o códigos guardados como número en una hoja y como texto en la otra.",
+  "texto_tts": "Si no te funcionó: numeral nombre significa que tu Excel no tiene APILARV o BUSCARX; necesitas Microsoft trescientos sesenta y cinco. Desbordamiento: hay algo estorbando debajo de A2. Y si todo te sale \"No encontrado\", revisa espacios, o códigos guardados como número en una hoja y como texto en la otra.",
+  "modelo": "eleven_v3",
+  "duracion": 24.96,
+  "palabras": [
+    {
+      "texto": "Si",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "no",
+      "inicio": 0.133,
+      "fin": 0.24
+    },
+    {
+      "texto": "te",
+      "inicio": 0.293,
+      "fin": 0.4
+    },
+    {
+      "texto": "funcionó:",
+      "inicio": 0.46,
+      "fin": 1.12
+    },
+    {
+      "texto": "numeral",
+      "inicio": 1.2,
+      "fin": 1.76
+    },
+    {
+      "texto": "nombre",
+      "inicio": 1.851,
+      "fin": 2.4
+    },
+    {
+      "texto": "significa",
+      "inicio": 2.48,
+      "fin": 3.2
+    },
+    {
+      "texto": "que",
+      "inicio": 3.28,
+      "fin": 3.52
+    },
+    {
+      "texto": "tu",
+      "inicio": 3.573,
+      "fin": 3.68
+    },
+    {
+      "texto": "Excel",
+      "inicio": 3.747,
+      "fin": 4.08
+    },
+    {
+      "texto": "no",
+      "inicio": 4.16,
+      "fin": 4.32
+    },
+    {
+      "texto": "tiene",
+      "inicio": 4.373,
+      "fin": 4.64
+    },
+    {
+      "texto": "APILARV",
+      "inicio": 4.747,
+      "fin": 5.76
+    },
+    {
+      "texto": "o",
+      "inicio": 5.88,
+      "fin": 6.0
+    },
+    {
+      "texto": "BUSCARX;",
+      "inicio": 6.06,
+      "fin": 7.44
+    },
+    {
+      "texto": "necesitas",
+      "inicio": 7.507,
+      "fin": 8.24
+    },
+    {
+      "texto": "Microsoft",
+      "inicio": 8.296,
+      "fin": 8.8
+    },
+    {
+      "texto": "trescientos",
+      "inicio": 8.832,
+      "fin": 9.28
+    },
+    {
+      "texto": "sesenta",
+      "inicio": 9.32,
+      "fin": 9.68
+    },
+    {
+      "texto": "y",
+      "inicio": 9.78,
+      "fin": 9.88
+    },
+    {
+      "texto": "cinco.",
+      "inicio": 9.913,
+      "fin": 10.16
+    },
+    {
+      "texto": "Desbordamiento:",
+      "inicio": 10.56,
+      "fin": 12.92
+    },
+    {
+      "texto": "hay",
+      "inicio": 13.01,
+      "fin": 13.28
+    },
+    {
+      "texto": "algo",
+      "inicio": 13.312,
+      "fin": 13.44
+    },
+    {
+      "texto": "estorbando",
+      "inicio": 13.5,
+      "fin": 14.24
+    },
+    {
+      "texto": "debajo",
+      "inicio": 14.32,
+      "fin": 14.8
+    },
+    {
+      "texto": "de",
+      "inicio": 14.827,
+      "fin": 14.88
+    },
+    {
+      "texto": "A2.",
+      "inicio": 15.04,
+      "fin": 15.52
+    },
+    {
+      "texto": "Y",
+      "inicio": 16.12,
+      "fin": 16.72
+    },
+    {
+      "texto": "si",
+      "inicio": 16.773,
+      "fin": 16.88
+    },
+    {
+      "texto": "todo",
+      "inicio": 16.928,
+      "fin": 17.12
+    },
+    {
+      "texto": "te",
+      "inicio": 17.173,
+      "fin": 17.28
+    },
+    {
+      "texto": "sale",
+      "inicio": 17.328,
+      "fin": 17.52
+    },
+    {
+      "texto": "\"No",
+      "inicio": 17.56,
+      "fin": 17.68
+    },
+    {
+      "texto": "encontrado\",",
+      "inicio": 17.738,
+      "fin": 18.56
+    },
+    {
+      "texto": "revisa",
+      "inicio": 18.707,
+      "fin": 19.52
+    },
+    {
+      "texto": "espacios,",
+      "inicio": 19.62,
+      "fin": 20.6
+    },
+    {
+      "texto": "o",
+      "inicio": 20.66,
+      "fin": 20.72
+    },
+    {
+      "texto": "códigos",
+      "inicio": 20.8,
+      "fin": 21.2
+    },
+    {
+      "texto": "guardados",
+      "inicio": 21.24,
+      "fin": 21.76
+    },
+    {
+      "texto": "como",
+      "inicio": 21.824,
+      "fin": 22.08
+    },
+    {
+      "texto": "número",
+      "inicio": 22.137,
+      "fin": 22.48
+    },
+    {
+      "texto": "en",
+      "inicio": 22.507,
+      "fin": 22.56
+    },
+    {
+      "texto": "una",
+      "inicio": 22.6,
+      "fin": 22.72
+    },
+    {
+      "texto": "hoja",
+      "inicio": 22.8,
+      "fin": 23.12
+    },
+    {
+      "texto": "y",
+      "inicio": 23.24,
+      "fin": 23.36
+    },
+    {
+      "texto": "como",
+      "inicio": 23.408,
+      "fin": 23.6
+    },
+    {
+      "texto": "texto",
+      "inicio": 23.68,
+      "fin": 24.08
+    },
+    {
+      "texto": "en",
+      "inicio": 24.16,
+      "fin": 24.32
+    },
+    {
+      "texto": "la",
+      "inicio": 24.373,
+      "fin": 24.48
+    },
+    {
+      "texto": "otra.",
+      "inicio": 24.56,
+      "fin": 24.96
+    }
+  ]
+}

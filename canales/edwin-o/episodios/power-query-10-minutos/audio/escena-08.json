@@ -1,0 +1,285 @@
+{
+  "num": "08",
+  "titulo": "Movimiento 2: rellenar hacia abajo",
+  "texto": "Movimiento dos: rellenar hacia abajo. Las celdas vacías de la región aparecen como null. Selecciona la columna Región, ve a Transformar, Rellenar, Abajo. Power Query copia el valor de arriba en cada vacío: Luis Gómez queda en el Norte y Juan Pérez en el Sur. Esto, a mano, en miles de filas, es una pesadilla.",
+  "texto_tts": "Movimiento dos: rellenar hacia abajo. Las celdas vacías de la región aparecen como null. Selecciona la columna Región, ve a Transformar, Rellenar, Abajo. Power Query copia el valor de arriba en cada vacío: Luis Gómez queda en el Norte y Juan Pérez en el Sur. Esto, a mano, en miles de filas, es una pesadilla.",
+  "modelo": "eleven_v3",
+  "duracion": 29.44,
+  "palabras": [
+    {
+      "texto": "Movimiento",
+      "inicio": 0.0,
+      "fin": 0.56
+    },
+    {
+      "texto": "dos:",
+      "inicio": 0.64,
+      "fin": 0.96
+    },
+    {
+      "texto": "rellenar",
+      "inicio": 1.227,
+      "fin": 2.24
+    },
+    {
+      "texto": "hacia",
+      "inicio": 2.307,
+      "fin": 2.64
+    },
+    {
+      "texto": "abajo.",
+      "inicio": 2.667,
+      "fin": 3.2
+    },
+    {
+      "texto": "Las",
+      "inicio": 3.56,
+      "fin": 4.64
+    },
+    {
+      "texto": "celdas",
+      "inicio": 4.68,
+      "fin": 4.96
+    },
+    {
+      "texto": "vacías",
+      "inicio": 5.02,
+      "fin": 5.52
+    },
+    {
+      "texto": "de",
+      "inicio": 5.547,
+      "fin": 5.6
+    },
+    {
+      "texto": "la",
+      "inicio": 5.627,
+      "fin": 5.68
+    },
+    {
+      "texto": "región",
+      "inicio": 5.74,
+      "fin": 6.16
+    },
+    {
+      "texto": "aparecen",
+      "inicio": 6.24,
+      "fin": 6.88
+    },
+    {
+      "texto": "como",
+      "inicio": 6.944,
+      "fin": 7.2
+    },
+    {
+      "texto": "null.",
+      "inicio": 7.28,
+      "fin": 7.84
+    },
+    {
+      "texto": "Selecciona",
+      "inicio": 8.24,
+      "fin": 9.52
+    },
+    {
+      "texto": "la",
+      "inicio": 9.573,
+      "fin": 9.68
+    },
+    {
+      "texto": "columna",
+      "inicio": 9.74,
+      "fin": 10.16
+    },
+    {
+      "texto": "Región,",
+      "inicio": 10.22,
+      "fin": 11.52
+    },
+    {
+      "texto": "ve",
+      "inicio": 11.573,
+      "fin": 11.68
+    },
+    {
+      "texto": "a",
+      "inicio": 11.72,
+      "fin": 11.76
+    },
+    {
+      "texto": "Transformar,",
+      "inicio": 11.824,
+      "fin": 12.96
+    },
+    {
+      "texto": "Rellenar,",
+      "inicio": 13.16,
+      "fin": 13.92
+    },
+    {
+      "texto": "Abajo.",
+      "inicio": 14.187,
+      "fin": 15.36
+    },
+    {
+      "texto": "Power",
+      "inicio": 15.6,
+      "fin": 16.8
+    },
+    {
+      "texto": "Query",
+      "inicio": 16.867,
+      "fin": 17.2
+    },
+    {
+      "texto": "copia",
+      "inicio": 17.26,
+      "fin": 17.52
+    },
+    {
+      "texto": "el",
+      "inicio": 17.547,
+      "fin": 17.6
+    },
+    {
+      "texto": "valor",
+      "inicio": 17.653,
+      "fin": 17.92
+    },
+    {
+      "texto": "de",
+      "inicio": 17.947,
+      "fin": 18.0
+    },
+    {
+      "texto": "arriba",
+      "inicio": 18.053,
+      "fin": 18.4
+    },
+    {
+      "texto": "en",
+      "inicio": 18.507,
+      "fin": 18.72
+    },
+    {
+      "texto": "cada",
+      "inicio": 18.768,
+      "fin": 18.96
+    },
+    {
+      "texto": "vacío:",
+      "inicio": 19.04,
+      "fin": 20.32
+    },
+    {
+      "texto": "Luis",
+      "inicio": 20.384,
+      "fin": 20.64
+    },
+    {
+      "texto": "Gómez",
+      "inicio": 20.72,
+      "fin": 21.2
+    },
+    {
+      "texto": "queda",
+      "inicio": 21.253,
+      "fin": 21.52
+    },
+    {
+      "texto": "en",
+      "inicio": 21.547,
+      "fin": 21.6
+    },
+    {
+      "texto": "el",
+      "inicio": 21.627,
+      "fin": 21.68
+    },
+    {
+      "texto": "Norte",
+      "inicio": 21.813,
+      "fin": 22.48
+    },
+    {
+      "texto": "y",
+      "inicio": 22.64,
+      "fin": 22.8
+    },
+    {
+      "texto": "Juan",
+      "inicio": 22.848,
+      "fin": 23.04
+    },
+    {
+      "texto": "Pérez",
+      "inicio": 23.147,
+      "fin": 23.6
+    },
+    {
+      "texto": "en",
+      "inicio": 23.68,
+      "fin": 23.84
+    },
+    {
+      "texto": "el",
+      "inicio": 23.867,
+      "fin": 23.92
+    },
+    {
+      "texto": "Sur.",
+      "inicio": 24.04,
+      "fin": 24.48
+    },
+    {
+      "texto": "Esto,",
+      "inicio": 24.768,
+      "fin": 26.16
+    },
+    {
+      "texto": "a",
+      "inicio": 26.2,
+      "fin": 26.24
+    },
+    {
+      "texto": "mano,",
+      "inicio": 26.32,
+      "fin": 26.72
+    },
+    {
+      "texto": "en",
+      "inicio": 26.827,
+      "fin": 27.04
+    },
+    {
+      "texto": "miles",
+      "inicio": 27.093,
+      "fin": 27.36
+    },
+    {
+      "texto": "de",
+      "inicio": 27.387,
+      "fin": 27.44
+    },
+    {
+      "texto": "filas,",
+      "inicio": 27.52,
+      "fin": 28.32
+    },
+    {
+      "texto": "es",
+      "inicio": 28.373,
+      "fin": 28.48
+    },
+    {
+      "texto": "una",
+      "inicio": 28.52,
+      "fin": 28.64
+    },
+    {
+      "texto": "pesadilla.",
+      "inicio": 28.7,
+      "fin": 29.44
+    }
+  ]
+}

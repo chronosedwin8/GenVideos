@@ -1,0 +1,310 @@
+{
+  "num": "13",
+  "titulo": "Ronda 5: la pregunta de analista",
+  "texto": "Ronda cinco: una pregunta de analista. ¿Qué cliente compró más en febrero, y cuánto cambió frente a enero? Las dos respondieron bien: Marta Díaz, con dos mil cien, frente a trescientos en enero. Un aumento del seiscientos por ciento: compró siete veces más. ChatGPT agregó una conclusión comercial; Claude aclaró que el cliente fantasma no entraba en la comparación. Empate.",
+  "texto_tts": "Ronda cinco: una pregunta de analista. ¿Qué cliente compró más en febrero, y cuánto cambió frente a enero? Las dos respondieron bien: Marta Díaz, con dos mil cien, frente a trescientos en enero. Un aumento del seiscientos por ciento: compró siete veces más. ChatGPT agregó una conclusión comercial; Claude aclaró que el cliente fantasma no entraba en la comparación. Empate.",
+  "modelo": "eleven_v3",
+  "duracion": 27.92,
+  "palabras": [
+    {
+      "texto": "Ronda",
+      "inicio": 0.0,
+      "fin": 0.24
+    },
+    {
+      "texto": "cinco:",
+      "inicio": 0.32,
+      "fin": 0.96
+    },
+    {
+      "texto": "una",
+      "inicio": 1.02,
+      "fin": 1.2
+    },
+    {
+      "texto": "pregunta",
+      "inicio": 1.253,
+      "fin": 1.68
+    },
+    {
+      "texto": "de",
+      "inicio": 1.733,
+      "fin": 1.84
+    },
+    {
+      "texto": "analista.",
+      "inicio": 1.888,
+      "fin": 2.48
+    },
+    {
+      "texto": "¿Qué",
+      "inicio": 2.88,
+      "fin": 3.36
+    },
+    {
+      "texto": "cliente",
+      "inicio": 3.41,
+      "fin": 3.76
+    },
+    {
+      "texto": "compró",
+      "inicio": 3.813,
+      "fin": 4.16
+    },
+    {
+      "texto": "más",
+      "inicio": 4.22,
+      "fin": 4.4
+    },
+    {
+      "texto": "en",
+      "inicio": 4.427,
+      "fin": 4.48
+    },
+    {
+      "texto": "febrero,",
+      "inicio": 4.56,
+      "fin": 5.2
+    },
+    {
+      "texto": "y",
+      "inicio": 5.24,
+      "fin": 5.28
+    },
+    {
+      "texto": "cuánto",
+      "inicio": 5.36,
+      "fin": 5.68
+    },
+    {
+      "texto": "cambió",
+      "inicio": 5.728,
+      "fin": 6.0
+    },
+    {
+      "texto": "frente",
+      "inicio": 6.057,
+      "fin": 6.4
+    },
+    {
+      "texto": "a",
+      "inicio": 6.44,
+      "fin": 6.48
+    },
+    {
+      "texto": "enero?",
+      "inicio": 6.507,
+      "fin": 6.8
+    },
+    {
+      "texto": "Las",
+      "inicio": 7.08,
+      "fin": 7.92
+    },
+    {
+      "texto": "dos",
+      "inicio": 7.98,
+      "fin": 8.16
+    },
+    {
+      "texto": "respondieron",
+      "inicio": 8.21,
+      "fin": 8.88
+    },
+    {
+      "texto": "bien:",
+      "inicio": 8.96,
+      "fin": 9.92
+    },
+    {
+      "texto": "Marta",
+      "inicio": 9.984,
+      "fin": 10.32
+    },
+    {
+      "texto": "Díaz,",
+      "inicio": 10.36,
+      "fin": 10.8
+    },
+    {
+      "texto": "con",
+      "inicio": 10.84,
+      "fin": 10.96
+    },
+    {
+      "texto": "dos",
+      "inicio": 11.02,
+      "fin": 11.2
+    },
+    {
+      "texto": "mil",
+      "inicio": 11.26,
+      "fin": 11.44
+    },
+    {
+      "texto": "cien,",
+      "inicio": 11.56,
+      "fin": 12.08
+    },
+    {
+      "texto": "frente",
+      "inicio": 12.16,
+      "fin": 12.64
+    },
+    {
+      "texto": "a",
+      "inicio": 12.72,
+      "fin": 12.8
+    },
+    {
+      "texto": "trescientos",
+      "inicio": 12.832,
+      "fin": 13.36
+    },
+    {
+      "texto": "en",
+      "inicio": 13.413,
+      "fin": 13.52
+    },
+    {
+      "texto": "enero.",
+      "inicio": 13.573,
+      "fin": 14.0
+    },
+    {
+      "texto": "Un",
+      "inicio": 14.187,
+      "fin": 14.56
+    },
+    {
+      "texto": "aumento",
+      "inicio": 14.62,
+      "fin": 15.04
+    },
+    {
+      "texto": "del",
+      "inicio": 15.08,
+      "fin": 15.2
+    },
+    {
+      "texto": "seiscientos",
+      "inicio": 15.253,
+      "fin": 15.92
+    },
+    {
+      "texto": "por",
+      "inicio": 15.98,
+      "fin": 16.16
+    },
+    {
+      "texto": "ciento:",
+      "inicio": 16.24,
+      "fin": 17.04
+    },
+    {
+      "texto": "compró",
+      "inicio": 17.093,
+      "fin": 17.52
+    },
+    {
+      "texto": "siete",
+      "inicio": 17.68,
+      "fin": 18.16
+    },
+    {
+      "texto": "veces",
+      "inicio": 18.227,
+      "fin": 18.56
+    },
+    {
+      "texto": "más.",
+      "inicio": 18.66,
+      "fin": 19.04
+    },
+    {
+      "texto": "ChatGPT",
+      "inicio": 19.28,
+      "fin": 20.64
+    },
+    {
+      "texto": "agregó",
+      "inicio": 20.72,
+      "fin": 21.2
+    },
+    {
+      "texto": "una",
+      "inicio": 21.22,
+      "fin": 21.28
+    },
+    {
+      "texto": "conclusión",
+      "inicio": 21.33,
+      "fin": 21.84
+    },
+    {
+      "texto": "comercial;",
+      "inicio": 21.896,
+      "fin": 23.04
+    },
+    {
+      "texto": "Claude",
+      "inicio": 23.097,
+      "fin": 23.44
+    },
+    {
+      "texto": "aclaró",
+      "inicio": 23.52,
+      "fin": 23.92
+    },
+    {
+      "texto": "que",
+      "inicio": 23.94,
+      "fin": 24.0
+    },
+    {
+      "texto": "el",
+      "inicio": 24.027,
+      "fin": 24.08
+    },
+    {
+      "texto": "cliente",
+      "inicio": 24.12,
+      "fin": 24.4
+    },
+    {
+      "texto": "fantasma",
+      "inicio": 24.464,
+      "fin": 25.04
+    },
+    {
+      "texto": "no",
+      "inicio": 25.147,
+      "fin": 25.36
+    },
+    {
+      "texto": "entraba",
+      "inicio": 25.408,
+      "fin": 25.76
+    },
+    {
+      "texto": "en",
+      "inicio": 25.787,
+      "fin": 25.84
+    },
+    {
+      "texto": "la",
+      "inicio": 25.867,
+      "fin": 25.92
+    },
+    {
+      "texto": "comparación.",
+      "inicio": 25.966,
+      "fin": 26.72
+    },
+    {
+      "texto": "Empate.",
+      "inicio": 26.92,
+      "fin": 27.92
+    }
+  ]
+}

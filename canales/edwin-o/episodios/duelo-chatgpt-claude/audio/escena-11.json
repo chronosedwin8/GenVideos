@@ -1,0 +1,270 @@
+{
+  "num": "11",
+  "titulo": "Ronda 4: el código de Python",
+  "texto": "Ronda cuatro, la que definió el duelo: les pedí el mismo trabajo en Python, leyendo un archivo de Excel. Ejecuté el código de ChatGPT… y falló: error de clave, porque intentaba limpiar una columna Cliente en la hoja de clientes, donde se llama ID. El código de Claude funcionó a la primera.",
+  "texto_tts": "Ronda cuatro, la que definió el duelo: les pedí el mismo trabajo en Python, leyendo un archivo de Excel. Ejecuté el código de ChatGPT… y falló: error de clave, porque intentaba limpiar una columna Cliente en la hoja de clientes, donde se llama ID. El código de Claude funcionó a la primera.",
+  "modelo": "eleven_v3",
+  "duracion": 22.8,
+  "palabras": [
+    {
+      "texto": "Ronda",
+      "inicio": 0.0,
+      "fin": 0.32
+    },
+    {
+      "texto": "cuatro,",
+      "inicio": 0.377,
+      "fin": 0.88
+    },
+    {
+      "texto": "la",
+      "inicio": 0.96,
+      "fin": 1.12
+    },
+    {
+      "texto": "que",
+      "inicio": 1.16,
+      "fin": 1.28
+    },
+    {
+      "texto": "definió",
+      "inicio": 1.32,
+      "fin": 1.68
+    },
+    {
+      "texto": "el",
+      "inicio": 1.707,
+      "fin": 1.76
+    },
+    {
+      "texto": "duelo:",
+      "inicio": 1.813,
+      "fin": 2.24
+    },
+    {
+      "texto": "les",
+      "inicio": 2.44,
+      "fin": 3.04
+    },
+    {
+      "texto": "pedí",
+      "inicio": 3.08,
+      "fin": 3.36
+    },
+    {
+      "texto": "el",
+      "inicio": 3.44,
+      "fin": 3.6
+    },
+    {
+      "texto": "mismo",
+      "inicio": 3.667,
+      "fin": 4.0
+    },
+    {
+      "texto": "trabajo",
+      "inicio": 4.06,
+      "fin": 4.48
+    },
+    {
+      "texto": "en",
+      "inicio": 4.507,
+      "fin": 4.56
+    },
+    {
+      "texto": "Python,",
+      "inicio": 4.64,
+      "fin": 5.52
+    },
+    {
+      "texto": "leyendo",
+      "inicio": 5.58,
+      "fin": 5.92
+    },
+    {
+      "texto": "un",
+      "inicio": 5.947,
+      "fin": 6.0
+    },
+    {
+      "texto": "archivo",
+      "inicio": 6.05,
+      "fin": 6.4
+    },
+    {
+      "texto": "de",
+      "inicio": 6.427,
+      "fin": 6.48
+    },
+    {
+      "texto": "Excel.",
+      "inicio": 6.56,
+      "fin": 7.04
+    },
+    {
+      "texto": "Ejecuté",
+      "inicio": 7.28,
+      "fin": 8.16
+    },
+    {
+      "texto": "el",
+      "inicio": 8.187,
+      "fin": 8.24
+    },
+    {
+      "texto": "código",
+      "inicio": 8.297,
+      "fin": 8.64
+    },
+    {
+      "texto": "de",
+      "inicio": 8.693,
+      "fin": 8.8
+    },
+    {
+      "texto": "ChatGPT…",
+      "inicio": 8.848,
+      "fin": 9.76
+    },
+    {
+      "texto": "y",
+      "inicio": 10.08,
+      "fin": 10.4
+    },
+    {
+      "texto": "falló:",
+      "inicio": 10.48,
+      "fin": 11.04
+    },
+    {
+      "texto": "error",
+      "inicio": 11.213,
+      "fin": 12.08
+    },
+    {
+      "texto": "de",
+      "inicio": 12.133,
+      "fin": 12.24
+    },
+    {
+      "texto": "clave,",
+      "inicio": 12.307,
+      "fin": 13.2
+    },
+    {
+      "texto": "porque",
+      "inicio": 13.234,
+      "fin": 13.44
+    },
+    {
+      "texto": "intentaba",
+      "inicio": 13.497,
+      "fin": 14.0
+    },
+    {
+      "texto": "limpiar",
+      "inicio": 14.06,
+      "fin": 14.4
+    },
+    {
+      "texto": "una",
+      "inicio": 14.46,
+      "fin": 14.64
+    },
+    {
+      "texto": "columna",
+      "inicio": 14.7,
+      "fin": 15.12
+    },
+    {
+      "texto": "Cliente",
+      "inicio": 15.23,
+      "fin": 16.0
+    },
+    {
+      "texto": "en",
+      "inicio": 16.107,
+      "fin": 16.32
+    },
+    {
+      "texto": "la",
+      "inicio": 16.373,
+      "fin": 16.48
+    },
+    {
+      "texto": "hoja",
+      "inicio": 16.533,
+      "fin": 16.72
+    },
+    {
+      "texto": "de",
+      "inicio": 16.747,
+      "fin": 16.8
+    },
+    {
+      "texto": "clientes,",
+      "inicio": 16.88,
+      "fin": 17.92
+    },
+    {
+      "texto": "donde",
+      "inicio": 17.973,
+      "fin": 18.24
+    },
+    {
+      "texto": "se",
+      "inicio": 18.293,
+      "fin": 18.4
+    },
+    {
+      "texto": "llama",
+      "inicio": 18.453,
+      "fin": 18.72
+    },
+    {
+      "texto": "ID.",
+      "inicio": 18.96,
+      "fin": 19.52
+    },
+    {
+      "texto": "El",
+      "inicio": 19.787,
+      "fin": 20.32
+    },
+    {
+      "texto": "código",
+      "inicio": 20.389,
+      "fin": 20.8
+    },
+    {
+      "texto": "de",
+      "inicio": 20.827,
+      "fin": 20.88
+    },
+    {
+      "texto": "Claude",
+      "inicio": 20.949,
+      "fin": 21.36
+    },
+    {
+      "texto": "funcionó",
+      "inicio": 21.45,
+      "fin": 22.16
+    },
+    {
+      "texto": "a",
+      "inicio": 22.18,
+      "fin": 22.2
+    },
+    {
+      "texto": "la",
+      "inicio": 22.213,
+      "fin": 22.24
+    },
+    {
+      "texto": "primera.",
+      "inicio": 22.3,
+      "fin": 22.8
+    }
+  ]
+}

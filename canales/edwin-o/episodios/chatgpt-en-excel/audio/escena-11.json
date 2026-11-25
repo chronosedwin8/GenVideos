@@ -1,0 +1,295 @@
+{
+  "num": "11",
+  "titulo": "Tarea 4: ¿y si…?",
+  "texto": "Tarea cuatro: escenarios. ¿Qué pasa con el total si el transporte sube un diez por ciento? ChatGPT calcula: el transporte pasa de ciento cinco mil a ciento quince mil quinientos, y el total sube a setecientos treinta y cinco mil quinientos. Este tipo de preguntas, \"¿y si…?\", son las que te piden los jefes en las reuniones.",
+  "texto_tts": "Tarea cuatro: escenarios. ¿Qué pasa con el total si el transporte sube un diez por ciento? ChatGPT calcula: el transporte pasa de ciento cinco mil a ciento quince mil quinientos, y el total sube a setecientos treinta y cinco mil quinientos. Este tipo de preguntas, \"¿y si…?\", son las que te piden los jefes en las reuniones.",
+  "modelo": "eleven_v3",
+  "duracion": 23.2,
+  "palabras": [
+    {
+      "texto": "Tarea",
+      "inicio": 0.0,
+      "fin": 0.32
+    },
+    {
+      "texto": "cuatro:",
+      "inicio": 0.377,
+      "fin": 0.88
+    },
+    {
+      "texto": "escenarios.",
+      "inicio": 0.98,
+      "fin": 2.4
+    },
+    {
+      "texto": "¿Qué",
+      "inicio": 2.64,
+      "fin": 2.96
+    },
+    {
+      "texto": "pasa",
+      "inicio": 3.024,
+      "fin": 3.28
+    },
+    {
+      "texto": "con",
+      "inicio": 3.32,
+      "fin": 3.44
+    },
+    {
+      "texto": "el",
+      "inicio": 3.467,
+      "fin": 3.52
+    },
+    {
+      "texto": "total",
+      "inicio": 3.6,
+      "fin": 4.0
+    },
+    {
+      "texto": "si",
+      "inicio": 4.107,
+      "fin": 4.32
+    },
+    {
+      "texto": "el",
+      "inicio": 4.347,
+      "fin": 4.4
+    },
+    {
+      "texto": "transporte",
+      "inicio": 4.451,
+      "fin": 4.96
+    },
+    {
+      "texto": "sube",
+      "inicio": 5.02,
+      "fin": 5.28
+    },
+    {
+      "texto": "un",
+      "inicio": 5.307,
+      "fin": 5.36
+    },
+    {
+      "texto": "diez",
+      "inicio": 5.4,
+      "fin": 5.64
+    },
+    {
+      "texto": "por",
+      "inicio": 5.67,
+      "fin": 5.76
+    },
+    {
+      "texto": "ciento?",
+      "inicio": 5.8,
+      "fin": 6.32
+    },
+    {
+      "texto": "ChatGPT",
+      "inicio": 6.544,
+      "fin": 7.84
+    },
+    {
+      "texto": "calcula:",
+      "inicio": 7.897,
+      "fin": 8.56
+    },
+    {
+      "texto": "el",
+      "inicio": 8.8,
+      "fin": 9.28
+    },
+    {
+      "texto": "transporte",
+      "inicio": 9.331,
+      "fin": 9.84
+    },
+    {
+      "texto": "pasa",
+      "inicio": 9.92,
+      "fin": 10.24
+    },
+    {
+      "texto": "de",
+      "inicio": 10.32,
+      "fin": 10.48
+    },
+    {
+      "texto": "ciento",
+      "inicio": 10.56,
+      "fin": 10.88
+    },
+    {
+      "texto": "cinco",
+      "inicio": 10.933,
+      "fin": 11.2
+    },
+    {
+      "texto": "mil",
+      "inicio": 11.26,
+      "fin": 11.44
+    },
+    {
+      "texto": "a",
+      "inicio": 11.68,
+      "fin": 11.92
+    },
+    {
+      "texto": "ciento",
+      "inicio": 11.96,
+      "fin": 12.16
+    },
+    {
+      "texto": "quince",
+      "inicio": 12.24,
+      "fin": 12.56
+    },
+    {
+      "texto": "mil",
+      "inicio": 12.6,
+      "fin": 12.72
+    },
+    {
+      "texto": "quinientos,",
+      "inicio": 12.8,
+      "fin": 13.8
+    },
+    {
+      "texto": "y",
+      "inicio": 13.98,
+      "fin": 14.16
+    },
+    {
+      "texto": "el",
+      "inicio": 14.187,
+      "fin": 14.24
+    },
+    {
+      "texto": "total",
+      "inicio": 14.307,
+      "fin": 14.64
+    },
+    {
+      "texto": "sube",
+      "inicio": 14.7,
+      "fin": 15.04
+    },
+    {
+      "texto": "a",
+      "inicio": 15.12,
+      "fin": 15.2
+    },
+    {
+      "texto": "setecientos",
+      "inicio": 15.24,
+      "fin": 15.76
+    },
+    {
+      "texto": "treinta",
+      "inicio": 15.82,
+      "fin": 16.16
+    },
+    {
+      "texto": "y",
+      "inicio": 16.2,
+      "fin": 16.24
+    },
+    {
+      "texto": "cinco",
+      "inicio": 16.293,
+      "fin": 16.56
+    },
+    {
+      "texto": "mil",
+      "inicio": 16.6,
+      "fin": 16.72
+    },
+    {
+      "texto": "quinientos.",
+      "inicio": 16.773,
+      "fin": 17.68
+    },
+    {
+      "texto": "Este",
+      "inicio": 17.856,
+      "fin": 18.56
+    },
+    {
+      "texto": "tipo",
+      "inicio": 18.592,
+      "fin": 18.72
+    },
+    {
+      "texto": "de",
+      "inicio": 18.747,
+      "fin": 18.8
+    },
+    {
+      "texto": "preguntas,",
+      "inicio": 18.848,
+      "fin": 19.72
+    },
+    {
+      "texto": "\"¿y",
+      "inicio": 19.78,
+      "fin": 19.92
+    },
+    {
+      "texto": "si…?\",",
+      "inicio": 20.053,
+      "fin": 20.88
+    },
+    {
+      "texto": "son",
+      "inicio": 20.9,
+      "fin": 20.96
+    },
+    {
+      "texto": "las",
+      "inicio": 21.0,
+      "fin": 21.12
+    },
+    {
+      "texto": "que",
+      "inicio": 21.14,
+      "fin": 21.2
+    },
+    {
+      "texto": "te",
+      "inicio": 21.253,
+      "fin": 21.36
+    },
+    {
+      "texto": "piden",
+      "inicio": 21.4,
+      "fin": 21.68
+    },
+    {
+      "texto": "los",
+      "inicio": 21.7,
+      "fin": 21.76
+    },
+    {
+      "texto": "jefes",
+      "inicio": 21.8,
+      "fin": 22.08
+    },
+    {
+      "texto": "en",
+      "inicio": 22.107,
+      "fin": 22.16
+    },
+    {
+      "texto": "las",
+      "inicio": 22.2,
+      "fin": 22.32
+    },
+    {
+      "texto": "reuniones.",
+      "inicio": 22.384,
+      "fin": 23.2
+    }
+  ]
+}

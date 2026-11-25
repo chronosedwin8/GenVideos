@@ -1,0 +1,330 @@
+{
+  "num": "20",
+  "titulo": "Si no te funcionó",
+  "texto": "Si no te funcionó: si no ves Desde tabla o rango, puede que tengas Excel dos mil diez o dos mil trece, donde era un complemento aparte; lo ideal es actualizar. Si al actualizar sale un error de columna no encontrada, alguien le cambió el nombre a un encabezado en el archivo original. Y si el monto no suma, revisa el tipo de datos.",
+  "texto_tts": "Si no te funcionó: si no ves Desde tabla o rango, puede que tengas Excel dos mil diez o dos mil trece, donde era un complemento aparte; lo ideal es actualizar. Si al actualizar sale un error de columna no encontrada, alguien le cambió el nombre a un encabezado en el archivo original. Y si el monto no suma, revisa el tipo de datos.",
+  "modelo": "eleven_v3",
+  "duracion": 23.36,
+  "palabras": [
+    {
+      "texto": "Si",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "no",
+      "inicio": 0.133,
+      "fin": 0.24
+    },
+    {
+      "texto": "te",
+      "inicio": 0.293,
+      "fin": 0.4
+    },
+    {
+      "texto": "funcionó:",
+      "inicio": 0.46,
+      "fin": 1.12
+    },
+    {
+      "texto": "si",
+      "inicio": 1.493,
+      "fin": 2.24
+    },
+    {
+      "texto": "no",
+      "inicio": 2.293,
+      "fin": 2.4
+    },
+    {
+      "texto": "ves",
+      "inicio": 2.46,
+      "fin": 2.64
+    },
+    {
+      "texto": "Desde",
+      "inicio": 2.693,
+      "fin": 2.96
+    },
+    {
+      "texto": "tabla",
+      "inicio": 3.013,
+      "fin": 3.28
+    },
+    {
+      "texto": "o",
+      "inicio": 3.32,
+      "fin": 3.36
+    },
+    {
+      "texto": "rango,",
+      "inicio": 3.4,
+      "fin": 3.92
+    },
+    {
+      "texto": "puede",
+      "inicio": 3.96,
+      "fin": 4.16
+    },
+    {
+      "texto": "que",
+      "inicio": 4.2,
+      "fin": 4.32
+    },
+    {
+      "texto": "tengas",
+      "inicio": 4.352,
+      "fin": 4.72
+    },
+    {
+      "texto": "Excel",
+      "inicio": 4.773,
+      "fin": 5.04
+    },
+    {
+      "texto": "dos",
+      "inicio": 5.08,
+      "fin": 5.2
+    },
+    {
+      "texto": "mil",
+      "inicio": 5.24,
+      "fin": 5.36
+    },
+    {
+      "texto": "diez",
+      "inicio": 5.42,
+      "fin": 5.68
+    },
+    {
+      "texto": "o",
+      "inicio": 5.76,
+      "fin": 5.84
+    },
+    {
+      "texto": "dos",
+      "inicio": 5.88,
+      "fin": 6.0
+    },
+    {
+      "texto": "mil",
+      "inicio": 6.04,
+      "fin": 6.16
+    },
+    {
+      "texto": "trece,",
+      "inicio": 6.22,
+      "fin": 6.64
+    },
+    {
+      "texto": "donde",
+      "inicio": 6.827,
+      "fin": 7.76
+    },
+    {
+      "texto": "era",
+      "inicio": 7.78,
+      "fin": 7.84
+    },
+    {
+      "texto": "un",
+      "inicio": 7.893,
+      "fin": 8.0
+    },
+    {
+      "texto": "complemento",
+      "inicio": 8.051,
+      "fin": 8.76
+    },
+    {
+      "texto": "aparte;",
+      "inicio": 8.793,
+      "fin": 9.68
+    },
+    {
+      "texto": "lo",
+      "inicio": 9.733,
+      "fin": 9.84
+    },
+    {
+      "texto": "ideal",
+      "inicio": 9.933,
+      "fin": 10.4
+    },
+    {
+      "texto": "es",
+      "inicio": 10.48,
+      "fin": 10.64
+    },
+    {
+      "texto": "actualizar.",
+      "inicio": 10.698,
+      "fin": 11.36
+    },
+    {
+      "texto": "Si",
+      "inicio": 11.707,
+      "fin": 12.4
+    },
+    {
+      "texto": "al",
+      "inicio": 12.453,
+      "fin": 12.56
+    },
+    {
+      "texto": "actualizar",
+      "inicio": 12.611,
+      "fin": 13.12
+    },
+    {
+      "texto": "sale",
+      "inicio": 13.168,
+      "fin": 13.36
+    },
+    {
+      "texto": "un",
+      "inicio": 13.387,
+      "fin": 13.44
+    },
+    {
+      "texto": "error",
+      "inicio": 13.493,
+      "fin": 13.76
+    },
+    {
+      "texto": "de",
+      "inicio": 13.787,
+      "fin": 13.84
+    },
+    {
+      "texto": "columna",
+      "inicio": 13.89,
+      "fin": 14.24
+    },
+    {
+      "texto": "no",
+      "inicio": 14.293,
+      "fin": 14.4
+    },
+    {
+      "texto": "encontrada,",
+      "inicio": 14.45,
+      "fin": 15.76
+    },
+    {
+      "texto": "alguien",
+      "inicio": 15.8,
+      "fin": 16.08
+    },
+    {
+      "texto": "le",
+      "inicio": 16.133,
+      "fin": 16.24
+    },
+    {
+      "texto": "cambió",
+      "inicio": 16.288,
+      "fin": 16.56
+    },
+    {
+      "texto": "el",
+      "inicio": 16.587,
+      "fin": 16.64
+    },
+    {
+      "texto": "nombre",
+      "inicio": 16.686,
+      "fin": 16.96
+    },
+    {
+      "texto": "a",
+      "inicio": 17.0,
+      "fin": 17.04
+    },
+    {
+      "texto": "un",
+      "inicio": 17.067,
+      "fin": 17.12
+    },
+    {
+      "texto": "encabezado",
+      "inicio": 17.16,
+      "fin": 17.76
+    },
+    {
+      "texto": "en",
+      "inicio": 17.787,
+      "fin": 17.84
+    },
+    {
+      "texto": "el",
+      "inicio": 17.893,
+      "fin": 18.0
+    },
+    {
+      "texto": "archivo",
+      "inicio": 18.04,
+      "fin": 18.32
+    },
+    {
+      "texto": "original.",
+      "inicio": 18.391,
+      "fin": 19.04
+    },
+    {
+      "texto": "Y",
+      "inicio": 19.56,
+      "fin": 20.08
+    },
+    {
+      "texto": "si",
+      "inicio": 20.133,
+      "fin": 20.24
+    },
+    {
+      "texto": "el",
+      "inicio": 20.267,
+      "fin": 20.32
+    },
+    {
+      "texto": "monto",
+      "inicio": 20.4,
+      "fin": 20.72
+    },
+    {
+      "texto": "no",
+      "inicio": 20.773,
+      "fin": 20.88
+    },
+    {
+      "texto": "suma,",
+      "inicio": 20.96,
+      "fin": 21.36
+    },
+    {
+      "texto": "revisa",
+      "inicio": 21.493,
+      "fin": 22.2
+    },
+    {
+      "texto": "el",
+      "inicio": 22.213,
+      "fin": 22.24
+    },
+    {
+      "texto": "tipo",
+      "inicio": 22.304,
+      "fin": 22.56
+    },
+    {
+      "texto": "de",
+      "inicio": 22.587,
+      "fin": 22.64
+    },
+    {
+      "texto": "datos.",
+      "inicio": 22.733,
+      "fin": 23.36
+    }
+  ]
+}

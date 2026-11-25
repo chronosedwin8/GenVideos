@@ -1,0 +1,85 @@
+{
+  "titulo": "Probabilidad binomial en Excel al instante (DISTR.BINOM.N + Python)",
+  "titulos_alternativos": [
+    "¿5 de 5 penales? Probabilidad binomial en Excel",
+    "El misterio del proveedor: distribución binomial en Excel"
+  ],
+  "intro": "Calcula la probabilidad binomial en un segundo con DISTR.BINOM.N y DISTR.BINOM.SERIE: los penales del Mundial 2026, el misterio de un proveedor sospechoso y cuántas fórmulas seguidas acierta una IA. También en Python, sin instalar nada.",
+  "aprenderas": [
+    "Las 4 condiciones de la binomial",
+    "DISTR.BINOM.N: exactamente y como máximo",
+    "DISTR.BINOM.SERIE para un rango",
+    "La tabla completa con SECUENCIA",
+    "El truco del \"al menos\"",
+    "La binomial en Python (math.comb)"
+  ],
+  "bloque": "Fórmulas del video (verificadas en Excel 365):\n=DISTR.BINOM.N(5;5;0,65;FALSO) → 11,6 %\n=DISTR.BINOM.SERIE(5;0,65;4;5) → 42,8 %\n=DISTR.BINOM.N(SECUENCIA(6;1;0);5;0,65;FALSO)\n=1-DISTR.BINOM.N(4;20;0,05;VERDADERO) → 0,26 %\n=DISTR.BINOM.N(10;10;0,9;FALSO) → 34,9 %\n=COMBINAT(5;3) → 10",
+  "capitulos": {
+    "01": "¿5 de 5 penales?",
+    "03": "El dato del Mundial 2026",
+    "05": "¿Cuándo es binomial?",
+    "06": "La función DISTR.BINOM.N",
+    "07": "Paso 1: los cinco penales",
+    "08": "¿Por qué tan bajo?",
+    "09": "Paso 2: \"al menos\"",
+    "10": "Paso 3: la tabla completa",
+    "11": "El misterio del proveedor",
+    "12": "Resolviendo el misterio",
+    "13": "El truco del \"al menos\"",
+    "14": "¿Qué es lo normal?",
+    "15": "La binomial y la IA",
+    "16": "Dónde la usa un analista",
+    "17": "En Python",
+    "18": "Detrás de la fórmula",
+    "19": "Si no te funcionó"
+  },
+  "fuentes": [
+    "Microsoft Support, DISTR.BINOM.N: https://support.microsoft.com/es-es/office/distr-binom-n-funci%C3%B3n-distr-binom-n-c5ae37b6-f39c-4be2-94c2-509a1480770c",
+    "Microsoft Support, DISTR.BINOM.SERIE: https://support.microsoft.com/es-es/office/distr-binom-serie-funci%C3%B3n-distr-binom-serie-17331329-74c7-4053-bb4c-6653a7421595",
+    "Prensa Latina, 11 jul 2026, El Mundial de los penales fallados: https://www.prensa-latina.cu/2026/07/11/el-mundial-de-los-penales-fallados/"
+  ],
+  "hashtags": [
+    "#Excel",
+    "#Estadistica",
+    "#DataAnalyst"
+  ],
+  "tags": [
+    "probabilidad binomial excel",
+    "distr.binom.n",
+    "distribucion binomial",
+    "distribucion binomial ejemplos",
+    "binomial python",
+    "estadistica en excel",
+    "analista de datos",
+    "data analyst",
+    "control de calidad excel",
+    "probabilidad excel",
+    "edwin o"
+  ],
+  "playlist": "Data Analyst",
+  "programar": "2027-01-14 07:00",
+  "shorts": [
+    {
+      "id": "short-1",
+      "titulo": "¿Meter 5 de 5 PENALES? Excel te lo dice #shorts",
+      "descripcion": "=DISTR.BINOM.N(5;5;0,65;FALSO) → 11,6 % Video completo en el canal.",
+      "tags": [
+        "probabilidad binomial"
+      ],
+      "programar": "2027-01-15 12:00"
+    },
+    {
+      "id": "short-2",
+      "titulo": "¿Tu proveedor TE MIENTE? (probabilidad) #shorts",
+      "descripcion": "=1-DISTR.BINOM.N(4;20;0,05;VERDADERO) → 0,26 % Video completo en el canal.",
+      "tags": [
+        "distribucion binomial"
+      ],
+      "programar": "2027-01-18 12:00"
+    }
+  ],
+  "enlaces": [
+    "📊 Guías de Excel en el blog: https://www.edwinortiz.net/excel/",
+    "🌐 Plantillas y cursos: https://www.edwinortiz.net"
+  ]
+}

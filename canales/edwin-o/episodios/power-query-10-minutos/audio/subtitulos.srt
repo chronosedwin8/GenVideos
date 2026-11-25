@@ -1,0 +1,979 @@
+1
+00:00:00,204 --> 00:00:02,800
+Una tabla con los meses en columnas,
+
+2
+00:00:02,869 --> 00:00:05,360
+regiones vacías y nombres pegados.
+
+3
+00:00:05,573 --> 00:00:08,320
+En diez movimientos de Power Query la
+
+4
+00:00:08,368 --> 00:00:10,640
+conviertes en un reporte de cumplimiento de
+
+5
+00:00:10,700 --> 00:00:12,960
+metas por región, que se actualiza con
+
+6
+00:00:13,013 --> 00:00:13,680
+un clic.
+
+7
+00:00:13,900 --> 00:00:16,400
+Diez movimientos que vas a usar
+
+8
+00:00:16,528 --> 00:00:17,600
+toda tu vida.
+
+9
+00:00:18,072 --> 00:00:20,000
+¡Bienvenidos, amigos del canal!
+
+10
+00:00:20,240 --> 00:00:23,120
+Vamos en busca del poder tecnológico.
+
+11
+00:00:23,307 --> 00:00:25,760
+En el video de qué es Power
+
+12
+00:00:25,840 --> 00:00:27,520
+Query vimos lo básico.
+
+13
+00:00:27,640 --> 00:00:29,600
+Hoy vamos en serio:
+
+14
+00:00:29,660 --> 00:00:32,560
+diez movimientos, uno tras otro, para que
+
+15
+00:00:32,600 --> 00:00:34,160
+domines Power Query.
+
+16
+00:00:34,360 --> 00:00:37,360
+Toma nota, porque cada uno resuelve un
+
+17
+00:00:37,422 --> 00:00:38,640
+problema real.
+
+18
+00:00:39,040 --> 00:00:40,800
+Power Query no se queda quieto.
+
+19
+00:00:40,980 --> 00:00:43,800
+Según Microsoft, desde la versión veinticinco diez
+
+20
+00:00:43,813 --> 00:00:45,600
+de Excel para Windows, a finales de
+
+21
+00:00:45,640 --> 00:00:48,160
+dos mil veinticinco, hay un nuevo cuadro
+
+22
+00:00:48,187 --> 00:00:51,120
+de Obtener datos, en versión preliminar, para
+
+23
+00:00:51,166 --> 00:00:53,120
+conectarte más fácil a tus fuentes.
+
+24
+00:00:53,248 --> 00:00:55,600
+Microsoft sigue invirtiendo en esta
+
+25
+00:00:55,644 --> 00:00:57,440
+herramienta, y eso dice mucho.
+
+26
+00:00:57,840 --> 00:01:00,000
+En las empresas donde doy capacitaciones, el
+
+27
+00:01:00,050 --> 00:01:01,680
+formato que más encuentro es este:
+
+28
+00:01:01,893 --> 00:01:03,920
+un vendedor por fila y un mes
+
+29
+00:01:03,940 --> 00:01:04,640
+por columna.
+
+30
+00:01:04,747 --> 00:01:06,480
+Se ve bonito para imprimir, pero es
+
+31
+00:01:06,507 --> 00:01:08,160
+el peor formato para analizar.
+
+32
+00:01:08,373 --> 00:01:10,400
+No puedes filtrar por mes, ni hacer
+
+33
+00:01:10,440 --> 00:01:12,000
+una tabla dinámica decente.
+
+34
+00:01:12,100 --> 00:01:13,280
+Hoy lo arreglamos.
+
+35
+00:01:13,680 --> 00:01:15,520
+Estos son los datos:
+
+36
+00:01:15,573 --> 00:01:18,320
+cinco vendedores, con sus ventas de
+
+37
+00:01:18,427 --> 00:01:20,480
+enero, febrero y marzo.
+
+38
+00:01:20,853 --> 00:01:23,680
+La región solo está escrita
+
+39
+00:01:23,787 --> 00:01:25,920
+en el primer vendedor de cada grupo;
+
+40
+00:01:26,100 --> 00:01:28,560
+las de abajo están vacías.
+
+41
+00:01:28,840 --> 00:01:31,040
+Y en otra tabla, las metas de
+
+42
+00:01:31,088 --> 00:01:32,400
+cada región.
+
+43
+00:01:32,613 --> 00:01:34,080
+Objetivo:
+
+44
+00:01:34,133 --> 00:01:36,640
+saber qué porcentaje de la meta cumplió
+
+45
+00:01:36,736 --> 00:01:37,600
+cada región.
+
+46
+00:01:38,000 --> 00:01:40,400
+Antes de empezar, tres reglas de oro.
+
+47
+00:01:40,460 --> 00:01:41,280
+Uno:
+
+48
+00:01:41,328 --> 00:01:43,520
+convierte tus datos en tabla con Control
+
+49
+00:01:43,560 --> 00:01:46,560
+más T; así, cuando agregues filas, Power
+
+50
+00:01:46,613 --> 00:01:47,520
+Query las ve.
+
+51
+00:01:47,720 --> 00:01:48,480
+Dos:
+
+52
+00:01:48,613 --> 00:01:51,120
+nunca edites a mano el resultado que
+
+53
+00:01:51,173 --> 00:01:54,000
+carga Power Query, porque al actualizar se
+
+54
+00:01:54,048 --> 00:01:56,400
+pierde lo que escribiste; los cambios se
+
+55
+00:01:56,440 --> 00:01:58,000
+hacen en el origen o en los
+
+56
+00:01:58,080 --> 00:01:58,800
+pasos.
+
+57
+00:01:59,080 --> 00:01:59,920
+Y tres:
+
+58
+00:02:00,100 --> 00:02:02,640
+ponle a cada consulta un nombre claro,
+
+59
+00:02:02,688 --> 00:02:04,320
+como Ventas o Metas.
+
+60
+00:02:04,423 --> 00:02:06,880
+Cuando tengas diez consultas, me lo vas
+
+61
+00:02:06,920 --> 00:02:07,760
+a agradecer.
+
+62
+00:02:08,160 --> 00:02:09,680
+Movimiento uno:
+
+63
+00:02:09,760 --> 00:02:10,240
+entra.
+
+64
+00:02:10,680 --> 00:02:13,120
+Clic en los datos, pestaña
+
+65
+00:02:13,213 --> 00:02:15,840
+Datos, Desde tabla o rango.
+
+66
+00:02:16,120 --> 00:02:17,680
+Y ya estás en el editor.
+
+67
+00:02:17,900 --> 00:02:19,760
+Haz lo mismo con la tabla de
+
+68
+00:02:19,820 --> 00:02:22,080
+metas, y al cerrar, usa
+
+69
+00:02:22,280 --> 00:02:25,120
+Cerrar y cargar en, para crear
+
+70
+00:02:25,184 --> 00:02:28,000
+solo la conexión, sin otra hoja, porque
+
+71
+00:02:28,053 --> 00:02:29,920
+la vamos a usar más adelante.
+
+72
+00:02:30,320 --> 00:02:31,280
+Movimiento dos:
+
+73
+00:02:31,547 --> 00:02:33,520
+rellenar hacia abajo.
+
+74
+00:02:33,880 --> 00:02:36,480
+Las celdas vacías de la región
+
+75
+00:02:36,560 --> 00:02:38,160
+aparecen como null.
+
+76
+00:02:38,560 --> 00:02:40,480
+Selecciona la columna
+
+77
+00:02:40,540 --> 00:02:43,280
+Región, ve a Transformar,
+
+78
+00:02:43,480 --> 00:02:45,680
+Rellenar, Abajo.
+
+79
+00:02:45,920 --> 00:02:48,720
+Power Query copia el valor de arriba
+
+80
+00:02:48,827 --> 00:02:50,640
+en cada vacío:
+
+81
+00:02:50,704 --> 00:02:53,120
+Luis Gómez queda en el Norte y
+
+82
+00:02:53,168 --> 00:02:54,800
+Juan Pérez en el Sur.
+
+83
+00:02:55,088 --> 00:02:57,760
+Esto, a mano, en miles de
+
+84
+00:02:57,840 --> 00:02:59,760
+filas, es una pesadilla.
+
+85
+00:03:00,160 --> 00:03:02,880
+Movimiento tres, el más poderoso.
+
+86
+00:03:03,040 --> 00:03:05,600
+Selecciona Región y Vendedor, clic
+
+87
+00:03:05,670 --> 00:03:08,000
+derecho, y elige Anular
+
+88
+00:03:08,100 --> 00:03:10,160
+dinamización de otras columnas.
+
+89
+00:03:10,400 --> 00:03:11,920
+Mira lo que pasa:
+
+90
+00:03:11,980 --> 00:03:14,400
+los meses dejan de ser columnas y
+
+91
+00:03:14,480 --> 00:03:15,600
+bajan a filas.
+
+92
+00:03:15,813 --> 00:03:17,840
+De cinco filas pasamos a
+
+93
+00:03:17,920 --> 00:03:19,120
+quince:
+
+94
+00:03:19,168 --> 00:03:20,960
+cada vendedor con su mes y su
+
+95
+00:03:21,040 --> 00:03:21,600
+monto.
+
+96
+00:03:21,733 --> 00:03:24,560
+Ahora sí, datos listos para analizar.
+
+97
+00:03:24,960 --> 00:03:26,320
+Movimiento cuatro:
+
+98
+00:03:26,360 --> 00:03:28,000
+ponles nombre y tipo.
+
+99
+00:03:28,280 --> 00:03:30,880
+Haz doble clic en Atributo y
+
+100
+00:03:30,933 --> 00:03:32,480
+llámala Mes.
+
+101
+00:03:32,733 --> 00:03:34,880
+Valor se llama
+
+102
+00:03:35,056 --> 00:03:36,160
+Monto.
+
+103
+00:03:36,720 --> 00:03:39,360
+Y en el ícono del encabezado,
+
+104
+00:03:39,413 --> 00:03:41,200
+elige Número entero.
+
+105
+00:03:41,707 --> 00:03:44,400
+Un consejo de profesional:
+
+106
+00:03:44,500 --> 00:03:47,200
+haz esto siempre, porque si el monto
+
+107
+00:03:47,240 --> 00:03:50,000
+queda como texto, más adelante no vas
+
+108
+00:03:50,040 --> 00:03:51,040
+a poder sumar.
+
+109
+00:03:51,440 --> 00:03:52,480
+Movimiento cinco:
+
+110
+00:03:52,547 --> 00:03:53,600
+dividir columna.
+
+111
+00:03:53,680 --> 00:03:56,560
+Selecciona Vendedor, Dividir columna,
+
+112
+00:03:56,700 --> 00:03:59,440
+Por delimitador, elige espacio,
+
+113
+00:03:59,680 --> 00:04:01,840
+y en las opciones indica que divida
+
+114
+00:04:01,936 --> 00:04:04,160
+solo en el primer espacio, para que
+
+115
+00:04:04,187 --> 00:04:06,240
+un apellido compuesto no se parta en
+
+116
+00:04:06,320 --> 00:04:06,880
+tres.
+
+117
+00:04:07,147 --> 00:04:10,000
+Ahora tienes Nombre y Apellido por separado,
+
+118
+00:04:10,060 --> 00:04:12,320
+perfecto para un saludo en un correo.
+
+119
+00:04:12,720 --> 00:04:13,920
+Movimiento seis:
+
+120
+00:04:14,060 --> 00:04:15,680
+tus propias columnas.
+
+121
+00:04:15,920 --> 00:04:18,480
+En Agregar columna, elige Columna
+
+122
+00:04:18,533 --> 00:04:19,600
+personalizada.
+
+123
+00:04:19,800 --> 00:04:22,560
+Nómbrala Comisión, y escribe la
+
+124
+00:04:22,600 --> 00:04:23,200
+fórmula:
+
+125
+00:04:23,340 --> 00:04:25,840
+corchete Monto, por
+
+126
+00:04:26,080 --> 00:04:28,600
+cero punto cero cinco.
+
+127
+00:04:28,820 --> 00:04:29,280
+Ojo:
+
+128
+00:04:29,408 --> 00:04:32,040
+aquí el decimal va con punto.
+
+129
+00:04:32,180 --> 00:04:34,000
+Y ya tienes la comisión del cinco
+
+130
+00:04:34,040 --> 00:04:35,200
+por ciento:
+
+131
+00:04:35,280 --> 00:04:37,280
+sesenta, sesenta y siete con
+
+132
+00:04:37,320 --> 00:04:39,520
+cincuenta, setenta y cinco…
+
+133
+00:04:39,920 --> 00:04:40,960
+Movimiento siete:
+
+134
+00:04:41,060 --> 00:04:41,760
+agrupar.
+
+135
+00:04:41,872 --> 00:04:44,560
+Para no perder el detalle, clic derecho
+
+136
+00:04:44,613 --> 00:04:47,200
+en la consulta, y elige Referencia:
+
+137
+00:04:47,360 --> 00:04:49,240
+es una copia que depende de la
+
+138
+00:04:49,271 --> 00:04:49,840
+original.
+
+139
+00:04:50,053 --> 00:04:52,800
+En la copia, ve a Agrupar por,
+
+140
+00:04:52,987 --> 00:04:55,840
+elige Región, y la operación Suma del
+
+141
+00:04:55,904 --> 00:04:56,480
+Monto.
+
+142
+00:04:56,653 --> 00:04:58,880
+Norte, siete mil treinta.
+
+143
+00:04:59,040 --> 00:05:01,520
+Sur, seis mil trescientos veinte.
+
+144
+00:05:01,634 --> 00:05:03,920
+Centro, cuatro mil trescientos.
+
+145
+00:05:04,320 --> 00:05:05,440
+Movimiento ocho:
+
+146
+00:05:05,552 --> 00:05:08,400
+combinar consultas, el BUSCARX
+
+147
+00:05:08,453 --> 00:05:09,360
+de Power Query.
+
+148
+00:05:09,653 --> 00:05:12,320
+En Inicio, Combinar consultas.
+
+149
+00:05:12,507 --> 00:05:15,440
+Arriba, tu tabla agrupada; abajo,
+
+150
+00:05:15,560 --> 00:05:16,480
+Metas.
+
+151
+00:05:16,600 --> 00:05:18,720
+Haz clic en la columna Región en
+
+152
+00:05:18,760 --> 00:05:20,560
+las dos, y en el tipo de
+
+153
+00:05:20,606 --> 00:05:23,600
+combinación deja Externa izquierda.
+
+154
+00:05:23,960 --> 00:05:26,880
+Aceptas, expandes la columna nueva,
+
+155
+00:05:27,000 --> 00:05:28,880
+y cada región tiene su meta al
+
+156
+00:05:28,944 --> 00:05:29,520
+lado.
+
+157
+00:05:29,920 --> 00:05:31,760
+Movimiento nueve:
+
+158
+00:05:31,840 --> 00:05:34,200
+otra columna personalizada.
+
+159
+00:05:34,310 --> 00:05:35,360
+Cumplimiento:
+
+160
+00:05:35,480 --> 00:05:38,480
+corchete Monto, dividido entre
+
+161
+00:05:38,580 --> 00:05:41,440
+corchete Meta, y le das tipo
+
+162
+00:05:41,540 --> 00:05:42,720
+porcentaje.
+
+163
+00:05:42,857 --> 00:05:44,080
+Resultado:
+
+164
+00:05:44,293 --> 00:05:46,720
+el Norte cumplió el cien coma cuatro
+
+165
+00:05:46,760 --> 00:05:49,360
+por ciento, el Sur se quedó en
+
+166
+00:05:49,413 --> 00:05:51,760
+noventa y siete coma dos, y el
+
+167
+00:05:51,851 --> 00:05:54,480
+Centro, la sorpresa, ciento
+
+168
+00:05:54,560 --> 00:05:56,640
+siete coma cinco por ciento.
+
+169
+00:05:57,244 --> 00:05:58,320
+Movimiento diez:
+
+170
+00:05:58,560 --> 00:05:59,840
+Cerrar y cargar.
+
+171
+00:06:00,240 --> 00:06:02,800
+Y ahora la prueba de fuego.
+
+172
+00:06:02,920 --> 00:06:05,360
+Vuelvo a la tabla original y
+
+173
+00:06:05,509 --> 00:06:08,160
+cambio la venta de Marta Díaz en
+
+174
+00:06:08,227 --> 00:06:08,800
+marzo:
+
+175
+00:06:08,827 --> 00:06:11,120
+de mil novecientos a dos mil
+
+176
+00:06:11,189 --> 00:06:12,880
+cuatrocientos.
+
+177
+00:06:13,000 --> 00:06:15,520
+Datos, Actualizar todo…
+
+178
+00:06:16,080 --> 00:06:19,040
+y el Centro sube a cuatro
+
+179
+00:06:19,100 --> 00:06:22,080
+mil ochocientos, con un ciento veinte
+
+180
+00:06:22,160 --> 00:06:24,000
+por ciento de cumplimiento.
+
+181
+00:06:24,200 --> 00:06:26,560
+Todos los pasos se repitieron
+
+182
+00:06:26,640 --> 00:06:27,440
+solos.
+
+183
+00:06:27,840 --> 00:06:30,080
+Mira tu receta completa en Pasos
+
+184
+00:06:30,147 --> 00:06:31,120
+aplicados.
+
+185
+00:06:31,480 --> 00:06:34,080
+Cada movimiento quedó grabado, en
+
+186
+00:06:34,160 --> 00:06:34,640
+orden.
+
+187
+00:06:34,933 --> 00:06:37,840
+El próximo trimestre, cuando llegue el
+
+188
+00:06:37,910 --> 00:06:40,800
+archivo con abril, mayo y junio, solo
+
+189
+00:06:40,853 --> 00:06:43,760
+reemplazas los datos y le das Actualizar
+
+190
+00:06:43,856 --> 00:06:44,400
+todo.
+
+191
+00:06:44,720 --> 00:06:46,720
+Lo que antes era una mañana de
+
+192
+00:06:46,800 --> 00:06:49,600
+trabajo, ahora es un clic.
+
+193
+00:06:50,000 --> 00:06:50,960
+¿Y qué hay detrás?
+
+194
+00:06:51,093 --> 00:06:53,120
+Si vas a la pestaña Vista y
+
+195
+00:06:53,200 --> 00:06:56,000
+abres el Editor avanzado, verás que
+
+196
+00:06:56,064 --> 00:06:58,560
+cada clic que diste se convirtió en
+
+197
+00:06:58,600 --> 00:07:01,120
+una línea de código, en un lenguaje
+
+198
+00:07:01,200 --> 00:07:02,720
+que se llama M.
+
+199
+00:07:03,093 --> 00:07:06,000
+No necesitas aprenderlo para usar Power
+
+200
+00:07:06,080 --> 00:07:06,920
+Query.
+
+201
+00:07:07,008 --> 00:07:08,800
+Pero si algún día quieres ir más
+
+202
+00:07:08,880 --> 00:07:11,200
+lejos, ya sabes dónde mirar.
+
+203
+00:07:11,680 --> 00:07:14,000
+Y también puedes activar la barra de
+
+204
+00:07:14,040 --> 00:07:16,560
+fórmulas, para ver la línea de cada
+
+205
+00:07:16,640 --> 00:07:17,120
+paso.
+
+206
+00:07:17,520 --> 00:07:19,120
+Un bonus que parece magia:
+
+207
+00:07:19,189 --> 00:07:21,280
+Columna a partir de los ejemplos.
+
+208
+00:07:21,493 --> 00:07:24,320
+En vez de buscar qué transformación necesitas,
+
+209
+00:07:24,480 --> 00:07:26,880
+escribes el resultado que quieres en la
+
+210
+00:07:26,930 --> 00:07:29,600
+primera fila, por ejemplo, el apellido en
+
+211
+00:07:29,640 --> 00:07:32,400
+mayúsculas, y Power Query adivina la
+
+212
+00:07:32,480 --> 00:07:34,240
+regla y completa el resto.
+
+213
+00:07:34,400 --> 00:07:36,880
+Siempre revisa que haya adivinado bien.
+
+214
+00:07:37,280 --> 00:07:38,400
+Si no te funcionó:
+
+215
+00:07:38,427 --> 00:07:40,560
+si Rellenar hacia abajo no hace nada,
+
+216
+00:07:40,624 --> 00:07:43,360
+esas celdas no están vacías, tienen espacios.
+
+217
+00:07:43,733 --> 00:07:46,720
+Si al combinar consultas no aparece la
+
+218
+00:07:46,800 --> 00:07:49,200
+meta, las regiones no coinciden
+
+219
+00:07:49,267 --> 00:07:50,240
+exactamente:
+
+220
+00:07:50,373 --> 00:07:52,560
+revisa mayúsculas y espacios.
+
+221
+00:07:53,000 --> 00:07:55,280
+Y si la suma sale rara, el
+
+222
+00:07:55,360 --> 00:07:56,880
+monto quedó como texto.
+
+223
+00:07:57,280 --> 00:07:59,840
+En resumen, los diez movimientos:
+
+224
+00:07:59,931 --> 00:08:01,920
+entrar, rellenar,
+
+225
+00:08:02,213 --> 00:08:04,840
+anular la dinamización,
+
+226
+00:08:04,915 --> 00:08:07,520
+nombres y tipos, dividir,
+
+227
+00:08:07,660 --> 00:08:09,680
+columna personalizada,
+
+228
+00:08:09,940 --> 00:08:11,200
+agrupar,
+
+229
+00:08:11,424 --> 00:08:14,080
+combinar, calcular el
+
+230
+00:08:14,140 --> 00:08:17,040
+porcentaje, y cargar y actualizar.
+
+231
+00:08:17,240 --> 00:08:19,920
+Practícalos con tus propios datos esta
+
+232
+00:08:20,000 --> 00:08:20,560
+semana.
+
+233
+00:08:21,553 --> 00:08:23,606
+Si no lo aprendes ahora, te
+
+234
+00:08:23,686 --> 00:08:24,566
+extingues.
+
+235
+00:08:24,966 --> 00:08:27,606
+En mi página, edwinortiz punto net,
+
+236
+00:08:27,926 --> 00:08:30,886
+y en la tienda, encuentras plantillas
+
+237
+00:08:30,913 --> 00:08:33,766
+de Excel listas para usar; el enlace
+
+238
+00:08:33,846 --> 00:08:35,046
+está en la descripción.
+
+239
+00:08:35,366 --> 00:08:37,846
+En el próximo video metemos a
+
+240
+00:08:37,910 --> 00:08:40,326
+ChatGPT dentro de Excel:
+
+241
+00:08:40,353 --> 00:08:42,406
+te enseño a instalarlo y a automatizar
+
+242
+00:08:42,466 --> 00:08:44,006
+tus hojas de cálculo con él.
+
+243
+00:08:44,206 --> 00:08:46,566
+Suscríbete para no perdértelo.
+
+244
+00:08:47,259 --> 00:08:49,526
+El poder de la tecnología te va
+
+245
+00:08:49,566 --> 00:08:50,646
+a cambiar el mundo.

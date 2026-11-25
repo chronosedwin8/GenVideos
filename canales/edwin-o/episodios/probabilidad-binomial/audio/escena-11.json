@@ -1,0 +1,225 @@
+{
+  "num": "11",
+  "titulo": "El misterio del proveedor",
+  "texto": "Ahora, un misterio. Tu proveedor jura que solo el cinco por ciento de sus piezas sale defectuoso. Llega un lote de veinte piezas… y cinco están dañadas. El proveedor dice: \"fue mala suerte\". ¿Le crees? Como buen analista de datos, no opinas: calculas.",
+  "texto_tts": "Ahora, un misterio. Tu proveedor jura que solo el cinco por ciento de sus piezas sale defectuoso. Llega un lote de veinte piezas… y cinco están dañadas. El proveedor dice: \"fue mala suerte\". ¿Le crees? Como buen analista de datos, no opinas: calculas.",
+  "modelo": "eleven_v3",
+  "duracion": 20.72,
+  "palabras": [
+    {
+      "texto": "Ahora,",
+      "inicio": 0.0,
+      "fin": 0.24
+    },
+    {
+      "texto": "un",
+      "inicio": 0.267,
+      "fin": 0.32
+    },
+    {
+      "texto": "misterio.",
+      "inicio": 0.36,
+      "fin": 0.96
+    },
+    {
+      "texto": "Tu",
+      "inicio": 1.173,
+      "fin": 1.6
+    },
+    {
+      "texto": "proveedor",
+      "inicio": 1.667,
+      "fin": 2.48
+    },
+    {
+      "texto": "jura",
+      "inicio": 2.6,
+      "fin": 2.96
+    },
+    {
+      "texto": "que",
+      "inicio": 3.04,
+      "fin": 3.28
+    },
+    {
+      "texto": "solo",
+      "inicio": 3.328,
+      "fin": 3.52
+    },
+    {
+      "texto": "el",
+      "inicio": 3.573,
+      "fin": 3.68
+    },
+    {
+      "texto": "cinco",
+      "inicio": 3.733,
+      "fin": 4.0
+    },
+    {
+      "texto": "por",
+      "inicio": 4.04,
+      "fin": 4.16
+    },
+    {
+      "texto": "ciento",
+      "inicio": 4.24,
+      "fin": 4.48
+    },
+    {
+      "texto": "de",
+      "inicio": 4.507,
+      "fin": 4.56
+    },
+    {
+      "texto": "sus",
+      "inicio": 4.62,
+      "fin": 4.8
+    },
+    {
+      "texto": "piezas",
+      "inicio": 4.84,
+      "fin": 5.12
+    },
+    {
+      "texto": "sale",
+      "inicio": 5.168,
+      "fin": 5.36
+    },
+    {
+      "texto": "defectuoso.",
+      "inicio": 5.417,
+      "fin": 6.6
+    },
+    {
+      "texto": "Llega",
+      "inicio": 6.86,
+      "fin": 7.36
+    },
+    {
+      "texto": "un",
+      "inicio": 7.387,
+      "fin": 7.44
+    },
+    {
+      "texto": "lote",
+      "inicio": 7.48,
+      "fin": 7.84
+    },
+    {
+      "texto": "de",
+      "inicio": 7.947,
+      "fin": 8.16
+    },
+    {
+      "texto": "veinte",
+      "inicio": 8.213,
+      "fin": 8.48
+    },
+    {
+      "texto": "piezas…",
+      "inicio": 8.56,
+      "fin": 9.2
+    },
+    {
+      "texto": "y",
+      "inicio": 9.52,
+      "fin": 9.84
+    },
+    {
+      "texto": "cinco",
+      "inicio": 9.907,
+      "fin": 10.24
+    },
+    {
+      "texto": "están",
+      "inicio": 10.293,
+      "fin": 10.56
+    },
+    {
+      "texto": "dañadas.",
+      "inicio": 10.613,
+      "fin": 11.2
+    },
+    {
+      "texto": "El",
+      "inicio": 11.547,
+      "fin": 12.24
+    },
+    {
+      "texto": "proveedor",
+      "inicio": 12.293,
+      "fin": 12.8
+    },
+    {
+      "texto": "dice:",
+      "inicio": 12.864,
+      "fin": 13.28
+    },
+    {
+      "texto": "\"fue",
+      "inicio": 13.36,
+      "fin": 13.52
+    },
+    {
+      "texto": "mala",
+      "inicio": 13.56,
+      "fin": 13.76
+    },
+    {
+      "texto": "suerte\".",
+      "inicio": 13.84,
+      "fin": 14.4
+    },
+    {
+      "texto": "¿Le",
+      "inicio": 14.68,
+      "fin": 15.12
+    },
+    {
+      "texto": "crees?",
+      "inicio": 15.18,
+      "fin": 16.36
+    },
+    {
+      "texto": "Como",
+      "inicio": 16.496,
+      "fin": 17.04
+    },
+    {
+      "texto": "buen",
+      "inicio": 17.104,
+      "fin": 17.36
+    },
+    {
+      "texto": "analista",
+      "inicio": 17.408,
+      "fin": 17.84
+    },
+    {
+      "texto": "de",
+      "inicio": 17.893,
+      "fin": 18.0
+    },
+    {
+      "texto": "datos,",
+      "inicio": 18.093,
+      "fin": 18.68
+    },
+    {
+      "texto": "no",
+      "inicio": 18.72,
+      "fin": 18.8
+    },
+    {
+      "texto": "opinas:",
+      "inicio": 18.896,
+      "fin": 20.0
+    },
+    {
+      "texto": "calculas.",
+      "inicio": 20.057,
+      "fin": 20.72
+    }
+  ]
+}

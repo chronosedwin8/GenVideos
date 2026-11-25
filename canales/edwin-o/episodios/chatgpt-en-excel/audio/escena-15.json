@@ -1,0 +1,245 @@
+{
+  "num": "15",
+  "titulo": "Lo que todavía no hace bien",
+  "texto": "Lo que todavía no hace bien. Según OpenAI, las macros y el VBA pueden no estar del todo soportados. Y las fórmulas muy complejas, o los casos especiales, pueden necesitar que tú las ajustes. Es un asistente buenísimo, pero el responsable de la hoja sigues siendo tú.",
+  "texto_tts": "Lo que todavía no hace bien. Según OpenAI, las macros y el VBA pueden no estar del todo soportados. Y las fórmulas muy complejas, o los casos especiales, pueden necesitar que tú las ajustes. Es un asistente buenísimo, pero el responsable de la hoja sigues siendo tú.",
+  "modelo": "eleven_v3",
+  "duracion": 21.84,
+  "palabras": [
+    {
+      "texto": "Lo",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "que",
+      "inicio": 0.1,
+      "fin": 0.16
+    },
+    {
+      "texto": "todavía",
+      "inicio": 0.2,
+      "fin": 0.56
+    },
+    {
+      "texto": "no",
+      "inicio": 0.587,
+      "fin": 0.64
+    },
+    {
+      "texto": "hace",
+      "inicio": 0.688,
+      "fin": 0.88
+    },
+    {
+      "texto": "bien.",
+      "inicio": 0.944,
+      "fin": 1.28
+    },
+    {
+      "texto": "Según",
+      "inicio": 1.38,
+      "fin": 1.92
+    },
+    {
+      "texto": "OpenAI,",
+      "inicio": 2.08,
+      "fin": 3.2
+    },
+    {
+      "texto": "las",
+      "inicio": 3.26,
+      "fin": 3.44
+    },
+    {
+      "texto": "macros",
+      "inicio": 3.543,
+      "fin": 4.16
+    },
+    {
+      "texto": "y",
+      "inicio": 4.24,
+      "fin": 4.32
+    },
+    {
+      "texto": "el",
+      "inicio": 4.347,
+      "fin": 4.4
+    },
+    {
+      "texto": "VBA",
+      "inicio": 4.52,
+      "fin": 5.12
+    },
+    {
+      "texto": "pueden",
+      "inicio": 5.223,
+      "fin": 5.84
+    },
+    {
+      "texto": "no",
+      "inicio": 5.893,
+      "fin": 6.0
+    },
+    {
+      "texto": "estar",
+      "inicio": 6.053,
+      "fin": 6.32
+    },
+    {
+      "texto": "del",
+      "inicio": 6.38,
+      "fin": 6.56
+    },
+    {
+      "texto": "todo",
+      "inicio": 6.64,
+      "fin": 6.96
+    },
+    {
+      "texto": "soportados.",
+      "inicio": 7.04,
+      "fin": 7.92
+    },
+    {
+      "texto": "Y",
+      "inicio": 8.52,
+      "fin": 9.12
+    },
+    {
+      "texto": "las",
+      "inicio": 9.16,
+      "fin": 9.28
+    },
+    {
+      "texto": "fórmulas",
+      "inicio": 9.32,
+      "fin": 9.84
+    },
+    {
+      "texto": "muy",
+      "inicio": 9.88,
+      "fin": 10.0
+    },
+    {
+      "texto": "complejas,",
+      "inicio": 10.057,
+      "fin": 10.96
+    },
+    {
+      "texto": "o",
+      "inicio": 11.0,
+      "fin": 11.04
+    },
+    {
+      "texto": "los",
+      "inicio": 11.08,
+      "fin": 11.2
+    },
+    {
+      "texto": "casos",
+      "inicio": 11.28,
+      "fin": 11.68
+    },
+    {
+      "texto": "especiales,",
+      "inicio": 11.733,
+      "fin": 13.2
+    },
+    {
+      "texto": "pueden",
+      "inicio": 13.246,
+      "fin": 13.52
+    },
+    {
+      "texto": "necesitar",
+      "inicio": 13.573,
+      "fin": 14.16
+    },
+    {
+      "texto": "que",
+      "inicio": 14.2,
+      "fin": 14.32
+    },
+    {
+      "texto": "tú",
+      "inicio": 14.427,
+      "fin": 14.64
+    },
+    {
+      "texto": "las",
+      "inicio": 14.68,
+      "fin": 14.8
+    },
+    {
+      "texto": "ajustes.",
+      "inicio": 14.88,
+      "fin": 15.68
+    },
+    {
+      "texto": "Es",
+      "inicio": 16.16,
+      "fin": 17.12
+    },
+    {
+      "texto": "un",
+      "inicio": 17.173,
+      "fin": 17.28
+    },
+    {
+      "texto": "asistente",
+      "inicio": 17.333,
+      "fin": 18.08
+    },
+    {
+      "texto": "buenísimo,",
+      "inicio": 18.16,
+      "fin": 19.44
+    },
+    {
+      "texto": "pero",
+      "inicio": 19.472,
+      "fin": 19.6
+    },
+    {
+      "texto": "el",
+      "inicio": 19.627,
+      "fin": 19.68
+    },
+    {
+      "texto": "responsable",
+      "inicio": 19.727,
+      "fin": 20.24
+    },
+    {
+      "texto": "de",
+      "inicio": 20.267,
+      "fin": 20.32
+    },
+    {
+      "texto": "la",
+      "inicio": 20.347,
+      "fin": 20.4
+    },
+    {
+      "texto": "hoja",
+      "inicio": 20.48,
+      "fin": 20.8
+    },
+    {
+      "texto": "sigues",
+      "inicio": 20.88,
+      "fin": 21.2
+    },
+    {
+      "texto": "siendo",
+      "inicio": 21.246,
+      "fin": 21.52
+    },
+    {
+      "texto": "tú.",
+      "inicio": 21.6,
+      "fin": 21.84
+    }
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "num": "08",
+  "titulo": "Entiende la fórmula",
+  "texto": "Entiende la fórmula, que es muy sencilla. IMAGEN trae una imagen de internet y la pone dentro de la celda. La dirección es de un generador de QR gratuito: size dice el tamaño en píxeles, y lo que va después de data es lo que va a guardar el código. Y con el ampersand A2, cada fila genera el QR de su propio producto.",
+  "texto_tts": "Entiende la fórmula, que es muy sencilla. IMAGEN trae una imagen de internet y la pone dentro de la celda. La dirección es de un generador de QR gratuito: size dice el tamaño en píxeles, y lo que va después de data es lo que va a guardar el código. Y con el ampersand A2, cada fila genera el QR de su propio producto.",
+  "modelo": "eleven_v3",
+  "duracion": 27.04,
+  "palabras": [
+    {
+      "texto": "Entiende",
+      "inicio": 0.0,
+      "fin": 0.4
+    },
+    {
+      "texto": "la",
+      "inicio": 0.427,
+      "fin": 0.48
+    },
+    {
+      "texto": "fórmula,",
+      "inicio": 0.56,
+      "fin": 1.2
+    },
+    {
+      "texto": "que",
+      "inicio": 1.22,
+      "fin": 1.28
+    },
+    {
+      "texto": "es",
+      "inicio": 1.307,
+      "fin": 1.36
+    },
+    {
+      "texto": "muy",
+      "inicio": 1.4,
+      "fin": 1.52
+    },
+    {
+      "texto": "sencilla.",
+      "inicio": 1.56,
+      "fin": 2.16
+    },
+    {
+      "texto": "IMAGEN",
+      "inicio": 2.32,
+      "fin": 3.12
+    },
+    {
+      "texto": "trae",
+      "inicio": 3.387,
+      "fin": 4.24
+    },
+    {
+      "texto": "una",
+      "inicio": 4.48,
+      "fin": 5.2
+    },
+    {
+      "texto": "imagen",
+      "inicio": 5.257,
+      "fin": 5.6
+    },
+    {
+      "texto": "de",
+      "inicio": 5.627,
+      "fin": 5.68
+    },
+    {
+      "texto": "internet",
+      "inicio": 5.751,
+      "fin": 6.32
+    },
+    {
+      "texto": "y",
+      "inicio": 6.44,
+      "fin": 6.56
+    },
+    {
+      "texto": "la",
+      "inicio": 6.613,
+      "fin": 6.72
+    },
+    {
+      "texto": "pone",
+      "inicio": 6.76,
+      "fin": 7.04
+    },
+    {
+      "texto": "dentro",
+      "inicio": 7.097,
+      "fin": 7.44
+    },
+    {
+      "texto": "de",
+      "inicio": 7.467,
+      "fin": 7.52
+    },
+    {
+      "texto": "la",
+      "inicio": 7.547,
+      "fin": 7.6
+    },
+    {
+      "texto": "celda.",
+      "inicio": 7.68,
+      "fin": 8.72
+    },
+    {
+      "texto": "La",
+      "inicio": 8.933,
+      "fin": 9.36
+    },
+    {
+      "texto": "dirección",
+      "inicio": 9.416,
+      "fin": 9.92
+    },
+    {
+      "texto": "es",
+      "inicio": 10.0,
+      "fin": 10.16
+    },
+    {
+      "texto": "de",
+      "inicio": 10.187,
+      "fin": 10.24
+    },
+    {
+      "texto": "un",
+      "inicio": 10.293,
+      "fin": 10.4
+    },
+    {
+      "texto": "generador",
+      "inicio": 10.453,
+      "fin": 10.96
+    },
+    {
+      "texto": "de",
+      "inicio": 10.987,
+      "fin": 11.04
+    },
+    {
+      "texto": "QR",
+      "inicio": 11.307,
+      "fin": 11.84
+    },
+    {
+      "texto": "gratuito:",
+      "inicio": 11.938,
+      "fin": 13.84
+    },
+    {
+      "texto": "size",
+      "inicio": 13.968,
+      "fin": 14.48
+    },
+    {
+      "texto": "dice",
+      "inicio": 14.576,
+      "fin": 14.96
+    },
+    {
+      "texto": "el",
+      "inicio": 14.987,
+      "fin": 15.04
+    },
+    {
+      "texto": "tamaño",
+      "inicio": 15.097,
+      "fin": 15.44
+    },
+    {
+      "texto": "en",
+      "inicio": 15.467,
+      "fin": 15.52
+    },
+    {
+      "texto": "píxeles,",
+      "inicio": 15.56,
+      "fin": 16.4
+    },
+    {
+      "texto": "y",
+      "inicio": 16.8,
+      "fin": 17.2
+    },
+    {
+      "texto": "lo",
+      "inicio": 17.253,
+      "fin": 17.36
+    },
+    {
+      "texto": "que",
+      "inicio": 17.38,
+      "fin": 17.44
+    },
+    {
+      "texto": "va",
+      "inicio": 17.493,
+      "fin": 17.6
+    },
+    {
+      "texto": "después",
+      "inicio": 17.65,
+      "fin": 18.0
+    },
+    {
+      "texto": "de",
+      "inicio": 18.027,
+      "fin": 18.08
+    },
+    {
+      "texto": "data",
+      "inicio": 18.176,
+      "fin": 18.56
+    },
+    {
+      "texto": "es",
+      "inicio": 18.693,
+      "fin": 18.96
+    },
+    {
+      "texto": "lo",
+      "inicio": 18.987,
+      "fin": 19.04
+    },
+    {
+      "texto": "que",
+      "inicio": 19.08,
+      "fin": 19.2
+    },
+    {
+      "texto": "va",
+      "inicio": 19.227,
+      "fin": 19.28
+    },
+    {
+      "texto": "a",
+      "inicio": 19.38,
+      "fin": 19.48
+    },
+    {
+      "texto": "guardar",
+      "inicio": 19.505,
+      "fin": 19.68
+    },
+    {
+      "texto": "el",
+      "inicio": 19.707,
+      "fin": 19.76
+    },
+    {
+      "texto": "código.",
+      "inicio": 19.829,
+      "fin": 20.88
+    },
+    {
+      "texto": "Y",
+      "inicio": 21.2,
+      "fin": 21.52
+    },
+    {
+      "texto": "con",
+      "inicio": 21.58,
+      "fin": 21.76
+    },
+    {
+      "texto": "el",
+      "inicio": 21.813,
+      "fin": 21.92
+    },
+    {
+      "texto": "ampersand",
+      "inicio": 22.02,
+      "fin": 22.72
+    },
+    {
+      "texto": "A2,",
+      "inicio": 22.92,
+      "fin": 23.68
+    },
+    {
+      "texto": "cada",
+      "inicio": 23.824,
+      "fin": 24.4
+    },
+    {
+      "texto": "fila",
+      "inicio": 24.48,
+      "fin": 24.8
+    },
+    {
+      "texto": "genera",
+      "inicio": 24.857,
+      "fin": 25.2
+    },
+    {
+      "texto": "el",
+      "inicio": 25.253,
+      "fin": 25.36
+    },
+    {
+      "texto": "QR",
+      "inicio": 25.493,
+      "fin": 25.76
+    },
+    {
+      "texto": "de",
+      "inicio": 25.813,
+      "fin": 25.92
+    },
+    {
+      "texto": "su",
+      "inicio": 25.973,
+      "fin": 26.08
+    },
+    {
+      "texto": "propio",
+      "inicio": 26.126,
+      "fin": 26.4
+    },
+    {
+      "texto": "producto.",
+      "inicio": 26.462,
+      "fin": 27.04
+    }
+  ]
+}

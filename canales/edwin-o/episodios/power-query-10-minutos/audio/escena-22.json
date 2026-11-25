@@ -1,0 +1,315 @@
+{
+  "num": "22",
+  "titulo": "Cierre y siguiente video",
+  "texto": "En mi página, edwinortiz punto net, y en la tienda, encuentras plantillas de Excel listas para usar; el enlace está en la descripción. En el próximo video metemos a ChatGPT dentro de Excel: te enseño a instalarlo y a automatizar tus hojas de cálculo con él. Suscríbete para no perdértelo. El poder de la tecnología te va a cambiar el mundo.",
+  "texto_tts": "En mi página, edwinortiz punto net, y en la tienda, encuentras plantillas de Excel listas para usar; el enlace está en la descripción. En el próximo video metemos a ChatGPT dentro de Excel: te enseño a instalarlo y a automatizar tus hojas de cálculo con él. Suscríbete para no perdértelo. [excited] El poder de la tecnología te va a cambiar el mundo.",
+  "modelo": "eleven_v3",
+  "duracion": 25.68,
+  "palabras": [
+    {
+      "texto": "En",
+      "inicio": 0.0,
+      "fin": 0.16
+    },
+    {
+      "texto": "mi",
+      "inicio": 0.187,
+      "fin": 0.24
+    },
+    {
+      "texto": "página,",
+      "inicio": 0.32,
+      "fin": 1.04
+    },
+    {
+      "texto": "edwinortiz",
+      "inicio": 1.093,
+      "fin": 1.84
+    },
+    {
+      "texto": "punto",
+      "inicio": 1.893,
+      "fin": 2.16
+    },
+    {
+      "texto": "net,",
+      "inicio": 2.24,
+      "fin": 2.64
+    },
+    {
+      "texto": "y",
+      "inicio": 2.96,
+      "fin": 3.28
+    },
+    {
+      "texto": "en",
+      "inicio": 3.413,
+      "fin": 3.68
+    },
+    {
+      "texto": "la",
+      "inicio": 3.733,
+      "fin": 3.84
+    },
+    {
+      "texto": "tienda,",
+      "inicio": 3.92,
+      "fin": 4.76
+    },
+    {
+      "texto": "encuentras",
+      "inicio": 4.795,
+      "fin": 5.28
+    },
+    {
+      "texto": "plantillas",
+      "inicio": 5.347,
+      "fin": 5.92
+    },
+    {
+      "texto": "de",
+      "inicio": 5.947,
+      "fin": 6.0
+    },
+    {
+      "texto": "Excel",
+      "inicio": 6.067,
+      "fin": 6.4
+    },
+    {
+      "texto": "listas",
+      "inicio": 6.496,
+      "fin": 7.04
+    },
+    {
+      "texto": "para",
+      "inicio": 7.072,
+      "fin": 7.2
+    },
+    {
+      "texto": "usar;",
+      "inicio": 7.28,
+      "fin": 8.16
+    },
+    {
+      "texto": "el",
+      "inicio": 8.187,
+      "fin": 8.24
+    },
+    {
+      "texto": "enlace",
+      "inicio": 8.293,
+      "fin": 8.8
+    },
+    {
+      "texto": "está",
+      "inicio": 8.88,
+      "fin": 9.2
+    },
+    {
+      "texto": "en",
+      "inicio": 9.227,
+      "fin": 9.28
+    },
+    {
+      "texto": "la",
+      "inicio": 9.307,
+      "fin": 9.36
+    },
+    {
+      "texto": "descripción.",
+      "inicio": 9.406,
+      "fin": 10.08
+    },
+    {
+      "texto": "En",
+      "inicio": 10.4,
+      "fin": 11.04
+    },
+    {
+      "texto": "el",
+      "inicio": 11.067,
+      "fin": 11.12
+    },
+    {
+      "texto": "próximo",
+      "inicio": 11.19,
+      "fin": 11.68
+    },
+    {
+      "texto": "video",
+      "inicio": 11.733,
+      "fin": 12.0
+    },
+    {
+      "texto": "metemos",
+      "inicio": 12.12,
+      "fin": 12.72
+    },
+    {
+      "texto": "a",
+      "inicio": 12.8,
+      "fin": 12.88
+    },
+    {
+      "texto": "ChatGPT",
+      "inicio": 12.944,
+      "fin": 13.68
+    },
+    {
+      "texto": "dentro",
+      "inicio": 13.771,
+      "fin": 14.32
+    },
+    {
+      "texto": "de",
+      "inicio": 14.347,
+      "fin": 14.4
+    },
+    {
+      "texto": "Excel:",
+      "inicio": 14.467,
+      "fin": 15.36
+    },
+    {
+      "texto": "te",
+      "inicio": 15.387,
+      "fin": 15.44
+    },
+    {
+      "texto": "enseño",
+      "inicio": 15.488,
+      "fin": 15.76
+    },
+    {
+      "texto": "a",
+      "inicio": 15.8,
+      "fin": 15.84
+    },
+    {
+      "texto": "instalarlo",
+      "inicio": 15.872,
+      "fin": 16.48
+    },
+    {
+      "texto": "y",
+      "inicio": 16.6,
+      "fin": 16.72
+    },
+    {
+      "texto": "a",
+      "inicio": 16.84,
+      "fin": 16.96
+    },
+    {
+      "texto": "automatizar",
+      "inicio": 16.99,
+      "fin": 17.44
+    },
+    {
+      "texto": "tus",
+      "inicio": 17.5,
+      "fin": 17.68
+    },
+    {
+      "texto": "hojas",
+      "inicio": 17.733,
+      "fin": 18.0
+    },
+    {
+      "texto": "de",
+      "inicio": 18.027,
+      "fin": 18.08
+    },
+    {
+      "texto": "cálculo",
+      "inicio": 18.16,
+      "fin": 18.56
+    },
+    {
+      "texto": "con",
+      "inicio": 18.6,
+      "fin": 18.72
+    },
+    {
+      "texto": "él.",
+      "inicio": 18.8,
+      "fin": 19.04
+    },
+    {
+      "texto": "Suscríbete",
+      "inicio": 19.24,
+      "fin": 20.32
+    },
+    {
+      "texto": "para",
+      "inicio": 20.384,
+      "fin": 20.64
+    },
+    {
+      "texto": "no",
+      "inicio": 20.693,
+      "fin": 20.8
+    },
+    {
+      "texto": "perdértelo.",
+      "inicio": 20.864,
+      "fin": 21.6
+    },
+    {
+      "texto": "El",
+      "inicio": 22.293,
+      "fin": 22.32
+    },
+    {
+      "texto": "poder",
+      "inicio": 22.4,
+      "fin": 22.8
+    },
+    {
+      "texto": "de",
+      "inicio": 22.827,
+      "fin": 22.88
+    },
+    {
+      "texto": "la",
+      "inicio": 22.933,
+      "fin": 23.04
+    },
+    {
+      "texto": "tecnología",
+      "inicio": 23.104,
+      "fin": 23.76
+    },
+    {
+      "texto": "te",
+      "inicio": 23.973,
+      "fin": 24.4
+    },
+    {
+      "texto": "va",
+      "inicio": 24.453,
+      "fin": 24.56
+    },
+    {
+      "texto": "a",
+      "inicio": 24.6,
+      "fin": 24.64
+    },
+    {
+      "texto": "cambiar",
+      "inicio": 24.69,
+      "fin": 25.04
+    },
+    {
+      "texto": "el",
+      "inicio": 25.093,
+      "fin": 25.2
+    },
+    {
+      "texto": "mundo.",
+      "inicio": 25.267,
+      "fin": 25.68
+    }
+  ]
+}

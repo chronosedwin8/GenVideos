@@ -1,0 +1,87 @@
+{
+  "titulo": "Cómo usar Claude Code desde tu celular (Remote Control paso a paso)",
+  "titulos_alternativos": [
+    "Controla tu PC desde el celular con Claude Code",
+    "Claude Code en el móvil: Remote Control explicado"
+  ],
+  "intro": "Con Remote Control manejas desde tu celular una sesión de Claude Code que corre en tu computador: tus archivos y tus programas nunca salen de tu máquina. Te enseño a instalarlo, conectarlo con la app de Claude y mandarle tareas reales.",
+  "aprenderas": [
+    "Qué es Remote Control (y en qué se diferencia de la nube)",
+    "Instalar Claude Code en Windows o Mac",
+    "Activarlo con /remote-control o /rc",
+    "Conectarte desde la app de Claude (Code) o con el QR",
+    "Modos de permisos y notificaciones",
+    "Seguridad y límites"
+  ],
+  "bloque": "Comandos del video:\nWindows (PowerShell): irm https://claude.ai/install.ps1 | iex\nmacOS / Linux: curl -fsSL https://claude.ai/install.sh | bash\nclaude --version\nclaude   (y /login)\n/remote-control   o   /rc\nclaude remote-control   (modo servidor; barra espaciadora = QR)\n/config → Enable Remote Control for all sessions\nRequiere plan Pro, Max, Ultra, Team o Enterprise (no funciona con clave de API).",
+  "capitulos": {
+    "01": "Tu PC trabaja mientras estás fuera",
+    "03": "Remote Control: qué es nuevo",
+    "05": "Qué es y qué no es",
+    "06": "Lo que necesitas",
+    "07": "Paso 1: instala Claude Code",
+    "08": "Paso 2: abre tu carpeta",
+    "09": "Paso 3: /remote-control",
+    "10": "Paso 4: conéctate desde el celular",
+    "11": "Paso 5: mándale una tarea",
+    "12": "El resultado: 12 reportes",
+    "13": "Modos de permisos",
+    "14": "Notificaciones",
+    "15": "Actívalo para siempre",
+    "16": "Desde el navegador",
+    "17": "¿Es seguro?",
+    "18": "Si no te funcionó",
+    "19": "Ideas para tu oficina"
+  },
+  "fuentes": [
+    "Claude Code Docs, Remote Control: https://code.claude.com/docs/en/remote-control",
+    "Claude Code Docs, móvil: https://code.claude.com/docs/en/mobile",
+    "Claude Code Docs, instalación: https://code.claude.com/docs/en/setup",
+    "Help Net Security, 25 feb 2026: https://www.helpnetsecurity.com/2026/02/25/anthropic-remote-control-claude-code-feature/"
+  ],
+  "hashtags": [
+    "#ClaudeCode",
+    "#InteligenciaArtificial",
+    "#Productividad"
+  ],
+  "tags": [
+    "claude code",
+    "claude code celular",
+    "claude code movil",
+    "remote control claude code",
+    "claude code android",
+    "claude code iphone",
+    "claude ai",
+    "anthropic",
+    "inteligencia artificial productividad",
+    "automatizar con ia",
+    "agente de ia",
+    "edwin o"
+  ],
+  "playlist": "IA para tu productividad",
+  "programar": "2026-12-29 07:00",
+  "shorts": [
+    {
+      "id": "short-1",
+      "titulo": "Controla tu PC DESDE EL CELULAR (Claude Code) #shorts",
+      "descripcion": "Remote Control: escaneas el QR o entras a Code en la app de Claude. Video completo en el canal.",
+      "tags": [
+        "claude code"
+      ],
+      "programar": "2026-12-30 12:00"
+    },
+    {
+      "id": "short-2",
+      "titulo": "¿Claude Code en el celular es seguro? #shorts",
+      "descripcion": "Solo conexiones de salida HTTPS y tus archivos se quedan en tu PC. Video completo en el canal.",
+      "tags": [
+        "claude code seguridad"
+      ],
+      "programar": "2027-01-02 12:00"
+    }
+  ],
+  "enlaces": [
+    "📊 Guías de Excel en el blog: https://www.edwinortiz.net/excel/",
+    "🌐 Plantillas y cursos: https://www.edwinortiz.net"
+  ]
+}

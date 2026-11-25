@@ -1,0 +1,265 @@
+{
+  "num": "14",
+  "titulo": "Nivel pro: cuadrícula automática",
+  "texto": "Nivel pro. Si solo necesitas los QR en una cuadrícula, hazlo con una sola fórmula. Le pasas a IMAGEN todo el rango de códigos de una vez, y lo envuelves en AJUSTARFILAS con un tres. Excel acomoda los seis QR en filas de tres. Agregas códigos y la cuadrícula crece sola.",
+  "texto_tts": "Nivel pro. Si solo necesitas los QR en una cuadrícula, hazlo con una sola fórmula. Le pasas a IMAGEN todo el rango de códigos de una vez, y lo envuelves en AJUSTARFILAS con un tres. Excel acomoda los seis QR en filas de tres. Agregas códigos y la cuadrícula crece sola.",
+  "modelo": "eleven_v3",
+  "duracion": 23.28,
+  "palabras": [
+    {
+      "texto": "Nivel",
+      "inicio": 0.0,
+      "fin": 0.24
+    },
+    {
+      "texto": "pro.",
+      "inicio": 0.34,
+      "fin": 0.72
+    },
+    {
+      "texto": "Si",
+      "inicio": 0.987,
+      "fin": 1.52
+    },
+    {
+      "texto": "solo",
+      "inicio": 1.584,
+      "fin": 1.84
+    },
+    {
+      "texto": "necesitas",
+      "inicio": 1.893,
+      "fin": 2.48
+    },
+    {
+      "texto": "los",
+      "inicio": 2.52,
+      "fin": 2.64
+    },
+    {
+      "texto": "QR",
+      "inicio": 2.8,
+      "fin": 3.12
+    },
+    {
+      "texto": "en",
+      "inicio": 3.2,
+      "fin": 3.36
+    },
+    {
+      "texto": "una",
+      "inicio": 3.42,
+      "fin": 3.6
+    },
+    {
+      "texto": "cuadrícula,",
+      "inicio": 3.627,
+      "fin": 4.8
+    },
+    {
+      "texto": "hazlo",
+      "inicio": 4.86,
+      "fin": 5.2
+    },
+    {
+      "texto": "con",
+      "inicio": 5.24,
+      "fin": 5.36
+    },
+    {
+      "texto": "una",
+      "inicio": 5.42,
+      "fin": 5.6
+    },
+    {
+      "texto": "sola",
+      "inicio": 5.664,
+      "fin": 5.92
+    },
+    {
+      "texto": "fórmula.",
+      "inicio": 5.96,
+      "fin": 6.56
+    },
+    {
+      "texto": "Le",
+      "inicio": 6.773,
+      "fin": 7.2
+    },
+    {
+      "texto": "pasas",
+      "inicio": 7.28,
+      "fin": 7.68
+    },
+    {
+      "texto": "a",
+      "inicio": 7.72,
+      "fin": 7.76
+    },
+    {
+      "texto": "IMAGEN",
+      "inicio": 7.84,
+      "fin": 8.48
+    },
+    {
+      "texto": "todo",
+      "inicio": 8.528,
+      "fin": 8.72
+    },
+    {
+      "texto": "el",
+      "inicio": 8.773,
+      "fin": 8.88
+    },
+    {
+      "texto": "rango",
+      "inicio": 8.92,
+      "fin": 9.2
+    },
+    {
+      "texto": "de",
+      "inicio": 9.253,
+      "fin": 9.36
+    },
+    {
+      "texto": "códigos",
+      "inicio": 9.44,
+      "fin": 9.92
+    },
+    {
+      "texto": "de",
+      "inicio": 10.0,
+      "fin": 10.16
+    },
+    {
+      "texto": "una",
+      "inicio": 10.22,
+      "fin": 10.4
+    },
+    {
+      "texto": "vez,",
+      "inicio": 10.48,
+      "fin": 10.96
+    },
+    {
+      "texto": "y",
+      "inicio": 11.24,
+      "fin": 11.52
+    },
+    {
+      "texto": "lo",
+      "inicio": 11.573,
+      "fin": 11.68
+    },
+    {
+      "texto": "envuelves",
+      "inicio": 11.74,
+      "fin": 12.24
+    },
+    {
+      "texto": "en",
+      "inicio": 12.293,
+      "fin": 12.4
+    },
+    {
+      "texto": "AJUSTARFILAS",
+      "inicio": 12.533,
+      "fin": 13.6
+    },
+    {
+      "texto": "con",
+      "inicio": 13.7,
+      "fin": 14.0
+    },
+    {
+      "texto": "un",
+      "inicio": 14.027,
+      "fin": 14.08
+    },
+    {
+      "texto": "tres.",
+      "inicio": 14.176,
+      "fin": 14.72
+    },
+    {
+      "texto": "Excel",
+      "inicio": 14.907,
+      "fin": 15.84
+    },
+    {
+      "texto": "acomoda",
+      "inicio": 16.0,
+      "fin": 16.56
+    },
+    {
+      "texto": "los",
+      "inicio": 16.62,
+      "fin": 16.8
+    },
+    {
+      "texto": "seis",
+      "inicio": 16.864,
+      "fin": 17.12
+    },
+    {
+      "texto": "QR",
+      "inicio": 17.307,
+      "fin": 17.68
+    },
+    {
+      "texto": "en",
+      "inicio": 17.787,
+      "fin": 18.0
+    },
+    {
+      "texto": "filas",
+      "inicio": 18.06,
+      "fin": 18.32
+    },
+    {
+      "texto": "de",
+      "inicio": 18.347,
+      "fin": 18.4
+    },
+    {
+      "texto": "tres.",
+      "inicio": 18.496,
+      "fin": 19.04
+    },
+    {
+      "texto": "Agregas",
+      "inicio": 19.307,
+      "fin": 20.16
+    },
+    {
+      "texto": "códigos",
+      "inicio": 20.24,
+      "fin": 20.88
+    },
+    {
+      "texto": "y",
+      "inicio": 20.92,
+      "fin": 20.96
+    },
+    {
+      "texto": "la",
+      "inicio": 21.013,
+      "fin": 21.12
+    },
+    {
+      "texto": "cuadrícula",
+      "inicio": 21.173,
+      "fin": 21.84
+    },
+    {
+      "texto": "crece",
+      "inicio": 21.94,
+      "fin": 22.48
+    },
+    {
+      "texto": "sola.",
+      "inicio": 22.624,
+      "fin": 23.28
+    }
+  ]
+}

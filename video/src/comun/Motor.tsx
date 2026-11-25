@@ -14,6 +14,7 @@ import {
   type VarianteFondo,
 } from './Basicos';
 import {Barras, ChatIA, Cifra, Comparar, Cronologia, Cuadricula, FormulaGrande, ListaCheck, Teclas, TextoRico} from './Bloques';
+import {EditorPQ, Etiquetas, Imagenes, Movil, PildoraWeb, Tienda} from './Bloques2';
 import {CodigoAnimado, Terminal} from './Codigo';
 import {Episodio, type DefEscena} from './Episodio';
 import {HojaExcel} from './HojaExcel';
@@ -52,7 +53,7 @@ const Centro: React.FC<{children: React.ReactNode; gap?: number}> = ({children, 
   <AbsoluteFill style={{alignItems: 'center', justifyContent: 'center', gap, padding: '0 80px'}}>{children}</AbsoluteFill>
 );
 
-const RenderBloque: React.FC<{tema: Tema; b: BloqueResuelto}> = ({tema, b}) => {
+const RenderBloque: React.FC<{tema: Tema; b: BloqueResuelto; conPaso?: boolean}> = ({tema, b, conPaso}) => {
   const d = b.de;
   switch (b.tipo) {
     case 'titulo':
@@ -129,7 +130,22 @@ const RenderBloque: React.FC<{tema: Tema; b: BloqueResuelto}> = ({tema, b}) => {
     case 'cortinilla':
       return <Cortinilla tema={tema} titulo={b.titulo} desde={d} />;
     case 'cierre':
-      return <CierreSiguiente tema={tema} siguiente={b.siguiente} desde={d} suscribirDesde={b.suscribir as number | undefined} />;
+      return (
+        <>
+          <CierreSiguiente tema={tema} siguiente={b.siguiente} desde={d} suscribirDesde={b.suscribir as number | undefined} />
+          {b.web !== undefined ? <PildoraWeb tema={tema} desde={b.web as number} /> : null}
+        </>
+      );
+    case 'imagenes':
+      return <Imagenes tema={tema} titulo={b.titulo} items={b.items as never} desde={d} />;
+    case 'etiquetas':
+      return <Etiquetas tema={tema} titulo={b.titulo} items={b.items as never} columnas={b.columnas} desde={d} />;
+    case 'movil':
+      return <Movil tema={tema} app={b.app} pestana={b.pestana} items={b.items as never} mensajes={b.mensajes as never} notas={b.notas as never} qr={b.qr as never} desde={d} />;
+    case 'editorpq':
+      return <EditorPQ tema={tema} consulta={b.consulta} consultas={b.consultas} estados={b.estados as never} pasos={b.pasos as never} botones={b.botones as never} anchos={b.anchos} desde={d} />;
+    case 'tienda':
+      return <Tienda tema={tema} texto={b.texto} desde={d} />;
     case 'resumen':
       return <Resumen3 tema={tema} titulo={b.titulo} ideas={b.ideas as {texto: string; desde: number}[]} />;
     case 'errores':
@@ -143,7 +159,7 @@ const RenderBloque: React.FC<{tema: Tema; b: BloqueResuelto}> = ({tema, b}) => {
       );
     case 'pildora':
       return (
-        <AbsoluteFill style={{alignItems: 'center', justifyContent: b.abajo ? 'flex-end' : 'flex-start', padding: b.abajo ? '0 0 190px' : '40px 0 0', zIndex: 50}}>
+        <AbsoluteFill style={{alignItems: 'center', justifyContent: b.abajo ? 'flex-end' : 'flex-start', padding: b.abajo ? '0 0 190px' : conPaso ? '125px 0 0' : '40px 0 0', zIndex: 50}}>
           <Pildora tema={tema} texto={b.texto} desde={d} tamano={b.tamano ?? 56} />
         </AbsoluteFill>
       );
@@ -167,7 +183,7 @@ export const EscenaMotor: React.FC<EscenaProps & {esp: EspecEscena}> = ({tema, p
     <>
       {plan.map((b, i) => (
         <Capa key={i} de={b.de} a={b.a}>
-          <RenderBloque tema={tema} b={b} />
+          <RenderBloque tema={tema} b={b} conPaso={Boolean(paso)} />
         </Capa>
       ))}
       {paso ? <EtiquetaPaso tema={tema} n={paso.n} texto={paso.texto} prefijo={paso.prefijo} desde={paso.en === undefined ? 0.1 : resolverCue(t, paso.en)} /> : null}

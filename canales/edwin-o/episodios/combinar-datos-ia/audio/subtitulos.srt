@@ -1,0 +1,963 @@
+1
+00:00:00,140 --> 00:00:02,800
+Dos meses de ventas en hojas separadas,
+
+2
+00:00:02,960 --> 00:00:05,760
+una lista de clientes aparte… y tu
+
+3
+00:00:05,840 --> 00:00:08,480
+jefe quiere todo en una sola tabla,
+
+4
+00:00:08,620 --> 00:00:10,640
+con el nombre y la ciudad de
+
+5
+00:00:10,688 --> 00:00:11,520
+cada cliente.
+
+6
+00:00:11,860 --> 00:00:14,720
+Con una frase bien escrita, la
+
+7
+00:00:14,780 --> 00:00:17,600
+inteligencia artificial te da una fórmula que
+
+8
+00:00:17,653 --> 00:00:18,480
+lo hace todo.
+
+9
+00:00:19,350 --> 00:00:22,080
+Y de paso, descubre a un cliente
+
+10
+00:00:22,176 --> 00:00:22,880
+fantasma.
+
+11
+00:00:23,460 --> 00:00:25,280
+¡Bienvenidos, amigos del canal!
+
+12
+00:00:25,480 --> 00:00:27,920
+Vamos en busca del poder
+
+13
+00:00:28,016 --> 00:00:29,360
+tecnológico.
+
+14
+00:00:29,500 --> 00:00:32,480
+Hoy te enseño la varita mágica de
+
+15
+00:00:32,560 --> 00:00:33,920
+Excel:
+
+16
+00:00:33,984 --> 00:00:36,000
+cómo pedirle a la inteligencia
+
+17
+00:00:36,102 --> 00:00:38,800
+artificial que combine tus datos
+
+18
+00:00:38,896 --> 00:00:40,480
+como un profesional.
+
+19
+00:00:40,660 --> 00:00:43,440
+Vas a ver el prompt exacto, la
+
+20
+00:00:43,560 --> 00:00:46,240
+fórmula pieza por pieza, el
+
+21
+00:00:46,280 --> 00:00:48,960
+misterio del cliente fantasma, y
+
+22
+00:00:49,027 --> 00:00:51,840
+otras tres varitas que puedes usar.
+
+23
+00:00:52,240 --> 00:00:53,680
+¿Por qué hablar de esto ahora?
+
+24
+00:00:53,880 --> 00:00:56,640
+Porque en dos mil veintiséis la inteligencia
+
+25
+00:00:56,691 --> 00:00:58,800
+artificial se metió dentro de Excel.
+
+26
+00:00:59,173 --> 00:01:02,160
+En abril, Copilot con modo agente
+
+27
+00:01:02,240 --> 00:01:04,160
+llegó a todos los usuarios de Microsoft
+
+28
+00:01:04,208 --> 00:01:05,600
+trescientos sesenta y cinco.
+
+29
+00:01:05,893 --> 00:01:08,640
+En mayo, ChatGPT para Excel
+
+30
+00:01:08,704 --> 00:01:11,040
+quedó disponible en todos sus planes.
+
+31
+00:01:11,400 --> 00:01:14,160
+Y Claude tiene su propio complemento para
+
+32
+00:01:14,227 --> 00:01:14,640
+Excel.
+
+33
+00:01:14,933 --> 00:01:17,280
+La pregunta ya no es si usar
+
+34
+00:01:17,333 --> 00:01:19,840
+la IA, sino cómo pedirle las
+
+35
+00:01:19,947 --> 00:01:20,560
+cosas.
+
+36
+00:01:20,960 --> 00:01:23,680
+En mis capacitaciones, el error número uno
+
+37
+00:01:23,787 --> 00:01:25,600
+al cruzar dos tablas siempre es el
+
+38
+00:01:25,667 --> 00:01:26,720
+mismo:
+
+39
+00:01:26,790 --> 00:01:29,520
+numeral N, barra, D.
+
+40
+00:01:30,120 --> 00:01:32,000
+Y casi nunca es culpa de la
+
+41
+00:01:32,040 --> 00:01:32,560
+fórmula.
+
+42
+00:01:32,853 --> 00:01:35,280
+Es un espacio invisible al final de
+
+43
+00:01:35,307 --> 00:01:37,760
+un código, que nadie ve y que
+
+44
+00:01:37,808 --> 00:01:39,600
+hace que Excel no encuentre nada.
+
+45
+00:01:39,880 --> 00:01:42,000
+Hoy vas a ver cómo la IA
+
+46
+00:01:42,053 --> 00:01:43,680
+lo detecta antes que tú.
+
+47
+00:01:44,080 --> 00:01:45,560
+Estos son los datos.
+
+48
+00:01:45,680 --> 00:01:48,160
+En la hoja Ene hay seis pedidos,
+
+49
+00:01:48,200 --> 00:01:50,080
+con el número de pedido, el código
+
+50
+00:01:50,100 --> 00:01:51,440
+del cliente y el monto.
+
+51
+00:01:51,627 --> 00:01:53,920
+En la hoja Feb, otros seis, con
+
+52
+00:01:53,947 --> 00:01:55,040
+la misma estructura.
+
+53
+00:01:55,320 --> 00:01:58,000
+Y en la hoja Clientes, cinco clientes,
+
+54
+00:01:58,040 --> 00:01:59,920
+con su código, su nombre y su
+
+55
+00:01:59,989 --> 00:02:00,480
+ciudad.
+
+56
+00:02:00,747 --> 00:02:03,120
+Queremos juntar todo en una sola tabla.
+
+57
+00:02:03,520 --> 00:02:05,200
+La varita mágica es el prompt.
+
+58
+00:02:05,320 --> 00:02:06,400
+Fíjate en lo que le digo a
+
+59
+00:02:06,427 --> 00:02:06,960
+la IA.
+
+60
+00:02:07,147 --> 00:02:09,680
+Mi versión de Excel y el idioma,
+
+61
+00:02:09,720 --> 00:02:11,200
+con el separador punto y coma.
+
+62
+00:02:11,640 --> 00:02:13,920
+Dónde están los datos:
+
+63
+00:02:13,960 --> 00:02:16,560
+qué hoja, qué rango y qué columnas.
+
+64
+00:02:16,800 --> 00:02:18,880
+Qué quiero exactamente:
+
+65
+00:02:18,940 --> 00:02:21,600
+una sola fórmula para la celda A2.
+
+66
+00:02:21,920 --> 00:02:23,840
+Y la parte que casi nadie pide:
+
+67
+00:02:23,880 --> 00:02:25,280
+que me diga si ve problemas en
+
+68
+00:02:25,300 --> 00:02:25,920
+los datos.
+
+69
+00:02:26,144 --> 00:02:29,040
+Compáralo con lo que escribe la mayoría:
+
+70
+00:02:29,080 --> 00:02:30,640
+"junta mis hojas de Excel".
+
+71
+00:02:30,840 --> 00:02:32,960
+Con eso, la IA tiene que adivinar
+
+72
+00:02:33,040 --> 00:02:33,600
+todo:
+
+73
+00:02:33,620 --> 00:02:36,080
+qué columnas, qué versión, qué separador.
+
+74
+00:02:36,320 --> 00:02:38,720
+Y cuando la IA adivina, se equivoca.
+
+75
+00:02:39,120 --> 00:02:40,320
+Y esta es la fórmula que me
+
+76
+00:02:40,377 --> 00:02:40,960
+entregó.
+
+77
+00:02:41,072 --> 00:02:42,960
+Parece un monstruo, ¿verdad?
+
+78
+00:02:43,184 --> 00:02:44,720
+Tranquilo.
+
+79
+00:02:44,800 --> 00:02:47,520
+Yo la probé en Excel, y funciona.
+
+80
+00:02:47,664 --> 00:02:50,160
+Pero un profesional no pega fórmulas que
+
+81
+00:02:50,213 --> 00:02:52,800
+no entiende, así que vamos a desarmarla
+
+82
+00:02:52,920 --> 00:02:54,240
+pieza por pieza.
+
+83
+00:02:54,460 --> 00:02:56,480
+Son solo cuatro ideas.
+
+84
+00:02:56,880 --> 00:02:57,680
+Pieza uno:
+
+85
+00:02:58,053 --> 00:02:59,360
+APILARV.
+
+86
+00:02:59,920 --> 00:03:02,560
+Toma los pedidos de enero y pone
+
+87
+00:03:02,620 --> 00:03:05,280
+debajo los de febrero, como apilar dos
+
+88
+00:03:05,360 --> 00:03:06,000
+cajas.
+
+89
+00:03:06,160 --> 00:03:07,520
+Resultado:
+
+90
+00:03:07,740 --> 00:03:10,480
+una sola tabla de doce filas.
+
+91
+00:03:10,880 --> 00:03:13,280
+LET le pone a esa tabla un
+
+92
+00:03:13,349 --> 00:03:16,240
+nombre, "datos", para no tener que
+
+93
+00:03:16,307 --> 00:03:18,720
+repetir todo eso cada vez.
+
+94
+00:03:19,120 --> 00:03:19,920
+Pieza dos:
+
+95
+00:03:20,280 --> 00:03:23,200
+ELEGIRCOLS toma la columna dos, la
+
+96
+00:03:23,253 --> 00:03:24,720
+de los códigos de cliente.
+
+97
+00:03:25,080 --> 00:03:27,600
+Y ESPACIOS les quita los espacios
+
+98
+00:03:27,660 --> 00:03:28,640
+sobrantes.
+
+99
+00:03:28,747 --> 00:03:30,720
+Guarda el resultado con el nombre
+
+100
+00:03:30,880 --> 00:03:32,160
+"ids".
+
+101
+00:03:32,336 --> 00:03:35,120
+Esta pieza parece un detalle, pero ya
+
+102
+00:03:35,180 --> 00:03:36,080
+vas a ver que es la que
+
+103
+00:03:36,160 --> 00:03:37,360
+salva el reporte.
+
+104
+00:03:37,760 --> 00:03:38,720
+Pieza tres:
+
+105
+00:03:38,920 --> 00:03:41,920
+dos BUSCARX.
+
+106
+00:03:42,107 --> 00:03:44,880
+El primero busca cada código en la
+
+107
+00:03:44,933 --> 00:03:47,600
+hoja Clientes y trae el nombre.
+
+108
+00:03:47,893 --> 00:03:50,640
+El segundo trae la ciudad.
+
+109
+00:03:51,040 --> 00:03:53,360
+Y el cuarto argumento, "No
+
+110
+00:03:53,440 --> 00:03:56,080
+encontrado", es lo que se muestra si
+
+111
+00:03:56,107 --> 00:03:59,040
+el cliente no existe, en lugar
+
+112
+00:03:59,140 --> 00:04:02,000
+del feo numeral N, barra,
+
+113
+00:04:02,240 --> 00:04:02,800
+D.
+
+114
+00:04:03,200 --> 00:04:04,080
+Pieza cuatro:
+
+115
+00:04:04,213 --> 00:04:07,200
+APILARH pega las columnas una al
+
+116
+00:04:07,264 --> 00:04:08,720
+lado de la otra:
+
+117
+00:04:08,773 --> 00:04:11,280
+el pedido, el código limpio, el
+
+118
+00:04:11,360 --> 00:04:14,200
+monto, el nombre y la ciudad.
+
+119
+00:04:14,420 --> 00:04:16,560
+Pones los encabezados en la fila uno,
+
+120
+00:04:16,773 --> 00:04:19,680
+la fórmula en A2, Enter…
+
+121
+00:04:19,960 --> 00:04:22,240
+y la tabla se desborda sola hasta
+
+122
+00:04:22,267 --> 00:04:23,120
+la fila trece.
+
+123
+00:04:23,580 --> 00:04:24,320
+¡Y ahí está!
+
+124
+00:04:24,427 --> 00:04:26,880
+Doce pedidos de dos meses, en una
+
+125
+00:04:26,944 --> 00:04:28,880
+sola tabla, con el nombre y la
+
+126
+00:04:28,937 --> 00:04:30,320
+ciudad de cada cliente.
+
+127
+00:04:30,587 --> 00:04:32,720
+Si cambias un monto en enero, la
+
+128
+00:04:32,787 --> 00:04:33,920
+tabla cambia sola.
+
+129
+00:04:34,280 --> 00:04:36,160
+Y si agregas un cliente nuevo a
+
+130
+00:04:36,187 --> 00:04:38,480
+la hoja Clientes, su nombre aparece al
+
+131
+00:04:38,544 --> 00:04:40,720
+instante en todos sus pedidos.
+
+132
+00:04:40,960 --> 00:04:43,360
+Pero mira la fila del pedido P
+
+133
+00:04:43,400 --> 00:04:44,400
+doscientos dos:
+
+134
+00:04:44,540 --> 00:04:46,880
+cliente C cero seis…
+
+135
+00:04:47,173 --> 00:04:48,560
+no encontrado.
+
+136
+00:04:48,960 --> 00:04:50,480
+Aquí está el misterio.
+
+137
+00:04:50,613 --> 00:04:53,040
+El cliente C cero seis compró
+
+138
+00:04:53,120 --> 00:04:55,680
+ochocientos veinte, pero no
+
+139
+00:04:55,783 --> 00:04:57,200
+existe en la lista de
+
+140
+00:04:57,298 --> 00:04:59,040
+clientes:
+
+141
+00:04:59,120 --> 00:05:00,160
+es un cliente
+
+142
+00:05:00,272 --> 00:05:02,960
+fantasma, y alguien
+
+143
+00:05:03,040 --> 00:05:04,640
+tiene que registrarlo.
+
+144
+00:05:05,120 --> 00:05:07,680
+Y la IA encontró algo más:
+
+145
+00:05:07,733 --> 00:05:10,640
+en febrero, el código C cero dos
+
+146
+00:05:10,733 --> 00:05:13,040
+tenía un espacio invisible al final.
+
+147
+00:05:13,280 --> 00:05:16,240
+Sin la función ESPACIOS,
+
+148
+00:05:16,320 --> 00:05:19,200
+ese pedido de seiscientos cuarenta se habría
+
+149
+00:05:19,264 --> 00:05:22,160
+perdido, y Medellín habría salido
+
+150
+00:05:22,220 --> 00:05:24,640
+con tres mil trescientos ochenta
+
+151
+00:05:24,880 --> 00:05:26,960
+en vez de cuatro mil veinte.
+
+152
+00:05:27,360 --> 00:05:27,920
+Bonus:
+
+153
+00:05:28,107 --> 00:05:30,000
+el resumen por ciudad.
+
+154
+00:05:30,347 --> 00:05:32,880
+El numeral después de A2
+
+155
+00:05:32,992 --> 00:05:35,760
+significa "toda la tabla que se desborda
+
+156
+00:05:35,853 --> 00:05:37,280
+desde A2".
+
+157
+00:05:37,620 --> 00:05:40,000
+Con AGRUPARPOR
+
+158
+00:05:40,200 --> 00:05:42,960
+agrupo por la columna cinco, la
+
+159
+00:05:43,029 --> 00:05:46,000
+ciudad, y sumo la columna tres,
+
+160
+00:05:46,133 --> 00:05:47,520
+el monto.
+
+161
+00:05:47,680 --> 00:05:50,560
+Bogotá, cuatro mil trescientos ochenta;
+
+162
+00:05:50,800 --> 00:05:53,600
+Cali, mil quinientos cincuenta;
+
+163
+00:05:53,800 --> 00:05:56,800
+Medellín, cuatro mil veinte;
+
+164
+00:05:56,840 --> 00:05:59,520
+y ochocientos veinte del cliente fantasma.
+
+165
+00:05:59,920 --> 00:06:00,800
+Segunda varita:
+
+166
+00:06:00,960 --> 00:06:02,960
+la IA dentro de Excel.
+
+167
+00:06:03,240 --> 00:06:06,160
+Con Copilot, con ChatGPT para
+
+168
+00:06:06,240 --> 00:06:08,480
+Excel o con Claude para Excel,
+
+169
+00:06:08,693 --> 00:06:11,280
+escribes el mismo pedido en un panel
+
+170
+00:06:11,360 --> 00:06:13,200
+al lado de tu hoja, y la
+
+171
+00:06:13,307 --> 00:06:15,200
+IA hace los cambios directamente.
+
+172
+00:06:15,424 --> 00:06:18,320
+ChatGPT, por ejemplo, te pide permiso
+
+173
+00:06:18,387 --> 00:06:20,200
+antes de modificar tu libro.
+
+174
+00:06:20,380 --> 00:06:22,800
+Aun así, revisa siempre lo que cambió.
+
+175
+00:06:23,200 --> 00:06:25,360
+Tercera varita, para cuando esto se repite
+
+176
+00:06:25,408 --> 00:06:26,560
+cada mes:
+
+177
+00:06:26,613 --> 00:06:27,360
+Power Query.
+
+178
+00:06:27,500 --> 00:06:30,400
+Con Anexar consultas apilas los meses,
+
+179
+00:06:30,640 --> 00:06:33,120
+y con Combinar consultas traes el nombre
+
+180
+00:06:33,160 --> 00:06:34,560
+y la ciudad desde Clientes.
+
+181
+00:06:34,800 --> 00:06:36,960
+Es lo mismo que hizo la fórmula,
+
+182
+00:06:36,992 --> 00:06:38,560
+pero con una receta que actualizas con
+
+183
+00:06:38,587 --> 00:06:41,120
+un clic, aunque lleguen doce archivos.
+
+184
+00:06:41,520 --> 00:06:42,720
+Y la cuarta varita:
+
+185
+00:06:42,880 --> 00:06:43,920
+Python.
+
+186
+00:06:44,200 --> 00:06:46,960
+Con pandas son seis líneas:
+
+187
+00:06:47,013 --> 00:06:49,440
+lees todas las hojas, concatenas los
+
+188
+00:06:49,520 --> 00:06:52,400
+meses, limpias los códigos, unes con
+
+189
+00:06:52,440 --> 00:06:54,960
+los clientes, y agrupas por ciudad.
+
+190
+00:06:55,400 --> 00:06:58,400
+Mismo resultado, y el NaN es
+
+191
+00:06:58,450 --> 00:07:00,080
+nuestro cliente fantasma.
+
+192
+00:07:00,253 --> 00:07:02,720
+Ideal cuando son miles de
+
+193
+00:07:02,800 --> 00:07:03,440
+filas.
+
+194
+00:07:03,840 --> 00:07:05,760
+Ahora, las reglas del profesional.
+
+195
+00:07:05,820 --> 00:07:06,880
+Uno:
+
+196
+00:07:06,933 --> 00:07:08,000
+comprueba el total.
+
+197
+00:07:08,360 --> 00:07:10,880
+Enero sumaba cinco mil ciento noventa,
+
+198
+00:07:10,933 --> 00:07:13,600
+febrero cinco mil quinientos ochenta:
+
+199
+00:07:13,620 --> 00:07:16,000
+diez mil setecientos setenta, igual que el
+
+200
+00:07:16,060 --> 00:07:17,360
+resumen.
+
+201
+00:07:17,460 --> 00:07:17,920
+Dos:
+
+202
+00:07:18,093 --> 00:07:20,080
+revisa cada "No
+
+203
+00:07:20,160 --> 00:07:21,120
+encontrado".
+
+204
+00:07:21,600 --> 00:07:22,560
+Tres:
+
+205
+00:07:22,960 --> 00:07:25,280
+pide que te explique la fórmula.
+
+206
+00:07:25,600 --> 00:07:26,560
+Y cuatro:
+
+207
+00:07:26,853 --> 00:07:29,520
+no pegues datos confidenciales en un
+
+208
+00:07:29,600 --> 00:07:30,640
+chat público.
+
+209
+00:07:31,040 --> 00:07:32,160
+Si no te funcionó:
+
+210
+00:07:32,240 --> 00:07:35,120
+numeral nombre significa que tu Excel
+
+211
+00:07:35,200 --> 00:07:37,040
+no tiene APILARV o
+
+212
+00:07:37,100 --> 00:07:39,840
+BUSCARX; necesitas Microsoft
+
+213
+00:07:39,872 --> 00:07:41,200
+trescientos sesenta y cinco.
+
+214
+00:07:41,600 --> 00:07:43,960
+Desbordamiento:
+
+215
+00:07:44,050 --> 00:07:46,560
+hay algo estorbando debajo de A2.
+
+216
+00:07:47,160 --> 00:07:49,600
+Y si todo te sale "No encontrado",
+
+217
+00:07:49,747 --> 00:07:52,240
+revisa espacios, o códigos
+
+218
+00:07:52,280 --> 00:07:54,400
+guardados como número en una hoja y
+
+219
+00:07:54,448 --> 00:07:56,000
+como texto en la otra.
+
+220
+00:07:56,400 --> 00:07:57,200
+En resumen:
+
+221
+00:07:57,227 --> 00:07:59,440
+la varita mágica es un buen prompt,
+
+222
+00:07:59,600 --> 00:08:01,920
+con tu versión, tus datos y lo
+
+223
+00:08:01,940 --> 00:08:02,880
+que necesitas.
+
+224
+00:08:03,040 --> 00:08:06,000
+Entiende la fórmula pieza por pieza antes
+
+225
+00:08:06,027 --> 00:08:06,880
+de usarla.
+
+226
+00:08:07,040 --> 00:08:09,120
+Y verifica siempre el total y los
+
+227
+00:08:09,160 --> 00:08:10,000
+"No encontrado".
+
+228
+00:08:10,862 --> 00:08:13,520
+Si no lo aprendes ahora, te extingues.
+
+229
+00:08:13,920 --> 00:08:16,800
+Visita mi página, edwinortiz punto
+
+230
+00:08:16,900 --> 00:08:19,680
+net, y la tienda, donde
+
+231
+00:08:19,749 --> 00:08:22,320
+tienes plantillas de Excel listas para
+
+232
+00:08:22,400 --> 00:08:25,200
+usar; te dejo el enlace abajo.
+
+233
+00:08:25,440 --> 00:08:28,080
+Y en el próximo video, pongo a
+
+234
+00:08:28,160 --> 00:08:31,040
+pelear a ChatGPT contra Claude
+
+235
+00:08:31,160 --> 00:08:33,520
+con este mismo problema:
+
+236
+00:08:33,587 --> 00:08:36,321
+misma pregunta, mismos datos,
+
+237
+00:08:36,520 --> 00:08:38,320
+y probamos todo en Excel.
+
+238
+00:08:38,720 --> 00:08:40,880
+¿Cuál será más inteligente?
+
+239
+00:08:41,080 --> 00:08:43,960
+Suscríbete para no perdértelo.
+
+240
+00:08:44,533 --> 00:08:46,640
+El poder de la tecnología te va
+
+241
+00:08:46,680 --> 00:08:47,840
+a cambiar el mundo.

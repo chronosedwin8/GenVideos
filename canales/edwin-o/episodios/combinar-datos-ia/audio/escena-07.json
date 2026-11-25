@@ -1,0 +1,215 @@
+{
+  "num": "07",
+  "titulo": "Lo que responde la IA",
+  "texto": "Y esta es la fórmula que me entregó. Parece un monstruo, ¿verdad? Tranquilo. Yo la probé en Excel, y funciona. Pero un profesional no pega fórmulas que no entiende, así que vamos a desarmarla pieza por pieza. Son solo cuatro ideas.",
+  "texto_tts": "Y esta es la fórmula que me entregó. Parece un monstruo, ¿verdad? Tranquilo. Yo la probé en Excel, y funciona. Pero un profesional no pega fórmulas que no entiende, así que vamos a desarmarla pieza por pieza. Son solo cuatro ideas.",
+  "modelo": "eleven_v3",
+  "duracion": 17.36,
+  "palabras": [
+    {
+      "texto": "Y",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "esta",
+      "inicio": 0.128,
+      "fin": 0.32
+    },
+    {
+      "texto": "es",
+      "inicio": 0.347,
+      "fin": 0.4
+    },
+    {
+      "texto": "la",
+      "inicio": 0.453,
+      "fin": 0.56
+    },
+    {
+      "texto": "fórmula",
+      "inicio": 0.6,
+      "fin": 1.04
+    },
+    {
+      "texto": "que",
+      "inicio": 1.06,
+      "fin": 1.12
+    },
+    {
+      "texto": "me",
+      "inicio": 1.147,
+      "fin": 1.2
+    },
+    {
+      "texto": "entregó.",
+      "inicio": 1.257,
+      "fin": 1.84
+    },
+    {
+      "texto": "Parece",
+      "inicio": 1.952,
+      "fin": 2.48
+    },
+    {
+      "texto": "un",
+      "inicio": 2.533,
+      "fin": 2.64
+    },
+    {
+      "texto": "monstruo,",
+      "inicio": 2.709,
+      "fin": 3.28
+    },
+    {
+      "texto": "¿verdad?",
+      "inicio": 3.32,
+      "fin": 3.84
+    },
+    {
+      "texto": "Tranquilo.",
+      "inicio": 4.064,
+      "fin": 5.6
+    },
+    {
+      "texto": "Yo",
+      "inicio": 5.68,
+      "fin": 5.84
+    },
+    {
+      "texto": "la",
+      "inicio": 5.893,
+      "fin": 6.0
+    },
+    {
+      "texto": "probé",
+      "inicio": 6.048,
+      "fin": 6.32
+    },
+    {
+      "texto": "en",
+      "inicio": 6.347,
+      "fin": 6.4
+    },
+    {
+      "texto": "Excel,",
+      "inicio": 6.48,
+      "fin": 7.04
+    },
+    {
+      "texto": "y",
+      "inicio": 7.28,
+      "fin": 7.52
+    },
+    {
+      "texto": "funciona.",
+      "inicio": 7.6,
+      "fin": 8.4
+    },
+    {
+      "texto": "Pero",
+      "inicio": 8.544,
+      "fin": 9.12
+    },
+    {
+      "texto": "un",
+      "inicio": 9.173,
+      "fin": 9.28
+    },
+    {
+      "texto": "profesional",
+      "inicio": 9.333,
+      "fin": 9.92
+    },
+    {
+      "texto": "no",
+      "inicio": 9.973,
+      "fin": 10.08
+    },
+    {
+      "texto": "pega",
+      "inicio": 10.12,
+      "fin": 10.4
+    },
+    {
+      "texto": "fórmulas",
+      "inicio": 10.44,
+      "fin": 10.96
+    },
+    {
+      "texto": "que",
+      "inicio": 10.98,
+      "fin": 11.04
+    },
+    {
+      "texto": "no",
+      "inicio": 11.093,
+      "fin": 11.2
+    },
+    {
+      "texto": "entiende,",
+      "inicio": 11.26,
+      "fin": 11.92
+    },
+    {
+      "texto": "así",
+      "inicio": 12.0,
+      "fin": 12.24
+    },
+    {
+      "texto": "que",
+      "inicio": 12.26,
+      "fin": 12.32
+    },
+    {
+      "texto": "vamos",
+      "inicio": 12.373,
+      "fin": 12.64
+    },
+    {
+      "texto": "a",
+      "inicio": 12.68,
+      "fin": 12.72
+    },
+    {
+      "texto": "desarmarla",
+      "inicio": 12.76,
+      "fin": 13.68
+    },
+    {
+      "texto": "pieza",
+      "inicio": 13.8,
+      "fin": 14.32
+    },
+    {
+      "texto": "por",
+      "inicio": 14.36,
+      "fin": 14.48
+    },
+    {
+      "texto": "pieza.",
+      "inicio": 14.56,
+      "fin": 15.12
+    },
+    {
+      "texto": "Son",
+      "inicio": 15.34,
+      "fin": 16.0
+    },
+    {
+      "texto": "solo",
+      "inicio": 16.064,
+      "fin": 16.32
+    },
+    {
+      "texto": "cuatro",
+      "inicio": 16.366,
+      "fin": 16.64
+    },
+    {
+      "texto": "ideas.",
+      "inicio": 16.733,
+      "fin": 17.36
+    }
+  ]
+}

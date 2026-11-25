@@ -1,0 +1,275 @@
+{
+  "num": "12",
+  "titulo": "Tarea 5: menciona hojas con @",
+  "texto": "Tarea cinco, un truco poco conocido: puedes mencionar hojas con la arroba, como en un chat. Por ejemplo: compara arroba Gastos con arroba Presupuesto, y dime qué categoría se pasó. Así le dices exactamente dónde mirar, y la respuesta es mucho más precisa. Recuerda la regla de los prompts: entre más contexto, mejor.",
+  "texto_tts": "Tarea cinco, un truco poco conocido: puedes mencionar hojas con la arroba, como en un chat. Por ejemplo: compara arroba Gastos con arroba Presupuesto, y dime qué categoría se pasó. Así le dices exactamente dónde mirar, y la respuesta es mucho más precisa. Recuerda la regla de los prompts: entre más contexto, mejor.",
+  "modelo": "eleven_v3",
+  "duracion": 24.72,
+  "palabras": [
+    {
+      "texto": "Tarea",
+      "inicio": 0.0,
+      "fin": 0.32
+    },
+    {
+      "texto": "cinco,",
+      "inicio": 0.387,
+      "fin": 0.88
+    },
+    {
+      "texto": "un",
+      "inicio": 0.933,
+      "fin": 1.04
+    },
+    {
+      "texto": "truco",
+      "inicio": 1.093,
+      "fin": 1.44
+    },
+    {
+      "texto": "poco",
+      "inicio": 1.504,
+      "fin": 1.76
+    },
+    {
+      "texto": "conocido:",
+      "inicio": 1.827,
+      "fin": 3.04
+    },
+    {
+      "texto": "puedes",
+      "inicio": 3.086,
+      "fin": 3.36
+    },
+    {
+      "texto": "mencionar",
+      "inicio": 3.408,
+      "fin": 3.84
+    },
+    {
+      "texto": "hojas",
+      "inicio": 3.947,
+      "fin": 4.4
+    },
+    {
+      "texto": "con",
+      "inicio": 4.48,
+      "fin": 4.72
+    },
+    {
+      "texto": "la",
+      "inicio": 4.773,
+      "fin": 4.88
+    },
+    {
+      "texto": "arroba,",
+      "inicio": 4.987,
+      "fin": 5.76
+    },
+    {
+      "texto": "como",
+      "inicio": 5.808,
+      "fin": 6.0
+    },
+    {
+      "texto": "en",
+      "inicio": 6.027,
+      "fin": 6.08
+    },
+    {
+      "texto": "un",
+      "inicio": 6.133,
+      "fin": 6.24
+    },
+    {
+      "texto": "chat.",
+      "inicio": 6.336,
+      "fin": 6.88
+    },
+    {
+      "texto": "Por",
+      "inicio": 7.02,
+      "fin": 7.44
+    },
+    {
+      "texto": "ejemplo:",
+      "inicio": 7.51,
+      "fin": 8.16
+    },
+    {
+      "texto": "compara",
+      "inicio": 8.288,
+      "fin": 9.04
+    },
+    {
+      "texto": "arroba",
+      "inicio": 9.147,
+      "fin": 9.52
+    },
+    {
+      "texto": "Gastos",
+      "inicio": 9.6,
+      "fin": 10.24
+    },
+    {
+      "texto": "con",
+      "inicio": 10.32,
+      "fin": 10.56
+    },
+    {
+      "texto": "arroba",
+      "inicio": 10.613,
+      "fin": 10.88
+    },
+    {
+      "texto": "Presupuesto,",
+      "inicio": 10.944,
+      "fin": 12.16
+    },
+    {
+      "texto": "y",
+      "inicio": 12.2,
+      "fin": 12.24
+    },
+    {
+      "texto": "dime",
+      "inicio": 12.304,
+      "fin": 12.56
+    },
+    {
+      "texto": "qué",
+      "inicio": 12.6,
+      "fin": 12.72
+    },
+    {
+      "texto": "categoría",
+      "inicio": 12.79,
+      "fin": 13.36
+    },
+    {
+      "texto": "se",
+      "inicio": 13.413,
+      "fin": 13.52
+    },
+    {
+      "texto": "pasó.",
+      "inicio": 13.6,
+      "fin": 14.08
+    },
+    {
+      "texto": "Así",
+      "inicio": 14.373,
+      "fin": 15.04
+    },
+    {
+      "texto": "le",
+      "inicio": 15.067,
+      "fin": 15.12
+    },
+    {
+      "texto": "dices",
+      "inicio": 15.16,
+      "fin": 15.52
+    },
+    {
+      "texto": "exactamente",
+      "inicio": 15.627,
+      "fin": 16.56
+    },
+    {
+      "texto": "dónde",
+      "inicio": 16.64,
+      "fin": 16.96
+    },
+    {
+      "texto": "mirar,",
+      "inicio": 17.02,
+      "fin": 17.76
+    },
+    {
+      "texto": "y",
+      "inicio": 17.8,
+      "fin": 17.84
+    },
+    {
+      "texto": "la",
+      "inicio": 17.867,
+      "fin": 17.92
+    },
+    {
+      "texto": "respuesta",
+      "inicio": 17.976,
+      "fin": 18.48
+    },
+    {
+      "texto": "es",
+      "inicio": 18.533,
+      "fin": 18.64
+    },
+    {
+      "texto": "mucho",
+      "inicio": 18.693,
+      "fin": 18.96
+    },
+    {
+      "texto": "más",
+      "inicio": 19.0,
+      "fin": 19.12
+    },
+    {
+      "texto": "precisa.",
+      "inicio": 19.19,
+      "fin": 19.84
+    },
+    {
+      "texto": "Recuerda",
+      "inicio": 20.08,
+      "fin": 21.04
+    },
+    {
+      "texto": "la",
+      "inicio": 21.067,
+      "fin": 21.12
+    },
+    {
+      "texto": "regla",
+      "inicio": 21.18,
+      "fin": 21.44
+    },
+    {
+      "texto": "de",
+      "inicio": 21.467,
+      "fin": 21.52
+    },
+    {
+      "texto": "los",
+      "inicio": 21.56,
+      "fin": 21.68
+    },
+    {
+      "texto": "prompts:",
+      "inicio": 21.75,
+      "fin": 22.32
+    },
+    {
+      "texto": "entre",
+      "inicio": 22.4,
+      "fin": 22.8
+    },
+    {
+      "texto": "más",
+      "inicio": 22.86,
+      "fin": 23.04
+    },
+    {
+      "texto": "contexto,",
+      "inicio": 23.129,
+      "fin": 24.16
+    },
+    {
+      "texto": "mejor.",
+      "inicio": 24.227,
+      "fin": 24.72
+    }
+  ]
+}

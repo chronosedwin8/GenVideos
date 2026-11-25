@@ -1,0 +1,225 @@
+{
+  "num": "17",
+  "titulo": "Varita 4: Python",
+  "texto": "Y la cuarta varita: Python. Con pandas son seis líneas: lees todas las hojas, concatenas los meses, limpias los códigos, unes con los clientes, y agrupas por ciudad. Mismo resultado, y el NaN es nuestro cliente fantasma. Ideal cuando son miles de filas.",
+  "texto_tts": "Y la cuarta varita: Python. Con pandas son seis líneas: lees todas las hojas, concatenas los meses, limpias los códigos, unes con los clientes, y agrupas por ciudad. Mismo resultado, y el NaN es nuestro cliente fantasma. Ideal cuando son miles de filas.",
+  "modelo": "eleven_v3",
+  "duracion": 21.92,
+  "palabras": [
+    {
+      "texto": "Y",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "la",
+      "inicio": 0.107,
+      "fin": 0.16
+    },
+    {
+      "texto": "cuarta",
+      "inicio": 0.24,
+      "fin": 0.64
+    },
+    {
+      "texto": "varita:",
+      "inicio": 0.68,
+      "fin": 1.2
+    },
+    {
+      "texto": "Python.",
+      "inicio": 1.36,
+      "fin": 2.4
+    },
+    {
+      "texto": "Con",
+      "inicio": 2.68,
+      "fin": 3.52
+    },
+    {
+      "texto": "pandas",
+      "inicio": 3.589,
+      "fin": 4.0
+    },
+    {
+      "texto": "son",
+      "inicio": 4.06,
+      "fin": 4.24
+    },
+    {
+      "texto": "seis",
+      "inicio": 4.288,
+      "fin": 4.48
+    },
+    {
+      "texto": "líneas:",
+      "inicio": 4.533,
+      "fin": 5.44
+    },
+    {
+      "texto": "lees",
+      "inicio": 5.493,
+      "fin": 5.76
+    },
+    {
+      "texto": "todas",
+      "inicio": 5.813,
+      "fin": 6.08
+    },
+    {
+      "texto": "las",
+      "inicio": 6.12,
+      "fin": 6.24
+    },
+    {
+      "texto": "hojas,",
+      "inicio": 6.293,
+      "fin": 7.04
+    },
+    {
+      "texto": "concatenas",
+      "inicio": 7.111,
+      "fin": 7.76
+    },
+    {
+      "texto": "los",
+      "inicio": 7.8,
+      "fin": 7.92
+    },
+    {
+      "texto": "meses,",
+      "inicio": 8.0,
+      "fin": 8.8
+    },
+    {
+      "texto": "limpias",
+      "inicio": 8.86,
+      "fin": 9.28
+    },
+    {
+      "texto": "los",
+      "inicio": 9.3,
+      "fin": 9.36
+    },
+    {
+      "texto": "códigos,",
+      "inicio": 9.48,
+      "fin": 10.4
+    },
+    {
+      "texto": "unes",
+      "inicio": 10.48,
+      "fin": 10.72
+    },
+    {
+      "texto": "con",
+      "inicio": 10.76,
+      "fin": 10.88
+    },
+    {
+      "texto": "los",
+      "inicio": 10.92,
+      "fin": 11.04
+    },
+    {
+      "texto": "clientes,",
+      "inicio": 11.111,
+      "fin": 11.92
+    },
+    {
+      "texto": "y",
+      "inicio": 12.04,
+      "fin": 12.16
+    },
+    {
+      "texto": "agrupas",
+      "inicio": 12.22,
+      "fin": 12.64
+    },
+    {
+      "texto": "por",
+      "inicio": 12.68,
+      "fin": 12.8
+    },
+    {
+      "texto": "ciudad.",
+      "inicio": 12.88,
+      "fin": 13.44
+    },
+    {
+      "texto": "Mismo",
+      "inicio": 13.88,
+      "fin": 14.56
+    },
+    {
+      "texto": "resultado,",
+      "inicio": 14.632,
+      "fin": 15.76
+    },
+    {
+      "texto": "y",
+      "inicio": 15.8,
+      "fin": 15.84
+    },
+    {
+      "texto": "el",
+      "inicio": 15.893,
+      "fin": 16.0
+    },
+    {
+      "texto": "NaN",
+      "inicio": 16.12,
+      "fin": 16.48
+    },
+    {
+      "texto": "es",
+      "inicio": 16.613,
+      "fin": 16.88
+    },
+    {
+      "texto": "nuestro",
+      "inicio": 16.93,
+      "fin": 17.28
+    },
+    {
+      "texto": "cliente",
+      "inicio": 17.34,
+      "fin": 17.76
+    },
+    {
+      "texto": "fantasma.",
+      "inicio": 17.824,
+      "fin": 18.56
+    },
+    {
+      "texto": "Ideal",
+      "inicio": 18.733,
+      "fin": 19.6
+    },
+    {
+      "texto": "cuando",
+      "inicio": 19.691,
+      "fin": 20.24
+    },
+    {
+      "texto": "son",
+      "inicio": 20.3,
+      "fin": 20.48
+    },
+    {
+      "texto": "miles",
+      "inicio": 20.587,
+      "fin": 21.12
+    },
+    {
+      "texto": "de",
+      "inicio": 21.147,
+      "fin": 21.2
+    },
+    {
+      "texto": "filas.",
+      "inicio": 21.28,
+      "fin": 21.92
+    }
+  ]
+}

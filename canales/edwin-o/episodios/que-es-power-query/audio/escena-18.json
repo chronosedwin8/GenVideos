@@ -1,0 +1,345 @@
+{
+  "num": "18",
+  "titulo": "¿Power Query o fórmulas?",
+  "texto": "Una pregunta que siempre me hacen: ¿entonces ya no uso fórmulas? Claro que sí. Las fórmulas son para calcular: sumas, búsquedas, porcentajes, y se actualizan apenas escribes. Power Query es para preparar los datos antes: limpiar, separar, unir y repetir esa receta cada semana, aunque sean miles de filas. Lo ideal es usar los dos: Power Query deja los datos limpios, y las fórmulas hacen los cálculos.",
+  "texto_tts": "Una pregunta que siempre me hacen: ¿entonces ya no uso fórmulas? Claro que sí. Las fórmulas son para calcular: sumas, búsquedas, porcentajes, y se actualizan apenas escribes. Power Query es para preparar los datos antes: limpiar, separar, unir y repetir esa receta cada semana, aunque sean miles de filas. Lo ideal es usar los dos: Power Query deja los datos limpios, y las fórmulas hacen los cálculos.",
+  "modelo": "eleven_v3",
+  "duracion": 32.4,
+  "palabras": [
+    {
+      "texto": "Una",
+      "inicio": 0.0,
+      "fin": 0.16
+    },
+    {
+      "texto": "pregunta",
+      "inicio": 0.204,
+      "fin": 0.56
+    },
+    {
+      "texto": "que",
+      "inicio": 0.6,
+      "fin": 0.72
+    },
+    {
+      "texto": "siempre",
+      "inicio": 0.76,
+      "fin": 1.04
+    },
+    {
+      "texto": "me",
+      "inicio": 1.093,
+      "fin": 1.2
+    },
+    {
+      "texto": "hacen:",
+      "inicio": 1.267,
+      "fin": 1.68
+    },
+    {
+      "texto": "¿entonces",
+      "inicio": 1.76,
+      "fin": 2.24
+    },
+    {
+      "texto": "ya",
+      "inicio": 2.293,
+      "fin": 2.4
+    },
+    {
+      "texto": "no",
+      "inicio": 2.427,
+      "fin": 2.48
+    },
+    {
+      "texto": "uso",
+      "inicio": 2.54,
+      "fin": 2.72
+    },
+    {
+      "texto": "fórmulas?",
+      "inicio": 2.8,
+      "fin": 3.52
+    },
+    {
+      "texto": "Claro",
+      "inicio": 3.707,
+      "fin": 4.24
+    },
+    {
+      "texto": "que",
+      "inicio": 4.26,
+      "fin": 4.32
+    },
+    {
+      "texto": "sí.",
+      "inicio": 4.427,
+      "fin": 4.72
+    },
+    {
+      "texto": "Las",
+      "inicio": 4.9,
+      "fin": 5.44
+    },
+    {
+      "texto": "fórmulas",
+      "inicio": 5.48,
+      "fin": 6.0
+    },
+    {
+      "texto": "son",
+      "inicio": 6.04,
+      "fin": 6.16
+    },
+    {
+      "texto": "para",
+      "inicio": 6.208,
+      "fin": 6.4
+    },
+    {
+      "texto": "calcular:",
+      "inicio": 6.462,
+      "fin": 7.68
+    },
+    {
+      "texto": "sumas,",
+      "inicio": 7.76,
+      "fin": 8.56
+    },
+    {
+      "texto": "búsquedas,",
+      "inicio": 8.64,
+      "fin": 9.36
+    },
+    {
+      "texto": "porcentajes,",
+      "inicio": 9.42,
+      "fin": 10.8
+    },
+    {
+      "texto": "y",
+      "inicio": 10.84,
+      "fin": 10.88
+    },
+    {
+      "texto": "se",
+      "inicio": 10.933,
+      "fin": 11.04
+    },
+    {
+      "texto": "actualizan",
+      "inicio": 11.086,
+      "fin": 11.68
+    },
+    {
+      "texto": "apenas",
+      "inicio": 11.76,
+      "fin": 12.24
+    },
+    {
+      "texto": "escribes.",
+      "inicio": 12.293,
+      "fin": 13.04
+    },
+    {
+      "texto": "Power",
+      "inicio": 13.213,
+      "fin": 14.08
+    },
+    {
+      "texto": "Query",
+      "inicio": 14.16,
+      "fin": 14.56
+    },
+    {
+      "texto": "es",
+      "inicio": 14.613,
+      "fin": 14.72
+    },
+    {
+      "texto": "para",
+      "inicio": 14.768,
+      "fin": 14.96
+    },
+    {
+      "texto": "preparar",
+      "inicio": 15.006,
+      "fin": 15.44
+    },
+    {
+      "texto": "los",
+      "inicio": 15.48,
+      "fin": 15.6
+    },
+    {
+      "texto": "datos",
+      "inicio": 15.667,
+      "fin": 16.0
+    },
+    {
+      "texto": "antes:",
+      "inicio": 16.12,
+      "fin": 17.28
+    },
+    {
+      "texto": "limpiar,",
+      "inicio": 17.36,
+      "fin": 18.16
+    },
+    {
+      "texto": "separar,",
+      "inicio": 18.227,
+      "fin": 18.96
+    },
+    {
+      "texto": "unir",
+      "inicio": 19.04,
+      "fin": 19.6
+    },
+    {
+      "texto": "y",
+      "inicio": 19.76,
+      "fin": 19.92
+    },
+    {
+      "texto": "repetir",
+      "inicio": 19.987,
+      "fin": 20.4
+    },
+    {
+      "texto": "esa",
+      "inicio": 20.46,
+      "fin": 20.64
+    },
+    {
+      "texto": "receta",
+      "inicio": 20.7,
+      "fin": 21.04
+    },
+    {
+      "texto": "cada",
+      "inicio": 21.104,
+      "fin": 21.36
+    },
+    {
+      "texto": "semana,",
+      "inicio": 21.417,
+      "fin": 22.32
+    },
+    {
+      "texto": "aunque",
+      "inicio": 22.366,
+      "fin": 22.64
+    },
+    {
+      "texto": "sean",
+      "inicio": 22.704,
+      "fin": 22.96
+    },
+    {
+      "texto": "miles",
+      "inicio": 23.04,
+      "fin": 23.44
+    },
+    {
+      "texto": "de",
+      "inicio": 23.493,
+      "fin": 23.6
+    },
+    {
+      "texto": "filas.",
+      "inicio": 23.66,
+      "fin": 24.24
+    },
+    {
+      "texto": "Lo",
+      "inicio": 24.56,
+      "fin": 25.2
+    },
+    {
+      "texto": "ideal",
+      "inicio": 25.267,
+      "fin": 25.6
+    },
+    {
+      "texto": "es",
+      "inicio": 25.707,
+      "fin": 25.92
+    },
+    {
+      "texto": "usar",
+      "inicio": 25.984,
+      "fin": 26.24
+    },
+    {
+      "texto": "los",
+      "inicio": 26.28,
+      "fin": 26.4
+    },
+    {
+      "texto": "dos:",
+      "inicio": 26.48,
+      "fin": 27.36
+    },
+    {
+      "texto": "Power",
+      "inicio": 27.427,
+      "fin": 27.76
+    },
+    {
+      "texto": "Query",
+      "inicio": 27.853,
+      "fin": 28.32
+    },
+    {
+      "texto": "deja",
+      "inicio": 28.384,
+      "fin": 28.64
+    },
+    {
+      "texto": "los",
+      "inicio": 28.66,
+      "fin": 28.72
+    },
+    {
+      "texto": "datos",
+      "inicio": 28.773,
+      "fin": 29.04
+    },
+    {
+      "texto": "limpios,",
+      "inicio": 29.12,
+      "fin": 30.16
+    },
+    {
+      "texto": "y",
+      "inicio": 30.2,
+      "fin": 30.24
+    },
+    {
+      "texto": "las",
+      "inicio": 30.28,
+      "fin": 30.4
+    },
+    {
+      "texto": "fórmulas",
+      "inicio": 30.48,
+      "fin": 31.04
+    },
+    {
+      "texto": "hacen",
+      "inicio": 31.107,
+      "fin": 31.44
+    },
+    {
+      "texto": "los",
+      "inicio": 31.48,
+      "fin": 31.6
+    },
+    {
+      "texto": "cálculos.",
+      "inicio": 31.64,
+      "fin": 32.4
+    }
+  ]
+}

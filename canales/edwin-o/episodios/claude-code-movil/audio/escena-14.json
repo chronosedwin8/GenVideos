@@ -1,0 +1,240 @@
+{
+  "num": "14",
+  "titulo": "Notificaciones",
+  "texto": "Un truco: en el computador escribe barra config y activa las notificaciones. Así, cuando Claude necesite tu aprobación o termine una tarea larga, te llega un aviso al celular. Le dejas un trabajo pesado, sigues con tu día, y cuando suena el teléfono, revisas y apruebas.",
+  "texto_tts": "Un truco: en el computador escribe barra config y activa las notificaciones. Así, cuando Claude necesite tu aprobación o termine una tarea larga, te llega un aviso al celular. Le dejas un trabajo pesado, sigues con tu día, y cuando suena el teléfono, revisas y apruebas.",
+  "modelo": "eleven_v3",
+  "duracion": 18.56,
+  "palabras": [
+    {
+      "texto": "Un",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "truco:",
+      "inicio": 0.133,
+      "fin": 0.64
+    },
+    {
+      "texto": "en",
+      "inicio": 0.747,
+      "fin": 0.96
+    },
+    {
+      "texto": "el",
+      "inicio": 0.987,
+      "fin": 1.04
+    },
+    {
+      "texto": "computador",
+      "inicio": 1.109,
+      "fin": 1.76
+    },
+    {
+      "texto": "escribe",
+      "inicio": 1.813,
+      "fin": 2.24
+    },
+    {
+      "texto": "barra",
+      "inicio": 2.32,
+      "fin": 2.64
+    },
+    {
+      "texto": "config",
+      "inicio": 2.743,
+      "fin": 3.36
+    },
+    {
+      "texto": "y",
+      "inicio": 3.56,
+      "fin": 3.76
+    },
+    {
+      "texto": "activa",
+      "inicio": 3.827,
+      "fin": 4.24
+    },
+    {
+      "texto": "las",
+      "inicio": 4.26,
+      "fin": 4.32
+    },
+    {
+      "texto": "notificaciones.",
+      "inicio": 4.38,
+      "fin": 5.44
+    },
+    {
+      "texto": "Así,",
+      "inicio": 5.653,
+      "fin": 6.32
+    },
+    {
+      "texto": "cuando",
+      "inicio": 6.366,
+      "fin": 6.64
+    },
+    {
+      "texto": "Claude",
+      "inicio": 6.697,
+      "fin": 7.04
+    },
+    {
+      "texto": "necesite",
+      "inicio": 7.093,
+      "fin": 7.6
+    },
+    {
+      "texto": "tu",
+      "inicio": 7.627,
+      "fin": 7.68
+    },
+    {
+      "texto": "aprobación",
+      "inicio": 7.72,
+      "fin": 8.4
+    },
+    {
+      "texto": "o",
+      "inicio": 8.52,
+      "fin": 8.64
+    },
+    {
+      "texto": "termine",
+      "inicio": 8.688,
+      "fin": 9.04
+    },
+    {
+      "texto": "una",
+      "inicio": 9.08,
+      "fin": 9.2
+    },
+    {
+      "texto": "tarea",
+      "inicio": 9.253,
+      "fin": 9.52
+    },
+    {
+      "texto": "larga,",
+      "inicio": 9.584,
+      "fin": 10.32
+    },
+    {
+      "texto": "te",
+      "inicio": 10.373,
+      "fin": 10.48
+    },
+    {
+      "texto": "llega",
+      "inicio": 10.512,
+      "fin": 10.72
+    },
+    {
+      "texto": "un",
+      "inicio": 10.747,
+      "fin": 10.8
+    },
+    {
+      "texto": "aviso",
+      "inicio": 10.827,
+      "fin": 11.12
+    },
+    {
+      "texto": "al",
+      "inicio": 11.147,
+      "fin": 11.2
+    },
+    {
+      "texto": "celular.",
+      "inicio": 11.26,
+      "fin": 11.76
+    },
+    {
+      "texto": "Le",
+      "inicio": 12.027,
+      "fin": 12.56
+    },
+    {
+      "texto": "dejas",
+      "inicio": 12.613,
+      "fin": 12.88
+    },
+    {
+      "texto": "un",
+      "inicio": 12.933,
+      "fin": 13.04
+    },
+    {
+      "texto": "trabajo",
+      "inicio": 13.09,
+      "fin": 13.44
+    },
+    {
+      "texto": "pesado,",
+      "inicio": 13.5,
+      "fin": 14.4
+    },
+    {
+      "texto": "sigues",
+      "inicio": 14.44,
+      "fin": 14.72
+    },
+    {
+      "texto": "con",
+      "inicio": 14.76,
+      "fin": 14.88
+    },
+    {
+      "texto": "tu",
+      "inicio": 14.933,
+      "fin": 15.04
+    },
+    {
+      "texto": "día,",
+      "inicio": 15.12,
+      "fin": 15.52
+    },
+    {
+      "texto": "y",
+      "inicio": 15.56,
+      "fin": 15.6
+    },
+    {
+      "texto": "cuando",
+      "inicio": 15.646,
+      "fin": 15.92
+    },
+    {
+      "texto": "suena",
+      "inicio": 15.973,
+      "fin": 16.16
+    },
+    {
+      "texto": "el",
+      "inicio": 16.213,
+      "fin": 16.32
+    },
+    {
+      "texto": "teléfono,",
+      "inicio": 16.34,
+      "fin": 17.04
+    },
+    {
+      "texto": "revisas",
+      "inicio": 17.107,
+      "fin": 17.68
+    },
+    {
+      "texto": "y",
+      "inicio": 17.76,
+      "fin": 17.84
+    },
+    {
+      "texto": "apruebas.",
+      "inicio": 17.9,
+      "fin": 18.56
+    }
+  ]
+}

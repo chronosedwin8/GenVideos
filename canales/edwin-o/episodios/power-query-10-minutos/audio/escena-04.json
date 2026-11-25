@@ -1,0 +1,250 @@
+{
+  "num": "04",
+  "titulo": "El aporte de Edwin",
+  "texto": "En las empresas donde doy capacitaciones, el formato que más encuentro es este: un vendedor por fila y un mes por columna. Se ve bonito para imprimir, pero es el peor formato para analizar. No puedes filtrar por mes, ni hacer una tabla dinámica decente. Hoy lo arreglamos.",
+  "texto_tts": "En las empresas donde doy capacitaciones, el formato que más encuentro es este: un vendedor por fila y un mes por columna. Se ve bonito para imprimir, pero es el peor formato para analizar. No puedes filtrar por mes, ni hacer una tabla dinámica decente. Hoy lo arreglamos.",
+  "modelo": "eleven_v3",
+  "duracion": 15.44,
+  "palabras": [
+    {
+      "texto": "En",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "las",
+      "inicio": 0.12,
+      "fin": 0.24
+    },
+    {
+      "texto": "empresas",
+      "inicio": 0.284,
+      "fin": 0.64
+    },
+    {
+      "texto": "donde",
+      "inicio": 0.68,
+      "fin": 0.88
+    },
+    {
+      "texto": "doy",
+      "inicio": 0.933,
+      "fin": 1.28
+    },
+    {
+      "texto": "capacitaciones,",
+      "inicio": 1.31,
+      "fin": 2.0
+    },
+    {
+      "texto": "el",
+      "inicio": 2.053,
+      "fin": 2.16
+    },
+    {
+      "texto": "formato",
+      "inicio": 2.21,
+      "fin": 2.56
+    },
+    {
+      "texto": "que",
+      "inicio": 2.6,
+      "fin": 2.72
+    },
+    {
+      "texto": "más",
+      "inicio": 2.76,
+      "fin": 2.88
+    },
+    {
+      "texto": "encuentro",
+      "inicio": 2.93,
+      "fin": 3.36
+    },
+    {
+      "texto": "es",
+      "inicio": 3.387,
+      "fin": 3.44
+    },
+    {
+      "texto": "este:",
+      "inicio": 3.504,
+      "fin": 3.84
+    },
+    {
+      "texto": "un",
+      "inicio": 4.053,
+      "fin": 4.48
+    },
+    {
+      "texto": "vendedor",
+      "inicio": 4.52,
+      "fin": 4.88
+    },
+    {
+      "texto": "por",
+      "inicio": 4.92,
+      "fin": 5.04
+    },
+    {
+      "texto": "fila",
+      "inicio": 5.136,
+      "fin": 5.52
+    },
+    {
+      "texto": "y",
+      "inicio": 5.6,
+      "fin": 5.68
+    },
+    {
+      "texto": "un",
+      "inicio": 5.733,
+      "fin": 5.84
+    },
+    {
+      "texto": "mes",
+      "inicio": 5.9,
+      "fin": 6.08
+    },
+    {
+      "texto": "por",
+      "inicio": 6.1,
+      "fin": 6.16
+    },
+    {
+      "texto": "columna.",
+      "inicio": 6.23,
+      "fin": 6.8
+    },
+    {
+      "texto": "Se",
+      "inicio": 6.907,
+      "fin": 7.12
+    },
+    {
+      "texto": "ve",
+      "inicio": 7.173,
+      "fin": 7.28
+    },
+    {
+      "texto": "bonito",
+      "inicio": 7.32,
+      "fin": 7.68
+    },
+    {
+      "texto": "para",
+      "inicio": 7.712,
+      "fin": 7.84
+    },
+    {
+      "texto": "imprimir,",
+      "inicio": 7.893,
+      "fin": 8.4
+    },
+    {
+      "texto": "pero",
+      "inicio": 8.432,
+      "fin": 8.56
+    },
+    {
+      "texto": "es",
+      "inicio": 8.587,
+      "fin": 8.64
+    },
+    {
+      "texto": "el",
+      "inicio": 8.667,
+      "fin": 8.72
+    },
+    {
+      "texto": "peor",
+      "inicio": 8.8,
+      "fin": 9.24
+    },
+    {
+      "texto": "formato",
+      "inicio": 9.275,
+      "fin": 9.52
+    },
+    {
+      "texto": "para",
+      "inicio": 9.552,
+      "fin": 9.68
+    },
+    {
+      "texto": "analizar.",
+      "inicio": 9.712,
+      "fin": 10.32
+    },
+    {
+      "texto": "No",
+      "inicio": 10.533,
+      "fin": 10.96
+    },
+    {
+      "texto": "puedes",
+      "inicio": 10.983,
+      "fin": 11.12
+    },
+    {
+      "texto": "filtrar",
+      "inicio": 11.173,
+      "fin": 11.52
+    },
+    {
+      "texto": "por",
+      "inicio": 11.58,
+      "fin": 11.76
+    },
+    {
+      "texto": "mes,",
+      "inicio": 11.84,
+      "fin": 12.16
+    },
+    {
+      "texto": "ni",
+      "inicio": 12.213,
+      "fin": 12.32
+    },
+    {
+      "texto": "hacer",
+      "inicio": 12.36,
+      "fin": 12.56
+    },
+    {
+      "texto": "una",
+      "inicio": 12.6,
+      "fin": 12.72
+    },
+    {
+      "texto": "tabla",
+      "inicio": 12.773,
+      "fin": 13.04
+    },
+    {
+      "texto": "dinámica",
+      "inicio": 13.08,
+      "fin": 13.52
+    },
+    {
+      "texto": "decente.",
+      "inicio": 13.589,
+      "fin": 14.16
+    },
+    {
+      "texto": "Hoy",
+      "inicio": 14.26,
+      "fin": 14.56
+    },
+    {
+      "texto": "lo",
+      "inicio": 14.613,
+      "fin": 14.72
+    },
+    {
+      "texto": "arreglamos.",
+      "inicio": 14.747,
+      "fin": 15.44
+    }
+  ]
+}

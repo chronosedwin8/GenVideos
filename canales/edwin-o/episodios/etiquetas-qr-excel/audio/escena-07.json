@@ -1,0 +1,315 @@
+{
+  "num": "07",
+  "titulo": "Paso 1: tu primer QR",
+  "texto": "Paso uno: tu primer código QR. En la celda F2 escribe igual, IMAGEN, abre paréntesis, y entre comillas la dirección del servicio de códigos QR que te dejo en la descripción. Termina en data igual. Cierra comillas, y con el ampersand le pegas el código de la celda A2. Cierra paréntesis, Enter… ¡Y ahí está tu QR, dentro de la celda!",
+  "texto_tts": "Paso uno: tu primer código QR. En la celda F2 escribe igual, IMAGEN, abre paréntesis, y entre comillas la dirección del servicio de códigos QR que te dejo en la descripción. Termina en data igual. Cierra comillas, y con el ampersand le pegas el código de la celda A2. Cierra paréntesis, Enter… [excited] ¡Y ahí está tu QR, dentro de la celda!",
+  "modelo": "eleven_v3",
+  "duracion": 32.16,
+  "palabras": [
+    {
+      "texto": "Paso",
+      "inicio": 0.0,
+      "fin": 0.32
+    },
+    {
+      "texto": "uno:",
+      "inicio": 0.4,
+      "fin": 0.72
+    },
+    {
+      "texto": "tu",
+      "inicio": 0.933,
+      "fin": 1.36
+    },
+    {
+      "texto": "primer",
+      "inicio": 1.417,
+      "fin": 1.76
+    },
+    {
+      "texto": "código",
+      "inicio": 1.84,
+      "fin": 2.32
+    },
+    {
+      "texto": "QR.",
+      "inicio": 2.533,
+      "fin": 3.04
+    },
+    {
+      "texto": "En",
+      "inicio": 3.387,
+      "fin": 4.08
+    },
+    {
+      "texto": "la",
+      "inicio": 4.107,
+      "fin": 4.16
+    },
+    {
+      "texto": "celda",
+      "inicio": 4.24,
+      "fin": 4.64
+    },
+    {
+      "texto": "F2",
+      "inicio": 4.92,
+      "fin": 5.52
+    },
+    {
+      "texto": "escribe",
+      "inicio": 5.707,
+      "fin": 6.48
+    },
+    {
+      "texto": "igual,",
+      "inicio": 6.6,
+      "fin": 7.28
+    },
+    {
+      "texto": "IMAGEN,",
+      "inicio": 7.467,
+      "fin": 8.32
+    },
+    {
+      "texto": "abre",
+      "inicio": 8.512,
+      "fin": 9.28
+    },
+    {
+      "texto": "paréntesis,",
+      "inicio": 9.32,
+      "fin": 10.16
+    },
+    {
+      "texto": "y",
+      "inicio": 10.28,
+      "fin": 10.4
+    },
+    {
+      "texto": "entre",
+      "inicio": 10.453,
+      "fin": 10.72
+    },
+    {
+      "texto": "comillas",
+      "inicio": 10.76,
+      "fin": 11.36
+    },
+    {
+      "texto": "la",
+      "inicio": 11.547,
+      "fin": 11.92
+    },
+    {
+      "texto": "dirección",
+      "inicio": 11.976,
+      "fin": 12.48
+    },
+    {
+      "texto": "del",
+      "inicio": 12.54,
+      "fin": 12.72
+    },
+    {
+      "texto": "servicio",
+      "inicio": 12.782,
+      "fin": 13.28
+    },
+    {
+      "texto": "de",
+      "inicio": 13.307,
+      "fin": 13.36
+    },
+    {
+      "texto": "códigos",
+      "inicio": 13.44,
+      "fin": 13.92
+    },
+    {
+      "texto": "QR",
+      "inicio": 14.08,
+      "fin": 14.4
+    },
+    {
+      "texto": "que",
+      "inicio": 14.5,
+      "fin": 14.8
+    },
+    {
+      "texto": "te",
+      "inicio": 14.827,
+      "fin": 14.88
+    },
+    {
+      "texto": "dejo",
+      "inicio": 14.96,
+      "fin": 15.2
+    },
+    {
+      "texto": "en",
+      "inicio": 15.227,
+      "fin": 15.28
+    },
+    {
+      "texto": "la",
+      "inicio": 15.307,
+      "fin": 15.36
+    },
+    {
+      "texto": "descripción.",
+      "inicio": 15.417,
+      "fin": 16.32
+    },
+    {
+      "texto": "Termina",
+      "inicio": 16.457,
+      "fin": 17.36
+    },
+    {
+      "texto": "en",
+      "inicio": 17.493,
+      "fin": 17.76
+    },
+    {
+      "texto": "data",
+      "inicio": 17.856,
+      "fin": 18.24
+    },
+    {
+      "texto": "igual.",
+      "inicio": 18.347,
+      "fin": 19.12
+    },
+    {
+      "texto": "Cierra",
+      "inicio": 19.413,
+      "fin": 20.16
+    },
+    {
+      "texto": "comillas,",
+      "inicio": 20.22,
+      "fin": 21.04
+    },
+    {
+      "texto": "y",
+      "inicio": 21.08,
+      "fin": 21.12
+    },
+    {
+      "texto": "con",
+      "inicio": 21.16,
+      "fin": 21.28
+    },
+    {
+      "texto": "el",
+      "inicio": 21.333,
+      "fin": 21.44
+    },
+    {
+      "texto": "ampersand",
+      "inicio": 21.5,
+      "fin": 22.16
+    },
+    {
+      "texto": "le",
+      "inicio": 22.267,
+      "fin": 22.48
+    },
+    {
+      "texto": "pegas",
+      "inicio": 22.52,
+      "fin": 22.88
+    },
+    {
+      "texto": "el",
+      "inicio": 22.907,
+      "fin": 22.96
+    },
+    {
+      "texto": "código",
+      "inicio": 23.04,
+      "fin": 23.52
+    },
+    {
+      "texto": "de",
+      "inicio": 23.6,
+      "fin": 23.76
+    },
+    {
+      "texto": "la",
+      "inicio": 23.787,
+      "fin": 23.84
+    },
+    {
+      "texto": "celda",
+      "inicio": 23.92,
+      "fin": 24.32
+    },
+    {
+      "texto": "A2.",
+      "inicio": 24.6,
+      "fin": 25.52
+    },
+    {
+      "texto": "Cierra",
+      "inicio": 25.733,
+      "fin": 26.32
+    },
+    {
+      "texto": "paréntesis,",
+      "inicio": 26.36,
+      "fin": 27.68
+    },
+    {
+      "texto": "Enter…",
+      "inicio": 27.787,
+      "fin": 29.04
+    },
+    {
+      "texto": "¡Y",
+      "inicio": 29.1,
+      "fin": 29.12
+    },
+    {
+      "texto": "ahí",
+      "inicio": 29.173,
+      "fin": 29.44
+    },
+    {
+      "texto": "está",
+      "inicio": 29.472,
+      "fin": 29.6
+    },
+    {
+      "texto": "tu",
+      "inicio": 29.68,
+      "fin": 29.84
+    },
+    {
+      "texto": "QR,",
+      "inicio": 30.027,
+      "fin": 30.8
+    },
+    {
+      "texto": "dentro",
+      "inicio": 30.857,
+      "fin": 31.2
+    },
+    {
+      "texto": "de",
+      "inicio": 31.227,
+      "fin": 31.28
+    },
+    {
+      "texto": "la",
+      "inicio": 31.307,
+      "fin": 31.36
+    },
+    {
+      "texto": "celda!",
+      "inicio": 31.44,
+      "fin": 32.16
+    }
+  ]
+}

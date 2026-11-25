@@ -1,0 +1,280 @@
+{
+  "num": "04",
+  "titulo": "El aporte de Edwin",
+  "texto": "Te cuento algo: este mismo canal lo produzco con Claude Code. Los guiones, la voz y la animación salen de un proyecto en mi computador. Y muchas veces reviso cómo va un video desde el celular, mientras hago otra cosa. Por eso te lo quiero enseñar: es de esas herramientas que te devuelven horas.",
+  "texto_tts": "Te cuento algo: este mismo canal lo produzco con Claude Code. Los guiones, la voz y la animación salen de un proyecto en mi computador. Y muchas veces reviso cómo va un video desde el celular, mientras hago otra cosa. Por eso te lo quiero enseñar: es de esas herramientas que te devuelven horas.",
+  "modelo": "eleven_v3",
+  "duracion": 22.64,
+  "palabras": [
+    {
+      "texto": "Te",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "cuento",
+      "inicio": 0.133,
+      "fin": 0.48
+    },
+    {
+      "texto": "algo:",
+      "inicio": 0.544,
+      "fin": 0.88
+    },
+    {
+      "texto": "este",
+      "inicio": 0.976,
+      "fin": 1.36
+    },
+    {
+      "texto": "mismo",
+      "inicio": 1.413,
+      "fin": 1.68
+    },
+    {
+      "texto": "canal",
+      "inicio": 1.8,
+      "fin": 2.4
+    },
+    {
+      "texto": "lo",
+      "inicio": 2.507,
+      "fin": 2.72
+    },
+    {
+      "texto": "produzco",
+      "inicio": 2.773,
+      "fin": 3.2
+    },
+    {
+      "texto": "con",
+      "inicio": 3.26,
+      "fin": 3.44
+    },
+    {
+      "texto": "Claude",
+      "inicio": 3.509,
+      "fin": 3.92
+    },
+    {
+      "texto": "Code.",
+      "inicio": 4.032,
+      "fin": 4.56
+    },
+    {
+      "texto": "Los",
+      "inicio": 4.8,
+      "fin": 5.52
+    },
+    {
+      "texto": "guiones,",
+      "inicio": 5.573,
+      "fin": 6.8
+    },
+    {
+      "texto": "la",
+      "inicio": 6.853,
+      "fin": 6.96
+    },
+    {
+      "texto": "voz",
+      "inicio": 7.08,
+      "fin": 7.44
+    },
+    {
+      "texto": "y",
+      "inicio": 7.56,
+      "fin": 7.68
+    },
+    {
+      "texto": "la",
+      "inicio": 7.707,
+      "fin": 7.76
+    },
+    {
+      "texto": "animación",
+      "inicio": 7.808,
+      "fin": 8.48
+    },
+    {
+      "texto": "salen",
+      "inicio": 8.58,
+      "fin": 8.96
+    },
+    {
+      "texto": "de",
+      "inicio": 8.987,
+      "fin": 9.04
+    },
+    {
+      "texto": "un",
+      "inicio": 9.067,
+      "fin": 9.12
+    },
+    {
+      "texto": "proyecto",
+      "inicio": 9.182,
+      "fin": 9.68
+    },
+    {
+      "texto": "en",
+      "inicio": 9.707,
+      "fin": 9.76
+    },
+    {
+      "texto": "mi",
+      "inicio": 9.787,
+      "fin": 9.84
+    },
+    {
+      "texto": "computador.",
+      "inicio": 9.897,
+      "fin": 11.04
+    },
+    {
+      "texto": "Y",
+      "inicio": 11.28,
+      "fin": 11.52
+    },
+    {
+      "texto": "muchas",
+      "inicio": 11.577,
+      "fin": 11.92
+    },
+    {
+      "texto": "veces",
+      "inicio": 11.987,
+      "fin": 12.32
+    },
+    {
+      "texto": "reviso",
+      "inicio": 12.4,
+      "fin": 12.96
+    },
+    {
+      "texto": "cómo",
+      "inicio": 12.992,
+      "fin": 13.12
+    },
+    {
+      "texto": "va",
+      "inicio": 13.173,
+      "fin": 13.28
+    },
+    {
+      "texto": "un",
+      "inicio": 13.333,
+      "fin": 13.44
+    },
+    {
+      "texto": "video",
+      "inicio": 13.507,
+      "fin": 13.84
+    },
+    {
+      "texto": "desde",
+      "inicio": 13.92,
+      "fin": 14.32
+    },
+    {
+      "texto": "el",
+      "inicio": 14.347,
+      "fin": 14.4
+    },
+    {
+      "texto": "celular,",
+      "inicio": 14.46,
+      "fin": 15.44
+    },
+    {
+      "texto": "mientras",
+      "inicio": 15.484,
+      "fin": 15.84
+    },
+    {
+      "texto": "hago",
+      "inicio": 15.88,
+      "fin": 16.0
+    },
+    {
+      "texto": "otra",
+      "inicio": 16.048,
+      "fin": 16.24
+    },
+    {
+      "texto": "cosa.",
+      "inicio": 16.32,
+      "fin": 16.72
+    },
+    {
+      "texto": "Por",
+      "inicio": 16.94,
+      "fin": 17.6
+    },
+    {
+      "texto": "eso",
+      "inicio": 17.66,
+      "fin": 17.84
+    },
+    {
+      "texto": "te",
+      "inicio": 17.867,
+      "fin": 17.92
+    },
+    {
+      "texto": "lo",
+      "inicio": 17.947,
+      "fin": 18.0
+    },
+    {
+      "texto": "quiero",
+      "inicio": 18.034,
+      "fin": 18.24
+    },
+    {
+      "texto": "enseñar:",
+      "inicio": 18.288,
+      "fin": 19.36
+    },
+    {
+      "texto": "es",
+      "inicio": 19.413,
+      "fin": 19.52
+    },
+    {
+      "texto": "de",
+      "inicio": 19.573,
+      "fin": 19.68
+    },
+    {
+      "texto": "esas",
+      "inicio": 19.728,
+      "fin": 19.92
+    },
+    {
+      "texto": "herramientas",
+      "inicio": 19.978,
+      "fin": 20.64
+    },
+    {
+      "texto": "que",
+      "inicio": 20.7,
+      "fin": 20.88
+    },
+    {
+      "texto": "te",
+      "inicio": 20.907,
+      "fin": 20.96
+    },
+    {
+      "texto": "devuelven",
+      "inicio": 21.04,
+      "fin": 21.76
+    },
+    {
+      "texto": "horas.",
+      "inicio": 21.893,
+      "fin": 22.64
+    }
+  ]
+}

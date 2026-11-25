@@ -1,0 +1,300 @@
+{
+  "num": "17",
+  "titulo": "La magia: actualizar todo",
+  "texto": "Y ahora, la magia. Llega la semana siguiente, y el sistema exporta dos ventas nuevas, igual de desordenadas. Las pegas debajo de los datos originales, vas a Datos, y pulsas Actualizar todo. Power Query repite toda la receta en un segundo: ocho ventas limpias, y el total sube a cuatro mil cuatrocientos cincuenta. Ya no limpias nunca más.",
+  "texto_tts": "[excited] Y ahora, la magia. Llega la semana siguiente, y el sistema exporta dos ventas nuevas, igual de desordenadas. Las pegas debajo de los datos originales, vas a Datos, y pulsas Actualizar todo. Power Query repite toda la receta en un segundo: ocho ventas limpias, y el total sube a cuatro mil cuatrocientos cincuenta. Ya no limpias nunca más.",
+  "modelo": "eleven_v3",
+  "duracion": 29.2,
+  "palabras": [
+    {
+      "texto": "Y",
+      "inicio": 0.072,
+      "fin": 0.08
+    },
+    {
+      "texto": "ahora,",
+      "inicio": 0.147,
+      "fin": 0.56
+    },
+    {
+      "texto": "la",
+      "inicio": 0.693,
+      "fin": 0.96
+    },
+    {
+      "texto": "magia.",
+      "inicio": 1.06,
+      "fin": 1.76
+    },
+    {
+      "texto": "Llega",
+      "inicio": 2.32,
+      "fin": 3.12
+    },
+    {
+      "texto": "la",
+      "inicio": 3.147,
+      "fin": 3.2
+    },
+    {
+      "texto": "semana",
+      "inicio": 3.246,
+      "fin": 3.52
+    },
+    {
+      "texto": "siguiente,",
+      "inicio": 3.584,
+      "fin": 4.24
+    },
+    {
+      "texto": "y",
+      "inicio": 4.76,
+      "fin": 5.28
+    },
+    {
+      "texto": "el",
+      "inicio": 5.307,
+      "fin": 5.36
+    },
+    {
+      "texto": "sistema",
+      "inicio": 5.43,
+      "fin": 5.92
+    },
+    {
+      "texto": "exporta",
+      "inicio": 6.023,
+      "fin": 6.72
+    },
+    {
+      "texto": "dos",
+      "inicio": 6.82,
+      "fin": 7.12
+    },
+    {
+      "texto": "ventas",
+      "inicio": 7.177,
+      "fin": 7.52
+    },
+    {
+      "texto": "nuevas,",
+      "inicio": 7.577,
+      "fin": 8.24
+    },
+    {
+      "texto": "igual",
+      "inicio": 8.293,
+      "fin": 8.56
+    },
+    {
+      "texto": "de",
+      "inicio": 8.587,
+      "fin": 8.64
+    },
+    {
+      "texto": "desordenadas.",
+      "inicio": 8.7,
+      "fin": 9.68
+    },
+    {
+      "texto": "Las",
+      "inicio": 9.96,
+      "fin": 10.8
+    },
+    {
+      "texto": "pegas",
+      "inicio": 10.84,
+      "fin": 11.12
+    },
+    {
+      "texto": "debajo",
+      "inicio": 11.16,
+      "fin": 11.44
+    },
+    {
+      "texto": "de",
+      "inicio": 11.467,
+      "fin": 11.52
+    },
+    {
+      "texto": "los",
+      "inicio": 11.54,
+      "fin": 11.6
+    },
+    {
+      "texto": "datos",
+      "inicio": 11.653,
+      "fin": 11.92
+    },
+    {
+      "texto": "originales,",
+      "inicio": 11.968,
+      "fin": 13.28
+    },
+    {
+      "texto": "vas",
+      "inicio": 13.34,
+      "fin": 13.52
+    },
+    {
+      "texto": "a",
+      "inicio": 13.56,
+      "fin": 13.6
+    },
+    {
+      "texto": "Datos,",
+      "inicio": 13.68,
+      "fin": 14.72
+    },
+    {
+      "texto": "y",
+      "inicio": 14.76,
+      "fin": 14.8
+    },
+    {
+      "texto": "pulsas",
+      "inicio": 14.88,
+      "fin": 15.36
+    },
+    {
+      "texto": "Actualizar",
+      "inicio": 15.429,
+      "fin": 16.08
+    },
+    {
+      "texto": "todo.",
+      "inicio": 16.176,
+      "fin": 17.32
+    },
+    {
+      "texto": "Power",
+      "inicio": 17.447,
+      "fin": 18.08
+    },
+    {
+      "texto": "Query",
+      "inicio": 18.133,
+      "fin": 18.4
+    },
+    {
+      "texto": "repite",
+      "inicio": 18.46,
+      "fin": 18.8
+    },
+    {
+      "texto": "toda",
+      "inicio": 18.864,
+      "fin": 19.12
+    },
+    {
+      "texto": "la",
+      "inicio": 19.173,
+      "fin": 19.28
+    },
+    {
+      "texto": "receta",
+      "inicio": 19.34,
+      "fin": 19.68
+    },
+    {
+      "texto": "en",
+      "inicio": 19.707,
+      "fin": 19.76
+    },
+    {
+      "texto": "un",
+      "inicio": 19.787,
+      "fin": 19.84
+    },
+    {
+      "texto": "segundo:",
+      "inicio": 19.91,
+      "fin": 21.2
+    },
+    {
+      "texto": "ocho",
+      "inicio": 21.28,
+      "fin": 21.44
+    },
+    {
+      "texto": "ventas",
+      "inicio": 21.497,
+      "fin": 21.84
+    },
+    {
+      "texto": "limpias,",
+      "inicio": 21.92,
+      "fin": 22.64
+    },
+    {
+      "texto": "y",
+      "inicio": 22.88,
+      "fin": 23.12
+    },
+    {
+      "texto": "el",
+      "inicio": 23.147,
+      "fin": 23.2
+    },
+    {
+      "texto": "total",
+      "inicio": 23.267,
+      "fin": 23.6
+    },
+    {
+      "texto": "sube",
+      "inicio": 23.72,
+      "fin": 24.16
+    },
+    {
+      "texto": "a",
+      "inicio": 24.28,
+      "fin": 24.4
+    },
+    {
+      "texto": "cuatro",
+      "inicio": 24.446,
+      "fin": 24.72
+    },
+    {
+      "texto": "mil",
+      "inicio": 24.76,
+      "fin": 24.88
+    },
+    {
+      "texto": "cuatrocientos",
+      "inicio": 24.926,
+      "fin": 25.52
+    },
+    {
+      "texto": "cincuenta.",
+      "inicio": 25.56,
+      "fin": 26.72
+    },
+    {
+      "texto": "Ya",
+      "inicio": 26.933,
+      "fin": 27.36
+    },
+    {
+      "texto": "no",
+      "inicio": 27.413,
+      "fin": 27.52
+    },
+    {
+      "texto": "limpias",
+      "inicio": 27.58,
+      "fin": 28.08
+    },
+    {
+      "texto": "nunca",
+      "inicio": 28.187,
+      "fin": 28.72
+    },
+    {
+      "texto": "más.",
+      "inicio": 28.82,
+      "fin": 29.2
+    }
+  ]
+}

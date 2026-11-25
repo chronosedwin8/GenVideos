@@ -1,0 +1,265 @@
+{
+  "num": "02",
+  "titulo": "Presentación",
+  "texto": "¡Bienvenidos, amigos del canal! Vamos en busca del poder tecnológico. Hoy te enseño a instalar ChatGPT dentro de Excel, y a usarlo en cinco tareas reales de oficina. Además, lo que nadie te dice: cómo funcionan los permisos, qué pasa con tus datos, y cuándo te conviene más Copilot o Claude.",
+  "texto_tts": "[excited] ¡Bienvenidos, amigos del canal! Vamos en busca del poder tecnológico. Hoy te enseño a instalar ChatGPT dentro de Excel, y a usarlo en cinco tareas reales de oficina. Además, lo que nadie te dice: cómo funcionan los permisos, qué pasa con tus datos, y cuándo te conviene más Copilot o Claude.",
+  "modelo": "eleven_v3",
+  "duracion": 22.96,
+  "palabras": [
+    {
+      "texto": "¡Bienvenidos,",
+      "inicio": 0.072,
+      "fin": 0.88
+    },
+    {
+      "texto": "amigos",
+      "inicio": 0.949,
+      "fin": 1.36
+    },
+    {
+      "texto": "del",
+      "inicio": 1.4,
+      "fin": 1.52
+    },
+    {
+      "texto": "canal!",
+      "inicio": 1.613,
+      "fin": 2.32
+    },
+    {
+      "texto": "Vamos",
+      "inicio": 2.64,
+      "fin": 3.2
+    },
+    {
+      "texto": "en",
+      "inicio": 3.253,
+      "fin": 3.36
+    },
+    {
+      "texto": "busca",
+      "inicio": 3.427,
+      "fin": 3.76
+    },
+    {
+      "texto": "del",
+      "inicio": 3.8,
+      "fin": 3.92
+    },
+    {
+      "texto": "poder",
+      "inicio": 4.0,
+      "fin": 4.4
+    },
+    {
+      "texto": "tecnológico.",
+      "inicio": 4.464,
+      "fin": 5.68
+    },
+    {
+      "texto": "Hoy",
+      "inicio": 5.76,
+      "fin": 6.0
+    },
+    {
+      "texto": "te",
+      "inicio": 6.053,
+      "fin": 6.16
+    },
+    {
+      "texto": "enseño",
+      "inicio": 6.224,
+      "fin": 6.64
+    },
+    {
+      "texto": "a",
+      "inicio": 6.76,
+      "fin": 6.88
+    },
+    {
+      "texto": "instalar",
+      "inicio": 6.928,
+      "fin": 7.36
+    },
+    {
+      "texto": "ChatGPT",
+      "inicio": 7.44,
+      "fin": 8.48
+    },
+    {
+      "texto": "dentro",
+      "inicio": 8.537,
+      "fin": 8.88
+    },
+    {
+      "texto": "de",
+      "inicio": 8.907,
+      "fin": 8.96
+    },
+    {
+      "texto": "Excel,",
+      "inicio": 9.027,
+      "fin": 9.76
+    },
+    {
+      "texto": "y",
+      "inicio": 9.8,
+      "fin": 9.84
+    },
+    {
+      "texto": "a",
+      "inicio": 9.88,
+      "fin": 9.92
+    },
+    {
+      "texto": "usarlo",
+      "inicio": 9.984,
+      "fin": 10.32
+    },
+    {
+      "texto": "en",
+      "inicio": 10.4,
+      "fin": 10.56
+    },
+    {
+      "texto": "cinco",
+      "inicio": 10.627,
+      "fin": 10.96
+    },
+    {
+      "texto": "tareas",
+      "inicio": 11.04,
+      "fin": 11.36
+    },
+    {
+      "texto": "reales",
+      "inicio": 11.44,
+      "fin": 11.92
+    },
+    {
+      "texto": "de",
+      "inicio": 12.0,
+      "fin": 12.16
+    },
+    {
+      "texto": "oficina.",
+      "inicio": 12.213,
+      "fin": 13.36
+    },
+    {
+      "texto": "Además,",
+      "inicio": 13.429,
+      "fin": 14.08
+    },
+    {
+      "texto": "lo",
+      "inicio": 14.16,
+      "fin": 14.32
+    },
+    {
+      "texto": "que",
+      "inicio": 14.36,
+      "fin": 14.48
+    },
+    {
+      "texto": "nadie",
+      "inicio": 14.54,
+      "fin": 14.8
+    },
+    {
+      "texto": "te",
+      "inicio": 14.853,
+      "fin": 14.96
+    },
+    {
+      "texto": "dice:",
+      "inicio": 15.04,
+      "fin": 15.68
+    },
+    {
+      "texto": "cómo",
+      "inicio": 15.76,
+      "fin": 16.08
+    },
+    {
+      "texto": "funcionan",
+      "inicio": 16.13,
+      "fin": 16.56
+    },
+    {
+      "texto": "los",
+      "inicio": 16.6,
+      "fin": 16.72
+    },
+    {
+      "texto": "permisos,",
+      "inicio": 16.768,
+      "fin": 17.76
+    },
+    {
+      "texto": "qué",
+      "inicio": 17.78,
+      "fin": 17.84
+    },
+    {
+      "texto": "pasa",
+      "inicio": 17.92,
+      "fin": 18.24
+    },
+    {
+      "texto": "con",
+      "inicio": 18.28,
+      "fin": 18.4
+    },
+    {
+      "texto": "tus",
+      "inicio": 18.46,
+      "fin": 18.64
+    },
+    {
+      "texto": "datos,",
+      "inicio": 18.733,
+      "fin": 19.28
+    },
+    {
+      "texto": "y",
+      "inicio": 19.48,
+      "fin": 19.68
+    },
+    {
+      "texto": "cuándo",
+      "inicio": 19.76,
+      "fin": 20.08
+    },
+    {
+      "texto": "te",
+      "inicio": 20.133,
+      "fin": 20.24
+    },
+    {
+      "texto": "conviene",
+      "inicio": 20.288,
+      "fin": 20.64
+    },
+    {
+      "texto": "más",
+      "inicio": 20.74,
+      "fin": 21.04
+    },
+    {
+      "texto": "Copilot",
+      "inicio": 21.18,
+      "fin": 22.0
+    },
+    {
+      "texto": "o",
+      "inicio": 22.16,
+      "fin": 22.32
+    },
+    {
+      "texto": "Claude.",
+      "inicio": 22.389,
+      "fin": 22.96
+    }
+  ]
+}

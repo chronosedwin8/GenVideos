@@ -1,0 +1,265 @@
+{
+  "num": "09",
+  "titulo": "Paso 2: \"al menos\"",
+  "texto": "Paso dos: ¿y si me basta con meter al menos cuatro? Para un rango de éxitos usa DISTR punto BINOM punto SERIE. Ojo, que el orden cambia: primero los intentos, cinco; luego la probabilidad; y al final el rango, de cuatro a cinco. Resultado: cuarenta y dos coma ocho por ciento.",
+  "texto_tts": "Paso dos: ¿y si me basta con meter al menos cuatro? Para un rango de éxitos usa DISTR punto BINOM punto SERIE. Ojo, que el orden cambia: primero los intentos, cinco; luego la probabilidad; y al final el rango, de cuatro a cinco. Resultado: cuarenta y dos coma ocho por ciento.",
+  "modelo": "eleven_v3",
+  "duracion": 26.0,
+  "palabras": [
+    {
+      "texto": "Paso",
+      "inicio": 0.0,
+      "fin": 0.32
+    },
+    {
+      "texto": "dos:",
+      "inicio": 0.42,
+      "fin": 0.8
+    },
+    {
+      "texto": "¿y",
+      "inicio": 1.08,
+      "fin": 1.44
+    },
+    {
+      "texto": "si",
+      "inicio": 1.467,
+      "fin": 1.52
+    },
+    {
+      "texto": "me",
+      "inicio": 1.573,
+      "fin": 1.68
+    },
+    {
+      "texto": "basta",
+      "inicio": 1.72,
+      "fin": 2.08
+    },
+    {
+      "texto": "con",
+      "inicio": 2.14,
+      "fin": 2.32
+    },
+    {
+      "texto": "meter",
+      "inicio": 2.387,
+      "fin": 2.72
+    },
+    {
+      "texto": "al",
+      "inicio": 2.853,
+      "fin": 3.12
+    },
+    {
+      "texto": "menos",
+      "inicio": 3.173,
+      "fin": 3.44
+    },
+    {
+      "texto": "cuatro?",
+      "inicio": 3.509,
+      "fin": 4.0
+    },
+    {
+      "texto": "Para",
+      "inicio": 4.176,
+      "fin": 4.88
+    },
+    {
+      "texto": "un",
+      "inicio": 4.933,
+      "fin": 5.04
+    },
+    {
+      "texto": "rango",
+      "inicio": 5.08,
+      "fin": 5.44
+    },
+    {
+      "texto": "de",
+      "inicio": 5.467,
+      "fin": 5.52
+    },
+    {
+      "texto": "éxitos",
+      "inicio": 5.6,
+      "fin": 6.16
+    },
+    {
+      "texto": "usa",
+      "inicio": 6.32,
+      "fin": 6.8
+    },
+    {
+      "texto": "DISTR",
+      "inicio": 7.16,
+      "fin": 8.64
+    },
+    {
+      "texto": "punto",
+      "inicio": 8.76,
+      "fin": 9.36
+    },
+    {
+      "texto": "BINOM",
+      "inicio": 9.48,
+      "fin": 10.08
+    },
+    {
+      "texto": "punto",
+      "inicio": 10.16,
+      "fin": 10.56
+    },
+    {
+      "texto": "SERIE.",
+      "inicio": 10.7,
+      "fin": 11.44
+    },
+    {
+      "texto": "Ojo,",
+      "inicio": 11.72,
+      "fin": 12.32
+    },
+    {
+      "texto": "que",
+      "inicio": 12.44,
+      "fin": 12.8
+    },
+    {
+      "texto": "el",
+      "inicio": 12.827,
+      "fin": 12.88
+    },
+    {
+      "texto": "orden",
+      "inicio": 12.947,
+      "fin": 13.28
+    },
+    {
+      "texto": "cambia:",
+      "inicio": 13.344,
+      "fin": 13.92
+    },
+    {
+      "texto": "primero",
+      "inicio": 13.99,
+      "fin": 14.48
+    },
+    {
+      "texto": "los",
+      "inicio": 14.52,
+      "fin": 14.64
+    },
+    {
+      "texto": "intentos,",
+      "inicio": 14.72,
+      "fin": 15.68
+    },
+    {
+      "texto": "cinco;",
+      "inicio": 15.787,
+      "fin": 16.4
+    },
+    {
+      "texto": "luego",
+      "inicio": 16.547,
+      "fin": 17.28
+    },
+    {
+      "texto": "la",
+      "inicio": 17.307,
+      "fin": 17.36
+    },
+    {
+      "texto": "probabilidad;",
+      "inicio": 17.424,
+      "fin": 18.32
+    },
+    {
+      "texto": "y",
+      "inicio": 18.52,
+      "fin": 18.72
+    },
+    {
+      "texto": "al",
+      "inicio": 18.747,
+      "fin": 18.8
+    },
+    {
+      "texto": "final",
+      "inicio": 18.867,
+      "fin": 19.2
+    },
+    {
+      "texto": "el",
+      "inicio": 19.28,
+      "fin": 19.44
+    },
+    {
+      "texto": "rango,",
+      "inicio": 19.52,
+      "fin": 20.08
+    },
+    {
+      "texto": "de",
+      "inicio": 20.16,
+      "fin": 20.32
+    },
+    {
+      "texto": "cuatro",
+      "inicio": 20.423,
+      "fin": 21.04
+    },
+    {
+      "texto": "a",
+      "inicio": 21.12,
+      "fin": 21.2
+    },
+    {
+      "texto": "cinco.",
+      "inicio": 21.293,
+      "fin": 21.84
+    },
+    {
+      "texto": "Resultado:",
+      "inicio": 21.977,
+      "fin": 23.2
+    },
+    {
+      "texto": "cuarenta",
+      "inicio": 23.387,
+      "fin": 24.08
+    },
+    {
+      "texto": "y",
+      "inicio": 24.16,
+      "fin": 24.24
+    },
+    {
+      "texto": "dos",
+      "inicio": 24.28,
+      "fin": 24.4
+    },
+    {
+      "texto": "coma",
+      "inicio": 24.48,
+      "fin": 24.8
+    },
+    {
+      "texto": "ocho",
+      "inicio": 24.96,
+      "fin": 25.2
+    },
+    {
+      "texto": "por",
+      "inicio": 25.28,
+      "fin": 25.52
+    },
+    {
+      "texto": "ciento.",
+      "inicio": 25.56,
+      "fin": 26.0
+    }
+  ]
+}

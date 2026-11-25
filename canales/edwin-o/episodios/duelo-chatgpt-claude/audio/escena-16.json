@@ -1,0 +1,305 @@
+{
+  "num": "16",
+  "titulo": "Lo que hay que decir",
+  "texto": "Ahora, lo que hay que decir con honestidad. Comparé el plan gratuito de ChatGPT con el plan Pro de Claude. Con un plan de pago, ChatGPT podría responder distinto. Y es una sola prueba, con un solo problema. No es un estudio científico. Es lo que me pasó a mí, con datos reales, y te lo muestro tal cual.",
+  "texto_tts": "Ahora, lo que hay que decir con honestidad. Comparé el plan gratuito de ChatGPT con el plan Pro de Claude. Con un plan de pago, ChatGPT podría responder distinto. Y es una sola prueba, con un solo problema. No es un estudio científico. Es lo que me pasó a mí, con datos reales, y te lo muestro tal cual.",
+  "modelo": "eleven_v3",
+  "duracion": 23.84,
+  "palabras": [
+    {
+      "texto": "Ahora,",
+      "inicio": 0.0,
+      "fin": 0.64
+    },
+    {
+      "texto": "lo",
+      "inicio": 0.693,
+      "fin": 0.8
+    },
+    {
+      "texto": "que",
+      "inicio": 0.82,
+      "fin": 0.88
+    },
+    {
+      "texto": "hay",
+      "inicio": 0.92,
+      "fin": 1.04
+    },
+    {
+      "texto": "que",
+      "inicio": 1.06,
+      "fin": 1.12
+    },
+    {
+      "texto": "decir",
+      "inicio": 1.173,
+      "fin": 1.44
+    },
+    {
+      "texto": "con",
+      "inicio": 1.48,
+      "fin": 1.6
+    },
+    {
+      "texto": "honestidad.",
+      "inicio": 1.646,
+      "fin": 2.32
+    },
+    {
+      "texto": "Comparé",
+      "inicio": 2.514,
+      "fin": 3.84
+    },
+    {
+      "texto": "el",
+      "inicio": 3.92,
+      "fin": 4.08
+    },
+    {
+      "texto": "plan",
+      "inicio": 4.16,
+      "fin": 4.48
+    },
+    {
+      "texto": "gratuito",
+      "inicio": 4.569,
+      "fin": 5.28
+    },
+    {
+      "texto": "de",
+      "inicio": 5.413,
+      "fin": 5.68
+    },
+    {
+      "texto": "ChatGPT",
+      "inicio": 5.744,
+      "fin": 6.48
+    },
+    {
+      "texto": "con",
+      "inicio": 6.58,
+      "fin": 6.88
+    },
+    {
+      "texto": "el",
+      "inicio": 6.933,
+      "fin": 7.04
+    },
+    {
+      "texto": "plan",
+      "inicio": 7.12,
+      "fin": 7.44
+    },
+    {
+      "texto": "Pro",
+      "inicio": 7.56,
+      "fin": 7.92
+    },
+    {
+      "texto": "de",
+      "inicio": 8.053,
+      "fin": 8.32
+    },
+    {
+      "texto": "Claude.",
+      "inicio": 8.389,
+      "fin": 9.48
+    },
+    {
+      "texto": "Con",
+      "inicio": 9.65,
+      "fin": 10.16
+    },
+    {
+      "texto": "un",
+      "inicio": 10.213,
+      "fin": 10.32
+    },
+    {
+      "texto": "plan",
+      "inicio": 10.368,
+      "fin": 10.56
+    },
+    {
+      "texto": "de",
+      "inicio": 10.613,
+      "fin": 10.72
+    },
+    {
+      "texto": "pago,",
+      "inicio": 10.8,
+      "fin": 11.52
+    },
+    {
+      "texto": "ChatGPT",
+      "inicio": 11.584,
+      "fin": 12.24
+    },
+    {
+      "texto": "podría",
+      "inicio": 12.309,
+      "fin": 12.72
+    },
+    {
+      "texto": "responder",
+      "inicio": 12.768,
+      "fin": 13.2
+    },
+    {
+      "texto": "distinto.",
+      "inicio": 13.264,
+      "fin": 13.92
+    },
+    {
+      "texto": "Y",
+      "inicio": 14.28,
+      "fin": 14.64
+    },
+    {
+      "texto": "es",
+      "inicio": 14.667,
+      "fin": 14.72
+    },
+    {
+      "texto": "una",
+      "inicio": 14.76,
+      "fin": 14.88
+    },
+    {
+      "texto": "sola",
+      "inicio": 14.928,
+      "fin": 15.12
+    },
+    {
+      "texto": "prueba,",
+      "inicio": 15.177,
+      "fin": 15.6
+    },
+    {
+      "texto": "con",
+      "inicio": 15.7,
+      "fin": 16.0
+    },
+    {
+      "texto": "un",
+      "inicio": 16.027,
+      "fin": 16.08
+    },
+    {
+      "texto": "solo",
+      "inicio": 16.128,
+      "fin": 16.32
+    },
+    {
+      "texto": "problema.",
+      "inicio": 16.382,
+      "fin": 16.96
+    },
+    {
+      "texto": "No",
+      "inicio": 17.253,
+      "fin": 17.84
+    },
+    {
+      "texto": "es",
+      "inicio": 17.92,
+      "fin": 18.08
+    },
+    {
+      "texto": "un",
+      "inicio": 18.16,
+      "fin": 18.32
+    },
+    {
+      "texto": "estudio",
+      "inicio": 18.37,
+      "fin": 18.72
+    },
+    {
+      "texto": "científico.",
+      "inicio": 18.787,
+      "fin": 19.6
+    },
+    {
+      "texto": "Es",
+      "inicio": 19.787,
+      "fin": 20.16
+    },
+    {
+      "texto": "lo",
+      "inicio": 20.187,
+      "fin": 20.24
+    },
+    {
+      "texto": "que",
+      "inicio": 20.28,
+      "fin": 20.4
+    },
+    {
+      "texto": "me",
+      "inicio": 20.427,
+      "fin": 20.48
+    },
+    {
+      "texto": "pasó",
+      "inicio": 20.52,
+      "fin": 20.72
+    },
+    {
+      "texto": "a",
+      "inicio": 20.76,
+      "fin": 20.8
+    },
+    {
+      "texto": "mí,",
+      "inicio": 20.853,
+      "fin": 21.04
+    },
+    {
+      "texto": "con",
+      "inicio": 21.14,
+      "fin": 21.44
+    },
+    {
+      "texto": "datos",
+      "inicio": 21.48,
+      "fin": 21.68
+    },
+    {
+      "texto": "reales,",
+      "inicio": 21.76,
+      "fin": 22.32
+    },
+    {
+      "texto": "y",
+      "inicio": 22.36,
+      "fin": 22.4
+    },
+    {
+      "texto": "te",
+      "inicio": 22.453,
+      "fin": 22.56
+    },
+    {
+      "texto": "lo",
+      "inicio": 22.587,
+      "fin": 22.64
+    },
+    {
+      "texto": "muestro",
+      "inicio": 22.68,
+      "fin": 23.04
+    },
+    {
+      "texto": "tal",
+      "inicio": 23.12,
+      "fin": 23.36
+    },
+    {
+      "texto": "cual.",
+      "inicio": 23.424,
+      "fin": 23.84
+    }
+  ]
+}

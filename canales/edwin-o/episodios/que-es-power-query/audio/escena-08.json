@@ -1,0 +1,255 @@
+{
+  "num": "08",
+  "titulo": "Paso 1: lleva los datos a Power Query",
+  "texto": "Paso uno. Haz clic en cualquier celda de los datos, ve a la pestaña Datos, y pulsa Desde tabla o rango. Excel te pide confirmar el rango y que tiene encabezados: aceptas. Y se abre una ventana nueva: el editor de Power Query. Tus datos originales no se tocan.",
+  "texto_tts": "Paso uno. Haz clic en cualquier celda de los datos, ve a la pestaña Datos, y pulsa Desde tabla o rango. Excel te pide confirmar el rango y que tiene encabezados: aceptas. Y se abre una ventana nueva: el editor de Power Query. Tus datos originales no se tocan.",
+  "modelo": "eleven_v3",
+  "duracion": 21.12,
+  "palabras": [
+    {
+      "texto": "Paso",
+      "inicio": 0.0,
+      "fin": 0.24
+    },
+    {
+      "texto": "uno.",
+      "inicio": 0.34,
+      "fin": 0.72
+    },
+    {
+      "texto": "Haz",
+      "inicio": 0.86,
+      "fin": 1.28
+    },
+    {
+      "texto": "clic",
+      "inicio": 1.344,
+      "fin": 1.6
+    },
+    {
+      "texto": "en",
+      "inicio": 1.653,
+      "fin": 1.76
+    },
+    {
+      "texto": "cualquier",
+      "inicio": 1.808,
+      "fin": 2.24
+    },
+    {
+      "texto": "celda",
+      "inicio": 2.28,
+      "fin": 2.64
+    },
+    {
+      "texto": "de",
+      "inicio": 2.667,
+      "fin": 2.72
+    },
+    {
+      "texto": "los",
+      "inicio": 2.76,
+      "fin": 2.88
+    },
+    {
+      "texto": "datos,",
+      "inicio": 2.96,
+      "fin": 3.76
+    },
+    {
+      "texto": "ve",
+      "inicio": 3.813,
+      "fin": 3.92
+    },
+    {
+      "texto": "a",
+      "inicio": 3.96,
+      "fin": 4.0
+    },
+    {
+      "texto": "la",
+      "inicio": 4.027,
+      "fin": 4.08
+    },
+    {
+      "texto": "pestaña",
+      "inicio": 4.12,
+      "fin": 4.56
+    },
+    {
+      "texto": "Datos,",
+      "inicio": 4.667,
+      "fin": 5.6
+    },
+    {
+      "texto": "y",
+      "inicio": 5.64,
+      "fin": 5.68
+    },
+    {
+      "texto": "pulsa",
+      "inicio": 5.78,
+      "fin": 6.24
+    },
+    {
+      "texto": "Desde",
+      "inicio": 6.347,
+      "fin": 6.88
+    },
+    {
+      "texto": "tabla",
+      "inicio": 6.96,
+      "fin": 7.36
+    },
+    {
+      "texto": "o",
+      "inicio": 7.48,
+      "fin": 7.6
+    },
+    {
+      "texto": "rango.",
+      "inicio": 7.68,
+      "fin": 8.24
+    },
+    {
+      "texto": "Excel",
+      "inicio": 8.48,
+      "fin": 9.68
+    },
+    {
+      "texto": "te",
+      "inicio": 9.707,
+      "fin": 9.76
+    },
+    {
+      "texto": "pide",
+      "inicio": 9.84,
+      "fin": 10.0
+    },
+    {
+      "texto": "confirmar",
+      "inicio": 10.06,
+      "fin": 10.56
+    },
+    {
+      "texto": "el",
+      "inicio": 10.587,
+      "fin": 10.64
+    },
+    {
+      "texto": "rango",
+      "inicio": 10.72,
+      "fin": 11.12
+    },
+    {
+      "texto": "y",
+      "inicio": 11.2,
+      "fin": 11.28
+    },
+    {
+      "texto": "que",
+      "inicio": 11.32,
+      "fin": 11.44
+    },
+    {
+      "texto": "tiene",
+      "inicio": 11.48,
+      "fin": 11.68
+    },
+    {
+      "texto": "encabezados:",
+      "inicio": 11.72,
+      "fin": 12.96
+    },
+    {
+      "texto": "aceptas.",
+      "inicio": 13.04,
+      "fin": 14.0
+    },
+    {
+      "texto": "Y",
+      "inicio": 14.4,
+      "fin": 14.8
+    },
+    {
+      "texto": "se",
+      "inicio": 14.853,
+      "fin": 14.96
+    },
+    {
+      "texto": "abre",
+      "inicio": 14.992,
+      "fin": 15.12
+    },
+    {
+      "texto": "una",
+      "inicio": 15.16,
+      "fin": 15.28
+    },
+    {
+      "texto": "ventana",
+      "inicio": 15.33,
+      "fin": 15.68
+    },
+    {
+      "texto": "nueva:",
+      "inicio": 15.747,
+      "fin": 16.48
+    },
+    {
+      "texto": "el",
+      "inicio": 16.533,
+      "fin": 16.64
+    },
+    {
+      "texto": "editor",
+      "inicio": 16.697,
+      "fin": 17.04
+    },
+    {
+      "texto": "de",
+      "inicio": 17.067,
+      "fin": 17.12
+    },
+    {
+      "texto": "Power",
+      "inicio": 17.187,
+      "fin": 17.52
+    },
+    {
+      "texto": "Query.",
+      "inicio": 17.587,
+      "fin": 18.08
+    },
+    {
+      "texto": "Tus",
+      "inicio": 18.28,
+      "fin": 18.88
+    },
+    {
+      "texto": "datos",
+      "inicio": 18.933,
+      "fin": 19.2
+    },
+    {
+      "texto": "originales",
+      "inicio": 19.248,
+      "fin": 20.08
+    },
+    {
+      "texto": "no",
+      "inicio": 20.16,
+      "fin": 20.32
+    },
+    {
+      "texto": "se",
+      "inicio": 20.373,
+      "fin": 20.48
+    },
+    {
+      "texto": "tocan.",
+      "inicio": 20.56,
+      "fin": 21.12
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "num": "09",
+  "titulo": "Conoce el editor",
+  "texto": "Conoce el editor. Arriba, la cinta, con las pestañas Inicio, Transformar y Agregar columna. En el centro, la vista previa de tus datos. Y a la derecha, el panel más importante: Pasos aplicados. Ahí se va a grabar cada cosa que hagas, en orden, como una receta.",
+  "texto_tts": "Conoce el editor. Arriba, la cinta, con las pestañas Inicio, Transformar y Agregar columna. En el centro, la vista previa de tus datos. Y a la derecha, el panel más importante: Pasos aplicados. Ahí se va a grabar cada cosa que hagas, en orden, como una receta.",
+  "modelo": "eleven_v3",
+  "duracion": 21.12,
+  "palabras": [
+    {
+      "texto": "Conoce",
+      "inicio": 0.0,
+      "fin": 0.32
+    },
+    {
+      "texto": "el",
+      "inicio": 0.347,
+      "fin": 0.4
+    },
+    {
+      "texto": "editor.",
+      "inicio": 0.469,
+      "fin": 1.64
+    },
+    {
+      "texto": "Arriba,",
+      "inicio": 1.893,
+      "fin": 2.8
+    },
+    {
+      "texto": "la",
+      "inicio": 2.853,
+      "fin": 2.96
+    },
+    {
+      "texto": "cinta,",
+      "inicio": 3.0,
+      "fin": 4.08
+    },
+    {
+      "texto": "con",
+      "inicio": 4.12,
+      "fin": 4.24
+    },
+    {
+      "texto": "las",
+      "inicio": 4.28,
+      "fin": 4.4
+    },
+    {
+      "texto": "pestañas",
+      "inicio": 4.44,
+      "fin": 5.04
+    },
+    {
+      "texto": "Inicio,",
+      "inicio": 5.147,
+      "fin": 6.0
+    },
+    {
+      "texto": "Transformar",
+      "inicio": 6.048,
+      "fin": 6.64
+    },
+    {
+      "texto": "y",
+      "inicio": 6.84,
+      "fin": 7.04
+    },
+    {
+      "texto": "Agregar",
+      "inicio": 7.093,
+      "fin": 7.44
+    },
+    {
+      "texto": "columna.",
+      "inicio": 7.5,
+      "fin": 8.0
+    },
+    {
+      "texto": "En",
+      "inicio": 8.293,
+      "fin": 8.88
+    },
+    {
+      "texto": "el",
+      "inicio": 8.907,
+      "fin": 8.96
+    },
+    {
+      "texto": "centro,",
+      "inicio": 9.04,
+      "fin": 9.76
+    },
+    {
+      "texto": "la",
+      "inicio": 9.787,
+      "fin": 9.84
+    },
+    {
+      "texto": "vista",
+      "inicio": 9.893,
+      "fin": 10.16
+    },
+    {
+      "texto": "previa",
+      "inicio": 10.208,
+      "fin": 10.48
+    },
+    {
+      "texto": "de",
+      "inicio": 10.507,
+      "fin": 10.56
+    },
+    {
+      "texto": "tus",
+      "inicio": 10.6,
+      "fin": 10.72
+    },
+    {
+      "texto": "datos.",
+      "inicio": 10.813,
+      "fin": 11.52
+    },
+    {
+      "texto": "Y",
+      "inicio": 11.8,
+      "fin": 12.08
+    },
+    {
+      "texto": "a",
+      "inicio": 12.12,
+      "fin": 12.16
+    },
+    {
+      "texto": "la",
+      "inicio": 12.213,
+      "fin": 12.32
+    },
+    {
+      "texto": "derecha,",
+      "inicio": 12.352,
+      "fin": 12.88
+    },
+    {
+      "texto": "el",
+      "inicio": 12.933,
+      "fin": 13.04
+    },
+    {
+      "texto": "panel",
+      "inicio": 13.093,
+      "fin": 13.36
+    },
+    {
+      "texto": "más",
+      "inicio": 13.4,
+      "fin": 13.52
+    },
+    {
+      "texto": "importante:",
+      "inicio": 13.593,
+      "fin": 14.96
+    },
+    {
+      "texto": "Pasos",
+      "inicio": 15.02,
+      "fin": 15.36
+    },
+    {
+      "texto": "aplicados.",
+      "inicio": 15.44,
+      "fin": 16.56
+    },
+    {
+      "texto": "Ahí",
+      "inicio": 16.72,
+      "fin": 17.12
+    },
+    {
+      "texto": "se",
+      "inicio": 17.173,
+      "fin": 17.28
+    },
+    {
+      "texto": "va",
+      "inicio": 17.307,
+      "fin": 17.36
+    },
+    {
+      "texto": "a",
+      "inicio": 17.42,
+      "fin": 17.48
+    },
+    {
+      "texto": "grabar",
+      "inicio": 17.504,
+      "fin": 17.76
+    },
+    {
+      "texto": "cada",
+      "inicio": 17.824,
+      "fin": 18.08
+    },
+    {
+      "texto": "cosa",
+      "inicio": 18.144,
+      "fin": 18.4
+    },
+    {
+      "texto": "que",
+      "inicio": 18.44,
+      "fin": 18.56
+    },
+    {
+      "texto": "hagas,",
+      "inicio": 18.6,
+      "fin": 19.04
+    },
+    {
+      "texto": "en",
+      "inicio": 19.147,
+      "fin": 19.36
+    },
+    {
+      "texto": "orden,",
+      "inicio": 19.427,
+      "fin": 19.92
+    },
+    {
+      "texto": "como",
+      "inicio": 19.968,
+      "fin": 20.16
+    },
+    {
+      "texto": "una",
+      "inicio": 20.2,
+      "fin": 20.32
+    },
+    {
+      "texto": "receta.",
+      "inicio": 20.38,
+      "fin": 21.12
+    }
+  ]
+}

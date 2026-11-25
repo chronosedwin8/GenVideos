@@ -1,0 +1,350 @@
+{
+  "num": "04",
+  "titulo": "El reto",
+  "texto": "El reto es el del video anterior: dos hojas de pedidos, enero y febrero, y una lista de clientes. Les pedí tres cosas: una sola fórmula que juntara los dos meses con el nombre y la ciudad de cada cliente; que me dijeran si veían problemas en los datos; y el total vendido por ciudad. Y escondí dos trampas: un espacio invisible y un cliente que no existe.",
+  "texto_tts": "El reto es el del video anterior: dos hojas de pedidos, enero y febrero, y una lista de clientes. Les pedí tres cosas: una sola fórmula que juntara los dos meses con el nombre y la ciudad de cada cliente; que me dijeran si veían problemas en los datos; y el total vendido por ciudad. Y escondí dos trampas: un espacio invisible y un cliente que no existe.",
+  "modelo": "eleven_v3",
+  "duracion": 31.76,
+  "palabras": [
+    {
+      "texto": "El",
+      "inicio": 0.0,
+      "fin": 0.16
+    },
+    {
+      "texto": "reto",
+      "inicio": 0.24,
+      "fin": 0.56
+    },
+    {
+      "texto": "es",
+      "inicio": 0.64,
+      "fin": 0.8
+    },
+    {
+      "texto": "el",
+      "inicio": 0.853,
+      "fin": 0.96
+    },
+    {
+      "texto": "del",
+      "inicio": 1.0,
+      "fin": 1.12
+    },
+    {
+      "texto": "video",
+      "inicio": 1.16,
+      "fin": 1.36
+    },
+    {
+      "texto": "anterior:",
+      "inicio": 1.422,
+      "fin": 2.4
+    },
+    {
+      "texto": "dos",
+      "inicio": 2.48,
+      "fin": 2.72
+    },
+    {
+      "texto": "hojas",
+      "inicio": 2.8,
+      "fin": 3.12
+    },
+    {
+      "texto": "de",
+      "inicio": 3.147,
+      "fin": 3.2
+    },
+    {
+      "texto": "pedidos,",
+      "inicio": 3.28,
+      "fin": 4.4
+    },
+    {
+      "texto": "enero",
+      "inicio": 4.48,
+      "fin": 4.96
+    },
+    {
+      "texto": "y",
+      "inicio": 5.12,
+      "fin": 5.28
+    },
+    {
+      "texto": "febrero,",
+      "inicio": 5.36,
+      "fin": 6.32
+    },
+    {
+      "texto": "y",
+      "inicio": 6.52,
+      "fin": 6.72
+    },
+    {
+      "texto": "una",
+      "inicio": 6.8,
+      "fin": 7.04
+    },
+    {
+      "texto": "lista",
+      "inicio": 7.107,
+      "fin": 7.44
+    },
+    {
+      "texto": "de",
+      "inicio": 7.493,
+      "fin": 7.6
+    },
+    {
+      "texto": "clientes.",
+      "inicio": 7.689,
+      "fin": 8.48
+    },
+    {
+      "texto": "Les",
+      "inicio": 8.7,
+      "fin": 9.36
+    },
+    {
+      "texto": "pedí",
+      "inicio": 9.4,
+      "fin": 9.68
+    },
+    {
+      "texto": "tres",
+      "inicio": 9.728,
+      "fin": 9.92
+    },
+    {
+      "texto": "cosas:",
+      "inicio": 10.013,
+      "fin": 11.28
+    },
+    {
+      "texto": "una",
+      "inicio": 11.36,
+      "fin": 11.6
+    },
+    {
+      "texto": "sola",
+      "inicio": 11.664,
+      "fin": 11.92
+    },
+    {
+      "texto": "fórmula",
+      "inicio": 12.0,
+      "fin": 12.48
+    },
+    {
+      "texto": "que",
+      "inicio": 12.52,
+      "fin": 12.64
+    },
+    {
+      "texto": "juntara",
+      "inicio": 12.72,
+      "fin": 13.28
+    },
+    {
+      "texto": "los",
+      "inicio": 13.32,
+      "fin": 13.44
+    },
+    {
+      "texto": "dos",
+      "inicio": 13.48,
+      "fin": 13.6
+    },
+    {
+      "texto": "meses",
+      "inicio": 13.76,
+      "fin": 14.56
+    },
+    {
+      "texto": "con",
+      "inicio": 14.64,
+      "fin": 14.88
+    },
+    {
+      "texto": "el",
+      "inicio": 14.933,
+      "fin": 15.04
+    },
+    {
+      "texto": "nombre",
+      "inicio": 15.109,
+      "fin": 15.52
+    },
+    {
+      "texto": "y",
+      "inicio": 15.64,
+      "fin": 15.76
+    },
+    {
+      "texto": "la",
+      "inicio": 15.813,
+      "fin": 15.92
+    },
+    {
+      "texto": "ciudad",
+      "inicio": 15.966,
+      "fin": 16.24
+    },
+    {
+      "texto": "de",
+      "inicio": 16.293,
+      "fin": 16.4
+    },
+    {
+      "texto": "cada",
+      "inicio": 16.448,
+      "fin": 16.64
+    },
+    {
+      "texto": "cliente;",
+      "inicio": 16.72,
+      "fin": 17.6
+    },
+    {
+      "texto": "que",
+      "inicio": 17.78,
+      "fin": 18.32
+    },
+    {
+      "texto": "me",
+      "inicio": 18.373,
+      "fin": 18.48
+    },
+    {
+      "texto": "dijeran",
+      "inicio": 18.533,
+      "fin": 18.88
+    },
+    {
+      "texto": "si",
+      "inicio": 18.933,
+      "fin": 19.04
+    },
+    {
+      "texto": "veían",
+      "inicio": 19.093,
+      "fin": 19.52
+    },
+    {
+      "texto": "problemas",
+      "inicio": 19.584,
+      "fin": 20.16
+    },
+    {
+      "texto": "en",
+      "inicio": 20.213,
+      "fin": 20.32
+    },
+    {
+      "texto": "los",
+      "inicio": 20.34,
+      "fin": 20.4
+    },
+    {
+      "texto": "datos;",
+      "inicio": 20.493,
+      "fin": 21.28
+    },
+    {
+      "texto": "y",
+      "inicio": 21.56,
+      "fin": 21.84
+    },
+    {
+      "texto": "el",
+      "inicio": 21.893,
+      "fin": 22.0
+    },
+    {
+      "texto": "total",
+      "inicio": 22.08,
+      "fin": 22.48
+    },
+    {
+      "texto": "vendido",
+      "inicio": 22.592,
+      "fin": 23.2
+    },
+    {
+      "texto": "por",
+      "inicio": 23.26,
+      "fin": 23.44
+    },
+    {
+      "texto": "ciudad.",
+      "inicio": 23.52,
+      "fin": 24.24
+    },
+    {
+      "texto": "Y",
+      "inicio": 24.6,
+      "fin": 24.96
+    },
+    {
+      "texto": "escondí",
+      "inicio": 25.013,
+      "fin": 25.52
+    },
+    {
+      "texto": "dos",
+      "inicio": 25.62,
+      "fin": 25.92
+    },
+    {
+      "texto": "trampas:",
+      "inicio": 26.0,
+      "fin": 26.8
+    },
+    {
+      "texto": "un",
+      "inicio": 27.013,
+      "fin": 27.44
+    },
+    {
+      "texto": "espacio",
+      "inicio": 27.5,
+      "fin": 27.92
+    },
+    {
+      "texto": "invisible",
+      "inicio": 28.032,
+      "fin": 29.04
+    },
+    {
+      "texto": "y",
+      "inicio": 29.24,
+      "fin": 29.44
+    },
+    {
+      "texto": "un",
+      "inicio": 29.493,
+      "fin": 29.6
+    },
+    {
+      "texto": "cliente",
+      "inicio": 29.68,
+      "fin": 30.24
+    },
+    {
+      "texto": "que",
+      "inicio": 30.36,
+      "fin": 30.72
+    },
+    {
+      "texto": "no",
+      "inicio": 30.747,
+      "fin": 30.8
+    },
+    {
+      "texto": "existe.",
+      "inicio": 30.903,
+      "fin": 31.76
+    }
+  ]
+}
