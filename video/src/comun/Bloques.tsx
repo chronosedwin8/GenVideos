@@ -410,7 +410,7 @@ export const Teclas: React.FC<{tema: Tema; teclas: string[]; texto?: string; des
 /* ───────────── Mini tarjeta de código para miniaturas ───────────── */
 
 export const MiniCodigo: React.FC<{codigo: string}> = ({codigo}) => (
-  <div style={{background: '#1E1E1E', border: '6px solid #000', borderRadius: 22, padding: '22px 28px', boxShadow: '10px 10px 0 #000', fontFamily: 'JetBrains Mono', fontVariantLigatures: 'none', fontFeatureSettings: '"calt" 0, "liga" 0', fontSize: 34, color: '#D4D4D4', whiteSpace: 'pre', lineHeight: 1.35}}>
+  <div style={{background: '#1E1E1E', border: '6px solid #000', borderRadius: 22, padding: '22px 28px', boxShadow: '10px 10px 0 #000', fontFamily: 'JetBrains Mono', fontVariantLigatures: 'none', fontFeatureSettings: '"calt" 0, "liga" 0', fontSize: 28, color: '#D4D4D4', whiteSpace: 'pre', lineHeight: 1.35}}>
     {codigo}
   </div>
 );

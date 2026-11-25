@@ -245,7 +245,7 @@ export const episodio: EspecEpisodio = {
     {id: 'short-2', escena: '11', gancho: [{texto: '10 + 10 + 10', color: 'blanco', tamano: 130}, {texto: '= 31 ?', color: 'amarillo', tamano: 190}]},
   ],
   miniatura: {
-    lineas: [{texto: '5 ERRORES', color: 'amarillo'}, {texto: 'de Excel', color: 'blanco', tamano: 96}, {texto: 'de EXPERTOS', color: 'rojo'}],
+    lineas: [{texto: '5 ERRORES', color: 'amarillo'}, {texto: 'de Excel', color: 'blanco', tamano: 96}, {texto: 'de EXPERTOS', color: 'rojo', tamano: 96}],
     pildora: 'y cómo evitarlos',
     insignia: '10+10+10=31 ?',
     formula: '=BUSCARV("P-999";A2:C6;3)',

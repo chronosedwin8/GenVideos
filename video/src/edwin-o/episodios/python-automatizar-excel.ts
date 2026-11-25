@@ -293,6 +293,6 @@ libro.save(archivo)`,
     lineas: [{texto: '12 REPORTES', color: 'amarillo'}, {texto: 'en 8 segundos', color: 'blanco', tamano: 96}, {texto: 'con PYTHON', color: 'turquesa'}],
     pildora: 'Excel + Python',
     insignia: 'SIN SABER PROGRAMAR',
-    codigo: 'for sucursal, datos in\n  ventas.groupby("Sucursal"):\n    datos.to_excel(...)',
+    codigo: 'for s, datos in\n  ventas.groupby(...):\n    datos.to_excel(...)',
   },
 };
