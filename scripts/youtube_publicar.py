@@ -172,9 +172,11 @@ def cuerpo_video(video_id, d, estado):
             break
         tags.append(t)
         total += costo
+    def sin_angulos(t):  # YouTube rechaza "<" y ">" en título y descripción (invalidDescription)
+        return t.replace(" > ", " → ").replace(">", "＞").replace("<", "＜")
     snippet = {
-        "title": d["titulo"][:100],
-        "description": d.get("descripcion", "")[:5000],
+        "title": sin_angulos(d["titulo"])[:100],
+        "description": sin_angulos(d.get("descripcion", ""))[:5000],
         "tags": tags,
         "categoryId": str(d.get("categoria", "27")),  # 27 = Educación
         "defaultLanguage": d.get("idioma", "es"),

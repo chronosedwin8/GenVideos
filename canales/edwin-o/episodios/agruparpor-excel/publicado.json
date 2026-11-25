@@ -1,0 +1,29 @@
+{
+  "principal": {
+    "video_id": "M6qsIiRrtHs",
+    "url": "https://youtu.be/M6qsIiRrtHs",
+    "fecha": "2026-11-25T07:59-05:00",
+    "estado": {
+      "privacyStatus": "private",
+      "publishAt": "2026-12-15T12:00:00Z"
+    }
+  },
+  "short-1": {
+    "video_id": "HjSUo00ysz8",
+    "url": "https://youtu.be/HjSUo00ysz8",
+    "fecha": "2026-11-25T07:59-05:00",
+    "estado": {
+      "privacyStatus": "private",
+      "publishAt": "2026-12-16T17:00:00Z"
+    }
+  },
+  "short-2": {
+    "video_id": "q8Ky6A659Jo",
+    "url": "https://youtu.be/q8Ky6A659Jo",
+    "fecha": "2026-11-25T07:59-05:00",
+    "estado": {
+      "privacyStatus": "private",
+      "publishAt": "2026-12-19T17:00:00Z"
+    }
+  }
+}
