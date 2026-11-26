@@ -1,0 +1,65 @@
+{
+  "num": "01",
+  "titulo": "Gancho",
+  "texto": "¿Le tienes miedo a la parte de razonamiento cuantitativo? Tranquilo, profe.",
+  "texto_tts": "[confident] ¿Le tienes miedo a la parte de razonamiento cuantitativo? Tranquilo, profe.",
+  "modelo": "eleven_v3",
+  "duracion": 5.28,
+  "palabras": [
+    {
+      "texto": "¿Le",
+      "inicio": 0.12,
+      "fin": 0.16
+    },
+    {
+      "texto": "tienes",
+      "inicio": 0.217,
+      "fin": 0.56
+    },
+    {
+      "texto": "miedo",
+      "inicio": 0.64,
+      "fin": 1.04
+    },
+    {
+      "texto": "a",
+      "inicio": 1.2,
+      "fin": 1.36
+    },
+    {
+      "texto": "la",
+      "inicio": 1.387,
+      "fin": 1.44
+    },
+    {
+      "texto": "parte",
+      "inicio": 1.507,
+      "fin": 1.84
+    },
+    {
+      "texto": "de",
+      "inicio": 1.867,
+      "fin": 1.92
+    },
+    {
+      "texto": "razonamiento",
+      "inicio": 2.0,
+      "fin": 2.72
+    },
+    {
+      "texto": "cuantitativo?",
+      "inicio": 2.8,
+      "fin": 3.68
+    },
+    {
+      "texto": "Tranquilo,",
+      "inicio": 3.84,
+      "fin": 4.8
+    },
+    {
+      "texto": "profe.",
+      "inicio": 4.82,
+      "fin": 5.28
+    }
+  ]
+}

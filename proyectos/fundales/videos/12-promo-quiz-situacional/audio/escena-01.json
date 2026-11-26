@@ -1,0 +1,55 @@
+{
+  "num": "01",
+  "titulo": "Gancho",
+  "texto": "A ver, futuro rector, responde esta pregunta del simulador.",
+  "texto_tts": "[confident] A ver, futuro rector, responde esta pregunta del simulador.",
+  "modelo": "eleven_v3",
+  "duracion": 3.36,
+  "palabras": [
+    {
+      "texto": "A",
+      "inicio": 0.072,
+      "fin": 0.08
+    },
+    {
+      "texto": "ver,",
+      "inicio": 0.14,
+      "fin": 0.4
+    },
+    {
+      "texto": "futuro",
+      "inicio": 0.446,
+      "fin": 0.72
+    },
+    {
+      "texto": "rector,",
+      "inicio": 0.747,
+      "fin": 1.36
+    },
+    {
+      "texto": "responde",
+      "inicio": 1.42,
+      "fin": 1.84
+    },
+    {
+      "texto": "esta",
+      "inicio": 1.872,
+      "fin": 2.0
+    },
+    {
+      "texto": "pregunta",
+      "inicio": 2.044,
+      "fin": 2.4
+    },
+    {
+      "texto": "del",
+      "inicio": 2.44,
+      "fin": 2.56
+    },
+    {
+      "texto": "simulador.",
+      "inicio": 2.613,
+      "fin": 3.36
+    }
+  ]
+}

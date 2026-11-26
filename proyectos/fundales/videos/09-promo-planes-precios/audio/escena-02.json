@@ -1,0 +1,205 @@
+{
+  "num": "02",
+  "titulo": "Los planes",
+  "texto": "El Básico cuesta cien mil pesos al año, con ocho simulacros al mes. El Intermedio, el más popular, ciento ochenta mil, con veinte al mes. Y el Avanzado, trescientos mil, con cuarenta simulacros al mes de hasta cincuenta preguntas.",
+  "texto_tts": "El Básico cuesta cien mil pesos al año, con ocho simulacros al mes. El Intermedio, el más popular, ciento ochenta mil, con veinte al mes. Y el Avanzado, trescientos mil, con cuarenta simulacros al mes de hasta cincuenta preguntas.",
+  "modelo": "eleven_v3",
+  "duracion": 16.64,
+  "palabras": [
+    {
+      "texto": "El",
+      "inicio": 0.0,
+      "fin": 0.16
+    },
+    {
+      "texto": "Básico",
+      "inicio": 0.2,
+      "fin": 0.72
+    },
+    {
+      "texto": "cuesta",
+      "inicio": 0.76,
+      "fin": 1.04
+    },
+    {
+      "texto": "cien",
+      "inicio": 1.16,
+      "fin": 1.36
+    },
+    {
+      "texto": "mil",
+      "inicio": 1.42,
+      "fin": 1.6
+    },
+    {
+      "texto": "pesos",
+      "inicio": 1.667,
+      "fin": 2.0
+    },
+    {
+      "texto": "al",
+      "inicio": 2.053,
+      "fin": 2.16
+    },
+    {
+      "texto": "año,",
+      "inicio": 2.24,
+      "fin": 2.72
+    },
+    {
+      "texto": "con",
+      "inicio": 2.78,
+      "fin": 2.96
+    },
+    {
+      "texto": "ocho",
+      "inicio": 3.12,
+      "fin": 3.36
+    },
+    {
+      "texto": "simulacros",
+      "inicio": 3.427,
+      "fin": 4.08
+    },
+    {
+      "texto": "al",
+      "inicio": 4.107,
+      "fin": 4.16
+    },
+    {
+      "texto": "mes.",
+      "inicio": 4.26,
+      "fin": 4.64
+    },
+    {
+      "texto": "El",
+      "inicio": 4.827,
+      "fin": 5.2
+    },
+    {
+      "texto": "Intermedio,",
+      "inicio": 5.267,
+      "fin": 6.0
+    },
+    {
+      "texto": "el",
+      "inicio": 6.053,
+      "fin": 6.16
+    },
+    {
+      "texto": "más",
+      "inicio": 6.24,
+      "fin": 6.48
+    },
+    {
+      "texto": "popular,",
+      "inicio": 6.54,
+      "fin": 7.36
+    },
+    {
+      "texto": "ciento",
+      "inicio": 7.44,
+      "fin": 7.68
+    },
+    {
+      "texto": "ochenta",
+      "inicio": 7.74,
+      "fin": 8.08
+    },
+    {
+      "texto": "mil,",
+      "inicio": 8.16,
+      "fin": 8.48
+    },
+    {
+      "texto": "con",
+      "inicio": 8.56,
+      "fin": 8.8
+    },
+    {
+      "texto": "veinte",
+      "inicio": 8.88,
+      "fin": 9.28
+    },
+    {
+      "texto": "al",
+      "inicio": 9.307,
+      "fin": 9.36
+    },
+    {
+      "texto": "mes.",
+      "inicio": 9.46,
+      "fin": 9.84
+    },
+    {
+      "texto": "Y",
+      "inicio": 10.04,
+      "fin": 10.24
+    },
+    {
+      "texto": "el",
+      "inicio": 10.267,
+      "fin": 10.32
+    },
+    {
+      "texto": "Avanzado,",
+      "inicio": 10.373,
+      "fin": 11.04
+    },
+    {
+      "texto": "trescientos",
+      "inicio": 11.136,
+      "fin": 11.92
+    },
+    {
+      "texto": "mil,",
+      "inicio": 12.0,
+      "fin": 12.32
+    },
+    {
+      "texto": "con",
+      "inicio": 12.42,
+      "fin": 12.72
+    },
+    {
+      "texto": "cuarenta",
+      "inicio": 12.8,
+      "fin": 13.56
+    },
+    {
+      "texto": "simulacros",
+      "inicio": 13.593,
+      "fin": 14.08
+    },
+    {
+      "texto": "al",
+      "inicio": 14.133,
+      "fin": 14.24
+    },
+    {
+      "texto": "mes",
+      "inicio": 14.3,
+      "fin": 14.48
+    },
+    {
+      "texto": "de",
+      "inicio": 14.64,
+      "fin": 14.96
+    },
+    {
+      "texto": "hasta",
+      "inicio": 15.013,
+      "fin": 15.28
+    },
+    {
+      "texto": "cincuenta",
+      "inicio": 15.36,
+      "fin": 15.92
+    },
+    {
+      "texto": "preguntas.",
+      "inicio": 15.968,
+      "fin": 16.64
+    }
+  ]
+}

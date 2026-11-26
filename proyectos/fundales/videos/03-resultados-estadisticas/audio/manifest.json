@@ -1,0 +1,787 @@
+{
+  "canal": "fundales",
+  "slug": "03-resultados-estadisticas",
+  "duracion_total": 61.84,
+  "pausa_entre_escenas": 0.4,
+  "escenas": [
+    {
+      "num": "01",
+      "titulo": "Gancho",
+      "audio": "escena-01.mp3",
+      "inicio": 0.0,
+      "duracion": 11.44,
+      "palabras": [
+        {
+          "texto": "Hacer",
+          "inicio": 0.072,
+          "fin": 0.32
+        },
+        {
+          "texto": "simulacros",
+          "inicio": 0.387,
+          "fin": 1.12
+        },
+        {
+          "texto": "sin",
+          "inicio": 1.22,
+          "fin": 1.52
+        },
+        {
+          "texto": "revisar",
+          "inicio": 1.6,
+          "fin": 2.08
+        },
+        {
+          "texto": "los",
+          "inicio": 2.12,
+          "fin": 2.24
+        },
+        {
+          "texto": "resultados",
+          "inicio": 2.298,
+          "fin": 2.88
+        },
+        {
+          "texto": "es",
+          "inicio": 3.04,
+          "fin": 3.36
+        },
+        {
+          "texto": "como",
+          "inicio": 3.392,
+          "fin": 3.52
+        },
+        {
+          "texto": "entrenar",
+          "inicio": 3.577,
+          "fin": 4.0
+        },
+        {
+          "texto": "con",
+          "inicio": 4.08,
+          "fin": 4.32
+        },
+        {
+          "texto": "los",
+          "inicio": 4.36,
+          "fin": 4.48
+        },
+        {
+          "texto": "ojos",
+          "inicio": 4.56,
+          "fin": 4.8
+        },
+        {
+          "texto": "cerrados.",
+          "inicio": 4.848,
+          "fin": 5.44
+        },
+        {
+          "texto": "Mira",
+          "inicio": 5.72,
+          "fin": 6.16
+        },
+        {
+          "texto": "todo",
+          "inicio": 6.224,
+          "fin": 6.48
+        },
+        {
+          "texto": "lo",
+          "inicio": 6.533,
+          "fin": 6.64
+        },
+        {
+          "texto": "que",
+          "inicio": 6.66,
+          "fin": 6.72
+        },
+        {
+          "texto": "te",
+          "inicio": 6.773,
+          "fin": 6.88
+        },
+        {
+          "texto": "dice",
+          "inicio": 6.928,
+          "fin": 7.12
+        },
+        {
+          "texto": "Entrenador",
+          "inicio": 7.18,
+          "fin": 7.76
+        },
+        {
+          "texto": "Docente,",
+          "inicio": 7.82,
+          "fin": 8.4
+        },
+        {
+          "texto": "en",
+          "inicio": 8.48,
+          "fin": 8.64
+        },
+        {
+          "texto": "fundales",
+          "inicio": 8.704,
+          "fin": 9.2
+        },
+        {
+          "texto": "punto",
+          "inicio": 9.24,
+          "fin": 9.44
+        },
+        {
+          "texto": "com,",
+          "inicio": 9.5,
+          "fin": 10.08
+        },
+        {
+          "texto": "después",
+          "inicio": 10.14,
+          "fin": 10.56
+        },
+        {
+          "texto": "de",
+          "inicio": 10.613,
+          "fin": 10.72
+        },
+        {
+          "texto": "cada",
+          "inicio": 10.768,
+          "fin": 10.96
+        },
+        {
+          "texto": "prueba.",
+          "inicio": 11.017,
+          "fin": 11.44
+        }
+      ]
+    },
+    {
+      "num": "02",
+      "titulo": "Puntaje y competencias",
+      "audio": "escena-02.mp3",
+      "inicio": 11.84,
+      "duracion": 11.12,
+      "palabras": [
+        {
+          "texto": "Primero,",
+          "inicio": 0.0,
+          "fin": 0.72
+        },
+        {
+          "texto": "tu",
+          "inicio": 0.773,
+          "fin": 0.88
+        },
+        {
+          "texto": "puntaje",
+          "inicio": 0.944,
+          "fin": 1.44
+        },
+        {
+          "texto": "global.",
+          "inicio": 1.509,
+          "fin": 2.0
+        },
+        {
+          "texto": "Al",
+          "inicio": 2.187,
+          "fin": 2.56
+        },
+        {
+          "texto": "lado,",
+          "inicio": 2.64,
+          "fin": 3.04
+        },
+        {
+          "texto": "tu",
+          "inicio": 3.147,
+          "fin": 3.36
+        },
+        {
+          "texto": "desempeño",
+          "inicio": 3.42,
+          "fin": 4.0
+        },
+        {
+          "texto": "por",
+          "inicio": 4.06,
+          "fin": 4.24
+        },
+        {
+          "texto": "competencia:",
+          "inicio": 4.297,
+          "fin": 5.44
+        },
+        {
+          "texto": "en",
+          "inicio": 5.493,
+          "fin": 5.6
+        },
+        {
+          "texto": "verde",
+          "inicio": 5.667,
+          "fin": 6.0
+        },
+        {
+          "texto": "lo",
+          "inicio": 6.08,
+          "fin": 6.24
+        },
+        {
+          "texto": "que",
+          "inicio": 6.28,
+          "fin": 6.4
+        },
+        {
+          "texto": "dominas,",
+          "inicio": 6.467,
+          "fin": 7.12
+        },
+        {
+          "texto": "desde",
+          "inicio": 7.16,
+          "fin": 7.36
+        },
+        {
+          "texto": "el",
+          "inicio": 7.387,
+          "fin": 7.44
+        },
+        {
+          "texto": "setenta",
+          "inicio": 7.5,
+          "fin": 7.84
+        },
+        {
+          "texto": "por",
+          "inicio": 7.9,
+          "fin": 8.08
+        },
+        {
+          "texto": "ciento,",
+          "inicio": 8.12,
+          "fin": 8.88
+        },
+        {
+          "texto": "y",
+          "inicio": 8.92,
+          "fin": 8.96
+        },
+        {
+          "texto": "en",
+          "inicio": 8.987,
+          "fin": 9.04
+        },
+        {
+          "texto": "amarillo",
+          "inicio": 9.093,
+          "fin": 9.68
+        },
+        {
+          "texto": "lo",
+          "inicio": 9.787,
+          "fin": 10.0
+        },
+        {
+          "texto": "que",
+          "inicio": 10.04,
+          "fin": 10.16
+        },
+        {
+          "texto": "debes",
+          "inicio": 10.22,
+          "fin": 10.56
+        },
+        {
+          "texto": "reforzar.",
+          "inicio": 10.613,
+          "fin": 11.12
+        }
+      ]
+    },
+    {
+      "num": "03",
+      "titulo": "Cada respuesta explicada",
+      "audio": "escena-03.mp3",
+      "inicio": 23.36,
+      "duracion": 12.8,
+      "palabras": [
+        {
+          "texto": "Luego,",
+          "inicio": 0.0,
+          "fin": 0.88
+        },
+        {
+          "texto": "cada",
+          "inicio": 0.944,
+          "fin": 1.2
+        },
+        {
+          "texto": "pregunta",
+          "inicio": 1.262,
+          "fin": 1.76
+        },
+        {
+          "texto": "con",
+          "inicio": 1.8,
+          "fin": 1.92
+        },
+        {
+          "texto": "tu",
+          "inicio": 1.973,
+          "fin": 2.08
+        },
+        {
+          "texto": "respuesta,",
+          "inicio": 2.144,
+          "fin": 2.8
+        },
+        {
+          "texto": "la",
+          "inicio": 2.853,
+          "fin": 2.96
+        },
+        {
+          "texto": "correcta",
+          "inicio": 3.02,
+          "fin": 3.52
+        },
+        {
+          "texto": "y",
+          "inicio": 3.64,
+          "fin": 3.76
+        },
+        {
+          "texto": "la",
+          "inicio": 3.787,
+          "fin": 3.84
+        },
+        {
+          "texto": "norma",
+          "inicio": 3.904,
+          "fin": 4.24
+        },
+        {
+          "texto": "que",
+          "inicio": 4.26,
+          "fin": 4.32
+        },
+        {
+          "texto": "la",
+          "inicio": 4.347,
+          "fin": 4.4
+        },
+        {
+          "texto": "sustenta:",
+          "inicio": 4.464,
+          "fin": 5.2
+        },
+        {
+          "texto": "ley",
+          "inicio": 5.28,
+          "fin": 5.52
+        },
+        {
+          "texto": "y",
+          "inicio": 5.6,
+          "fin": 5.68
+        },
+        {
+          "texto": "artículo.",
+          "inicio": 5.742,
+          "fin": 6.32
+        },
+        {
+          "texto": "Y",
+          "inicio": 6.48,
+          "fin": 6.64
+        },
+        {
+          "texto": "una",
+          "inicio": 6.7,
+          "fin": 6.88
+        },
+        {
+          "texto": "retroalimentación",
+          "inicio": 6.947,
+          "fin": 8.0
+        },
+        {
+          "texto": "pedagógica",
+          "inicio": 8.06,
+          "fin": 8.8
+        },
+        {
+          "texto": "y",
+          "inicio": 8.88,
+          "fin": 8.96
+        },
+        {
+          "texto": "legal",
+          "inicio": 9.067,
+          "fin": 9.6
+        },
+        {
+          "texto": "para",
+          "inicio": 9.68,
+          "fin": 10.0
+        },
+        {
+          "texto": "que",
+          "inicio": 10.02,
+          "fin": 10.08
+        },
+        {
+          "texto": "entiendas",
+          "inicio": 10.14,
+          "fin": 10.64
+        },
+        {
+          "texto": "el",
+          "inicio": 10.747,
+          "fin": 10.96
+        },
+        {
+          "texto": "porqué,",
+          "inicio": 11.06,
+          "fin": 11.76
+        },
+        {
+          "texto": "no",
+          "inicio": 11.84,
+          "fin": 12.0
+        },
+        {
+          "texto": "solo",
+          "inicio": 12.064,
+          "fin": 12.32
+        },
+        {
+          "texto": "la",
+          "inicio": 12.347,
+          "fin": 12.4
+        },
+        {
+          "texto": "letra.",
+          "inicio": 12.467,
+          "fin": 12.8
+        }
+      ]
+    },
+    {
+      "num": "04",
+      "titulo": "PDF",
+      "audio": "escena-04.mp3",
+      "inicio": 36.56,
+      "duracion": 5.28,
+      "palabras": [
+        {
+          "texto": "Con",
+          "inicio": 0.0,
+          "fin": 0.24
+        },
+        {
+          "texto": "Guardar",
+          "inicio": 0.293,
+          "fin": 0.72
+        },
+        {
+          "texto": "reporte",
+          "inicio": 0.789,
+          "fin": 1.44
+        },
+        {
+          "texto": "descargas",
+          "inicio": 1.488,
+          "fin": 2.08
+        },
+        {
+          "texto": "todo",
+          "inicio": 2.16,
+          "fin": 2.48
+        },
+        {
+          "texto": "en",
+          "inicio": 2.533,
+          "fin": 2.64
+        },
+        {
+          "texto": "PDF",
+          "inicio": 2.78,
+          "fin": 3.2
+        },
+        {
+          "texto": "para",
+          "inicio": 3.248,
+          "fin": 3.44
+        },
+        {
+          "texto": "repasarlo",
+          "inicio": 3.5,
+          "fin": 4.16
+        },
+        {
+          "texto": "cuando",
+          "inicio": 4.229,
+          "fin": 4.64
+        },
+        {
+          "texto": "quieras.",
+          "inicio": 4.693,
+          "fin": 5.28
+        }
+      ]
+    },
+    {
+      "num": "05",
+      "titulo": "Tablero de control",
+      "audio": "escena-05.mp3",
+      "inicio": 42.24,
+      "duracion": 15.52,
+      "palabras": [
+        {
+          "texto": "Y",
+          "inicio": 0.0,
+          "fin": 0.08
+        },
+        {
+          "texto": "en",
+          "inicio": 0.133,
+          "fin": 0.24
+        },
+        {
+          "texto": "Estadísticas",
+          "inicio": 0.3,
+          "fin": 1.2
+        },
+        {
+          "texto": "tienes",
+          "inicio": 1.291,
+          "fin": 1.84
+        },
+        {
+          "texto": "tu",
+          "inicio": 1.893,
+          "fin": 2.0
+        },
+        {
+          "texto": "tablero",
+          "inicio": 2.06,
+          "fin": 2.48
+        },
+        {
+          "texto": "de",
+          "inicio": 2.507,
+          "fin": 2.56
+        },
+        {
+          "texto": "control:",
+          "inicio": 2.62,
+          "fin": 3.44
+        },
+        {
+          "texto": "cuántas",
+          "inicio": 3.467,
+          "fin": 3.84
+        },
+        {
+          "texto": "pruebas",
+          "inicio": 3.867,
+          "fin": 4.16
+        },
+        {
+          "texto": "llevas,",
+          "inicio": 4.208,
+          "fin": 4.88
+        },
+        {
+          "texto": "tu",
+          "inicio": 4.933,
+          "fin": 5.04
+        },
+        {
+          "texto": "promedio,",
+          "inicio": 5.104,
+          "fin": 5.84
+        },
+        {
+          "texto": "tu",
+          "inicio": 5.92,
+          "fin": 6.08
+        },
+        {
+          "texto": "mejor",
+          "inicio": 6.133,
+          "fin": 6.4
+        },
+        {
+          "texto": "resultado,",
+          "inicio": 6.472,
+          "fin": 7.2
+        },
+        {
+          "texto": "la",
+          "inicio": 7.307,
+          "fin": 7.52
+        },
+        {
+          "texto": "curva",
+          "inicio": 7.6,
+          "fin": 7.92
+        },
+        {
+          "texto": "de",
+          "inicio": 7.947,
+          "fin": 8.0
+        },
+        {
+          "texto": "progreso",
+          "inicio": 8.06,
+          "fin": 8.48
+        },
+        {
+          "texto": "de",
+          "inicio": 8.507,
+          "fin": 8.56
+        },
+        {
+          "texto": "diagnósticos",
+          "inicio": 8.613,
+          "fin": 9.28
+        },
+        {
+          "texto": "y",
+          "inicio": 9.32,
+          "fin": 9.36
+        },
+        {
+          "texto": "simulacros,",
+          "inicio": 9.427,
+          "fin": 10.4
+        },
+        {
+          "texto": "y",
+          "inicio": 10.44,
+          "fin": 10.48
+        },
+        {
+          "texto": "el",
+          "inicio": 10.507,
+          "fin": 10.56
+        },
+        {
+          "texto": "consolidado",
+          "inicio": 10.622,
+          "fin": 11.36
+        },
+        {
+          "texto": "por",
+          "inicio": 11.4,
+          "fin": 11.52
+        },
+        {
+          "texto": "competencias.",
+          "inicio": 11.577,
+          "fin": 12.32
+        },
+        {
+          "texto": "Así",
+          "inicio": 12.507,
+          "fin": 12.96
+        },
+        {
+          "texto": "sabes",
+          "inicio": 13.04,
+          "fin": 13.36
+        },
+        {
+          "texto": "si",
+          "inicio": 13.493,
+          "fin": 13.76
+        },
+        {
+          "texto": "de",
+          "inicio": 13.813,
+          "fin": 13.92
+        },
+        {
+          "texto": "verdad",
+          "inicio": 13.989,
+          "fin": 14.4
+        },
+        {
+          "texto": "estás",
+          "inicio": 14.48,
+          "fin": 14.8
+        },
+        {
+          "texto": "mejorando.",
+          "inicio": 14.853,
+          "fin": 15.52
+        }
+      ]
+    },
+    {
+      "num": "06",
+      "titulo": "Cierre",
+      "audio": "escena-06.mp3",
+      "inicio": 58.16,
+      "duracion": 3.28,
+      "palabras": [
+        {
+          "texto": "Mide",
+          "inicio": 0.0,
+          "fin": 0.24
+        },
+        {
+          "texto": "tu",
+          "inicio": 0.293,
+          "fin": 0.4
+        },
+        {
+          "texto": "avance",
+          "inicio": 0.427,
+          "fin": 0.64
+        },
+        {
+          "texto": "real",
+          "inicio": 0.704,
+          "fin": 0.96
+        },
+        {
+          "texto": "desde",
+          "inicio": 1.027,
+          "fin": 1.36
+        },
+        {
+          "texto": "hoy",
+          "inicio": 1.44,
+          "fin": 1.68
+        },
+        {
+          "texto": "en",
+          "inicio": 1.733,
+          "fin": 1.84
+        },
+        {
+          "texto": "fundales",
+          "inicio": 1.904,
+          "fin": 2.48
+        },
+        {
+          "texto": "punto",
+          "inicio": 2.533,
+          "fin": 2.8
+        },
+        {
+          "texto": "com.",
+          "inicio": 2.88,
+          "fin": 3.28
+        }
+      ]
+    }
+  ]
+}

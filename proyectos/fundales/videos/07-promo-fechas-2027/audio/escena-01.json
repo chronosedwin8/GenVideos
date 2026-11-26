@@ -1,0 +1,55 @@
+{
+  "num": "01",
+  "titulo": "Gancho",
+  "texto": "Profe, ¿viste que cambiaron las fechas del concurso docente?",
+  "texto_tts": "[confident] Profe, ¿viste que cambiaron las fechas del concurso docente?",
+  "modelo": "eleven_v3",
+  "duracion": 3.44,
+  "palabras": [
+    {
+      "texto": "Profe,",
+      "inicio": 0.204,
+      "fin": 0.48
+    },
+    {
+      "texto": "¿viste",
+      "inicio": 0.52,
+      "fin": 0.8
+    },
+    {
+      "texto": "que",
+      "inicio": 0.82,
+      "fin": 0.88
+    },
+    {
+      "texto": "cambiaron",
+      "inicio": 0.92,
+      "fin": 1.2
+    },
+    {
+      "texto": "las",
+      "inicio": 1.24,
+      "fin": 1.36
+    },
+    {
+      "texto": "fechas",
+      "inicio": 1.387,
+      "fin": 1.6
+    },
+    {
+      "texto": "del",
+      "inicio": 1.64,
+      "fin": 1.76
+    },
+    {
+      "texto": "concurso",
+      "inicio": 1.82,
+      "fin": 2.24
+    },
+    {
+      "texto": "docente?",
+      "inicio": 2.3,
+      "fin": 3.44
+    }
+  ]
+}

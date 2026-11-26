@@ -1,0 +1,622 @@
+{
+  "canal": "fundales",
+  "slug": "04-coach-ia",
+  "duracion_total": 46.72,
+  "pausa_entre_escenas": 0.4,
+  "escenas": [
+    {
+      "num": "01",
+      "titulo": "Gancho",
+      "audio": "escena-01.mp3",
+      "inicio": 0.0,
+      "duracion": 8.48,
+      "palabras": [
+        {
+          "texto": "Llevas",
+          "inicio": 0.12,
+          "fin": 0.32
+        },
+        {
+          "texto": "varios",
+          "inicio": 0.366,
+          "fin": 0.64
+        },
+        {
+          "texto": "simulacros",
+          "inicio": 0.693,
+          "fin": 1.36
+        },
+        {
+          "texto": "y",
+          "inicio": 1.44,
+          "fin": 1.52
+        },
+        {
+          "texto": "no",
+          "inicio": 1.573,
+          "fin": 1.68
+        },
+        {
+          "texto": "sabes",
+          "inicio": 1.74,
+          "fin": 2.08
+        },
+        {
+          "texto": "qué",
+          "inicio": 2.1,
+          "fin": 2.16
+        },
+        {
+          "texto": "estudiar",
+          "inicio": 2.213,
+          "fin": 2.56
+        },
+        {
+          "texto": "primero.",
+          "inicio": 2.62,
+          "fin": 3.12
+        },
+        {
+          "texto": "Para",
+          "inicio": 3.264,
+          "fin": 3.84
+        },
+        {
+          "texto": "eso",
+          "inicio": 3.9,
+          "fin": 4.08
+        },
+        {
+          "texto": "está",
+          "inicio": 4.144,
+          "fin": 4.4
+        },
+        {
+          "texto": "el",
+          "inicio": 4.507,
+          "fin": 4.72
+        },
+        {
+          "texto": "Coach",
+          "inicio": 4.813,
+          "fin": 5.28
+        },
+        {
+          "texto": "IA",
+          "inicio": 5.413,
+          "fin": 5.68
+        },
+        {
+          "texto": "de",
+          "inicio": 5.733,
+          "fin": 5.84
+        },
+        {
+          "texto": "Entrenador",
+          "inicio": 5.88,
+          "fin": 6.32
+        },
+        {
+          "texto": "Docente,",
+          "inicio": 6.38,
+          "fin": 6.96
+        },
+        {
+          "texto": "en",
+          "inicio": 7.04,
+          "fin": 7.2
+        },
+        {
+          "texto": "fundales",
+          "inicio": 7.248,
+          "fin": 7.76
+        },
+        {
+          "texto": "punto",
+          "inicio": 7.8,
+          "fin": 8.0
+        },
+        {
+          "texto": "com.",
+          "inicio": 8.08,
+          "fin": 8.48
+        }
+      ]
+    },
+    {
+      "num": "02",
+      "titulo": "Cómo funciona",
+      "audio": "escena-02.mp3",
+      "inicio": 8.88,
+      "duracion": 13.28,
+      "palabras": [
+        {
+          "texto": "Entras",
+          "inicio": 0.0,
+          "fin": 0.4
+        },
+        {
+          "texto": "a",
+          "inicio": 0.44,
+          "fin": 0.48
+        },
+        {
+          "texto": "Coach",
+          "inicio": 0.533,
+          "fin": 0.8
+        },
+        {
+          "texto": "IA",
+          "inicio": 0.933,
+          "fin": 1.2
+        },
+        {
+          "texto": "y",
+          "inicio": 1.36,
+          "fin": 1.52
+        },
+        {
+          "texto": "tocas",
+          "inicio": 1.6,
+          "fin": 2.0
+        },
+        {
+          "texto": "Analizar",
+          "inicio": 2.096,
+          "fin": 2.88
+        },
+        {
+          "texto": "mi",
+          "inicio": 2.987,
+          "fin": 3.2
+        },
+        {
+          "texto": "desempeño.",
+          "inicio": 3.26,
+          "fin": 4.0
+        },
+        {
+          "texto": "La",
+          "inicio": 4.187,
+          "fin": 4.56
+        },
+        {
+          "texto": "inteligencia",
+          "inicio": 4.61,
+          "fin": 5.2
+        },
+        {
+          "texto": "artificial",
+          "inicio": 5.258,
+          "fin": 5.84
+        },
+        {
+          "texto": "revisa",
+          "inicio": 5.973,
+          "fin": 6.64
+        },
+        {
+          "texto": "tus",
+          "inicio": 6.68,
+          "fin": 6.8
+        },
+        {
+          "texto": "simulacros",
+          "inicio": 6.867,
+          "fin": 7.52
+        },
+        {
+          "texto": "y",
+          "inicio": 7.64,
+          "fin": 7.76
+        },
+        {
+          "texto": "detecta",
+          "inicio": 7.829,
+          "fin": 8.32
+        },
+        {
+          "texto": "patrones",
+          "inicio": 8.38,
+          "fin": 8.8
+        },
+        {
+          "texto": "en",
+          "inicio": 8.827,
+          "fin": 8.88
+        },
+        {
+          "texto": "tus",
+          "inicio": 8.94,
+          "fin": 9.12
+        },
+        {
+          "texto": "errores.",
+          "inicio": 9.18,
+          "fin": 9.76
+        },
+        {
+          "texto": "Puedes",
+          "inicio": 9.92,
+          "fin": 10.32
+        },
+        {
+          "texto": "pedir",
+          "inicio": 10.36,
+          "fin": 10.64
+        },
+        {
+          "texto": "un",
+          "inicio": 10.667,
+          "fin": 10.72
+        },
+        {
+          "texto": "análisis",
+          "inicio": 10.768,
+          "fin": 11.2
+        },
+        {
+          "texto": "nuevo",
+          "inicio": 11.253,
+          "fin": 11.52
+        },
+        {
+          "texto": "cada",
+          "inicio": 11.632,
+          "fin": 12.08
+        },
+        {
+          "texto": "veinticuatro",
+          "inicio": 12.107,
+          "fin": 12.8
+        },
+        {
+          "texto": "horas.",
+          "inicio": 12.867,
+          "fin": 13.28
+        }
+      ]
+    },
+    {
+      "num": "03",
+      "titulo": "Fortalezas y debilidades",
+      "audio": "escena-03.mp3",
+      "inicio": 22.56,
+      "duracion": 4.88,
+      "palabras": [
+        {
+          "texto": "Te",
+          "inicio": 0.0,
+          "fin": 0.08
+        },
+        {
+          "texto": "muestra",
+          "inicio": 0.13,
+          "fin": 0.48
+        },
+        {
+          "texto": "tus",
+          "inicio": 0.54,
+          "fin": 0.72
+        },
+        {
+          "texto": "fortalezas",
+          "inicio": 0.784,
+          "fin": 1.52
+        },
+        {
+          "texto": "y",
+          "inicio": 1.64,
+          "fin": 1.76
+        },
+        {
+          "texto": "lo",
+          "inicio": 1.813,
+          "fin": 1.92
+        },
+        {
+          "texto": "que",
+          "inicio": 1.98,
+          "fin": 2.16
+        },
+        {
+          "texto": "debes",
+          "inicio": 2.2,
+          "fin": 2.48
+        },
+        {
+          "texto": "mejorar,",
+          "inicio": 2.55,
+          "fin": 3.36
+        },
+        {
+          "texto": "con",
+          "inicio": 3.4,
+          "fin": 3.52
+        },
+        {
+          "texto": "palabras",
+          "inicio": 3.573,
+          "fin": 4.0
+        },
+        {
+          "texto": "claras.",
+          "inicio": 4.112,
+          "fin": 4.88
+        }
+      ]
+    },
+    {
+      "num": "04",
+      "titulo": "Estrategia y normativa",
+      "audio": "escena-04.mp3",
+      "inicio": 27.84,
+      "duracion": 8.8,
+      "palabras": [
+        {
+          "texto": "Después,",
+          "inicio": 0.0,
+          "fin": 0.48
+        },
+        {
+          "texto": "una",
+          "inicio": 0.58,
+          "fin": 0.88
+        },
+        {
+          "texto": "estrategia",
+          "inicio": 0.928,
+          "fin": 1.44
+        },
+        {
+          "texto": "personalizada:",
+          "inicio": 1.502,
+          "fin": 2.48
+        },
+        {
+          "texto": "recomendaciones",
+          "inicio": 2.551,
+          "fin": 3.44
+        },
+        {
+          "texto": "clave,",
+          "inicio": 3.507,
+          "fin": 3.92
+        },
+        {
+          "texto": "un",
+          "inicio": 4.0,
+          "fin": 4.16
+        },
+        {
+          "texto": "resumen",
+          "inicio": 4.22,
+          "fin": 4.56
+        },
+        {
+          "texto": "de",
+          "inicio": 4.587,
+          "fin": 4.64
+        },
+        {
+          "texto": "tu",
+          "inicio": 4.693,
+          "fin": 4.8
+        },
+        {
+          "texto": "plan",
+          "inicio": 4.832,
+          "fin": 4.96
+        },
+        {
+          "texto": "de",
+          "inicio": 5.013,
+          "fin": 5.12
+        },
+        {
+          "texto": "estudio",
+          "inicio": 5.17,
+          "fin": 5.52
+        },
+        {
+          "texto": "y",
+          "inicio": 5.72,
+          "fin": 5.92
+        },
+        {
+          "texto": "la",
+          "inicio": 5.973,
+          "fin": 6.08
+        },
+        {
+          "texto": "normativa",
+          "inicio": 6.128,
+          "fin": 6.64
+        },
+        {
+          "texto": "que",
+          "inicio": 6.68,
+          "fin": 6.8
+        },
+        {
+          "texto": "te",
+          "inicio": 6.827,
+          "fin": 6.88
+        },
+        {
+          "texto": "conviene",
+          "inicio": 6.928,
+          "fin": 7.28
+        },
+        {
+          "texto": "repasar,",
+          "inicio": 7.34,
+          "fin": 8.0
+        },
+        {
+          "texto": "ley",
+          "inicio": 8.06,
+          "fin": 8.24
+        },
+        {
+          "texto": "por",
+          "inicio": 8.28,
+          "fin": 8.4
+        },
+        {
+          "texto": "ley.",
+          "inicio": 8.5,
+          "fin": 8.8
+        }
+      ]
+    },
+    {
+      "num": "05",
+      "titulo": "PDF",
+      "audio": "escena-05.mp3",
+      "inicio": 37.04,
+      "duracion": 4.32,
+      "palabras": [
+        {
+          "texto": "Y",
+          "inicio": 0.0,
+          "fin": 0.08
+        },
+        {
+          "texto": "lo",
+          "inicio": 0.133,
+          "fin": 0.24
+        },
+        {
+          "texto": "descargas",
+          "inicio": 0.304,
+          "fin": 0.96
+        },
+        {
+          "texto": "en",
+          "inicio": 1.013,
+          "fin": 1.12
+        },
+        {
+          "texto": "PDF",
+          "inicio": 1.26,
+          "fin": 1.68
+        },
+        {
+          "texto": "como",
+          "inicio": 1.728,
+          "fin": 1.92
+        },
+        {
+          "texto": "tu",
+          "inicio": 2.0,
+          "fin": 2.16
+        },
+        {
+          "texto": "plan",
+          "inicio": 2.208,
+          "fin": 2.4
+        },
+        {
+          "texto": "de",
+          "inicio": 2.427,
+          "fin": 2.48
+        },
+        {
+          "texto": "mejora,",
+          "inicio": 2.54,
+          "fin": 3.12
+        },
+        {
+          "texto": "para",
+          "inicio": 3.152,
+          "fin": 3.28
+        },
+        {
+          "texto": "llevarlo",
+          "inicio": 3.337,
+          "fin": 3.76
+        },
+        {
+          "texto": "contigo.",
+          "inicio": 3.808,
+          "fin": 4.32
+        }
+      ]
+    },
+    {
+      "num": "06",
+      "titulo": "Cierre",
+      "audio": "escena-06.mp3",
+      "inicio": 41.76,
+      "duracion": 4.56,
+      "palabras": [
+        {
+          "texto": "El",
+          "inicio": 0.0,
+          "fin": 0.16
+        },
+        {
+          "texto": "Coach",
+          "inicio": 0.227,
+          "fin": 0.56
+        },
+        {
+          "texto": "IA",
+          "inicio": 0.667,
+          "fin": 0.88
+        },
+        {
+          "texto": "está",
+          "inicio": 0.976,
+          "fin": 1.36
+        },
+        {
+          "texto": "en",
+          "inicio": 1.387,
+          "fin": 1.44
+        },
+        {
+          "texto": "los",
+          "inicio": 1.46,
+          "fin": 1.52
+        },
+        {
+          "texto": "planes",
+          "inicio": 1.577,
+          "fin": 1.92
+        },
+        {
+          "texto": "Premium.",
+          "inicio": 1.97,
+          "fin": 2.52
+        },
+        {
+          "texto": "Conócelo",
+          "inicio": 2.57,
+          "fin": 3.2
+        },
+        {
+          "texto": "en",
+          "inicio": 3.253,
+          "fin": 3.36
+        },
+        {
+          "texto": "fundales",
+          "inicio": 3.408,
+          "fin": 3.92
+        },
+        {
+          "texto": "punto",
+          "inicio": 3.96,
+          "fin": 4.16
+        },
+        {
+          "texto": "com.",
+          "inicio": 4.24,
+          "fin": 4.56
+        }
+      ]
+    }
+  ]
+}

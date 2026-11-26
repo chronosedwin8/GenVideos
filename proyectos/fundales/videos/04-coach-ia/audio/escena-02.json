@@ -1,0 +1,155 @@
+{
+  "num": "02",
+  "titulo": "Cómo funciona",
+  "texto": "Entras a Coach IA y tocas Analizar mi desempeño. La inteligencia artificial revisa tus simulacros y detecta patrones en tus errores. Puedes pedir un análisis nuevo cada veinticuatro horas.",
+  "texto_tts": "Entras a Coach IA y tocas Analizar mi desempeño. La inteligencia artificial revisa tus simulacros y detecta patrones en tus errores. Puedes pedir un análisis nuevo cada veinticuatro horas.",
+  "modelo": "eleven_v3",
+  "duracion": 13.28,
+  "palabras": [
+    {
+      "texto": "Entras",
+      "inicio": 0.0,
+      "fin": 0.4
+    },
+    {
+      "texto": "a",
+      "inicio": 0.44,
+      "fin": 0.48
+    },
+    {
+      "texto": "Coach",
+      "inicio": 0.533,
+      "fin": 0.8
+    },
+    {
+      "texto": "IA",
+      "inicio": 0.933,
+      "fin": 1.2
+    },
+    {
+      "texto": "y",
+      "inicio": 1.36,
+      "fin": 1.52
+    },
+    {
+      "texto": "tocas",
+      "inicio": 1.6,
+      "fin": 2.0
+    },
+    {
+      "texto": "Analizar",
+      "inicio": 2.096,
+      "fin": 2.88
+    },
+    {
+      "texto": "mi",
+      "inicio": 2.987,
+      "fin": 3.2
+    },
+    {
+      "texto": "desempeño.",
+      "inicio": 3.26,
+      "fin": 4.0
+    },
+    {
+      "texto": "La",
+      "inicio": 4.187,
+      "fin": 4.56
+    },
+    {
+      "texto": "inteligencia",
+      "inicio": 4.61,
+      "fin": 5.2
+    },
+    {
+      "texto": "artificial",
+      "inicio": 5.258,
+      "fin": 5.84
+    },
+    {
+      "texto": "revisa",
+      "inicio": 5.973,
+      "fin": 6.64
+    },
+    {
+      "texto": "tus",
+      "inicio": 6.68,
+      "fin": 6.8
+    },
+    {
+      "texto": "simulacros",
+      "inicio": 6.867,
+      "fin": 7.52
+    },
+    {
+      "texto": "y",
+      "inicio": 7.64,
+      "fin": 7.76
+    },
+    {
+      "texto": "detecta",
+      "inicio": 7.829,
+      "fin": 8.32
+    },
+    {
+      "texto": "patrones",
+      "inicio": 8.38,
+      "fin": 8.8
+    },
+    {
+      "texto": "en",
+      "inicio": 8.827,
+      "fin": 8.88
+    },
+    {
+      "texto": "tus",
+      "inicio": 8.94,
+      "fin": 9.12
+    },
+    {
+      "texto": "errores.",
+      "inicio": 9.18,
+      "fin": 9.76
+    },
+    {
+      "texto": "Puedes",
+      "inicio": 9.92,
+      "fin": 10.32
+    },
+    {
+      "texto": "pedir",
+      "inicio": 10.36,
+      "fin": 10.64
+    },
+    {
+      "texto": "un",
+      "inicio": 10.667,
+      "fin": 10.72
+    },
+    {
+      "texto": "análisis",
+      "inicio": 10.768,
+      "fin": 11.2
+    },
+    {
+      "texto": "nuevo",
+      "inicio": 11.253,
+      "fin": 11.52
+    },
+    {
+      "texto": "cada",
+      "inicio": 11.632,
+      "fin": 12.08
+    },
+    {
+      "texto": "veinticuatro",
+      "inicio": 12.107,
+      "fin": 12.8
+    },
+    {
+      "texto": "horas.",
+      "inicio": 12.867,
+      "fin": 13.28
+    }
+  ]
+}

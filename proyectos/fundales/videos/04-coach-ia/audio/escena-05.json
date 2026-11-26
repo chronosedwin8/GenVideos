@@ -1,0 +1,75 @@
+{
+  "num": "05",
+  "titulo": "PDF",
+  "texto": "Y lo descargas en PDF como tu plan de mejora, para llevarlo contigo.",
+  "texto_tts": "Y lo descargas en PDF como tu plan de mejora, para llevarlo contigo.",
+  "modelo": "eleven_v3",
+  "duracion": 4.32,
+  "palabras": [
+    {
+      "texto": "Y",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "lo",
+      "inicio": 0.133,
+      "fin": 0.24
+    },
+    {
+      "texto": "descargas",
+      "inicio": 0.304,
+      "fin": 0.96
+    },
+    {
+      "texto": "en",
+      "inicio": 1.013,
+      "fin": 1.12
+    },
+    {
+      "texto": "PDF",
+      "inicio": 1.26,
+      "fin": 1.68
+    },
+    {
+      "texto": "como",
+      "inicio": 1.728,
+      "fin": 1.92
+    },
+    {
+      "texto": "tu",
+      "inicio": 2.0,
+      "fin": 2.16
+    },
+    {
+      "texto": "plan",
+      "inicio": 2.208,
+      "fin": 2.4
+    },
+    {
+      "texto": "de",
+      "inicio": 2.427,
+      "fin": 2.48
+    },
+    {
+      "texto": "mejora,",
+      "inicio": 2.54,
+      "fin": 3.12
+    },
+    {
+      "texto": "para",
+      "inicio": 3.152,
+      "fin": 3.28
+    },
+    {
+      "texto": "llevarlo",
+      "inicio": 3.337,
+      "fin": 3.76
+    },
+    {
+      "texto": "contigo.",
+      "inicio": 3.808,
+      "fin": 4.32
+    }
+  ]
+}

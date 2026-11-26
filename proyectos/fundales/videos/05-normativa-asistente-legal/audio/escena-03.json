@@ -1,0 +1,100 @@
+{
+  "num": "03",
+  "titulo": "Biblioteca general",
+  "texto": "En la biblioteca general tienes las normas clave del sector, con un resumen de qué regula cada una.",
+  "texto_tts": "En la biblioteca general tienes las normas clave del sector, con un resumen de qué regula cada una.",
+  "modelo": "eleven_v3",
+  "duracion": 5.68,
+  "palabras": [
+    {
+      "texto": "En",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "la",
+      "inicio": 0.107,
+      "fin": 0.16
+    },
+    {
+      "texto": "biblioteca",
+      "inicio": 0.187,
+      "fin": 0.56
+    },
+    {
+      "texto": "general",
+      "inicio": 0.61,
+      "fin": 0.96
+    },
+    {
+      "texto": "tienes",
+      "inicio": 1.017,
+      "fin": 1.36
+    },
+    {
+      "texto": "las",
+      "inicio": 1.4,
+      "fin": 1.52
+    },
+    {
+      "texto": "normas",
+      "inicio": 1.568,
+      "fin": 1.92
+    },
+    {
+      "texto": "clave",
+      "inicio": 1.987,
+      "fin": 2.32
+    },
+    {
+      "texto": "del",
+      "inicio": 2.36,
+      "fin": 2.48
+    },
+    {
+      "texto": "sector,",
+      "inicio": 2.537,
+      "fin": 3.2
+    },
+    {
+      "texto": "con",
+      "inicio": 3.24,
+      "fin": 3.36
+    },
+    {
+      "texto": "un",
+      "inicio": 3.387,
+      "fin": 3.44
+    },
+    {
+      "texto": "resumen",
+      "inicio": 3.5,
+      "fin": 3.92
+    },
+    {
+      "texto": "de",
+      "inicio": 4.027,
+      "fin": 4.24
+    },
+    {
+      "texto": "qué",
+      "inicio": 4.3,
+      "fin": 4.48
+    },
+    {
+      "texto": "regula",
+      "inicio": 4.54,
+      "fin": 4.96
+    },
+    {
+      "texto": "cada",
+      "inicio": 5.04,
+      "fin": 5.36
+    },
+    {
+      "texto": "una.",
+      "inicio": 5.44,
+      "fin": 5.68
+    }
+  ]
+}

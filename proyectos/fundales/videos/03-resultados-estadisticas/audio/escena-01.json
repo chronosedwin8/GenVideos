@@ -1,0 +1,155 @@
+{
+  "num": "01",
+  "titulo": "Gancho",
+  "texto": "Hacer simulacros sin revisar los resultados es como entrenar con los ojos cerrados. Mira todo lo que te dice Entrenador Docente, en fundales punto com, después de cada prueba.",
+  "texto_tts": "[confident] Hacer simulacros sin revisar los resultados es como entrenar con los ojos cerrados. Mira todo lo que te dice Entrenador Docente, en fundales punto com, después de cada prueba.",
+  "modelo": "eleven_v3",
+  "duracion": 11.44,
+  "palabras": [
+    {
+      "texto": "Hacer",
+      "inicio": 0.072,
+      "fin": 0.32
+    },
+    {
+      "texto": "simulacros",
+      "inicio": 0.387,
+      "fin": 1.12
+    },
+    {
+      "texto": "sin",
+      "inicio": 1.22,
+      "fin": 1.52
+    },
+    {
+      "texto": "revisar",
+      "inicio": 1.6,
+      "fin": 2.08
+    },
+    {
+      "texto": "los",
+      "inicio": 2.12,
+      "fin": 2.24
+    },
+    {
+      "texto": "resultados",
+      "inicio": 2.298,
+      "fin": 2.88
+    },
+    {
+      "texto": "es",
+      "inicio": 3.04,
+      "fin": 3.36
+    },
+    {
+      "texto": "como",
+      "inicio": 3.392,
+      "fin": 3.52
+    },
+    {
+      "texto": "entrenar",
+      "inicio": 3.577,
+      "fin": 4.0
+    },
+    {
+      "texto": "con",
+      "inicio": 4.08,
+      "fin": 4.32
+    },
+    {
+      "texto": "los",
+      "inicio": 4.36,
+      "fin": 4.48
+    },
+    {
+      "texto": "ojos",
+      "inicio": 4.56,
+      "fin": 4.8
+    },
+    {
+      "texto": "cerrados.",
+      "inicio": 4.848,
+      "fin": 5.44
+    },
+    {
+      "texto": "Mira",
+      "inicio": 5.72,
+      "fin": 6.16
+    },
+    {
+      "texto": "todo",
+      "inicio": 6.224,
+      "fin": 6.48
+    },
+    {
+      "texto": "lo",
+      "inicio": 6.533,
+      "fin": 6.64
+    },
+    {
+      "texto": "que",
+      "inicio": 6.66,
+      "fin": 6.72
+    },
+    {
+      "texto": "te",
+      "inicio": 6.773,
+      "fin": 6.88
+    },
+    {
+      "texto": "dice",
+      "inicio": 6.928,
+      "fin": 7.12
+    },
+    {
+      "texto": "Entrenador",
+      "inicio": 7.18,
+      "fin": 7.76
+    },
+    {
+      "texto": "Docente,",
+      "inicio": 7.82,
+      "fin": 8.4
+    },
+    {
+      "texto": "en",
+      "inicio": 8.48,
+      "fin": 8.64
+    },
+    {
+      "texto": "fundales",
+      "inicio": 8.704,
+      "fin": 9.2
+    },
+    {
+      "texto": "punto",
+      "inicio": 9.24,
+      "fin": 9.44
+    },
+    {
+      "texto": "com,",
+      "inicio": 9.5,
+      "fin": 10.08
+    },
+    {
+      "texto": "después",
+      "inicio": 10.14,
+      "fin": 10.56
+    },
+    {
+      "texto": "de",
+      "inicio": 10.613,
+      "fin": 10.72
+    },
+    {
+      "texto": "cada",
+      "inicio": 10.768,
+      "fin": 10.96
+    },
+    {
+      "texto": "prueba.",
+      "inicio": 11.017,
+      "fin": 11.44
+    }
+  ]
+}

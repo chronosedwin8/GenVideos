@@ -1,0 +1,120 @@
+{
+  "num": "01",
+  "titulo": "Gancho",
+  "texto": "Llevas varios simulacros y no sabes qué estudiar primero. Para eso está el Coach IA de Entrenador Docente, en fundales punto com.",
+  "texto_tts": "[confident] Llevas varios simulacros y no sabes qué estudiar primero. Para eso está el Coach IA de Entrenador Docente, en fundales punto com.",
+  "modelo": "eleven_v3",
+  "duracion": 8.48,
+  "palabras": [
+    {
+      "texto": "Llevas",
+      "inicio": 0.12,
+      "fin": 0.32
+    },
+    {
+      "texto": "varios",
+      "inicio": 0.366,
+      "fin": 0.64
+    },
+    {
+      "texto": "simulacros",
+      "inicio": 0.693,
+      "fin": 1.36
+    },
+    {
+      "texto": "y",
+      "inicio": 1.44,
+      "fin": 1.52
+    },
+    {
+      "texto": "no",
+      "inicio": 1.573,
+      "fin": 1.68
+    },
+    {
+      "texto": "sabes",
+      "inicio": 1.74,
+      "fin": 2.08
+    },
+    {
+      "texto": "qué",
+      "inicio": 2.1,
+      "fin": 2.16
+    },
+    {
+      "texto": "estudiar",
+      "inicio": 2.213,
+      "fin": 2.56
+    },
+    {
+      "texto": "primero.",
+      "inicio": 2.62,
+      "fin": 3.12
+    },
+    {
+      "texto": "Para",
+      "inicio": 3.264,
+      "fin": 3.84
+    },
+    {
+      "texto": "eso",
+      "inicio": 3.9,
+      "fin": 4.08
+    },
+    {
+      "texto": "está",
+      "inicio": 4.144,
+      "fin": 4.4
+    },
+    {
+      "texto": "el",
+      "inicio": 4.507,
+      "fin": 4.72
+    },
+    {
+      "texto": "Coach",
+      "inicio": 4.813,
+      "fin": 5.28
+    },
+    {
+      "texto": "IA",
+      "inicio": 5.413,
+      "fin": 5.68
+    },
+    {
+      "texto": "de",
+      "inicio": 5.733,
+      "fin": 5.84
+    },
+    {
+      "texto": "Entrenador",
+      "inicio": 5.88,
+      "fin": 6.32
+    },
+    {
+      "texto": "Docente,",
+      "inicio": 6.38,
+      "fin": 6.96
+    },
+    {
+      "texto": "en",
+      "inicio": 7.04,
+      "fin": 7.2
+    },
+    {
+      "texto": "fundales",
+      "inicio": 7.248,
+      "fin": 7.76
+    },
+    {
+      "texto": "punto",
+      "inicio": 7.8,
+      "fin": 8.0
+    },
+    {
+      "texto": "com.",
+      "inicio": 8.08,
+      "fin": 8.48
+    }
+  ]
+}

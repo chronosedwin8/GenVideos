@@ -1,0 +1,175 @@
+{
+  "num": "04",
+  "titulo": "Respondiendo",
+  "texto": "La inteligencia artificial arma tus preguntas según tu cargo. Cada una trae un caso situacional, como en la prueba, cuatro opciones y un cronómetro de dos minutos por pregunta. Eliges, confirmas y avanzas.",
+  "texto_tts": "La inteligencia artificial arma tus preguntas según tu cargo. Cada una trae un caso situacional, como en la prueba, cuatro opciones y un cronómetro de dos minutos por pregunta. Eliges, confirmas y avanzas.",
+  "modelo": "eleven_v3",
+  "duracion": 13.76,
+  "palabras": [
+    {
+      "texto": "La",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "inteligencia",
+      "inicio": 0.13,
+      "fin": 0.64
+    },
+    {
+      "texto": "artificial",
+      "inicio": 0.698,
+      "fin": 1.28
+    },
+    {
+      "texto": "arma",
+      "inicio": 1.408,
+      "fin": 1.92
+    },
+    {
+      "texto": "tus",
+      "inicio": 1.98,
+      "fin": 2.16
+    },
+    {
+      "texto": "preguntas",
+      "inicio": 2.208,
+      "fin": 2.72
+    },
+    {
+      "texto": "según",
+      "inicio": 2.8,
+      "fin": 3.2
+    },
+    {
+      "texto": "tu",
+      "inicio": 3.253,
+      "fin": 3.36
+    },
+    {
+      "texto": "cargo.",
+      "inicio": 3.427,
+      "fin": 4.16
+    },
+    {
+      "texto": "Cada",
+      "inicio": 4.2,
+      "fin": 4.48
+    },
+    {
+      "texto": "una",
+      "inicio": 4.58,
+      "fin": 4.88
+    },
+    {
+      "texto": "trae",
+      "inicio": 4.907,
+      "fin": 5.12
+    },
+    {
+      "texto": "un",
+      "inicio": 5.147,
+      "fin": 5.2
+    },
+    {
+      "texto": "caso",
+      "inicio": 5.28,
+      "fin": 5.6
+    },
+    {
+      "texto": "situacional,",
+      "inicio": 5.648,
+      "fin": 6.64
+    },
+    {
+      "texto": "como",
+      "inicio": 6.688,
+      "fin": 6.88
+    },
+    {
+      "texto": "en",
+      "inicio": 6.907,
+      "fin": 6.96
+    },
+    {
+      "texto": "la",
+      "inicio": 6.987,
+      "fin": 7.04
+    },
+    {
+      "texto": "prueba,",
+      "inicio": 7.086,
+      "fin": 7.6
+    },
+    {
+      "texto": "cuatro",
+      "inicio": 7.646,
+      "fin": 7.92
+    },
+    {
+      "texto": "opciones",
+      "inicio": 7.973,
+      "fin": 8.4
+    },
+    {
+      "texto": "y",
+      "inicio": 8.56,
+      "fin": 8.72
+    },
+    {
+      "texto": "un",
+      "inicio": 8.773,
+      "fin": 8.88
+    },
+    {
+      "texto": "cronómetro",
+      "inicio": 8.928,
+      "fin": 9.52
+    },
+    {
+      "texto": "de",
+      "inicio": 9.547,
+      "fin": 9.6
+    },
+    {
+      "texto": "dos",
+      "inicio": 9.66,
+      "fin": 9.84
+    },
+    {
+      "texto": "minutos",
+      "inicio": 9.89,
+      "fin": 10.24
+    },
+    {
+      "texto": "por",
+      "inicio": 10.28,
+      "fin": 10.4
+    },
+    {
+      "texto": "pregunta.",
+      "inicio": 10.462,
+      "fin": 11.36
+    },
+    {
+      "texto": "Eliges,",
+      "inicio": 11.413,
+      "fin": 11.92
+    },
+    {
+      "texto": "confirmas",
+      "inicio": 12.01,
+      "fin": 12.8
+    },
+    {
+      "texto": "y",
+      "inicio": 12.92,
+      "fin": 13.04
+    },
+    {
+      "texto": "avanzas.",
+      "inicio": 13.107,
+      "fin": 13.76
+    }
+  ]
+}

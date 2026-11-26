@@ -1,0 +1,170 @@
+{
+  "num": "03",
+  "titulo": "Diseña tu estrategia",
+  "texto": "Luego llegas a Diseña tu estrategia. Para empezar, elige Diagnóstico inicial: una sesión corta que muestra rápido tus fortalezas y tus debilidades. Ajustas la cantidad de preguntas y tocas Generar simulacro IA.",
+  "texto_tts": "Luego llegas a Diseña tu estrategia. Para empezar, elige Diagnóstico inicial: una sesión corta que muestra rápido tus fortalezas y tus debilidades. Ajustas la cantidad de preguntas y tocas Generar simulacro IA.",
+  "modelo": "eleven_v3",
+  "duracion": 14.4,
+  "palabras": [
+    {
+      "texto": "Luego",
+      "inicio": 0.0,
+      "fin": 0.4
+    },
+    {
+      "texto": "llegas",
+      "inicio": 0.448,
+      "fin": 0.72
+    },
+    {
+      "texto": "a",
+      "inicio": 0.76,
+      "fin": 0.8
+    },
+    {
+      "texto": "Diseña",
+      "inicio": 0.864,
+      "fin": 1.2
+    },
+    {
+      "texto": "tu",
+      "inicio": 1.253,
+      "fin": 1.36
+    },
+    {
+      "texto": "estrategia.",
+      "inicio": 1.408,
+      "fin": 2.08
+    },
+    {
+      "texto": "Para",
+      "inicio": 2.096,
+      "fin": 2.16
+    },
+    {
+      "texto": "empezar,",
+      "inicio": 2.227,
+      "fin": 2.8
+    },
+    {
+      "texto": "elige",
+      "inicio": 2.88,
+      "fin": 3.2
+    },
+    {
+      "texto": "Diagnóstico",
+      "inicio": 3.307,
+      "fin": 4.08
+    },
+    {
+      "texto": "inicial:",
+      "inicio": 4.15,
+      "fin": 5.12
+    },
+    {
+      "texto": "una",
+      "inicio": 5.18,
+      "fin": 5.36
+    },
+    {
+      "texto": "sesión",
+      "inicio": 5.417,
+      "fin": 5.76
+    },
+    {
+      "texto": "corta",
+      "inicio": 5.824,
+      "fin": 6.16
+    },
+    {
+      "texto": "que",
+      "inicio": 6.2,
+      "fin": 6.32
+    },
+    {
+      "texto": "muestra",
+      "inicio": 6.37,
+      "fin": 6.72
+    },
+    {
+      "texto": "rápido",
+      "inicio": 6.777,
+      "fin": 7.12
+    },
+    {
+      "texto": "tus",
+      "inicio": 7.2,
+      "fin": 7.44
+    },
+    {
+      "texto": "fortalezas",
+      "inicio": 7.504,
+      "fin": 8.16
+    },
+    {
+      "texto": "y",
+      "inicio": 8.28,
+      "fin": 8.4
+    },
+    {
+      "texto": "tus",
+      "inicio": 8.48,
+      "fin": 8.72
+    },
+    {
+      "texto": "debilidades.",
+      "inicio": 8.78,
+      "fin": 9.8
+    },
+    {
+      "texto": "Ajustas",
+      "inicio": 9.94,
+      "fin": 10.48
+    },
+    {
+      "texto": "la",
+      "inicio": 10.507,
+      "fin": 10.56
+    },
+    {
+      "texto": "cantidad",
+      "inicio": 10.622,
+      "fin": 11.12
+    },
+    {
+      "texto": "de",
+      "inicio": 11.147,
+      "fin": 11.2
+    },
+    {
+      "texto": "preguntas",
+      "inicio": 11.248,
+      "fin": 11.84
+    },
+    {
+      "texto": "y",
+      "inicio": 11.96,
+      "fin": 12.08
+    },
+    {
+      "texto": "tocas",
+      "inicio": 12.187,
+      "fin": 12.56
+    },
+    {
+      "texto": "Generar",
+      "inicio": 12.64,
+      "fin": 13.12
+    },
+    {
+      "texto": "simulacro",
+      "inicio": 13.187,
+      "fin": 13.84
+    },
+    {
+      "texto": "IA.",
+      "inicio": 14.0,
+      "fin": 14.4
+    }
+  ]
+}

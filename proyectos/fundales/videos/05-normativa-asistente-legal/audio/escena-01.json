@@ -1,0 +1,115 @@
+{
+  "num": "01",
+  "titulo": "Gancho",
+  "texto": "Ley ciento quince, Decreto doce setenta y ocho, Ley dieciséis veinte… Son muchas normas para el concurso docente. ¿Por cuál empiezas?",
+  "texto_tts": "[confident] Ley ciento quince, Decreto doce setenta y ocho, Ley dieciséis veinte… Son muchas normas para el concurso docente. ¿Por cuál empiezas?",
+  "modelo": "eleven_v3",
+  "duracion": 8.64,
+  "palabras": [
+    {
+      "texto": "Ley",
+      "inicio": 0.204,
+      "fin": 0.24
+    },
+    {
+      "texto": "ciento",
+      "inicio": 0.28,
+      "fin": 0.56
+    },
+    {
+      "texto": "quince,",
+      "inicio": 0.64,
+      "fin": 1.04
+    },
+    {
+      "texto": "Decreto",
+      "inicio": 1.107,
+      "fin": 1.52
+    },
+    {
+      "texto": "doce",
+      "inicio": 1.627,
+      "fin": 1.96
+    },
+    {
+      "texto": "setenta",
+      "inicio": 1.99,
+      "fin": 2.32
+    },
+    {
+      "texto": "y",
+      "inicio": 2.36,
+      "fin": 2.4
+    },
+    {
+      "texto": "ocho,",
+      "inicio": 2.48,
+      "fin": 2.88
+    },
+    {
+      "texto": "Ley",
+      "inicio": 2.94,
+      "fin": 3.12
+    },
+    {
+      "texto": "dieciséis",
+      "inicio": 3.16,
+      "fin": 3.64
+    },
+    {
+      "texto": "veinte…",
+      "inicio": 3.68,
+      "fin": 4.48
+    },
+    {
+      "texto": "Son",
+      "inicio": 4.54,
+      "fin": 4.72
+    },
+    {
+      "texto": "muchas",
+      "inicio": 4.8,
+      "fin": 5.28
+    },
+    {
+      "texto": "normas",
+      "inicio": 5.328,
+      "fin": 5.68
+    },
+    {
+      "texto": "para",
+      "inicio": 5.712,
+      "fin": 5.84
+    },
+    {
+      "texto": "el",
+      "inicio": 5.867,
+      "fin": 5.92
+    },
+    {
+      "texto": "concurso",
+      "inicio": 5.96,
+      "fin": 6.32
+    },
+    {
+      "texto": "docente.",
+      "inicio": 6.38,
+      "fin": 6.88
+    },
+    {
+      "texto": "¿Por",
+      "inicio": 7.08,
+      "fin": 7.36
+    },
+    {
+      "texto": "cuál",
+      "inicio": 7.413,
+      "fin": 7.64
+    },
+    {
+      "texto": "empiezas?",
+      "inicio": 7.67,
+      "fin": 8.64
+    }
+  ]
+}

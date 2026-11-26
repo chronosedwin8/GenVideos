@@ -1,0 +1,215 @@
+{
+  "num": "02",
+  "titulo": "Registro",
+  "texto": "Entras a fundales punto com y tocas Empezar mi entrenamiento. Escribes tu nombre, eliges tu cargo, por ejemplo docente de aula, y tu área: primaria, matemáticas, sociales… hay diecisiete. Con tu correo y una contraseña ya tienes tu cuenta, sin tarjeta.",
+  "texto_tts": "Entras a fundales punto com y tocas Empezar mi entrenamiento. Escribes tu nombre, eliges tu cargo, por ejemplo docente de aula, y tu área: primaria, matemáticas, sociales… hay diecisiete. Con tu correo y una contraseña ya tienes tu cuenta, sin tarjeta.",
+  "modelo": "eleven_v3",
+  "duracion": 18.16,
+  "palabras": [
+    {
+      "texto": "Entras",
+      "inicio": 0.0,
+      "fin": 0.56
+    },
+    {
+      "texto": "a",
+      "inicio": 0.6,
+      "fin": 0.64
+    },
+    {
+      "texto": "fundales",
+      "inicio": 0.704,
+      "fin": 1.2
+    },
+    {
+      "texto": "punto",
+      "inicio": 1.24,
+      "fin": 1.44
+    },
+    {
+      "texto": "com",
+      "inicio": 1.52,
+      "fin": 1.76
+    },
+    {
+      "texto": "y",
+      "inicio": 1.88,
+      "fin": 2.0
+    },
+    {
+      "texto": "tocas",
+      "inicio": 2.08,
+      "fin": 2.48
+    },
+    {
+      "texto": "Empezar",
+      "inicio": 2.613,
+      "fin": 3.12
+    },
+    {
+      "texto": "mi",
+      "inicio": 3.173,
+      "fin": 3.28
+    },
+    {
+      "texto": "entrenamiento.",
+      "inicio": 3.314,
+      "fin": 4.0
+    },
+    {
+      "texto": "Escribes",
+      "inicio": 4.187,
+      "fin": 4.88
+    },
+    {
+      "texto": "tu",
+      "inicio": 4.907,
+      "fin": 4.96
+    },
+    {
+      "texto": "nombre,",
+      "inicio": 5.017,
+      "fin": 5.76
+    },
+    {
+      "texto": "eliges",
+      "inicio": 5.824,
+      "fin": 6.16
+    },
+    {
+      "texto": "tu",
+      "inicio": 6.213,
+      "fin": 6.32
+    },
+    {
+      "texto": "cargo,",
+      "inicio": 6.387,
+      "fin": 6.88
+    },
+    {
+      "texto": "por",
+      "inicio": 6.9,
+      "fin": 6.96
+    },
+    {
+      "texto": "ejemplo",
+      "inicio": 7.02,
+      "fin": 7.44
+    },
+    {
+      "texto": "docente",
+      "inicio": 7.56,
+      "fin": 8.16
+    },
+    {
+      "texto": "de",
+      "inicio": 8.187,
+      "fin": 8.24
+    },
+    {
+      "texto": "aula,",
+      "inicio": 8.36,
+      "fin": 8.96
+    },
+    {
+      "texto": "y",
+      "inicio": 9.08,
+      "fin": 9.2
+    },
+    {
+      "texto": "tu",
+      "inicio": 9.253,
+      "fin": 9.36
+    },
+    {
+      "texto": "área:",
+      "inicio": 9.424,
+      "fin": 10.08
+    },
+    {
+      "texto": "primaria,",
+      "inicio": 10.128,
+      "fin": 10.72
+    },
+    {
+      "texto": "matemáticas,",
+      "inicio": 10.78,
+      "fin": 11.68
+    },
+    {
+      "texto": "sociales…",
+      "inicio": 11.742,
+      "fin": 12.48
+    },
+    {
+      "texto": "hay",
+      "inicio": 12.54,
+      "fin": 12.72
+    },
+    {
+      "texto": "diecisiete.",
+      "inicio": 12.78,
+      "fin": 13.52
+    },
+    {
+      "texto": "Con",
+      "inicio": 13.66,
+      "fin": 14.08
+    },
+    {
+      "texto": "tu",
+      "inicio": 14.133,
+      "fin": 14.24
+    },
+    {
+      "texto": "correo",
+      "inicio": 14.309,
+      "fin": 14.72
+    },
+    {
+      "texto": "y",
+      "inicio": 14.8,
+      "fin": 14.88
+    },
+    {
+      "texto": "una",
+      "inicio": 14.92,
+      "fin": 15.04
+    },
+    {
+      "texto": "contraseña",
+      "inicio": 15.12,
+      "fin": 15.92
+    },
+    {
+      "texto": "ya",
+      "inicio": 15.973,
+      "fin": 16.08
+    },
+    {
+      "texto": "tienes",
+      "inicio": 16.137,
+      "fin": 16.48
+    },
+    {
+      "texto": "tu",
+      "inicio": 16.533,
+      "fin": 16.64
+    },
+    {
+      "texto": "cuenta,",
+      "inicio": 16.697,
+      "fin": 17.28
+    },
+    {
+      "texto": "sin",
+      "inicio": 17.34,
+      "fin": 17.52
+    },
+    {
+      "texto": "tarjeta.",
+      "inicio": 17.58,
+      "fin": 18.16
+    }
+  ]
+}

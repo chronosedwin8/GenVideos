@@ -1,0 +1,100 @@
+{
+  "num": "01",
+  "titulo": "Gancho",
+  "texto": "¿Y si pudieras practicar tu entrevista docente hablando con un entrevistador que no se cansa ni te juzga?",
+  "texto_tts": "[confident] ¿Y si pudieras practicar tu entrevista docente hablando con un entrevistador que no se cansa ni te juzga?",
+  "modelo": "eleven_v3",
+  "duracion": 6.48,
+  "palabras": [
+    {
+      "texto": "¿Y",
+      "inicio": 0.06,
+      "fin": 0.08
+    },
+    {
+      "texto": "si",
+      "inicio": 0.133,
+      "fin": 0.24
+    },
+    {
+      "texto": "pudieras",
+      "inicio": 0.3,
+      "fin": 0.72
+    },
+    {
+      "texto": "practicar",
+      "inicio": 0.773,
+      "fin": 1.28
+    },
+    {
+      "texto": "tu",
+      "inicio": 1.307,
+      "fin": 1.36
+    },
+    {
+      "texto": "entrevista",
+      "inicio": 1.406,
+      "fin": 1.92
+    },
+    {
+      "texto": "docente",
+      "inicio": 1.98,
+      "fin": 2.48
+    },
+    {
+      "texto": "hablando",
+      "inicio": 2.6,
+      "fin": 3.2
+    },
+    {
+      "texto": "con",
+      "inicio": 3.24,
+      "fin": 3.36
+    },
+    {
+      "texto": "un",
+      "inicio": 3.413,
+      "fin": 3.52
+    },
+    {
+      "texto": "entrevistador",
+      "inicio": 3.566,
+      "fin": 4.24
+    },
+    {
+      "texto": "que",
+      "inicio": 4.3,
+      "fin": 4.48
+    },
+    {
+      "texto": "no",
+      "inicio": 4.56,
+      "fin": 4.72
+    },
+    {
+      "texto": "se",
+      "inicio": 4.827,
+      "fin": 5.04
+    },
+    {
+      "texto": "cansa",
+      "inicio": 5.12,
+      "fin": 5.52
+    },
+    {
+      "texto": "ni",
+      "inicio": 5.573,
+      "fin": 5.68
+    },
+    {
+      "texto": "te",
+      "inicio": 5.733,
+      "fin": 5.84
+    },
+    {
+      "texto": "juzga?",
+      "inicio": 5.88,
+      "fin": 6.48
+    }
+  ]
+}

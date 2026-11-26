@@ -1,0 +1,65 @@
+{
+  "num": "04",
+  "titulo": "PDF",
+  "texto": "Con Guardar reporte descargas todo en PDF para repasarlo cuando quieras.",
+  "texto_tts": "Con Guardar reporte descargas todo en PDF para repasarlo cuando quieras.",
+  "modelo": "eleven_v3",
+  "duracion": 5.28,
+  "palabras": [
+    {
+      "texto": "Con",
+      "inicio": 0.0,
+      "fin": 0.24
+    },
+    {
+      "texto": "Guardar",
+      "inicio": 0.293,
+      "fin": 0.72
+    },
+    {
+      "texto": "reporte",
+      "inicio": 0.789,
+      "fin": 1.44
+    },
+    {
+      "texto": "descargas",
+      "inicio": 1.488,
+      "fin": 2.08
+    },
+    {
+      "texto": "todo",
+      "inicio": 2.16,
+      "fin": 2.48
+    },
+    {
+      "texto": "en",
+      "inicio": 2.533,
+      "fin": 2.64
+    },
+    {
+      "texto": "PDF",
+      "inicio": 2.78,
+      "fin": 3.2
+    },
+    {
+      "texto": "para",
+      "inicio": 3.248,
+      "fin": 3.44
+    },
+    {
+      "texto": "repasarlo",
+      "inicio": 3.5,
+      "fin": 4.16
+    },
+    {
+      "texto": "cuando",
+      "inicio": 4.229,
+      "fin": 4.64
+    },
+    {
+      "texto": "quieras.",
+      "inicio": 4.693,
+      "fin": 5.28
+    }
+  ]
+}

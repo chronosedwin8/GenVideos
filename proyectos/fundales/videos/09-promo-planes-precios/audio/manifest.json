@@ -1,0 +1,439 @@
+{
+  "canal": "fundales",
+  "slug": "09-promo-planes-precios",
+  "duracion_total": 33.44,
+  "pausa_entre_escenas": 0.4,
+  "escenas": [
+    {
+      "num": "01",
+      "titulo": "Gancho",
+      "audio": "escena-01.mp3",
+      "inicio": 0.0,
+      "duracion": 5.68,
+      "palabras": [
+        {
+          "texto": "¿Cuánto",
+          "inicio": 0.12,
+          "fin": 0.48
+        },
+        {
+          "texto": "cuesta",
+          "inicio": 0.56,
+          "fin": 1.04
+        },
+        {
+          "texto": "prepararte",
+          "inicio": 1.12,
+          "fin": 1.92
+        },
+        {
+          "texto": "en",
+          "inicio": 2.053,
+          "fin": 2.32
+        },
+        {
+          "texto": "serio",
+          "inicio": 2.42,
+          "fin": 2.88
+        },
+        {
+          "texto": "para",
+          "inicio": 2.912,
+          "fin": 3.04
+        },
+        {
+          "texto": "el",
+          "inicio": 3.067,
+          "fin": 3.12
+        },
+        {
+          "texto": "concurso",
+          "inicio": 3.18,
+          "fin": 3.6
+        },
+        {
+          "texto": "docente?",
+          "inicio": 3.68,
+          "fin": 4.56
+        },
+        {
+          "texto": "Menos",
+          "inicio": 4.6,
+          "fin": 4.8
+        },
+        {
+          "texto": "de",
+          "inicio": 4.853,
+          "fin": 4.96
+        },
+        {
+          "texto": "lo",
+          "inicio": 4.987,
+          "fin": 5.04
+        },
+        {
+          "texto": "que",
+          "inicio": 5.06,
+          "fin": 5.12
+        },
+        {
+          "texto": "crees.",
+          "inicio": 5.18,
+          "fin": 5.68
+        }
+      ]
+    },
+    {
+      "num": "02",
+      "titulo": "Los planes",
+      "audio": "escena-02.mp3",
+      "inicio": 6.08,
+      "duracion": 16.64,
+      "palabras": [
+        {
+          "texto": "El",
+          "inicio": 0.0,
+          "fin": 0.16
+        },
+        {
+          "texto": "Básico",
+          "inicio": 0.2,
+          "fin": 0.72
+        },
+        {
+          "texto": "cuesta",
+          "inicio": 0.76,
+          "fin": 1.04
+        },
+        {
+          "texto": "cien",
+          "inicio": 1.16,
+          "fin": 1.36
+        },
+        {
+          "texto": "mil",
+          "inicio": 1.42,
+          "fin": 1.6
+        },
+        {
+          "texto": "pesos",
+          "inicio": 1.667,
+          "fin": 2.0
+        },
+        {
+          "texto": "al",
+          "inicio": 2.053,
+          "fin": 2.16
+        },
+        {
+          "texto": "año,",
+          "inicio": 2.24,
+          "fin": 2.72
+        },
+        {
+          "texto": "con",
+          "inicio": 2.78,
+          "fin": 2.96
+        },
+        {
+          "texto": "ocho",
+          "inicio": 3.12,
+          "fin": 3.36
+        },
+        {
+          "texto": "simulacros",
+          "inicio": 3.427,
+          "fin": 4.08
+        },
+        {
+          "texto": "al",
+          "inicio": 4.107,
+          "fin": 4.16
+        },
+        {
+          "texto": "mes.",
+          "inicio": 4.26,
+          "fin": 4.64
+        },
+        {
+          "texto": "El",
+          "inicio": 4.827,
+          "fin": 5.2
+        },
+        {
+          "texto": "Intermedio,",
+          "inicio": 5.267,
+          "fin": 6.0
+        },
+        {
+          "texto": "el",
+          "inicio": 6.053,
+          "fin": 6.16
+        },
+        {
+          "texto": "más",
+          "inicio": 6.24,
+          "fin": 6.48
+        },
+        {
+          "texto": "popular,",
+          "inicio": 6.54,
+          "fin": 7.36
+        },
+        {
+          "texto": "ciento",
+          "inicio": 7.44,
+          "fin": 7.68
+        },
+        {
+          "texto": "ochenta",
+          "inicio": 7.74,
+          "fin": 8.08
+        },
+        {
+          "texto": "mil,",
+          "inicio": 8.16,
+          "fin": 8.48
+        },
+        {
+          "texto": "con",
+          "inicio": 8.56,
+          "fin": 8.8
+        },
+        {
+          "texto": "veinte",
+          "inicio": 8.88,
+          "fin": 9.28
+        },
+        {
+          "texto": "al",
+          "inicio": 9.307,
+          "fin": 9.36
+        },
+        {
+          "texto": "mes.",
+          "inicio": 9.46,
+          "fin": 9.84
+        },
+        {
+          "texto": "Y",
+          "inicio": 10.04,
+          "fin": 10.24
+        },
+        {
+          "texto": "el",
+          "inicio": 10.267,
+          "fin": 10.32
+        },
+        {
+          "texto": "Avanzado,",
+          "inicio": 10.373,
+          "fin": 11.04
+        },
+        {
+          "texto": "trescientos",
+          "inicio": 11.136,
+          "fin": 11.92
+        },
+        {
+          "texto": "mil,",
+          "inicio": 12.0,
+          "fin": 12.32
+        },
+        {
+          "texto": "con",
+          "inicio": 12.42,
+          "fin": 12.72
+        },
+        {
+          "texto": "cuarenta",
+          "inicio": 12.8,
+          "fin": 13.56
+        },
+        {
+          "texto": "simulacros",
+          "inicio": 13.593,
+          "fin": 14.08
+        },
+        {
+          "texto": "al",
+          "inicio": 14.133,
+          "fin": 14.24
+        },
+        {
+          "texto": "mes",
+          "inicio": 14.3,
+          "fin": 14.48
+        },
+        {
+          "texto": "de",
+          "inicio": 14.64,
+          "fin": 14.96
+        },
+        {
+          "texto": "hasta",
+          "inicio": 15.013,
+          "fin": 15.28
+        },
+        {
+          "texto": "cincuenta",
+          "inicio": 15.36,
+          "fin": 15.92
+        },
+        {
+          "texto": "preguntas.",
+          "inicio": 15.968,
+          "fin": 16.64
+        }
+      ]
+    },
+    {
+      "num": "03",
+      "titulo": "Extras",
+      "audio": "escena-03.mp3",
+      "inicio": 23.12,
+      "duracion": 5.84,
+      "palabras": [
+        {
+          "texto": "Premium",
+          "inicio": 0.0,
+          "fin": 0.4
+        },
+        {
+          "texto": "suma",
+          "inicio": 0.512,
+          "fin": 0.96
+        },
+        {
+          "texto": "el",
+          "inicio": 1.013,
+          "fin": 1.12
+        },
+        {
+          "texto": "Coach",
+          "inicio": 1.187,
+          "fin": 1.52
+        },
+        {
+          "texto": "IA",
+          "inicio": 1.68,
+          "fin": 2.0
+        },
+        {
+          "texto": "y",
+          "inicio": 2.04,
+          "fin": 2.08
+        },
+        {
+          "texto": "el",
+          "inicio": 2.107,
+          "fin": 2.16
+        },
+        {
+          "texto": "asistente",
+          "inicio": 2.213,
+          "fin": 2.72
+        },
+        {
+          "texto": "legal,",
+          "inicio": 2.787,
+          "fin": 3.36
+        },
+        {
+          "texto": "y",
+          "inicio": 3.4,
+          "fin": 3.44
+        },
+        {
+          "texto": "puedes",
+          "inicio": 3.486,
+          "fin": 3.76
+        },
+        {
+          "texto": "agregar",
+          "inicio": 3.81,
+          "fin": 4.16
+        },
+        {
+          "texto": "la",
+          "inicio": 4.24,
+          "fin": 4.4
+        },
+        {
+          "texto": "entrevista",
+          "inicio": 4.457,
+          "fin": 5.04
+        },
+        {
+          "texto": "con",
+          "inicio": 5.1,
+          "fin": 5.28
+        },
+        {
+          "texto": "IA.",
+          "inicio": 5.467,
+          "fin": 5.84
+        }
+      ]
+    },
+    {
+      "num": "04",
+      "titulo": "Cierre",
+      "audio": "escena-04.mp3",
+      "inicio": 29.36,
+      "duracion": 3.68,
+      "palabras": [
+        {
+          "texto": "Y",
+          "inicio": 0.0,
+          "fin": 0.16
+        },
+        {
+          "texto": "antes",
+          "inicio": 0.2,
+          "fin": 0.4
+        },
+        {
+          "texto": "de",
+          "inicio": 0.453,
+          "fin": 0.56
+        },
+        {
+          "texto": "pagar,",
+          "inicio": 0.613,
+          "fin": 1.04
+        },
+        {
+          "texto": "pruébalo",
+          "inicio": 1.093,
+          "fin": 1.52
+        },
+        {
+          "texto": "gratis",
+          "inicio": 1.589,
+          "fin": 2.0
+        },
+        {
+          "texto": "en",
+          "inicio": 2.053,
+          "fin": 2.16
+        },
+        {
+          "texto": "fundales",
+          "inicio": 2.224,
+          "fin": 2.8
+        },
+        {
+          "texto": "punto",
+          "inicio": 2.84,
+          "fin": 3.04
+        },
+        {
+          "texto": "com.",
+          "inicio": 3.12,
+          "fin": 3.68
+        }
+      ]
+    }
+  ]
+}

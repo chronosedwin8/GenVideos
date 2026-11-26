@@ -1,0 +1,225 @@
+{
+  "num": "02",
+  "titulo": "El caso",
+  "texto": "Tu colegio tiene una deserción del diez por ciento. El cuarenta por ciento se va por plata, el treinta por bajo rendimiento y el treinta por razones personales. Las becas no pueden crecer. ¿Qué haces para bajar la deserción un quince por ciento?",
+  "texto_tts": "Tu colegio tiene una deserción del diez por ciento. El cuarenta por ciento se va por plata, el treinta por bajo rendimiento y el treinta por razones personales. Las becas no pueden crecer. ¿Qué haces para bajar la deserción un quince por ciento?",
+  "modelo": "eleven_v3",
+  "duracion": 16.4,
+  "palabras": [
+    {
+      "texto": "Tu",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "colegio",
+      "inicio": 0.133,
+      "fin": 0.48
+    },
+    {
+      "texto": "tiene",
+      "inicio": 0.52,
+      "fin": 0.72
+    },
+    {
+      "texto": "una",
+      "inicio": 0.74,
+      "fin": 0.8
+    },
+    {
+      "texto": "deserción",
+      "inicio": 0.86,
+      "fin": 1.36
+    },
+    {
+      "texto": "del",
+      "inicio": 1.42,
+      "fin": 1.6
+    },
+    {
+      "texto": "diez",
+      "inicio": 1.66,
+      "fin": 1.841
+    },
+    {
+      "texto": "por",
+      "inicio": 1.92,
+      "fin": 2.16
+    },
+    {
+      "texto": "ciento.",
+      "inicio": 2.2,
+      "fin": 2.64
+    },
+    {
+      "texto": "El",
+      "inicio": 2.8,
+      "fin": 3.12
+    },
+    {
+      "texto": "cuarenta",
+      "inicio": 3.2,
+      "fin": 3.76
+    },
+    {
+      "texto": "por",
+      "inicio": 3.78,
+      "fin": 3.84
+    },
+    {
+      "texto": "ciento",
+      "inicio": 3.88,
+      "fin": 4.16
+    },
+    {
+      "texto": "se",
+      "inicio": 4.213,
+      "fin": 4.32
+    },
+    {
+      "texto": "va",
+      "inicio": 4.373,
+      "fin": 4.48
+    },
+    {
+      "texto": "por",
+      "inicio": 4.52,
+      "fin": 4.64
+    },
+    {
+      "texto": "plata,",
+      "inicio": 4.707,
+      "fin": 5.44
+    },
+    {
+      "texto": "el",
+      "inicio": 5.493,
+      "fin": 5.6
+    },
+    {
+      "texto": "treinta",
+      "inicio": 5.66,
+      "fin": 6.0
+    },
+    {
+      "texto": "por",
+      "inicio": 6.08,
+      "fin": 6.32
+    },
+    {
+      "texto": "bajo",
+      "inicio": 6.384,
+      "fin": 6.64
+    },
+    {
+      "texto": "rendimiento",
+      "inicio": 6.688,
+      "fin": 7.44
+    },
+    {
+      "texto": "y",
+      "inicio": 7.6,
+      "fin": 7.76
+    },
+    {
+      "texto": "el",
+      "inicio": 7.787,
+      "fin": 7.84
+    },
+    {
+      "texto": "treinta",
+      "inicio": 7.92,
+      "fin": 8.32
+    },
+    {
+      "texto": "por",
+      "inicio": 8.42,
+      "fin": 8.72
+    },
+    {
+      "texto": "razones",
+      "inicio": 8.78,
+      "fin": 9.2
+    },
+    {
+      "texto": "personales.",
+      "inicio": 9.257,
+      "fin": 10.0
+    },
+    {
+      "texto": "Las",
+      "inicio": 10.12,
+      "fin": 10.48
+    },
+    {
+      "texto": "becas",
+      "inicio": 10.533,
+      "fin": 10.88
+    },
+    {
+      "texto": "no",
+      "inicio": 11.04,
+      "fin": 11.36
+    },
+    {
+      "texto": "pueden",
+      "inicio": 11.417,
+      "fin": 11.76
+    },
+    {
+      "texto": "crecer.",
+      "inicio": 11.8,
+      "fin": 12.32
+    },
+    {
+      "texto": "¿Qué",
+      "inicio": 12.6,
+      "fin": 13.04
+    },
+    {
+      "texto": "haces",
+      "inicio": 13.12,
+      "fin": 13.44
+    },
+    {
+      "texto": "para",
+      "inicio": 13.488,
+      "fin": 13.68
+    },
+    {
+      "texto": "bajar",
+      "inicio": 13.72,
+      "fin": 14.08
+    },
+    {
+      "texto": "la",
+      "inicio": 14.107,
+      "fin": 14.16
+    },
+    {
+      "texto": "deserción",
+      "inicio": 14.22,
+      "fin": 14.96
+    },
+    {
+      "texto": "un",
+      "inicio": 15.067,
+      "fin": 15.28
+    },
+    {
+      "texto": "quince",
+      "inicio": 15.333,
+      "fin": 15.6
+    },
+    {
+      "texto": "por",
+      "inicio": 15.66,
+      "fin": 15.84
+    },
+    {
+      "texto": "ciento?",
+      "inicio": 15.92,
+      "fin": 16.4
+    }
+  ]
+}

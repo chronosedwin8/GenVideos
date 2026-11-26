@@ -1,0 +1,110 @@
+{
+  "num": "05",
+  "titulo": "Resultado",
+  "texto": "Al terminar ves tu puntaje global, tu desempeño por competencia y cada respuesta explicada con la norma que la sustenta.",
+  "texto_tts": "Al terminar ves tu puntaje global, tu desempeño por competencia y cada respuesta explicada con la norma que la sustenta.",
+  "modelo": "eleven_v3",
+  "duracion": 8.72,
+  "palabras": [
+    {
+      "texto": "Al",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "terminar",
+      "inicio": 0.149,
+      "fin": 0.64
+    },
+    {
+      "texto": "ves",
+      "inicio": 0.78,
+      "fin": 1.2
+    },
+    {
+      "texto": "tu",
+      "inicio": 1.227,
+      "fin": 1.28
+    },
+    {
+      "texto": "puntaje",
+      "inicio": 1.344,
+      "fin": 1.76
+    },
+    {
+      "texto": "global,",
+      "inicio": 1.817,
+      "fin": 2.48
+    },
+    {
+      "texto": "tu",
+      "inicio": 2.533,
+      "fin": 2.64
+    },
+    {
+      "texto": "desempeño",
+      "inicio": 2.7,
+      "fin": 3.28
+    },
+    {
+      "texto": "por",
+      "inicio": 3.32,
+      "fin": 3.44
+    },
+    {
+      "texto": "competencia",
+      "inicio": 3.497,
+      "fin": 4.24
+    },
+    {
+      "texto": "y",
+      "inicio": 4.36,
+      "fin": 4.48
+    },
+    {
+      "texto": "cada",
+      "inicio": 4.544,
+      "fin": 4.8
+    },
+    {
+      "texto": "respuesta",
+      "inicio": 4.864,
+      "fin": 5.44
+    },
+    {
+      "texto": "explicada",
+      "inicio": 5.543,
+      "fin": 6.56
+    },
+    {
+      "texto": "con",
+      "inicio": 6.64,
+      "fin": 6.88
+    },
+    {
+      "texto": "la",
+      "inicio": 6.933,
+      "fin": 7.04
+    },
+    {
+      "texto": "norma",
+      "inicio": 7.12,
+      "fin": 7.52
+    },
+    {
+      "texto": "que",
+      "inicio": 7.62,
+      "fin": 7.92
+    },
+    {
+      "texto": "la",
+      "inicio": 7.973,
+      "fin": 8.08
+    },
+    {
+      "texto": "sustenta.",
+      "inicio": 8.144,
+      "fin": 8.72
+    }
+  ]
+}

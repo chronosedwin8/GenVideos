@@ -1,0 +1,125 @@
+{
+  "num": "04",
+  "titulo": "Estrategia y normativa",
+  "texto": "Después, una estrategia personalizada: recomendaciones clave, un resumen de tu plan de estudio y la normativa que te conviene repasar, ley por ley.",
+  "texto_tts": "Después, una estrategia personalizada: recomendaciones clave, un resumen de tu plan de estudio y la normativa que te conviene repasar, ley por ley.",
+  "modelo": "eleven_v3",
+  "duracion": 8.8,
+  "palabras": [
+    {
+      "texto": "Después,",
+      "inicio": 0.0,
+      "fin": 0.48
+    },
+    {
+      "texto": "una",
+      "inicio": 0.58,
+      "fin": 0.88
+    },
+    {
+      "texto": "estrategia",
+      "inicio": 0.928,
+      "fin": 1.44
+    },
+    {
+      "texto": "personalizada:",
+      "inicio": 1.502,
+      "fin": 2.48
+    },
+    {
+      "texto": "recomendaciones",
+      "inicio": 2.551,
+      "fin": 3.44
+    },
+    {
+      "texto": "clave,",
+      "inicio": 3.507,
+      "fin": 3.92
+    },
+    {
+      "texto": "un",
+      "inicio": 4.0,
+      "fin": 4.16
+    },
+    {
+      "texto": "resumen",
+      "inicio": 4.22,
+      "fin": 4.56
+    },
+    {
+      "texto": "de",
+      "inicio": 4.587,
+      "fin": 4.64
+    },
+    {
+      "texto": "tu",
+      "inicio": 4.693,
+      "fin": 4.8
+    },
+    {
+      "texto": "plan",
+      "inicio": 4.832,
+      "fin": 4.96
+    },
+    {
+      "texto": "de",
+      "inicio": 5.013,
+      "fin": 5.12
+    },
+    {
+      "texto": "estudio",
+      "inicio": 5.17,
+      "fin": 5.52
+    },
+    {
+      "texto": "y",
+      "inicio": 5.72,
+      "fin": 5.92
+    },
+    {
+      "texto": "la",
+      "inicio": 5.973,
+      "fin": 6.08
+    },
+    {
+      "texto": "normativa",
+      "inicio": 6.128,
+      "fin": 6.64
+    },
+    {
+      "texto": "que",
+      "inicio": 6.68,
+      "fin": 6.8
+    },
+    {
+      "texto": "te",
+      "inicio": 6.827,
+      "fin": 6.88
+    },
+    {
+      "texto": "conviene",
+      "inicio": 6.928,
+      "fin": 7.28
+    },
+    {
+      "texto": "repasar,",
+      "inicio": 7.34,
+      "fin": 8.0
+    },
+    {
+      "texto": "ley",
+      "inicio": 8.06,
+      "fin": 8.24
+    },
+    {
+      "texto": "por",
+      "inicio": 8.28,
+      "fin": 8.4
+    },
+    {
+      "texto": "ley.",
+      "inicio": 8.5,
+      "fin": 8.8
+    }
+  ]
+}

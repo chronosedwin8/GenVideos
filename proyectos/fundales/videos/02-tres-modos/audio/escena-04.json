@@ -1,0 +1,215 @@
+{
+  "num": "04",
+  "titulo": "Entrenamiento focalizado",
+  "texto": "Y tercero, el Entrenamiento focalizado. Eliges una sola competencia, por ejemplo lectura crítica o razonamiento cuantitativo, y practicas sin límite de tiempo. Cada vez que respondes te dice si acertaste y por qué. Es el modo para reforzar tu punto débil.",
+  "texto_tts": "Y tercero, el Entrenamiento focalizado. Eliges una sola competencia, por ejemplo lectura crítica o razonamiento cuantitativo, y practicas sin límite de tiempo. Cada vez que respondes te dice si acertaste y por qué. Es el modo para reforzar tu punto débil.",
+  "modelo": "eleven_v3",
+  "duracion": 17.12,
+  "palabras": [
+    {
+      "texto": "Y",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "tercero,",
+      "inicio": 0.14,
+      "fin": 0.72
+    },
+    {
+      "texto": "el",
+      "inicio": 0.747,
+      "fin": 0.8
+    },
+    {
+      "texto": "Entrenamiento",
+      "inicio": 0.86,
+      "fin": 1.6
+    },
+    {
+      "texto": "focalizado.",
+      "inicio": 1.68,
+      "fin": 2.96
+    },
+    {
+      "texto": "Eliges",
+      "inicio": 3.013,
+      "fin": 3.52
+    },
+    {
+      "texto": "una",
+      "inicio": 3.58,
+      "fin": 3.76
+    },
+    {
+      "texto": "sola",
+      "inicio": 3.824,
+      "fin": 4.08
+    },
+    {
+      "texto": "competencia,",
+      "inicio": 4.137,
+      "fin": 4.88
+    },
+    {
+      "texto": "por",
+      "inicio": 4.92,
+      "fin": 5.04
+    },
+    {
+      "texto": "ejemplo",
+      "inicio": 5.09,
+      "fin": 5.44
+    },
+    {
+      "texto": "lectura",
+      "inicio": 5.52,
+      "fin": 6.0
+    },
+    {
+      "texto": "crítica",
+      "inicio": 6.053,
+      "fin": 6.48
+    },
+    {
+      "texto": "o",
+      "inicio": 6.56,
+      "fin": 6.64
+    },
+    {
+      "texto": "razonamiento",
+      "inicio": 6.68,
+      "fin": 7.28
+    },
+    {
+      "texto": "cuantitativo,",
+      "inicio": 7.333,
+      "fin": 8.48
+    },
+    {
+      "texto": "y",
+      "inicio": 8.52,
+      "fin": 8.56
+    },
+    {
+      "texto": "practicas",
+      "inicio": 8.64,
+      "fin": 9.36
+    },
+    {
+      "texto": "sin",
+      "inicio": 9.44,
+      "fin": 9.68
+    },
+    {
+      "texto": "límite",
+      "inicio": 9.733,
+      "fin": 10.08
+    },
+    {
+      "texto": "de",
+      "inicio": 10.107,
+      "fin": 10.16
+    },
+    {
+      "texto": "tiempo.",
+      "inicio": 10.217,
+      "fin": 10.64
+    },
+    {
+      "texto": "Cada",
+      "inicio": 10.84,
+      "fin": 11.2
+    },
+    {
+      "texto": "vez",
+      "inicio": 11.26,
+      "fin": 11.44
+    },
+    {
+      "texto": "que",
+      "inicio": 11.46,
+      "fin": 11.52
+    },
+    {
+      "texto": "respondes",
+      "inicio": 11.58,
+      "fin": 12.16
+    },
+    {
+      "texto": "te",
+      "inicio": 12.213,
+      "fin": 12.32
+    },
+    {
+      "texto": "dice",
+      "inicio": 12.368,
+      "fin": 12.56
+    },
+    {
+      "texto": "si",
+      "inicio": 12.64,
+      "fin": 12.8
+    },
+    {
+      "texto": "acertaste",
+      "inicio": 12.853,
+      "fin": 13.52
+    },
+    {
+      "texto": "y",
+      "inicio": 13.64,
+      "fin": 13.76
+    },
+    {
+      "texto": "por",
+      "inicio": 13.82,
+      "fin": 14.0
+    },
+    {
+      "texto": "qué.",
+      "inicio": 14.06,
+      "fin": 14.4
+    },
+    {
+      "texto": "Es",
+      "inicio": 14.533,
+      "fin": 14.8
+    },
+    {
+      "texto": "el",
+      "inicio": 14.853,
+      "fin": 14.96
+    },
+    {
+      "texto": "modo",
+      "inicio": 15.024,
+      "fin": 15.28
+    },
+    {
+      "texto": "para",
+      "inicio": 15.328,
+      "fin": 15.52
+    },
+    {
+      "texto": "reforzar",
+      "inicio": 15.573,
+      "fin": 16.08
+    },
+    {
+      "texto": "tu",
+      "inicio": 16.187,
+      "fin": 16.4
+    },
+    {
+      "texto": "punto",
+      "inicio": 16.467,
+      "fin": 16.8
+    },
+    {
+      "texto": "débil.",
+      "inicio": 16.88,
+      "fin": 17.12
+    }
+  ]
+}

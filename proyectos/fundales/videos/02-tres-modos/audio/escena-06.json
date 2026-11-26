@@ -1,0 +1,55 @@
+{
+  "num": "06",
+  "titulo": "Cierre",
+  "texto": "Prueba los tres modos gratis en fundales punto com.",
+  "texto_tts": "Prueba los tres modos gratis en fundales punto com.",
+  "modelo": "eleven_v3",
+  "duracion": 2.72,
+  "palabras": [
+    {
+      "texto": "Prueba",
+      "inicio": 0.0,
+      "fin": 0.24
+    },
+    {
+      "texto": "los",
+      "inicio": 0.3,
+      "fin": 0.48
+    },
+    {
+      "texto": "tres",
+      "inicio": 0.512,
+      "fin": 0.64
+    },
+    {
+      "texto": "modos",
+      "inicio": 0.7,
+      "fin": 0.96
+    },
+    {
+      "texto": "gratis",
+      "inicio": 1.029,
+      "fin": 1.44
+    },
+    {
+      "texto": "en",
+      "inicio": 1.493,
+      "fin": 1.6
+    },
+    {
+      "texto": "fundales",
+      "inicio": 1.648,
+      "fin": 2.16
+    },
+    {
+      "texto": "punto",
+      "inicio": 2.187,
+      "fin": 2.32
+    },
+    {
+      "texto": "com.",
+      "inicio": 2.4,
+      "fin": 2.72
+    }
+  ]
+}

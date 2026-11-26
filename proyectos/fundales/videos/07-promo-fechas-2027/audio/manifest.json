@@ -1,0 +1,354 @@
+{
+  "canal": "fundales",
+  "slug": "07-promo-fechas-2027",
+  "duracion_total": 24.48,
+  "pausa_entre_escenas": 0.4,
+  "escenas": [
+    {
+      "num": "01",
+      "titulo": "Gancho",
+      "audio": "escena-01.mp3",
+      "inicio": 0.0,
+      "duracion": 3.44,
+      "palabras": [
+        {
+          "texto": "Profe,",
+          "inicio": 0.204,
+          "fin": 0.48
+        },
+        {
+          "texto": "¿viste",
+          "inicio": 0.52,
+          "fin": 0.8
+        },
+        {
+          "texto": "que",
+          "inicio": 0.82,
+          "fin": 0.88
+        },
+        {
+          "texto": "cambiaron",
+          "inicio": 0.92,
+          "fin": 1.2
+        },
+        {
+          "texto": "las",
+          "inicio": 1.24,
+          "fin": 1.36
+        },
+        {
+          "texto": "fechas",
+          "inicio": 1.387,
+          "fin": 1.6
+        },
+        {
+          "texto": "del",
+          "inicio": 1.64,
+          "fin": 1.76
+        },
+        {
+          "texto": "concurso",
+          "inicio": 1.82,
+          "fin": 2.24
+        },
+        {
+          "texto": "docente?",
+          "inicio": 2.3,
+          "fin": 3.44
+        }
+      ]
+    },
+    {
+      "num": "02",
+      "titulo": "El dato",
+      "audio": "escena-02.mp3",
+      "inicio": 3.84,
+      "duracion": 8.4,
+      "palabras": [
+        {
+          "texto": "Según",
+          "inicio": 0.0,
+          "fin": 0.24
+        },
+        {
+          "texto": "el",
+          "inicio": 0.293,
+          "fin": 0.4
+        },
+        {
+          "texto": "cronograma",
+          "inicio": 0.448,
+          "fin": 0.96
+        },
+        {
+          "texto": "ajustado",
+          "inicio": 1.04,
+          "fin": 1.68
+        },
+        {
+          "texto": "por",
+          "inicio": 1.72,
+          "fin": 1.84
+        },
+        {
+          "texto": "la",
+          "inicio": 1.867,
+          "fin": 1.92
+        },
+        {
+          "texto": "CNSC,",
+          "inicio": 2.04,
+          "fin": 2.96
+        },
+        {
+          "texto": "las",
+          "inicio": 3.0,
+          "fin": 3.12
+        },
+        {
+          "texto": "inscripciones",
+          "inicio": 3.18,
+          "fin": 3.76
+        },
+        {
+          "texto": "serían",
+          "inicio": 3.8,
+          "fin": 4.08
+        },
+        {
+          "texto": "a",
+          "inicio": 4.12,
+          "fin": 4.16
+        },
+        {
+          "texto": "comienzos",
+          "inicio": 4.2,
+          "fin": 4.64
+        },
+        {
+          "texto": "de",
+          "inicio": 4.667,
+          "fin": 4.72
+        },
+        {
+          "texto": "dos",
+          "inicio": 4.76,
+          "fin": 4.88
+        },
+        {
+          "texto": "mil",
+          "inicio": 4.92,
+          "fin": 5.04
+        },
+        {
+          "texto": "veintisiete",
+          "inicio": 5.093,
+          "fin": 5.84
+        },
+        {
+          "texto": "y",
+          "inicio": 6.0,
+          "fin": 6.16
+        },
+        {
+          "texto": "las",
+          "inicio": 6.2,
+          "fin": 6.32
+        },
+        {
+          "texto": "pruebas",
+          "inicio": 6.347,
+          "fin": 6.64
+        },
+        {
+          "texto": "escritas",
+          "inicio": 6.697,
+          "fin": 7.12
+        },
+        {
+          "texto": "en",
+          "inicio": 7.2,
+          "fin": 7.36
+        },
+        {
+          "texto": "el",
+          "inicio": 7.387,
+          "fin": 7.44
+        },
+        {
+          "texto": "segundo",
+          "inicio": 7.49,
+          "fin": 7.84
+        },
+        {
+          "texto": "semestre.",
+          "inicio": 7.9,
+          "fin": 8.4
+        }
+      ]
+    },
+    {
+      "num": "03",
+      "titulo": "La oportunidad",
+      "audio": "escena-03.mp3",
+      "inicio": 12.64,
+      "duracion": 8.16,
+      "palabras": [
+        {
+          "texto": "Eso",
+          "inicio": 0.0,
+          "fin": 0.24
+        },
+        {
+          "texto": "es",
+          "inicio": 0.293,
+          "fin": 0.4
+        },
+        {
+          "texto": "tiempo",
+          "inicio": 0.457,
+          "fin": 0.8
+        },
+        {
+          "texto": "para",
+          "inicio": 0.848,
+          "fin": 1.04
+        },
+        {
+          "texto": "entrenar,",
+          "inicio": 1.086,
+          "fin": 1.84
+        },
+        {
+          "texto": "no",
+          "inicio": 1.92,
+          "fin": 2.08
+        },
+        {
+          "texto": "para",
+          "inicio": 2.128,
+          "fin": 2.32
+        },
+        {
+          "texto": "relajarse.",
+          "inicio": 2.38,
+          "fin": 3.04
+        },
+        {
+          "texto": "Ya",
+          "inicio": 3.227,
+          "fin": 3.6
+        },
+        {
+          "texto": "son",
+          "inicio": 3.68,
+          "fin": 3.92
+        },
+        {
+          "texto": "más",
+          "inicio": 4.0,
+          "fin": 4.24
+        },
+        {
+          "texto": "de",
+          "inicio": 4.267,
+          "fin": 4.32
+        },
+        {
+          "texto": "dos",
+          "inicio": 4.38,
+          "fin": 4.56
+        },
+        {
+          "texto": "mil",
+          "inicio": 4.62,
+          "fin": 4.8
+        },
+        {
+          "texto": "trescientos",
+          "inicio": 4.88,
+          "fin": 5.52
+        },
+        {
+          "texto": "aspirantes",
+          "inicio": 5.573,
+          "fin": 6.08
+        },
+        {
+          "texto": "los",
+          "inicio": 6.12,
+          "fin": 6.24
+        },
+        {
+          "texto": "que",
+          "inicio": 6.28,
+          "fin": 6.4
+        },
+        {
+          "texto": "practican",
+          "inicio": 6.453,
+          "fin": 6.96
+        },
+        {
+          "texto": "en",
+          "inicio": 6.987,
+          "fin": 7.04
+        },
+        {
+          "texto": "Entrenador",
+          "inicio": 7.08,
+          "fin": 7.52
+        },
+        {
+          "texto": "Docente.",
+          "inicio": 7.58,
+          "fin": 8.16
+        }
+      ]
+    },
+    {
+      "num": "04",
+      "titulo": "Cierre",
+      "audio": "escena-04.mp3",
+      "inicio": 21.2,
+      "duracion": 2.88,
+      "palabras": [
+        {
+          "texto": "Empieza",
+          "inicio": 0.0,
+          "fin": 0.4
+        },
+        {
+          "texto": "gratis",
+          "inicio": 0.469,
+          "fin": 0.88
+        },
+        {
+          "texto": "hoy",
+          "inicio": 0.98,
+          "fin": 1.28
+        },
+        {
+          "texto": "en",
+          "inicio": 1.333,
+          "fin": 1.44
+        },
+        {
+          "texto": "fundales",
+          "inicio": 1.504,
+          "fin": 2.08
+        },
+        {
+          "texto": "punto",
+          "inicio": 2.133,
+          "fin": 2.4
+        },
+        {
+          "texto": "com.",
+          "inicio": 2.5,
+          "fin": 2.88
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "num": "04",
+  "titulo": "Cierre",
+  "texto": "Empieza gratis hoy en fundales punto com.",
+  "texto_tts": "Empieza gratis hoy en fundales punto com.",
+  "modelo": "eleven_v3",
+  "duracion": 2.88,
+  "palabras": [
+    {
+      "texto": "Empieza",
+      "inicio": 0.0,
+      "fin": 0.4
+    },
+    {
+      "texto": "gratis",
+      "inicio": 0.469,
+      "fin": 0.88
+    },
+    {
+      "texto": "hoy",
+      "inicio": 0.98,
+      "fin": 1.28
+    },
+    {
+      "texto": "en",
+      "inicio": 1.333,
+      "fin": 1.44
+    },
+    {
+      "texto": "fundales",
+      "inicio": 1.504,
+      "fin": 2.08
+    },
+    {
+      "texto": "punto",
+      "inicio": 2.133,
+      "fin": 2.4
+    },
+    {
+      "texto": "com.",
+      "inicio": 2.5,
+      "fin": 2.88
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "num": "03",
+  "titulo": "Ejercicios con IA",
+  "texto": "Y con Premium, la inteligencia artificial te genera ejercicios del tema que elijas, con la solución paso a paso y en PDF para imprimir.",
+  "texto_tts": "Y con Premium, la inteligencia artificial te genera ejercicios del tema que elijas, con la solución paso a paso y en PDF para imprimir.",
+  "modelo": "eleven_v3",
+  "duracion": 9.76,
+  "palabras": [
+    {
+      "texto": "Y",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "con",
+      "inicio": 0.14,
+      "fin": 0.32
+    },
+    {
+      "texto": "Premium,",
+      "inicio": 0.37,
+      "fin": 0.88
+    },
+    {
+      "texto": "la",
+      "inicio": 0.907,
+      "fin": 0.96
+    },
+    {
+      "texto": "inteligencia",
+      "inicio": 1.01,
+      "fin": 1.52
+    },
+    {
+      "texto": "artificial",
+      "inicio": 1.6,
+      "fin": 2.4
+    },
+    {
+      "texto": "te",
+      "inicio": 2.48,
+      "fin": 2.64
+    },
+    {
+      "texto": "genera",
+      "inicio": 2.72,
+      "fin": 3.2
+    },
+    {
+      "texto": "ejercicios",
+      "inicio": 3.36,
+      "fin": 4.32
+    },
+    {
+      "texto": "del",
+      "inicio": 4.4,
+      "fin": 4.64
+    },
+    {
+      "texto": "tema",
+      "inicio": 4.704,
+      "fin": 4.96
+    },
+    {
+      "texto": "que",
+      "inicio": 5.0,
+      "fin": 5.12
+    },
+    {
+      "texto": "elijas,",
+      "inicio": 5.147,
+      "fin": 5.92
+    },
+    {
+      "texto": "con",
+      "inicio": 5.96,
+      "fin": 6.08
+    },
+    {
+      "texto": "la",
+      "inicio": 6.133,
+      "fin": 6.24
+    },
+    {
+      "texto": "solución",
+      "inicio": 6.3,
+      "fin": 7.04
+    },
+    {
+      "texto": "paso",
+      "inicio": 7.152,
+      "fin": 7.6
+    },
+    {
+      "texto": "a",
+      "inicio": 7.64,
+      "fin": 7.68
+    },
+    {
+      "texto": "paso",
+      "inicio": 7.76,
+      "fin": 8.08
+    },
+    {
+      "texto": "y",
+      "inicio": 8.2,
+      "fin": 8.32
+    },
+    {
+      "texto": "en",
+      "inicio": 8.373,
+      "fin": 8.48
+    },
+    {
+      "texto": "PDF",
+      "inicio": 8.62,
+      "fin": 9.04
+    },
+    {
+      "texto": "para",
+      "inicio": 9.072,
+      "fin": 9.2
+    },
+    {
+      "texto": "imprimir.",
+      "inicio": 9.253,
+      "fin": 9.76
+    }
+  ]
+}

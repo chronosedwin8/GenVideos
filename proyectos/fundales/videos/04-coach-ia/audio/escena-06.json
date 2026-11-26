@@ -1,0 +1,75 @@
+{
+  "num": "06",
+  "titulo": "Cierre",
+  "texto": "El Coach IA está en los planes Premium. Conócelo en fundales punto com.",
+  "texto_tts": "El Coach IA está en los planes Premium. Conócelo en fundales punto com.",
+  "modelo": "eleven_v3",
+  "duracion": 4.56,
+  "palabras": [
+    {
+      "texto": "El",
+      "inicio": 0.0,
+      "fin": 0.16
+    },
+    {
+      "texto": "Coach",
+      "inicio": 0.227,
+      "fin": 0.56
+    },
+    {
+      "texto": "IA",
+      "inicio": 0.667,
+      "fin": 0.88
+    },
+    {
+      "texto": "está",
+      "inicio": 0.976,
+      "fin": 1.36
+    },
+    {
+      "texto": "en",
+      "inicio": 1.387,
+      "fin": 1.44
+    },
+    {
+      "texto": "los",
+      "inicio": 1.46,
+      "fin": 1.52
+    },
+    {
+      "texto": "planes",
+      "inicio": 1.577,
+      "fin": 1.92
+    },
+    {
+      "texto": "Premium.",
+      "inicio": 1.97,
+      "fin": 2.52
+    },
+    {
+      "texto": "Conócelo",
+      "inicio": 2.57,
+      "fin": 3.2
+    },
+    {
+      "texto": "en",
+      "inicio": 3.253,
+      "fin": 3.36
+    },
+    {
+      "texto": "fundales",
+      "inicio": 3.408,
+      "fin": 3.92
+    },
+    {
+      "texto": "punto",
+      "inicio": 3.96,
+      "fin": 4.16
+    },
+    {
+      "texto": "com.",
+      "inicio": 4.24,
+      "fin": 4.56
+    }
+  ]
+}

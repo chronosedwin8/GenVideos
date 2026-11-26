@@ -10,6 +10,9 @@ import {temaEdwinO} from './edwin-o/tema';
 import {EPISODIOS} from './edwin-o/episodios/index';
 import {color, datosShort, EpisodioMotor, ShortMotor} from './comun/Motor';
 import {MiniCodigo} from './comun/Bloques';
+import './fundales/fuentes';
+import {VIDEOS_FUNDALES} from './fundales/videos/index';
+import {duracionF, PortadaFundales, VideoFundales} from './fundales/motor';
 
 const buscar = (id: string) => EPISODIOS.find((e) => e.id === id)!;
 
@@ -104,6 +107,16 @@ export const RemotionRoot: React.FC = () => (
           />
         )}
       />
+    </Folder>
+    <Folder name="fundales">
+      {VIDEOS_FUNDALES.map((vf) => (
+        <React.Fragment key={vf.id}>
+          <Composition id={`${vf.id}-H`} component={VideoFundales} defaultProps={{video: vf, formato: 'h' as const}} durationInFrames={duracionF(vf)} fps={30} width={1920} height={1080} />
+          <Composition id={`${vf.id}-V`} component={VideoFundales} defaultProps={{video: vf, formato: 'v' as const}} durationInFrames={duracionF(vf)} fps={30} width={1080} height={1920} />
+          <Still id={`${vf.id}-Portada-H`} component={PortadaFundales} defaultProps={{video: vf, formato: 'h' as const}} width={1280} height={720} />
+          <Still id={`${vf.id}-Portada-V`} component={PortadaFundales} defaultProps={{video: vf, formato: 'v' as const}} width={1080} height={1920} />
+        </React.Fragment>
+      ))}
     </Folder>
   </>
 );

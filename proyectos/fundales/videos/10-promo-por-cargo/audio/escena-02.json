@@ -1,0 +1,175 @@
+{
+  "num": "02",
+  "titulo": "Personalizado",
+  "texto": "En Entrenador Docente eliges tu cargo y tu área, y las preguntas se adaptan: pedagogía y saberes específicos para docentes, gestión directiva y financiera para rectores, convivencia e inclusión para coordinadores y orientadores.",
+  "texto_tts": "En Entrenador Docente eliges tu cargo y tu área, y las preguntas se adaptan: pedagogía y saberes específicos para docentes, gestión directiva y financiera para rectores, convivencia e inclusión para coordinadores y orientadores.",
+  "modelo": "eleven_v3",
+  "duracion": 15.28,
+  "palabras": [
+    {
+      "texto": "En",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "Entrenador",
+      "inicio": 0.12,
+      "fin": 0.56
+    },
+    {
+      "texto": "Docente",
+      "inicio": 0.64,
+      "fin": 1.2
+    },
+    {
+      "texto": "eliges",
+      "inicio": 1.264,
+      "fin": 1.68
+    },
+    {
+      "texto": "tu",
+      "inicio": 1.733,
+      "fin": 1.84
+    },
+    {
+      "texto": "cargo",
+      "inicio": 1.907,
+      "fin": 2.24
+    },
+    {
+      "texto": "y",
+      "inicio": 2.28,
+      "fin": 2.32
+    },
+    {
+      "texto": "tu",
+      "inicio": 2.373,
+      "fin": 2.48
+    },
+    {
+      "texto": "área,",
+      "inicio": 2.544,
+      "fin": 3.2
+    },
+    {
+      "texto": "y",
+      "inicio": 3.24,
+      "fin": 3.28
+    },
+    {
+      "texto": "las",
+      "inicio": 3.34,
+      "fin": 3.52
+    },
+    {
+      "texto": "preguntas",
+      "inicio": 3.568,
+      "fin": 4.16
+    },
+    {
+      "texto": "se",
+      "inicio": 4.24,
+      "fin": 4.4
+    },
+    {
+      "texto": "adaptan:",
+      "inicio": 4.467,
+      "fin": 5.36
+    },
+    {
+      "texto": "pedagogía",
+      "inicio": 5.4,
+      "fin": 6.16
+    },
+    {
+      "texto": "y",
+      "inicio": 6.24,
+      "fin": 6.32
+    },
+    {
+      "texto": "saberes",
+      "inicio": 6.4,
+      "fin": 6.8
+    },
+    {
+      "texto": "específicos",
+      "inicio": 6.86,
+      "fin": 7.52
+    },
+    {
+      "texto": "para",
+      "inicio": 7.568,
+      "fin": 7.76
+    },
+    {
+      "texto": "docentes,",
+      "inicio": 7.82,
+      "fin": 8.72
+    },
+    {
+      "texto": "gestión",
+      "inicio": 8.784,
+      "fin": 9.12
+    },
+    {
+      "texto": "directiva",
+      "inicio": 9.177,
+      "fin": 9.68
+    },
+    {
+      "texto": "y",
+      "inicio": 9.72,
+      "fin": 9.76
+    },
+    {
+      "texto": "financiera",
+      "inicio": 9.817,
+      "fin": 10.4
+    },
+    {
+      "texto": "para",
+      "inicio": 10.448,
+      "fin": 10.64
+    },
+    {
+      "texto": "rectores,",
+      "inicio": 10.704,
+      "fin": 11.6
+    },
+    {
+      "texto": "convivencia",
+      "inicio": 11.664,
+      "fin": 12.32
+    },
+    {
+      "texto": "e",
+      "inicio": 12.4,
+      "fin": 12.48
+    },
+    {
+      "texto": "inclusión",
+      "inicio": 12.549,
+      "fin": 13.12
+    },
+    {
+      "texto": "para",
+      "inicio": 13.168,
+      "fin": 13.36
+    },
+    {
+      "texto": "coordinadores",
+      "inicio": 13.41,
+      "fin": 14.16
+    },
+    {
+      "texto": "y",
+      "inicio": 14.24,
+      "fin": 14.32
+    },
+    {
+      "texto": "orientadores.",
+      "inicio": 14.377,
+      "fin": 15.28
+    }
+  ]
+}

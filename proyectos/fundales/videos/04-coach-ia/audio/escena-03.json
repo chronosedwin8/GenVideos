@@ -1,0 +1,70 @@
+{
+  "num": "03",
+  "titulo": "Fortalezas y debilidades",
+  "texto": "Te muestra tus fortalezas y lo que debes mejorar, con palabras claras.",
+  "texto_tts": "Te muestra tus fortalezas y lo que debes mejorar, con palabras claras.",
+  "modelo": "eleven_v3",
+  "duracion": 4.88,
+  "palabras": [
+    {
+      "texto": "Te",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "muestra",
+      "inicio": 0.13,
+      "fin": 0.48
+    },
+    {
+      "texto": "tus",
+      "inicio": 0.54,
+      "fin": 0.72
+    },
+    {
+      "texto": "fortalezas",
+      "inicio": 0.784,
+      "fin": 1.52
+    },
+    {
+      "texto": "y",
+      "inicio": 1.64,
+      "fin": 1.76
+    },
+    {
+      "texto": "lo",
+      "inicio": 1.813,
+      "fin": 1.92
+    },
+    {
+      "texto": "que",
+      "inicio": 1.98,
+      "fin": 2.16
+    },
+    {
+      "texto": "debes",
+      "inicio": 2.2,
+      "fin": 2.48
+    },
+    {
+      "texto": "mejorar,",
+      "inicio": 2.55,
+      "fin": 3.36
+    },
+    {
+      "texto": "con",
+      "inicio": 3.4,
+      "fin": 3.52
+    },
+    {
+      "texto": "palabras",
+      "inicio": 3.573,
+      "fin": 4.0
+    },
+    {
+      "texto": "claras.",
+      "inicio": 4.112,
+      "fin": 4.88
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "num": "02",
+  "titulo": "Videos gratis",
+  "texto": "En Entrenador Docente tienes videos tutoriales de matemáticas para el concurso, paso a paso y gratis para todos los usuarios.",
+  "texto_tts": "En Entrenador Docente tienes videos tutoriales de matemáticas para el concurso, paso a paso y gratis para todos los usuarios.",
+  "modelo": "eleven_v3",
+  "duracion": 7.52,
+  "palabras": [
+    {
+      "texto": "En",
+      "inicio": 0.0,
+      "fin": 0.16
+    },
+    {
+      "texto": "Entrenador",
+      "inicio": 0.2,
+      "fin": 0.64
+    },
+    {
+      "texto": "Docente",
+      "inicio": 0.72,
+      "fin": 1.2
+    },
+    {
+      "texto": "tienes",
+      "inicio": 1.257,
+      "fin": 1.6
+    },
+    {
+      "texto": "videos",
+      "inicio": 1.68,
+      "fin": 2.16
+    },
+    {
+      "texto": "tutoriales",
+      "inicio": 2.213,
+      "fin": 2.72
+    },
+    {
+      "texto": "de",
+      "inicio": 2.747,
+      "fin": 2.8
+    },
+    {
+      "texto": "matemáticas",
+      "inicio": 2.84,
+      "fin": 3.44
+    },
+    {
+      "texto": "para",
+      "inicio": 3.472,
+      "fin": 3.6
+    },
+    {
+      "texto": "el",
+      "inicio": 3.627,
+      "fin": 3.68
+    },
+    {
+      "texto": "concurso,",
+      "inicio": 3.76,
+      "fin": 4.72
+    },
+    {
+      "texto": "paso",
+      "inicio": 4.768,
+      "fin": 4.96
+    },
+    {
+      "texto": "a",
+      "inicio": 5.04,
+      "fin": 5.12
+    },
+    {
+      "texto": "paso",
+      "inicio": 5.184,
+      "fin": 5.44
+    },
+    {
+      "texto": "y",
+      "inicio": 5.56,
+      "fin": 5.68
+    },
+    {
+      "texto": "gratis",
+      "inicio": 5.749,
+      "fin": 6.16
+    },
+    {
+      "texto": "para",
+      "inicio": 6.208,
+      "fin": 6.4
+    },
+    {
+      "texto": "todos",
+      "inicio": 6.453,
+      "fin": 6.72
+    },
+    {
+      "texto": "los",
+      "inicio": 6.76,
+      "fin": 6.88
+    },
+    {
+      "texto": "usuarios.",
+      "inicio": 6.933,
+      "fin": 7.52
+    }
+  ]
+}

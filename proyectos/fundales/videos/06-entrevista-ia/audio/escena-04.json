@@ -1,0 +1,60 @@
+{
+  "num": "04",
+  "titulo": "Iniciar",
+  "texto": "Tocas Iniciar simulacro y comienzas a practicar tu comunicación oral.",
+  "texto_tts": "Tocas Iniciar simulacro y comienzas a practicar tu comunicación oral.",
+  "modelo": "eleven_v3",
+  "duracion": 4.641,
+  "palabras": [
+    {
+      "texto": "Tocas",
+      "inicio": 0.0,
+      "fin": 0.32
+    },
+    {
+      "texto": "Iniciar",
+      "inicio": 0.4,
+      "fin": 0.8
+    },
+    {
+      "texto": "simulacro",
+      "inicio": 0.867,
+      "fin": 1.52
+    },
+    {
+      "texto": "y",
+      "inicio": 1.72,
+      "fin": 1.92
+    },
+    {
+      "texto": "comienzas",
+      "inicio": 1.98,
+      "fin": 2.48
+    },
+    {
+      "texto": "a",
+      "inicio": 2.481,
+      "fin": 2.482
+    },
+    {
+      "texto": "practicar",
+      "inicio": 2.534,
+      "fin": 3.041
+    },
+    {
+      "texto": "tu",
+      "inicio": 3.094,
+      "fin": 3.201
+    },
+    {
+      "texto": "comunicación",
+      "inicio": 3.261,
+      "fin": 4.001
+    },
+    {
+      "texto": "oral.",
+      "inicio": 4.113,
+      "fin": 4.641
+    }
+  ]
+}

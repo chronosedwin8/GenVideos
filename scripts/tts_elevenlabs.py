@@ -193,10 +193,12 @@ def main():
 
     load_dotenv(RAIZ / ".env")
     dir_canal = RAIZ / "canales" / args.canal
+    if not dir_canal.exists() and (RAIZ / "proyectos" / args.canal).exists():
+        dir_canal = RAIZ / "proyectos" / args.canal  # proyectos de marca: proyectos/<p>/videos/<slug>/ y proyecto.md
     if not dir_canal.exists():
         disponibles = ", ".join(sorted(d.name for d in (RAIZ / "canales").iterdir() if d.is_dir()))
         sys.exit(f"No existe el canal '{args.canal}'. Disponibles: {disponibles}")
-    ep = dir_canal / "episodios" / args.slug
+    ep = dir_canal / ("episodios" if (dir_canal / "episodios").exists() else "videos") / args.slug
     guion = ep / "guion.md"
     if not guion.exists():
         sys.exit(f"No existe {guion}")
@@ -207,8 +209,9 @@ def main():
     total_chars = sum(len(e["voz"]) for e in escenas)
     total_pal = sum(len(sin_etiquetas(e["voz"]).split()) for e in escenas)
     ppm = 145
-    m = re.search(r"^ritmo_ppm:\s*(\d+)", (dir_canal / "canal.md").read_text(encoding="utf-8"), re.MULTILINE) \
-        if (dir_canal / "canal.md").exists() else None
+    conf_md = dir_canal / ("canal.md" if (dir_canal / "canal.md").exists() else "proyecto.md")
+    m = re.search(r"^ritmo_ppm:\s*(\d+)", conf_md.read_text(encoding="utf-8"), re.MULTILINE) \
+        if conf_md.exists() else None
     if m:
         ppm = int(m.group(1))
     print(f"[{args.canal}] {len(escenas)} escenas · {total_pal} palabras · {total_chars} caracteres "

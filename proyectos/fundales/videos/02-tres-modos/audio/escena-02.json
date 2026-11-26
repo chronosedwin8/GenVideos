@@ -1,0 +1,140 @@
+{
+  "num": "02",
+  "titulo": "Diagnóstico inicial",
+  "texto": "Primero, el Diagnóstico inicial. Son diez preguntas por defecto, entre cinco y quince, con cronómetro. Úsalo al comenzar y cada cierto tiempo, para medir dónde estás.",
+  "texto_tts": "Primero, el Diagnóstico inicial. Son diez preguntas por defecto, entre cinco y quince, con cronómetro. Úsalo al comenzar y cada cierto tiempo, para medir dónde estás.",
+  "modelo": "eleven_v3",
+  "duracion": 11.76,
+  "palabras": [
+    {
+      "texto": "Primero,",
+      "inicio": 0.0,
+      "fin": 0.48
+    },
+    {
+      "texto": "el",
+      "inicio": 0.533,
+      "fin": 0.64
+    },
+    {
+      "texto": "Diagnóstico",
+      "inicio": 0.72,
+      "fin": 1.6
+    },
+    {
+      "texto": "inicial.",
+      "inicio": 1.66,
+      "fin": 2.16
+    },
+    {
+      "texto": "Son",
+      "inicio": 2.3,
+      "fin": 2.72
+    },
+    {
+      "texto": "diez",
+      "inicio": 2.8,
+      "fin": 3.2
+    },
+    {
+      "texto": "preguntas",
+      "inicio": 3.232,
+      "fin": 3.68
+    },
+    {
+      "texto": "por",
+      "inicio": 3.72,
+      "fin": 3.84
+    },
+    {
+      "texto": "defecto,",
+      "inicio": 3.92,
+      "fin": 4.56
+    },
+    {
+      "texto": "entre",
+      "inicio": 4.613,
+      "fin": 4.88
+    },
+    {
+      "texto": "cinco",
+      "inicio": 4.947,
+      "fin": 5.28
+    },
+    {
+      "texto": "y",
+      "inicio": 5.44,
+      "fin": 5.6
+    },
+    {
+      "texto": "quince,",
+      "inicio": 5.653,
+      "fin": 6.08
+    },
+    {
+      "texto": "con",
+      "inicio": 6.14,
+      "fin": 6.32
+    },
+    {
+      "texto": "cronómetro.",
+      "inicio": 6.384,
+      "fin": 7.12
+    },
+    {
+      "texto": "Úsalo",
+      "inicio": 7.36,
+      "fin": 7.84
+    },
+    {
+      "texto": "al",
+      "inicio": 7.867,
+      "fin": 7.92
+    },
+    {
+      "texto": "comenzar",
+      "inicio": 7.977,
+      "fin": 8.48
+    },
+    {
+      "texto": "y",
+      "inicio": 8.56,
+      "fin": 8.64
+    },
+    {
+      "texto": "cada",
+      "inicio": 8.704,
+      "fin": 8.96
+    },
+    {
+      "texto": "cierto",
+      "inicio": 8.987,
+      "fin": 9.28
+    },
+    {
+      "texto": "tiempo,",
+      "inicio": 9.337,
+      "fin": 9.92
+    },
+    {
+      "texto": "para",
+      "inicio": 9.968,
+      "fin": 10.16
+    },
+    {
+      "texto": "medir",
+      "inicio": 10.2,
+      "fin": 10.48
+    },
+    {
+      "texto": "dónde",
+      "inicio": 10.64,
+      "fin": 11.2
+    },
+    {
+      "texto": "estás.",
+      "inicio": 11.26,
+      "fin": 11.76
+    }
+  ]
+}

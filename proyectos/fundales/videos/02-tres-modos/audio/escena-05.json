@@ -1,0 +1,95 @@
+{
+  "num": "05",
+  "titulo": "La estrategia",
+  "texto": "La estrategia: diagnóstico para medir, focalizado para mejorar lo débil y simulacro completo para ponerte a prueba.",
+  "texto_tts": "La estrategia: diagnóstico para medir, focalizado para mejorar lo débil y simulacro completo para ponerte a prueba.",
+  "modelo": "eleven_v3",
+  "duracion": 7.84,
+  "palabras": [
+    {
+      "texto": "La",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "estrategia:",
+      "inicio": 0.128,
+      "fin": 1.2
+    },
+    {
+      "texto": "diagnóstico",
+      "inicio": 1.253,
+      "fin": 1.92
+    },
+    {
+      "texto": "para",
+      "inicio": 1.952,
+      "fin": 2.08
+    },
+    {
+      "texto": "medir,",
+      "inicio": 2.14,
+      "fin": 2.88
+    },
+    {
+      "texto": "focalizado",
+      "inicio": 2.933,
+      "fin": 3.68
+    },
+    {
+      "texto": "para",
+      "inicio": 3.712,
+      "fin": 3.84
+    },
+    {
+      "texto": "mejorar",
+      "inicio": 3.9,
+      "fin": 4.32
+    },
+    {
+      "texto": "lo",
+      "inicio": 4.347,
+      "fin": 4.4
+    },
+    {
+      "texto": "débil",
+      "inicio": 4.48,
+      "fin": 5.12
+    },
+    {
+      "texto": "y",
+      "inicio": 5.16,
+      "fin": 5.2
+    },
+    {
+      "texto": "simulacro",
+      "inicio": 5.267,
+      "fin": 5.92
+    },
+    {
+      "texto": "completo",
+      "inicio": 6.0,
+      "fin": 6.64
+    },
+    {
+      "texto": "para",
+      "inicio": 6.704,
+      "fin": 6.96
+    },
+    {
+      "texto": "ponerte",
+      "inicio": 7.0,
+      "fin": 7.36
+    },
+    {
+      "texto": "a",
+      "inicio": 7.4,
+      "fin": 7.44
+    },
+    {
+      "texto": "prueba.",
+      "inicio": 7.486,
+      "fin": 7.84
+    }
+  ]
+}

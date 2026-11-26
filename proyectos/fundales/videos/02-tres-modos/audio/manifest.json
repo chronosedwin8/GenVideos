@@ -1,0 +1,892 @@
+{
+  "canal": "fundales",
+  "slug": "02-tres-modos",
+  "duracion_total": 70.08,
+  "pausa_entre_escenas": 0.4,
+  "escenas": [
+    {
+      "num": "01",
+      "titulo": "Gancho",
+      "audio": "escena-01.mp3",
+      "inicio": 0.0,
+      "duracion": 11.12,
+      "palabras": [
+        {
+          "texto": "Si",
+          "inicio": 0.139,
+          "fin": 0.16
+        },
+        {
+          "texto": "siempre",
+          "inicio": 0.21,
+          "fin": 0.56
+        },
+        {
+          "texto": "estudias",
+          "inicio": 0.6,
+          "fin": 0.88
+        },
+        {
+          "texto": "de",
+          "inicio": 0.907,
+          "fin": 0.96
+        },
+        {
+          "texto": "la",
+          "inicio": 1.013,
+          "fin": 1.12
+        },
+        {
+          "texto": "misma",
+          "inicio": 1.173,
+          "fin": 1.44
+        },
+        {
+          "texto": "forma",
+          "inicio": 1.493,
+          "fin": 1.76
+        },
+        {
+          "texto": "para",
+          "inicio": 1.808,
+          "fin": 2.0
+        },
+        {
+          "texto": "el",
+          "inicio": 2.027,
+          "fin": 2.08
+        },
+        {
+          "texto": "concurso",
+          "inicio": 2.12,
+          "fin": 2.48
+        },
+        {
+          "texto": "docente,",
+          "inicio": 2.56,
+          "fin": 3.28
+        },
+        {
+          "texto": "estás",
+          "inicio": 3.34,
+          "fin": 3.68
+        },
+        {
+          "texto": "perdiendo",
+          "inicio": 3.72,
+          "fin": 4.08
+        },
+        {
+          "texto": "tiempo.",
+          "inicio": 4.137,
+          "fin": 4.88
+        },
+        {
+          "texto": "En",
+          "inicio": 4.907,
+          "fin": 4.96
+        },
+        {
+          "texto": "Entrenador",
+          "inicio": 5.02,
+          "fin": 5.52
+        },
+        {
+          "texto": "Docente,",
+          "inicio": 5.6,
+          "fin": 6.24
+        },
+        {
+          "texto": "en",
+          "inicio": 6.267,
+          "fin": 6.32
+        },
+        {
+          "texto": "fundales",
+          "inicio": 6.384,
+          "fin": 6.96
+        },
+        {
+          "texto": "punto",
+          "inicio": 7.0,
+          "fin": 7.2
+        },
+        {
+          "texto": "com,",
+          "inicio": 7.26,
+          "fin": 7.76
+        },
+        {
+          "texto": "tienes",
+          "inicio": 7.817,
+          "fin": 8.16
+        },
+        {
+          "texto": "tres",
+          "inicio": 8.208,
+          "fin": 8.4
+        },
+        {
+          "texto": "modos,",
+          "inicio": 8.48,
+          "fin": 8.96
+        },
+        {
+          "texto": "y",
+          "inicio": 9.0,
+          "fin": 9.04
+        },
+        {
+          "texto": "cada",
+          "inicio": 9.104,
+          "fin": 9.36
+        },
+        {
+          "texto": "uno",
+          "inicio": 9.42,
+          "fin": 9.6
+        },
+        {
+          "texto": "sirve",
+          "inicio": 9.66,
+          "fin": 10.0
+        },
+        {
+          "texto": "para",
+          "inicio": 10.048,
+          "fin": 10.24
+        },
+        {
+          "texto": "algo",
+          "inicio": 10.288,
+          "fin": 10.48
+        },
+        {
+          "texto": "distinto.",
+          "inicio": 10.528,
+          "fin": 11.12
+        }
+      ]
+    },
+    {
+      "num": "02",
+      "titulo": "Diagnóstico inicial",
+      "audio": "escena-02.mp3",
+      "inicio": 11.52,
+      "duracion": 11.76,
+      "palabras": [
+        {
+          "texto": "Primero,",
+          "inicio": 0.0,
+          "fin": 0.48
+        },
+        {
+          "texto": "el",
+          "inicio": 0.533,
+          "fin": 0.64
+        },
+        {
+          "texto": "Diagnóstico",
+          "inicio": 0.72,
+          "fin": 1.6
+        },
+        {
+          "texto": "inicial.",
+          "inicio": 1.66,
+          "fin": 2.16
+        },
+        {
+          "texto": "Son",
+          "inicio": 2.3,
+          "fin": 2.72
+        },
+        {
+          "texto": "diez",
+          "inicio": 2.8,
+          "fin": 3.2
+        },
+        {
+          "texto": "preguntas",
+          "inicio": 3.232,
+          "fin": 3.68
+        },
+        {
+          "texto": "por",
+          "inicio": 3.72,
+          "fin": 3.84
+        },
+        {
+          "texto": "defecto,",
+          "inicio": 3.92,
+          "fin": 4.56
+        },
+        {
+          "texto": "entre",
+          "inicio": 4.613,
+          "fin": 4.88
+        },
+        {
+          "texto": "cinco",
+          "inicio": 4.947,
+          "fin": 5.28
+        },
+        {
+          "texto": "y",
+          "inicio": 5.44,
+          "fin": 5.6
+        },
+        {
+          "texto": "quince,",
+          "inicio": 5.653,
+          "fin": 6.08
+        },
+        {
+          "texto": "con",
+          "inicio": 6.14,
+          "fin": 6.32
+        },
+        {
+          "texto": "cronómetro.",
+          "inicio": 6.384,
+          "fin": 7.12
+        },
+        {
+          "texto": "Úsalo",
+          "inicio": 7.36,
+          "fin": 7.84
+        },
+        {
+          "texto": "al",
+          "inicio": 7.867,
+          "fin": 7.92
+        },
+        {
+          "texto": "comenzar",
+          "inicio": 7.977,
+          "fin": 8.48
+        },
+        {
+          "texto": "y",
+          "inicio": 8.56,
+          "fin": 8.64
+        },
+        {
+          "texto": "cada",
+          "inicio": 8.704,
+          "fin": 8.96
+        },
+        {
+          "texto": "cierto",
+          "inicio": 8.987,
+          "fin": 9.28
+        },
+        {
+          "texto": "tiempo,",
+          "inicio": 9.337,
+          "fin": 9.92
+        },
+        {
+          "texto": "para",
+          "inicio": 9.968,
+          "fin": 10.16
+        },
+        {
+          "texto": "medir",
+          "inicio": 10.2,
+          "fin": 10.48
+        },
+        {
+          "texto": "dónde",
+          "inicio": 10.64,
+          "fin": 11.2
+        },
+        {
+          "texto": "estás.",
+          "inicio": 11.26,
+          "fin": 11.76
+        }
+      ]
+    },
+    {
+      "num": "03",
+      "titulo": "Simulacro tipo CNSC",
+      "audio": "escena-03.mp3",
+      "inicio": 23.68,
+      "duracion": 17.12,
+      "palabras": [
+        {
+          "texto": "Segundo,",
+          "inicio": 0.0,
+          "fin": 0.88
+        },
+        {
+          "texto": "el",
+          "inicio": 0.907,
+          "fin": 0.96
+        },
+        {
+          "texto": "Simulacro",
+          "inicio": 1.04,
+          "fin": 1.68
+        },
+        {
+          "texto": "tipo",
+          "inicio": 1.76,
+          "fin": 2.08
+        },
+        {
+          "texto": "CNSC.",
+          "inicio": 2.34,
+          "fin": 3.44
+        },
+        {
+          "texto": "Es",
+          "inicio": 3.573,
+          "fin": 3.84
+        },
+        {
+          "texto": "la",
+          "inicio": 3.867,
+          "fin": 3.92
+        },
+        {
+          "texto": "experiencia",
+          "inicio": 3.973,
+          "fin": 4.56
+        },
+        {
+          "texto": "más",
+          "inicio": 4.68,
+          "fin": 5.04
+        },
+        {
+          "texto": "realista:",
+          "inicio": 5.088,
+          "fin": 5.92
+        },
+        {
+          "texto": "cronómetro",
+          "inicio": 5.984,
+          "fin": 6.56
+        },
+        {
+          "texto": "activo,",
+          "inicio": 6.613,
+          "fin": 7.2
+        },
+        {
+          "texto": "preguntas",
+          "inicio": 7.264,
+          "fin": 7.76
+        },
+        {
+          "texto": "que",
+          "inicio": 7.8,
+          "fin": 7.92
+        },
+        {
+          "texto": "mezclan",
+          "inicio": 7.96,
+          "fin": 8.32
+        },
+        {
+          "texto": "todas",
+          "inicio": 8.4,
+          "fin": 8.8
+        },
+        {
+          "texto": "las",
+          "inicio": 8.82,
+          "fin": 8.88
+        },
+        {
+          "texto": "competencias",
+          "inicio": 8.937,
+          "fin": 9.52
+        },
+        {
+          "texto": "de",
+          "inicio": 9.547,
+          "fin": 9.6
+        },
+        {
+          "texto": "tu",
+          "inicio": 9.653,
+          "fin": 9.76
+        },
+        {
+          "texto": "cargo",
+          "inicio": 9.813,
+          "fin": 10.08
+        },
+        {
+          "texto": "y",
+          "inicio": 10.28,
+          "fin": 10.48
+        },
+        {
+          "texto": "la",
+          "inicio": 10.533,
+          "fin": 10.64
+        },
+        {
+          "texto": "retroalimentación",
+          "inicio": 10.693,
+          "fin": 11.52
+        },
+        {
+          "texto": "al",
+          "inicio": 11.573,
+          "fin": 11.68
+        },
+        {
+          "texto": "final,",
+          "inicio": 11.733,
+          "fin": 12.32
+        },
+        {
+          "texto": "como",
+          "inicio": 12.352,
+          "fin": 12.48
+        },
+        {
+          "texto": "el",
+          "inicio": 12.533,
+          "fin": 12.64
+        },
+        {
+          "texto": "día",
+          "inicio": 12.7,
+          "fin": 12.88
+        },
+        {
+          "texto": "de",
+          "inicio": 12.907,
+          "fin": 12.96
+        },
+        {
+          "texto": "la",
+          "inicio": 13.013,
+          "fin": 13.12
+        },
+        {
+          "texto": "prueba.",
+          "inicio": 13.166,
+          "fin": 13.52
+        },
+        {
+          "texto": "Aquí",
+          "inicio": 13.68,
+          "fin": 14.24
+        },
+        {
+          "texto": "entrenas",
+          "inicio": 14.286,
+          "fin": 14.72
+        },
+        {
+          "texto": "el",
+          "inicio": 14.747,
+          "fin": 14.8
+        },
+        {
+          "texto": "manejo",
+          "inicio": 14.848,
+          "fin": 15.2
+        },
+        {
+          "texto": "del",
+          "inicio": 15.22,
+          "fin": 15.28
+        },
+        {
+          "texto": "tiempo",
+          "inicio": 15.36,
+          "fin": 15.84
+        },
+        {
+          "texto": "y",
+          "inicio": 15.96,
+          "fin": 16.08
+        },
+        {
+          "texto": "de",
+          "inicio": 16.133,
+          "fin": 16.24
+        },
+        {
+          "texto": "los",
+          "inicio": 16.28,
+          "fin": 16.4
+        },
+        {
+          "texto": "nervios.",
+          "inicio": 16.464,
+          "fin": 17.12
+        }
+      ]
+    },
+    {
+      "num": "04",
+      "titulo": "Entrenamiento focalizado",
+      "audio": "escena-04.mp3",
+      "inicio": 41.2,
+      "duracion": 17.12,
+      "palabras": [
+        {
+          "texto": "Y",
+          "inicio": 0.0,
+          "fin": 0.08
+        },
+        {
+          "texto": "tercero,",
+          "inicio": 0.14,
+          "fin": 0.72
+        },
+        {
+          "texto": "el",
+          "inicio": 0.747,
+          "fin": 0.8
+        },
+        {
+          "texto": "Entrenamiento",
+          "inicio": 0.86,
+          "fin": 1.6
+        },
+        {
+          "texto": "focalizado.",
+          "inicio": 1.68,
+          "fin": 2.96
+        },
+        {
+          "texto": "Eliges",
+          "inicio": 3.013,
+          "fin": 3.52
+        },
+        {
+          "texto": "una",
+          "inicio": 3.58,
+          "fin": 3.76
+        },
+        {
+          "texto": "sola",
+          "inicio": 3.824,
+          "fin": 4.08
+        },
+        {
+          "texto": "competencia,",
+          "inicio": 4.137,
+          "fin": 4.88
+        },
+        {
+          "texto": "por",
+          "inicio": 4.92,
+          "fin": 5.04
+        },
+        {
+          "texto": "ejemplo",
+          "inicio": 5.09,
+          "fin": 5.44
+        },
+        {
+          "texto": "lectura",
+          "inicio": 5.52,
+          "fin": 6.0
+        },
+        {
+          "texto": "crítica",
+          "inicio": 6.053,
+          "fin": 6.48
+        },
+        {
+          "texto": "o",
+          "inicio": 6.56,
+          "fin": 6.64
+        },
+        {
+          "texto": "razonamiento",
+          "inicio": 6.68,
+          "fin": 7.28
+        },
+        {
+          "texto": "cuantitativo,",
+          "inicio": 7.333,
+          "fin": 8.48
+        },
+        {
+          "texto": "y",
+          "inicio": 8.52,
+          "fin": 8.56
+        },
+        {
+          "texto": "practicas",
+          "inicio": 8.64,
+          "fin": 9.36
+        },
+        {
+          "texto": "sin",
+          "inicio": 9.44,
+          "fin": 9.68
+        },
+        {
+          "texto": "límite",
+          "inicio": 9.733,
+          "fin": 10.08
+        },
+        {
+          "texto": "de",
+          "inicio": 10.107,
+          "fin": 10.16
+        },
+        {
+          "texto": "tiempo.",
+          "inicio": 10.217,
+          "fin": 10.64
+        },
+        {
+          "texto": "Cada",
+          "inicio": 10.84,
+          "fin": 11.2
+        },
+        {
+          "texto": "vez",
+          "inicio": 11.26,
+          "fin": 11.44
+        },
+        {
+          "texto": "que",
+          "inicio": 11.46,
+          "fin": 11.52
+        },
+        {
+          "texto": "respondes",
+          "inicio": 11.58,
+          "fin": 12.16
+        },
+        {
+          "texto": "te",
+          "inicio": 12.213,
+          "fin": 12.32
+        },
+        {
+          "texto": "dice",
+          "inicio": 12.368,
+          "fin": 12.56
+        },
+        {
+          "texto": "si",
+          "inicio": 12.64,
+          "fin": 12.8
+        },
+        {
+          "texto": "acertaste",
+          "inicio": 12.853,
+          "fin": 13.52
+        },
+        {
+          "texto": "y",
+          "inicio": 13.64,
+          "fin": 13.76
+        },
+        {
+          "texto": "por",
+          "inicio": 13.82,
+          "fin": 14.0
+        },
+        {
+          "texto": "qué.",
+          "inicio": 14.06,
+          "fin": 14.4
+        },
+        {
+          "texto": "Es",
+          "inicio": 14.533,
+          "fin": 14.8
+        },
+        {
+          "texto": "el",
+          "inicio": 14.853,
+          "fin": 14.96
+        },
+        {
+          "texto": "modo",
+          "inicio": 15.024,
+          "fin": 15.28
+        },
+        {
+          "texto": "para",
+          "inicio": 15.328,
+          "fin": 15.52
+        },
+        {
+          "texto": "reforzar",
+          "inicio": 15.573,
+          "fin": 16.08
+        },
+        {
+          "texto": "tu",
+          "inicio": 16.187,
+          "fin": 16.4
+        },
+        {
+          "texto": "punto",
+          "inicio": 16.467,
+          "fin": 16.8
+        },
+        {
+          "texto": "débil.",
+          "inicio": 16.88,
+          "fin": 17.12
+        }
+      ]
+    },
+    {
+      "num": "05",
+      "titulo": "La estrategia",
+      "audio": "escena-05.mp3",
+      "inicio": 58.72,
+      "duracion": 7.84,
+      "palabras": [
+        {
+          "texto": "La",
+          "inicio": 0.0,
+          "fin": 0.08
+        },
+        {
+          "texto": "estrategia:",
+          "inicio": 0.128,
+          "fin": 1.2
+        },
+        {
+          "texto": "diagnóstico",
+          "inicio": 1.253,
+          "fin": 1.92
+        },
+        {
+          "texto": "para",
+          "inicio": 1.952,
+          "fin": 2.08
+        },
+        {
+          "texto": "medir,",
+          "inicio": 2.14,
+          "fin": 2.88
+        },
+        {
+          "texto": "focalizado",
+          "inicio": 2.933,
+          "fin": 3.68
+        },
+        {
+          "texto": "para",
+          "inicio": 3.712,
+          "fin": 3.84
+        },
+        {
+          "texto": "mejorar",
+          "inicio": 3.9,
+          "fin": 4.32
+        },
+        {
+          "texto": "lo",
+          "inicio": 4.347,
+          "fin": 4.4
+        },
+        {
+          "texto": "débil",
+          "inicio": 4.48,
+          "fin": 5.12
+        },
+        {
+          "texto": "y",
+          "inicio": 5.16,
+          "fin": 5.2
+        },
+        {
+          "texto": "simulacro",
+          "inicio": 5.267,
+          "fin": 5.92
+        },
+        {
+          "texto": "completo",
+          "inicio": 6.0,
+          "fin": 6.64
+        },
+        {
+          "texto": "para",
+          "inicio": 6.704,
+          "fin": 6.96
+        },
+        {
+          "texto": "ponerte",
+          "inicio": 7.0,
+          "fin": 7.36
+        },
+        {
+          "texto": "a",
+          "inicio": 7.4,
+          "fin": 7.44
+        },
+        {
+          "texto": "prueba.",
+          "inicio": 7.486,
+          "fin": 7.84
+        }
+      ]
+    },
+    {
+      "num": "06",
+      "titulo": "Cierre",
+      "audio": "escena-06.mp3",
+      "inicio": 66.96,
+      "duracion": 2.72,
+      "palabras": [
+        {
+          "texto": "Prueba",
+          "inicio": 0.0,
+          "fin": 0.24
+        },
+        {
+          "texto": "los",
+          "inicio": 0.3,
+          "fin": 0.48
+        },
+        {
+          "texto": "tres",
+          "inicio": 0.512,
+          "fin": 0.64
+        },
+        {
+          "texto": "modos",
+          "inicio": 0.7,
+          "fin": 0.96
+        },
+        {
+          "texto": "gratis",
+          "inicio": 1.029,
+          "fin": 1.44
+        },
+        {
+          "texto": "en",
+          "inicio": 1.493,
+          "fin": 1.6
+        },
+        {
+          "texto": "fundales",
+          "inicio": 1.648,
+          "fin": 2.16
+        },
+        {
+          "texto": "punto",
+          "inicio": 2.187,
+          "fin": 2.32
+        },
+        {
+          "texto": "com.",
+          "inicio": 2.4,
+          "fin": 2.72
+        }
+      ]
+    }
+  ]
+}

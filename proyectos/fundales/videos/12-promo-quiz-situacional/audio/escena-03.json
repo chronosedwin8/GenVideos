@@ -1,0 +1,50 @@
+{
+  "num": "03",
+  "titulo": "Opciones",
+  "texto": "¿A, B, C o D? Piénsalo tres segundos.",
+  "texto_tts": "¿A, B, C o D? Piénsalo tres segundos.",
+  "modelo": "eleven_v3",
+  "duracion": 5.84,
+  "palabras": [
+    {
+      "texto": "¿A,",
+      "inicio": 0.0,
+      "fin": 0.4
+    },
+    {
+      "texto": "B,",
+      "inicio": 0.8,
+      "fin": 1.28
+    },
+    {
+      "texto": "C",
+      "inicio": 1.68,
+      "fin": 2.08
+    },
+    {
+      "texto": "o",
+      "inicio": 2.24,
+      "fin": 2.4
+    },
+    {
+      "texto": "D?",
+      "inicio": 2.56,
+      "fin": 3.16
+    },
+    {
+      "texto": "Piénsalo",
+      "inicio": 3.307,
+      "fin": 4.16
+    },
+    {
+      "texto": "tres",
+      "inicio": 4.304,
+      "fin": 4.88
+    },
+    {
+      "texto": "segundos.",
+      "inicio": 4.978,
+      "fin": 5.84
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "num": "02",
+  "titulo": "Qué incluye",
+  "texto": "Con el plan Free de Entrenador Docente haces dos simulacros al mes, con preguntas de juicio situacional según tu cargo, tus resultados por competencia y la retroalimentación de cada respuesta. Sin tarjeta de crédito.",
+  "texto_tts": "Con el plan Free de Entrenador Docente haces dos simulacros al mes, con preguntas de juicio situacional según tu cargo, tus resultados por competencia y la retroalimentación de cada respuesta. Sin tarjeta de crédito.",
+  "modelo": "eleven_v3",
+  "duracion": 14.08,
+  "palabras": [
+    {
+      "texto": "Con",
+      "inicio": 0.0,
+      "fin": 0.16
+    },
+    {
+      "texto": "el",
+      "inicio": 0.213,
+      "fin": 0.32
+    },
+    {
+      "texto": "plan",
+      "inicio": 0.4,
+      "fin": 0.72
+    },
+    {
+      "texto": "Free",
+      "inicio": 0.8,
+      "fin": 1.12
+    },
+    {
+      "texto": "de",
+      "inicio": 1.147,
+      "fin": 1.2
+    },
+    {
+      "texto": "Entrenador",
+      "inicio": 1.26,
+      "fin": 1.76
+    },
+    {
+      "texto": "Docente",
+      "inicio": 1.82,
+      "fin": 2.4
+    },
+    {
+      "texto": "haces",
+      "inicio": 2.6,
+      "fin": 3.04
+    },
+    {
+      "texto": "dos",
+      "inicio": 3.14,
+      "fin": 3.44
+    },
+    {
+      "texto": "simulacros",
+      "inicio": 3.507,
+      "fin": 4.16
+    },
+    {
+      "texto": "al",
+      "inicio": 4.187,
+      "fin": 4.24
+    },
+    {
+      "texto": "mes,",
+      "inicio": 4.32,
+      "fin": 4.88
+    },
+    {
+      "texto": "con",
+      "inicio": 4.92,
+      "fin": 5.04
+    },
+    {
+      "texto": "preguntas",
+      "inicio": 5.088,
+      "fin": 5.6
+    },
+    {
+      "texto": "de",
+      "inicio": 5.627,
+      "fin": 5.68
+    },
+    {
+      "texto": "juicio",
+      "inicio": 5.733,
+      "fin": 6.0
+    },
+    {
+      "texto": "situacional",
+      "inicio": 6.048,
+      "fin": 6.64
+    },
+    {
+      "texto": "según",
+      "inicio": 6.707,
+      "fin": 7.04
+    },
+    {
+      "texto": "tu",
+      "inicio": 7.093,
+      "fin": 7.2
+    },
+    {
+      "texto": "cargo,",
+      "inicio": 7.28,
+      "fin": 8.08
+    },
+    {
+      "texto": "tus",
+      "inicio": 8.12,
+      "fin": 8.24
+    },
+    {
+      "texto": "resultados",
+      "inicio": 8.298,
+      "fin": 8.88
+    },
+    {
+      "texto": "por",
+      "inicio": 8.92,
+      "fin": 9.04
+    },
+    {
+      "texto": "competencia",
+      "inicio": 9.109,
+      "fin": 9.84
+    },
+    {
+      "texto": "y",
+      "inicio": 10.0,
+      "fin": 10.16
+    },
+    {
+      "texto": "la",
+      "inicio": 10.213,
+      "fin": 10.32
+    },
+    {
+      "texto": "retroalimentación",
+      "inicio": 10.373,
+      "fin": 11.36
+    },
+    {
+      "texto": "de",
+      "inicio": 11.387,
+      "fin": 11.44
+    },
+    {
+      "texto": "cada",
+      "inicio": 11.504,
+      "fin": 11.76
+    },
+    {
+      "texto": "respuesta.",
+      "inicio": 11.824,
+      "fin": 12.8
+    },
+    {
+      "texto": "Sin",
+      "inicio": 12.84,
+      "fin": 12.96
+    },
+    {
+      "texto": "tarjeta",
+      "inicio": 13.02,
+      "fin": 13.44
+    },
+    {
+      "texto": "de",
+      "inicio": 13.467,
+      "fin": 13.52
+    },
+    {
+      "texto": "crédito.",
+      "inicio": 13.584,
+      "fin": 14.08
+    }
+  ]
+}

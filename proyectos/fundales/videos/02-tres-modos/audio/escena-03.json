@@ -1,0 +1,220 @@
+{
+  "num": "03",
+  "titulo": "Simulacro tipo CNSC",
+  "texto": "Segundo, el Simulacro tipo CNSC. Es la experiencia más realista: cronómetro activo, preguntas que mezclan todas las competencias de tu cargo y la retroalimentación al final, como el día de la prueba. Aquí entrenas el manejo del tiempo y de los nervios.",
+  "texto_tts": "Segundo, el Simulacro tipo CNSC. Es la experiencia más realista: cronómetro activo, preguntas que mezclan todas las competencias de tu cargo y la retroalimentación al final, como el día de la prueba. Aquí entrenas el manejo del tiempo y de los nervios.",
+  "modelo": "eleven_v3",
+  "duracion": 17.12,
+  "palabras": [
+    {
+      "texto": "Segundo,",
+      "inicio": 0.0,
+      "fin": 0.88
+    },
+    {
+      "texto": "el",
+      "inicio": 0.907,
+      "fin": 0.96
+    },
+    {
+      "texto": "Simulacro",
+      "inicio": 1.04,
+      "fin": 1.68
+    },
+    {
+      "texto": "tipo",
+      "inicio": 1.76,
+      "fin": 2.08
+    },
+    {
+      "texto": "CNSC.",
+      "inicio": 2.34,
+      "fin": 3.44
+    },
+    {
+      "texto": "Es",
+      "inicio": 3.573,
+      "fin": 3.84
+    },
+    {
+      "texto": "la",
+      "inicio": 3.867,
+      "fin": 3.92
+    },
+    {
+      "texto": "experiencia",
+      "inicio": 3.973,
+      "fin": 4.56
+    },
+    {
+      "texto": "más",
+      "inicio": 4.68,
+      "fin": 5.04
+    },
+    {
+      "texto": "realista:",
+      "inicio": 5.088,
+      "fin": 5.92
+    },
+    {
+      "texto": "cronómetro",
+      "inicio": 5.984,
+      "fin": 6.56
+    },
+    {
+      "texto": "activo,",
+      "inicio": 6.613,
+      "fin": 7.2
+    },
+    {
+      "texto": "preguntas",
+      "inicio": 7.264,
+      "fin": 7.76
+    },
+    {
+      "texto": "que",
+      "inicio": 7.8,
+      "fin": 7.92
+    },
+    {
+      "texto": "mezclan",
+      "inicio": 7.96,
+      "fin": 8.32
+    },
+    {
+      "texto": "todas",
+      "inicio": 8.4,
+      "fin": 8.8
+    },
+    {
+      "texto": "las",
+      "inicio": 8.82,
+      "fin": 8.88
+    },
+    {
+      "texto": "competencias",
+      "inicio": 8.937,
+      "fin": 9.52
+    },
+    {
+      "texto": "de",
+      "inicio": 9.547,
+      "fin": 9.6
+    },
+    {
+      "texto": "tu",
+      "inicio": 9.653,
+      "fin": 9.76
+    },
+    {
+      "texto": "cargo",
+      "inicio": 9.813,
+      "fin": 10.08
+    },
+    {
+      "texto": "y",
+      "inicio": 10.28,
+      "fin": 10.48
+    },
+    {
+      "texto": "la",
+      "inicio": 10.533,
+      "fin": 10.64
+    },
+    {
+      "texto": "retroalimentación",
+      "inicio": 10.693,
+      "fin": 11.52
+    },
+    {
+      "texto": "al",
+      "inicio": 11.573,
+      "fin": 11.68
+    },
+    {
+      "texto": "final,",
+      "inicio": 11.733,
+      "fin": 12.32
+    },
+    {
+      "texto": "como",
+      "inicio": 12.352,
+      "fin": 12.48
+    },
+    {
+      "texto": "el",
+      "inicio": 12.533,
+      "fin": 12.64
+    },
+    {
+      "texto": "día",
+      "inicio": 12.7,
+      "fin": 12.88
+    },
+    {
+      "texto": "de",
+      "inicio": 12.907,
+      "fin": 12.96
+    },
+    {
+      "texto": "la",
+      "inicio": 13.013,
+      "fin": 13.12
+    },
+    {
+      "texto": "prueba.",
+      "inicio": 13.166,
+      "fin": 13.52
+    },
+    {
+      "texto": "Aquí",
+      "inicio": 13.68,
+      "fin": 14.24
+    },
+    {
+      "texto": "entrenas",
+      "inicio": 14.286,
+      "fin": 14.72
+    },
+    {
+      "texto": "el",
+      "inicio": 14.747,
+      "fin": 14.8
+    },
+    {
+      "texto": "manejo",
+      "inicio": 14.848,
+      "fin": 15.2
+    },
+    {
+      "texto": "del",
+      "inicio": 15.22,
+      "fin": 15.28
+    },
+    {
+      "texto": "tiempo",
+      "inicio": 15.36,
+      "fin": 15.84
+    },
+    {
+      "texto": "y",
+      "inicio": 15.96,
+      "fin": 16.08
+    },
+    {
+      "texto": "de",
+      "inicio": 16.133,
+      "fin": 16.24
+    },
+    {
+      "texto": "los",
+      "inicio": 16.28,
+      "fin": 16.4
+    },
+    {
+      "texto": "nervios.",
+      "inicio": 16.464,
+      "fin": 17.12
+    }
+  ]
+}

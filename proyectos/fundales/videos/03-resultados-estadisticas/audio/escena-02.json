@@ -1,0 +1,145 @@
+{
+  "num": "02",
+  "titulo": "Puntaje y competencias",
+  "texto": "Primero, tu puntaje global. Al lado, tu desempeño por competencia: en verde lo que dominas, desde el setenta por ciento, y en amarillo lo que debes reforzar.",
+  "texto_tts": "Primero, tu puntaje global. Al lado, tu desempeño por competencia: en verde lo que dominas, desde el setenta por ciento, y en amarillo lo que debes reforzar.",
+  "modelo": "eleven_v3",
+  "duracion": 11.12,
+  "palabras": [
+    {
+      "texto": "Primero,",
+      "inicio": 0.0,
+      "fin": 0.72
+    },
+    {
+      "texto": "tu",
+      "inicio": 0.773,
+      "fin": 0.88
+    },
+    {
+      "texto": "puntaje",
+      "inicio": 0.944,
+      "fin": 1.44
+    },
+    {
+      "texto": "global.",
+      "inicio": 1.509,
+      "fin": 2.0
+    },
+    {
+      "texto": "Al",
+      "inicio": 2.187,
+      "fin": 2.56
+    },
+    {
+      "texto": "lado,",
+      "inicio": 2.64,
+      "fin": 3.04
+    },
+    {
+      "texto": "tu",
+      "inicio": 3.147,
+      "fin": 3.36
+    },
+    {
+      "texto": "desempeño",
+      "inicio": 3.42,
+      "fin": 4.0
+    },
+    {
+      "texto": "por",
+      "inicio": 4.06,
+      "fin": 4.24
+    },
+    {
+      "texto": "competencia:",
+      "inicio": 4.297,
+      "fin": 5.44
+    },
+    {
+      "texto": "en",
+      "inicio": 5.493,
+      "fin": 5.6
+    },
+    {
+      "texto": "verde",
+      "inicio": 5.667,
+      "fin": 6.0
+    },
+    {
+      "texto": "lo",
+      "inicio": 6.08,
+      "fin": 6.24
+    },
+    {
+      "texto": "que",
+      "inicio": 6.28,
+      "fin": 6.4
+    },
+    {
+      "texto": "dominas,",
+      "inicio": 6.467,
+      "fin": 7.12
+    },
+    {
+      "texto": "desde",
+      "inicio": 7.16,
+      "fin": 7.36
+    },
+    {
+      "texto": "el",
+      "inicio": 7.387,
+      "fin": 7.44
+    },
+    {
+      "texto": "setenta",
+      "inicio": 7.5,
+      "fin": 7.84
+    },
+    {
+      "texto": "por",
+      "inicio": 7.9,
+      "fin": 8.08
+    },
+    {
+      "texto": "ciento,",
+      "inicio": 8.12,
+      "fin": 8.88
+    },
+    {
+      "texto": "y",
+      "inicio": 8.92,
+      "fin": 8.96
+    },
+    {
+      "texto": "en",
+      "inicio": 8.987,
+      "fin": 9.04
+    },
+    {
+      "texto": "amarillo",
+      "inicio": 9.093,
+      "fin": 9.68
+    },
+    {
+      "texto": "lo",
+      "inicio": 9.787,
+      "fin": 10.0
+    },
+    {
+      "texto": "que",
+      "inicio": 10.04,
+      "fin": 10.16
+    },
+    {
+      "texto": "debes",
+      "inicio": 10.22,
+      "fin": 10.56
+    },
+    {
+      "texto": "reforzar.",
+      "inicio": 10.613,
+      "fin": 11.12
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "num": "06",
+  "titulo": "Cierre",
+  "texto": "La ruta y la biblioteca son gratis; el asistente legal es Premium. Entra a fundales punto com.",
+  "texto_tts": "La ruta y la biblioteca son gratis; el asistente legal es Premium. Entra a fundales punto com.",
+  "modelo": "eleven_v3",
+  "duracion": 6.32,
+  "palabras": [
+    {
+      "texto": "La",
+      "inicio": 0.0,
+      "fin": 0.16
+    },
+    {
+      "texto": "ruta",
+      "inicio": 0.224,
+      "fin": 0.48
+    },
+    {
+      "texto": "y",
+      "inicio": 0.52,
+      "fin": 0.56
+    },
+    {
+      "texto": "la",
+      "inicio": 0.587,
+      "fin": 0.64
+    },
+    {
+      "texto": "biblioteca",
+      "inicio": 0.68,
+      "fin": 1.2
+    },
+    {
+      "texto": "son",
+      "inicio": 1.24,
+      "fin": 1.36
+    },
+    {
+      "texto": "gratis;",
+      "inicio": 1.417,
+      "fin": 2.0
+    },
+    {
+      "texto": "el",
+      "inicio": 2.053,
+      "fin": 2.16
+    },
+    {
+      "texto": "asistente",
+      "inicio": 2.213,
+      "fin": 2.64
+    },
+    {
+      "texto": "legal",
+      "inicio": 2.707,
+      "fin": 3.04
+    },
+    {
+      "texto": "es",
+      "inicio": 3.147,
+      "fin": 3.36
+    },
+    {
+      "texto": "Premium.",
+      "inicio": 3.43,
+      "fin": 4.16
+    },
+    {
+      "texto": "Entra",
+      "inicio": 4.213,
+      "fin": 4.48
+    },
+    {
+      "texto": "a",
+      "inicio": 4.64,
+      "fin": 4.8
+    },
+    {
+      "texto": "fundales",
+      "inicio": 4.864,
+      "fin": 5.52
+    },
+    {
+      "texto": "punto",
+      "inicio": 5.56,
+      "fin": 5.76
+    },
+    {
+      "texto": "com.",
+      "inicio": 5.86,
+      "fin": 6.32
+    }
+  ]
+}

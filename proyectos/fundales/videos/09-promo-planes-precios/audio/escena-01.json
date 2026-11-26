@@ -1,0 +1,80 @@
+{
+  "num": "01",
+  "titulo": "Gancho",
+  "texto": "¿Cuánto cuesta prepararte en serio para el concurso docente? Menos de lo que crees.",
+  "texto_tts": "[confident] ¿Cuánto cuesta prepararte en serio para el concurso docente? Menos de lo que crees.",
+  "modelo": "eleven_v3",
+  "duracion": 5.68,
+  "palabras": [
+    {
+      "texto": "¿Cuánto",
+      "inicio": 0.12,
+      "fin": 0.48
+    },
+    {
+      "texto": "cuesta",
+      "inicio": 0.56,
+      "fin": 1.04
+    },
+    {
+      "texto": "prepararte",
+      "inicio": 1.12,
+      "fin": 1.92
+    },
+    {
+      "texto": "en",
+      "inicio": 2.053,
+      "fin": 2.32
+    },
+    {
+      "texto": "serio",
+      "inicio": 2.42,
+      "fin": 2.88
+    },
+    {
+      "texto": "para",
+      "inicio": 2.912,
+      "fin": 3.04
+    },
+    {
+      "texto": "el",
+      "inicio": 3.067,
+      "fin": 3.12
+    },
+    {
+      "texto": "concurso",
+      "inicio": 3.18,
+      "fin": 3.6
+    },
+    {
+      "texto": "docente?",
+      "inicio": 3.68,
+      "fin": 4.56
+    },
+    {
+      "texto": "Menos",
+      "inicio": 4.6,
+      "fin": 4.8
+    },
+    {
+      "texto": "de",
+      "inicio": 4.853,
+      "fin": 4.96
+    },
+    {
+      "texto": "lo",
+      "inicio": 4.987,
+      "fin": 5.04
+    },
+    {
+      "texto": "que",
+      "inicio": 5.06,
+      "fin": 5.12
+    },
+    {
+      "texto": "crees.",
+      "inicio": 5.18,
+      "fin": 5.68
+    }
+  ]
+}

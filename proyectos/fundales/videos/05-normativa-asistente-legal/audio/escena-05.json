@@ -1,0 +1,95 @@
+{
+  "num": "05",
+  "titulo": "Por qué importa",
+  "texto": "Porque en la prueba no basta con memorizar la ley: tienes que saber aplicarla a un caso.",
+  "texto_tts": "Porque en la prueba no basta con memorizar la ley: tienes que saber aplicarla a un caso.",
+  "modelo": "eleven_v3",
+  "duracion": 5.76,
+  "palabras": [
+    {
+      "texto": "Porque",
+      "inicio": 0.0,
+      "fin": 0.24
+    },
+    {
+      "texto": "en",
+      "inicio": 0.267,
+      "fin": 0.32
+    },
+    {
+      "texto": "la",
+      "inicio": 0.373,
+      "fin": 0.48
+    },
+    {
+      "texto": "prueba",
+      "inicio": 0.537,
+      "fin": 0.88
+    },
+    {
+      "texto": "no",
+      "inicio": 1.013,
+      "fin": 1.28
+    },
+    {
+      "texto": "basta",
+      "inicio": 1.36,
+      "fin": 1.68
+    },
+    {
+      "texto": "con",
+      "inicio": 1.72,
+      "fin": 1.84
+    },
+    {
+      "texto": "memorizar",
+      "inicio": 1.893,
+      "fin": 2.32
+    },
+    {
+      "texto": "la",
+      "inicio": 2.373,
+      "fin": 2.48
+    },
+    {
+      "texto": "ley:",
+      "inicio": 2.56,
+      "fin": 3.2
+    },
+    {
+      "texto": "tienes",
+      "inicio": 3.257,
+      "fin": 3.6
+    },
+    {
+      "texto": "que",
+      "inicio": 3.64,
+      "fin": 3.76
+    },
+    {
+      "texto": "saber",
+      "inicio": 3.813,
+      "fin": 4.08
+    },
+    {
+      "texto": "aplicarla",
+      "inicio": 4.147,
+      "fin": 4.8
+    },
+    {
+      "texto": "a",
+      "inicio": 4.96,
+      "fin": 5.12
+    },
+    {
+      "texto": "un",
+      "inicio": 5.173,
+      "fin": 5.28
+    },
+    {
+      "texto": "caso.",
+      "inicio": 5.36,
+      "fin": 5.76
+    }
+  ]
+}

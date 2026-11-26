@@ -1,0 +1,70 @@
+{
+  "num": "01",
+  "titulo": "Gancho",
+  "texto": "Un simulador para el concurso docente, gratis por un año. Sí, gratis.",
+  "texto_tts": "[excited] Un simulador para el concurso docente, gratis por un año. Sí, gratis.",
+  "modelo": "eleven_v3",
+  "duracion": 4.96,
+  "palabras": [
+    {
+      "texto": "Un",
+      "inicio": 0.139,
+      "fin": 0.16
+    },
+    {
+      "texto": "simulador",
+      "inicio": 0.213,
+      "fin": 0.72
+    },
+    {
+      "texto": "para",
+      "inicio": 0.752,
+      "fin": 0.88
+    },
+    {
+      "texto": "el",
+      "inicio": 0.907,
+      "fin": 0.96
+    },
+    {
+      "texto": "concurso",
+      "inicio": 1.04,
+      "fin": 1.6
+    },
+    {
+      "texto": "docente,",
+      "inicio": 1.68,
+      "fin": 2.48
+    },
+    {
+      "texto": "gratis",
+      "inicio": 2.571,
+      "fin": 3.12
+    },
+    {
+      "texto": "por",
+      "inicio": 3.18,
+      "fin": 3.36
+    },
+    {
+      "texto": "un",
+      "inicio": 3.413,
+      "fin": 3.52
+    },
+    {
+      "texto": "año.",
+      "inicio": 3.62,
+      "fin": 4.08
+    },
+    {
+      "texto": "Sí,",
+      "inicio": 4.12,
+      "fin": 4.4
+    },
+    {
+      "texto": "gratis.",
+      "inicio": 4.469,
+      "fin": 4.96
+    }
+  ]
+}

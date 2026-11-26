@@ -1,0 +1,335 @@
+{
+  "num": "02",
+  "titulo": "Ruta de aprendizaje",
+  "texto": "En fundales punto com, en la sección Normativa, eliges tu cargo y el generador de ruta te ordena los documentos por prioridad. Para docente de aula, por ejemplo: la Ley ciento quince, el Decreto doce noventa de evaluación, los estándares básicos de competencia, la inclusión con el Decreto catorce veintiuno y la convivencia con la Ley dieciséis veinte. Cada uno con su enfoque de estudio.",
+  "texto_tts": "En fundales punto com, en la sección Normativa, eliges tu cargo y el generador de ruta te ordena los documentos por prioridad. Para docente de aula, por ejemplo: la Ley ciento quince, el Decreto doce noventa de evaluación, los estándares básicos de competencia, la inclusión con el Decreto catorce veintiuno y la convivencia con la Ley dieciséis veinte. Cada uno con su enfoque de estudio.",
+  "modelo": "eleven_v3",
+  "duracion": 22.48,
+  "palabras": [
+    {
+      "texto": "En",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "fundales",
+      "inicio": 0.128,
+      "fin": 0.56
+    },
+    {
+      "texto": "punto",
+      "inicio": 0.6,
+      "fin": 0.8
+    },
+    {
+      "texto": "com,",
+      "inicio": 0.86,
+      "fin": 1.2
+    },
+    {
+      "texto": "en",
+      "inicio": 1.227,
+      "fin": 1.28
+    },
+    {
+      "texto": "la",
+      "inicio": 1.307,
+      "fin": 1.36
+    },
+    {
+      "texto": "sección",
+      "inicio": 1.413,
+      "fin": 1.68
+    },
+    {
+      "texto": "Normativa,",
+      "inicio": 1.744,
+      "fin": 2.64
+    },
+    {
+      "texto": "eliges",
+      "inicio": 2.688,
+      "fin": 3.04
+    },
+    {
+      "texto": "tu",
+      "inicio": 3.067,
+      "fin": 3.12
+    },
+    {
+      "texto": "cargo",
+      "inicio": 3.173,
+      "fin": 3.44
+    },
+    {
+      "texto": "y",
+      "inicio": 3.52,
+      "fin": 3.6
+    },
+    {
+      "texto": "el",
+      "inicio": 3.627,
+      "fin": 3.68
+    },
+    {
+      "texto": "generador",
+      "inicio": 3.733,
+      "fin": 4.24
+    },
+    {
+      "texto": "de",
+      "inicio": 4.267,
+      "fin": 4.32
+    },
+    {
+      "texto": "ruta",
+      "inicio": 4.384,
+      "fin": 4.64
+    },
+    {
+      "texto": "te",
+      "inicio": 4.667,
+      "fin": 4.72
+    },
+    {
+      "texto": "ordena",
+      "inicio": 4.773,
+      "fin": 5.12
+    },
+    {
+      "texto": "los",
+      "inicio": 5.14,
+      "fin": 5.2
+    },
+    {
+      "texto": "documentos",
+      "inicio": 5.251,
+      "fin": 5.76
+    },
+    {
+      "texto": "por",
+      "inicio": 5.8,
+      "fin": 5.92
+    },
+    {
+      "texto": "prioridad.",
+      "inicio": 5.973,
+      "fin": 6.72
+    },
+    {
+      "texto": "Para",
+      "inicio": 6.896,
+      "fin": 7.6
+    },
+    {
+      "texto": "docente",
+      "inicio": 7.66,
+      "fin": 8.0
+    },
+    {
+      "texto": "de",
+      "inicio": 8.053,
+      "fin": 8.16
+    },
+    {
+      "texto": "aula,",
+      "inicio": 8.2,
+      "fin": 8.48
+    },
+    {
+      "texto": "por",
+      "inicio": 8.5,
+      "fin": 8.56
+    },
+    {
+      "texto": "ejemplo:",
+      "inicio": 8.62,
+      "fin": 9.36
+    },
+    {
+      "texto": "la",
+      "inicio": 9.387,
+      "fin": 9.44
+    },
+    {
+      "texto": "Ley",
+      "inicio": 9.48,
+      "fin": 9.6
+    },
+    {
+      "texto": "ciento",
+      "inicio": 9.68,
+      "fin": 9.92
+    },
+    {
+      "texto": "quince,",
+      "inicio": 10.0,
+      "fin": 10.72
+    },
+    {
+      "texto": "el",
+      "inicio": 10.747,
+      "fin": 10.8
+    },
+    {
+      "texto": "Decreto",
+      "inicio": 10.853,
+      "fin": 11.28
+    },
+    {
+      "texto": "doce",
+      "inicio": 11.36,
+      "fin": 11.6
+    },
+    {
+      "texto": "noventa",
+      "inicio": 11.68,
+      "fin": 12.08
+    },
+    {
+      "texto": "de",
+      "inicio": 12.107,
+      "fin": 12.16
+    },
+    {
+      "texto": "evaluación,",
+      "inicio": 12.2,
+      "fin": 13.12
+    },
+    {
+      "texto": "los",
+      "inicio": 13.14,
+      "fin": 13.2
+    },
+    {
+      "texto": "estándares",
+      "inicio": 13.264,
+      "fin": 13.76
+    },
+    {
+      "texto": "básicos",
+      "inicio": 13.82,
+      "fin": 14.16
+    },
+    {
+      "texto": "de",
+      "inicio": 14.187,
+      "fin": 14.24
+    },
+    {
+      "texto": "competencia,",
+      "inicio": 14.309,
+      "fin": 15.36
+    },
+    {
+      "texto": "la",
+      "inicio": 15.387,
+      "fin": 15.44
+    },
+    {
+      "texto": "inclusión",
+      "inicio": 15.509,
+      "fin": 16.08
+    },
+    {
+      "texto": "con",
+      "inicio": 16.12,
+      "fin": 16.24
+    },
+    {
+      "texto": "el",
+      "inicio": 16.267,
+      "fin": 16.32
+    },
+    {
+      "texto": "Decreto",
+      "inicio": 16.373,
+      "fin": 16.72
+    },
+    {
+      "texto": "catorce",
+      "inicio": 16.8,
+      "fin": 17.2
+    },
+    {
+      "texto": "veintiuno",
+      "inicio": 17.227,
+      "fin": 17.68
+    },
+    {
+      "texto": "y",
+      "inicio": 17.88,
+      "fin": 18.08
+    },
+    {
+      "texto": "la",
+      "inicio": 18.107,
+      "fin": 18.16
+    },
+    {
+      "texto": "convivencia",
+      "inicio": 18.224,
+      "fin": 18.88
+    },
+    {
+      "texto": "con",
+      "inicio": 18.92,
+      "fin": 19.04
+    },
+    {
+      "texto": "la",
+      "inicio": 19.067,
+      "fin": 19.12
+    },
+    {
+      "texto": "Ley",
+      "inicio": 19.16,
+      "fin": 19.28
+    },
+    {
+      "texto": "dieciséis",
+      "inicio": 19.34,
+      "fin": 19.76
+    },
+    {
+      "texto": "veinte.",
+      "inicio": 19.813,
+      "fin": 20.32
+    },
+    {
+      "texto": "Cada",
+      "inicio": 20.52,
+      "fin": 20.88
+    },
+    {
+      "texto": "uno",
+      "inicio": 20.94,
+      "fin": 21.12
+    },
+    {
+      "texto": "con",
+      "inicio": 21.18,
+      "fin": 21.36
+    },
+    {
+      "texto": "su",
+      "inicio": 21.387,
+      "fin": 21.44
+    },
+    {
+      "texto": "enfoque",
+      "inicio": 21.493,
+      "fin": 21.84
+    },
+    {
+      "texto": "de",
+      "inicio": 21.867,
+      "fin": 21.92
+    },
+    {
+      "texto": "estudio.",
+      "inicio": 21.98,
+      "fin": 22.48
+    }
+  ]
+}

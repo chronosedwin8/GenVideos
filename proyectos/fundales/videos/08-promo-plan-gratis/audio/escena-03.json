@@ -1,0 +1,55 @@
+{
+  "num": "03",
+  "titulo": "Cierre",
+  "texto": "Pruébalo antes de decidir. Entra a fundales punto com.",
+  "texto_tts": "Pruébalo antes de decidir. Entra a fundales punto com.",
+  "modelo": "eleven_v3",
+  "duracion": 3.84,
+  "palabras": [
+    {
+      "texto": "Pruébalo",
+      "inicio": 0.0,
+      "fin": 0.4
+    },
+    {
+      "texto": "antes",
+      "inicio": 0.48,
+      "fin": 0.88
+    },
+    {
+      "texto": "de",
+      "inicio": 0.933,
+      "fin": 1.04
+    },
+    {
+      "texto": "decidir.",
+      "inicio": 1.093,
+      "fin": 1.84
+    },
+    {
+      "texto": "Entra",
+      "inicio": 1.92,
+      "fin": 2.32
+    },
+    {
+      "texto": "a",
+      "inicio": 2.4,
+      "fin": 2.48
+    },
+    {
+      "texto": "fundales",
+      "inicio": 2.528,
+      "fin": 3.04
+    },
+    {
+      "texto": "punto",
+      "inicio": 3.107,
+      "fin": 3.44
+    },
+    {
+      "texto": "com.",
+      "inicio": 3.52,
+      "fin": 3.84
+    }
+  ]
+}

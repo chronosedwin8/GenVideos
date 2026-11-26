@@ -1,0 +1,90 @@
+{
+  "num": "03",
+  "titulo": "Extras",
+  "texto": "Premium suma el Coach IA y el asistente legal, y puedes agregar la entrevista con IA.",
+  "texto_tts": "Premium suma el Coach IA y el asistente legal, y puedes agregar la entrevista con IA.",
+  "modelo": "eleven_v3",
+  "duracion": 5.84,
+  "palabras": [
+    {
+      "texto": "Premium",
+      "inicio": 0.0,
+      "fin": 0.4
+    },
+    {
+      "texto": "suma",
+      "inicio": 0.512,
+      "fin": 0.96
+    },
+    {
+      "texto": "el",
+      "inicio": 1.013,
+      "fin": 1.12
+    },
+    {
+      "texto": "Coach",
+      "inicio": 1.187,
+      "fin": 1.52
+    },
+    {
+      "texto": "IA",
+      "inicio": 1.68,
+      "fin": 2.0
+    },
+    {
+      "texto": "y",
+      "inicio": 2.04,
+      "fin": 2.08
+    },
+    {
+      "texto": "el",
+      "inicio": 2.107,
+      "fin": 2.16
+    },
+    {
+      "texto": "asistente",
+      "inicio": 2.213,
+      "fin": 2.72
+    },
+    {
+      "texto": "legal,",
+      "inicio": 2.787,
+      "fin": 3.36
+    },
+    {
+      "texto": "y",
+      "inicio": 3.4,
+      "fin": 3.44
+    },
+    {
+      "texto": "puedes",
+      "inicio": 3.486,
+      "fin": 3.76
+    },
+    {
+      "texto": "agregar",
+      "inicio": 3.81,
+      "fin": 4.16
+    },
+    {
+      "texto": "la",
+      "inicio": 4.24,
+      "fin": 4.4
+    },
+    {
+      "texto": "entrevista",
+      "inicio": 4.457,
+      "fin": 5.04
+    },
+    {
+      "texto": "con",
+      "inicio": 5.1,
+      "fin": 5.28
+    },
+    {
+      "texto": "IA.",
+      "inicio": 5.467,
+      "fin": 5.84
+    }
+  ]
+}

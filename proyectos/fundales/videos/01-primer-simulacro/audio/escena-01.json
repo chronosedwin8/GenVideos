@@ -1,0 +1,105 @@
+{
+  "num": "01",
+  "titulo": "Gancho",
+  "texto": "Profe, en un minuto te muestro cómo hacer tu primer simulacro del concurso docente, gratis y desde el celular.",
+  "texto_tts": "[confident] Profe, en un minuto te muestro cómo hacer tu primer simulacro del concurso docente, gratis y desde el celular.",
+  "modelo": "eleven_v3",
+  "duracion": 6.4,
+  "palabras": [
+    {
+      "texto": "Profe,",
+      "inicio": 0.136,
+      "fin": 0.4
+    },
+    {
+      "texto": "en",
+      "inicio": 0.453,
+      "fin": 0.56
+    },
+    {
+      "texto": "un",
+      "inicio": 0.587,
+      "fin": 0.64
+    },
+    {
+      "texto": "minuto",
+      "inicio": 0.68,
+      "fin": 0.96
+    },
+    {
+      "texto": "te",
+      "inicio": 1.013,
+      "fin": 1.12
+    },
+    {
+      "texto": "muestro",
+      "inicio": 1.16,
+      "fin": 1.52
+    },
+    {
+      "texto": "cómo",
+      "inicio": 1.584,
+      "fin": 1.84
+    },
+    {
+      "texto": "hacer",
+      "inicio": 1.88,
+      "fin": 2.08
+    },
+    {
+      "texto": "tu",
+      "inicio": 2.133,
+      "fin": 2.24
+    },
+    {
+      "texto": "primer",
+      "inicio": 2.286,
+      "fin": 2.56
+    },
+    {
+      "texto": "simulacro",
+      "inicio": 2.627,
+      "fin": 3.28
+    },
+    {
+      "texto": "del",
+      "inicio": 3.32,
+      "fin": 3.44
+    },
+    {
+      "texto": "concurso",
+      "inicio": 3.5,
+      "fin": 4.0
+    },
+    {
+      "texto": "docente,",
+      "inicio": 4.06,
+      "fin": 4.8
+    },
+    {
+      "texto": "gratis",
+      "inicio": 4.869,
+      "fin": 5.28
+    },
+    {
+      "texto": "y",
+      "inicio": 5.36,
+      "fin": 5.44
+    },
+    {
+      "texto": "desde",
+      "inicio": 5.493,
+      "fin": 5.76
+    },
+    {
+      "texto": "el",
+      "inicio": 5.787,
+      "fin": 5.84
+    },
+    {
+      "texto": "celular.",
+      "inicio": 5.91,
+      "fin": 6.4
+    }
+  ]
+}

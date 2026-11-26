@@ -1,0 +1,912 @@
+{
+  "canal": "fundales",
+  "slug": "05-normativa-asistente-legal",
+  "duracion_total": 62.08,
+  "pausa_entre_escenas": 0.4,
+  "escenas": [
+    {
+      "num": "01",
+      "titulo": "Gancho",
+      "audio": "escena-01.mp3",
+      "inicio": 0.0,
+      "duracion": 8.64,
+      "palabras": [
+        {
+          "texto": "Ley",
+          "inicio": 0.204,
+          "fin": 0.24
+        },
+        {
+          "texto": "ciento",
+          "inicio": 0.28,
+          "fin": 0.56
+        },
+        {
+          "texto": "quince,",
+          "inicio": 0.64,
+          "fin": 1.04
+        },
+        {
+          "texto": "Decreto",
+          "inicio": 1.107,
+          "fin": 1.52
+        },
+        {
+          "texto": "doce",
+          "inicio": 1.627,
+          "fin": 1.96
+        },
+        {
+          "texto": "setenta",
+          "inicio": 1.99,
+          "fin": 2.32
+        },
+        {
+          "texto": "y",
+          "inicio": 2.36,
+          "fin": 2.4
+        },
+        {
+          "texto": "ocho,",
+          "inicio": 2.48,
+          "fin": 2.88
+        },
+        {
+          "texto": "Ley",
+          "inicio": 2.94,
+          "fin": 3.12
+        },
+        {
+          "texto": "dieciséis",
+          "inicio": 3.16,
+          "fin": 3.64
+        },
+        {
+          "texto": "veinte…",
+          "inicio": 3.68,
+          "fin": 4.48
+        },
+        {
+          "texto": "Son",
+          "inicio": 4.54,
+          "fin": 4.72
+        },
+        {
+          "texto": "muchas",
+          "inicio": 4.8,
+          "fin": 5.28
+        },
+        {
+          "texto": "normas",
+          "inicio": 5.328,
+          "fin": 5.68
+        },
+        {
+          "texto": "para",
+          "inicio": 5.712,
+          "fin": 5.84
+        },
+        {
+          "texto": "el",
+          "inicio": 5.867,
+          "fin": 5.92
+        },
+        {
+          "texto": "concurso",
+          "inicio": 5.96,
+          "fin": 6.32
+        },
+        {
+          "texto": "docente.",
+          "inicio": 6.38,
+          "fin": 6.88
+        },
+        {
+          "texto": "¿Por",
+          "inicio": 7.08,
+          "fin": 7.36
+        },
+        {
+          "texto": "cuál",
+          "inicio": 7.413,
+          "fin": 7.64
+        },
+        {
+          "texto": "empiezas?",
+          "inicio": 7.67,
+          "fin": 8.64
+        }
+      ]
+    },
+    {
+      "num": "02",
+      "titulo": "Ruta de aprendizaje",
+      "audio": "escena-02.mp3",
+      "inicio": 9.04,
+      "duracion": 22.48,
+      "palabras": [
+        {
+          "texto": "En",
+          "inicio": 0.0,
+          "fin": 0.08
+        },
+        {
+          "texto": "fundales",
+          "inicio": 0.128,
+          "fin": 0.56
+        },
+        {
+          "texto": "punto",
+          "inicio": 0.6,
+          "fin": 0.8
+        },
+        {
+          "texto": "com,",
+          "inicio": 0.86,
+          "fin": 1.2
+        },
+        {
+          "texto": "en",
+          "inicio": 1.227,
+          "fin": 1.28
+        },
+        {
+          "texto": "la",
+          "inicio": 1.307,
+          "fin": 1.36
+        },
+        {
+          "texto": "sección",
+          "inicio": 1.413,
+          "fin": 1.68
+        },
+        {
+          "texto": "Normativa,",
+          "inicio": 1.744,
+          "fin": 2.64
+        },
+        {
+          "texto": "eliges",
+          "inicio": 2.688,
+          "fin": 3.04
+        },
+        {
+          "texto": "tu",
+          "inicio": 3.067,
+          "fin": 3.12
+        },
+        {
+          "texto": "cargo",
+          "inicio": 3.173,
+          "fin": 3.44
+        },
+        {
+          "texto": "y",
+          "inicio": 3.52,
+          "fin": 3.6
+        },
+        {
+          "texto": "el",
+          "inicio": 3.627,
+          "fin": 3.68
+        },
+        {
+          "texto": "generador",
+          "inicio": 3.733,
+          "fin": 4.24
+        },
+        {
+          "texto": "de",
+          "inicio": 4.267,
+          "fin": 4.32
+        },
+        {
+          "texto": "ruta",
+          "inicio": 4.384,
+          "fin": 4.64
+        },
+        {
+          "texto": "te",
+          "inicio": 4.667,
+          "fin": 4.72
+        },
+        {
+          "texto": "ordena",
+          "inicio": 4.773,
+          "fin": 5.12
+        },
+        {
+          "texto": "los",
+          "inicio": 5.14,
+          "fin": 5.2
+        },
+        {
+          "texto": "documentos",
+          "inicio": 5.251,
+          "fin": 5.76
+        },
+        {
+          "texto": "por",
+          "inicio": 5.8,
+          "fin": 5.92
+        },
+        {
+          "texto": "prioridad.",
+          "inicio": 5.973,
+          "fin": 6.72
+        },
+        {
+          "texto": "Para",
+          "inicio": 6.896,
+          "fin": 7.6
+        },
+        {
+          "texto": "docente",
+          "inicio": 7.66,
+          "fin": 8.0
+        },
+        {
+          "texto": "de",
+          "inicio": 8.053,
+          "fin": 8.16
+        },
+        {
+          "texto": "aula,",
+          "inicio": 8.2,
+          "fin": 8.48
+        },
+        {
+          "texto": "por",
+          "inicio": 8.5,
+          "fin": 8.56
+        },
+        {
+          "texto": "ejemplo:",
+          "inicio": 8.62,
+          "fin": 9.36
+        },
+        {
+          "texto": "la",
+          "inicio": 9.387,
+          "fin": 9.44
+        },
+        {
+          "texto": "Ley",
+          "inicio": 9.48,
+          "fin": 9.6
+        },
+        {
+          "texto": "ciento",
+          "inicio": 9.68,
+          "fin": 9.92
+        },
+        {
+          "texto": "quince,",
+          "inicio": 10.0,
+          "fin": 10.72
+        },
+        {
+          "texto": "el",
+          "inicio": 10.747,
+          "fin": 10.8
+        },
+        {
+          "texto": "Decreto",
+          "inicio": 10.853,
+          "fin": 11.28
+        },
+        {
+          "texto": "doce",
+          "inicio": 11.36,
+          "fin": 11.6
+        },
+        {
+          "texto": "noventa",
+          "inicio": 11.68,
+          "fin": 12.08
+        },
+        {
+          "texto": "de",
+          "inicio": 12.107,
+          "fin": 12.16
+        },
+        {
+          "texto": "evaluación,",
+          "inicio": 12.2,
+          "fin": 13.12
+        },
+        {
+          "texto": "los",
+          "inicio": 13.14,
+          "fin": 13.2
+        },
+        {
+          "texto": "estándares",
+          "inicio": 13.264,
+          "fin": 13.76
+        },
+        {
+          "texto": "básicos",
+          "inicio": 13.82,
+          "fin": 14.16
+        },
+        {
+          "texto": "de",
+          "inicio": 14.187,
+          "fin": 14.24
+        },
+        {
+          "texto": "competencia,",
+          "inicio": 14.309,
+          "fin": 15.36
+        },
+        {
+          "texto": "la",
+          "inicio": 15.387,
+          "fin": 15.44
+        },
+        {
+          "texto": "inclusión",
+          "inicio": 15.509,
+          "fin": 16.08
+        },
+        {
+          "texto": "con",
+          "inicio": 16.12,
+          "fin": 16.24
+        },
+        {
+          "texto": "el",
+          "inicio": 16.267,
+          "fin": 16.32
+        },
+        {
+          "texto": "Decreto",
+          "inicio": 16.373,
+          "fin": 16.72
+        },
+        {
+          "texto": "catorce",
+          "inicio": 16.8,
+          "fin": 17.2
+        },
+        {
+          "texto": "veintiuno",
+          "inicio": 17.227,
+          "fin": 17.68
+        },
+        {
+          "texto": "y",
+          "inicio": 17.88,
+          "fin": 18.08
+        },
+        {
+          "texto": "la",
+          "inicio": 18.107,
+          "fin": 18.16
+        },
+        {
+          "texto": "convivencia",
+          "inicio": 18.224,
+          "fin": 18.88
+        },
+        {
+          "texto": "con",
+          "inicio": 18.92,
+          "fin": 19.04
+        },
+        {
+          "texto": "la",
+          "inicio": 19.067,
+          "fin": 19.12
+        },
+        {
+          "texto": "Ley",
+          "inicio": 19.16,
+          "fin": 19.28
+        },
+        {
+          "texto": "dieciséis",
+          "inicio": 19.34,
+          "fin": 19.76
+        },
+        {
+          "texto": "veinte.",
+          "inicio": 19.813,
+          "fin": 20.32
+        },
+        {
+          "texto": "Cada",
+          "inicio": 20.52,
+          "fin": 20.88
+        },
+        {
+          "texto": "uno",
+          "inicio": 20.94,
+          "fin": 21.12
+        },
+        {
+          "texto": "con",
+          "inicio": 21.18,
+          "fin": 21.36
+        },
+        {
+          "texto": "su",
+          "inicio": 21.387,
+          "fin": 21.44
+        },
+        {
+          "texto": "enfoque",
+          "inicio": 21.493,
+          "fin": 21.84
+        },
+        {
+          "texto": "de",
+          "inicio": 21.867,
+          "fin": 21.92
+        },
+        {
+          "texto": "estudio.",
+          "inicio": 21.98,
+          "fin": 22.48
+        }
+      ]
+    },
+    {
+      "num": "03",
+      "titulo": "Biblioteca general",
+      "audio": "escena-03.mp3",
+      "inicio": 31.92,
+      "duracion": 5.68,
+      "palabras": [
+        {
+          "texto": "En",
+          "inicio": 0.0,
+          "fin": 0.08
+        },
+        {
+          "texto": "la",
+          "inicio": 0.107,
+          "fin": 0.16
+        },
+        {
+          "texto": "biblioteca",
+          "inicio": 0.187,
+          "fin": 0.56
+        },
+        {
+          "texto": "general",
+          "inicio": 0.61,
+          "fin": 0.96
+        },
+        {
+          "texto": "tienes",
+          "inicio": 1.017,
+          "fin": 1.36
+        },
+        {
+          "texto": "las",
+          "inicio": 1.4,
+          "fin": 1.52
+        },
+        {
+          "texto": "normas",
+          "inicio": 1.568,
+          "fin": 1.92
+        },
+        {
+          "texto": "clave",
+          "inicio": 1.987,
+          "fin": 2.32
+        },
+        {
+          "texto": "del",
+          "inicio": 2.36,
+          "fin": 2.48
+        },
+        {
+          "texto": "sector,",
+          "inicio": 2.537,
+          "fin": 3.2
+        },
+        {
+          "texto": "con",
+          "inicio": 3.24,
+          "fin": 3.36
+        },
+        {
+          "texto": "un",
+          "inicio": 3.387,
+          "fin": 3.44
+        },
+        {
+          "texto": "resumen",
+          "inicio": 3.5,
+          "fin": 3.92
+        },
+        {
+          "texto": "de",
+          "inicio": 4.027,
+          "fin": 4.24
+        },
+        {
+          "texto": "qué",
+          "inicio": 4.3,
+          "fin": 4.48
+        },
+        {
+          "texto": "regula",
+          "inicio": 4.54,
+          "fin": 4.96
+        },
+        {
+          "texto": "cada",
+          "inicio": 5.04,
+          "fin": 5.36
+        },
+        {
+          "texto": "una.",
+          "inicio": 5.44,
+          "fin": 5.68
+        }
+      ]
+    },
+    {
+      "num": "04",
+      "titulo": "Asistente Legal IA",
+      "audio": "escena-04.mp3",
+      "inicio": 38.0,
+      "duracion": 10.8,
+      "palabras": [
+        {
+          "texto": "Y",
+          "inicio": 0.0,
+          "fin": 0.08
+        },
+        {
+          "texto": "si",
+          "inicio": 0.133,
+          "fin": 0.24
+        },
+        {
+          "texto": "tienes",
+          "inicio": 0.286,
+          "fin": 0.56
+        },
+        {
+          "texto": "una",
+          "inicio": 0.6,
+          "fin": 0.72
+        },
+        {
+          "texto": "duda,",
+          "inicio": 0.76,
+          "fin": 1.28
+        },
+        {
+          "texto": "se",
+          "inicio": 1.333,
+          "fin": 1.44
+        },
+        {
+          "texto": "la",
+          "inicio": 1.467,
+          "fin": 1.52
+        },
+        {
+          "texto": "preguntas",
+          "inicio": 1.568,
+          "fin": 2.08
+        },
+        {
+          "texto": "al",
+          "inicio": 2.107,
+          "fin": 2.16
+        },
+        {
+          "texto": "Asistente",
+          "inicio": 2.213,
+          "fin": 2.8
+        },
+        {
+          "texto": "Legal",
+          "inicio": 2.88,
+          "fin": 3.28
+        },
+        {
+          "texto": "IA.",
+          "inicio": 3.44,
+          "fin": 3.84
+        },
+        {
+          "texto": "Eliges",
+          "inicio": 4.027,
+          "fin": 4.64
+        },
+        {
+          "texto": "una",
+          "inicio": 4.68,
+          "fin": 4.8
+        },
+        {
+          "texto": "norma,",
+          "inicio": 4.864,
+          "fin": 5.28
+        },
+        {
+          "texto": "escribes",
+          "inicio": 5.36,
+          "fin": 5.76
+        },
+        {
+          "texto": "tu",
+          "inicio": 5.813,
+          "fin": 5.92
+        },
+        {
+          "texto": "pregunta",
+          "inicio": 5.956,
+          "fin": 6.24
+        },
+        {
+          "texto": "en",
+          "inicio": 6.293,
+          "fin": 6.4
+        },
+        {
+          "texto": "tus",
+          "inicio": 6.42,
+          "fin": 6.48
+        },
+        {
+          "texto": "palabras",
+          "inicio": 6.542,
+          "fin": 7.04
+        },
+        {
+          "texto": "y",
+          "inicio": 7.24,
+          "fin": 7.44
+        },
+        {
+          "texto": "te",
+          "inicio": 7.467,
+          "fin": 7.52
+        },
+        {
+          "texto": "responde",
+          "inicio": 7.6,
+          "fin": 8.24
+        },
+        {
+          "texto": "al",
+          "inicio": 8.293,
+          "fin": 8.4
+        },
+        {
+          "texto": "instante,",
+          "inicio": 8.448,
+          "fin": 9.04
+        },
+        {
+          "texto": "en",
+          "inicio": 9.093,
+          "fin": 9.2
+        },
+        {
+          "texto": "el",
+          "inicio": 9.253,
+          "fin": 9.36
+        },
+        {
+          "texto": "contexto",
+          "inicio": 9.431,
+          "fin": 10.0
+        },
+        {
+          "texto": "de",
+          "inicio": 10.053,
+          "fin": 10.16
+        },
+        {
+          "texto": "esa",
+          "inicio": 10.22,
+          "fin": 10.4
+        },
+        {
+          "texto": "norma.",
+          "inicio": 10.448,
+          "fin": 10.8
+        }
+      ]
+    },
+    {
+      "num": "05",
+      "titulo": "Por qué importa",
+      "audio": "escena-05.mp3",
+      "inicio": 49.2,
+      "duracion": 5.76,
+      "palabras": [
+        {
+          "texto": "Porque",
+          "inicio": 0.0,
+          "fin": 0.24
+        },
+        {
+          "texto": "en",
+          "inicio": 0.267,
+          "fin": 0.32
+        },
+        {
+          "texto": "la",
+          "inicio": 0.373,
+          "fin": 0.48
+        },
+        {
+          "texto": "prueba",
+          "inicio": 0.537,
+          "fin": 0.88
+        },
+        {
+          "texto": "no",
+          "inicio": 1.013,
+          "fin": 1.28
+        },
+        {
+          "texto": "basta",
+          "inicio": 1.36,
+          "fin": 1.68
+        },
+        {
+          "texto": "con",
+          "inicio": 1.72,
+          "fin": 1.84
+        },
+        {
+          "texto": "memorizar",
+          "inicio": 1.893,
+          "fin": 2.32
+        },
+        {
+          "texto": "la",
+          "inicio": 2.373,
+          "fin": 2.48
+        },
+        {
+          "texto": "ley:",
+          "inicio": 2.56,
+          "fin": 3.2
+        },
+        {
+          "texto": "tienes",
+          "inicio": 3.257,
+          "fin": 3.6
+        },
+        {
+          "texto": "que",
+          "inicio": 3.64,
+          "fin": 3.76
+        },
+        {
+          "texto": "saber",
+          "inicio": 3.813,
+          "fin": 4.08
+        },
+        {
+          "texto": "aplicarla",
+          "inicio": 4.147,
+          "fin": 4.8
+        },
+        {
+          "texto": "a",
+          "inicio": 4.96,
+          "fin": 5.12
+        },
+        {
+          "texto": "un",
+          "inicio": 5.173,
+          "fin": 5.28
+        },
+        {
+          "texto": "caso.",
+          "inicio": 5.36,
+          "fin": 5.76
+        }
+      ]
+    },
+    {
+      "num": "06",
+      "titulo": "Cierre",
+      "audio": "escena-06.mp3",
+      "inicio": 55.36,
+      "duracion": 6.32,
+      "palabras": [
+        {
+          "texto": "La",
+          "inicio": 0.0,
+          "fin": 0.16
+        },
+        {
+          "texto": "ruta",
+          "inicio": 0.224,
+          "fin": 0.48
+        },
+        {
+          "texto": "y",
+          "inicio": 0.52,
+          "fin": 0.56
+        },
+        {
+          "texto": "la",
+          "inicio": 0.587,
+          "fin": 0.64
+        },
+        {
+          "texto": "biblioteca",
+          "inicio": 0.68,
+          "fin": 1.2
+        },
+        {
+          "texto": "son",
+          "inicio": 1.24,
+          "fin": 1.36
+        },
+        {
+          "texto": "gratis;",
+          "inicio": 1.417,
+          "fin": 2.0
+        },
+        {
+          "texto": "el",
+          "inicio": 2.053,
+          "fin": 2.16
+        },
+        {
+          "texto": "asistente",
+          "inicio": 2.213,
+          "fin": 2.64
+        },
+        {
+          "texto": "legal",
+          "inicio": 2.707,
+          "fin": 3.04
+        },
+        {
+          "texto": "es",
+          "inicio": 3.147,
+          "fin": 3.36
+        },
+        {
+          "texto": "Premium.",
+          "inicio": 3.43,
+          "fin": 4.16
+        },
+        {
+          "texto": "Entra",
+          "inicio": 4.213,
+          "fin": 4.48
+        },
+        {
+          "texto": "a",
+          "inicio": 4.64,
+          "fin": 4.8
+        },
+        {
+          "texto": "fundales",
+          "inicio": 4.864,
+          "fin": 5.52
+        },
+        {
+          "texto": "punto",
+          "inicio": 5.56,
+          "fin": 5.76
+        },
+        {
+          "texto": "com.",
+          "inicio": 5.86,
+          "fin": 6.32
+        }
+      ]
+    }
+  ]
+}

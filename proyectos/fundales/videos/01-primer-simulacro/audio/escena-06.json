@@ -1,0 +1,80 @@
+{
+  "num": "06",
+  "titulo": "Cierre",
+  "texto": "Así de fácil. Haz tu primer diagnóstico hoy: entra gratis a fundales punto com.",
+  "texto_tts": "Así de fácil. Haz tu primer diagnóstico hoy: entra gratis a fundales punto com.",
+  "modelo": "eleven_v3",
+  "duracion": 5.68,
+  "palabras": [
+    {
+      "texto": "Así",
+      "inicio": 0.0,
+      "fin": 0.32
+    },
+    {
+      "texto": "de",
+      "inicio": 0.373,
+      "fin": 0.48
+    },
+    {
+      "texto": "fácil.",
+      "inicio": 0.56,
+      "fin": 1.04
+    },
+    {
+      "texto": "Haz",
+      "inicio": 1.16,
+      "fin": 1.52
+    },
+    {
+      "texto": "tu",
+      "inicio": 1.547,
+      "fin": 1.6
+    },
+    {
+      "texto": "primer",
+      "inicio": 1.646,
+      "fin": 1.92
+    },
+    {
+      "texto": "diagnóstico",
+      "inicio": 1.96,
+      "fin": 2.56
+    },
+    {
+      "texto": "hoy:",
+      "inicio": 2.66,
+      "fin": 3.36
+    },
+    {
+      "texto": "entra",
+      "inicio": 3.413,
+      "fin": 3.68
+    },
+    {
+      "texto": "gratis",
+      "inicio": 3.749,
+      "fin": 4.16
+    },
+    {
+      "texto": "a",
+      "inicio": 4.28,
+      "fin": 4.4
+    },
+    {
+      "texto": "fundales",
+      "inicio": 4.448,
+      "fin": 4.96
+    },
+    {
+      "texto": "punto",
+      "inicio": 5.013,
+      "fin": 5.28
+    },
+    {
+      "texto": "com.",
+      "inicio": 5.36,
+      "fin": 5.68
+    }
+  ]
+}

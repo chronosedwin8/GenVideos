@@ -1,0 +1,364 @@
+{
+  "canal": "fundales",
+  "slug": "11-promo-matematicas",
+  "duracion_total": 27.2,
+  "pausa_entre_escenas": 0.4,
+  "escenas": [
+    {
+      "num": "01",
+      "titulo": "Gancho",
+      "audio": "escena-01.mp3",
+      "inicio": 0.0,
+      "duracion": 5.28,
+      "palabras": [
+        {
+          "texto": "¿Le",
+          "inicio": 0.12,
+          "fin": 0.16
+        },
+        {
+          "texto": "tienes",
+          "inicio": 0.217,
+          "fin": 0.56
+        },
+        {
+          "texto": "miedo",
+          "inicio": 0.64,
+          "fin": 1.04
+        },
+        {
+          "texto": "a",
+          "inicio": 1.2,
+          "fin": 1.36
+        },
+        {
+          "texto": "la",
+          "inicio": 1.387,
+          "fin": 1.44
+        },
+        {
+          "texto": "parte",
+          "inicio": 1.507,
+          "fin": 1.84
+        },
+        {
+          "texto": "de",
+          "inicio": 1.867,
+          "fin": 1.92
+        },
+        {
+          "texto": "razonamiento",
+          "inicio": 2.0,
+          "fin": 2.72
+        },
+        {
+          "texto": "cuantitativo?",
+          "inicio": 2.8,
+          "fin": 3.68
+        },
+        {
+          "texto": "Tranquilo,",
+          "inicio": 3.84,
+          "fin": 4.8
+        },
+        {
+          "texto": "profe.",
+          "inicio": 4.82,
+          "fin": 5.28
+        }
+      ]
+    },
+    {
+      "num": "02",
+      "titulo": "Videos gratis",
+      "audio": "escena-02.mp3",
+      "inicio": 5.68,
+      "duracion": 7.52,
+      "palabras": [
+        {
+          "texto": "En",
+          "inicio": 0.0,
+          "fin": 0.16
+        },
+        {
+          "texto": "Entrenador",
+          "inicio": 0.2,
+          "fin": 0.64
+        },
+        {
+          "texto": "Docente",
+          "inicio": 0.72,
+          "fin": 1.2
+        },
+        {
+          "texto": "tienes",
+          "inicio": 1.257,
+          "fin": 1.6
+        },
+        {
+          "texto": "videos",
+          "inicio": 1.68,
+          "fin": 2.16
+        },
+        {
+          "texto": "tutoriales",
+          "inicio": 2.213,
+          "fin": 2.72
+        },
+        {
+          "texto": "de",
+          "inicio": 2.747,
+          "fin": 2.8
+        },
+        {
+          "texto": "matemáticas",
+          "inicio": 2.84,
+          "fin": 3.44
+        },
+        {
+          "texto": "para",
+          "inicio": 3.472,
+          "fin": 3.6
+        },
+        {
+          "texto": "el",
+          "inicio": 3.627,
+          "fin": 3.68
+        },
+        {
+          "texto": "concurso,",
+          "inicio": 3.76,
+          "fin": 4.72
+        },
+        {
+          "texto": "paso",
+          "inicio": 4.768,
+          "fin": 4.96
+        },
+        {
+          "texto": "a",
+          "inicio": 5.04,
+          "fin": 5.12
+        },
+        {
+          "texto": "paso",
+          "inicio": 5.184,
+          "fin": 5.44
+        },
+        {
+          "texto": "y",
+          "inicio": 5.56,
+          "fin": 5.68
+        },
+        {
+          "texto": "gratis",
+          "inicio": 5.749,
+          "fin": 6.16
+        },
+        {
+          "texto": "para",
+          "inicio": 6.208,
+          "fin": 6.4
+        },
+        {
+          "texto": "todos",
+          "inicio": 6.453,
+          "fin": 6.72
+        },
+        {
+          "texto": "los",
+          "inicio": 6.76,
+          "fin": 6.88
+        },
+        {
+          "texto": "usuarios.",
+          "inicio": 6.933,
+          "fin": 7.52
+        }
+      ]
+    },
+    {
+      "num": "03",
+      "titulo": "Ejercicios con IA",
+      "audio": "escena-03.mp3",
+      "inicio": 13.6,
+      "duracion": 9.76,
+      "palabras": [
+        {
+          "texto": "Y",
+          "inicio": 0.0,
+          "fin": 0.08
+        },
+        {
+          "texto": "con",
+          "inicio": 0.14,
+          "fin": 0.32
+        },
+        {
+          "texto": "Premium,",
+          "inicio": 0.37,
+          "fin": 0.88
+        },
+        {
+          "texto": "la",
+          "inicio": 0.907,
+          "fin": 0.96
+        },
+        {
+          "texto": "inteligencia",
+          "inicio": 1.01,
+          "fin": 1.52
+        },
+        {
+          "texto": "artificial",
+          "inicio": 1.6,
+          "fin": 2.4
+        },
+        {
+          "texto": "te",
+          "inicio": 2.48,
+          "fin": 2.64
+        },
+        {
+          "texto": "genera",
+          "inicio": 2.72,
+          "fin": 3.2
+        },
+        {
+          "texto": "ejercicios",
+          "inicio": 3.36,
+          "fin": 4.32
+        },
+        {
+          "texto": "del",
+          "inicio": 4.4,
+          "fin": 4.64
+        },
+        {
+          "texto": "tema",
+          "inicio": 4.704,
+          "fin": 4.96
+        },
+        {
+          "texto": "que",
+          "inicio": 5.0,
+          "fin": 5.12
+        },
+        {
+          "texto": "elijas,",
+          "inicio": 5.147,
+          "fin": 5.92
+        },
+        {
+          "texto": "con",
+          "inicio": 5.96,
+          "fin": 6.08
+        },
+        {
+          "texto": "la",
+          "inicio": 6.133,
+          "fin": 6.24
+        },
+        {
+          "texto": "solución",
+          "inicio": 6.3,
+          "fin": 7.04
+        },
+        {
+          "texto": "paso",
+          "inicio": 7.152,
+          "fin": 7.6
+        },
+        {
+          "texto": "a",
+          "inicio": 7.64,
+          "fin": 7.68
+        },
+        {
+          "texto": "paso",
+          "inicio": 7.76,
+          "fin": 8.08
+        },
+        {
+          "texto": "y",
+          "inicio": 8.2,
+          "fin": 8.32
+        },
+        {
+          "texto": "en",
+          "inicio": 8.373,
+          "fin": 8.48
+        },
+        {
+          "texto": "PDF",
+          "inicio": 8.62,
+          "fin": 9.04
+        },
+        {
+          "texto": "para",
+          "inicio": 9.072,
+          "fin": 9.2
+        },
+        {
+          "texto": "imprimir.",
+          "inicio": 9.253,
+          "fin": 9.76
+        }
+      ]
+    },
+    {
+      "num": "04",
+      "titulo": "Cierre",
+      "audio": "escena-04.mp3",
+      "inicio": 23.76,
+      "duracion": 3.04,
+      "palabras": [
+        {
+          "texto": "Empieza",
+          "inicio": 0.0,
+          "fin": 0.4
+        },
+        {
+          "texto": "por",
+          "inicio": 0.44,
+          "fin": 0.56
+        },
+        {
+          "texto": "los",
+          "inicio": 0.58,
+          "fin": 0.64
+        },
+        {
+          "texto": "videos",
+          "inicio": 0.697,
+          "fin": 1.04
+        },
+        {
+          "texto": "gratis",
+          "inicio": 1.12,
+          "fin": 1.6
+        },
+        {
+          "texto": "en",
+          "inicio": 1.653,
+          "fin": 1.76
+        },
+        {
+          "texto": "fundales",
+          "inicio": 1.808,
+          "fin": 2.32
+        },
+        {
+          "texto": "punto",
+          "inicio": 2.36,
+          "fin": 2.56
+        },
+        {
+          "texto": "com.",
+          "inicio": 2.64,
+          "fin": 3.04
+        }
+      ]
+    }
+  ]
+}

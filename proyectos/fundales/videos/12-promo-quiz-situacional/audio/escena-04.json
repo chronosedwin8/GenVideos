@@ -1,0 +1,115 @@
+{
+  "num": "04",
+  "titulo": "Respuesta",
+  "texto": "Es la B: tutorías para los estudiantes con bajo rendimiento. Ataca una causa raíz, con datos, sin gastar más en becas.",
+  "texto_tts": "Es la B: tutorías para los estudiantes con bajo rendimiento. Ataca una causa raíz, con datos, sin gastar más en becas.",
+  "modelo": "eleven_v3",
+  "duracion": 8.64,
+  "palabras": [
+    {
+      "texto": "Es",
+      "inicio": 0.0,
+      "fin": 0.16
+    },
+    {
+      "texto": "la",
+      "inicio": 0.213,
+      "fin": 0.32
+    },
+    {
+      "texto": "B:",
+      "inicio": 0.44,
+      "fin": 0.64
+    },
+    {
+      "texto": "tutorías",
+      "inicio": 0.747,
+      "fin": 1.52
+    },
+    {
+      "texto": "para",
+      "inicio": 1.552,
+      "fin": 1.68
+    },
+    {
+      "texto": "los",
+      "inicio": 1.7,
+      "fin": 1.76
+    },
+    {
+      "texto": "estudiantes",
+      "inicio": 1.807,
+      "fin": 2.32
+    },
+    {
+      "texto": "con",
+      "inicio": 2.38,
+      "fin": 2.56
+    },
+    {
+      "texto": "bajo",
+      "inicio": 2.624,
+      "fin": 2.88
+    },
+    {
+      "texto": "rendimiento.",
+      "inicio": 2.928,
+      "fin": 3.68
+    },
+    {
+      "texto": "Ataca",
+      "inicio": 3.867,
+      "fin": 4.48
+    },
+    {
+      "texto": "una",
+      "inicio": 4.52,
+      "fin": 4.64
+    },
+    {
+      "texto": "causa",
+      "inicio": 4.707,
+      "fin": 5.04
+    },
+    {
+      "texto": "raíz,",
+      "inicio": 5.12,
+      "fin": 5.76
+    },
+    {
+      "texto": "con",
+      "inicio": 5.82,
+      "fin": 6.0
+    },
+    {
+      "texto": "datos,",
+      "inicio": 6.093,
+      "fin": 6.8
+    },
+    {
+      "texto": "sin",
+      "inicio": 6.86,
+      "fin": 7.04
+    },
+    {
+      "texto": "gastar",
+      "inicio": 7.104,
+      "fin": 7.52
+    },
+    {
+      "texto": "más",
+      "inicio": 7.62,
+      "fin": 7.92
+    },
+    {
+      "texto": "en",
+      "inicio": 7.973,
+      "fin": 8.08
+    },
+    {
+      "texto": "becas.",
+      "inicio": 8.133,
+      "fin": 8.64
+    }
+  ]
+}

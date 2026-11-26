@@ -1,0 +1,120 @@
+{
+  "num": "03",
+  "titulo": "La oportunidad",
+  "texto": "Eso es tiempo para entrenar, no para relajarse. Ya son más de dos mil trescientos aspirantes los que practican en Entrenador Docente.",
+  "texto_tts": "Eso es tiempo para entrenar, no para relajarse. Ya son más de dos mil trescientos aspirantes los que practican en Entrenador Docente.",
+  "modelo": "eleven_v3",
+  "duracion": 8.16,
+  "palabras": [
+    {
+      "texto": "Eso",
+      "inicio": 0.0,
+      "fin": 0.24
+    },
+    {
+      "texto": "es",
+      "inicio": 0.293,
+      "fin": 0.4
+    },
+    {
+      "texto": "tiempo",
+      "inicio": 0.457,
+      "fin": 0.8
+    },
+    {
+      "texto": "para",
+      "inicio": 0.848,
+      "fin": 1.04
+    },
+    {
+      "texto": "entrenar,",
+      "inicio": 1.086,
+      "fin": 1.84
+    },
+    {
+      "texto": "no",
+      "inicio": 1.92,
+      "fin": 2.08
+    },
+    {
+      "texto": "para",
+      "inicio": 2.128,
+      "fin": 2.32
+    },
+    {
+      "texto": "relajarse.",
+      "inicio": 2.38,
+      "fin": 3.04
+    },
+    {
+      "texto": "Ya",
+      "inicio": 3.227,
+      "fin": 3.6
+    },
+    {
+      "texto": "son",
+      "inicio": 3.68,
+      "fin": 3.92
+    },
+    {
+      "texto": "más",
+      "inicio": 4.0,
+      "fin": 4.24
+    },
+    {
+      "texto": "de",
+      "inicio": 4.267,
+      "fin": 4.32
+    },
+    {
+      "texto": "dos",
+      "inicio": 4.38,
+      "fin": 4.56
+    },
+    {
+      "texto": "mil",
+      "inicio": 4.62,
+      "fin": 4.8
+    },
+    {
+      "texto": "trescientos",
+      "inicio": 4.88,
+      "fin": 5.52
+    },
+    {
+      "texto": "aspirantes",
+      "inicio": 5.573,
+      "fin": 6.08
+    },
+    {
+      "texto": "los",
+      "inicio": 6.12,
+      "fin": 6.24
+    },
+    {
+      "texto": "que",
+      "inicio": 6.28,
+      "fin": 6.4
+    },
+    {
+      "texto": "practican",
+      "inicio": 6.453,
+      "fin": 6.96
+    },
+    {
+      "texto": "en",
+      "inicio": 6.987,
+      "fin": 7.04
+    },
+    {
+      "texto": "Entrenador",
+      "inicio": 7.08,
+      "fin": 7.52
+    },
+    {
+      "texto": "Docente.",
+      "inicio": 7.58,
+      "fin": 8.16
+    }
+  ]
+}

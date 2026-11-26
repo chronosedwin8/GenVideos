@@ -1,0 +1,55 @@
+{
+  "num": "05",
+  "titulo": "Cierre",
+  "texto": "Practica casos como este gratis en fundales punto com.",
+  "texto_tts": "Practica casos como este gratis en fundales punto com.",
+  "modelo": "eleven_v3",
+  "duracion": 3.68,
+  "palabras": [
+    {
+      "texto": "Practica",
+      "inicio": 0.0,
+      "fin": 0.48
+    },
+    {
+      "texto": "casos",
+      "inicio": 0.533,
+      "fin": 0.8
+    },
+    {
+      "texto": "como",
+      "inicio": 0.848,
+      "fin": 1.04
+    },
+    {
+      "texto": "este",
+      "inicio": 1.104,
+      "fin": 1.36
+    },
+    {
+      "texto": "gratis",
+      "inicio": 1.44,
+      "fin": 1.92
+    },
+    {
+      "texto": "en",
+      "inicio": 2.0,
+      "fin": 2.16
+    },
+    {
+      "texto": "fundales",
+      "inicio": 2.224,
+      "fin": 2.88
+    },
+    {
+      "texto": "punto",
+      "inicio": 2.933,
+      "fin": 3.2
+    },
+    {
+      "texto": "com.",
+      "inicio": 3.28,
+      "fin": 3.68
+    }
+  ]
+}

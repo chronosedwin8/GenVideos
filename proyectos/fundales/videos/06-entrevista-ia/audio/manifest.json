@@ -1,0 +1,672 @@
+{
+  "canal": "fundales",
+  "slug": "06-entrevista-ia",
+  "duracion_total": 49.441,
+  "pausa_entre_escenas": 0.4,
+  "escenas": [
+    {
+      "num": "01",
+      "titulo": "Gancho",
+      "audio": "escena-01.mp3",
+      "inicio": 0.0,
+      "duracion": 6.48,
+      "palabras": [
+        {
+          "texto": "¿Y",
+          "inicio": 0.06,
+          "fin": 0.08
+        },
+        {
+          "texto": "si",
+          "inicio": 0.133,
+          "fin": 0.24
+        },
+        {
+          "texto": "pudieras",
+          "inicio": 0.3,
+          "fin": 0.72
+        },
+        {
+          "texto": "practicar",
+          "inicio": 0.773,
+          "fin": 1.28
+        },
+        {
+          "texto": "tu",
+          "inicio": 1.307,
+          "fin": 1.36
+        },
+        {
+          "texto": "entrevista",
+          "inicio": 1.406,
+          "fin": 1.92
+        },
+        {
+          "texto": "docente",
+          "inicio": 1.98,
+          "fin": 2.48
+        },
+        {
+          "texto": "hablando",
+          "inicio": 2.6,
+          "fin": 3.2
+        },
+        {
+          "texto": "con",
+          "inicio": 3.24,
+          "fin": 3.36
+        },
+        {
+          "texto": "un",
+          "inicio": 3.413,
+          "fin": 3.52
+        },
+        {
+          "texto": "entrevistador",
+          "inicio": 3.566,
+          "fin": 4.24
+        },
+        {
+          "texto": "que",
+          "inicio": 4.3,
+          "fin": 4.48
+        },
+        {
+          "texto": "no",
+          "inicio": 4.56,
+          "fin": 4.72
+        },
+        {
+          "texto": "se",
+          "inicio": 4.827,
+          "fin": 5.04
+        },
+        {
+          "texto": "cansa",
+          "inicio": 5.12,
+          "fin": 5.52
+        },
+        {
+          "texto": "ni",
+          "inicio": 5.573,
+          "fin": 5.68
+        },
+        {
+          "texto": "te",
+          "inicio": 5.733,
+          "fin": 5.84
+        },
+        {
+          "texto": "juzga?",
+          "inicio": 5.88,
+          "fin": 6.48
+        }
+      ]
+    },
+    {
+      "num": "02",
+      "titulo": "Qué es",
+      "audio": "escena-02.mp3",
+      "inicio": 6.88,
+      "duracion": 15.52,
+      "palabras": [
+        {
+          "texto": "En",
+          "inicio": 0.0,
+          "fin": 0.08
+        },
+        {
+          "texto": "Entrenador",
+          "inicio": 0.14,
+          "fin": 0.72
+        },
+        {
+          "texto": "Docente,",
+          "inicio": 0.78,
+          "fin": 1.44
+        },
+        {
+          "texto": "en",
+          "inicio": 1.493,
+          "fin": 1.6
+        },
+        {
+          "texto": "fundales",
+          "inicio": 1.648,
+          "fin": 2.16
+        },
+        {
+          "texto": "punto",
+          "inicio": 2.2,
+          "fin": 2.4
+        },
+        {
+          "texto": "com,",
+          "inicio": 2.48,
+          "fin": 2.96
+        },
+        {
+          "texto": "tienes",
+          "inicio": 3.029,
+          "fin": 3.44
+        },
+        {
+          "texto": "el",
+          "inicio": 3.467,
+          "fin": 3.52
+        },
+        {
+          "texto": "simulacro",
+          "inicio": 3.573,
+          "fin": 4.08
+        },
+        {
+          "texto": "de",
+          "inicio": 4.107,
+          "fin": 4.16
+        },
+        {
+          "texto": "entrevista",
+          "inicio": 4.206,
+          "fin": 4.64
+        },
+        {
+          "texto": "con",
+          "inicio": 4.7,
+          "fin": 4.88
+        },
+        {
+          "texto": "IA.",
+          "inicio": 4.987,
+          "fin": 5.6
+        },
+        {
+          "texto": "Hablas",
+          "inicio": 5.64,
+          "fin": 5.92
+        },
+        {
+          "texto": "con",
+          "inicio": 5.96,
+          "fin": 6.08
+        },
+        {
+          "texto": "naturalidad,",
+          "inicio": 6.13,
+          "fin": 6.88
+        },
+        {
+          "texto": "como",
+          "inicio": 6.928,
+          "fin": 7.12
+        },
+        {
+          "texto": "frente",
+          "inicio": 7.166,
+          "fin": 7.44
+        },
+        {
+          "texto": "a",
+          "inicio": 7.46,
+          "fin": 7.48
+        },
+        {
+          "texto": "un",
+          "inicio": 7.493,
+          "fin": 7.52
+        },
+        {
+          "texto": "entrevistador,",
+          "inicio": 7.566,
+          "fin": 8.64
+        },
+        {
+          "texto": "y",
+          "inicio": 8.68,
+          "fin": 8.72
+        },
+        {
+          "texto": "un",
+          "inicio": 8.747,
+          "fin": 8.8
+        },
+        {
+          "texto": "agente",
+          "inicio": 8.853,
+          "fin": 9.2
+        },
+        {
+          "texto": "de",
+          "inicio": 9.227,
+          "fin": 9.28
+        },
+        {
+          "texto": "inteligencia",
+          "inicio": 9.33,
+          "fin": 9.84
+        },
+        {
+          "texto": "artificial",
+          "inicio": 9.898,
+          "fin": 10.48
+        },
+        {
+          "texto": "entrenado",
+          "inicio": 10.56,
+          "fin": 11.28
+        },
+        {
+          "texto": "para",
+          "inicio": 11.312,
+          "fin": 11.44
+        },
+        {
+          "texto": "el",
+          "inicio": 11.467,
+          "fin": 11.52
+        },
+        {
+          "texto": "contexto",
+          "inicio": 11.582,
+          "fin": 12.08
+        },
+        {
+          "texto": "educativo",
+          "inicio": 12.112,
+          "fin": 12.64
+        },
+        {
+          "texto": "evalúa",
+          "inicio": 12.784,
+          "fin": 13.52
+        },
+        {
+          "texto": "tus",
+          "inicio": 13.58,
+          "fin": 13.76
+        },
+        {
+          "texto": "respuestas",
+          "inicio": 13.808,
+          "fin": 14.4
+        },
+        {
+          "texto": "en",
+          "inicio": 14.48,
+          "fin": 14.64
+        },
+        {
+          "texto": "tiempo",
+          "inicio": 14.697,
+          "fin": 15.04
+        },
+        {
+          "texto": "real.",
+          "inicio": 15.136,
+          "fin": 15.52
+        }
+      ]
+    },
+    {
+      "num": "03",
+      "titulo": "Reglas claras",
+      "audio": "escena-03.mp3",
+      "inicio": 22.8,
+      "duracion": 10.0,
+      "palabras": [
+        {
+          "texto": "Cada",
+          "inicio": 0.0,
+          "fin": 0.16
+        },
+        {
+          "texto": "sesión",
+          "inicio": 0.229,
+          "fin": 0.64
+        },
+        {
+          "texto": "dura",
+          "inicio": 0.68,
+          "fin": 0.88
+        },
+        {
+          "texto": "hasta",
+          "inicio": 0.92,
+          "fin": 1.12
+        },
+        {
+          "texto": "ocho",
+          "inicio": 1.24,
+          "fin": 1.44
+        },
+        {
+          "texto": "minutos",
+          "inicio": 1.5,
+          "fin": 1.92
+        },
+        {
+          "texto": "y",
+          "inicio": 2.08,
+          "fin": 2.24
+        },
+        {
+          "texto": "tienes",
+          "inicio": 2.32,
+          "fin": 2.8
+        },
+        {
+          "texto": "una",
+          "inicio": 2.86,
+          "fin": 3.04
+        },
+        {
+          "texto": "por",
+          "inicio": 3.08,
+          "fin": 3.2
+        },
+        {
+          "texto": "mes.",
+          "inicio": 3.28,
+          "fin": 3.84
+        },
+        {
+          "texto": "Un",
+          "inicio": 3.893,
+          "fin": 4.0
+        },
+        {
+          "texto": "consejo:",
+          "inicio": 4.053,
+          "fin": 4.88
+        },
+        {
+          "texto": "usa",
+          "inicio": 4.96,
+          "fin": 5.2
+        },
+        {
+          "texto": "audífonos,",
+          "inicio": 5.24,
+          "fin": 5.76
+        },
+        {
+          "texto": "para",
+          "inicio": 5.792,
+          "fin": 5.92
+        },
+        {
+          "texto": "que",
+          "inicio": 5.96,
+          "fin": 6.08
+        },
+        {
+          "texto": "la",
+          "inicio": 6.107,
+          "fin": 6.16
+        },
+        {
+          "texto": "inteligencia",
+          "inicio": 6.21,
+          "fin": 6.72
+        },
+        {
+          "texto": "artificial",
+          "inicio": 6.771,
+          "fin": 7.28
+        },
+        {
+          "texto": "no",
+          "inicio": 7.413,
+          "fin": 7.68
+        },
+        {
+          "texto": "escuche",
+          "inicio": 7.74,
+          "fin": 8.16
+        },
+        {
+          "texto": "su",
+          "inicio": 8.213,
+          "fin": 8.32
+        },
+        {
+          "texto": "propia",
+          "inicio": 8.377,
+          "fin": 8.72
+        },
+        {
+          "texto": "voz",
+          "inicio": 8.8,
+          "fin": 9.04
+        },
+        {
+          "texto": "y",
+          "inicio": 9.08,
+          "fin": 9.12
+        },
+        {
+          "texto": "se",
+          "inicio": 9.173,
+          "fin": 9.28
+        },
+        {
+          "texto": "confunda.",
+          "inicio": 9.344,
+          "fin": 10.0
+        }
+      ]
+    },
+    {
+      "num": "04",
+      "titulo": "Iniciar",
+      "audio": "escena-04.mp3",
+      "inicio": 33.2,
+      "duracion": 4.641,
+      "palabras": [
+        {
+          "texto": "Tocas",
+          "inicio": 0.0,
+          "fin": 0.32
+        },
+        {
+          "texto": "Iniciar",
+          "inicio": 0.4,
+          "fin": 0.8
+        },
+        {
+          "texto": "simulacro",
+          "inicio": 0.867,
+          "fin": 1.52
+        },
+        {
+          "texto": "y",
+          "inicio": 1.72,
+          "fin": 1.92
+        },
+        {
+          "texto": "comienzas",
+          "inicio": 1.98,
+          "fin": 2.48
+        },
+        {
+          "texto": "a",
+          "inicio": 2.481,
+          "fin": 2.482
+        },
+        {
+          "texto": "practicar",
+          "inicio": 2.534,
+          "fin": 3.041
+        },
+        {
+          "texto": "tu",
+          "inicio": 3.094,
+          "fin": 3.201
+        },
+        {
+          "texto": "comunicación",
+          "inicio": 3.261,
+          "fin": 4.001
+        },
+        {
+          "texto": "oral.",
+          "inicio": 4.113,
+          "fin": 4.641
+        }
+      ]
+    },
+    {
+      "num": "05",
+      "titulo": "Cómo se obtiene",
+      "audio": "escena-05.mp3",
+      "inicio": 38.241,
+      "duracion": 6.48,
+      "palabras": [
+        {
+          "texto": "Para",
+          "inicio": 0.0,
+          "fin": 0.16
+        },
+        {
+          "texto": "tenerla,",
+          "inicio": 0.213,
+          "fin": 0.8
+        },
+        {
+          "texto": "al",
+          "inicio": 0.853,
+          "fin": 0.96
+        },
+        {
+          "texto": "elegir",
+          "inicio": 1.008,
+          "fin": 1.28
+        },
+        {
+          "texto": "tu",
+          "inicio": 1.333,
+          "fin": 1.44
+        },
+        {
+          "texto": "plan",
+          "inicio": 1.504,
+          "fin": 1.76
+        },
+        {
+          "texto": "activas",
+          "inicio": 1.827,
+          "fin": 2.32
+        },
+        {
+          "texto": "Incluir",
+          "inicio": 2.373,
+          "fin": 2.72
+        },
+        {
+          "texto": "entrenamiento",
+          "inicio": 2.766,
+          "fin": 3.36
+        },
+        {
+          "texto": "de",
+          "inicio": 3.413,
+          "fin": 3.52
+        },
+        {
+          "texto": "entrevista",
+          "inicio": 3.543,
+          "fin": 3.84
+        },
+        {
+          "texto": "con",
+          "inicio": 3.92,
+          "fin": 4.16
+        },
+        {
+          "texto": "IA:",
+          "inicio": 4.24,
+          "fin": 4.88
+        },
+        {
+          "texto": "son",
+          "inicio": 4.94,
+          "fin": 5.12
+        },
+        {
+          "texto": "doce",
+          "inicio": 5.227,
+          "fin": 5.52
+        },
+        {
+          "texto": "sesiones",
+          "inicio": 5.58,
+          "fin": 6.0
+        },
+        {
+          "texto": "al",
+          "inicio": 6.053,
+          "fin": 6.16
+        },
+        {
+          "texto": "año.",
+          "inicio": 6.24,
+          "fin": 6.48
+        }
+      ]
+    },
+    {
+      "num": "06",
+      "titulo": "Cierre",
+      "audio": "escena-06.mp3",
+      "inicio": 45.121,
+      "duracion": 3.92,
+      "palabras": [
+        {
+          "texto": "Prepárate",
+          "inicio": 0.0,
+          "fin": 0.48
+        },
+        {
+          "texto": "también",
+          "inicio": 0.53,
+          "fin": 0.88
+        },
+        {
+          "texto": "para",
+          "inicio": 0.912,
+          "fin": 1.04
+        },
+        {
+          "texto": "hablar.",
+          "inicio": 1.097,
+          "fin": 1.68
+        },
+        {
+          "texto": "Conócelo",
+          "inicio": 1.74,
+          "fin": 2.24
+        },
+        {
+          "texto": "en",
+          "inicio": 2.32,
+          "fin": 2.48
+        },
+        {
+          "texto": "fundales",
+          "inicio": 2.528,
+          "fin": 3.12
+        },
+        {
+          "texto": "punto",
+          "inicio": 3.173,
+          "fin": 3.44
+        },
+        {
+          "texto": "com.",
+          "inicio": 3.52,
+          "fin": 3.92
+        }
+      ]
+    }
+  ]
+}

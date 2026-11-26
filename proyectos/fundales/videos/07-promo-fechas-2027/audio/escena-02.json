@@ -1,0 +1,130 @@
+{
+  "num": "02",
+  "titulo": "El dato",
+  "texto": "Según el cronograma ajustado por la CNSC, las inscripciones serían a comienzos de dos mil veintisiete y las pruebas escritas en el segundo semestre.",
+  "texto_tts": "Según el cronograma ajustado por la CNSC, las inscripciones serían a comienzos de dos mil veintisiete y las pruebas escritas en el segundo semestre.",
+  "modelo": "eleven_v3",
+  "duracion": 8.4,
+  "palabras": [
+    {
+      "texto": "Según",
+      "inicio": 0.0,
+      "fin": 0.24
+    },
+    {
+      "texto": "el",
+      "inicio": 0.293,
+      "fin": 0.4
+    },
+    {
+      "texto": "cronograma",
+      "inicio": 0.448,
+      "fin": 0.96
+    },
+    {
+      "texto": "ajustado",
+      "inicio": 1.04,
+      "fin": 1.68
+    },
+    {
+      "texto": "por",
+      "inicio": 1.72,
+      "fin": 1.84
+    },
+    {
+      "texto": "la",
+      "inicio": 1.867,
+      "fin": 1.92
+    },
+    {
+      "texto": "CNSC,",
+      "inicio": 2.04,
+      "fin": 2.96
+    },
+    {
+      "texto": "las",
+      "inicio": 3.0,
+      "fin": 3.12
+    },
+    {
+      "texto": "inscripciones",
+      "inicio": 3.18,
+      "fin": 3.76
+    },
+    {
+      "texto": "serían",
+      "inicio": 3.8,
+      "fin": 4.08
+    },
+    {
+      "texto": "a",
+      "inicio": 4.12,
+      "fin": 4.16
+    },
+    {
+      "texto": "comienzos",
+      "inicio": 4.2,
+      "fin": 4.64
+    },
+    {
+      "texto": "de",
+      "inicio": 4.667,
+      "fin": 4.72
+    },
+    {
+      "texto": "dos",
+      "inicio": 4.76,
+      "fin": 4.88
+    },
+    {
+      "texto": "mil",
+      "inicio": 4.92,
+      "fin": 5.04
+    },
+    {
+      "texto": "veintisiete",
+      "inicio": 5.093,
+      "fin": 5.84
+    },
+    {
+      "texto": "y",
+      "inicio": 6.0,
+      "fin": 6.16
+    },
+    {
+      "texto": "las",
+      "inicio": 6.2,
+      "fin": 6.32
+    },
+    {
+      "texto": "pruebas",
+      "inicio": 6.347,
+      "fin": 6.64
+    },
+    {
+      "texto": "escritas",
+      "inicio": 6.697,
+      "fin": 7.12
+    },
+    {
+      "texto": "en",
+      "inicio": 7.2,
+      "fin": 7.36
+    },
+    {
+      "texto": "el",
+      "inicio": 7.387,
+      "fin": 7.44
+    },
+    {
+      "texto": "segundo",
+      "inicio": 7.49,
+      "fin": 7.84
+    },
+    {
+      "texto": "semestre.",
+      "inicio": 7.9,
+      "fin": 8.4
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "num": "05",
+  "titulo": "Cómo se obtiene",
+  "texto": "Para tenerla, al elegir tu plan activas Incluir entrenamiento de entrevista con IA: son doce sesiones al año.",
+  "texto_tts": "Para tenerla, al elegir tu plan activas Incluir entrenamiento de entrevista con IA: son doce sesiones al año.",
+  "modelo": "eleven_v3",
+  "duracion": 6.48,
+  "palabras": [
+    {
+      "texto": "Para",
+      "inicio": 0.0,
+      "fin": 0.16
+    },
+    {
+      "texto": "tenerla,",
+      "inicio": 0.213,
+      "fin": 0.8
+    },
+    {
+      "texto": "al",
+      "inicio": 0.853,
+      "fin": 0.96
+    },
+    {
+      "texto": "elegir",
+      "inicio": 1.008,
+      "fin": 1.28
+    },
+    {
+      "texto": "tu",
+      "inicio": 1.333,
+      "fin": 1.44
+    },
+    {
+      "texto": "plan",
+      "inicio": 1.504,
+      "fin": 1.76
+    },
+    {
+      "texto": "activas",
+      "inicio": 1.827,
+      "fin": 2.32
+    },
+    {
+      "texto": "Incluir",
+      "inicio": 2.373,
+      "fin": 2.72
+    },
+    {
+      "texto": "entrenamiento",
+      "inicio": 2.766,
+      "fin": 3.36
+    },
+    {
+      "texto": "de",
+      "inicio": 3.413,
+      "fin": 3.52
+    },
+    {
+      "texto": "entrevista",
+      "inicio": 3.543,
+      "fin": 3.84
+    },
+    {
+      "texto": "con",
+      "inicio": 3.92,
+      "fin": 4.16
+    },
+    {
+      "texto": "IA:",
+      "inicio": 4.24,
+      "fin": 4.88
+    },
+    {
+      "texto": "son",
+      "inicio": 4.94,
+      "fin": 5.12
+    },
+    {
+      "texto": "doce",
+      "inicio": 5.227,
+      "fin": 5.52
+    },
+    {
+      "texto": "sesiones",
+      "inicio": 5.58,
+      "fin": 6.0
+    },
+    {
+      "texto": "al",
+      "inicio": 6.053,
+      "fin": 6.16
+    },
+    {
+      "texto": "año.",
+      "inicio": 6.24,
+      "fin": 6.48
+    }
+  ]
+}

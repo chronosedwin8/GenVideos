@@ -1,0 +1,399 @@
+{
+  "canal": "fundales",
+  "slug": "10-promo-por-cargo",
+  "duracion_total": 32.08,
+  "pausa_entre_escenas": 0.4,
+  "escenas": [
+    {
+      "num": "01",
+      "titulo": "Gancho",
+      "audio": "escena-01.mp3",
+      "inicio": 0.0,
+      "duracion": 6.72,
+      "palabras": [
+        {
+          "texto": "No",
+          "inicio": 0.139,
+          "fin": 0.16
+        },
+        {
+          "texto": "es",
+          "inicio": 0.213,
+          "fin": 0.32
+        },
+        {
+          "texto": "lo",
+          "inicio": 0.347,
+          "fin": 0.4
+        },
+        {
+          "texto": "mismo",
+          "inicio": 0.48,
+          "fin": 0.88
+        },
+        {
+          "texto": "prepararte",
+          "inicio": 0.994,
+          "fin": 2.08
+        },
+        {
+          "texto": "para",
+          "inicio": 2.128,
+          "fin": 2.32
+        },
+        {
+          "texto": "docente",
+          "inicio": 2.38,
+          "fin": 2.88
+        },
+        {
+          "texto": "de",
+          "inicio": 2.933,
+          "fin": 3.04
+        },
+        {
+          "texto": "aula",
+          "inicio": 3.08,
+          "fin": 3.36
+        },
+        {
+          "texto": "que",
+          "inicio": 3.48,
+          "fin": 3.84
+        },
+        {
+          "texto": "para",
+          "inicio": 3.888,
+          "fin": 4.08
+        },
+        {
+          "texto": "rector,",
+          "inicio": 4.133,
+          "fin": 4.96
+        },
+        {
+          "texto": "coordinador",
+          "inicio": 5.0,
+          "fin": 5.68
+        },
+        {
+          "texto": "u",
+          "inicio": 5.84,
+          "fin": 6.0
+        },
+        {
+          "texto": "orientador.",
+          "inicio": 6.046,
+          "fin": 6.72
+        }
+      ]
+    },
+    {
+      "num": "02",
+      "titulo": "Personalizado",
+      "audio": "escena-02.mp3",
+      "inicio": 7.12,
+      "duracion": 15.28,
+      "palabras": [
+        {
+          "texto": "En",
+          "inicio": 0.0,
+          "fin": 0.08
+        },
+        {
+          "texto": "Entrenador",
+          "inicio": 0.12,
+          "fin": 0.56
+        },
+        {
+          "texto": "Docente",
+          "inicio": 0.64,
+          "fin": 1.2
+        },
+        {
+          "texto": "eliges",
+          "inicio": 1.264,
+          "fin": 1.68
+        },
+        {
+          "texto": "tu",
+          "inicio": 1.733,
+          "fin": 1.84
+        },
+        {
+          "texto": "cargo",
+          "inicio": 1.907,
+          "fin": 2.24
+        },
+        {
+          "texto": "y",
+          "inicio": 2.28,
+          "fin": 2.32
+        },
+        {
+          "texto": "tu",
+          "inicio": 2.373,
+          "fin": 2.48
+        },
+        {
+          "texto": "área,",
+          "inicio": 2.544,
+          "fin": 3.2
+        },
+        {
+          "texto": "y",
+          "inicio": 3.24,
+          "fin": 3.28
+        },
+        {
+          "texto": "las",
+          "inicio": 3.34,
+          "fin": 3.52
+        },
+        {
+          "texto": "preguntas",
+          "inicio": 3.568,
+          "fin": 4.16
+        },
+        {
+          "texto": "se",
+          "inicio": 4.24,
+          "fin": 4.4
+        },
+        {
+          "texto": "adaptan:",
+          "inicio": 4.467,
+          "fin": 5.36
+        },
+        {
+          "texto": "pedagogía",
+          "inicio": 5.4,
+          "fin": 6.16
+        },
+        {
+          "texto": "y",
+          "inicio": 6.24,
+          "fin": 6.32
+        },
+        {
+          "texto": "saberes",
+          "inicio": 6.4,
+          "fin": 6.8
+        },
+        {
+          "texto": "específicos",
+          "inicio": 6.86,
+          "fin": 7.52
+        },
+        {
+          "texto": "para",
+          "inicio": 7.568,
+          "fin": 7.76
+        },
+        {
+          "texto": "docentes,",
+          "inicio": 7.82,
+          "fin": 8.72
+        },
+        {
+          "texto": "gestión",
+          "inicio": 8.784,
+          "fin": 9.12
+        },
+        {
+          "texto": "directiva",
+          "inicio": 9.177,
+          "fin": 9.68
+        },
+        {
+          "texto": "y",
+          "inicio": 9.72,
+          "fin": 9.76
+        },
+        {
+          "texto": "financiera",
+          "inicio": 9.817,
+          "fin": 10.4
+        },
+        {
+          "texto": "para",
+          "inicio": 10.448,
+          "fin": 10.64
+        },
+        {
+          "texto": "rectores,",
+          "inicio": 10.704,
+          "fin": 11.6
+        },
+        {
+          "texto": "convivencia",
+          "inicio": 11.664,
+          "fin": 12.32
+        },
+        {
+          "texto": "e",
+          "inicio": 12.4,
+          "fin": 12.48
+        },
+        {
+          "texto": "inclusión",
+          "inicio": 12.549,
+          "fin": 13.12
+        },
+        {
+          "texto": "para",
+          "inicio": 13.168,
+          "fin": 13.36
+        },
+        {
+          "texto": "coordinadores",
+          "inicio": 13.41,
+          "fin": 14.16
+        },
+        {
+          "texto": "y",
+          "inicio": 14.24,
+          "fin": 14.32
+        },
+        {
+          "texto": "orientadores.",
+          "inicio": 14.377,
+          "fin": 15.28
+        }
+      ]
+    },
+    {
+      "num": "03",
+      "titulo": "Prueba social",
+      "audio": "escena-03.mp3",
+      "inicio": 22.8,
+      "duracion": 5.04,
+      "palabras": [
+        {
+          "texto": "Ya",
+          "inicio": 0.0,
+          "fin": 0.08
+        },
+        {
+          "texto": "entrenan",
+          "inicio": 0.137,
+          "fin": 0.64
+        },
+        {
+          "texto": "aquí",
+          "inicio": 0.736,
+          "fin": 1.12
+        },
+        {
+          "texto": "más",
+          "inicio": 1.18,
+          "fin": 1.36
+        },
+        {
+          "texto": "de",
+          "inicio": 1.413,
+          "fin": 1.52
+        },
+        {
+          "texto": "dos",
+          "inicio": 1.58,
+          "fin": 1.76
+        },
+        {
+          "texto": "mil",
+          "inicio": 1.86,
+          "fin": 2.16
+        },
+        {
+          "texto": "trescientos",
+          "inicio": 2.24,
+          "fin": 2.96
+        },
+        {
+          "texto": "aspirantes",
+          "inicio": 3.013,
+          "fin": 3.6
+        },
+        {
+          "texto": "de",
+          "inicio": 3.733,
+          "fin": 4.0
+        },
+        {
+          "texto": "todos",
+          "inicio": 4.04,
+          "fin": 4.24
+        },
+        {
+          "texto": "los",
+          "inicio": 4.28,
+          "fin": 4.4
+        },
+        {
+          "texto": "cargos.",
+          "inicio": 4.464,
+          "fin": 5.04
+        }
+      ]
+    },
+    {
+      "num": "04",
+      "titulo": "Cierre",
+      "audio": "escena-04.mp3",
+      "inicio": 28.24,
+      "duracion": 3.44,
+      "palabras": [
+        {
+          "texto": "Elige",
+          "inicio": 0.0,
+          "fin": 0.32
+        },
+        {
+          "texto": "tu",
+          "inicio": 0.347,
+          "fin": 0.4
+        },
+        {
+          "texto": "cargo",
+          "inicio": 0.467,
+          "fin": 0.8
+        },
+        {
+          "texto": "y",
+          "inicio": 0.88,
+          "fin": 0.96
+        },
+        {
+          "texto": "empieza",
+          "inicio": 1.0,
+          "fin": 1.36
+        },
+        {
+          "texto": "gratis",
+          "inicio": 1.44,
+          "fin": 1.92
+        },
+        {
+          "texto": "en",
+          "inicio": 2.027,
+          "fin": 2.24
+        },
+        {
+          "texto": "fundales",
+          "inicio": 2.288,
+          "fin": 2.8
+        },
+        {
+          "texto": "punto",
+          "inicio": 2.84,
+          "fin": 3.04
+        },
+        {
+          "texto": "com.",
+          "inicio": 3.12,
+          "fin": 3.44
+        }
+      ]
+    }
+  ]
+}

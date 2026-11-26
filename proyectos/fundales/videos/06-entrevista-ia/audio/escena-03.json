@@ -1,0 +1,150 @@
+{
+  "num": "03",
+  "titulo": "Reglas claras",
+  "texto": "Cada sesión dura hasta ocho minutos y tienes una por mes. Un consejo: usa audífonos, para que la inteligencia artificial no escuche su propia voz y se confunda.",
+  "texto_tts": "Cada sesión dura hasta ocho minutos y tienes una por mes. Un consejo: usa audífonos, para que la inteligencia artificial no escuche su propia voz y se confunda.",
+  "modelo": "eleven_v3",
+  "duracion": 10.0,
+  "palabras": [
+    {
+      "texto": "Cada",
+      "inicio": 0.0,
+      "fin": 0.16
+    },
+    {
+      "texto": "sesión",
+      "inicio": 0.229,
+      "fin": 0.64
+    },
+    {
+      "texto": "dura",
+      "inicio": 0.68,
+      "fin": 0.88
+    },
+    {
+      "texto": "hasta",
+      "inicio": 0.92,
+      "fin": 1.12
+    },
+    {
+      "texto": "ocho",
+      "inicio": 1.24,
+      "fin": 1.44
+    },
+    {
+      "texto": "minutos",
+      "inicio": 1.5,
+      "fin": 1.92
+    },
+    {
+      "texto": "y",
+      "inicio": 2.08,
+      "fin": 2.24
+    },
+    {
+      "texto": "tienes",
+      "inicio": 2.32,
+      "fin": 2.8
+    },
+    {
+      "texto": "una",
+      "inicio": 2.86,
+      "fin": 3.04
+    },
+    {
+      "texto": "por",
+      "inicio": 3.08,
+      "fin": 3.2
+    },
+    {
+      "texto": "mes.",
+      "inicio": 3.28,
+      "fin": 3.84
+    },
+    {
+      "texto": "Un",
+      "inicio": 3.893,
+      "fin": 4.0
+    },
+    {
+      "texto": "consejo:",
+      "inicio": 4.053,
+      "fin": 4.88
+    },
+    {
+      "texto": "usa",
+      "inicio": 4.96,
+      "fin": 5.2
+    },
+    {
+      "texto": "audífonos,",
+      "inicio": 5.24,
+      "fin": 5.76
+    },
+    {
+      "texto": "para",
+      "inicio": 5.792,
+      "fin": 5.92
+    },
+    {
+      "texto": "que",
+      "inicio": 5.96,
+      "fin": 6.08
+    },
+    {
+      "texto": "la",
+      "inicio": 6.107,
+      "fin": 6.16
+    },
+    {
+      "texto": "inteligencia",
+      "inicio": 6.21,
+      "fin": 6.72
+    },
+    {
+      "texto": "artificial",
+      "inicio": 6.771,
+      "fin": 7.28
+    },
+    {
+      "texto": "no",
+      "inicio": 7.413,
+      "fin": 7.68
+    },
+    {
+      "texto": "escuche",
+      "inicio": 7.74,
+      "fin": 8.16
+    },
+    {
+      "texto": "su",
+      "inicio": 8.213,
+      "fin": 8.32
+    },
+    {
+      "texto": "propia",
+      "inicio": 8.377,
+      "fin": 8.72
+    },
+    {
+      "texto": "voz",
+      "inicio": 8.8,
+      "fin": 9.04
+    },
+    {
+      "texto": "y",
+      "inicio": 9.08,
+      "fin": 9.12
+    },
+    {
+      "texto": "se",
+      "inicio": 9.173,
+      "fin": 9.28
+    },
+    {
+      "texto": "confunda.",
+      "inicio": 9.344,
+      "fin": 10.0
+    }
+  ]
+}

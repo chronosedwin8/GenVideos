@@ -1,0 +1,60 @@
+{
+  "num": "04",
+  "titulo": "Cierre",
+  "texto": "Y antes de pagar, pruébalo gratis en fundales punto com.",
+  "texto_tts": "Y antes de pagar, pruébalo gratis en fundales punto com.",
+  "modelo": "eleven_v3",
+  "duracion": 3.68,
+  "palabras": [
+    {
+      "texto": "Y",
+      "inicio": 0.0,
+      "fin": 0.16
+    },
+    {
+      "texto": "antes",
+      "inicio": 0.2,
+      "fin": 0.4
+    },
+    {
+      "texto": "de",
+      "inicio": 0.453,
+      "fin": 0.56
+    },
+    {
+      "texto": "pagar,",
+      "inicio": 0.613,
+      "fin": 1.04
+    },
+    {
+      "texto": "pruébalo",
+      "inicio": 1.093,
+      "fin": 1.52
+    },
+    {
+      "texto": "gratis",
+      "inicio": 1.589,
+      "fin": 2.0
+    },
+    {
+      "texto": "en",
+      "inicio": 2.053,
+      "fin": 2.16
+    },
+    {
+      "texto": "fundales",
+      "inicio": 2.224,
+      "fin": 2.8
+    },
+    {
+      "texto": "punto",
+      "inicio": 2.84,
+      "fin": 3.04
+    },
+    {
+      "texto": "com.",
+      "inicio": 3.12,
+      "fin": 3.68
+    }
+  ]
+}

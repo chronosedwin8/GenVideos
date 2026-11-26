@@ -1,0 +1,170 @@
+{
+  "num": "04",
+  "titulo": "Asistente Legal IA",
+  "texto": "Y si tienes una duda, se la preguntas al Asistente Legal IA. Eliges una norma, escribes tu pregunta en tus palabras y te responde al instante, en el contexto de esa norma.",
+  "texto_tts": "Y si tienes una duda, se la preguntas al Asistente Legal IA. Eliges una norma, escribes tu pregunta en tus palabras y te responde al instante, en el contexto de esa norma.",
+  "modelo": "eleven_v3",
+  "duracion": 10.8,
+  "palabras": [
+    {
+      "texto": "Y",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "si",
+      "inicio": 0.133,
+      "fin": 0.24
+    },
+    {
+      "texto": "tienes",
+      "inicio": 0.286,
+      "fin": 0.56
+    },
+    {
+      "texto": "una",
+      "inicio": 0.6,
+      "fin": 0.72
+    },
+    {
+      "texto": "duda,",
+      "inicio": 0.76,
+      "fin": 1.28
+    },
+    {
+      "texto": "se",
+      "inicio": 1.333,
+      "fin": 1.44
+    },
+    {
+      "texto": "la",
+      "inicio": 1.467,
+      "fin": 1.52
+    },
+    {
+      "texto": "preguntas",
+      "inicio": 1.568,
+      "fin": 2.08
+    },
+    {
+      "texto": "al",
+      "inicio": 2.107,
+      "fin": 2.16
+    },
+    {
+      "texto": "Asistente",
+      "inicio": 2.213,
+      "fin": 2.8
+    },
+    {
+      "texto": "Legal",
+      "inicio": 2.88,
+      "fin": 3.28
+    },
+    {
+      "texto": "IA.",
+      "inicio": 3.44,
+      "fin": 3.84
+    },
+    {
+      "texto": "Eliges",
+      "inicio": 4.027,
+      "fin": 4.64
+    },
+    {
+      "texto": "una",
+      "inicio": 4.68,
+      "fin": 4.8
+    },
+    {
+      "texto": "norma,",
+      "inicio": 4.864,
+      "fin": 5.28
+    },
+    {
+      "texto": "escribes",
+      "inicio": 5.36,
+      "fin": 5.76
+    },
+    {
+      "texto": "tu",
+      "inicio": 5.813,
+      "fin": 5.92
+    },
+    {
+      "texto": "pregunta",
+      "inicio": 5.956,
+      "fin": 6.24
+    },
+    {
+      "texto": "en",
+      "inicio": 6.293,
+      "fin": 6.4
+    },
+    {
+      "texto": "tus",
+      "inicio": 6.42,
+      "fin": 6.48
+    },
+    {
+      "texto": "palabras",
+      "inicio": 6.542,
+      "fin": 7.04
+    },
+    {
+      "texto": "y",
+      "inicio": 7.24,
+      "fin": 7.44
+    },
+    {
+      "texto": "te",
+      "inicio": 7.467,
+      "fin": 7.52
+    },
+    {
+      "texto": "responde",
+      "inicio": 7.6,
+      "fin": 8.24
+    },
+    {
+      "texto": "al",
+      "inicio": 8.293,
+      "fin": 8.4
+    },
+    {
+      "texto": "instante,",
+      "inicio": 8.448,
+      "fin": 9.04
+    },
+    {
+      "texto": "en",
+      "inicio": 9.093,
+      "fin": 9.2
+    },
+    {
+      "texto": "el",
+      "inicio": 9.253,
+      "fin": 9.36
+    },
+    {
+      "texto": "contexto",
+      "inicio": 9.431,
+      "fin": 10.0
+    },
+    {
+      "texto": "de",
+      "inicio": 10.053,
+      "fin": 10.16
+    },
+    {
+      "texto": "esa",
+      "inicio": 10.22,
+      "fin": 10.4
+    },
+    {
+      "texto": "norma.",
+      "inicio": 10.448,
+      "fin": 10.8
+    }
+  ]
+}

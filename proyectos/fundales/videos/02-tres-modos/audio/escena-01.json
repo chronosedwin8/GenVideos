@@ -1,0 +1,165 @@
+{
+  "num": "01",
+  "titulo": "Gancho",
+  "texto": "Si siempre estudias de la misma forma para el concurso docente, estás perdiendo tiempo. En Entrenador Docente, en fundales punto com, tienes tres modos, y cada uno sirve para algo distinto.",
+  "texto_tts": "[confident] Si siempre estudias de la misma forma para el concurso docente, estás perdiendo tiempo. En Entrenador Docente, en fundales punto com, tienes tres modos, y cada uno sirve para algo distinto.",
+  "modelo": "eleven_v3",
+  "duracion": 11.12,
+  "palabras": [
+    {
+      "texto": "Si",
+      "inicio": 0.139,
+      "fin": 0.16
+    },
+    {
+      "texto": "siempre",
+      "inicio": 0.21,
+      "fin": 0.56
+    },
+    {
+      "texto": "estudias",
+      "inicio": 0.6,
+      "fin": 0.88
+    },
+    {
+      "texto": "de",
+      "inicio": 0.907,
+      "fin": 0.96
+    },
+    {
+      "texto": "la",
+      "inicio": 1.013,
+      "fin": 1.12
+    },
+    {
+      "texto": "misma",
+      "inicio": 1.173,
+      "fin": 1.44
+    },
+    {
+      "texto": "forma",
+      "inicio": 1.493,
+      "fin": 1.76
+    },
+    {
+      "texto": "para",
+      "inicio": 1.808,
+      "fin": 2.0
+    },
+    {
+      "texto": "el",
+      "inicio": 2.027,
+      "fin": 2.08
+    },
+    {
+      "texto": "concurso",
+      "inicio": 2.12,
+      "fin": 2.48
+    },
+    {
+      "texto": "docente,",
+      "inicio": 2.56,
+      "fin": 3.28
+    },
+    {
+      "texto": "estás",
+      "inicio": 3.34,
+      "fin": 3.68
+    },
+    {
+      "texto": "perdiendo",
+      "inicio": 3.72,
+      "fin": 4.08
+    },
+    {
+      "texto": "tiempo.",
+      "inicio": 4.137,
+      "fin": 4.88
+    },
+    {
+      "texto": "En",
+      "inicio": 4.907,
+      "fin": 4.96
+    },
+    {
+      "texto": "Entrenador",
+      "inicio": 5.02,
+      "fin": 5.52
+    },
+    {
+      "texto": "Docente,",
+      "inicio": 5.6,
+      "fin": 6.24
+    },
+    {
+      "texto": "en",
+      "inicio": 6.267,
+      "fin": 6.32
+    },
+    {
+      "texto": "fundales",
+      "inicio": 6.384,
+      "fin": 6.96
+    },
+    {
+      "texto": "punto",
+      "inicio": 7.0,
+      "fin": 7.2
+    },
+    {
+      "texto": "com,",
+      "inicio": 7.26,
+      "fin": 7.76
+    },
+    {
+      "texto": "tienes",
+      "inicio": 7.817,
+      "fin": 8.16
+    },
+    {
+      "texto": "tres",
+      "inicio": 8.208,
+      "fin": 8.4
+    },
+    {
+      "texto": "modos,",
+      "inicio": 8.48,
+      "fin": 8.96
+    },
+    {
+      "texto": "y",
+      "inicio": 9.0,
+      "fin": 9.04
+    },
+    {
+      "texto": "cada",
+      "inicio": 9.104,
+      "fin": 9.36
+    },
+    {
+      "texto": "uno",
+      "inicio": 9.42,
+      "fin": 9.6
+    },
+    {
+      "texto": "sirve",
+      "inicio": 9.66,
+      "fin": 10.0
+    },
+    {
+      "texto": "para",
+      "inicio": 10.048,
+      "fin": 10.24
+    },
+    {
+      "texto": "algo",
+      "inicio": 10.288,
+      "fin": 10.48
+    },
+    {
+      "texto": "distinto.",
+      "inicio": 10.528,
+      "fin": 11.12
+    }
+  ]
+}

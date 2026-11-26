@@ -1,0 +1,85 @@
+{
+  "num": "01",
+  "titulo": "Gancho",
+  "texto": "No es lo mismo prepararte para docente de aula que para rector, coordinador u orientador.",
+  "texto_tts": "[confident] No es lo mismo prepararte para docente de aula que para rector, coordinador u orientador.",
+  "modelo": "eleven_v3",
+  "duracion": 6.72,
+  "palabras": [
+    {
+      "texto": "No",
+      "inicio": 0.139,
+      "fin": 0.16
+    },
+    {
+      "texto": "es",
+      "inicio": 0.213,
+      "fin": 0.32
+    },
+    {
+      "texto": "lo",
+      "inicio": 0.347,
+      "fin": 0.4
+    },
+    {
+      "texto": "mismo",
+      "inicio": 0.48,
+      "fin": 0.88
+    },
+    {
+      "texto": "prepararte",
+      "inicio": 0.994,
+      "fin": 2.08
+    },
+    {
+      "texto": "para",
+      "inicio": 2.128,
+      "fin": 2.32
+    },
+    {
+      "texto": "docente",
+      "inicio": 2.38,
+      "fin": 2.88
+    },
+    {
+      "texto": "de",
+      "inicio": 2.933,
+      "fin": 3.04
+    },
+    {
+      "texto": "aula",
+      "inicio": 3.08,
+      "fin": 3.36
+    },
+    {
+      "texto": "que",
+      "inicio": 3.48,
+      "fin": 3.84
+    },
+    {
+      "texto": "para",
+      "inicio": 3.888,
+      "fin": 4.08
+    },
+    {
+      "texto": "rector,",
+      "inicio": 4.133,
+      "fin": 4.96
+    },
+    {
+      "texto": "coordinador",
+      "inicio": 5.0,
+      "fin": 5.68
+    },
+    {
+      "texto": "u",
+      "inicio": 5.84,
+      "fin": 6.0
+    },
+    {
+      "texto": "orientador.",
+      "inicio": 6.046,
+      "fin": 6.72
+    }
+  ]
+}

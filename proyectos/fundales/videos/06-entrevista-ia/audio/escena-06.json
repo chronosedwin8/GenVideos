@@ -1,0 +1,55 @@
+{
+  "num": "06",
+  "titulo": "Cierre",
+  "texto": "Prepárate también para hablar. Conócelo en fundales punto com.",
+  "texto_tts": "Prepárate también para hablar. Conócelo en fundales punto com.",
+  "modelo": "eleven_v3",
+  "duracion": 3.92,
+  "palabras": [
+    {
+      "texto": "Prepárate",
+      "inicio": 0.0,
+      "fin": 0.48
+    },
+    {
+      "texto": "también",
+      "inicio": 0.53,
+      "fin": 0.88
+    },
+    {
+      "texto": "para",
+      "inicio": 0.912,
+      "fin": 1.04
+    },
+    {
+      "texto": "hablar.",
+      "inicio": 1.097,
+      "fin": 1.68
+    },
+    {
+      "texto": "Conócelo",
+      "inicio": 1.74,
+      "fin": 2.24
+    },
+    {
+      "texto": "en",
+      "inicio": 2.32,
+      "fin": 2.48
+    },
+    {
+      "texto": "fundales",
+      "inicio": 2.528,
+      "fin": 3.12
+    },
+    {
+      "texto": "punto",
+      "inicio": 3.173,
+      "fin": 3.44
+    },
+    {
+      "texto": "com.",
+      "inicio": 3.52,
+      "fin": 3.92
+    }
+  ]
+}

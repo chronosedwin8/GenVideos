@@ -1,0 +1,60 @@
+{
+  "num": "06",
+  "titulo": "Cierre",
+  "texto": "Mide tu avance real desde hoy en fundales punto com.",
+  "texto_tts": "Mide tu avance real desde hoy en fundales punto com.",
+  "modelo": "eleven_v3",
+  "duracion": 3.28,
+  "palabras": [
+    {
+      "texto": "Mide",
+      "inicio": 0.0,
+      "fin": 0.24
+    },
+    {
+      "texto": "tu",
+      "inicio": 0.293,
+      "fin": 0.4
+    },
+    {
+      "texto": "avance",
+      "inicio": 0.427,
+      "fin": 0.64
+    },
+    {
+      "texto": "real",
+      "inicio": 0.704,
+      "fin": 0.96
+    },
+    {
+      "texto": "desde",
+      "inicio": 1.027,
+      "fin": 1.36
+    },
+    {
+      "texto": "hoy",
+      "inicio": 1.44,
+      "fin": 1.68
+    },
+    {
+      "texto": "en",
+      "inicio": 1.733,
+      "fin": 1.84
+    },
+    {
+      "texto": "fundales",
+      "inicio": 1.904,
+      "fin": 2.48
+    },
+    {
+      "texto": "punto",
+      "inicio": 2.533,
+      "fin": 2.8
+    },
+    {
+      "texto": "com.",
+      "inicio": 2.88,
+      "fin": 3.28
+    }
+  ]
+}

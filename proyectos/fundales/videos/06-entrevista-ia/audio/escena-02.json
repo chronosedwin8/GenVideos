@@ -1,0 +1,205 @@
+{
+  "num": "02",
+  "titulo": "Qué es",
+  "texto": "En Entrenador Docente, en fundales punto com, tienes el simulacro de entrevista con IA. Hablas con naturalidad, como frente a un entrevistador, y un agente de inteligencia artificial entrenado para el contexto educativo evalúa tus respuestas en tiempo real.",
+  "texto_tts": "En Entrenador Docente, en fundales punto com, tienes el simulacro de entrevista con IA. Hablas con naturalidad, como frente a un entrevistador, y un agente de inteligencia artificial entrenado para el contexto educativo evalúa tus respuestas en tiempo real.",
+  "modelo": "eleven_v3",
+  "duracion": 15.52,
+  "palabras": [
+    {
+      "texto": "En",
+      "inicio": 0.0,
+      "fin": 0.08
+    },
+    {
+      "texto": "Entrenador",
+      "inicio": 0.14,
+      "fin": 0.72
+    },
+    {
+      "texto": "Docente,",
+      "inicio": 0.78,
+      "fin": 1.44
+    },
+    {
+      "texto": "en",
+      "inicio": 1.493,
+      "fin": 1.6
+    },
+    {
+      "texto": "fundales",
+      "inicio": 1.648,
+      "fin": 2.16
+    },
+    {
+      "texto": "punto",
+      "inicio": 2.2,
+      "fin": 2.4
+    },
+    {
+      "texto": "com,",
+      "inicio": 2.48,
+      "fin": 2.96
+    },
+    {
+      "texto": "tienes",
+      "inicio": 3.029,
+      "fin": 3.44
+    },
+    {
+      "texto": "el",
+      "inicio": 3.467,
+      "fin": 3.52
+    },
+    {
+      "texto": "simulacro",
+      "inicio": 3.573,
+      "fin": 4.08
+    },
+    {
+      "texto": "de",
+      "inicio": 4.107,
+      "fin": 4.16
+    },
+    {
+      "texto": "entrevista",
+      "inicio": 4.206,
+      "fin": 4.64
+    },
+    {
+      "texto": "con",
+      "inicio": 4.7,
+      "fin": 4.88
+    },
+    {
+      "texto": "IA.",
+      "inicio": 4.987,
+      "fin": 5.6
+    },
+    {
+      "texto": "Hablas",
+      "inicio": 5.64,
+      "fin": 5.92
+    },
+    {
+      "texto": "con",
+      "inicio": 5.96,
+      "fin": 6.08
+    },
+    {
+      "texto": "naturalidad,",
+      "inicio": 6.13,
+      "fin": 6.88
+    },
+    {
+      "texto": "como",
+      "inicio": 6.928,
+      "fin": 7.12
+    },
+    {
+      "texto": "frente",
+      "inicio": 7.166,
+      "fin": 7.44
+    },
+    {
+      "texto": "a",
+      "inicio": 7.46,
+      "fin": 7.48
+    },
+    {
+      "texto": "un",
+      "inicio": 7.493,
+      "fin": 7.52
+    },
+    {
+      "texto": "entrevistador,",
+      "inicio": 7.566,
+      "fin": 8.64
+    },
+    {
+      "texto": "y",
+      "inicio": 8.68,
+      "fin": 8.72
+    },
+    {
+      "texto": "un",
+      "inicio": 8.747,
+      "fin": 8.8
+    },
+    {
+      "texto": "agente",
+      "inicio": 8.853,
+      "fin": 9.2
+    },
+    {
+      "texto": "de",
+      "inicio": 9.227,
+      "fin": 9.28
+    },
+    {
+      "texto": "inteligencia",
+      "inicio": 9.33,
+      "fin": 9.84
+    },
+    {
+      "texto": "artificial",
+      "inicio": 9.898,
+      "fin": 10.48
+    },
+    {
+      "texto": "entrenado",
+      "inicio": 10.56,
+      "fin": 11.28
+    },
+    {
+      "texto": "para",
+      "inicio": 11.312,
+      "fin": 11.44
+    },
+    {
+      "texto": "el",
+      "inicio": 11.467,
+      "fin": 11.52
+    },
+    {
+      "texto": "contexto",
+      "inicio": 11.582,
+      "fin": 12.08
+    },
+    {
+      "texto": "educativo",
+      "inicio": 12.112,
+      "fin": 12.64
+    },
+    {
+      "texto": "evalúa",
+      "inicio": 12.784,
+      "fin": 13.52
+    },
+    {
+      "texto": "tus",
+      "inicio": 13.58,
+      "fin": 13.76
+    },
+    {
+      "texto": "respuestas",
+      "inicio": 13.808,
+      "fin": 14.4
+    },
+    {
+      "texto": "en",
+      "inicio": 14.48,
+      "fin": 14.64
+    },
+    {
+      "texto": "tiempo",
+      "inicio": 14.697,
+      "fin": 15.04
+    },
+    {
+      "texto": "real.",
+      "inicio": 15.136,
+      "fin": 15.52
+    }
+  ]
+}
