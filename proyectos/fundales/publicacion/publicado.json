@@ -1,0 +1,79 @@
+{
+  "07-promo-fechas-2027": {
+    "ok": true,
+    "video_id": "29496181463399140",
+    "estado": "SCHEDULED",
+    "programado": "2026-11-28 19:00",
+    "fecha": "2026-11-28 19:00"
+  },
+  "01-primer-simulacro": {
+    "ok": true,
+    "video_id": "1863320238422470",
+    "estado": "SCHEDULED",
+    "programado": "2026-12-01 19:00",
+    "fecha": "2026-12-01 19:00"
+  },
+  "08-promo-plan-gratis": {
+    "ok": true,
+    "video_id": "1955063582569566",
+    "estado": "SCHEDULED",
+    "programado": "2026-12-03 19:00",
+    "fecha": "2026-12-03 19:00"
+  },
+  "02-tres-modos": {
+    "ok": true,
+    "video_id": "1863563834667148",
+    "estado": "SCHEDULED",
+    "programado": "2026-12-05 19:00",
+    "fecha": "2026-12-05 19:00"
+  },
+  "12-promo-quiz-situacional": {
+    "ok": true,
+    "video_id": "1657007188924704",
+    "estado": "SCHEDULED",
+    "programado": "2026-12-08 19:00",
+    "fecha": "2026-12-08 19:00"
+  },
+  "03-resultados-estadisticas": {
+    "ok": true,
+    "video_id": "970572212546846",
+    "estado": "SCHEDULED",
+    "programado": "2026-12-10 19:00",
+    "fecha": "2026-12-10 19:00"
+  },
+  "10-promo-por-cargo": {
+    "ok": true,
+    "video_id": "1194169256623790",
+    "estado": "SCHEDULED",
+    "programado": "2026-12-12 19:00",
+    "fecha": "2026-12-12 19:00"
+  },
+  "05-normativa-asistente-legal": {
+    "ok": true,
+    "video_id": "2373706566735507",
+    "estado": "SCHEDULED",
+    "programado": "2026-12-15 19:00",
+    "fecha": "2026-12-15 19:00"
+  },
+  "11-promo-matematicas": {
+    "ok": true,
+    "video_id": "1148672797656928",
+    "estado": "SCHEDULED",
+    "programado": "2026-12-17 19:00",
+    "fecha": "2026-12-17 19:00"
+  },
+  "04-coach-ia": {
+    "ok": true,
+    "video_id": "2162820184320946",
+    "estado": "SCHEDULED",
+    "programado": "2026-12-19 19:00",
+    "fecha": "2026-12-19 19:00"
+  },
+  "09-promo-planes-precios": {
+    "ok": true,
+    "video_id": "1847180566420792",
+    "estado": "SCHEDULED",
+    "programado": "2026-12-22 19:00",
+    "fecha": "2026-12-22 19:00"
+  }
+}

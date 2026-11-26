@@ -13,6 +13,14 @@ declare(strict_types=1);
  * Salida: una línea JSON {"ok":true,"video_id":"…","estado":"PUBLISHED|SCHEDULED","programado":"…"}.
  */
 
+// Nunca mostrar argumentos (el token) en trazas de error.
+ini_set('zend.exception_ignore_args', '1');
+ini_set('display_errors', '0');
+set_exception_handler(function (Throwable $e): void {
+    fwrite(STDERR, App\Services\Social\MetaClient::scrub(get_class($e) . ': ' . $e->getMessage()) . PHP_EOL);
+    exit(1);
+});
+
 const PROYECTO_FB = 'C:/xampp/htdocs/edwinortizNET';
 const PAGINA = 'Fundales.com';
 
@@ -45,6 +53,21 @@ $api = MetaClient::graph();
 if (in_array('--check', $args, true)) {
     $p = $api->get($pagina, ['fields' => 'id,name,link,fan_count,followers_count'], $token);
     echo json_encode(['ok' => true, 'pagina' => $p['name'] ?? '', 'id' => $p['id'] ?? '', 'seguidores' => $p['followers_count'] ?? null, 'me_gusta' => $p['fan_count'] ?? null], JSON_UNESCAPED_UNICODE) . PHP_EOL;
+    exit(0);
+}
+
+$iEstado = array_search('--estado', $args, true);
+if ($iEstado !== false) {
+    $v = $api->get((string) ($args[$iEstado + 1] ?? ''), ['fields' => 'id,status,scheduled_publish_time,permalink_url,length'], $token);
+    $prog = $v['scheduled_publish_time'] ?? null;
+    echo json_encode([
+        'ok' => true,
+        'id' => $v['id'] ?? '',
+        'estado' => $v['status']['video_status'] ?? null,
+        'publicacion' => $v['status']['publishing_phase']['status'] ?? null,
+        'programado' => $prog ? (new DateTime(is_numeric($prog) ? '@' . $prog : (string) $prog))->setTimezone(new DateTimeZone('America/Bogota'))->format('Y-m-d H:i') : null,
+        'duracion' => $v['length'] ?? null,
+    ], JSON_UNESCAPED_UNICODE) . PHP_EOL;
     exit(0);
 }
 
